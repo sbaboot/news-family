@@ -7,10 +7,10 @@ sebastien:
     label: "Monde"
     max_items: 10
     feeds:
-      - url: "http://feeds.bbci.co.uk/news/world/rss.xml"
-        source: "BBC World"
       - url: "https://www.france24.com/fr/rss"
         source: "France 24"
+      - url: "https://www.rfi.fr/fr/monde/rss"
+        source: "RFI"
       - url: "https://www.courrierinternational.com/feed/rubrique/une.rss"
         source: "Courrier International"
       - url: "https://www.lemonde.fr/international/rss_full.xml"
@@ -20,8 +20,6 @@ sebastien:
     label: "Canada"
     max_items: 10
     feeds:
-      - url: "https://www.cbc.ca/webfeed/rss/rss-topstories"
-        source: "CBC News"
       - url: "http://rss.radio-canada.ca/fils/nouvelles/national.xml"
         source: "Radio-Canada"
       - url: "http://rss.radio-canada.ca/fils/nouvelles/nouvelles.xml"
@@ -55,32 +53,26 @@ sebastien:
     label: "Veille technologique"
     max_items: 12
     feeds:
-      - url: "https://techcrunch.com/feed/"
-        source: "TechCrunch"
-      - url: "https://www.theverge.com/rss/index.xml"
-        source: "The Verge"
-      - url: "https://feeds.arstechnica.com/arstechnica/index"
-        source: "Ars Technica"
-      - url: "https://hnrss.org/frontpage"
-        source: "Hacker News"
       - url: "https://www.numerama.com/feed/"
         source: "Numerama"
       - url: "https://next.ink/feed/"
         source: "Next"
+      - url: "https://www.frandroid.com/feed"
+        source: "Frandroid"
+      - url: "https://www.clubic.com/feed/news.rss"
+        source: "Clubic"
 
 noemie:
   bien_etre:
     label: "Bien-etre"
     max_items: 10
     feeds:
-      - url: "https://www.mindful.org/feed/"
-        source: "Mindful"
-      - url: "https://www.elephantjournal.com/feed/"
-        source: "Elephant Journal"
       - url: "https://www.passeportsante.net/fr/Actualites/rss.aspx"
         source: "Passeport Sante"
       - url: "https://www.topsante.com/rss/une.xml"
         source: "Top Sante"
+      - url: "https://www.doctissimo.fr/rss/une.xml"
+        source: "Doctissimo"
 
   sejour_bien_etre:
     label: "Sejour bien-etre"
@@ -108,15 +100,11 @@ noemie:
 
   noemie_pool:
     feeds:
-      - url: "https://www.mindful.org/feed/"
-        source: "Mindful"
-      - url: "https://www.elephantjournal.com/feed/"
-        source: "Elephant Journal"
-      - url: "https://www.yogajournal.com/feed/"
-        source: "Yoga Journal"
-      - url: "https://www.lionsroar.com/feed/"
-        source: "Lion's Roar"
       - url: "https://www.passeportsante.net/fr/Actualites/rss.aspx"
         source: "Passeport Sante"
       - url: "https://www.topsante.com/rss/une.xml"
         source: "Top Sante"
+      - url: "https://www.doctissimo.fr/rss/une.xml"
+        source: "Doctissimo"
+      - url: "https://www.slate.fr/rss.xml"
+        source: "Slate.fr"

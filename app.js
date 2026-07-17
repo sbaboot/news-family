@@ -1,6 +1,6 @@
 (function () {
   const DATA_URL = "data/news.json";
-  const state = { data: null, activeTab: "sebastien" };
+  const state = { data: null, activeTab: "noemie" };
 
   const contentEl = document.getElementById("content");
   const lastUpdatedEl = document.getElementById("last-updated");
