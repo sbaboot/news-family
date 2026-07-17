@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Briefing quotidien</title>
+<meta name="description" content="Actualité quotidienne personnalisée — mise à jour automatique.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>📰 Briefing quotidien</h1>
+      <p class="last-updated" id="last-updated">Chargement…</p>
+    </div>
+    <nav class="tabs" id="tabs" role="tablist">
+      <button class="tab-btn active" data-tab="sebastien" role="tab" aria-selected="true">Sébastien</button>
+      <button class="tab-btn" data-tab="noemie" role="tab" aria-selected="false">Noémie</button>
+    </nav>
+  </header>
+
+  <main id="content">
+    <div class="loading" id="loading">Chargement des actualités…</div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Généré automatiquement à partir de flux RSS publics · <a href="https://github.com" id="repo-link">voir le code</a></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

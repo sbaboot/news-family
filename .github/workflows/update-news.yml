@@ -1,0 +1,40 @@
+name: Mise à jour des actualités
+
+on:
+  schedule:
+    # Toutes les 3 heures. Modifie ce cron si tu veux une autre frequence.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      - name: Recuperer les actualites
+        run: python3 scripts/fetch_news.py
+
+      - name: Commit et push si data/news.json a change
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: mise a jour automatique des actualites"
+          file_pattern: "data/news.json"
+          commit_user_name: "briefing-bot"
+          commit_user_email: "actions@github.com"

@@ -1,0 +1,122 @@
+# Configuration des flux RSS utilises par scripts/fetch_news.py
+# Tu peux ajouter/retirer des flux ici sans toucher au code.
+# "max_items" = nombre d'articles gardes par section dans le JSON final.
+
+sebastien:
+  monde:
+    label: "Monde"
+    max_items: 10
+    feeds:
+      - url: "http://feeds.bbci.co.uk/news/world/rss.xml"
+        source: "BBC World"
+      - url: "https://www.france24.com/fr/rss"
+        source: "France 24"
+      - url: "https://www.courrierinternational.com/feed/rubrique/une.rss"
+        source: "Courrier International"
+      - url: "https://www.lemonde.fr/international/rss_full.xml"
+        source: "Le Monde"
+
+  canada:
+    label: "Canada"
+    max_items: 10
+    feeds:
+      - url: "https://www.cbc.ca/webfeed/rss/rss-topstories"
+        source: "CBC News"
+      - url: "http://rss.radio-canada.ca/fils/nouvelles/national.xml"
+        source: "Radio-Canada"
+      - url: "http://rss.radio-canada.ca/fils/nouvelles/nouvelles.xml"
+        source: "Radio-Canada (grands titres)"
+
+  quebec:
+    label: "Quebec"
+    max_items: 10
+    feeds:
+      - url: "https://www.ledevoir.com/rss/manchettes.xml"
+        source: "Le Devoir"
+      - url: "https://www.journaldemontreal.com/rss.xml"
+        source: "Journal de Montreal"
+      - url: "https://www.lapresse.ca/manchettes/rss"
+        source: "La Presse"
+
+  france:
+    label: "France"
+    max_items: 10
+    feeds:
+      - url: "https://www.lemonde.fr/rss/une.xml"
+        source: "Le Monde"
+      - url: "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+        source: "Le Figaro"
+      - url: "https://www.francetvinfo.fr/titres.rss"
+        source: "France Info"
+      - url: "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml"
+        source: "Liberation"
+
+  tech:
+    label: "Veille technologique"
+    max_items: 12
+    feeds:
+      - url: "https://techcrunch.com/feed/"
+        source: "TechCrunch"
+      - url: "https://www.theverge.com/rss/index.xml"
+        source: "The Verge"
+      - url: "https://feeds.arstechnica.com/arstechnica/index"
+        source: "Ars Technica"
+      - url: "https://hnrss.org/frontpage"
+        source: "Hacker News"
+      - url: "https://www.numerama.com/feed/"
+        source: "Numerama"
+      - url: "https://next.ink/feed/"
+        source: "Next"
+
+noemie:
+  bien_etre:
+    label: "Bien-etre"
+    max_items: 10
+    feeds:
+      - url: "https://www.mindful.org/feed/"
+        source: "Mindful"
+      - url: "https://www.elephantjournal.com/feed/"
+        source: "Elephant Journal"
+      - url: "https://www.passeportsante.net/fr/Actualites/rss.aspx"
+        source: "Passeport Sante"
+      - url: "https://www.topsante.com/rss/une.xml"
+        source: "Top Sante"
+
+  sejour_bien_etre:
+    label: "Sejour bien-etre"
+    max_items: 8
+    use_pool: "noemie_pool"
+    keywords: ["séjour", "sejour", "spa", "thalasso", "cure", "voyage bien-être", "retreat", "escapade"]
+
+  retraite_spirituelle:
+    label: "Retraite spirituelle"
+    max_items: 8
+    use_pool: "noemie_pool"
+    keywords: ["retraite spirituelle", "spiritual retreat", "méditation", "meditation", "silence", "monastère", "bouddh", "pleine conscience", "mindfulness retreat"]
+
+  retraite_yoga:
+    label: "Retraite yoga"
+    max_items: 8
+    use_pool: "noemie_pool"
+    keywords: ["retraite yoga", "yoga retreat", "yoga", "ashram"]
+
+  deconnexion:
+    label: "Deconnexion"
+    max_items: 8
+    use_pool: "noemie_pool"
+    keywords: ["déconnexion", "deconnexion", "digital detox", "détox numérique", "detox numerique", "sans écran", "offline", "slow life", "ralentir"]
+
+  noemie_pool:
+    feeds:
+      - url: "https://www.mindful.org/feed/"
+        source: "Mindful"
+      - url: "https://www.elephantjournal.com/feed/"
+        source: "Elephant Journal"
+      - url: "https://www.yogajournal.com/feed/"
+        source: "Yoga Journal"
+      - url: "https://www.lionsroar.com/feed/"
+        source: "Lion's Roar"
+      - url: "https://www.passeportsante.net/fr/Actualites/rss.aspx"
+        source: "Passeport Sante"
+      - url: "https://www.topsante.com/rss/une.xml"
+        source: "Top Sante"

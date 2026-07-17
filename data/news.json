@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-07-17T13:33:02.367653+00:00",
+  "sebastien": {
+    "monde": {
+      "label": "Monde",
+      "items": []
+    },
+    "canada": {
+      "label": "Canada",
+      "items": []
+    },
+    "quebec": {
+      "label": "Quebec",
+      "items": []
+    },
+    "france": {
+      "label": "France",
+      "items": []
+    },
+    "tech": {
+      "label": "Veille technologique",
+      "items": []
+    }
+  },
+  "noemie": {
+    "bien_etre": {
+      "label": "Bien-etre",
+      "items": []
+    },
+    "sejour_bien_etre": {
+      "label": "Sejour bien-etre",
+      "items": []
+    },
+    "retraite_spirituelle": {
+      "label": "Retraite spirituelle",
+      "items": []
+    },
+    "retraite_yoga": {
+      "label": "Retraite yoga",
+      "items": []
+    },
+    "deconnexion": {
+      "label": "Deconnexion",
+      "items": []
+    }
+  }
+}
