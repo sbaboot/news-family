@@ -1,15 +1,64 @@
 {
-  "generated_at": "2026-07-18T02:23:46.480720+00:00",
+  "generated_at": "2026-07-18T05:25:04.849845+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : trois morts et huit blessés lors de frappes américaines dans le sud de l’Iran, selon les autorités iraniennes",
-          "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-trois-morts-et-huit-blesses-lors-de-frappes-americaines-dans-le-sud-de-l-iran-selon-les-autorites-iraniennes_6722873_3210.html",
+          "title": "En direct : l'Iran menace de lancer une \"offensive totale\" après une septième nuit de frappes",
+          "link": "https://www.france24.com/fr/moyen-orient/20260718-en-direct-iran-menace-offensive-totale-septieme-nuit-frappes-etats-unis-guerre",
+          "source": "France 24",
+          "summary": "Les États-Unis ont bombardé l'Iran pour la septième nuit consécutive samedi et Téhéran a une nouvelle fois riposté en frappant des cibles en Jordanie, au Koweït et à Bahreïn, tout en menaçant de passer à une \"offensive…",
+          "published": "2026-07-18T05:03:08+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : sept morts et vingt-quatre blessés après une attaque de drone en Russie, selon les autorités locales",
+          "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-sept-morts-et-vingt-quatre-blesses-apres-une-attaque-de-drone-en-russie-selon-les-autorites-locales_6722853_3210.html",
           "source": "Le Monde",
-          "summary": "L’armée américaine a annoncé dans la soirée de vendredi avoir lancé « une nouvelle série de frappes contre l’Iran pour la septième nuit d’affilée ».",
-          "published": "2026-07-17T23:59:35+00:00"
+          "summary": "Dans la nuit de vendredi à samedi, plus de 370 drones ont également été lancés en direction de la région de Moscou, a annoncé le maire de la capitale russe, Sergueï Sobianine, affirmant que « la plupart » avaient été…",
+          "published": "2026-07-18T04:51:24+00:00"
+        },
+        {
+          "title": "Aux rendez-vous des rescapés d’attentats : « Ici, les gens ont envie de se dire les uns aux autres, “je suis vivant” »",
+          "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/18/aux-rendez-vous-des-rescapes-d-attentats-ici-les-gens-ont-envie-de-se-dire-les-uns-aux-autres-je-suis-vivant_6724359_4500055.html",
+          "source": "Le Monde",
+          "summary": "Pendant le procès du 13-Novembre, en 2021, des rescapés et proches de victimes se retrouvent dans un bar pour se réconforter après des journées d’audience éprouvantes. Depuis, rejoints par des survivants d’autres…",
+          "published": "2026-07-18T04:00:48+00:00"
+        },
+        {
+          "title": "Le philosophe Herbert Marcuse a-t-il aidé la CIA ? Aux Etats-Unis, la gauche intellectuelle marxiste se déchire",
+          "link": "https://www.lemonde.fr/idees/article/2026/07/18/le-philosophe-herbert-marcuse-a-t-il-aide-la-cia-aux-etats-unis-la-gauche-intellectuelle-marxiste-se-dechire_6724353_3232.html",
+          "source": "Le Monde",
+          "summary": "Un livre relance la polémique sur les liens de l’icône de Mai 68 avec le renseignement américain. Si le philosophe révolutionnaire a bien travaillé pour le gouvernement des Etats-Unis pendant la guerre, sa…",
+          "published": "2026-07-18T04:00:31+00:00"
+        },
+        {
+          "title": "Frontex continue sa mission en Grèce, malgré de graves violations des droits des migrants",
+          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/18/frontex-continue-sa-mission-en-grece-malgre-de-graves-violations-des-droits-des-migrants_6724350_4355770.html",
+          "source": "Le Monde",
+          "summary": "Combien de temps Frontex tolérera-t-elle les violations croissantes des droits des migrants en Grèce ? Une enquête du « Monde » documente les multiples alertes adressées par le Bureau des droits fondamentaux de l’agence…",
+          "published": "2026-07-18T04:00:14+00:00"
+        },
+        {
+          "title": "Séismes au Venezuela : le bilan dépasse les 5 000 morts, le FMI débloque 346 millions de dollars pour la reconstruction",
+          "link": "https://www.lemonde.fr/international/article/2026/07/18/seismes-au-venezuela-le-bilan-depasse-les-5-000-morts-le-fmi-debloque-346-millions-de-dollars-pour-la-reconstruction_6724348_3210.html",
+          "source": "Le Monde",
+          "summary": "Les fonds permettront notamment « de soutenir les familles » touchées par la catastrophe « en matière de logement, d’infrastructures, de services publics essentiels », a précisé, vendredi, la présidente par intérim,…",
+          "published": "2026-07-18T03:43:36+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a frappé des infrastructures militaires et des dépôts d’armes souterrains en Iran",
+          "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-frappe-des-infrastructures-militaires-et-des-depots-d-armes-souterrains-en-iran_6722873_3210.html",
+          "source": "Le Monde",
+          "summary": "L’Iran a fait état de trois morts lors de frappes américaines dans le sud du pays et a répliqué ; l’armée jordanienne affirme avoir intercepté dix missiles ; le Bahreïn et le Koweït ont aussi été ciblés par Téhéran.",
+          "published": "2026-07-18T03:13:36+00:00"
+        },
+        {
+          "title": "Entre la Chine et les Etats-Unis, une nouvelle diplomatie des détenus",
+          "link": "https://www.lemonde.fr/international/article/2026/07/18/entre-la-chine-et-les-etats-unis-une-nouvelle-diplomatie-des-detenus_6724313_3210.html",
+          "source": "Le Monde",
+          "summary": "En parallèle des sujets de fond discutés entre les deux premières puissances mondiales, le cas de ressortissants américains emprisonnés pour espionnage en Chine constitue également un outil de négociation.",
+          "published": "2026-07-18T03:00:31+00:00"
         },
         {
           "title": "Macky Sall à Dakar en quête du soutien de Diomaye Faye pour sa candidature à l'ONU",
@@ -24,55 +73,6 @@
           "source": "Le Monde",
           "summary": "Dans la région de New York, où doit se disputer dimanche la finale du Mondial entre l’Espagne et l’Argentine, la qualité de l’air s’est améliorée depuis jeudi, mais reste jugée dangereuse pour les personnes à risque.",
           "published": "2026-07-17T22:52:40+00:00"
-        },
-        {
-          "title": "Boeing autorisé à délivrer à nouveau les certificats de navigabilité de ses modèles 737 et 787 Dreamliner après un feu vert de la FAA",
-          "link": "https://www.lemonde.fr/economie/article/2026/07/18/boeing-autorise-a-delivrer-a-nouveau-les-certificats-de-navigabilite-de-ses-modeles-737-et-787-dreamliner-apres-un-feu-vert-de-la-faa_6724241_3234.html",
-          "source": "Le Monde",
-          "summary": "Le constructeur aéronautique retrouve ainsi la confiance du régulateur américain pour la certification de ses appareils.",
-          "published": "2026-07-17T22:45:53+00:00"
-        },
-        {
-          "title": "Finale du mondial 2026 : Roja contre Albiceleste, qui soutenir ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20260717-finale-du-mondial-2026-roja-contre-albiceleste-qui-soutenir",
-          "source": "France 24",
-          "summary": "Qui les supporters français doivent-ils soutenir? L'Espagne qui a fait tomber les bleus en demi-finale ? Ou l'Argentine qui les a privés de la 3ème étoile il y a 4 ans? On en parle avec notre invité Adel Bentaha,…",
-          "published": "2026-07-17T22:43:12+00:00"
-        },
-        {
-          "title": "Le «bleisure», l'avenir du voyage d'affaires",
-          "link": "https://www.rfi.fr/fr/podcasts/chronique-transports/20260717-%C3%A0-la-une-en-turquie-la-tentative-de-putsch-dans-la-m%C3%A9moire-collective-dix-ans-apr%C3%A8s",
-          "source": "RFI",
-          "summary": "Le monde est en vacances d'été. Mais au lieu d'un voyage retour pour leur rentrée, des salariés choisissent de reprendre le travail sur leur lieu de vacances. Cette tendance se pratique aussi à l'envers : quand les…",
-          "published": "2026-07-17T22:21:44+00:00"
-        },
-        {
-          "title": "Les résultats de l'édition 2026 du baromètre de l'association Français du Monde-ADFE",
-          "link": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20260717-les-r%C3%A9sultats-de-l-%C3%A9dition-2026-du-barom%C3%A8tre-de-l-association-fran%C3%A7ais-du-monde-adfe",
-          "source": "RFI",
-          "summary": "Les résultats du quatrième baromètre de l’association Français du Monde-ADFE sont publiés. Organisée tous les deux ans, cette enquête aide à comprendre les préoccupations des Français établis hors de France. Deux…",
-          "published": "2026-07-17T22:12:32+00:00"
-        },
-        {
-          "title": "Visite éclair pour Macky Sall qui sollicite l'appui du Sénégal pour sa candidature à l'ONU",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260717-visite-%C3%A9clair-pour-macky-sall-qui-sollicite-l-appui-du-s%C3%A9n%C3%A9gal-pour-sa-candidature-%C3%A0-l-onu",
-          "source": "France 24",
-          "summary": "L'ancien Président sénégalais Macky Sall de retour au Sénégal. Accueilli par ses partisans à son arrivée à l'aéroport de Dakar, Il a été reçu par la suite par le Président Diomaye Faye. Macky est candidat au poste de…",
-          "published": "2026-07-17T22:02:15+00:00"
-        },
-        {
-          "title": "L’attente solitaire et désespérée de Blaise Compaoré, l’ancien président burkinabé, dans sa villa ivoirienne",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/17/l-attente-solitaire-et-desesperee-de-blaise-compaore-l-ancien-president-burkinabe-dans-sa-villa-ivoirienne_6724240_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Chefs d’Etat africains en exil » (6/6). Détrôné par une insurrection populaire en 2014, après vingt-sept années au pouvoir, le président burkinabé a fui en Côte d’Ivoire avec l’aide de la France. Condamné à la prison…",
-          "published": "2026-07-17T21:30:07+00:00"
-        },
-        {
-          "title": "En Ukraine, deuxième journée de manifestations contre l'éviction du ministre de la Défense",
-          "link": "https://www.france24.com/fr/europe/20260717-ukraine-deuxi%C3%A8me-journ%C3%A9e-manifestations-%C3%A9viction-ministre-d%C3%A9fense-zelensky-guerre",
-          "source": "France 24",
-          "summary": "Des milliers de personnes ont manifesté vendredi à Kiev contre l'éviction du ministre de la Défense Mykhaïlo Fedorov, décidée la veille par le président Volodymyr Zelensky. Populaire auprès de la population et apprécié…",
-          "published": "2026-07-17T20:43:13+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Transport aérien régional | Avenir incertain pour les billets subventionnés",
-          "link": "https://www.lapresse.ca/affaires/2026-07-17/transport-aerien-regional/avenir-incertain-pour-les-billets-subventionnes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Cela fait maintenant plus de quatre ans que les billets à prix réduit sont dans le paysage du transport aérien régional. Même s’il y a eu des avancées au chapitre des prix, il y a encore bien des enjeux à régler aux…",
-          "published": "2026-07-17T23:45:00+00:00"
-        },
-        {
-          "title": "Êtes-vous drones ou feux d’artifice ?",
-          "link": "https://www.lapresse.ca/arts/chroniques/2026-07-17/etes-vous-drones-ou-feux-d-artifice.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’été que nous vivons marque un point de bascule pour les spectacles de drones. Ils ont pris beaucoup de place lors du 250e anniversaire des États-Unis. En France, où la canicule a forcé l’annulation de nombreux feux…",
-          "published": "2026-07-17T23:30:00+00:00"
-        },
-        {
-          "title": "Laurentides | Trois personnes, dont un enfant, meurent dans une collision",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-17/laurentides/trois-personnes-dont-un-enfant-meurent-dans-une-collision.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Trois personnes sont mortes vendredi soir alors qu’une automobiliste a tenté de contourner par la gauche un véhicule tournant à droite sur une route des Laurentides. Une analyse est en cours pour déterminer si des…",
-          "published": "2026-07-17T23:07:42+00:00"
-        },
-        {
-          "title": "Maîtrise espagnole contre impétuosité argentine; une opposition de styles en finale",
-          "link": "https://www.ledevoir.com/sports/995675/maitrise-espagnole-contre-impetuosite-argentine-opposition-styles-finale",
+          "title": "La Coupe du monde n’a pas eu le succès escompté pour tous à Vancouver",
+          "link": "https://www.ledevoir.com/economie/995606/coupe-monde-pas-eu-succes-escompte-tous-vancouver",
           "source": "Le Devoir",
-          "summary": "Les deux équipes, qui totalisent quatre trophées de champions, s’affronteront dimanche près de New York.",
-          "published": "2026-07-17T22:55:33+00:00"
+          "summary": "Des commerçants estiment que la Ville n’a pas tenu ses promesses en matière de retombées économiques.",
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
-          "title": "Entre les stations Panama et gare Centrale | Reprise du service du REM après une interruption de plus de trois heures",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-17/entre-les-stations-panama-et-gare-centrale/reprise-du-service-du-rem-apres-une-interruption-de-plus-de-trois-heures.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une interruption de service a débuté à 16 h 48 vendredi et a duré plus de 3 h sur le Réseau express métropolitain (REM) entre les stations Panama et gare Centrale. L’opérateur du train tente de comprendre la cause du…",
-          "published": "2026-07-17T22:52:06+00:00"
-        },
-        {
-          "title": "Amnesty critique le centre pour victimes de violences sexuelles de J.K. Rowling",
-          "link": "https://www.ledevoir.com/monde/europe/995666/amnesty-critique-centre-victimes-violences-sexuelles-j-k-rowling",
+          "title": "La sardine en conserve, nouvelle star des réseaux sociaux et des poissonneries québécoises",
+          "link": "https://www.ledevoir.com/economie/consommation/995612/sardine-conserve-nouvelle-star-reseaux-sociaux-poissonneries-quebecoises",
           "source": "Le Devoir",
-          "summary": "Les avocats de Beira’s Place ont accusé l’association de défense des droits humains de diffamation.",
-          "published": "2026-07-17T21:59:05+00:00"
+          "summary": "Les ventes s’envolent, portées par les jeunes qui découvrent les bienfaits des sardines sur TikTok et Instagram.",
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
-          "title": "Un vieux stade qui sera remis au goût du jour",
-          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/995663/vieux-stade-sera-remis-gout-jour",
+          "title": "Des best-sellers à colorier",
+          "link": "https://www.ledevoir.com/lire/995609/best-sellers-colorier",
           "source": "Le Devoir",
-          "summary": "Québec ne veut pas encore dévoiler d’estimation des coûts et compte sur le privé pour réduire sa propre facture.",
-          "published": "2026-07-17T21:51:00+00:00"
+          "summary": "Les albums de «cozy coloriage» pour adultes gagnent en popularité au Québec et ailleurs.",
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
-          "title": "Du 19 juillet au 1er août | Place aux vacances pour les travailleurs de la construction",
-          "link": "https://www.lapresse.ca/actualites/2026-07-17/du-19-juillet-au-1er-aout/place-aux-vacances-pour-les-travailleurs-de-la-construction.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Seule une poignée de travailleurs étaient encore présents vendredi midi sur le chantier UTILE Des Carrières, dans Le Plateau-Mont-Royal, à Montréal. La machinerie était à l’arrêt et les derniers travailleurs se…",
-          "published": "2026-07-17T21:34:59+00:00"
-        },
-        {
-          "title": "Nominations de dernière minute à la tête de l’État",
-          "link": "https://www.ledevoir.com/politique/quebec/995654/nominations-derniere-minute-tete-etat",
+          "title": "Nous aurons les enfants que nous voulons",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/995705/nous-aurons-enfants-nous-voulons",
           "source": "Le Devoir",
-          "summary": "Le mandat de la p.-d.g. d’Investissement Québec Bich-Trang Ngo renouvelé avant son terme",
-          "published": "2026-07-17T20:57:29+00:00"
+          "summary": "Le 10 décembre 1976, ce n’est pas une vie qui a changé, c’est un horizon qui s’est élargi.",
+          "published": "2026-07-18T04:00:00+00:00"
         },
         {
-          "title": "Une pédiatre française clouée chez elle, faute de permis de travail",
-          "link": "https://www.ledevoir.com/actualites/immigration/995630/pediatre-francaise-clouee-elle-faute-permis-travail",
+          "title": "Quoi voir sur vos écrans cette fin de semaine?",
+          "link": "https://www.ledevoir.com/culture/cinema/995672/quoi-voir-ecrans-cette-fin-semaine",
           "source": "Le Devoir",
-          "summary": "Médecin à Saint-Jérôme, Marie-Aline Sauvage a dû cesser de pratiquer parce qu’IRCC a refusé de renouveler son statut.",
-          "published": "2026-07-17T20:14:00+00:00"
+          "summary": "Une sélection de nos critiques pour guider vos visionnages du week-end.",
+          "published": "2026-07-18T04:00:00+00:00"
+        },
+        {
+          "title": "Le Québec, royaume de la piscine privée",
+          "link": "https://www.ledevoir.com/actualites/environnement/995597/quebec-royaume-piscine-privee",
+          "source": "Le Devoir",
+          "summary": "Il y en aurait plus d’un demi-million sur le territoire québécois, soit une pour quatre ménages propriétaires.",
+          "published": "2026-07-18T04:00:00+00:00"
+        },
+        {
+          "title": "Les grenouilles s’attrapent à la passoire",
+          "link": "https://www.ledevoir.com/opinion/chroniques/995558/grenouilles-attrapent-passoire",
+          "source": "Le Devoir",
+          "summary": "Être à cinq dans un petit chalet sans eau courante n’est pas le rêve de leurs 15 ans, mais je m’en fous.",
+          "published": "2026-07-18T04:00:00+00:00"
+        },
+        {
+          "title": "Arménie, le poids du temps",
+          "link": "https://www.ledevoir.com/monde/asie/995591/armenie-poids-temps",
+          "source": "Le Devoir",
+          "summary": "L’Arménie vit, submergée, débordée, emportée par le temps. Elle est son passé, son présent et son avenir, incertain.",
+          "published": "2026-07-18T04:00:00+00:00"
+        },
+        {
+          "title": "Steven Guilbeault lance une mise en garde contre les projets de GNL comme celui de Marinvest Energy",
+          "link": "https://www.ledevoir.com/actualites/environnement/995648/steven-guilbeault-lance-mise-garde-contre-projets-gnl-comme-celui-marinvest-energy",
+          "source": "Le Devoir",
+          "summary": "«L’avenir n’est pas dans les combustibles fossiles», affirme l’ancien ministre fédéral de l’Environnement.",
+          "published": "2026-07-18T04:00:00+00:00"
+        },
+        {
+          "title": "Du bon et du mauvais usage selon Vaugelas",
+          "link": "https://www.ledevoir.com/opinion/idees/995603/bon-mauvais-usage-selon-vaugelas",
+          "source": "Le Devoir",
+          "summary": "Associé à une vision puriste de la langue, le grammairien était capable d’analyses nuancées.",
+          "published": "2026-07-18T04:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "Emmanuel et Brigitte Macron, places à 2000 euros... La folie BTS s’empare du Stade de France",
-          "link": "https://www.lefigaro.fr/musique/emmanuel-et-brigitte-macron-places-a-2000-euros-la-folie-bts-s-empare-du-stade-de-france-20260718",
+          "title": "La nouvelle vie d’un parchemin médiéval de 34 mètres de long qui raconte un pan de l’histoire lyonnaise",
+          "link": "https://www.lefigaro.fr/lyon/la-nouvelle-vie-d-un-parchemin-medieval-de-34-metres-de-long-qui-raconte-un-pan-de-l-histoire-lyonnaise-20260718",
           "source": "Le Figaro",
-          "summary": "NOUS Y ÉTIONS - Le groupe de K-pop sud-coréen a donné vendredi soir son premier concert en France depuis 2019. Le Chef de l’État et 88.000 autres personnes ont assisté à cette grande célébration.",
-          "published": "2026-07-18T00:15:04+00:00"
+          "summary": "RÉCIT - En septembre, les archives départementales du Rhône exposeront le cartulaire-rouleau de l’abbaye de l’île Barbe, le plus long parchemin de ce type en France, qui documente les possessions médiévales du puissant…",
+          "published": "2026-07-18T05:14:00+00:00"
         },
         {
-          "title": "Espagne-Argentine : «Ne pas tomber dans la provocation», Rodri se méfie du comportement de l’Albiceleste",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/espagne-argentine-ne-pas-tomber-dans-la-provocation-rodri-se-mefie-du-comportement-de-l-albiceleste-20260718",
+          "title": "Rugby : «On est soudé comme une vraie famille», l’énorme défi des Bleuets en quête d’une quatrième couronne mondiale",
+          "link": "https://www.lefigaro.fr/sports/rugby/rugby-on-est-soude-comme-une-vraie-famille-l-enorme-defi-des-bleuets-en-quete-d-une-quatrieme-couronne-mondiale-20260718",
           "source": "Le Figaro",
-          "summary": "Le capitaine de la sélection espagnole a fait le point à deux jours de la finale contre l’Argentine, dimanche, à New York.",
-          "published": "2026-07-17T22:03:15+00:00"
+          "summary": "Présente en finale pour la cinquième fois lors des six dernières Coupes du monde, l’équipe de France des moins de 20 ans défie l’Afrique du Sud, tenante du titre, ce samedi (18h30), pour remporter le titre mondial. Un…",
+          "published": "2026-07-18T05:10:00+00:00"
         },
         {
-          "title": "«Viols filmés» en milieu libertin : cinq hommes supplémentaires mis en examen, 19 au total",
-          "link": "https://www.lefigaro.fr/flash-actu/viols-filmes-en-milieu-libertin-cinq-hommes-supplementaires-mis-en-examen-19-au-total-20260717",
+          "title": "Guerre au Moyen-Orient : les Etats-Unis bombardent l'Iran pour la septième nuit consécutive",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-bombardent-l-iran-pour-la-septieme-nuit-consecutive_8112626.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les frappes ont fait des morts et des blessés, selon l'agence Irna. Téhéran a menacé de passer à une \"offensive totale\" sur les frappes se poursuivaient encore deux à trois jours.",
+          "published": "2026-07-18T05:04:37+00:00"
+        },
+        {
+          "title": "Liège, Bruxelles, Anvers, des \"villes en déclin\" : quel phénomène se cache derrière ces vidéos virales qui montrent \"le cauchemar belge\" ?",
+          "link": "https://www.franceinfo.fr/monde/europe/liege-bruxelles-anvers-des-villes-en-declin-quel-phenomene-se-cache-derriere-ces-videos-virales-qui-montrent-le-cauchemar-belge_8111711.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Depuis plusieurs années, des youtubeurs tournent des vidéos dans des villes européennes pour dénoncer le \"déclin de l'Occident\" et \"l'immigration illégale\". En allant filmer dans des quartiers particulièrement…",
+          "published": "2026-07-18T05:00:02+00:00"
+        },
+        {
+          "title": "Découvrez le vrai classement des prénoms les plus donnés en France",
+          "link": "https://www.lefigaro.fr/actualite-france/decouvrez-le-vrai-classement-des-prenoms-les-plus-donnes-en-france-20260718",
           "source": "Le Figaro",
-          "summary": "L’affaire a débuté en 2023 lorsque l’une des victimes a déposé plainte contre son ex-conjoint, né en 1969, dénonçant «des viols collectifs commis par son compagnon et des hommes qu’il invitait».",
-          "published": "2026-07-17T21:57:04+00:00"
+          "summary": "FIG DATA - Et si le classement des prénoms les plus donnés était faussé par les différentes orthographes ? En regroupant les variantes d’un même prénom, Le Figaro révèle le véritable palmarès des prénoms préférés des…",
+          "published": "2026-07-18T05:00:00+00:00"
         },
         {
-          "title": "Six départements du Sud-Est en vigilance orange canicule, le département des Alpes-Maritimes en alerte orange à partir de samedi midi",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/six-departements-du-sud-est-en-vigilance-orange-canicule-le-departement-des-alpes-maritimes-en-alerte-orange-a-partir-de-samedi-midi_8112380.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Vendredi soir, l'Ardèche, la Drôme, le Vaucluse et le département des Alpes-de-Haute-Provence sont passés en vigilance jaune canicule, précise Météo-France.",
-          "published": "2026-07-17T21:56:24+00:00"
-        },
-        {
-          "title": "Incendies : comment préparer les forêts de demain ?",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendies-comment-preparer-les-forets-de-demain_8112305.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Combien de temps faudra-t-il avant de retrouver le visage des forêts brûlées ? Des scientifiques se penchent sur le futur.",
-          "published": "2026-07-17T21:45:44+00:00"
-        },
-        {
-          "title": "Au Soudan, la situation humanitaire empire à El-Obeid, alerte l'ONU",
-          "link": "https://www.franceinfo.fr/monde/afrique/soudan/au-soudan-la-situation-humanitaire-empire-a-el-obeid-alerte-l-onu_8112371.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Nœud stratégique, la ville soudanaise d'El-Obeid est encerclée depuis des mois par les paramilitaires des Forces de soutien rapide (FSR).",
-          "published": "2026-07-17T21:30:03+00:00"
-        },
-        {
-          "title": "«Cédric aurait pu parler bien avant» : l’oncle de Delphine Jubillar se confie au Figaro après la découverte des ossements",
-          "link": "https://www.lefigaro.fr/faits-divers/cedric-aurait-pu-parler-bien-avant-l-oncle-de-delphine-jubillar-se-confie-au-figaro-apres-la-decouverte-des-ossements-20260717",
+          "title": "France-Angleterre : offrir à Didier Deschamps une dernière danse",
+          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-angleterre-offrir-a-didier-deschamps-une-derniere-danse-20260718",
           "source": "Le Figaro",
-          "summary": "TÉMOIGNAGE - Après cinq ans et demi d’attente, la découverte d’ossements ravive la douleur de la famille de Delphine Jubillar. Son oncle se confie pour la première fois, entre sidération, colère et besoin impérieux de…",
-          "published": "2026-07-17T21:29:33+00:00"
+          "summary": "Dans un match sens enjeu, les Bleus veulent s’imposer contre l’Angleterre pour ce qui sera la dernière sortie du sélectionneur après quatorze ans de règne.",
+          "published": "2026-07-18T05:00:00+00:00"
         },
         {
-          "title": "Au Venezuela, le bilan du double séisme dépasse désormais les 5 000 morts",
-          "link": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-le-bilan-du-double-seisme-depasse-desormais-les-5-000-morts_8112368.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Depuis les deux tremblements de terre du 24 juin, les autorités n'évoquent pas le nombre des disparus. L'ONU avait estimé qu'il pouvait atteindre jusqu'à 50 000 le surlendemain du drame.",
-          "published": "2026-07-17T21:27:33+00:00"
+          "title": "Départ en vacances : la check-list indispensable pour protéger votre logement pendant votre absence",
+          "link": "https://www.lefigaro.fr/maison/depart-en-vacances-la-check-list-indispensable-pour-proteger-votre-logement-pendant-votre-absence-20260718",
+          "source": "Le Figaro",
+          "summary": "Le top départ des vacances estivales est officiellement lancé. L’occasion de déconnecter, mais gare aux négligences avant de partir. Certains «petits» oublis peuvent occasionner de grands soucis. Partez l’esprit…",
+          "published": "2026-07-18T05:00:00+00:00"
         },
         {
-          "title": "\"Au début, il ne savait pas comment le tenir…\" : les coulisses de la photo de Lionel Messi baignant Lamine Yamal bébé",
-          "link": "https://www.franceinfo.fr/sports/foot/au-debut-il-ne-savait-pas-comment-tenir-le-bebe-les-coulisses-de-la-photo-de-lionel-messi-baignant-lamine-yamal-bebe_8112356.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "À deux jours de la finale de la Coupe du monde, une photo est en train de faire le tour du monde sur les réseaux sociaux : elle date d’il y a quelques années et elle concerne une légende et un prodige… Le \"20 Heures\"…",
-          "published": "2026-07-17T21:25:03+00:00"
+          "title": "Britney Spears vs Justin Timberlake, une revanche à pleins tubes",
+          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/britney-spears-vs-justin-timberlake-une-revanche-a-pleins-tubes-20260718_VRD5GJYFNNFY3EANMEGQYTBYII/",
+          "source": "Liberation",
+          "summary": "Quand les deux enfants stars de la pop rompent en 2002, le chanteur n’hésite pas à régler ses comptes en musique et à livrer son ex-compagne à la vindicte misogyne du public et des médias. Jusqu’à ce que celle-ci…",
+          "published": "2026-07-18T05:00:00+00:00"
         },
         {
-          "title": "Bernard Cazeneuve échangera avec François Hollande lors d'un colloque à Paris le 4 septembre",
-          "link": "https://www.franceinfo.fr/politique/bernard-cazeneuve-echangera-avec-francois-hollande-lors-d-un-colloque-a-paris-le-4-septembre_8112230.html#xtor=RSS-3-[lestitres]",
+          "title": "Loi d'urgence agricole : \"Chaque député va être mis devant ses responsabilités\", prévient la députée LFI Aurélie Trouvé",
+          "link": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/loi-d-urgence-agricole-chaque-depute-va-etre-mis-devant-ses-responsabilites-previent-la-deputee-lfi-aurelie-trouve_8112587.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Xavier Bertrand, potentiel candidat à l'Elysée, devrait être présent, et la venue d'Edouard Philippe ou de l'un de ses représentants est également attendue, a appris franceinfo.",
-          "published": "2026-07-17T21:12:48+00:00"
+          "summary": "Alors que la loi d'urgence agricole va être soumise à un ultime vote au Parlement en début de semaine, après un compromis trouvé en commission mixte paritaire, l'insoumise fait état d'\"un immense rejet par la population…",
+          "published": "2026-07-18T04:46:36+00:00"
+        },
+        {
+          "title": "Au coeur du Mondial : finir sur un dernier sourire et réussir la sortie de Deschamps",
+          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/au-coeur-du-mondial-finir-sur-un-dernier-sourire-et-reussir-la-sortie-de-deschamps-20260718",
+          "source": "Le Figaro",
+          "summary": "Dans un match sans enjeu contre l’Angleterre, les Bleus auront à coeur de l’emporter pour la dernière du sélectionneur.",
+          "published": "2026-07-18T04:46:34+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Fin du changement d’heure aux USA, lunettes d’éclipse non certifiées et treizième vol du Starship – le récap’ sciences de la semaine",
+          "link": "https://www.numerama.com/sciences/2297007-fin-du-changement-dheure-aux-usa-lunettes-declipse-non-certifiees-et-treizieme-vol-du-starship-le-recap-sciences-de-la-semaine.html",
+          "source": "Numerama",
+          "summary": "Les États-Unis sur le point d'en finir avec le changement d'heure, pendant que l'Europe est bloquée ; des lunettes d'éclipse non certifiées en vente en France un mois avant l'événement du 12 août 2026 ; de vrais…",
+          "published": "2026-07-18T05:10:00+00:00"
+        },
         {
           "title": "Apple Music augmente ses prix en France : jusqu’à 3 euros de plus par mois selon les formules",
           "link": "https://www.frandroid.com/services/3184639_apple-music-augmente-ses-prix-en-france-jusqua-3-euros-de-plus-par-mois-selon-les-formules",
@@ -309,13 +316,6 @@
           "source": "Frandroid",
           "summary": "Avec son autonomie de huit heures, l'Elipson Lenny peut animer une petite soirée entre amis à prix réduit puisqu'elle est actuellement disponible pour 49 euros au lieu de 299 euros.",
           "published": "2026-07-17T15:52:00+00:00"
-        },
-        {
-          "title": "Galaxy Z Fold 8, Z Flip 8 et Z Fold 8 Ultra : les visuels marketing ont fuité avant l’Unpacked",
-          "link": "https://www.frandroid.com/marques/samsung/3184477_galaxy-z-fold-8-z-flip-8-et-z-fold-8-ultra-les-visuels-marketing-ont-fuite-avant-lunpacked",
-          "source": "Frandroid",
-          "summary": "À quelques jours de la conférence Galaxy Unpacked, Evleaks a diffusé les éléments promotionnels des trois pliables de Samsung. On y découvre surtout les configurations photo de chaque modèle, ainsi que le format élargi…",
-          "published": "2026-07-17T15:40:29+00:00"
         }
       ]
     }
