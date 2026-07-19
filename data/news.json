@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-07-19T19:04:07.055104+00:00",
+  "generated_at": "2026-07-19T21:51:29.421323+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Septembre 2026 : une rentrée politique sous tension",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-septembre-2026-une-rentr%C3%A9e-politique-sous-tension",
+          "source": "France 24",
+          "summary": "Au menu de L'Essentiel politique : les députés au travail avec le vote de la loi d’urgence pour la protection agricole, une rentrée à venir sous tension avec le budget 2027 et le débat sur l'interdiction du voile en…",
+          "published": "2026-07-19T21:30:48+00:00"
+        },
+        {
+          "title": "Niger : Une attaque jihadiste dans la zone des «trois frontières», 16 soldats tués",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260719-niger-une-attaque-jihadiste-dans-la-zone-des-trois-fronti%C3%A8res-16-soldats-tu%C3%A9s",
+          "source": "France 24",
+          "summary": "Le Niger visé par une attaque terroriste, dans la région de Téra, dans l'ouest. Cela s'est passé dans la région de Téra... Une unité de l'armée nigérienne a été prise pour cible. Plusieurs terroristes ont également été…",
+          "published": "2026-07-19T21:17:31+00:00"
+        },
+        {
+          "title": "Moyen-Orient : un militaire américain tué en Irak, la Jordanie convoque l'ambassadeur iranien",
+          "link": "https://www.france24.com/fr/moyen-orient/20260719-moyen-orient-un-militaire-am%C3%A9ricain-tu%C3%A9-en-irak-la-jordanie-convoque-ambassadeur-iranien-centcom-guerre",
+          "source": "France 24",
+          "summary": "Le Commandement américain pour le Moyen-Orient a annoncé dimanche la mort d'un militaire lors de la destruction, la veille, d'un drone iranien en Irak. De son côté, la Jordanie, qui a subi de nombreuses attaques ces…",
+          "published": "2026-07-19T20:21:46+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine rencontre la ministre des affaires étrangères nord-coréenne ; un navire marchand turc frappé par des missiles russes",
+          "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-vladimir-poutine-rencontre-la-ministre-des-affaires-etrangeres-nord-coreenne-un-navire-marchand-turc-a-ete-frappe-par-des-missiles-russes-tuant-cinq-personnes_6725306_3210.html",
+          "source": "Le Monde",
+          "summary": "Le vraquier, qui transportait des céréales, a été touché par trois missiles de croisière « alors qu’il quittait la zone de combat », selon la marine ukrainienne. Cinq personnes ont été tuées.",
+          "published": "2026-07-19T20:14:31+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : un militaire américain tué dans le nord de l’Irak, annonce l’armée américaine",
+          "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-au-moyen-orient-un-militaire-americain-tue-dans-le-nord-de-l-irak-annonce-l-armee-americaine_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Cet évènement survient quelques jours après la mort, vendredi 17 juillet, de deux soldats américains et la disparition d’un troisième à la suite d’une attaque iranienne en Jordanie.",
+          "published": "2026-07-19T19:52:23+00:00"
+        },
         {
           "title": "Au Pérou, six morts et 32 blessés dans un séisme de magnitude 5,1",
           "link": "https://www.lemonde.fr/international/article/2026/07/19/perou-cinq-morts-et-21-blesses-dans-un-seisme-de-magnitude-5-1_6726299_3210.html",
@@ -19,7 +54,7 @@
           "published": "2026-07-19T17:39:21+00:00"
         },
         {
-          "title": "Espagne - Argentine en direct : suivez le choc annoncé de la grande finale du Mondial",
+          "title": "Espagne - Argentine en direct : et Torres délivre la Roja en prolongation",
           "link": "https://www.france24.com/fr/sports/20260719-espagne-argentine-direct-live-finale-mondial-2026-show-messi",
           "source": "France 24",
           "summary": "La Coupe du monde se conclut par une finale de choc, dimanche, entre l'Espagne et l'Argentine au MetLife Stadium près de New York. La championne d’Europe en titre est opposée à la championne du monde en titre. La Roja…",
@@ -38,41 +73,6 @@
           "source": "Le Monde",
           "summary": "Jens Spahn, président du groupe CDU/CSU au Bundestag, a déclaré avoir sous-estimé les effets de sa décision, alors que la gestation pour autrui reste interdite outre-Rhin et que son parti y est fermement opposé.",
           "published": "2026-07-19T16:16:15+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : après des entretiens avec des commandants militaires, Volodymyr Zelensky annonce des « conversations cruciales » pour lundi",
-          "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-en-ukraine-apres-des-entretiens-avec-des-commandants-militaires-volodymyr-zelensky-annonce-des-conversations-cruciales-pour-lundi_6725306_3210.html",
-          "source": "Le Monde",
-          "summary": "Ces réunions, qui en sont à leur troisième jour, se déroulent dans un contexte de manifestations dans les grandes villes, exigeant la destitution du commandant en chef, Oleksandr Syrsky, et la réintégration de l’ancien…",
-          "published": "2026-07-19T16:05:18+00:00"
-        },
-        {
-          "title": "Un concert de la DJ Barbara Butch interrompu par des militants propalestiniens à Grenoble",
-          "link": "https://www.lemonde.fr/politique/article/2026/07/19/un-concert-de-la-dj-barbara-butch-interrompu-par-des-militants-propalestiniens-a-grenoble_6726132_823448.html",
-          "source": "Le Monde",
-          "summary": "La mairie de Grenoble dénonce « une agression intolérable » contre Barbara Butch, tandis que LFI évoque une « manifestation pacifique » et conteste tout appel à la violence.",
-          "published": "2026-07-19T16:01:15+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : le secrétaire d’Etat américain, Marco Rubio, félicite le Liban pour sa « démarche vers la paix », après sa rencontre avec le président libanais, Joseph Aoun",
-          "link": "https://www.lemonde.fr/international/live/2026/07/19/en-direct-guerre-au-moyen-orient-le-secretaire-d-etat-americain-marco-rubio-felicite-le-liban-pour-sa-demarche-vers-la-paix-apres-sa-rencontre-avec-le-president-libanais-joseph-aoun_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "Cette visite à Washington, DC, au cours de laquelle Joseph Aoun doit également discuter avec Donald Trump, est la première pour un président libanais depuis 2009.",
-          "published": "2026-07-19T15:52:23+00:00"
-        },
-        {
-          "title": "\"La meilleure Coupe du Monde de l'histoire\" ? Derrière la compétition, la politique",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-la-meilleure-coupe-du-monde-de-l-histoire-derri%C3%A8re-la-comp%C3%A9tition-la-politique",
-          "source": "France 24",
-          "summary": "\"La meilleure Coupe du Monde de l'histoire\" ? C’est ce qu’a déclaré le patron de la Fifa, Gianni Infantino lors d’une conférence de presse aux côtés de Donald Trump à la Maison Blanche ce vendredi. Quel bilan tirer du…",
-          "published": "2026-07-19T15:27:51+00:00"
-        },
-        {
-          "title": "L'Espagne défie l'Argentine en finale du Mondial pour rentrer dans la légende",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-l-espagne-d%C3%A9fie-l-argentine-en-finale-du-mondial-pour-rentrer-dans-la-l%C3%A9gende",
-          "source": "France 24",
-          "summary": "L'équipe de football d'Espagne se prépare aux États-Unis pour la finale du Mondial 2026, lors de laquelle ils affronteront l’Argentine. Sur place comme en Espagne, les supporters sont pleins d’espoirs. Récit d’Ethan…",
-          "published": "2026-07-19T15:14:22+00:00"
         }
       ]
     },
@@ -84,39 +84,60 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Espagne – Argentine | Le clavardage avec Éric Martel",
-          "link": "https://www.lapresse.ca/sports/soccer/2026-07-19/espagne-argentine/le-clavardage-avec-eric-martel.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le bureau de Nétanyahou dénonce les propos du maire de New York sur son arrestation",
+          "link": "https://www.ledevoir.com/monde/995810/bureau-netanyahou-denonce-propos-maire-new-york-arrestation",
+          "source": "Le Devoir",
+          "summary": "Zohran Mamdani envisage de respecter le mandat d’arrêt de la CPI visant le dirigeant israélien lors de sa venue à l’ONU.",
+          "published": "2026-07-19T20:39:00+00:00"
+        },
+        {
+          "title": "Ottawa interdit l’entrée aux voyageurs en provenance du Congo en raison de l’Ebola",
+          "link": "https://www.ledevoir.com/actualites/sante/995807/ottawa-interdit-entree-voyageurs-provenance-congo-raison-ebola",
+          "source": "Le Devoir",
+          "summary": "La mesure temporaire entrera en vigueur lundi soir à 23 h 59.",
+          "published": "2026-07-19T20:10:30+00:00"
+        },
+        {
+          "title": "Le Canada veut rejoindre un programme multinational d’avions de combat",
+          "link": "https://www.lapresse.ca/actualites/national/2026-07-19/le-canada-veut-rejoindre-un-programme-multinational-d-avions-de-combat.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "On s’attend généralement à ce que le Canada rejoigne cette semaine un programme multinational de chasseurs de nouvelle génération, mais pas en tant que membre à part entière.",
+          "published": "2026-07-19T19:37:16+00:00"
+        },
+        {
+          "title": "Les vents forts attendus pourraient compliquer la lutte contre les feux au Québec",
+          "link": "https://www.ledevoir.com/actualites/environnement/995804/vents-forts-attendus-pourraient-compliquer-lutte-contre-feux-quebec",
+          "source": "Le Devoir",
+          "summary": "Au Canada, près de 960 feux sont actifs, dont 160 au Québec.",
+          "published": "2026-07-19T19:34:00+00:00"
+        },
+        {
+          "title": "Fermeture de quatre collèges privés | « Nos rêves sont brisés »",
+          "link": "https://www.lapresse.ca/actualites/education/2026-07-19/fermeture-de-quatre-colleges-prives/nos-reves-sont-brises.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Rongés par l’angoisse et l’incertitude, quelques dizaines d’étudiants étrangers se sont rassemblés dimanche au centre-ville de Montréal pour demander au gouvernement du Québec de trouver une solution pérenne pour qu’ils…",
+          "published": "2026-07-19T19:24:20+00:00"
+        },
+        {
+          "title": "Remco Evenepoel remporte la 15e étape du Tour de France; Jonas Vingegaard abandonne",
+          "link": "https://www.ledevoir.com/sports/995798/remco-evenepoel-remporte-15e-etape-tour-france-jonas-vingegaard-abandonne",
+          "source": "Le Devoir",
+          "summary": "Le Danois Jonas Vingegaard a dû abandonner en raison d’une chute.",
+          "published": "2026-07-19T18:50:00+00:00"
+        },
+        {
+          "title": "Finale de la Coupe du monde | Espagne 1 – Argentine 0 (prolongation)",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-07-19/finale-de-la-coupe-du-monde/espagne-1-argentine-0-prolongation.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Suivez et commentez la finale de la Coupe du monde opposant l’Espagne à l’Argentine avec nos journalistes Éric Martel et Pascal LeBlanc.",
           "published": "2026-07-19T18:47:16+00:00"
         },
         {
-          "title": "«C'est beaucoup d'émotions»: la ministre Kariane Bourassa se confie sur son accident avec un ours dans Charlevoix",
-          "link": "https://www.journaldemontreal.com/2026/07/19/cest-beaucoup-demotions-la-ministre-kariane-bourassa-se-confie-sur-son-accident-avec-un-ours-dans-charlevoix",
-          "source": "Journal de Montreal",
-          "summary": "Kariane Bourassa s’est confiée sur l’accident qu'elle a vécu jeudi dernier dans Charlevoix, impliquant un ours noir.",
-          "published": "2026-07-19T18:29:41+00:00"
-        },
-        {
-          "title": "Les étudiants des Collèges supérieurs de Montréal et de Sherbrooke demandent une solution immédiate",
+          "title": "Les étudiants du Collège supérieur de Montréal et de Sherbrooke demandent une solution immédiate",
           "link": "https://www.ledevoir.com/actualites/education/995795/etudiants-colleges-superieurs-montreal-sherbrooke-demandent-solution-immediate",
           "source": "Le Devoir",
           "summary": "Le ministère de l’Éducation a refusé de renouveler les permis d’exploitation des établissements privés.",
           "published": "2026-07-19T18:25:00+00:00"
-        },
-        {
-          "title": "Côte-Nord | Un météorite de 390 millions d’années a créé un cratère découvert par un Québécois",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-07-19/cote-nord/un-meteorite-de-390-millions-d-annees-a-cree-un-cratere-decouvert-par-un-quebecois.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "À la fin de 2023, l’astronome amateur Joël Lapointe utilisait Google Maps pour planifier un voyage estival lorsqu’il est tombé par hasard sur un cratère à l’aspect étrange.",
-          "published": "2026-07-19T18:24:07+00:00"
-        },
-        {
-          "title": "Le bureau de Netanyahou dénonce les propos du maire de New York sur une arrestation",
-          "link": "https://www.journaldemontreal.com/2026/07/19/le-bureau-de-netanyahou-denonce-les-propos-du-maire-de-new-york-sur-une-arrestation",
-          "source": "Journal de Montreal",
-          "summary": "Le bureau de Netanyahou a dénoncé dimanche les propos du maire de New York, qui a évoqué la possibilité d'arrêter le premier ministre israélien.",
-          "published": "2026-07-19T18:19:14+00:00"
         },
         {
           "title": "Incendies de forêt | Plus de 5000 pompiers mobilisés à travers le Canada",
@@ -126,32 +147,11 @@
           "published": "2026-07-19T18:13:46+00:00"
         },
         {
-          "title": "Québec investit 1 M$ pour soutenir le bénévolat en loisir et en sport",
-          "link": "https://www.journaldemontreal.com/2026/07/19/quebec-investit-1-m-pour-soutenir-le-benevolat-en-loisir-et-en-sport",
-          "source": "Journal de Montreal",
-          "summary": "Le gouvernement du Québec annonce un investissement d’un million de dollars pour soutenir le bénévolat en loisir et en sport.",
-          "published": "2026-07-19T18:08:10+00:00"
-        },
-        {
           "title": "Rubio félicite le Liban pour sa «démarche vers la paix», après sa rencontre avec Aoun",
           "link": "https://www.ledevoir.com/monde/moyen-orient/995792/rubio-felicite-liban-demarche-vers-paix-apres-rencontre-aoun",
           "source": "Le Devoir",
           "summary": "Le président libanais Joseph Aoun était en visite à la Maison-Blanche.",
           "published": "2026-07-19T17:00:00+00:00"
-        },
-        {
-          "title": "Transaction de la semaine: une propriété vendue quatre fois le prix payé",
-          "link": "https://www.journaldemontreal.com/2026/07/18/transaction-de-la-semaine-une-propriete-vendue-quatre-fois-le-prix-paye",
-          "source": "Journal de Montreal",
-          "summary": "Une somptueuse propriété, située sur les rives de la rivière Richelieu, vient d’être vendue à presque quatre fois le prix payé en 2017.",
-          "published": "2026-07-19T16:48:15+00:00"
-        },
-        {
-          "title": "Épidémie d’Ebola | Ottawa interdit l’entrée aux ressortissants étrangers en provenance de la RDC",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-07-19/epidemie-d-ebola/ottawa-interdit-l-entree-aux-ressortissants-etrangers-en-provenance-de-la-rdc.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le gouvernement fédéral annonce qu’il interdira l’entrée au Canada aux ressortissants étrangers ayant mis les pieds en République démocratique du Congo au cours des 21 derniers jours, en raison du risque d’importation…",
-          "published": "2026-07-19T16:07:07+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Espagne-Argentine : l’implacable Roja face au magicien Messi pour soulever la Coupe du monde",
+          "title": "EN DIRECT - Espagne-Argentine : la Roja débloque (enfin) la situation face à une Albiceleste réduite à 10",
           "link": "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608362/espagne-argentine",
           "source": "Le Figaro",
           "summary": "L’Espagne et l’Argentine s’affrontent dans une affiche inédite en finale de la Coupe du monde 2026, ce dimanche au MetLife Stadium de New York. L’Albiceleste de Lionel Messi rêve d’un doublé.",
-          "published": "2026-07-19T18:58:02+00:00"
+          "published": "2026-07-19T21:50:03+00:00"
         },
         {
-          "title": "Coupe du monde : l'Argentine de Messi ou l'Espagne de Yamal ? Suivez avec nous la finale sans oublier le show façon \"Super Bowl\" de la mi-temps",
+          "title": "Finale de la Coupe du monde : l’Espagne mène enfin (1-0) face une Argentine réduite à dix",
+          "link": "https://www.liberation.fr/sports/football/finale-de-la-coupe-du-monde-lespagne-et-largentine-face-a-face-pour-decrocher-letoile-20260719_D4ADAC66JBEVTJVYYQMRWPS5ZU/",
+          "source": "Liberation",
+          "summary": "La Roja et l’Albiceleste s’affrontent ce dimanche 19 juillet pour décrocher le titre mondial. Les Espagnols ont fini par trouver la faille par Ferran Torres après avoir été poussés en prolongation par leurs adversaires,…",
+          "published": "2026-07-19T21:47:25+00:00"
+        },
+        {
+          "title": "Coupe du monde : l'Espagne ouvre enfin le score en prolongation grâce à Ferran Torres, l'Argentine est à dix. Suivez et commentez la finale avec nous",
           "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-l-espagne-de-yamal-et-l-argentine-de-messi-ont-rendez-vous-avec-l-histoire-en-finale-scenario-incroyable-pour-france-angleterre_8113370.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "C'est le grand jour pour la Roja et l'Albiceleste, opposées en finale de Coupe du monde à New York, à 21 heures.",
-          "published": "2026-07-19T18:57:20+00:00"
+          "published": "2026-07-19T21:45:53+00:00"
         },
         {
-          "title": "«Gratitude» et «compréhension mutuelle» : Vladimir Poutine reçoit la ministre des Affaires étrangères de la Corée du Nord",
-          "link": "https://www.lefigaro.fr/flash-actu/gratitude-et-comprehension-mutuelle-vladimir-poutine-recoit-la-ministre-des-affaires-etrangeres-de-la-coree-du-nord-20260719",
+          "title": "Après la confirmation que les ossements sont bien ceux de son épouse, Cédric Jubillar reste le «maître du jeu»",
+          "link": "https://www.lefigaro.fr/faits-divers/apres-la-confirmation-que-les-ossements-sont-bien-ceux-de-son-epouse-cedric-jubillar-reste-le-maitre-du-jeu-20260719",
+          "source": "Le Figaro",
+          "summary": "RÉCIT - Cédric Jubillar reconnaît être à l’origine de la mort de son épouse, mais il nie l’avoir tuée intentionnellement. Pour l’heure, les ossements découverts ne devraient pas permettre de lever les zones d’ombre sur…",
+          "published": "2026-07-19T21:21:38+00:00"
+        },
+        {
+          "title": "Macédoine du Nord: 1500 habitants d’une ville soignés après une intoxication massive, probablement par l'eau",
+          "link": "https://www.lefigaro.fr/flash-actu/macedoine-du-nord-1500-habitants-d-une-ville-soignes-apres-une-intoxication-massive-probablement-par-l-eau-20260719",
           "source": "Le Figaro",
           "summary": "",
-          "published": "2026-07-19T18:56:00+00:00"
+          "published": "2026-07-19T21:18:46+00:00"
         },
         {
-          "title": "Un navire marchand turc touché par des missiles russes, 5 morts selon Kiev",
-          "link": "https://www.lefigaro.fr/international/un-navire-marchand-turc-touche-par-des-missiles-russes-5-morts-selon-kiev-20260719",
+          "title": "Le couple Trump, Matt Damon, Zinédine Zidane, Mick Jagger... Du très beau monde à la finale de la Coupe du monde 2026",
+          "link": "https://madame.lefigaro.fr/celebrites/actu-people/le-couple-trump-matt-damon-zinedine-zidane-du-tres-beau-monde-a-la-finale-de-la-coupe-du-monde-2026-20260719",
           "source": "Le Figaro",
-          "summary": "Le vraquier transportait des céréales et a été frappé par trois missiles, selon la marine ukrainienne. Le sort de cinq autres membres d’équipage reste inconnu.",
-          "published": "2026-07-19T18:52:22+00:00"
-        },
-        {
-          "title": "Cinq marins meurent après des frappes russes sur un navire marchand appartenant à la Turquie",
-          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/cinq-marins-meurent-apres-des-frappes-russes-sur-un-navire-marchand-appartenant-a-la-turquie_8114357.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Un vraquier turc qui transportait des céréales a été touché dimanche par trois missiles russes \"alors qu'il quittait la zone de combat\", a annoncé la marine ukrainienne.",
-          "published": "2026-07-19T18:47:55+00:00"
-        },
-        {
-          "title": "Un violent incendie menace un village du Var, deux feux progressent dans des zones montagneuses de Corse",
-          "link": "https://www.liberation.fr/societe/un-violent-incendie-menace-un-village-du-var-deux-feux-progressent-dans-des-zones-montagneuses-de-corse-20260719_V3DAYTREJZG7TPX2NNWIXT33Z4/",
-          "source": "Liberation",
-          "summary": "En dépit des nombreux pompiers mobilisés ce dimanche, les flammes ont déjà brûlé plusieurs centaines d’hectares. Des habitations ont aussi dû être évacuées.",
-          "published": "2026-07-19T18:44:57+00:00"
+          "summary": "EN IMAGES.- La finale de la Coupe du monde 2026 entre l’Espagne et l’Argentine a débuté ce dimanche au MetLife Stadium, dans le New Jersey. Pour assister à ce rendez-vous planétaire, de nombreuses personnalités ont pris…",
+          "published": "2026-07-19T21:02:30+00:00"
         },
         {
           "title": "Var : un incendie provoque des évacuations près de Draguignan, le trafic SNCF très perturbé entre Nice et Marseille",
           "link": "https://www.lefigaro.fr/actualite-france/var-un-incendie-provoque-des-evacuations-pres-de-draguignan-20260719",
           "source": "Le Figaro",
           "summary": "Le feu, qui a brûlé 180 hectares, a nécessité l’évacuation de 150 personnes sur les deux communes, qui ont trouvé refuge dans les salles des fêtes et une école. Il évoluait favorablement dimanche soir.",
-          "published": "2026-07-19T18:42:42+00:00"
+          "published": "2026-07-19T20:59:32+00:00"
         },
         {
-          "title": "Rattrapé par les accusations de mannequins, Gérald Marie, ancien golden-boy d’Elite et nouvelle figure d’un «système d’exploitation sexuelle»",
-          "link": "https://www.lefigaro.fr/faits-divers/ils-ont-fait-de-moi-ce-qu-ils-voulaient-rattrape-par-les-accusations-de-mannequins-gerald-marie-ancien-golden-boy-d-elite-et-nouvelle-figure-d-un-systeme-d-exploitation-sexuelle-20260719",
+          "title": "«Une position fragile face à la Chine et aux États-Unis» : la Cour des comptes appelle la France à accélérer dans le quantique",
+          "link": "https://www.lefigaro.fr/conjoncture/une-position-fragile-face-a-la-chine-et-aux-etats-unis-la-cour-des-comptes-appelle-la-france-a-accelerer-dans-le-quantique-20260719",
           "source": "Le Figaro",
-          "summary": "RÉCIT - L’ancien directeur de l’agence, concurrent de l’autre figure des années 1980-2000, Jean-Luc Brunel, usait selon d’anciens top models des mêmes méthodes, en plaçant sous son emprise des «filles» vulnérables. Six…",
-          "published": "2026-07-19T18:34:28+00:00"
+          "summary": "Habituellement peu enclins à inciter à la dépense, les Sages de la rue de Cambon estiment que rester dans la course sur cette technologie de pointe est un «enjeu majeur de souveraineté».",
+          "published": "2026-07-19T20:30:17+00:00"
         },
         {
-          "title": "«Paulo, c’est notre nouvelle pépite française» : sur les routes du Tour de France, la «Seixasmania» bat son plein",
-          "link": "https://www.liberation.fr/sports/cyclisme/paulo-cest-notre-nouvelle-pepite-francaise-sur-les-routes-du-tour-de-france-la-seixasmania-bat-son-plein-20260719_XS7AFFXMORAEXPGQKAU5PX43NY/",
-          "source": "Liberation",
-          "summary": "A l’occasion de la 15e étape de la Grande Boucle ce dimanche 19 juillet, qui s’attaque aux montagnes des Alpes, le nom du coureur français s’affichait dans chaque ville traversée, et dans chaque virage en épingle. Tous…",
-          "published": "2026-07-19T18:31:57+00:00"
-        },
-        {
-          "title": "Coupe du monde 2026 : l'Espagne ne change rien contre l'Argentine d'un Messi record... Les compositions de la finale",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-l-espagne-ne-change-rien-contre-l-argentine-d-un-messi-record-les-compositions-de-la-finale-20260719",
+          "title": "Lourdes, Paris, Metz… Le programme de la visite du pape en France se précise",
+          "link": "https://www.lefigaro.fr/actualite-france/lourdes-paris-metz-le-programme-de-la-visite-du-pape-en-france-se-precise-20260719",
           "source": "Le Figaro",
-          "summary": "L’Espagne et l’Argentine s’affrontent, ce dimanche à New York, en finale de la Coupe du monde.",
-          "published": "2026-07-19T18:22:35+00:00"
+          "summary": "Une délégation romaine arrive ce lundi pour préparer la visite de Léon XIV du 25 au 28 septembre prochains. Alors que la loi sur « l’aide à mourir » vient d’être adoptée, le pape a choisi « Pour que le monde ait la vie…",
+          "published": "2026-07-19T20:26:48+00:00"
+        },
+        {
+          "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak",
+          "link": "https://www.lefigaro.fr/international/en-direct-iran-quatre-petroliers-stoppes-dans-le-detroit-deux-sautent-sur-des-mines-selon-les-gardiens-de-la-revolution-20260718",
+          "source": "Le Figaro",
+          "summary": "Le Commandement américain pour le Moyen-Orient (Centcom) précise qu’un deuxième militaire a été blessé, au lendemain de la mort de deux autres soldats en Jordanie.",
+          "published": "2026-07-19T19:57:02+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Meilleure caméra de surveillance extérieure en 2026 : notre comparatif",
+          "link": "https://www.frandroid.com/guide-dachat/guide-objets-connectes/1183321_meilleure-camera-de-surveillance-exterieure",
+          "source": "Frandroid",
+          "summary": "Pour protéger votre maison ou appartement, une caméra de surveillance extérieure est une excellente arme de dissuasion contre les cambrioleurs. Découvrez notre comparatif des meilleures caméras de surveillance…",
+          "published": "2026-07-19T18:23:40+00:00"
+        },
         {
           "title": "L’imprécision mène à « l’open-washing » : qu’est-ce qui distingue les IA open source des open weight ?",
           "link": "https://www.numerama.com/tech/2297077-limprecision-mene-a-lopen-washing-quest-ce-qui-distingue-les-ia-open-source-des-open-weight.html",
@@ -248,7 +255,7 @@
           "published": "2026-07-19T18:00:00+00:00"
         },
         {
-          "title": "Espagne – Argentine : comment regarder la finale de la Coupe du monde depuis la France ou l’étranger ?",
+          "title": "Coupe du monde 2026 : suivez la finale Espagne – Argentine en direct où que vous soyez",
           "link": "https://www.clubic.com/actualite-621730-espagne-argentine-comment-regarder-la-finale-de-la-coupe-du-monde-depuis-la-france-ou-l-etranger.html",
           "source": "Clubic",
           "summary": "L’Espagne et l’Argentine se retrouvent ce dimanche 19 juillet pour la finale de la Coupe du monde 2026. La rencontre sera diffusée gratuitement en France, mais son accès peut se compliquer pour les vacanciers et…",
@@ -309,13 +316,6 @@
           "source": "Numerama",
           "summary": "Cela fait presque 25 ans que le premier Kingdom Hearts est sorti sur PlayStation 2. Un quart de siècle au compteur, et pourtant, les fans du titre de Square Enix continuent de trouver des secrets dans le jeu, comme ce…",
           "published": "2026-07-19T14:35:00+00:00"
-        },
-        {
-          "title": "Windows 11 refuse de déplacer ou supprimer un fichier ? Voici comment trouver ce qui le bloque",
-          "link": "https://www.clubic.com/tutoriel-621607-windows-11-refuse-de-deplacer-ou-supprimer-un-fichier-voici-comment-trouver-ce-qui-le-bloque.html",
-          "source": "Clubic",
-          "summary": "PowerToys embarque un outil capable d’identifier le processus qui verrouille un fichier et de le fermer sans redémarrer Windows. On vous explique comment utiliser File Locksmith pour reprendre la main quand le…",
-          "published": "2026-07-19T14:19:00+00:00"
         }
       ]
     }
