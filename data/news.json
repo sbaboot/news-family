@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-19T02:36:06.152654+00:00",
+  "generated_at": "2026-07-19T05:51:26.347782+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "A Gaza, des frappes israéliennes tuent onze personnes dont trois enfants, annonce la défense civile",
-          "link": "https://www.lemonde.fr/international/article/2026/07/19/a-gaza-des-frappes-israeliennes-tuent-onze-personnes-dont-trois-enfants-annonce-la-defense-civile_6725264_3210.html",
+          "title": "Mondial 2026 : les supporters préfèrent-ils Lamine Yamal ou Lionel Messi ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-mondial-2026-les-supporters-pr%C3%A9f%C3%A8rent-ils-lamine-yamal-ou-lionel-messi",
+          "source": "France 24",
+          "summary": "Yamal ou Messi ? À quelques heures du coup d'envoi de la finale de la Coupe du monde entre l'Espagne et l'Argentine, nous sommes allés dans les rues de New York demander aux supporters lequel des deux joueurs ils…",
+          "published": "2026-07-19T05:12:51+00:00"
+        },
+        {
+          "title": "En direct : Washington dit avoir ciblé des forces iraniennes pour \"punir\" la mort de deux soldats",
+          "link": "https://www.france24.com/fr/moyen-orient/20260719-en-direct-l-arm%C3%A9e-am%C3%A9ricaine-affirme-avoir-cibl%C3%A9-les-forces-iraniennes-ayant-tu%C3%A9-deux-militaires",
+          "source": "France 24",
+          "summary": "L'armée américaine a annoncé dimanche avoir mené une huitième nuit consécutive de frappes contre l'Iran, visant notamment les forces des Gardiens de la révolution qu'elle accuse d'être responsables de l'attaque ayant…",
+          "published": "2026-07-19T05:11:54+00:00"
+        },
+        {
+          "title": "Géopolitique du tourisme",
+          "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260719-g%C3%A9opolitique-du-tourisme",
+          "source": "RFI",
+          "summary": "Les congés payés fêtent cette année leurs 90 ans en France. Mais sommes-nous tous égaux dans le monde face aux vacances ? Qui part, qui ne part pas, et où ? Du poids des passeports aux stratégies de soft power des…",
+          "published": "2026-07-19T05:00:11+00:00"
+        },
+        {
+          "title": "« Nétanyahou considère toujours comme des héros les poseurs de bombes de l’hôtel King David, en 1946 à Jérusalem »",
+          "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/07/19/netanyahou-considere-toujours-comme-des-heros-les-poseurs-de-bombes-de-l-hotel-king-david-en-1946-a-jerusalem_6725413_6116995.html",
           "source": "Le Monde",
-          "summary": "Les cinq membres d’une même famille ont été tués dans ces frappes, samedi, selon le service de secours, qui opère sous l’autorité du Hamas, un bilan confirmé par l’hôpital qui a reçu les corps.",
-          "published": "2026-07-19T02:08:16+00:00"
+          "summary": "Le premier ministre israélien n’a jamais cessé de justifier l’attentat qui a tué le plus grand nombre de civils dans la Palestine sous mandat britannique, explique l’historien Jean-Pierre Filiu dans sa chronique.",
+          "published": "2026-07-19T05:00:10+00:00"
         },
         {
-          "title": "Kylian Mbappé meilleur buteur de l'histoire du Mondial, en attendant Messi ?",
-          "link": "https://www.france24.com/fr/sports/20260719-mbapp%C3%A9-meilleur-buteur-de-l-histoire-du-mondial-en-attendant-messi",
+          "title": "Sur le terrain : comment France 24 couvre les matches du Mondial ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-sur-le-terrain-comment-france-24-couvre-les-matches-du-mondial",
           "source": "France 24",
-          "summary": "Malgré la défaite face à l'Angleterre en petite finale, avec son doublé, Kylian Mbappé a continué d'écrire son histoire en Coupe du monde samedi à Miami. Le capitaine des Bleus a pris la tête du classement des buteurs…",
-          "published": "2026-07-19T00:33:53+00:00"
+          "summary": "Depuis plusieurs semaines, les journalistes de France 24 sont sur le terrain pour vous faire vivre la Coupe du monde. Mais concrètement, comment se passe la couverture d’un match ? Des tribunes de presse à la zone…",
+          "published": "2026-07-19T04:54:14+00:00"
         },
         {
-          "title": "Mondial 2026 : les Argentins se réunissent en masse à Times Square",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-mondial-2026-les-argentins-se-r%C3%A9unissent-en-masse-%C3%A0-times-square",
+          "title": "De recalé chez les Bleus à pilier de la Roja, le pari gagnant d'Aymeric Laporte",
+          "link": "https://www.france24.com/fr/sports/20260719-finale-coupe-du-monde-aymeric-laporte-d%C3%A9fenseur-espagne-%C3%A9quipe-france",
           "source": "France 24",
-          "summary": "À la veille de la finale de la Coupe du monde entre l'Espagne et l'Argentine qui se déroulera à New York, les supporters argentins se sont réunis en masse sur la place iconique de la ville, Times Square.",
-          "published": "2026-07-19T00:20:46+00:00"
+          "summary": "Malgré l'élimination des Bleus aux portes de la finale de la Coupe du monde, un joueur français foulera bien la pelouse du MetLife Stadium, dimanche, lors du match entre l'Espagne et l'Argentine. Naturalisé espagnol en…",
+          "published": "2026-07-19T04:48:11+00:00"
         },
         {
-          "title": "En Hongrie, le président pro-Orban annonce qu’il signera la réforme constitutionnelle actant la fin de son mandat",
-          "link": "https://www.lemonde.fr/international/article/2026/07/19/en-hongrie-le-president-pro-orban-annonce-qu-il-signera-la-reforme-constitutionnelle-actant-la-fin-de-son-mandat_6725231_3210.html",
+          "title": "Sur l’armée, les guerres, la politique ou la religion, ce que les jeunes Israéliens disent de leur pays",
+          "link": "https://www.lemonde.fr/international/article/2026/07/19/sur-l-armee-les-guerres-la-politique-ou-la-religion-ce-que-les-jeunes-israeliens-disent-de-leur-pays_6725380_3210.html",
           "source": "Le Monde",
-          "summary": "Selon l’amendement constitutionnel voté par les députés, Tamas Sulyok quittera ses fonctions dès dimanche, à minuit. La présidente du Parlement assurera l’intérim jusqu’à la désignation d’un nouveau chef de l’Etat.",
-          "published": "2026-07-19T00:08:16+00:00"
+          "summary": "Pour la génération des 15-30 ans, la guerre est devenue un horizon permanent et, pour beaucoup, le prix à payer pour assurer leur sécurité. « Le Monde » est allé à la rencontre de cette jeunesse fracturée entre la…",
+          "published": "2026-07-19T04:45:04+00:00"
         },
         {
-          "title": "Mondial 2026 : la France évite le naufrage contre l'Angleterre mais s'incline pour la dernière de Deschamps",
-          "link": "https://www.france24.com/fr/sports/20260718-la-france-%C3%A9vite-le-naufrage-contre-l-angleterre-mais-s-incline-pour-la-derni%C3%A8re-de-deschamps",
+          "title": "Mondial 2026 : derrière Messi, la loi du milieu argentin pour défier l’Espagne en finale",
+          "link": "https://www.france24.com/fr/sports/20260719-mondial-2026-argentine-derriere-messi-la-loi-du-milieu-espagne-finale-fernandez-macallister-paredes",
           "source": "France 24",
-          "summary": "",
-          "published": "2026-07-18T23:06:44+00:00"
+          "summary": "L'Argentine n'est plus qu'à un match d'un nouveau sacre. Dimanche, face à l'Espagne, en finale de la Coupe du monde 2026, les hommes de Lionel Scaloni devront s'appuyer sur la magie de Lionel Messi. Mais aussi sur…",
+          "published": "2026-07-19T04:44:15+00:00"
         },
         {
-          "title": "Royaume-Uni : le projet de carte d’identité numérique abandonné par le nouveau premier ministre Andy Burnham",
-          "link": "https://www.lemonde.fr/international/article/2026/07/19/royaume-uni-le-projet-de-carte-d-identite-numerique-abandonne-par-le-nouveau-premier-ministre-andy-burnham_6725099_3210.html",
+          "title": "En Norvège, l’amertume des survivants de l’attentat d’Utoya : « Les idées du néonazi Breivik se sont banalisées dans l’espace public »",
+          "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/19/en-norvege-l-amertume-des-survivants-de-l-attentat-d-utoya-les-idees-du-neonazi-breivik-se-sont-banalisees-dans-l-espace-public_6725347_4500055.html",
           "source": "Le Monde",
-          "summary": "Destiné à vérifier le droit à travailler, le dispositif devait être instauré d’ici à 2029. Son coût avait été évalué à 1,8 milliard de livres sterling, soit plus de 2 milliards d’euros.",
-          "published": "2026-07-18T22:20:41+00:00"
+          "summary": "Il y a quinze ans, le terroriste Anders Behring Breivik assassinait 77 personnes à Oslo et sur l’île d’Utoya. Le 22 juillet, la Norvège commémore ces attentats, les plus meurtriers de son histoire depuis la seconde…",
+          "published": "2026-07-19T04:30:14+00:00"
         },
         {
-          "title": "Mali : nouvelle attaque contre l'armée et les mercenaires russes dans le nord",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260718-mali-nouvelle-attaque-contre-l-arm%C3%A9e-et-les-mercenaires-russes-dans-le-nord",
-          "source": "France 24",
-          "summary": "Un peu plus d’une semaine après avoir repris fermement pied dans la localité de Anéfis dans le nord du Mali, l’armée malienne et les mercenaires russes sont tombés samedi dans une embuscade dans la même région malienne.",
-          "published": "2026-07-18T22:03:43+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Iran : l’armée américaine annonce la mort de deux militaires et la disparition d’un troisième en Jordanie ; le Guide suprême menace d’infliger aux Etats-Unis des « leçons inoubliables »",
-          "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-iran-l-armee-americaine-annonce-la-mort-de-deux-militaires-et-la-disparition-d-un-troisieme-en-jordanie-le-guide-supreme-menace-d-infliger-aux-etats-unis-des-lecons-inoubliables_6722873_3210.html",
+          "title": "« Si on peut aider des civils à ne pas se faire tuer… » : l’histoire des pêcheurs bretons dont les filets capturent les drones russes en Ukraine",
+          "link": "https://www.lemonde.fr/international/article/2026/07/19/si-on-peut-aider-des-civils-a-ne-pas-se-faire-tuer-l-histoire-des-pecheurs-bretons-dont-les-filets-capturent-les-drones-russes-en-ukraine_6725309_3210.html",
           "source": "Le Monde",
-          "summary": "Pour Mojtaba Khamenei, « la violation répétée » du protocole d’accord « a une fois de plus démontré à tous que la signature du président américain est sans valeur », a-t-il déclaré dans un message écrit.",
-          "published": "2026-07-18T21:02:45+00:00"
-        },
-        {
-          "title": "Mondial 2026 : Mbappé rend hommage à Deschamps, \"l’une des plus grandes légendes de notre pays\"",
-          "link": "https://www.france24.com/fr/sports/20260718-mondial-2026-mbapp%C3%A9-rend-hommage-%C3%A0-deschamps-l-une-des-plus-grandes-l%C3%A9gendes-de-notre-pays",
-          "source": "France 24",
-          "summary": "Le capitaine de l'équipe de France Kylian Mbappé a rendu hommage à son sélectionneur Didier Deschamps ce samedi 18 juillet sur les réseaux sociaux, le remerciant notamment d'avoir \"été un acteur majeur du renouveau de…",
-          "published": "2026-07-18T20:15:43+00:00"
-        },
-        {
-          "title": "Naïma Huber-Yahi: \"la Grande Mosquée, outil colonial, va devenir un outil d'émancipation\"",
-          "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260718-na%C3%AFma-huber-yahi-la-grande-mosqu%C3%A9e-outil-colonial-va-devenir-un-outil-d-%C3%A9mancipation",
-          "source": "France 24",
-          "summary": "La Grande Mosquée de Paris célèbre ses 100 ans. Inaugurée en 1926, conçue à l'origine comme un hommage aux soldats musulmans morts pour la France lors de la Première Guerre mondiale, elle devient au fil des ans un trait…",
-          "published": "2026-07-18T20:01:16+00:00"
+          "summary": "Pour se protéger des drones ennemis, des villes ukrainiennes ont tapissé le ciel de filets. Certains d’entre eux sont des filets de pêche bretons, livrés par quatre marins du Finistère. Un geste de solidarité remarqué…",
+          "published": "2026-07-19T04:00:17+00:00"
         }
       ]
     },
@@ -84,10 +84,24 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Ovnis | À Roswell, les documents déclassifiés sont une déception",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-07-19/ovnis/a-roswell-les-documents-declassifies-sont-une-deception.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Comme tant de terriens, John Darr est venu au Nouveau-Mexique à la recherche de réponses. Pourtant, il a quitté le festival annuel des ovnis de Roswell, ce mois-ci, avec encore plus de questions. « Dites-le-nous une…",
+          "published": "2026-07-19T04:00:00+00:00"
+        },
+        {
+          "title": "L’influenceur masculiniste Andrew Tate et son frère arrêtés à Miami",
+          "link": "https://www.ledevoir.com/monde/etats-unis/995771/influenceur-masculiniste-andrew-tate-frere-arretes-miami",
+          "source": "Le Devoir",
+          "summary": "Le Royaume-Uni réclame leur extradition pour viols présumés.",
+          "published": "2026-07-19T02:00:00+00:00"
+        },
+        {
           "title": "Grâce à un touché de Ferdinand, les Alouettes l’emportent face aux Stampeders",
           "link": "https://www.ledevoir.com/sports/995768/grace-touche-ferdinand-alouettes-emportent-face-stampeders",
           "source": "Le Devoir",
-          "summary": "Il s’agit d’un troisième gain d’affilée pour la formation montréalaise, et un deuxième de suite contre cette équipe.",
+          "summary": "Il s’agit d’un troisième gain d’affilée pour la formation montréalaise, qui a connu des difficultés au quatrième quart.",
           "published": "2026-07-19T01:34:00+00:00"
         },
         {
@@ -98,10 +112,10 @@
           "published": "2026-07-19T01:10:34+00:00"
         },
         {
-          "title": "Accusations de viols | L’influenceur masculiniste Andrew Tate et son frère arrêtés à Miami",
+          "title": "Accusations de viols | L’influenceur masculiniste Andrew Tate et son frère arrêtés à Miami",
           "link": "https://www.lapresse.ca/international/2026-07-18/accusations-de-viols/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-a-miami.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’influenceur masculiniste américano-britannique Andrew Tate et son frère Tristan ont été arrêtés samedi à Miami, aux États-Unis, à la demande du Royaume-Uni qui réclame leur extradition pour viols présumés.",
+          "summary": "Les frères Andrew et Tristan Tate, influenceurs dont l’empire sur les réseaux sociaux, prônant la richesse, la domination masculine et la misogynie, a fait d’eux l’une des personnalités les plus controversées de…",
           "published": "2026-07-19T00:38:10+00:00"
         },
         {
@@ -115,7 +129,7 @@
           "title": "Alouettes 38 – Stampeders 32 | À 22 secondes d’une catastrophe",
           "link": "https://www.lapresse.ca/sports/football/2026-07-18/alouettes-38-stampeders-32/a-22-secondes-d-une-catastrophe.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Un concept né dans les années 1970 suggère que le battement d’aile d’un papillon au Brésil pourrait déclencher une tornade au Texas. C’est la théorie du chaos. Ou encore, l’effet papillon.",
+          "summary": "Un concept né dans les années 1970 suggère que le battement d’ailes d’un papillon au Brésil pourrait déclencher une tornade au Texas. C’est la théorie du chaos. Ou encore, l’effet papillon.",
           "published": "2026-07-19T00:00:26+00:00"
         },
         {
@@ -133,25 +147,11 @@
           "published": "2026-07-18T23:05:00+00:00"
         },
         {
-          "title": "Parasite provoquant la diarrhée | Taco Bell au Canada affirme que sa laitue peut être consommée sans risque",
-          "link": "https://www.lapresse.ca/international/2026-07-18/parasite-provoquant-la-diarrhee/taco-bell-au-canada-affirme-que-sa-laitue-peut-etre-consommee-sans-risque.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Taco Bell au Canada affirme que la laitue à l’origine d’une épidémie de Cyclospora, un parasite provoquant des diarrhées, aux États-Unis n’a pas été servie dans ses établissements",
-          "published": "2026-07-18T22:48:55+00:00"
-        },
-        {
           "title": "France 4 – Angleterre 6 | L’Angleterre termine en troisième place en battant la France",
           "link": "https://www.lapresse.ca/sports/soccer/2026-07-18/france-4-angleterre-6/l-angleterre-termine-en-troisieme-place-en-battant-la-france.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Bukayo Saka a inscrit un triplé, samedi, permettant à l’Angleterre de s’imposer 6-4 face à la France et de décrocher la troisième place à la Coupe du Monde.",
+          "summary": "L’équipe de France n’a pas réussi à fêter dignement la dernière de Didier Deschamps, les Bleus ayant été battus samedi par l’Angleterre 6-4 lors de la « petite finale » du Mondial. Un match complètement fou, marqué par…",
           "published": "2026-07-18T22:29:11+00:00"
-        },
-        {
-          "title": "Veille d’orages | La météo retarde l’ouverture des sites au Festival d’été de Québec",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-07-18/veille-d-orages/la-meteo-retarde-l-ouverture-des-sites-au-festival-d-ete-de-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les conditions météorologiques difficiles causent un retard dans la programmation du Festival d’été de Québec (FEQ), samedi soir. À travers la province, des alertes d’orages et pour la qualité de l’air ont été émises.",
-          "published": "2026-07-18T22:23:08+00:00"
         }
       ]
     },
@@ -159,80 +159,94 @@
       "label": "France",
       "items": [
         {
-          "title": "«Il n’y a rien de plus beau que ce maillot» : applaudissements et émotions, la dernière conférence de presse touchante de Didier Deschamps",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/il-n-y-a-rien-de-plus-beau-que-ce-maillot-entre-applaudissements-et-emotions-la-derniere-conference-de-presse-touchante-de-didier-deschamps-20260719",
-          "source": "Le Figaro",
-          "summary": "Le sélectionneur des Bleus a répondu une dernière fois aux questions des journalistes samedi à Miami, après la défaite contre l’Angleterre (4-6). Non sans émotion.",
-          "published": "2026-07-19T02:16:32+00:00"
+          "title": "Guerre au Moyen-Orient : les Etats-Unis bombardent à nouveau l'Iran, après la mort de deux soldats américains dans une base militaire en Jordanie",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-bombardent-a-nouveau-l-iran-apres-la-mort-de-deux-soldats-americains-dans-une-base-militaire-en-jordanie_8113670.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'armée iranienne a de son côté déclaré avoir lancé, en représailles des frappes américaines, des drones explosifs contre deux bases militaires utilisées par les Etats-Unis au Koweït, selon la télévision d'Etat.",
+          "published": "2026-07-19T05:45:21+00:00"
         },
         {
-          "title": "«Certains comportements inadmissibles»: Rabiot tacle des coéquipiers après le premier acte honteux contre l’Angleterre",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/certains-comportements-inadmissibles-rabiot-tacle-des-coequipiers-apres-le-premier-acte-honteux-contre-l-angleterre-20260719",
+          "title": "Guerre en Ukraine : Kiev bombardée au lendemain d’attaques ukrainiennes dévastatrices en Russie",
+          "link": "https://www.lefigaro.fr/international/ukraine-de-puissantes-explosions-entendues-a-kiev-20260719",
           "source": "Le Figaro",
-          "summary": "Le milieu de terrain de l’équipe de France a tenu des propos forts après la défaite contre l’Angleterre (4-6) samedi soir.",
-          "published": "2026-07-19T02:16:32+00:00"
+          "summary": "Le maire de Kiev, Vitaly Klitschko, a fait état sur Telegram de véhicules en feu et de fumées s’élevant près d’un centre commercial du district de Desniansky.",
+          "published": "2026-07-19T05:33:29+00:00"
         },
         {
-          "title": "Les notes des Bleus contre l’Angleterre : Mbappé exemplaire, Cherki agaçant, Konaté-Gusto calamiteux",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/les-notes-des-bleus-mbappe-exemplaire-olise-intermittent-konate-gusto-calamiteux-20260719",
+          "title": "Ce village bleu et blanc est l’un des plus beaux de Tunisie : Sidi Bou Saïd, bientôt inscrit au patrimoine de l’humanité ?",
+          "link": "https://www.lefigaro.fr/voyages/guides/ce-village-bleu-et-blanc-est-l-un-des-plus-beaux-de-tunisie-sidi-bou-said-bientot-inscrit-au-patrimoine-de-l-humanite-20260719",
           "source": "Le Figaro",
-          "summary": "Découvrez les notes de notre envoyé spécial à Miami après le succès de l’équipe de France contre l’Angleterre (4-6).",
-          "published": "2026-07-19T02:16:29+00:00"
+          "summary": "La candidature du village tunisien sera étudiée fin juillet par l’Unesco. Une étape importante pour ce lieu hautement touristique en proie à des menaces géologiques.",
+          "published": "2026-07-19T05:30:00+00:00"
         },
         {
           "title": "L'influenceur masculiniste Andrew Tate et son frère arrêtés aux États-Unis",
           "link": "https://www.lefigaro.fr/international/l-influenceur-masculiniste-andrew-tate-et-son-frere-arretes-aux-etats-unis-20260719",
           "source": "Le Figaro",
-          "summary": "Les frères ont été incarcérés pendant quelques mois en Roumanie sous l’accusation d’avoir dupé plusieurs femmes à des fins d’exploitation sexuelle, y compris des mineures.",
-          "published": "2026-07-19T01:55:19+00:00"
+          "summary": "Les frères ont déjà été incarcérés pendant quelques mois en Roumanie sous l’accusation d’avoir dupé plusieurs femmes à des fins d’exploitation sexuelle, y compris des mineures.",
+          "published": "2026-07-19T05:19:16+00:00"
         },
         {
-          "title": "Coupe du monde 2026 : la honte puis la révolte... mais les Bleus perdent pour la dernière de Deschamps",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-au-terme-d-un-match-fou-les-bleus-s-inclinent-face-a-l-angleterre-pour-la-derniere-de-deschamps-20260719",
+          "title": "Coupe du monde 2026 : Deschamps avait raison, ses remplaçants ne méritaient pas mieux",
+          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-deschamps-avaient-raison-ses-remplacants-ne-meritaient-pas-mieux-20260719",
           "source": "Le Figaro",
-          "summary": "Dans un match qui a basculé dans une forme de folie, l’équipe de France s’est inclinée contre l’Angleterre (4-6) lors de la petite finale de Coupe du monde.",
-          "published": "2026-07-19T00:59:34+00:00"
+          "summary": "S’il a procédé à de nombreux changements samedi, à Miami, contre l’Angleterre (défaite 4-6), Didier Deschamps n’a pas connu un vrai retour sur investissement.",
+          "published": "2026-07-19T05:17:17+00:00"
         },
         {
-          "title": "France-Angleterre : les quatre buts encaissés avant la pause par les Bleus, les buts records de Mbappé... En vidéo, la folie de la «petite finale»",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-angleterre-en-video-l-ouverture-du-score-de-declan-rice-qui-punit-les-bleus-20260718",
+          "title": "XV de France : la nouvelle option Jalibert, Brau-Boirie s’affirme, Attissobge confirme... Le baromètre des Bleus dans l’hémisphère sud",
+          "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/xv-de-france-la-nouvelle-option-jalibert-brau-boirie-s-affirme-attissobge-confirme-le-barometre-des-bleus-dans-l-hemisphere-sud-20260719",
           "source": "Le Figaro",
-          "summary": "Retrouvez tous les moments forts de la «petite finale» de la Coupe du monde 2026, entre l’équipe de France et l’Angleterre, ce samedi à Miami.",
-          "published": "2026-07-19T00:00:25+00:00"
+          "summary": "À l’issue de la première partie du Championnat des nations, quels sont les joueurs qui ont marqué des points et ceux qui en ont perdu ? Tour d’horizon.",
+          "published": "2026-07-19T05:15:00+00:00"
         },
         {
-          "title": "Coupe du monde 2026 : Konaté boit la tasse, Olise aux deux visages, Kylian Mbappé exemplaire... Les notes des Bleus contre l'Angleterre",
-          "link": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-ibrahima-konate-boit-la-tasse-michael-olise-double-face-kylian-mbappe-exemplaire-les-notes-des-bleus-contre-l-angleterre_8113403.html#xtor=RSS-3-[lestitres]",
+          "title": "Coupe du monde 2026 : Lionel Messi est-il favori pour le Ballon d’or ?",
+          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-lionel-messi-est-il-favori-pour-le-ballon-d-or-20260719",
+          "source": "Le Figaro",
+          "summary": "LA QUESTION DU JOUR – La course au Ballon d’or 2026 est totalement relancée après la sortie de piste des Bleus et le récital de la «Pulga» en Amérique.",
+          "published": "2026-07-19T05:10:00+00:00"
+        },
+        {
+          "title": "Coupe du monde : l'Espagne de Yamal et l'Argentine de Messi ont rendez-vous avec l'histoire en finale, scénario incroyable pour France-Angleterre",
+          "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-l-espagne-de-yamal-et-l-argentine-de-messi-ont-rendez-vous-avec-l-histoire-en-finale-scenario-incroyable-pour-france-angleterre_8113370.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les joueurs de l'équipe de France ont montré deux visages, samedi, avec une belle réaction après une première période catastrophique, à l'issue de laquelle ils étaient menés 4-0.",
-          "published": "2026-07-18T23:45:24+00:00"
+          "summary": "C'est le grand jour pour la Roja et l'Albiceleste, opposées en finale de Coupe du monde à New York, à 21 heures. Samedi, des Bleus à deux visages ont failli créer l'exploit face aux Three Lions, dans la petite finale.",
+          "published": "2026-07-19T05:01:19+00:00"
         },
         {
-          "title": "L'équipe de France boucle sa Coupe du monde avec une défaite contre l'Angleterre lors d'une petite finale complètement folle",
-          "link": "https://www.franceinfo.fr/coupe-du-monde/l-equipe-de-france-boucle-sa-coupe-du-monde-avec-une-defaite-contre-l-angleterre-lors-d-une-petite-finale-completement-folle_8113397.html#xtor=RSS-3-[lestitres]",
+          "title": "Tour de France 2026 : qui va s'imposer au plateau de Solaison, au terme de l'étape la plus difficile de cette édition ?",
+          "link": "https://www.franceinfo.fr/tour-de-france/direct-tour-de-france-2026-qui-va-s-imposer-au-plateau-de-solaison-au-terme-de-l-etape-la-plus-difficile-de-cette-edition_8113469.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Après une première période cataclysmique, la pire de l'ère Didier Deschamps, les Bleus ont failli refaire leur retard dans un deuxième acte à sens unique.",
-          "published": "2026-07-18T23:23:11+00:00"
+          "summary": "Après la 14e étape remportée par Tadej Pogacar, les coureurs vont devoir gravir le plateau de Solaison, en Haute-Savoie, pour la première fois dans l'histoire de la Grande Boucle.",
+          "published": "2026-07-19T05:00:13+00:00"
         },
         {
-          "title": "Match pour la 3e place du Mondial : les Anglais s’imposent face aux Bleus au terme d’une rencontre échevelée",
-          "link": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-la-france-face-a-langleterre-pour-une-place-de-troisieme-20260718_MKGLZFLSK5FMZGRKAHQVQH5KLE/",
-          "source": "Liberation",
-          "summary": "Largement menés par les Three Lions à la mi-temps, les Français ont remonté la pente mais se sont inclinés (4-6) dans la petite finale disputée ce samedi soir à Miami. Il s’agissait du dernier match de Didier Deschamps…",
-          "published": "2026-07-18T23:11:31+00:00"
-        },
-        {
-          "title": "Coupe du monde 2026 : Kylian Mbappé casse le record de buts de Lionel Messi et entre un peu plus dans la légende",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-kylian-mbappe-egale-le-record-de-21-buts-de-lionel-messi-et-entre-un-peu-plus-dans-la-legende-20260719",
+          "title": "Pour des vacances, pour investir, pour la retraite : les Pouilles, le nouvel eldorado du sud de l’Italie",
+          "link": "https://www.lefigaro.fr/voyages/pour-des-vacances-pour-investir-pour-la-retraite-les-pouilles-le-nouvel-eldorado-du-sud-de-l-italie-20260719",
           "source": "Le Figaro",
-          "summary": "En inscrivant deux buts face à l’Angleterre lors de la «petite finale», ce samedi à Miami, Kylian Mbappé a battu le record de buts de Lionel Messi en Coupe du monde.",
-          "published": "2026-07-18T23:10:45+00:00"
+          "summary": "ENQUÊTE - Plus que jamais à la mode, les Pouilles attirent les investisseurs étrangers, séduits par la beauté de cette région pittoresque et préservée.",
+          "published": "2026-07-19T05:00:00+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Ce casque premium qui surpasse Sony et Bose perd plus de 200 € pour la fin des soldes",
+          "link": "https://www.frandroid.com/bons-plans/3184217_ce-casque-premium-qui-surpasse-sony-et-bose-perd-plus-de-200-e-pour-la-fin-des-soldes",
+          "source": "Frandroid",
+          "summary": "Le Bowers &amp; Wilkins Px8 S2 est un casque Bluetooth circum-aural haut de gamme à la signature sonore très travaillée que vous retrouvez pour 512,27 euros au lieu de 729,99 euros sur Amazon.",
+          "published": "2026-07-19T05:49:00+00:00"
+        },
+        {
+          "title": "Meilleur PC portable à moins de 1000 € : notre sélection 2026 des meilleurs rapports qualité-prix",
+          "link": "https://www.frandroid.com/guide-dachat/638396_quels-sont-les-meilleurs-pc-portables-a-moins-de-1000-euros-en-2019",
+          "source": "Frandroid",
+          "summary": "On trouve aujourd'hui d'excellents ordinateurs portables avec un rapport qualité-prix remarquable pour un budget inférieur à 1000 €. Mais l'offre est très variée, des modèles à 700 € aux PC portables à 1000 € , alors…",
+          "published": "2026-07-18T19:56:12+00:00"
+        },
         {
           "title": "Xpeng frappe fort, une BYD perd son moteur en pleine rue, Tesla gagne moins d’argent : le récap’ Vroom de la semaine",
           "link": "https://www.numerama.com/vroom/2297069-xpeng-frappe-fort-une-byd-perd-son-moteur-en-pleine-rue-tesla-gagne-moins-dargent-par-voiture-le-recap-vroom-de-la-semaine.html",
@@ -302,20 +316,6 @@
           "source": "Numerama",
           "summary": "[Deal du jour] Envie de filmer vos voyages cet été ? Pourquoi ne pas investir dans du bon matériel qui vous durera longtemps, comme l'action cam HERO13 Black dans son pack Creator en promotion.",
           "published": "2026-07-18T14:45:00+00:00"
-        },
-        {
-          "title": "HP accusé de cartel sur les PC et les cartouches d'encre",
-          "link": "https://www.clubic.com/actualite-621883-hp-condamne-a-une-amende-de-plusieurs-millions-pour-cartel-sur-les-pc-et-les-cartouches-d-encre.html",
-          "source": "Clubic",
-          "summary": "La Competition Commission of India (CCI) a infligé à HP India et à 21 de ses revendeurs une amende cumulée proche de 12,8 millions d’euros. Le régulateur a sanctionné, à travers deux ordonnances, des ententes sur des…",
-          "published": "2026-07-18T14:45:00+00:00"
-        },
-        {
-          "title": "Quelle distribution Linux choisir ? Notre comparatif des meilleurs systèmes",
-          "link": "https://www.frandroid.com/os/3174989_quelle-distribution-linux-choisir-notre-comparatif-des-meilleurs-systemes",
-          "source": "Frandroid",
-          "summary": "Vous avez franchi le pas et vous voulez passer à Linux ? Pour valider définitivement cette étape, il faut sélectionner un système. Quelle distribution Linux choisir ? Voici notre sélection.",
-          "published": "2026-07-18T14:02:00+00:00"
         }
       ]
     }
