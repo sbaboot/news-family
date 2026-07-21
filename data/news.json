@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-07-21T05:49:31.381727+00:00",
+  "generated_at": "2026-07-21T08:26:14.867609+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Ebola en RDC : posez vos questions à nos journalistes Morgane Le Cam et Philémon Barbier, de retour de reportage dans l’épicentre de l’épidémie",
+          "link": "https://www.lemonde.fr/afrique/live/2026/07/21/ebola-en-rdc-posez-vos-questions-a-nos-journalistes-morgane-le-cam-et-philemon-barbier-de-retour-de-reportage-dans-l-epicentre-de-l-epidemie_6728461_3212.html",
+          "source": "Le Monde",
+          "summary": "Notre reporter s’est rendue pour « Le Monde Afrique » avec le photographe Philémon Barbier à Mongbwalu, dans l’est de la République démocratique du Congo, où l’épidémie d’Ebola due à la souche Bundibugyo s’est déclarée…",
+          "published": "2026-07-21T08:10:29+00:00"
+        },
+        {
+          "title": "Face aux Etats-Unis, l’Iran parie sur une guerre d’usure",
+          "link": "https://www.lemonde.fr/international/article/2026/07/21/face-aux-etats-unis-l-iran-parie-sur-une-guerre-d-usure_6728460_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que les frappes américaines se poursuivent en Iran, Téhéran évite, pour l’instant, une confrontation totale. Son calcul repose sur la menace de provoquer une perturbation énergétique mondiale pour contraindre…",
+          "published": "2026-07-21T08:00:02+00:00"
+        },
+        {
+          "title": "Au Liban, l’armée se déploie dans les « zones pilotes » du sud du pays, première étape de l’accord avec Israël",
+          "link": "https://www.lemonde.fr/international/article/2026/07/21/au-liban-l-armee-se-deploie-dans-les-zones-pilotes-du-sud_6728394_3210.html",
+          "source": "Le Monde",
+          "summary": "L’établissement de ces zones, parrainées par Washinghton et confiées à l’armée libanaise, est prévu par l’accord-cadre signé en juin par Israël et le Liban pour mettre fin à l’état de guerre.",
+          "published": "2026-07-21T07:31:14+00:00"
+        },
+        {
+          "title": "Un naufrage au Guyana fait au moins 27 morts et 83 disparus",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260721-un-naufrage-au-guyana-fait-au-moins-27-morts-et-83-disparus",
+          "source": "France 24",
+          "summary": "Un ferry a fait naufrage au Guyana dans la nuit de samedi à dimanche. Le Premier ministre annonce \"à ce stade des opérations\" de secours au moins 27 morts et 83 disparus. Plusieurs anomalies ont été révélées, comme la…",
+          "published": "2026-07-21T07:28:33+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée libanaise se déploie dans un village du sud du pays pour commencer à établir des « zones pilotes », conformément à un accord avec Israël",
+          "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-au-moyen-orient-l-armee-libanaise-se-deploie-dans-un-village-du-sud-du-pays-pour-commencer-a-etablir-des-zones-pilotes-conformement-a-un-accord-avec-israel_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "L’établissement de « zones pilotes », comme dans le village de Zaoutar El-Charkiyé, est prévu par l’accord-cadre signé en juin par les deux pays pour mettre fin à l’état de guerre entre eux. Ce déploiement est le…",
+          "published": "2026-07-21T07:27:52+00:00"
+        },
+        {
+          "title": "En Sierra Leone et au Liberia, plongée dans l’enfer du kush, drogue de synthèse aux effets dévastateurs",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/21/en-sierra-leone-et-au-liberia-plongee-dans-l-enfer-du-kush-drogue-de-synthese-aux-effets-devastateurs_6728289_3451060.html",
+          "source": "Le Monde",
+          "summary": "« L’Afrique sous emprise » (2/6). Vendu à bas prix, le kush provoque une addiction fulgurante et des blessures graves, souvent mortelles. Le photographe Gaël Turine s’est rendu à Freetown et à Monrovia pour témoigner…",
+          "published": "2026-07-21T06:10:36+00:00"
+        },
+        {
+          "title": "🔴 En direct : l'Iran vise des radars et des systèmes de défense américains dans le Golfe en riposte à des frappes",
+          "link": "https://www.france24.com/fr/moyen-orient/20260721-en-direct-moyen-orient-iran-etats-unis-frappes-americaines-bahrein-koweit-ormuz-trump-houthis",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-07-21T05:52:40+00:00"
+        },
         {
           "title": "« Certains ont été licenciés, d’autres sont expulsés de leur logement » : des dizaines de milliers d’étrangers chassés d’Afrique du Sud",
           "link": "https://www.lemonde.fr/afrique/article/2026/07/21/certains-ont-ete-licencies-d-autres-sont-expulses-de-leur-logement-des-dizaines-de-milliers-d-etrangers-chasses-d-afrique-du-sud_6728223_3212.html",
@@ -12,10 +61,10 @@
           "published": "2026-07-21T05:30:07+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : le FMI valide une enveloppe immédiate de 690 millions de dollars pour Kiev",
+          "title": "EN DIRECT, guerre en Ukraine : plus de 5 millions de réfugiés ukrainiens accueillis en Europe depuis le début de la guerre, selon le HCR",
           "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-le-fmi-valide-une-enveloppe-immediate-de-690-millions-de-dollars-pour-kiev_6725306_3210.html",
           "source": "Le Monde",
-          "summary": "Ce versement entre dans le cadre du programme de prêt du Fonds monétaire international, qui attend de l’Ukraine le maintien de sa stabilité économique et la poursuite de plusieurs réformes, notamment en matière de…",
+          "summary": "Le nombre de réfugiés ukrainiens dans le monde (hors Russie) s’élevait à 5,762 millions de personnes au 30 avril 2026, dont 5,213 millions enregistrés en Europe et 549 000 hors du continent, selon le dernier bulletin…",
           "published": "2026-07-21T05:03:58+00:00"
         },
         {
@@ -24,55 +73,6 @@
           "source": "France 24",
           "summary": "L’Espagne a retrouvé ses supporters, à Madrid, moins de 24 heures après son titre mondial remporté face à l’Argentine (1-0, a.p.). Les joueurs de la Roja, accompagnés de leur sélectionneur Luis de la Fuente, ont…",
           "published": "2026-07-21T05:03:23+00:00"
-        },
-        {
-          "title": "L’écriture : comment y prendre goût dès le plus jeune âge ?",
-          "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260721-l-%C3%A9criture-comment-y-prendre-go%C3%BBt-d%C3%A8s-le-plus-jeune-%C3%A2ge",
-          "source": "RFI",
-          "summary": "Au cœur de l’été sans école, la plupart des enfants et adolescents profitent des grandes vacances scolaires. L’occasion de trouver d’autres occupations. Et pourquoi pas l’écriture ? Pas celle qui consiste à prendre des…",
-          "published": "2026-07-21T05:00:07+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis et l’Iran ont de nouveau échangé des tirs durant la nuit",
-          "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-au-moyen-orient-les-etats-unis-et-l-iran-ont-de-nouveau-echange-des-tirs-durant-la-nuit_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "Les gardiens de la révolution iraniens ont annoncé avoir visé des cibles militaires américaines à Bahreïn et au Koweït. L’armée américaine a, elle, déclaré avoir mené une dixième nuit de bombardements d’affilée contre…",
-          "published": "2026-07-21T04:12:09+00:00"
-        },
-        {
-          "title": "Mort d'un Marocain lors d'une interpellation en Italie: \"L'Etat de droit en mauvais état?\"",
-          "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260721-mort-d-un-marocain-lors-d-une-interpellation-en-italie-l-etat-de-droit-en-mauvais-%C3%A9tat",
-          "source": "France 24",
-          "summary": "A la Une de la presse, ce mardi 21 juillet, l’émotion et la polémique, après la mort, dimanche, d’Abderrahim Fakir, un Marocain brutalement interpellé par deux policiers, à Bologne, en Italie. La réouverture de la…",
-          "published": "2026-07-21T04:12:08+00:00"
-        },
-        {
-          "title": "Rotterdam, premier port d’Europe et hub énergétique, entame une timide transition",
-          "link": "https://www.lemonde.fr/economie/article/2026/07/21/rotterdam-premier-port-d-europe-et-hub-energetique-entame-une-timide-transition_6728154_3234.html",
-          "source": "Le Monde",
-          "summary": "« La ruée sur les ports » (12/16). Le site portuaire a pris quelques initiatives pour réduire l’impact carbone de ses activités, en développant l’hydrogène ou en se fournissant auprès d’un vaste parc éolien offshore.…",
-          "published": "2026-07-21T04:00:17+00:00"
-        },
-        {
-          "title": "Les rebelles houthistes du Yémen annoncent un blocus maritime de l’Arabie saoudite, sans donner les détails de sa mise en œuvre",
-          "link": "https://www.lemonde.fr/international/article/2026/07/21/les-rebelles-houthistes-du-yemen-annoncent-un-blocus-maritime-de-l-arabie-saoudite-sans-donner-les-details-de-sa-mise-en-uvre_6728151_3210.html",
-          "source": "Le Monde",
-          "summary": "Cette menace, qui reste pour l’heure hypothétique, pourrait mettre à mal la capacité du premier exportateur de pétrole brut au monde à contourner le détroit d’Ormuz.",
-          "published": "2026-07-21T03:57:35+00:00"
-        },
-        {
-          "title": "Espagne : l’écho du silence (2/5)",
-          "link": "https://www.lemonde.fr/podcasts/article/2026/07/21/espagne-l-echo-du-silence-2-5_6728084_5463015.html",
-          "source": "Le Monde",
-          "summary": "Dans ce deuxième épisode de la série de podcasts « Espagne : l’écho du silence », la journaliste Garance Muñoz s’intéresse au déroulé de la guerre d’Espagne et aux combats qui ont emporté son arrière-grand-père, mort en…",
-          "published": "2026-07-21T03:00:10+00:00"
-        },
-        {
-          "title": "En direct : l'Iran vise des radars et des systèmes de défense américains en riposte à des frappes",
-          "link": "https://www.france24.com/fr/moyen-orient/20260721-en-direct-moyen-orient-iran-etats-unis-frappes-americaines-bahrein-koweit-ormuz-trump-houthis",
-          "source": "France 24",
-          "summary": "L'armée américaine a annoncé, lundi, avoir conclu une dixième nuit de frappes consécutives contre l'Iran, ayant notamment visé des centres de commandement militaire et des cibles maritimes de la République islamique.…",
-          "published": "2026-07-21T02:53:58+00:00"
         }
       ]
     },
@@ -91,17 +91,17 @@
           "published": "2026-07-21T04:12:42+00:00"
         },
         {
-          "title": "On n’insulte pas des policiers!",
-          "link": "https://www.journaldemontreal.com/2026/07/21/on-ninsulte-pas-des-policiers",
-          "source": "Journal de Montreal",
-          "summary": "Ras-le-bol de ces sans-gêne qui insultent toutes les figures d’autorité!",
-          "published": "2026-07-21T04:10:00+00:00"
-        },
-        {
           "title": "Le chant des oiseaux, perdu dans le tumulte de la ville",
           "link": "https://www.ledevoir.com/actualites/environnement/996125/chant-oiseaux-perdu-tumulte-ville",
           "source": "Le Devoir",
           "summary": "L’incidence du bruit sur leur comportement est de plus en plus prouvée.",
+          "published": "2026-07-21T04:00:00+00:00"
+        },
+        {
+          "title": "La rappeuse montréalaise Kamilou sort de sa coquille",
+          "link": "https://www.ledevoir.com/culture/musique/996041/rappeuse-montrealaise-kamilou-sort-coquille",
+          "source": "Le Devoir",
+          "summary": "À 23 ans, l’artiste enchaîne les festivals sans avoir encore sorti un seul album.",
           "published": "2026-07-21T04:00:00+00:00"
         },
         {
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "«On est quasiment certains que la chevrette a fui les incendies» : à Fontainebleau, plus de 6 000 volontaires au secours des animaux",
-          "link": "https://www.liberation.fr/environnement/on-est-quasiment-certains-que-la-chevrette-a-fui-les-incendies-a-fontainebleau-plus-de-6-000-volontaires-au-secours-des-animaux-20260721_JRWFQ3U6GBDOXFVHAWSPFEWLFM/",
-          "source": "Liberation",
-          "summary": "Vétérinaires, familles d’accueil, transporteurs : la catastrophe a fait naître un vaste réseau de bénévoles mobilisés afin de venir en aide aux bêtes blessées. Reste à savoir si cet engagement bénéficiera durablement à…",
-          "published": "2026-07-21T05:42:00+00:00"
-        },
-        {
-          "title": "Coûteux, «incompréhensible»... Le «tarif agent», cet avantage décrié au cœur d’un appel à la grève chez EDF",
-          "link": "https://www.lefigaro.fr/social/couteux-incomprehensible-le-tarif-agent-cet-avantage-decrie-au-coeur-d-un-appel-a-la-greve-chez-edf-20260721",
+          "title": "Marseille : un policier grièvement blessé lors d’un refus d’obtempérer, quatre suspects interpellés",
+          "link": "https://www.lefigaro.fr/marseille/marseille-un-policier-grievement-blesse-lors-d-un-refus-d-obtemperer-quatre-suspects-interpelles-20260721",
           "source": "Le Figaro",
-          "summary": "Le gouvernement réfléchit à rogner sur ce tarif préférentiel sur l’électricité et le gaz, accordé à 300.000 agents et ex-agents d’EDF, mais critiqué par la Cour des comptes. Appelant à le défendre, les syndicats ont…",
-          "published": "2026-07-21T05:30:00+00:00"
+          "summary": "L’agent, qui tentait d’intercepter le chauffard et ses passagers, a été projeté sur une vingtaine de mètres. Son pronostic vital était un temps engagé, mais ses jours ne sont plus en danger. Les occupants du véhicule…",
+          "published": "2026-07-21T08:20:34+00:00"
         },
         {
-          "title": "Guerre au Moyen-Orient : sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche",
-          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-sous-pression-pour-desarmer-le-hezbollah-le-president-libanais-joseph-aoun-recu-par-donald-trump-ce-mardi-a-la-maison-blanche-20260721",
-          "source": "Le Figaro",
-          "summary": "Les États-Unis, qui parrainent depuis avril des négociations entre le Liban et Israël, ont annoncé lundi le début d’application d’un accord confiant à l’armée libanaise le contrôle de «zones pilotes» dans le sud.",
-          "published": "2026-07-21T05:29:30+00:00"
-        },
-        {
-          "title": "«Trois jours plus tard, il n’y avait plus rien à sauver» : en Charente-Maritime, des pêcheurs au secours des poissons asphyxiés par la sécheresse",
-          "link": "https://www.liberation.fr/environnement/biodiversite/trois-jours-plus-tard-il-ny-avait-plus-rien-a-sauver-en-charente-maritime-des-pecheurs-au-secours-des-poissons-asphyxies-par-la-secheresse-20260721_KUFZO3ABO5FRBGKJBZ43COPUQA/",
-          "source": "Liberation",
-          "summary": "Epuisette à la main, des bénévoles multiplient les pêches de sauvetage pour réoxygéner les gardons, perches, ablettes ou brochets du département où plus de 40 % des cours d’eau sont asséchés, un taux inédit en juillet.",
-          "published": "2026-07-21T05:29:00+00:00"
-        },
-        {
-          "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran cible des installations de défense américaines et avertit Washington d’attaques «encore plus puissantes» à venir",
-          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
-          "source": "Le Figaro",
-          "summary": "L’armée américaine a annoncé de son côté lundi avoir conclu une dixième nuit de frappes consécutives contre l’Iran, ayant notamment visé des centres de commandement militaire et des cibles maritimes de la République…",
-          "published": "2026-07-21T05:25:02+00:00"
-        },
-        {
-          "title": "Une chute «hors norme» : les incendies en Amazonie brésilienne sont tombés en 2025 à leur plus bas niveau historique",
-          "link": "https://www.lefigaro.fr/sciences/une-chute-hors-norme-les-incendies-en-amazonie-bresilienne-sont-tombes-en-2025-a-leur-plus-bas-niveau-historique-20260721",
-          "source": "Le Figaro",
-          "summary": "Au niveau du Brésil tout entier, le bilan est positif aussi, puisque la surface brûlée a atteint en 2025 son plus bas niveau depuis 2018 (12,7 millions d’hectares).",
-          "published": "2026-07-21T05:22:14+00:00"
-        },
-        {
-          "title": "Le boycott, nouvelle ligne de partage explosive dans le monde de la culture",
-          "link": "https://www.liberation.fr/culture/le-boycott-nouvelle-ligne-de-partage-explosive-dans-le-monde-de-la-culture-20260721_56ZZYP7ISVEYLA55EWHKY2CPDM/",
-          "source": "Liberation",
-          "summary": "Ce procédé, au cœur de l’affaire Barbara Butch, était encore jusqu’ici peu utilisé car considéré comme liberticide et trop proche des formes de censures régulièrement dégainées par l’extrême droite.",
-          "published": "2026-07-21T05:17:00+00:00"
-        },
-        {
-          "title": "L'Assemblée nationale adopte le projet de loi d'urgence agricole, malgré la réintroduction à titre dérogatoire de pesticides",
+          "title": "L'Assemblée nationale adopte le projet de loi d'urgence agricole, malgré un article contesté permettant la réintroduction à titre dérogatoire de pesticides",
           "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/l-assemblee-nationale-adopte-le-projet-de-loi-d-urgence-agricole-malgre-la-reintroduction-a-titre-derogatoire-de-pesticides_8115608.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Au total, 296 députés ont voté en faveur du projet de loi remanié par les députés et les sénateurs, et 224 s'y sont opposés, majoritairement à gauche. Le texte sera définitivement adopté s'il est approuvé par le Sénat…",
-          "published": "2026-07-21T05:08:59+00:00"
+          "published": "2026-07-21T08:20:14+00:00"
         },
         {
-          "title": "Booba vs Kaaris, deux rappeurs en clash primaire",
-          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/booba-vs-kaaris-deux-rappeurs-en-clash-primaire-20260721_HZCVFAX6NFF27BTTOIUR4BVXIY/",
+          "title": "Silence, l’Iran se meurt, par Sepideh Farsi",
+          "link": "https://www.liberation.fr/idees-et-debats/tribunes/silence-liran-se-meurt-par-sepideh-farsi-20260721_JMN6XZ42T5A47LOL2JQBQWAP5M/",
           "source": "Liberation",
-          "summary": "Le 1er août 2018, à Orly, la bagarre entre les deux rappeurs et leurs clans ravage le duty free de l’aéroport et leur vaudra à chacun dix-huit mois de prison avec sursis. Le point d’orgue de plus de quatre années…",
-          "published": "2026-07-21T05:00:00+00:00"
+          "summary": "Pris en étau entre les frappes américaines qui ont repris dans le sud du pays et par le régime qui réprime et exécute, le peuple iranien est le grand perdant de cette guerre sans fin, souligne la réalisatrice.",
+          "published": "2026-07-21T08:17:04+00:00"
         },
         {
-          "title": "Au cœur du Mondial : Infantino, la Fifa et Trump cassent notre jouet",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/au-coeur-du-mondial-infantino-la-fifa-et-trump-cassent-notre-jouet-20260721",
+          "title": "Loi d’urgence agricole : l’Assemblée adopte le texte qui rend possible la réintroduction de deux pesticides interdits à titre dérogatoire",
+          "link": "https://www.liberation.fr/societe/sante/loi-durgence-agricole-lassemblee-adopte-le-texte-qui-rend-possible-la-reintroduction-de-deux-pesticides-interdits-a-titre-derogatoire-20260721_SPESKTJDJ5CWVBQHO4PFKWDNT4/",
+          "source": "Liberation",
+          "summary": "Avec 296 voix contre 224, les députés ouvrent la porte au retour en France de molécules contestées, l’acétamipride dont la réintroduction était aussi prévue par la loi Duplomb, et le flupyradifurone. Mais les élus…",
+          "published": "2026-07-21T08:15:57+00:00"
+        },
+        {
+          "title": "Marseille : un policier «projeté sur une vingtaine de mètres» lors d’un refus d’obtempérer, quatre personnes interpellées",
+          "link": "https://www.liberation.fr/societe/police-justice/marseille-un-policier-projete-sur-une-vingtaine-de-metres-lors-dun-refus-dobtemperer-quatre-personnes-interpellees-20260721_D6LIT6W5DBCHDJNMCMLKA5NQN4/",
+          "source": "Liberation",
+          "summary": "Le fonctionnaire a été percuté dans la nuit du mardi 20 au mercredi 21 juillet alors qu’il tentait d’arrêter un véhicule volé. Le conducteur et les trois passagers ont été placés en garde à vue.",
+          "published": "2026-07-21T08:14:12+00:00"
+        },
+        {
+          "title": "Grèce : deux touristes agressés au couteau à l’entrée de l’Acropole à Athènes",
+          "link": "https://www.lefigaro.fr/international/grece-deux-touristes-agresses-au-couteau-a-l-entree-de-l-acropole-a-athenes-20260721",
           "source": "Le Figaro",
-          "summary": "La Coupe du monde 2026 marque un vrai tournant dans l’histoire du football moderne. Et pas dans le bon sens…",
-          "published": "2026-07-21T04:58:19+00:00"
+          "summary": "Des policiers motorisés sont arrivés rapidement sur les lieux, ont posé un garrot à l’homme pour arrêter l’hémorragie et immobilisé l’attaquant qui a ensuite été arrêté, précise Ana.",
+          "published": "2026-07-21T08:13:09+00:00"
+        },
+        {
+          "title": "Singapour : un touriste cache un faux diamant dans sa bouche pour en voler un vrai",
+          "link": "https://www.lefigaro.fr/international/singapour-un-touriste-cache-un-faux-diamant-dans-sa-bouche-pour-en-voler-un-vrai-20260721",
+          "source": "Le Figaro",
+          "summary": "Un touriste indien a été condamné à plus de deux ans de prison à Singapour pour une tentative de vol d’un diamant de 4,95 carats d’une valeur de 135.000 euros.",
+          "published": "2026-07-21T08:12:21+00:00"
+        },
+        {
+          "title": "Ebola en RDC : posez vos questions à nos journalistes Morgane Le Cam et Philémon Barbier, de retour de reportage dans l’épicentre de l’épidémie",
+          "link": "https://www.lemonde.fr/afrique/live/2026/07/21/ebola-en-rdc-posez-vos-questions-a-nos-journalistes-morgane-le-cam-et-philemon-barbier-de-retour-de-reportage-dans-l-epicentre-de-l-epidemie_6728461_3212.html",
+          "source": "Le Monde",
+          "summary": "Notre reporter s’est rendue pour « Le Monde Afrique » avec le photographe Philémon Barbier à Mongbwalu, dans l’est de la République démocratique du Congo, où l’épidémie d’Ebola due à la souche Bundibugyo s’est déclarée…",
+          "published": "2026-07-21T08:10:29+00:00"
+        },
+        {
+          "title": "Les feux à un niveau historiquement bas en 2025 en Amazonie brésilienne",
+          "link": "https://www.franceinfo.fr/monde/bresil/les-feux-a-un-niveau-historiquement-bas-en-2025-en-amazonie-bresilienne_8116055.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "C'est ce que montrent les données publiées mardi par le réseau de surveillance environnementale MapBiomas, qui rassemble des universités, des ONG et des entreprises technologiques.",
+          "published": "2026-07-21T08:07:20+00:00"
+        },
+        {
+          "title": "Accusé par cinq femmes, le chanteur Tsew the Kid mis en examen pour viols conjugaux et violences",
+          "link": "https://www.liberation.fr/societe/police-justice/accuse-par-cinq-femmes-le-chanteur-tsew-the-kid-mis-en-examen-pour-viols-conjugaux-et-violences-20260721_Y327QXGRINA2XMSTYHA5C3HJLM/",
+          "source": "Liberation",
+          "summary": "L’artiste de 29 ans conteste les faits, assurant que «tous les rapports ont été consentis». La justice a décidé de le placer sous contrôle judiciaire en janvier.",
+          "published": "2026-07-21T08:05:13+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Google facilite le passage entre la recherche classique et « Ask Photos » dans Google Photos",
-          "link": "https://www.frandroid.com/marques/google/3186303_google-facilite-le-passage-entre-la-recherche-classique-et-ask-photos-dans-google-photos",
+          "title": "Paramount-Warner Bros. : une juge californienne suspend temporairement la mégafusion",
+          "link": "https://www.frandroid.com/services/svod/3186509_paramount-warner-bros-une-juge-californienne-suspend-temporairement-la-megafusion",
           "source": "Frandroid",
-          "summary": "Google Photos permet à ses utilisateurs d’alterner entre une recherche classique et une recherche améliorée grâce à Google Gemini. Avec Ask Photos, les utilisateurs vont pouvoir faire des recherches en langage naturel…",
-          "published": "2026-07-21T05:48:46+00:00"
+          "summary": "Une juge fédérale de Californie a ordonné une pause temporaire de la fusion entre Warner Bros. Discovery et son acquéreur, Paramount. Une suspension qui doit durer au moins deux semaines, le temps aux opposants à cette…",
+          "published": "2026-07-21T08:25:20+00:00"
         },
         {
-          "title": "« L’IA ne remplace pas les graphismes, elle les enrichit » : Nvidia dévoile à nouveau le DLSS 5 et veut rassurer les joueurs",
-          "link": "https://www.frandroid.com/marques/nvidia/3186387_lia-ne-remplace-pas-les-graphismes-elle-les-enrichit-nvidia-devoile-a-nouveau-le-dlss-5-et-veut-rassurer-les-joueurs",
+          "title": "Garmin Cirqa : le concurrent de Whoop se dévoile en quatre coloris",
+          "link": "https://www.frandroid.com/marques/garmin/3186575_garmin-cirqa-le-concurrent-de-whoop-se-devoile-en-quatre-coloris",
           "source": "Frandroid",
-          "summary": "Nvidia livre une nouvelle présentation concernant le DLSS 5 lors de la conférence SIGGRAPH, en expliquant notamment comment les artistes et développeurs pourront régler l'intensité du rendu pour améliorer les graphismes…",
-          "published": "2026-07-21T05:46:45+00:00"
+          "summary": "Le bracelet connecté sans écran de Garmin, le Cirqa, vient de dévoiler son design via des images tirées des serveurs de la marque. Le choix du capteur cardio interroge, alors que le bracelet pourrait être présenté tout…",
+          "published": "2026-07-21T08:25:16+00:00"
         },
         {
-          "title": "Spider-Man: Brand New Day est inspiré des jeux vidéo PlayStation",
-          "link": "https://www.numerama.com/pop-culture/2298319-spider-man-brand-new-day-est-inspire-des-jeux-video-playstation.html",
+          "title": "The Blood of Dawnwalker entend devenir Entretien avec un vampire, version jeu vidéo",
+          "link": "https://www.numerama.com/pop-culture/2298343-the-blood-of-dawnwalker-entend-devenir-entretien-avec-un-vampire-version-jeu-video.html",
           "source": "Numerama",
-          "summary": "Le réalisateur Destin Daniel Cretton a révélé que certaines cascades de Spider-Man: Brand New Day ont été inspirées par les jeux vidéo édités par PlayStation. Une preuve que les adaptations signées Insomniac Games sont…",
-          "published": "2026-07-21T05:40:53+00:00"
+          "summary": "Le studio Rebel Wolves a révélé les ambitions immenses qui se cachent derrière The Blood of Dawnwalker, héritier de la saga The Witcher. L'idée est d'en faire une saga qui traverserait plusieurs époques, toujours avec…",
+          "published": "2026-07-21T08:20:00+00:00"
         },
         {
-          "title": "TCL 55C69K Pro : un TV 55 pouces taillé pour le cinéma et le gaming à 699 euros au lieu de 799",
-          "link": "https://www.frandroid.com/bons-plans/3185661_tcl-55c69k-pro-un-tv-55-pouces-taille-pour-le-cinema-et-le-gaming-a-699-euros-au-lieu-de-799",
+          "title": "Czkawka : le logiciel gratuit qui retrouve les gigas engloutis par vos doublons",
+          "link": "https://www.clubic.com/actualite-622096-czkawka-le-logiciel-gratuit-qui-retrouve-les-gigas-engloutis-par-vos-doublons.html",
+          "source": "Clubic",
+          "summary": "Le disque affiche complet et le réflexe consiste à racheter du stockage. Czkawka propose l'étape intermédiaire : traquer les doublons, les photos quasi identiques et les gros fichiers oubliés qui squattent vos gigas,…",
+          "published": "2026-07-21T08:17:00+00:00"
+        },
+        {
+          "title": "Chrome : le remplissage des formulaires web par Gemini arrive bientôt",
+          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3186549_chrome-le-remplissage-des-formulaires-web-par-gemini-arrive-bientot",
           "source": "Frandroid",
-          "summary": "Avec le TCL&nbsp;55C69K Pro, vous aurez certes un excellent TV pour les soirées cinéma, mais la marque n'a pas oublié les joueurs avec du 144 Hz et quatre ports HDMI 2.1. En outre, le téléviseur est en ce moment…",
-          "published": "2026-07-21T05:31:00+00:00"
+          "summary": "Google teste actuellement une fonctionnalité inédite qui exploite l'intelligence artificielle pour remplir automatiquement des formulaires web .",
+          "published": "2026-07-21T08:12:39+00:00"
         },
         {
-          "title": "Badge de télépéage : comment rouler GRATUITEMENT pour vos 12 premiers mois avec ce code promo ?",
-          "link": "https://www.clubic.com/bons-plans-620506-badge-de-telepeage-comment-rouler-gratuitement-pour-vos-12-premiers-mois-avec-ce-code-promo.html",
-          "source": "Clubic",
-          "summary": "Vous en avez assez de perdre du temps au péage ? Cette offre est faite pour vous ! En ce moment Ulys vous propose 12 mois OFFERTS sur son badge télépéage, de quoi gagner de précieuses minutes sur la route des vacances.",
-          "published": "2026-07-21T05:30:00+00:00"
-        },
-        {
-          "title": "Liberté d’expression : nouvelle offensive US contre les règles européennes de modération",
-          "link": "https://next.ink/248196/liberte-dexpression-nouvelle-offensive-us-contre-les-regles-europeennes-de-moderation/",
-          "source": "Next",
-          "summary": "Les États-Unis de Donald Trump ont une dent contre les régulations que l&#8217;Union européenne impose aux grandes entreprises du numérique. À l&#8217;occasion du lancement de la 81e session de l&#8217;Assemblée…",
-          "published": "2026-07-21T05:18:30+00:00"
-        },
-        {
-          "title": "Soldes d'été prolongées : voici les 10 offres à ne pas rater pour cette semaine bonus",
-          "link": "https://www.clubic.com/bons-plans-622081-soldes-d-ete-prolongees-voici-les-10-offres-a-ne-pas-rater-pour-cette-semaine-bonus.html",
-          "source": "Clubic",
-          "summary": "Bonne nouvelle pour les chasseurs de bonnes affaires : les Soldes d'été 2026 ne se terminent finalement pas le 21 juillet, mais le 28 juillet. Voici une nouvelle sélection multi-marchands pour profiter de cette semaine…",
-          "published": "2026-07-21T05:17:00+00:00"
-        },
-        {
-          "title": "La fibre à 0,01 € par mois ? Les sites d’Orange et de Sosh sont victimes d’un gros bug",
-          "link": "https://www.numerama.com/tech/2298289-la-fibre-a-001-e-par-mois-les-sites-dorange-et-de-sosh-sont-victimes-dun-gros-bug.html",
+          "title": "Free Mobile ajoute 5 destinations en illimité à son forfait Max : voici la liste complète",
+          "link": "https://www.numerama.com/tech/2298417-free-mobile-ajoute-5-destinations-en-illimite-a-son-forfait-max-voici-la-liste-complete.html",
           "source": "Numerama",
-          "summary": "Sosh et Orange semblent avoir lancé l’offre fibre la plus agressive du marché, avec un abonnement affiché à seulement 0,01 € par mois pendant un an. Une proposition évidemment trop belle pour être vraie.",
-          "published": "2026-07-20T22:06:20+00:00"
+          "summary": "Free annonce l'arrivée de cinq nouvelles destinations dans son forfait Free Max, qui couvre désormais 142 territoires. Saint-Martin (partie néerlandaise), Bonaire, Curaçao, Saba et Saint-Eustache rejoignent la liste des…",
+          "published": "2026-07-21T08:10:43+00:00"
         },
         {
-          "title": "« Vous détestez les femmes » : Uber explique pourquoi son option réservée aux femmes peut coûter deux fois plus cher",
-          "link": "https://www.numerama.com/vroom/2297669-vous-detestez-les-femmes-uber-explique-pourquoi-son-option-reservee-aux-femmes-peut-couter-deux-fois-plus-cher.html",
-          "source": "Numerama",
-          "summary": "Uber by Women permet aux passagères de voyager avec une conductrice. Mais dans certaines villes, cette option peut coûter plus de deux fois plus cher qu’une course classique, selon un message publié par une utilisatrice…",
-          "published": "2026-07-20T17:40:00+00:00"
-        },
-        {
-          "title": "L'ANFR fait retirer de la vente un téléphone portable vendu plus de 500 euros, dangereux pour la santé",
-          "link": "https://www.clubic.com/actualite-622075-l-anfr-fait-retirer-de-la-vente-un-telephone-portable-vendu-plus-de-500-euros-dangereux-pour-la-sante.html",
+          "title": "Test Reolink Argus MagiCam : la caméra magnétique qui se colle partout, mais pas sur la durée",
+          "link": "https://www.clubic.com/test-produit-621601-test-reolink-argus-magicam.html",
           "source": "Clubic",
-          "summary": "Le smartphone Nubia Z70 Ultra, distribué en France par Golden Stream, ne respecte pas la limite réglementaire de DAS imposée dans l'Hexagone. L'ANFR exige son retrait du marché ainsi que le rappel des téléphones NX733J…",
-          "published": "2026-07-20T16:58:00+00:00"
+          "summary": "Avec l’Argus MagiCam, Reolink propose une caméra de surveillance qui s’affranchit des câbles et des perçages : fixation magnétique, alimentation sur piles ou USB-C, format compact qu’on déplace au gré des besoins. À…",
+          "published": "2026-07-21T08:01:00+00:00"
         },
         {
-          "title": "Amazon baisse déjà le prix de ce vidéoprojecteur Full HD avec une batterie dépassant les 3 heures d’autonomie",
-          "link": "https://www.frandroid.com/bons-plans/3185859_amazon-baisse-deja-le-prix-de-ce-videoprojecteur-full-hd-avec-une-batterie-depassant-les-3-heures-dautonomie",
+          "title": "Decathlon brade son vélo électrique Elops LD 500 E avec 300 euros de réduction jusqu’à ce soir",
+          "link": "https://www.frandroid.com/bons-plans/1902961_decathlon-brade-son-velo-electrique-elops-ld-500-e-avec-300-euros-de-reduction-jusqua-ce-soir",
           "source": "Frandroid",
-          "summary": "Avec son image en 1 080p, sa batterie et son pied inclinable à 360°, le Wanbo Togo Pro est un excellent appareil à emmener en vacances pour des soirées cinéma à la belle étoile. Sur Amazon, son prix baisse à 246,99…",
-          "published": "2026-07-20T16:36:00+00:00"
+          "summary": "Un VAE polyvalent, bien équipé et endurant, voilà ce que propose l'Elops LD 500 E de Decathlon. Son prix devient plus intéressant aujourd'hui, puisqu’il passe de 1 499&nbsp;euros à 1 199&nbsp;euros grâce à un code promo…",
+          "published": "2026-07-21T07:59:00+00:00"
         },
         {
-          "title": "Google Pixel 11a : une partie de la fiche technique en fuite",
-          "link": "https://www.clubic.com/actualite-622066-google-pixel-11a-une-partie-de-la-fiche-technique-en-fuite.html",
-          "source": "Clubic",
-          "summary": "Le prochain smartphone Google Pixel 11a commence à se dévoiler. Et il devrait être particulièrement puissant.",
-          "published": "2026-07-20T16:33:00+00:00"
+          "title": "J’ai découvert le Xpeng L03, son intérieur m’a vraiment bluffée pour moins de 35 000 €",
+          "link": "https://www.numerama.com/vroom/2298339-jai-decouvert-le-xpeng-l03-son-interieur-ma-vraiment-bluffee-pour-moins-de-35-000-e.html",
+          "source": "Numerama",
+          "summary": "Xpeng a dévoilé en très grande pompe son nouveau modèle, nommé L03. J’ai pu le découvrir en studio en avant-première, et pour un modèle affiché à partir de 34 990 €, le résultat est particulièrement bluffant.",
+          "published": "2026-07-21T07:58:20+00:00"
+        },
+        {
+          "title": "Trottinette électrique : l’Italie impose l’assurance et une plaque d’identification à tous les propriétaires",
+          "link": "https://www.frandroid.com/survoltes/trottinette-electrique/3186517_trottinette-electrique-litalie-impose-lassurance-et-une-plaque-didentification-a-tous-les-proprietaires",
+          "source": "Frandroid",
+          "summary": "Depuis le 16 juillet, rouler en trottinette électrique en Italie sans assurance est tout simplement interdit. Le pays impose aussi une plaque d'identification sur chaque engin.",
+          "published": "2026-07-21T07:54:53+00:00"
+        },
+        {
+          "title": "Moins chère qu’une Renault 5 : la Volkswagen ID. Polo débarque à 17 850 € (sous conditions)",
+          "link": "https://www.frandroid.com/marques/volkswagen/3186455_moins-chere-quune-renault-5-la-volkswagen-id-polo-debarque-a-17-850-e-sous-conditions",
+          "source": "Frandroid",
+          "summary": "Récemment lancée, la nouvelle Volkswagen ID. Polo est désormais affichée sous la barre des 18 000 euros. Une très mauvaise nouvelle pour Renault, dont la voiture électrique star, la R5 est désormais plus chère.",
+          "published": "2026-07-21T07:42:20+00:00"
+        },
+        {
+          "title": "En 5 ans, le vrai prix des voitures électriques a baissé de 18 % grâce aux batteries",
+          "link": "https://www.frandroid.com/survoltes/voitures-electriques/3186431_en-5-ans-le-vrai-prix-des-voitures-electriques-a-baisse-de-18-grace-aux-batteries",
+          "source": "Frandroid",
+          "summary": "Si les voitures électriques ne sont pas encore à la portée de toutes les bourses, leur prix continue de chuter. En Allemagne, ils ont ainsi dégringolé de 18&nbsp;% en seulement cinq ans.",
+          "published": "2026-07-21T07:40:51+00:00"
         }
       ]
     }
@@ -328,6 +328,13 @@
     "sejour_bien_etre": {
       "label": "Sejour bien-etre",
       "items": [
+        {
+          "title": "Le DOGE devait disparaître début juillet... Suprise, il est toujours là",
+          "link": "https://www.slate.fr/politique/doge-departement-efficacite-gouvernementale-elon-musk-donald-trump-dissolution",
+          "source": "Slate.fr",
+          "summary": "Il était prévu que le département de l'Efficacité gouvernementale, chargé de dégraisser le budget fédéral, s'autodétruise le 4 juillet 2026. Plusieurs dizaines de collaborateurs seraient toutefois toujours en poste.",
+          "published": "2026-07-21T06:25:02+00:00"
+        },
         {
           "title": "Le mystère du vol MH370 relancé par des données acoustiques longtemps restées secrètes",
           "link": "https://www.slate.fr/monde/mystere-vol-mh370-donnees-acoustiques-secretes-enregistrement-ocean-sous-marins-disparition-recherche-malaysia-airlines-ocean-infinity",
