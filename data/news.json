@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-07-21T16:22:31.075057+00:00",
+  "generated_at": "2026-07-21T19:19:56.821289+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6725306_3210.html",
+          "source": "Le Monde",
+          "summary": "Les forces russes ont intensifié leurs opérations autour de Koupiansk, dans l’oblast ukrainien de Kharkiv, afin de percer les défenses ukrainiennes et d’avancer vers la ville, selon Kiev.",
+          "published": "2026-07-21T18:12:28+00:00"
+        },
+        {
+          "title": "Au Liban, la vie en sursis de trois villages chrétiens enclavés dans la zone occupée par Israël : « Nous sommes comme emprisonnés, assiégés »",
+          "link": "https://www.lemonde.fr/international/article/2026/07/21/au-liban-la-vie-en-sursis-de-trois-villages-chretiens-enclaves-dans-la-zone-occupee-par-israel-nous-sommes-comme-emprisonnes-assieges_6729145_3210.html",
+          "source": "Le Monde",
+          "summary": "Les quelque 7 000 habitants demeurés dans le sud du Liban occupé dépendent pour leurs déplacements et leur approvisionnement des autorisations de l’armée israélienne. Lundi, un convoi humanitaire de L’Œuvre d’Orient…",
+          "published": "2026-07-21T18:00:04+00:00"
+        },
+        {
+          "title": "Donald Trump promet de « beaucoup aider » le Liban en recevant le président Joseph Aoun",
+          "link": "https://www.lemonde.fr/international/article/2026/07/21/donald-trump-promet-de-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun_6729108_3210.html",
+          "source": "Le Monde",
+          "summary": "La visite de Joseph Aoun est la première d’un président libanais à Washington depuis 2009, au moment où un accord avec Israël, parrainé par les Etats-Unis, entre dans sa première phase. Dans le bureau Ovale, M. Aoun a…",
+          "published": "2026-07-21T17:30:33+00:00"
+        },
+        {
+          "title": "États-Unis : le Liban \"a été maltraité\", selon Donald Trump",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260721-%C3%A9tats-unis-le-liban-a-%C3%A9t%C3%A9-maltrait%C3%A9-selon-donald-trump",
+          "source": "France 24",
+          "summary": "Le président ⁠américain Donald Trump ​a déclaré, à l'occasion de la visite à ​la Maison blanche de son homologue libanais Joseph Aoun, vouloir \"aider\" le Liban, déplorant que le pays ait été \"très maltraité\" ​pendant…",
+          "published": "2026-07-21T17:18:49+00:00"
+        },
+        {
+          "title": "Bande de Gaza : les secours recensent 12 personnes tuées par des bombardements israéliens, dont six membres d’une même famille",
+          "link": "https://www.lemonde.fr/international/article/2026/07/21/bande-de-gaza-les-secours-recensent-12-personnes-tuees-par-des-bombardements-israeliens-dont-six-membres-d-une-meme-famille_6729074_3210.html",
+          "source": "Le Monde",
+          "summary": "Le Haut-Commissariat des Nations unies aux droits de l’homme a dénoncé, mardi, une récente « intensification » des attaques israéliennes dans la bande de Gaza, qui ont fait, selon lui, au moins 57 morts entre le 13 et…",
+          "published": "2026-07-21T17:13:34+00:00"
+        },
+        {
+          "title": "Loi d'urgence agricole: vers la réintroduction de 2 pesticides?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260721-loi-d-urgence-agricole-vers-la-r%C3%A9introduction-de-2-pesticides",
+          "source": "France 24",
+          "summary": "La loi d'urgence agricole a été adoptée à l'Assemblée Nationale et doit être définitivement adoptée par le Sénat ce mardi soir. Une disposition fait particulièrement débat: la réautorisation par dérogation de 2…",
+          "published": "2026-07-21T17:12:39+00:00"
+        },
+        {
+          "title": "Tour de France : Remco Evenepoel remporte le chrono de la 16e étape, Pogacar deuxième",
+          "link": "https://www.france24.com/fr/sports/20260721-tour-de-france-remco-evenepoel-remporte-le-chrono-de-la-16e-%C3%A9tape-pogacar-deuxi%C3%A8me",
+          "source": "France 24",
+          "summary": "Remco Evenepoel (Red ​Bull-Bora-hansgrohe) a écrasé mardi le contre-la-montre individuel de la 16e étape du Tour de France et confirmé qu'il était favori pour la ​place de dauphin du maillot jaune Tadej Pogacar (UAE…",
+          "published": "2026-07-21T17:10:04+00:00"
+        },
+        {
+          "title": "REPLAY - Joseph Aoun reçu par Donald Trump à Washington",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260721-replay-joseph-aoun-re%C3%A7u-par-donald-trump-%C3%A0-washington",
+          "source": "France 24",
+          "summary": "Le président libanais Joseph Aoun rencontre mardi à la Maison Blanche Donald Trump, dont l'administration fait pression sur Beyrouth pour désarmer le Hezbollah pro-iranien, condition d'Israël pour se retirer du sud du…",
+          "published": "2026-07-21T16:07:06+00:00"
+        },
         {
           "title": "Les Pays-Bas annoncent l’interdiction des importations issues de colonies israéliennes dès le 22 septembre",
           "link": "https://www.lemonde.fr/international/article/2026/07/21/les-pays-bas-annoncent-l-interdiction-des-importations-issues-de-colonies-israeliennes-des-le-22-septembre_6728999_3210.html",
@@ -12,67 +68,11 @@
           "published": "2026-07-21T16:07:05+00:00"
         },
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump a accueilli le président libanais, Joseph Aoun, à la Maison Blanche",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que la prochaine cible américaine en Iran pourrait être Pickaxe Mountain, un complexe nucléaire souterrain",
           "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-au-moyen-orient-donald-trump-a-accueilli-le-president-libanais-joseph-aoun-a-la-maison-blanche_6725301_3210.html",
           "source": "Le Monde",
-          "summary": "Cette première rencontre entre les deux chefs d’Etat intervient alors que Washington fait pression sur Beyrouth pour désarmer le Hezbollah pro-iranien, condition formulée par Israël pour que son armée se retire du sud…",
+          "summary": "En novembre 2025, plusieurs médias américains ont affirmé que Téhéran avait accéléré la construction, démentie par le régime iranien, d’un site nucléaire sous-terrain situé près de l’ancien complexe de Natanz, bombardé…",
           "published": "2026-07-21T16:00:23+00:00"
-        },
-        {
-          "title": "Royaume-Uni : première mesure pour le pouvoir d'achat, premières questions sur son coût",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260721-royaume-uni-premi%C3%A8re-mesure-pour-le-pouvoir-d-achat-premi%C3%A8res-questions-sur-son-co%C3%BBt",
-          "source": "France 24",
-          "summary": "La suppression de la TVA sur l'électricité, première mesure contre la vie chère annoncée mardi par le Premier ministre britannique Andy Burnham, suscite déjà des interrogations sur son financement, alors que le…",
-          "published": "2026-07-21T15:48:16+00:00"
-        },
-        {
-          "title": "Ormuz et Bab el-Mandeb bloqués ? Le scénario d'un \"siège\" maritime du Golfe persique",
-          "link": "https://www.france24.com/fr/moyen-orient/20260721-blocage-d%C3%A9troits-ormuz-et-bab-el-mandeb-sc%C3%A9nario-si%C3%A8ge-maritime-golfe-persique",
-          "source": "France 24",
-          "summary": "Les Houthis yéménites ont annoncé, lundi, vouloir imposer un \"embargo maritime\" aux navires saoudiens dans le détroit de Bab el-Mandeb, à l'entrée de la mer Rouge. Et ce alors que le détroit d'Ormuz se retrouve a…",
-          "published": "2026-07-21T15:47:04+00:00"
-        },
-        {
-          "title": "Ma vie d’exilée russe à Paris : « Même plusieurs années plus tard, je comprends qu’on ne peut pas lutter contre la bureaucratie française »",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/21/ma-vie-d-exilee-russe-a-paris-meme-plusieurs-annees-plus-tard-je-comprends-qu-on-ne-peut-pas-lutter-contre-la-bureaucratie-francaise_6728931_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Une Russe à Paris » (1/6). La journaliste Elizaveta Osetinskaya, arrivée en France en 2022 en raison de son opposition à la guerre en Ukraine, évoque les difficultés rencontrées auprès de la préfecture alors qu’elle…",
-          "published": "2026-07-21T15:30:04+00:00"
-        },
-        {
-          "title": "Italie : manifestation après la mort d’un homme lors d’une interpellation policière",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260721-italie-manifestation-apr%C3%A8s-la-mort-d-un-homme-lors-d-une-interpellation-polici%C3%A8re",
-          "source": "France 24",
-          "summary": "Des centaines de personnes ont manifesté à Bologne après la mort d’Abderrahim Fakir, un homme de 42 ans d'origine marocaine décédé lors de son interpellation par la police.",
-          "published": "2026-07-21T15:29:38+00:00"
-        },
-        {
-          "title": "Le parti de Viktor Orban perquisitionné en raison de soupçons de corruption",
-          "link": "https://www.lemonde.fr/international/article/2026/07/21/le-parti-de-viktor-orban-perquisitionne-en-raison-de-soupcons-de-corruption_6728861_3210.html",
-          "source": "Le Monde",
-          "summary": "En juin, six personnes, dont Balazs Bus, membre du Fidesz et ancien vice-président du Fonds national pour la culture, avaient été mises en examen pour détournement de fonds et placées en détention dans ce dossier.",
-          "published": "2026-07-21T15:09:51+00:00"
-        },
-        {
-          "title": "Le Parlement valide la nomination du sénateur LR François-Noël Buffet comme Défenseur des droits",
-          "link": "https://www.france24.com/fr/france/20260721-le-parlement-valide-la-nomination-du-s%C3%A9nateur-lr-fran%C3%A7ois-no%C3%ABl-buffet-comme-d%C3%A9fenseur-des-droits",
-          "source": "France 24",
-          "summary": "Le sénateur de droite François-Noël Buffet, dont le profil jugé conservateur suscite l'inquiétude du monde associatif, va succéder à Claire Hédon au poste de Défenseur des droits, sa candidature proposée par le…",
-          "published": "2026-07-21T15:02:13+00:00"
-        },
-        {
-          "title": "Le Gabon et la France ouvrent une nouvelle page de leur coopération",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260721-le-gabon-et-la-france-ouvrent-une-nouvelle-%C3%A9tape-de-leur-coop%C3%A9ration",
-          "source": "France 24",
-          "summary": "En visite d'État de trois jours en France, le président gabonais Brice Clotaire Oligui Nguema a conclu trois accords avec les autorités françaises. Ils portent notamment sur la cession du camp militaire de Gaulle et la…",
-          "published": "2026-07-21T15:01:27+00:00"
-        },
-        {
-          "title": "Moyen-Orient : quelles conséquences économiques après la reprise des hostilités ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260721-moyen-orient-quelles-cons%C3%A9quences-%C3%A9conomiques-apr%C3%A8s-la-reprise-des-hostilit%C3%A9s",
-          "source": "France 24",
-          "summary": "Deux semaines après la reprise des hostilités avec les Etats-Unis, l'Iran a intensifié mardi ses attaques au Moyen-Orient dans ce qui est désormais une \"guerre totale\" selon Téhéran, et le conflit menace de s'étendre à…",
-          "published": "2026-07-21T14:46:30+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Nouveaux droits de douane américains | Quels sont les produits canadiens ciblés ?",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-07-21/nouveaux-droits-de-douane-americains/quels-sont-les-produits-canadiens-cibles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Michael Hendricks, 1941-2026 | Un pionnier des droits LGBTQ+ s’éteint",
+          "link": "https://www.lapresse.ca/actualites/2026-07-21/michael-hendricks-1941-2026/un-pionnier-des-droits-lgbtq-s-eteint.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Découvrez des produits ciblés – parmi les centaines de produits canadiens touchés – par les nouveaux droits de douane de 50 % exigés par le président américain, Donald Trump.",
-          "published": "2026-07-21T16:16:32+00:00"
+          "summary": "« C’est bien triste de voir partir nos lumières, ces gens qui nous éclairent », laisse tomber le président des Archives gaies du Québec, Jacques Prince. Celui-ci se joint à une longue liste de membres de la communauté…",
+          "published": "2026-07-21T18:57:14+00:00"
         },
         {
-          "title": "Séquelles d’un cancer du sein agressif | Sans revenu depuis 2024, une femme inapte au travail peine à obtenir la rente d’invalidité",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-07-21/sequelles-d-un-cancer-du-sein-agressif/sans-revenu-depuis-2024-une-femme-inapte-au-travail-peine-a-obtenir-la-rente-d-invalidite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Veille d’orages violents | Des inondations possibles dans le sud et l’ouest du Québec",
+          "link": "https://www.lapresse.ca/actualites/2026-07-21/veille-d-orages-violents/des-inondations-possibles-dans-le-sud-et-l-ouest-du-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une femme vivant avec de graves séquelles d’un cancer du sein agressif tarde à recevoir une réponse de Retraite Québec, malgré plusieurs attestations médicales d’inaptitude au travail. Sans revenu depuis 2024, Caroline…",
-          "published": "2026-07-21T16:00:00+00:00"
+          "summary": "Des pluies torrentielles et des inondations pourraient survenir dans certains secteurs du sud et de l’ouest du Québec mardi, alors qu’Environnement Canada a placé plusieurs régions en veille d’orages violents.",
+          "published": "2026-07-21T18:32:14+00:00"
         },
         {
-          "title": "Hydroliennes dans le fleuve Saint-Laurent | Soraya Martinez Ferrada « pas certaine » de la pertinence du projet",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-21/hydroliennes-dans-le-fleuve-saint-laurent/soraya-martinez-ferrada-pas-certaine-de-la-pertinence-du-projet.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Nouveaux droits de douane américains | L’escalade résumée en cinq points",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-07-21/nouveaux-droits-de-douane-americains/l-escalade-resumee-en-cinq-points.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La mairesse de Montréal, Soraya Martinez Ferrada, émet de sérieux doutes sur le projet de l’entreprise ARECOR Énergie, qui veut installer dès l’an prochain des hydroliennes dans le fleuve Saint-Laurent, devant le…",
-          "published": "2026-07-21T15:28:35+00:00"
+          "summary": "C’est un autre chapitre de la guerre commerciale de l’administration Trump. Le locataire de la Maison-Blanche s’en prend spécifiquement au Canada et souhaite imposer des droits de douane de 50 % sur un vaste éventail de…",
+          "published": "2026-07-21T18:28:17+00:00"
         },
         {
-          "title": "Sous pression pour désarmer le Hezbollah, le président libanais reçu par Trump",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/996167/sous-pression-desarmer-hezbollah-president-libanais-recu-trump",
+          "title": "Un retraité meurt après une chute sur le toit d’une épicerie à Louiseville",
+          "link": "https://www.journaldemontreal.com/2026/07/21/un-retraite-meurt-apres-une-chute-sur-le-toit-dune-epicerie-a-louiseville",
+          "source": "Journal de Montreal",
+          "summary": "Un homme qui a fait une chute en effectuant des travaux de revêtement sur le toit d’une épicerie à Louiseville est décédé à la suite de l'accident.",
+          "published": "2026-07-21T18:27:57+00:00"
+        },
+        {
+          "title": "Consultez la liste des produits visés par Trump pour de nouveaux tarifs de 50 %",
+          "link": "https://www.ledevoir.com/economie/996266/consultez-liste-produits-vises-trump-nouveaux-tarifs-50",
           "source": "Le Devoir",
-          "summary": "L’armée libanaise a entamé lundi un déploiement test dans une zone du sud jusque-là contrôlée par l’armée israélienne.",
-          "published": "2026-07-21T15:23:47+00:00"
+          "summary": "Alcool, produits laitiers et même perruques : la liste est longue et n’épargne pas des biens couverts par l’ACEUM.",
+          "published": "2026-07-21T18:15:00+00:00"
         },
         {
-          "title": "Après les menaces tarifaires, le Canada et les États-Unis intensifieront les négociations",
-          "link": "https://www.ledevoir.com/politique/canada/996203/premiers-ministres-provinces-parleront-mark-carney-mardi",
+          "title": "Cédric Jubillar a avoué à la justice avoir étranglé sa femme",
+          "link": "https://www.journaldemontreal.com/2026/07/21/meurtre-de-son-epouse-en-france-le-proces-de-cedric-jubillar-repousse-a-2027-apres-ses-aveux",
+          "source": "Journal de Montreal",
+          "summary": "Cédric Jubillar a avoué à la justice avoir étranglé sa femme.",
+          "published": "2026-07-21T18:14:29+00:00"
+        },
+        {
+          "title": "Dernière chance de voir «Pub Royal» : Les adieux se feront à Trois-Rivières",
+          "link": "https://www.journaldemontreal.com/2026/07/21/derniere-chance-de-voir-pub-royal--les-adieux-se-feront-a-trois-rivieres",
+          "source": "Journal de Montreal",
+          "summary": "Plus que quatre représentations avant la fin du show.",
+          "published": "2026-07-21T18:12:48+00:00"
+        },
+        {
+          "title": "Messi rentre en Argentine pour se reposer, après la défaite en finale de la Coupe du monde",
+          "link": "https://www.ledevoir.com/sports/996263/messi-rentre-argentine-reposer-apres-defaite-finale-coupe-monde",
           "source": "Le Devoir",
-          "summary": "Mark Carney et Donald Trump se sont parlés lors d’un appel téléphonique mardi matin.",
-          "published": "2026-07-21T15:09:00+00:00"
+          "summary": "«La douleur est immense et cette blessure mettra du temps à guérir», a-t-il écrit sur son compte Instagram",
+          "published": "2026-07-21T18:08:00+00:00"
         },
         {
-          "title": "La SQ démantèle un laboratoire fabriquant de faux passeports canadiens et français à Montréal",
-          "link": "https://www.ledevoir.com/actualites/996200/sq-demantele-laboratoire-fabriquant-faux-passeports-canadiens-francais-montreal",
-          "source": "Le Devoir",
-          "summary": "L’opération menée le 8 juillet a permis d’arrêter un homme et de saisir tout le matériel de contrefaçon sophistiqué.",
-          "published": "2026-07-21T15:00:03+00:00"
+          "title": "Trump impose un tarif sur les bâtons de hockey",
+          "link": "https://www.journaldemontreal.com/2026/07/21/trump-impose-un-tarif-sur-les-batons-de-hockey",
+          "source": "Journal de Montreal",
+          "summary": "La guerre tarifaire que livre le président des États-Unis au Canada vient de prendre une autre dimension.",
+          "published": "2026-07-21T18:04:20+00:00"
         },
         {
-          "title": "Nouveaux droits de douane américains | « Nous évaluerons toutes nos options », lance Mark Carney",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-07-21/nouveaux-droits-de-douane-americains/nous-evaluerons-toutes-nos-options-lance-mark-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Au lendemain d’une nouvelle salve tarifaire en provenance de la Maison-Blanche, le premier ministre Mark Carney affirme que si les nouveaux droits de douane de 50 % entrent en vigueur, le Canada pourrait riposter. Le…",
-          "published": "2026-07-21T14:48:00+00:00"
-        },
-        {
-          "title": "El Niño fait craindre un «effondrement» de l’écosystème de la Grande Barrière de corail",
-          "link": "https://www.ledevoir.com/actualites/environnement/996194/el-nino-fait-craindre-effondrement-ecosysteme-grande-barriere-corail",
-          "source": "Le Devoir",
-          "summary": "L’étendue de 2300 km de coraux souffre déjà de blanchissement en raison du réchauffement et de l’acidification des mers.",
-          "published": "2026-07-21T14:31:30+00:00"
-        },
-        {
-          "title": "Israël construit une barrière de terre séparant la moitié de la bande de Gaza",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/996191/israel-construit-barriere-terre-separant-moitie-bande-gaza",
-          "source": "Le Devoir",
-          "summary": "Les forces israéliennes ont en grande partie détruit et dépeuplé la moitié du territoire qu’elles contrôlent.",
-          "published": "2026-07-21T14:20:00+00:00"
-        },
-        {
-          "title": "Bande de Gaza | Des frappes israéliennes font 12 morts",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-07-21/bande-de-gaza/des-frappes-israeliennes-font-12-morts.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Douze Palestiniens, dont six membres d’une même famille incluant des enfants, ont été tués mardi dans la bande de Gaza, ont indiqué mardi les secours et des témoins.",
-          "published": "2026-07-21T14:18:29+00:00"
+          "title": "Les ventes de véhicules neufs restent stables",
+          "link": "https://www.guideautoweb.com/articles/82596/apres-6-mois-en-2026-les-ventes-de-vehicules-neufs-restent-stables-au-canada/",
+          "source": "Journal de Montreal",
+          "summary": "Il s’est vendu 948 977 véhicules neufs au Canada de janvier à juin inclusivement, soit une baisse d’à peine 1% par rapport à la même période de 2025.",
+          "published": "2026-07-21T18:03:43+00:00"
         }
       ]
     },
@@ -159,80 +159,136 @@
       "label": "France",
       "items": [
         {
-          "title": "Tour de France : la démonstration de Remco Evenepoel qui dompte le contre-la-montre",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-la-demonstration-de-remco-evenepoel-qui-dompte-le-contre-la-montre-20260721",
+          "title": "La loi d’urgence agricole et sa réintroduction des pesticides votée au Sénat, le texte définitivement adopté",
+          "link": "https://www.liberation.fr/environnement/agriculture/en-direct-protestations-contre-la-loi-durgence-agricole-sebastien-lecornu-denonce-une-instrumentalisation-a-des-fins-politiciennes-20260721_IGEY5TX33JDVTJBEFEFU4ERK4U/",
+          "source": "Liberation",
+          "summary": "La majorité gouvernementale s’est fracturée sur ce texte réautorisant l’utilisation de deux pesticides et la ministre de la Transition écologique, Monique Barbut, va présenter sa démission à Emmanuel Macron dans les…",
+          "published": "2026-07-21T19:11:11+00:00"
+        },
+        {
+          "title": "« Je voulais qu’elle se taise, je l’ai attrapée par le cou et j’ai serré » : les aveux de Cédric Jubillar devant la juge",
+          "link": "https://www.lefigaro.fr/faits-divers/je-voulais-qu-elle-se-taise-je-l-ai-attrapee-par-le-cou-et-j-ai-serre-les-aveux-de-cedric-jubillar-devant-la-juge-20260721",
           "source": "Le Figaro",
-          "summary": "Le Belge Remco Evenepoel s’est imposé, ce mardi, lors du contre-la-montre de la seizième étape entre Évian-les-Bains et Thonon-les-Bains.",
-          "published": "2026-07-21T16:21:05+00:00"
+          "summary": "DOCUMENT - Cédric Jubillar a raconté pour la première fois devant la justice, mercredi dernier, la façon dont il avait « tué la mère de ses enfants » et dévoilé la dernière phrase que son épouse aurait prononcée avant…",
+          "published": "2026-07-21T19:10:43+00:00"
         },
         {
-          "title": "Procès en appel du RN : tous les condamnés, dont Marine Le Pen, se sont pourvus en cassation",
-          "link": "https://www.lefigaro.fr/politique/proces-en-appel-du-rn-tous-les-condamnes-dont-marine-le-pen-se-sont-pourvus-en-cassation-20260721",
+          "title": "Tour Montparnasse : le principal copropriétaire réclame et obtient l’abandon du méga projet de rénovation",
+          "link": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
           "source": "Le Figaro",
-          "summary": "Tous ceux jugés en appel ont formé un pourvoi contre l’arrêt qui les a reconnus coupables de détournement de fonds publics du Parlement européen entre 2004 et 2016.",
-          "published": "2026-07-21T16:14:57+00:00"
+          "summary": "INFO LE FIGARO - Lors de l’assemblée générale qui s’est tenue ce mardi 21 juillet, le gestionnaire d’actifs LFPI, qui détient 30% de la Tour, a expliqué aux autres copropriétaires son souhait de revenir à une rénovation…",
+          "published": "2026-07-21T19:09:36+00:00"
         },
         {
-          "title": "La vigilance orange canicule levée à partir de mercredi matin dans toute la France",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-la-vigilance-orange-levee-a-partir-de-mercredi_8116658.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le Gard et les Bouches-du-Rhône seront les premiers à quitter la vigilance, mardi à partir de 21 heures. Plus aucun département ne sera en vigilance orange dès mercredi à 6 heures.",
-          "published": "2026-07-21T16:11:05+00:00"
-        },
-        {
-          "title": "« La Russie est capable de prendre d’énormes risques » : l’alerte du chef d’état-major suédois sur une possible « attaque imminente » en Europe",
-          "link": "https://www.lefigaro.fr/international/la-russie-est-capable-de-prendre-d-enormes-risques-l-alerte-du-chef-d-etat-major-suedois-sur-une-possible-attaque-imminente-en-europe-20260721",
+          "title": "Le Parlement adopte définitivement une loi sur la montagne et ses spécificités",
+          "link": "https://www.lefigaro.fr/actualite-france/le-parlement-adopte-definitivement-une-loi-sur-la-montagne-et-ses-specificites-20260721",
           "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Pour le général Claesson, Moscou n’attendra pas que les Européens se soient réarmés pour tester leur unité et leurs défenses. Il anticipe notamment un scénario à risque.",
-          "published": "2026-07-21T16:10:32+00:00"
+          "summary": "Longtemps considérées comme insuffisamment prises en compte par les politiques publiques, les zones de montagne bénéficient d’un nouveau cadre législatif. La loi entend adapter les règles aux réalités de ces territoires…",
+          "published": "2026-07-21T19:05:44+00:00"
         },
         {
-          "title": "Le Rassemblement national a été victime d'un piratage informatique et va porter plainte",
-          "link": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-a-ete-victime-d-un-piratage-informatique-et-va-porter-plainte_8116145.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le RN ne précise ni la nature ni l'origine de cette attaque. Mais une source au sein du parti affirme à France Télévisions qu'il n'y a \"pas de données personnelles volées à ce stade\".",
-          "published": "2026-07-21T16:06:36+00:00"
+          "title": "Marseille : défections en série au Delta Festival, après des accusations de violences sexuelles visant l’un de ses fondateurs",
+          "link": "https://www.liberation.fr/societe/police-justice/marseille-defections-en-serie-au-delta-festival-apres-des-accusations-de-violences-sexuelles-visant-lun-de-ses-fondateurs-20260721_EVOL4RRDOBGXTPDHMIA3T2C26I/",
+          "source": "Liberation",
+          "summary": "De nombreux artistes et collectifs qui devaient jouer ce week-end sur la plage du Prado à l’occasion du plus grand événement estival de Marseille, dans la tourmente après ces accusations à l’encontre d’Olivier Ledot,…",
+          "published": "2026-07-21T19:03:42+00:00"
         },
         {
-          "title": "Var : un nouvel incendie ravage 350 hectares, six personnes «légèrement intoxiquées»",
-          "link": "https://www.lefigaro.fr/actualite-france/var-un-nouvel-incendie-ravage-350-hectares-six-personnes-legerement-intoxiquees-20260721",
+          "title": "Interdiction des réseaux sociaux aux moins de 15 ans : Emmanuel Macron salue «une avancée majeure»",
+          "link": "https://www.lefigaro.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-emmanuel-macron-salue-une-avancee-majeure-20260721",
           "source": "Le Figaro",
-          "summary": "La préfecture du Var a procédé à des «évacuations préventives» qui ont concerné plus de 150 personnes, notamment dans les communes de Cotignac et de Sillans-la-Cascade.",
-          "published": "2026-07-21T16:04:59+00:00"
+          "summary": "«La France ouvre la voie en Europe pour la protection de nos enfants, de nos adolescents», s’est réjoui le président dans une vidéo diffusée sur les réseaux sociaux.",
+          "published": "2026-07-21T19:03:03+00:00"
         },
         {
-          "title": "Nouvel incendie dans le Var avec une \"propagation rapide\", le feu près de l'aéroport de Bordeaux-Mérignac fixé",
-          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-cinq-departements-du-pourtour-mediterraneen-place-en-risque-tres-eleve-de-feux_8115884.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le ministre de l'Intérieur, Laurent Nuñez, a déclaré que deux pompiers avaient succombé en luttant contre les flammes en Gironde. Dans le Var, un incendie s'est déclaré mardi midi dans un champ de Pontevès et a déjà…",
-          "published": "2026-07-21T16:03:37+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies : deux pompiers morts dans un feu près de Bordeaux, un nouveau brasier dans le Var",
+          "title": "Incendies : deux pompiers morts dans un feu  près de Bordeaux, un nouveau brasier a déjà consumé 700 hectares dans le Var",
           "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-deux-pompiers-morts-dans-un-feu-pres-de-bordeaux-un-nouveau-brasier-dans-le-var-20260721_BZBZU5WPIBBD3JKT25ZAQZJZ3U/",
           "source": "Liberation",
-          "summary": "Deux importants foyers viennent de se déclarer ce mardi, l’un en Gironde et l’autre dans le Var, deux départements en alerte rouge incendies. Plusieurs centaines de pompiers et d’importants moyens aériens sont déployés.",
-          "published": "2026-07-21T16:02:43+00:00"
+          "summary": "Deux importants foyers se sont déclarés ce mardi. Celui de Bordeaux est désormais «fixé». C’est loin d’être le cas dans le Var, où plusieurs centaines de pompiers et d’importants moyens aériens sont déployés.",
+          "published": "2026-07-21T18:58:13+00:00"
         },
         {
-          "title": "Les phrases qui ont changé la vie de Barbara Cassin : «Car je n’ai pas égard à cela que vous êtes mais au doux souvenir des beautés que je vis» et «Voilà ce qu’est devenu l’amour de ma vie…»",
-          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/les-phrases-qui-ont-change-la-vie-de-barbara-cassin-car-je-nai-pas-egard-a-cela-que-vous-etes-mais-au-doux-souvenir-des-beautes-que-je-vis-et-voila-ce-quest-devenu-lamour-de-ma-vie-20260721_UIQFHT6YJBD6RE4P272QURJCD4/",
+          "title": "L’actrice sourde Kaylee Hottle, connue pour son rôle dans Godzilla vs. Kong, est décédée à 18 ans dans un accident de voiture",
+          "link": "https://www.lefigaro.fr/culture/l-actrice-sourde-kaylee-hottle-connue-pour-son-role-dans-godzilla-vs-kong-est-decedee-a-18-ans-dans-un-accident-de-voiture-20260721",
+          "source": "Le Figaro",
+          "summary": "Connue pour son rôle de Jia dans la saga Godzilla, Kaylee Hottle était devenue une figure de représentation de la communauté sourde à Hollywood.",
+          "published": "2026-07-21T18:56:44+00:00"
+        },
+        {
+          "title": "«Le ciel est devenu rouge» : deux pompiers tués par un incendie en Gironde, 700 hectares déjà engloutis dans le Var",
+          "link": "https://www.liberation.fr/environnement/climat/le-ciel-est-devenu-rouge-deux-pompiers-tues-par-un-incendie-en-gironde-700-hectares-deja-engloutis-dans-le-var-20260721_S7HFOQKUOBFFZCZKDON74GPDCI/",
           "source": "Liberation",
-          "summary": "Aujourd’hui, la philosophe évoque un vers de Ronsard venu adoucir l’impact d’une dispute entre ses parents.",
-          "published": "2026-07-21T16:00:00+00:00"
+          "summary": "Deux nouveaux brasiers se sont déclarés en France mardi 21 juillet. Le premier, près de l’aéroport bordelais, est maîtrisé. Le second continue à prendre de l’ampleur dans la soirée, malgré d’importants moyens déployés.",
+          "published": "2026-07-21T18:54:33+00:00"
         },
         {
-          "title": "Le Parlement adopte une réforme du sport professionnel, visant notamment les dérives dans le football",
-          "link": "https://www.franceinfo.fr/sports/foot/ligue-1/le-parlement-adopte-une-reforme-du-sport-professionnel-visant-notamment-les-derives-dans-le-football_8116534.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La proposition de loi du sénateur Laurent Lafont a été approuvée à l'unanimité par le Sénat, mardi.",
-          "published": "2026-07-21T15:59:47+00:00"
+          "title": "Sébastien Lecornu prêt à sacrifier sa ministre de l’Écologie démissionnaire, Monique Barbut, pour ménager la droite et les agriculteurs",
+          "link": "https://www.lefigaro.fr/politique/sebastien-lecornu-pret-a-sacrifier-sa-ministre-de-l-ecologie-monique-barbut-pour-menager-la-droite-et-les-agriculteurs-20260721",
+          "source": "Le Figaro",
+          "summary": "RÉCIT - Le premier ministre a refusé de corriger le « volet pesticides » de sa loi agricole, un nouveau signal envoyé à LR et au RN. Au prix du départ annoncé de sa ministre, qui présentera sa démission à Emmanuel…",
+          "published": "2026-07-21T18:47:51+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "La fibre optique, ça marche en France, avec moins de pannes mais plus de soucis de raccordement",
+          "link": "https://www.clubic.com/actualite-622240-la-fibre-optique-ca-marche-en-france-avec-moins-de-pannes-mais-plus-de-soucis-de-raccordement.html",
+          "source": "Clubic",
+          "summary": "L'ARCEP a publié mardi son observatoire de la qualité des réseaux fibre optique en France. Les pannes sont au plus bas, mais les échecs au raccordement s'envolent sur plusieurs dizaines de réseaux à travers le pays.",
+          "published": "2026-07-21T18:44:00+00:00"
+        },
+        {
+          "title": "Le Parlement vote l’interdiction des réseaux sociaux aux moins de 15 ans",
+          "link": "https://next.ink/248270/le-parlement-vote-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans/",
+          "source": "Next",
+          "summary": "L&#8217;Assemblée nationale a entériné mardi la proposition de loi interdisant les réseaux sociaux aux moins de 15 ans, ouvrant la voie à une entrée en vigueur d&#8217;ici la rentrée de septembre. À cette date, les…",
+          "published": "2026-07-21T18:18:21+00:00"
+        },
+        {
+          "title": "Apple Upgrade : Apple va bientôt vous louer votre iPhone en plusieurs fois",
+          "link": "https://www.clubic.com/actualite-622243-apple-upgrade-apple-va-bientot-vous-louer-votre-iphone-en-plusieurs-fois.html",
+          "source": "Clubic",
+          "summary": "Apple lancerait le 28 juillet un nouveau programme baptisé Apple Upgrade, développé avec Klarna. Objectif : proposer des mensualités plus légères que les financements actuels, et faire oublier les récentes hausses de…",
+          "published": "2026-07-21T17:33:00+00:00"
+        },
+        {
+          "title": "L’astronaute française Sophie Adenot teste le robot de cuisine Food Processor à bord de l’ISS",
+          "link": "https://www.numerama.com/sciences/2298895-lastronaute-francaise-sophie-adenot-teste-le-robot-de-cuisine-food-processor-a-bord-de-liss.html",
+          "source": "Numerama",
+          "summary": "L'astronaute française Sophie Adenot, actuellement à bord de l'ISS, s'est servie d'un robot de cuisine destiné à être utilisé dans l'espace. Pour l'instant assez sommaire, cette invention française nommée Food Processor…",
+          "published": "2026-07-21T17:25:00+00:00"
+        },
+        {
+          "title": "L’Odyssée : pensant tourner avec 20 personnes, Matt Damon se fait charger par 500 soldats en pleine nuit",
+          "link": "https://www.numerama.com/pop-culture/2299015-lodyssee-pensant-tourner-avec-20-personnes-matt-damon-se-fait-charger-par-500-soldats-en-pleine-nuit.html",
+          "source": "Numerama",
+          "summary": "Pour la prise de Troie dans&nbsp;L'Odyssée, Christopher Nolan n'a pas lésiné sur la figuration. Alors qu'il pensait tourner un face-à-face à petite échelle, Matt Damon s'est retrouvé submergé par une marée humaine…",
+          "published": "2026-07-21T16:55:00+00:00"
+        },
+        {
+          "title": "La Marine nationale reçoit un nouveau patrouilleur bardé de tech pour surveiller les confins du Pacifique",
+          "link": "https://www.clubic.com/actualite-622228-la-marine-nationale-recoit-un-nouveau-patrouilleur-barde-de-tech-pour-surveiller-les-confins-du-pacifique.html",
+          "source": "Clubic",
+          "summary": "La Direction générale de l'armement a livré il y a quelques jours le Jean Tranape, quatrième patrouilleur outre-mer de la Marine nationale. Il embarque un drone et une propulsion hybride au service de la souveraineté…",
+          "published": "2026-07-21T16:39:00+00:00"
+        },
+        {
+          "title": "Le Pass Ulys Télépage ne vous coûtera rien pendant 1 an grâce à cette offre qui tombe à pic pour les départs en vacances",
+          "link": "https://www.frandroid.com/bons-plans/3187447_le-pass-ulys-telepage-ne-vous-coutera-rien-pendant-1-an-grace-a-cette-offre-qui-tombe-a-pic-pour-les-departs-en-vacances",
+          "source": "Frandroid",
+          "summary": "Si vous ne voulez plus perdre de temps aux péages sur la route des vacances, un badge de télépéage est indispensable. Bonne nouvelle, Ulys offre actuellement 12 mois d'abonnement à son pass Télépéage.",
+          "published": "2026-07-21T16:37:00+00:00"
+        },
+        {
+          "title": "Cette IA japonaise permet de créer ses propres vidéos d’anime",
+          "link": "https://www.numerama.com/pop-culture/2298993-cette-ia-japonaise-permet-de-creer-ses-propres-videos-danime.html",
+          "source": "Numerama",
+          "summary": "Créer une courte scène d’anime à partir de quelques mots : c’est la promesse d’AnimeGen. Publié gratuitement le 13 juillet 2026, ce modèle japonais de génération vidéo peut même être utilisé dans des projets…",
+          "published": "2026-07-21T16:30:00+00:00"
+        },
         {
           "title": "Test de l’écran Nothing Projector Matte White : la toile blanche mate pour une image plus lumineuse mais moins contrastée",
           "link": "https://www.frandroid.com/produits-android/tv-connectee-produits/projecteur/3186245_test-de-lecran-nothing-projector-matte-white-la-toile-blanche-mate-pour-une-image-plus-lumineuse-mais-moins-contrastee",
@@ -260,62 +316,6 @@
           "source": "Next",
           "summary": "Microsoft va donner un coup de main à Mistral pour construire des centres de données en Europe, au travers d&#8217;un accord à plusieurs milliards de dollars. Les derniers modèles du labo IA français vont également être…",
           "published": "2026-07-21T15:58:00+00:00"
-        },
-        {
-          "title": "Anne Hathaway en banlieue face à des dinosaures : La Fin d’Oak Street est LE film à surveiller de près cet été 2026",
-          "link": "https://www.numerama.com/pop-culture/2298839-anne-hathaway-en-banlieue-face-a-des-dinosaures-la-fin-doak-street-est-le-film-a-surveiller-de-pres-cet-ete-2026.html",
-          "source": "Numerama",
-          "summary": "Alors qu'elle vient d'assommer le box-office mondial avec L'Odyssée, Anne Hathaway enchaîne immédiatement avec le projet le plus intrigant de son été surchargé. Attendu en salles le 14 août 2026, La fin d’Oak Street…",
-          "published": "2026-07-21T15:53:00+00:00"
-        },
-        {
-          "title": "Victime de son succès, ce climatiseur Dreame 3-en-1 revient en stock à moins de 320 €",
-          "link": "https://www.frandroid.com/produits-android/3179891_victime-de-son-succes-ce-climatiseur-dreame-3-en-1-revient-en-stock-a-moins-de-320",
-          "source": "Frandroid",
-          "summary": "Il était en rupture de stock, mais le climatiseur portable 3-en-1 Dreame P-Wind10 fait son retour sur Amazon ! Capable de refroidir, déshumidifier et ventiler des pièces jusqu'à 25 m², il profite à nouveau d’une belle…",
-          "published": "2026-07-21T15:51:50+00:00"
-        },
-        {
-          "title": "Microsoft injecte « des milliards » de dollars dans Mistral, le champion français de l’IA",
-          "link": "https://www.frandroid.com/culture-tech/3187695_microsoft-injecte-des-milliards-de-dollars-dans-mistral-le-champion-francais-de-lia",
-          "source": "Frandroid",
-          "summary": "Microsoft s'apprête à injecter plusieurs milliards de dollars dans Mistral et à ancrer son intelligence artificielle en Europe. Un rapprochement qui pose une question : la pépite française peut-elle encore se dire…",
-          "published": "2026-07-21T15:44:18+00:00"
-        },
-        {
-          "title": "Les députés européens utilisent de plus en plus l'IA... alors le Parlement crée sa plateforme interne",
-          "link": "https://www.clubic.com/actualite-622231-les-deputes-europeens-utilisent-de-plus-en-plus-l-ia-alors-le-parlement-cree-sa-plateforme-interne.html",
-          "source": "Clubic",
-          "summary": "L'intelligence artificielle est un souci partout, et ce, jusqu'aux plus hautes sphères du pouvoir. Le Parlement européen prend ainsi des mesures pour tenter de réguler la technologie en son sein.",
-          "published": "2026-07-21T15:44:00+00:00"
-        },
-        {
-          "title": "Google parle déjà de Gemini 4 et de son entraînement « le plus ambitieux à ce jour »",
-          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3187705_google-parle-deja-de-gemini-4-et-de-son-entrainement-le-plus-ambitieux-a-ce-jour",
-          "source": "Frandroid",
-          "summary": "Google a dévoilé trois nouveaux modèles Gemini (dont une version 3.6 Flash) ce 21 juillet. Mais ça ne s'arrête pas là : la prochaine grande génération, Gemini 4, est déjà en préparation.",
-          "published": "2026-07-21T15:39:03+00:00"
-        },
-        {
-          "title": "Google dévoile Gemini 3.6 Flash : une IA encore plus puissante, mais surtout moins chère",
-          "link": "https://www.frandroid.com/marques/google/3187691_google-devoile-gemini-3-6-flash-une-ia-encore-plus-puissante-mais-surtout-moins-chere",
-          "source": "Frandroid",
-          "summary": "Google a dévoilé trois nouveaux modèles Gemini, dont un 3.6 Flash plus performant et, fait rare dans l'IA, moins cher que celui qu'il remplace. De quoi patienter en attendant le Gemini 3.5 Pro, toujours absent.",
-          "published": "2026-07-21T15:38:22+00:00"
-        },
-        {
-          "title": "Apple va lancer Apple Upgrade, un programme de location inédit pour l’iPhone, le Mac, l’iPad et l’Apple Watch",
-          "link": "https://www.frandroid.com/marques/apple/3187711_apple-va-lancer-apple-upgrade-un-programme-de-location-inedit-pour-liphone-le-mac-lipad-et-lapple-watch",
-          "source": "Frandroid",
-          "summary": "Apple travaillerait sur un nouveau programme baptisé Apple Upgrade, qui permettrait de louer ses appareils, avec la possibilité de changer de modèle, de le racheter ou de le rendre en fin de contrat. Le lancement serait…",
-          "published": "2026-07-21T15:34:14+00:00"
-        },
-        {
-          "title": "Firefox 153 intègre nativement des conteneurs pour isoler les sites",
-          "link": "https://next.ink/248292/firefox-153-integre-nativement-des-conteneurs-pour-isoler-les-sites/",
-          "source": "Next",
-          "summary": "Firefox fournit un joli lâcher de nouveautés, dont la principale est clairement l’arrivée des conteneurs. Ceux-ci existent depuis des années sous forme d’extensions, mais on parle cette fois d’une intégration native…",
-          "published": "2026-07-21T15:32:30+00:00"
         }
       ]
     }
