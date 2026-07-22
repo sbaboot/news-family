@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-21T22:02:46.639587+00:00",
+  "generated_at": "2026-07-22T02:32:41.788331+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Le Sénégal soutiendra finalement la candidature de Macky Sall à l'ONU",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260721-le-s%C3%A9n%C3%A9gal-soutiendra-finalement-la-candidature-de-macky-sall-%C3%A0-l-onu",
+          "title": "L'incendie du Var continue de progresser, plus de 2 300 foyers privés d'électricité",
+          "link": "https://www.france24.com/fr/france/20260722-france-incendie-var-continue-de-progresser-evacuations-electricite-pompiers",
           "source": "France 24",
-          "summary": "Le Sénégal va soutenir la candidature de Macky Sall au poste de secrétaire général des Nations unies. Une annonce faite par communiqué lundi et qui intervient trois jours après une audience que lui a accordée l'actuel…",
-          "published": "2026-07-21T20:22:48+00:00"
+          "summary": "Des centaines de pompiers sont mobilisés mercredi dans le Var, où un incendie persistant a déjà parcouru plus de 1 700 hectares et menace plusieurs communes, provoquant l'évacuation de quelque 400 personnes. Sur…",
+          "published": "2026-07-22T02:12:31+00:00"
         },
         {
-          "title": "Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l'armée Oleksandre Syrsky",
-          "link": "https://www.france24.com/fr/europe/20260721-ukraine-zelensky-annonce-le-d%C3%A9part-du-commandant-en-chef-de-l-arm%C3%A9e-oleksandre-syrsky",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-07-21T19:57:56+00:00"
+          "title": "Nicaragua : Daniel Ortega annule les prochaines élections, Washington dénonce une dérive autoritaire",
+          "link": "https://www.lemonde.fr/international/article/2026/07/22/nicaragua-daniel-ortega-annule-les-prochaines-elections-washington-denonce-une-derive-autoritaire_6729579_3210.html",
+          "source": "Le Monde",
+          "summary": "Face au refus du coprésident de ce pays d’Amérique centrale d’organiser le scrutin prévu en 2027, le Secrétariat d’Etat américain hausse le ton.",
+          "published": "2026-07-22T02:00:28+00:00"
         },
         {
-          "title": "Flottille pour Gaza : le parquet national antiterroriste ouvre une nouvelle enquête pour tortures",
-          "link": "https://www.france24.com/fr/france/20260721-flottille-pour-gaza-le-parquet-national-antiterroriste-ouvre-une-nouvelle-enqu%C3%AAte-pour-tortures",
+          "title": "L’administration Trump contrainte de demander des fonds supplémentaires pour la guerre contre l’Iran",
+          "link": "https://www.lemonde.fr/international/article/2026/07/22/l-administration-trump-contrainte-de-demander-des-fonds-supplementaires-pour-la-guerre-contre-l-iran_6729513_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que Donald Trump a assuré, mardi, que les Etats-Unis n’en avaient « pas fini du tout » avec la République islamique, le secrétaire à la défense, Pete Hegseth, est venu défendre devant le Sénat une rallonge…",
+          "published": "2026-07-22T01:32:54+00:00"
+        },
+        {
+          "title": "Au Mexique, la « fabrication de coupables » par les autorités policières et judiciaires",
+          "link": "https://www.lemonde.fr/international/article/2026/07/22/au-mexique-la-fabrication-de-coupables-par-les-autorites-policieres-et-judiciaires_6729480_3210.html",
+          "source": "Le Monde",
+          "summary": "A l’image des victimes de l’affaire Wallace, de nombreux innocents peuplent les prisons du pays, la police et la justice utilisant encore couramment la torture et les sévices sexuels pour obtenir des aveux.",
+          "published": "2026-07-22T01:00:09+00:00"
+        },
+        {
+          "title": "En direct : les États-Unis ont lancé une nouvelle salve de frappes en Iran",
+          "link": "https://www.france24.com/fr/moyen-orient/20260722-en-direct-moyen-orient-iran-etats-unis-nouvelle-salve-frappes-houthis-ormuz-golfe-trump",
           "source": "France 24",
-          "summary": "Le parquet national antiterroriste (Pnat) a ouvert une enquête préliminaire en France pour tortures le 1er juillet, \"à la suite des plaintes de deux personnes ayant pris part à une flottille pour Gaza en octobre 2025\",…",
-          "published": "2026-07-21T19:44:26+00:00"
+          "summary": "L'armée américaine a annoncé mardi soir avoir lancé de nouvelles frappes en Iran, pour une onzième nuit consécutive. Le ministre américain de la Défense a estimé que la guerre en Iran devrait coûter 37,5 milliards de…",
+          "published": "2026-07-22T00:53:49+00:00"
+        },
+        {
+          "title": "Cuba : un cargo d’aide humanitaire envoyé par Washinton, qui maintient sa pression sur le régime",
+          "link": "https://www.lemonde.fr/international/article/2026/07/22/cuba-un-cargo-d-aide-humanitaire-envoye-par-washinton-qui-maintient-sa-pression-sur-le-regime_6729479_3210.html",
+          "source": "Le Monde",
+          "summary": "Cette première tranche d’aide, qui contient des denrées alimentaires et des kits d’hygiène, faite en partenariat avec une organisation caritative américaine, avait été proposée en novembre 2025 après le passage…",
+          "published": "2026-07-22T00:45:30+00:00"
+        },
+        {
+          "title": "Donald Trump annonce des droits de douane de 100 % sur les médicaments génériques à partir de 2028",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260722-etats-unis-donald-trump-annonce-droits-de-douane-100-medicaments-generiques-industrie-pharmaceutique",
+          "source": "France 24",
+          "summary": "À partir d'août 2028, les États-Unis imposeront des droits de douane de 100 % sur les médicaments génériques, a annoncé le président Donald Trump mardi. Objectif : relocaliser la production des produits pharmaceutiques…",
+          "published": "2026-07-22T00:12:23+00:00"
+        },
+        {
+          "title": "Naufrage d’un ferry au Guyana : le bilan toujours provisoire réévalué à 53 morts",
+          "link": "https://www.lemonde.fr/international/article/2026/07/22/naufrage-d-un-ferry-au-guyana-le-bilan-toujours-provisoire-reevalue-a-53-morts_6729413_3210.html",
+          "source": "Le Monde",
+          "summary": "Des pêcheurs locaux associés à des plongeurs militaires français poursuivent les recherches, alors que le nombre de passagers à bord du « MV Barima » est estimé par le premier ministre à 179.",
+          "published": "2026-07-21T23:35:01+00:00"
         },
         {
           "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée, Oleksandr Syrsky",
-          "link": "https://www.lemonde.fr/international/live/2026/07/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6725306_3210.html",
+          "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky_6725306_3210.html",
           "source": "Le Monde",
           "summary": "Plusieurs jours de manifestations de grande ampleur à Kiev et dans d’autres villes du pays avaient réclamé la démission de M. Syrsky, à qui ses détracteurs reprochent de faire peu de cas des pertes humaines. Il est…",
-          "published": "2026-07-21T18:12:28+00:00"
+          "published": "2026-07-21T22:27:15+00:00"
         },
         {
-          "title": "Au Liban, la vie en sursis de trois villages chrétiens enclavés dans la zone occupée par Israël : « Nous sommes comme emprisonnés, assiégés »",
-          "link": "https://www.lemonde.fr/international/article/2026/07/21/au-liban-la-vie-en-sursis-de-trois-villages-chretiens-enclaves-dans-la-zone-occupee-par-israel-nous-sommes-comme-emprisonnes-assieges_6729145_3210.html",
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a une nouvelle fois lancé une série de frappes nocturnes sur l’Iran",
+          "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-le-ministre-de-la-defense-americain-estime-a-37-5-milliards-de-dollars-le-cout-de-la-guerre-en-iran-jusqu-a-fin-septembre_6725301_3210.html",
           "source": "Le Monde",
-          "summary": "Les quelque 7 000 habitants demeurés dans le sud du Liban occupé dépendent pour leurs déplacements et leur approvisionnement des autorisations de l’armée israélienne. Lundi, un convoi humanitaire de L’Œuvre d’Orient…",
-          "published": "2026-07-21T18:00:04+00:00"
-        },
-        {
-          "title": "Donald Trump annonce la reprise des vols directs vers le Liban après sa rencontre avec le président Joseph Aoun",
-          "link": "https://www.lemonde.fr/international/article/2026/07/21/donald-trump-promet-de-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun_6729108_3210.html",
-          "source": "Le Monde",
-          "summary": "La visite de Joseph Aoun est la première d’un président libanais à Washington depuis 2009, au moment où un accord avec Israël, parrainé par les Etats-Unis, entre dans sa première phase. Dans le bureau Ovale, M. Aoun a…",
-          "published": "2026-07-21T17:30:30+00:00"
-        },
-        {
-          "title": "États-Unis : le Liban \"a été maltraité\", selon Donald Trump",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260721-%C3%A9tats-unis-le-liban-a-%C3%A9t%C3%A9-maltrait%C3%A9-selon-donald-trump",
-          "source": "France 24",
-          "summary": "Le président ⁠américain Donald Trump ​a déclaré, à l'occasion de la visite à ​la Maison blanche de son homologue libanais Joseph Aoun, vouloir \"aider\" le Liban, déplorant que le pays ait été \"très maltraité\" ​pendant…",
-          "published": "2026-07-21T17:18:49+00:00"
-        },
-        {
-          "title": "Bande de Gaza : les secours recensent 12 personnes tuées par des bombardements israéliens, dont six membres d’une même famille",
-          "link": "https://www.lemonde.fr/international/article/2026/07/21/bande-de-gaza-les-secours-recensent-12-personnes-tuees-par-des-bombardements-israeliens-dont-six-membres-d-une-meme-famille_6729074_3210.html",
-          "source": "Le Monde",
-          "summary": "Le Haut-Commissariat des Nations unies aux droits de l’homme a dénoncé, mardi, une récente « intensification » des attaques israéliennes dans la bande de Gaza, qui ont fait, selon lui, au moins 57 morts entre le 13 et…",
-          "published": "2026-07-21T17:13:34+00:00"
-        },
-        {
-          "title": "Loi d'urgence agricole: vers la réintroduction de 2 pesticides?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260721-loi-d-urgence-agricole-vers-la-r%C3%A9introduction-de-2-pesticides",
-          "source": "France 24",
-          "summary": "La loi d'urgence agricole a été adoptée à l'Assemblée Nationale et doit être définitivement adoptée par le Sénat ce mardi soir. Une disposition fait particulièrement débat: la réautorisation par dérogation de 2…",
-          "published": "2026-07-21T17:12:39+00:00"
-        },
-        {
-          "title": "Tour de France : Remco Evenepoel remporte le chrono de la 16e étape, Pogacar deuxième",
-          "link": "https://www.france24.com/fr/sports/20260721-tour-de-france-remco-evenepoel-remporte-le-chrono-de-la-16e-%C3%A9tape-pogacar-deuxi%C3%A8me",
-          "source": "France 24",
-          "summary": "Remco Evenepoel (Red ​Bull-Bora-hansgrohe) a écrasé mardi le contre-la-montre individuel de la 16e étape du Tour de France et confirmé qu'il était favori pour la ​place de dauphin du maillot jaune Tadej Pogacar (UAE…",
-          "published": "2026-07-21T17:10:04+00:00"
+          "summary": "Pour la onzième nuit d’affilée, les Etats-Unis ont lancé des attaques sur des « cibles militaires ». Des explosions ont été rapportées par l’agence iranienne d’Etat IRNA à Bouchehr, où se trouve la seule centrale…",
+          "published": "2026-07-21T22:25:14+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "La pédiatre française privée de permis de travail pourra recommencer à pratiquer",
-          "link": "https://www.ledevoir.com/actualites/immigration/996341/pediatre-francaise-privee-permis-travail-pourra-recommencer-pratiquer",
+          "title": "OpenAI a piraté par elle-même une autre entreprise",
+          "link": "https://www.ledevoir.com/economie/techno/996383/openai-pirate-elle-meme-autre-entreprise",
           "source": "Le Devoir",
-          "summary": "Marie-Aline Sauvage a finalement obtenu son visa de travail qu’on lui avait refusé après un imbroglio administratif.",
-          "published": "2026-07-21T21:48:00+00:00"
+          "summary": "L’intrusion a notamment été provoquée par un modèle qui est en phase de test en interne.",
+          "published": "2026-07-22T01:26:01+00:00"
         },
         {
-          "title": "Neuf premiers ministres canadiens approuvent la vente d’alcool entre les provinces",
-          "link": "https://www.lapresse.ca/affaires/2026-07-21/neuf-premiers-ministres-canadiens-approuvent-la-vente-d-alcool-entre-les-provinces.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "OpenAI affirme que sa technologie d’IA a piraté par elle-même une autre entreprise",
+          "link": "https://www.lapresse.ca/affaires/techno/2026-07-21/openai-affirme-que-sa-technologie-d-ia-a-pirate-par-elle-meme-une-autre-entreprise.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Neuf premiers ministres provinciaux affirment avoir levé un obstacle majeur à la vente d’alcool entre les provinces.",
-          "published": "2026-07-21T21:08:21+00:00"
+          "summary": "Le développeur de ChatGPT, OpenAI, a expliqué mardi que son système d’intelligence artificielle avait piraté de son propre chef une autre entreprise spécialisée dans l’IA, dans ce que la société a qualifié d’« incident…",
+          "published": "2026-07-22T01:10:43+00:00"
         },
         {
-          "title": "La France interdit les réseaux sociaux aux moins de 15 ans, une première en Europe",
-          "link": "https://www.ledevoir.com/economie/techno/996338/france-interdit-reseaux-sociaux-moins-15-ans-premiere-europe",
-          "source": "Le Devoir",
-          "summary": "Il reviendra aux plateformes, et non aux parents, de mettre en place un dispositif de vérification d’âge.",
-          "published": "2026-07-21T21:02:22+00:00"
-        },
-        {
-          "title": "L’art au service de la résistance à Donald Trump",
-          "link": "https://www.ledevoir.com/monde/etats-unis/996332/art-service-resistance-donald-trump",
-          "source": "Le Devoir",
-          "summary": "Les œuvres sauvages se multiplient dans les rues de Washington pour dénoncer — et raconter — le trumpisme.",
-          "published": "2026-07-21T20:56:00+00:00"
-        },
-        {
-          "title": "Les nouveaux droits de douane de Trump viseraient environ 5% des exportations canadiennes",
-          "link": "https://www.ledevoir.com/economie/996317/nouveaux-droits-douane-trump-viseraient-environ-5-exportations-canadiennes",
-          "source": "Le Devoir",
-          "summary": "Des économistes considèrent cette menace de tarifs comme un enjeu sectoriel, et non généralisé pour l’économie.",
-          "published": "2026-07-21T20:36:34+00:00"
-        },
-        {
-          "title": "Incendies de forêt | Des municipalités sur le qui-vive partout au pays",
-          "link": "https://www.lapresse.ca/actualites/national/2026-07-21/incendies-de-foret/des-municipalites-sur-le-qui-vive-partout-au-pays.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Tomber amoureux de Montréal | S’intégrer, un match à la fois",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-07-21/tomber-amoureux-de-montreal/s-integrer-un-match-a-la-fois.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La communauté de Collins, en Ontario, a été ravagée par les flammes la semaine dernière. Mardi, on craignait pour Kimberley, en Colombie-Britannique. Les infrastructures et les villes sont de plus en plus menacées par…",
-          "published": "2026-07-21T20:29:42+00:00"
+          "summary": "Ancrer l’amour de l’équipe montréalaise de soccer dans le cœur de ses deux filles : c’est l’objectif que s’est donné Salma Bouziane en emmenant sa famille, immigrée du Maroc, voir un match du CF Montréal. « On est…",
+          "published": "2026-07-21T23:45:00+00:00"
         },
         {
-          "title": "«Splatoon Raiders»: buffet à volonté",
-          "link": "https://www.ledevoir.com/culture/ecrans/996176/splatoon-raiders-buffet-volonte",
+          "title": "Le Canada ne célébrera plus l’inauguration du pont Gordie-Howe avec les États-Unis",
+          "link": "https://www.ledevoir.com/economie/996377/canada-ne-celebrera-plus-inauguration-pont-gordie-howe-etats-unis",
           "source": "Le Devoir",
-          "summary": "La série de jeu de tir multijoueur à base d’encre s’offre une production dérivée axée sur le jeu solo… et la nourriture.",
-          "published": "2026-07-21T20:29:02+00:00"
+          "summary": "Une cérémonie exclusivement canadienne devrait avoir lieu vendredi.",
+          "published": "2026-07-21T23:35:00+00:00"
         },
         {
-          "title": "Les trois actus du 21 juillet",
-          "link": "https://www.ledevoir.com/actualites/996311/trois-actus-21-juillet",
+          "title": "Churchill Falls | Une entente « dans les prochaines semaines » entre Québec et Terre-Neuve",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-07-21/churchill-falls/une-entente-dans-les-prochaines-semaines-entre-quebec-et-terre-neuve.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le Québec et Terre-Neuve-et-Labrador en arriveront à une entente « dans les prochaines semaines » dans l’épineux dossier de l’accroissement du potentiel hydro-électrique du fleuve Churchill (Labrador), a suggéré la…",
+          "published": "2026-07-21T23:19:37+00:00"
+        },
+        {
+          "title": "Le site du Rassemblement national piraté, tout comme le compte X de Le Pen",
+          "link": "https://www.ledevoir.com/monde/europe/996371/site-rassemblement-national-pirate-tout-comme-compte-x-pen",
           "source": "Le Devoir",
-          "summary": "Des menaces tarifaires de Trump, Israël forge une frontière à Gaza et les feux en Ontario: ce qu’il faut retenir.",
-          "published": "2026-07-21T20:20:00+00:00"
+          "summary": "Un message en anglais appelait à investir dans une mystérieuse cryptomonnaie baptisée $LEPEN.",
+          "published": "2026-07-21T23:11:20+00:00"
         },
         {
-          "title": "Chronique de Francis Vailles | Je déteste Donald Trump",
-          "link": "https://www.lapresse.ca/affaires/chroniques/2026-07-21/chronique-de-francis-vailles/je-deteste-donald-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Ce que Louis Morissette découvre avec François.e",
+          "link": "https://www.lapresse.ca/arts/chroniques/2026-07-21/ce-que-louis-morissette-decouvre-avec-francois-e.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Je n’aurais jamais pensé détester autant les Américains.",
-          "published": "2026-07-21T20:00:00+00:00"
+          "summary": "Pendant nos vacances, mon chum et moi avons vu François.e, qui nous a fait rire, qui nous a touchés, et dont nous avons jasé toute la soirée en sortant du cinéma, même si je l’avais un peu traîné de force, lui qui…",
+          "published": "2026-07-21T23:00:00+00:00"
         },
         {
-          "title": "Écoles vétustes | Feu vert aux travaux pour l’Académie de Roberval",
-          "link": "https://www.lapresse.ca/actualites/education/2026-07-21/ecoles-vetustes/feu-vert-aux-travaux-pour-l-academie-de-roberval.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Cette fois-ci sera-t-elle la bonne ? Le député solidaire Andrés Fontecilla « fait confiance » au gouvernement Fréchette, qui a annoncé le remplacement et le réaménagement de l’Académie de Roberval, condamnée depuis…",
-          "published": "2026-07-21T19:59:21+00:00"
+          "title": "Qu’est-ce que l’article 338 de la Loi sur les tarifs?",
+          "link": "https://www.ledevoir.com/economie/996356/est-ce-article-338-loi-tarifs",
+          "source": "Le Devoir",
+          "summary": "Donald Trump a invoqué cette loi pour imposer ses nouveaux droits de douane. « Le Devoir » fait le point.",
+          "published": "2026-07-21T22:37:00+00:00"
+        },
+        {
+          "title": "Le mystère derrière la madeleine de Proust enfin expliqué",
+          "link": "https://www.ledevoir.com/actualites/science/996326/quels-sont-mecanismes-cerebraux-expliquant-madeleine-proust",
+          "source": "Le Devoir",
+          "summary": "Des neuroscientifiques français se sont penchés sur la puissance particulière de certains souvenirs olfactifs.",
+          "published": "2026-07-21T22:29:00+00:00"
+        },
+        {
+          "title": "L’actrice Kaylee Hottle meurt à 18 ans dans un accident de voiture",
+          "link": "https://www.ledevoir.com/culture/cinema/996365/actrice-kaylee-hottle-meurt-18-ans-accident-voiture",
+          "source": "Le Devoir",
+          "summary": "La jeune femme, qui était sourde, était connue pour ses rôles dans deux films «Godzilla».",
+          "published": "2026-07-21T22:29:00+00:00"
         }
       ]
     },
@@ -159,11 +159,46 @@
       "label": "France",
       "items": [
         {
+          "title": "Médicaments génériques : Trump annonce des droits de douane de 100% à partir d’août 2028",
+          "link": "https://www.lefigaro.fr/conjoncture/trump-annonce-que-les-medicaments-generiques-seront-soumis-a-des-droits-de-douane-de-100-a-partir-d-aout-2028-20260722",
+          "source": "Le Figaro",
+          "summary": "Cette mesure vise, selon le président américain, à relocaliser la production des produits pharmaceutiques sur le territoire américain.",
+          "published": "2026-07-21T23:37:58+00:00"
+        },
+        {
+          "title": "Naufrage d’un ferry au Guyana : nouveau bilan provisoire de 53 morts",
+          "link": "https://www.lefigaro.fr/international/naufrage-d-un-ferry-au-guyana-nouveau-bilan-provisoire-de-53-morts-20260722",
+          "source": "Le Figaro",
+          "summary": "Le précédent bilan annoncé plus tôt dans la journée faisait état de 41 morts et 77 personnes secourues sur les 179 estimées à bord.",
+          "published": "2026-07-21T23:36:51+00:00"
+        },
+        {
+          "title": "Nigeria : plus de 40 personnes enlevées par un gang armé",
+          "link": "https://www.lefigaro.fr/international/nigeria-plus-de-40-personnes-enlevees-par-un-gang-arme-20260722",
+          "source": "Le Figaro",
+          "summary": "Des membres d’un gang armé ont enlevé plus de 40 personnes dans le nord-ouest du pays au cours du week-end.",
+          "published": "2026-07-21T23:11:22+00:00"
+        },
+        {
           "title": "Tour Montparnasse : le principal copropriétaire obtient l’abandon du méga projet de rénovation à 800 millions d’euros",
           "link": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
           "source": "Le Figaro",
-          "summary": "INFO LE FIGARO - Lors de l’assemblée générale qui s’est tenue ce mardi 21 juillet, le gestionnaire d’actifs LFPI, qui détient 30% de la Tour, a expliqué aux autres copropriétaires son souhait de revenir à une rénovation…",
-          "published": "2026-07-21T21:53:07+00:00"
+          "summary": "INFO LE FIGARO - Lors de l’assemblée générale qui s’est tenue ce mardi 21 juillet, le gestionnaire d’actifs LFPI, qui détient 30% de la tour Montparnasse, a expliqué aux autres copropriétaires son souhait de revenir à…",
+          "published": "2026-07-21T22:21:18+00:00"
+        },
+        {
+          "title": "Incendies : un feu déclaré dans l'après-midi a déjà parcouru 1 700 hectares dans le Var, les flammes progressent \"à une vitesse très importante\", selon le préfet",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-cinq-departements-du-pourtour-mediterraneen-place-en-risque-tres-eleve-de-feux_8115884.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Au total, 120 personnes, 60 engins et trois moyens aériens ont été mobilisés pour combattre ce feu de bâtiment survenu près de l'aéroport de Mérignac. Marc Vermeulen, directeur du Sdis 33, assure que le feu est…",
+          "published": "2026-07-21T22:05:24+00:00"
+        },
+        {
+          "title": "La jeune actrice Kaylee Hottle, connu pour ses rôles dans \"Godzilla\", meurt à 18 ans dans un accident de voiture",
+          "link": "https://www.franceinfo.fr/culture/cinema/la-jeune-actrice-kaylee-hottle-connu-pour-ses-roles-dans-godzilla-meurt-a-18-ans-dans-un-accident-de-voiture_8117033.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Révélée au grand public grâce à son personnage de \"Jia\", elle était devenue l'une des rares jeunes actrices sourdes à s'imposer dans une superproduction hollywoodienne. Les autorités évoquent un excès de vitesse comme…",
+          "published": "2026-07-21T22:01:56+00:00"
         },
         {
           "title": "« C’est la double peine » : comment la réglementation européenne et la fiscalité française font plonger le marché de l’automobile en France",
@@ -171,13 +206,6 @@
           "source": "Le Figaro",
           "summary": "EXCLUSIF - Une étude réalisée par Roland Berger à la demande de la PFA, Mobilians, Sesam et Avere met en avant le poids des contraintes législatives qui pénalisent à la fois les constructeurs et les consommateurs.",
           "published": "2026-07-21T21:47:45+00:00"
-        },
-        {
-          "title": "Le Parlement adopte définitivement le projet de loi Ripost sur la tranquillité publique",
-          "link": "https://www.lefigaro.fr/politique/le-parlement-adopte-definitivement-le-projet-de-loi-ripost-sur-la-tranquillite-publique-20260721",
-          "source": "Le Figaro",
-          "summary": "Porté par le ministre de l’Intérieur Laurent Nuñez, ce projet de loi est un arsenal de mesures contre des phénomènes qui troublent l’ordre public, de la consommation de protoxyde d’azote aux rodéos urbains en passant…",
-          "published": "2026-07-21T21:47:22+00:00"
         },
         {
           "title": "Protoxyde d'azote, rodéos urbains, free parties… Le Parlement adopte le projet de loi Ripost sur la sécurité du quotidien",
@@ -194,45 +222,31 @@
           "published": "2026-07-21T21:20:01+00:00"
         },
         {
-          "title": "EN DIRECT - Guerre au Moyen-Orient : le président libanais a insisté auprès de Trump sur le «retrait total d’Israël» du Liban",
-          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
-          "source": "Le Figaro",
-          "summary": "Le président américain a annoncé la reprise des vols directs vers le Liban après sa rencontre avec le président Aoun.",
-          "published": "2026-07-21T21:06:03+00:00"
-        },
-        {
           "title": "Arrestation de la \"flottille pour Gaza\" par Israël : le Parquet national antiterroriste français ouvre une nouvelle enquête pour \"tortures\"",
           "link": "https://www.franceinfo.fr/monde/palestine/gaza/arrestation-de-la-flottille-pour-gaza-par-israel-le-parquet-national-antiterroriste-francais-ouvre-une-nouvelle-enquete-pour-tortures_8116964.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Cette enquête, ouverte le 1er juillet par le Parquet national antiterroriste (Pnat), concerne le traitement réservé par les autorités israéliennes à deux personnes interpellées en octobre 2025 à bord d'une \"flottille…",
           "published": "2026-07-21T20:58:15+00:00"
-        },
-        {
-          "title": "« La Russie est capable de prendre d’énormes risques » : l’alerte du chef d’état-major suédois sur une possible « attaque » en Europe",
-          "link": "https://www.lefigaro.fr/international/la-russie-est-capable-de-prendre-d-enormes-risques-l-alerte-du-chef-d-etat-major-suedois-sur-une-possible-attaque-imminente-en-europe-20260721",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Pour le général Claesson, Moscou n’attendra pas que les Européens se soient réarmés pour tester leur unité et leurs défenses. Il anticipe notamment un scénario à risque.",
-          "published": "2026-07-21T20:54:10+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée Oleksandr Syrsky",
-          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky-20260721",
-          "source": "Le Figaro",
-          "summary": "Après plus de deux ans à la tête des forces ukrainiennes, le général Oleksandr Syrsky quitte ses fonctions dans un contexte de critiques sur son style de commandement, malgré des succès militaires revendiqués par Kiev.",
-          "published": "2026-07-21T20:48:26+00:00"
-        },
-        {
-          "title": "Nicolas Hulot, François de Rugy, Monique Barbut : la malédiction du ministère de l’Écologie",
-          "link": "https://www.lefigaro.fr/politique/nicolas-hulot-francois-de-rugy-monique-barbut-la-malediction-du-ministere-de-l-ecologie-20260721",
-          "source": "Le Figaro",
-          "summary": "RÉCIT - La ministre de la Transition écologique présentera sa démission d’ici le Conseil des ministres de mercredi. Une décision qui n’est pas sans rappeler des précédents depuis l’arrivée au pouvoir d’Emmanuel Macron.",
-          "published": "2026-07-21T20:34:35+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Range Rover dévoile enfin son GT électrique et l’intérieur va faire jaser",
+          "link": "https://www.frandroid.com/survoltes/voitures-electriques/3187531_range-rover-devoile-enfin-son-gt-electrique-et-linterieur-va-faire-jaser",
+          "source": "Frandroid",
+          "summary": "Range Rover ajoute un cinquième modèle à sa famille, le Range Rover GT, un grand tourer 100&nbsp;% électrique. Pour l’instant, la marque montre surtout un habitacle et des prototypes camouflés&nbsp;: ni prix, ni…",
+          "published": "2026-07-21T23:01:00+00:00"
+        },
+        {
+          "title": "On est monté à bord du Range Rover GT, la surprise électrique de la marque",
+          "link": "https://www.frandroid.com/survoltes/voitures-electriques/3186769_on-est-monte-a-bord-du-range-rover-gt-la-surprise-electrique-de-la-marque",
+          "source": "Frandroid",
+          "summary": "C'est peut-être le modèle le plus secret du moment. Range Rover agrandit la famille avec l'inédit Range Rover GT. J'ai eu la chance de voir et me glisser à bord de ce Grand Tourer électrique qui casse complètement les…",
+          "published": "2026-07-21T23:01:00+00:00"
+        },
         {
           "title": "Réseaux sociaux interdits aux moins de 15 ans : députés et sénateurs adoptent la loi",
           "link": "https://www.clubic.com/actualite-622246-reseaux-sociaux-interdits-aux-moins-de-15-ans-deputes-et-senateurs-adoptent-la-loi.html",
@@ -302,20 +316,6 @@
           "source": "Numerama",
           "summary": "Créer une courte scène d’anime à partir de quelques mots : c’est la promesse d’AnimeGen. Publié gratuitement le 13 juillet 2026, ce modèle japonais de génération vidéo peut même être utilisé dans des projets…",
           "published": "2026-07-21T16:30:00+00:00"
-        },
-        {
-          "title": "Test de l’écran Nothing Projector Matte White : la toile blanche mate pour une image plus lumineuse mais moins contrastée",
-          "link": "https://www.frandroid.com/produits-android/tv-connectee-produits/projecteur/3186245_test-de-lecran-nothing-projector-matte-white-la-toile-blanche-mate-pour-une-image-plus-lumineuse-mais-moins-contrastee",
-          "source": "Frandroid",
-          "summary": "L'écran Nothing Projector Matte White, motorisé à montée depuis le sol, propose une approche radicalement différente des toiles ALR habituellement associées aux vidéoprojecteurs ultra courte focale. Nous l'avons testé.",
-          "published": "2026-07-21T16:22:00+00:00"
-        },
-        {
-          "title": "Tesla dévoile sa Summer Update 2026 : voici toutes les nouveautés à venir",
-          "link": "https://www.numerama.com/vroom/2299093-tesla-devoile-sa-summer-update-2026-voici-toutes-les-nouveautes-a-venir.html",
-          "source": "Numerama",
-          "summary": "La mise à jour de l'été va bientôt être déployée chez Tesla. Au programme : plus de commandes pour Grok, une navigation améliorée et quelques réglages pratiques.",
-          "published": "2026-07-21T16:19:05+00:00"
         }
       ]
     }
