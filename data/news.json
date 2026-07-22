@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-22T02:32:41.788331+00:00",
+  "generated_at": "2026-07-22T05:49:26.903025+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Tour de France : Evenepoel s'offre le contre-la-montre et conforte sa deuxième place",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260722-tour-de-france-evenepoel-s-offre-le-contre-la-montre-et-conforte-sa-deuxi%C3%A8me-place",
+          "source": "France 24",
+          "summary": "Remco Evenepoel a remporté le contre-la-montre de la 16e étape du Tour de France, deux jours après son succès au Plateau de Solaison. Triple champion du monde de la spécialité, le Belge a devancé Tadej Pogacar de 28…",
+          "published": "2026-07-22T05:23:58+00:00"
+        },
+        {
+          "title": "La loi d’urgence agricole \"sécurise l’eau pour la production, au détriment d'autres usagers\"",
+          "link": "https://www.france24.com/fr/france/20260722-france-loi-d-urgence-agricole-securise-eau-production-detriment-autres-usagers",
+          "source": "France 24",
+          "summary": "Le Parlement a adopté mardi la loi d'urgence agricole, qui prévoit notamment le doublement des volumes de stockage d’eau à des fins agricoles d’ici 2035. Très attendu par les agriculteurs dans un contexte de sécheresse…",
+          "published": "2026-07-22T05:08:24+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce un remaniement à la tête de l’armée ukrainienne après plusieurs jours de manifestations",
+          "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-nomme-mykhailo-drapaty-commandant-en-chef-de-l-armee-apres-le-limogeage-d-oleksandr-syrsky_6725306_3210.html",
+          "source": "Le Monde",
+          "summary": "Les manifestants réclamaient le départ d’Oleksandr Syrsky, commandant en chef de l’armée, qui a été acté mardi soir par le président ukrainien. Il est remplacé par le populaire commandant des forces interarmées,…",
+          "published": "2026-07-22T04:51:06+00:00"
+        },
+        {
+          "title": "« Au Maroc, je ne me cachais pas » : le Maghreb, refuge de plus en plus menacé des « narcos » français",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/22/au-maroc-je-ne-me-cachais-pas-le-maghreb-refuge-de-plus-en-plus-menace-des-narcos-francais_6729818_3451060.html",
+          "source": "Le Monde",
+          "summary": "« L’Afrique sous emprise » (3/6). Au Maroc, en Algérie ou en Tunisie, les trafiquants ont longtemps pensé être à l’abri. Mais les nouvelles relations de Paris avec Rabat et Alger ont modifié la donne, obligeant les…",
+          "published": "2026-07-22T04:30:05+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a bombardé l’Iran pour la onzième nuit d’affilée",
+          "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-une-nouvelle-fois-lance-une-serie-de-frappes-nocturnes-sur-l-iran_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon l’état-major américain, des « cibles militaires » ont été visées. Des explosions ont été rapportées par l’agence iranienne d’Etat IRNA à Bouchehr, où se trouve la seule centrale nucléaire civile en fonctionnement…",
+          "published": "2026-07-22T04:23:23+00:00"
+        },
+        {
+          "title": "Donald Trump compte imposer des droits de douane de 100 % sur les médicaments génériques importés afin de relocaliser la production aux Etats-Unis",
+          "link": "https://www.lemonde.fr/international/article/2026/07/22/donald-trump-compte-imposer-des-droits-de-douane-de-100-sur-les-medicaments-generiques-importes-afin-de-relocaliser-la-production-aux-etats-unis_6729785_3210.html",
+          "source": "Le Monde",
+          "summary": "La mesure annoncée par le président américain entrera en vigueur à partir d’août 2028, le taux devant ensuite passer à 200 % un an plus tard. Elle a pour but de forcer les entreprises à construire des usines sur le sol…",
+          "published": "2026-07-22T04:16:04+00:00"
+        },
+        {
+          "title": "Singapour, principal point de passage entre l’océan Indien et le Pacifique, déploie son hyperpuissance portuaire",
+          "link": "https://www.lemonde.fr/economie/article/2026/07/22/singapour-principal-point-de-passage-entre-l-ocean-indien-et-le-pacifique-deploie-son-hyperpuissance-portuaire_6729713_3234.html",
+          "source": "Le Monde",
+          "summary": "« La ruée sur les ports » (13/16). Pour garder sa place de numéro un mondial du transbordement et du ravitaillement en carburant, Singapour mise sur un nouveau mégaport toujours plus moderne : automatisation totale,…",
+          "published": "2026-07-22T03:30:03+00:00"
+        },
+        {
+          "title": "Espagne : l’écho du silence (3/5)",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/07/22/espagne-l-echo-du-silence-3-5_6729646_5463015.html",
+          "source": "Le Monde",
+          "summary": "Dans ce troisième épisode de la série de podcasts « Espagne : l’écho du silence », la journaliste Garance Muñoz s’intéresse à l’exil massif des réfugiés espagnols à la fin de la guerre d’Espagne, et aux conditions…",
+          "published": "2026-07-22T03:00:10+00:00"
+        },
+        {
           "title": "L'incendie du Var continue de progresser, plus de 2 300 foyers privés d'électricité",
           "link": "https://www.france24.com/fr/france/20260722-france-incendie-var-continue-de-progresser-evacuations-electricite-pompiers",
           "source": "France 24",
-          "summary": "Des centaines de pompiers sont mobilisés mercredi dans le Var, où un incendie persistant a déjà parcouru plus de 1 700 hectares et menace plusieurs communes, provoquant l'évacuation de quelque 400 personnes. Sur…",
+          "summary": "Des centaines de pompiers sont mobilisés, mercredi, dans le Var, où un incendie persistant a déjà parcouru plus de 1 700 hectares et menace plusieurs communes, provoquant l'évacuation de quelque 400 personnes. Sur…",
           "published": "2026-07-22T02:12:31+00:00"
         },
         {
           "title": "Nicaragua : Daniel Ortega annule les prochaines élections, Washington dénonce une dérive autoritaire",
           "link": "https://www.lemonde.fr/international/article/2026/07/22/nicaragua-daniel-ortega-annule-les-prochaines-elections-washington-denonce-une-derive-autoritaire_6729579_3210.html",
           "source": "Le Monde",
-          "summary": "Face au refus du coprésident de ce pays d’Amérique centrale d’organiser le scrutin prévu en 2027, le Secrétariat d’Etat américain hausse le ton.",
+          "summary": "Face au refus du coprésident de ce pays d’Amérique centrale d’organiser le scrutin prévu en 2027, le secrétariat d’Etat américain hausse le ton.",
           "published": "2026-07-22T02:00:28+00:00"
-        },
-        {
-          "title": "L’administration Trump contrainte de demander des fonds supplémentaires pour la guerre contre l’Iran",
-          "link": "https://www.lemonde.fr/international/article/2026/07/22/l-administration-trump-contrainte-de-demander-des-fonds-supplementaires-pour-la-guerre-contre-l-iran_6729513_3210.html",
-          "source": "Le Monde",
-          "summary": "Alors que Donald Trump a assuré, mardi, que les Etats-Unis n’en avaient « pas fini du tout » avec la République islamique, le secrétaire à la défense, Pete Hegseth, est venu défendre devant le Sénat une rallonge…",
-          "published": "2026-07-22T01:32:54+00:00"
-        },
-        {
-          "title": "Au Mexique, la « fabrication de coupables » par les autorités policières et judiciaires",
-          "link": "https://www.lemonde.fr/international/article/2026/07/22/au-mexique-la-fabrication-de-coupables-par-les-autorites-policieres-et-judiciaires_6729480_3210.html",
-          "source": "Le Monde",
-          "summary": "A l’image des victimes de l’affaire Wallace, de nombreux innocents peuplent les prisons du pays, la police et la justice utilisant encore couramment la torture et les sévices sexuels pour obtenir des aveux.",
-          "published": "2026-07-22T01:00:09+00:00"
-        },
-        {
-          "title": "En direct : les États-Unis ont lancé une nouvelle salve de frappes en Iran",
-          "link": "https://www.france24.com/fr/moyen-orient/20260722-en-direct-moyen-orient-iran-etats-unis-nouvelle-salve-frappes-houthis-ormuz-golfe-trump",
-          "source": "France 24",
-          "summary": "L'armée américaine a annoncé mardi soir avoir lancé de nouvelles frappes en Iran, pour une onzième nuit consécutive. Le ministre américain de la Défense a estimé que la guerre en Iran devrait coûter 37,5 milliards de…",
-          "published": "2026-07-22T00:53:49+00:00"
-        },
-        {
-          "title": "Cuba : un cargo d’aide humanitaire envoyé par Washinton, qui maintient sa pression sur le régime",
-          "link": "https://www.lemonde.fr/international/article/2026/07/22/cuba-un-cargo-d-aide-humanitaire-envoye-par-washinton-qui-maintient-sa-pression-sur-le-regime_6729479_3210.html",
-          "source": "Le Monde",
-          "summary": "Cette première tranche d’aide, qui contient des denrées alimentaires et des kits d’hygiène, faite en partenariat avec une organisation caritative américaine, avait été proposée en novembre 2025 après le passage…",
-          "published": "2026-07-22T00:45:30+00:00"
-        },
-        {
-          "title": "Donald Trump annonce des droits de douane de 100 % sur les médicaments génériques à partir de 2028",
-          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260722-etats-unis-donald-trump-annonce-droits-de-douane-100-medicaments-generiques-industrie-pharmaceutique",
-          "source": "France 24",
-          "summary": "À partir d'août 2028, les États-Unis imposeront des droits de douane de 100 % sur les médicaments génériques, a annoncé le président Donald Trump mardi. Objectif : relocaliser la production des produits pharmaceutiques…",
-          "published": "2026-07-22T00:12:23+00:00"
-        },
-        {
-          "title": "Naufrage d’un ferry au Guyana : le bilan toujours provisoire réévalué à 53 morts",
-          "link": "https://www.lemonde.fr/international/article/2026/07/22/naufrage-d-un-ferry-au-guyana-le-bilan-toujours-provisoire-reevalue-a-53-morts_6729413_3210.html",
-          "source": "Le Monde",
-          "summary": "Des pêcheurs locaux associés à des plongeurs militaires français poursuivent les recherches, alors que le nombre de passagers à bord du « MV Barima » est estimé par le premier ministre à 179.",
-          "published": "2026-07-21T23:35:01+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée, Oleksandr Syrsky",
-          "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky_6725306_3210.html",
-          "source": "Le Monde",
-          "summary": "Plusieurs jours de manifestations de grande ampleur à Kiev et dans d’autres villes du pays avaient réclamé la démission de M. Syrsky, à qui ses détracteurs reprochent de faire peu de cas des pertes humaines. Il est…",
-          "published": "2026-07-21T22:27:15+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine a une nouvelle fois lancé une série de frappes nocturnes sur l’Iran",
-          "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-le-ministre-de-la-defense-americain-estime-a-37-5-milliards-de-dollars-le-cout-de-la-guerre-en-iran-jusqu-a-fin-septembre_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "Pour la onzième nuit d’affilée, les Etats-Unis ont lancé des attaques sur des « cibles militaires ». Des explosions ont été rapportées par l’agence iranienne d’Etat IRNA à Bouchehr, où se trouve la seule centrale…",
-          "published": "2026-07-21T22:25:14+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "OpenAI a piraté par elle-même une autre entreprise",
-          "link": "https://www.ledevoir.com/economie/techno/996383/openai-pirate-elle-meme-autre-entreprise",
+          "title": "Jeter sa fortune hydrique par les fenêtres",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/996290/jeter-fortune-hydrique-fenetres",
           "source": "Le Devoir",
-          "summary": "L’intrusion a notamment été provoquée par un modèle qui est en phase de test en interne.",
-          "published": "2026-07-22T01:26:01+00:00"
+          "summary": "Notre mine d’or bleu vient avec de super responsabilités qu’il serait temps qu’on assume.",
+          "published": "2026-07-22T04:00:00+00:00"
         },
         {
-          "title": "OpenAI affirme que sa technologie d’IA a piraté par elle-même une autre entreprise",
-          "link": "https://www.lapresse.ca/affaires/techno/2026-07-21/openai-affirme-que-sa-technologie-d-ia-a-pirate-par-elle-meme-une-autre-entreprise.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le développeur de ChatGPT, OpenAI, a expliqué mardi que son système d’intelligence artificielle avait piraté de son propre chef une autre entreprise spécialisée dans l’IA, dans ce que la société a qualifié d’« incident…",
-          "published": "2026-07-22T01:10:43+00:00"
-        },
-        {
-          "title": "Tomber amoureux de Montréal | S’intégrer, un match à la fois",
-          "link": "https://www.lapresse.ca/sports/soccer/2026-07-21/tomber-amoureux-de-montreal/s-integrer-un-match-a-la-fois.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ancrer l’amour de l’équipe montréalaise de soccer dans le cœur de ses deux filles : c’est l’objectif que s’est donné Salma Bouziane en emmenant sa famille, immigrée du Maroc, voir un match du CF Montréal. « On est…",
-          "published": "2026-07-21T23:45:00+00:00"
-        },
-        {
-          "title": "Le Canada ne célébrera plus l’inauguration du pont Gordie-Howe avec les États-Unis",
-          "link": "https://www.ledevoir.com/economie/996377/canada-ne-celebrera-plus-inauguration-pont-gordie-howe-etats-unis",
+          "title": "Un tribunal spécialisé en violences sexuelles et conjugales, oui! Mais pourquoi?",
+          "link": "https://www.ledevoir.com/opinion/idees/996299/tribunal-specialise-violences-sexuelles-conjugales-oui-mais-pourquoi",
           "source": "Le Devoir",
-          "summary": "Une cérémonie exclusivement canadienne devrait avoir lieu vendredi.",
-          "published": "2026-07-21T23:35:00+00:00"
+          "summary": "Le véritable moteur du changement reste notre capacité collective et individuelle à briser le silence.",
+          "published": "2026-07-22T04:00:00+00:00"
         },
         {
-          "title": "Churchill Falls | Une entente « dans les prochaines semaines » entre Québec et Terre-Neuve",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-07-21/churchill-falls/une-entente-dans-les-prochaines-semaines-entre-quebec-et-terre-neuve.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le Québec et Terre-Neuve-et-Labrador en arriveront à une entente « dans les prochaines semaines » dans l’épineux dossier de l’accroissement du potentiel hydro-électrique du fleuve Churchill (Labrador), a suggéré la…",
-          "published": "2026-07-21T23:19:37+00:00"
-        },
-        {
-          "title": "Le site du Rassemblement national piraté, tout comme le compte X de Le Pen",
-          "link": "https://www.ledevoir.com/monde/europe/996371/site-rassemblement-national-pirate-tout-comme-compte-x-pen",
+          "title": "Rebâtir nos solidarités pour soutenir les proches aidants",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/996296/rebatir-solidarites-soutenir-proches-aidants",
           "source": "Le Devoir",
-          "summary": "Un message en anglais appelait à investir dans une mystérieuse cryptomonnaie baptisée $LEPEN.",
-          "published": "2026-07-21T23:11:20+00:00"
+          "summary": "Le choix se limite trop souvent à sacrifier sa vie ou abandonner son proche dans un lieu inadéquat.",
+          "published": "2026-07-22T04:00:00+00:00"
         },
         {
-          "title": "Ce que Louis Morissette découvre avec François.e",
-          "link": "https://www.lapresse.ca/arts/chroniques/2026-07-21/ce-que-louis-morissette-decouvre-avec-francois-e.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Pendant nos vacances, mon chum et moi avons vu François.e, qui nous a fait rire, qui nous a touchés, et dont nous avons jasé toute la soirée en sortant du cinéma, même si je l’avais un peu traîné de force, lui qui…",
-          "published": "2026-07-21T23:00:00+00:00"
-        },
-        {
-          "title": "Qu’est-ce que l’article 338 de la Loi sur les tarifs?",
-          "link": "https://www.ledevoir.com/economie/996356/est-ce-article-338-loi-tarifs",
+          "title": "Décarboner le Québec exige un planificateur, pas un règlement à la fois",
+          "link": "https://www.ledevoir.com/opinion/idees/996275/decarboner-quebec-exige-planificateur-pas-reglement-fois",
           "source": "Le Devoir",
-          "summary": "Donald Trump a invoqué cette loi pour imposer ses nouveaux droits de douane. « Le Devoir » fait le point.",
-          "published": "2026-07-21T22:37:00+00:00"
+          "summary": "L’incertitude actuelle retarde les investissements autant qu’elle inquiète les payeurs.",
+          "published": "2026-07-22T04:00:00+00:00"
         },
         {
-          "title": "Le mystère derrière la madeleine de Proust enfin expliqué",
-          "link": "https://www.ledevoir.com/actualites/science/996326/quels-sont-mecanismes-cerebraux-expliquant-madeleine-proust",
+          "title": "Experts sur le banc des accusés",
+          "link": "https://www.ledevoir.com/opinion/chroniques/996269/experts-banc-accuses",
           "source": "Le Devoir",
-          "summary": "Des neuroscientifiques français se sont penchés sur la puissance particulière de certains souvenirs olfactifs.",
-          "published": "2026-07-21T22:29:00+00:00"
+          "summary": "La science ne gouverne pas ; son rôle est d’éclairer ceux qui doivent décider.",
+          "published": "2026-07-22T04:00:00+00:00"
         },
         {
-          "title": "L’actrice Kaylee Hottle meurt à 18 ans dans un accident de voiture",
-          "link": "https://www.ledevoir.com/culture/cinema/996365/actrice-kaylee-hottle-meurt-18-ans-accident-voiture",
+          "title": "«L’odyssée», par-delà guerre et fidélité",
+          "link": "https://www.ledevoir.com/opinion/idees/996272/odyssee-dela-guerre-fidelite",
           "source": "Le Devoir",
-          "summary": "La jeune femme, qui était sourde, était connue pour ses rôles dans deux films «Godzilla».",
-          "published": "2026-07-21T22:29:00+00:00"
+          "summary": "Revisiter Homère permet de voir ce qui a échappé à Christopher Nolan, soit Ulysse lui-même.",
+          "published": "2026-07-22T04:00:00+00:00"
+        },
+        {
+          "title": "Brossard résiste au vélopartage",
+          "link": "https://www.ledevoir.com/politique/regions/996329/brossard-resiste-velopartage",
+          "source": "Le Devoir",
+          "summary": "Bixi n’a toujours pas réussi à faire une percée dans cette ville malgré la présence du REM depuis trois ans.",
+          "published": "2026-07-22T04:00:00+00:00"
+        },
+        {
+          "title": "Quand l’art s’invite dans votre boîte aux lettres",
+          "link": "https://www.ledevoir.com/culture/arts-visuels/996320/quand-art-invite-votre-boite-lettres",
+          "source": "Le Devoir",
+          "summary": "Les cachets d’oblitération illustrés gagnent en popularité au Canada.",
+          "published": "2026-07-22T04:00:00+00:00"
+        },
+        {
+          "title": "Le Festival d’été de Québec a bouclé son «édition chanceuse»",
+          "link": "https://www.ledevoir.com/culture/musique/996314/festival-ete-quebec-boucle-edition-chanceuse",
+          "source": "Le Devoir",
+          "summary": "La météo a collaboré presque tous les soirs, et le public était au rendez-vous, se réjouissent ses organisateurs.",
+          "published": "2026-07-22T04:00:00+00:00"
+        },
+        {
+          "title": "La SOCAN à la traque des pirates de l’IA musicale",
+          "link": "https://www.ledevoir.com/culture/musique/996335/socan-traque-pirates-ia-musicale",
+          "source": "Le Devoir",
+          "summary": "La société veut forcer les entreprises de musique IA à se procurer une licence pour utiliser des œuvres protégées.",
+          "published": "2026-07-22T04:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,122 @@
       "label": "France",
       "items": [
         {
-          "title": "Médicaments génériques : Trump annonce des droits de douane de 100% à partir d’août 2028",
-          "link": "https://www.lefigaro.fr/conjoncture/trump-annonce-que-les-medicaments-generiques-seront-soumis-a-des-droits-de-douane-de-100-a-partir-d-aout-2028-20260722",
+          "title": "«Notre bien familial s’est envolé en fumée» : un moulin du XVIIIe siècle ravagé par un incendie, près de Saint-Nazaire",
+          "link": "https://www.lefigaro.fr/nantes/notre-bien-familial-s-est-envole-en-fumee-un-moulin-du-xviiie-siecle-ravage-par-un-incendie-pres-de-saint-nazaire-20260722",
           "source": "Le Figaro",
-          "summary": "Cette mesure vise, selon le président américain, à relocaliser la production des produits pharmaceutiques sur le territoire américain.",
-          "published": "2026-07-21T23:37:58+00:00"
+          "summary": "Entretenu et restauré par une famille nantaise depuis plusieurs générations, le bâtiment situé sur la commune de La Plaine-sur-Mer a été détruit par les flammes, le 10 juillet. Son propriétaire envisage de le sécuriser…",
+          "published": "2026-07-22T05:42:34+00:00"
         },
         {
-          "title": "Naufrage d’un ferry au Guyana : nouveau bilan provisoire de 53 morts",
-          "link": "https://www.lefigaro.fr/international/naufrage-d-un-ferry-au-guyana-nouveau-bilan-provisoire-de-53-morts-20260722",
+          "title": "EN DIRECT - Guerre au Moyen-Orient : nouvelles frappes américaines en Iran, Donald Trump n’en a «pas fini du tout» avec le conflit",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
           "source": "Le Figaro",
-          "summary": "Le précédent bilan annoncé plus tôt dans la journée faisait état de 41 morts et 77 personnes secourues sur les 179 estimées à bord.",
-          "published": "2026-07-21T23:36:51+00:00"
+          "summary": "Pour la onzième nuit consécutive, l’armée américaine a lancé une campagne de frappes contre des cibles militaires de la République islamique, pour «continuer à affaiblir» sa capacité «à menacer le trafic maritime…",
+          "published": "2026-07-22T05:42:00+00:00"
         },
         {
-          "title": "Nigeria : plus de 40 personnes enlevées par un gang armé",
-          "link": "https://www.lefigaro.fr/international/nigeria-plus-de-40-personnes-enlevees-par-un-gang-arme-20260722",
+          "title": "«Hot spot : quel futur pour le Festival d’Avignon en 2050 ?»",
+          "link": "https://www.liberation.fr/culture/hot-spot-quel-futur-pour-le-festival-davignon-en-2050-20260722_PGZ4L2AXYRDOHBE7CWD2FDSTBI/",
+          "source": "Liberation",
+          "summary": "Un événement déplacé au mois d’avril ? Sur la Côte d’Opale ? A voir depuis des véhicules climatisés ? Ou bien sacrifié ? Sous l’effet des fortes chaleurs et de l’éco-anxiété, des artistes présents cette année se…",
+          "published": "2026-07-22T05:42:00+00:00"
+        },
+        {
+          "title": "Incendie dans le Var : plus de 2300 foyers privés d'électricité, principalement à Cotignac",
+          "link": "https://www.lefigaro.fr/conjoncture/incendie-dans-le-var-plus-de-2300-foyers-prives-d-electricite-principalement-a-cotignac-20260722",
           "source": "Le Figaro",
-          "summary": "Des membres d’un gang armé ont enlevé plus de 40 personnes dans le nord-ouest du pays au cours du week-end.",
-          "published": "2026-07-21T23:11:22+00:00"
+          "summary": "Dans cette région boisée et vallonnée de l’arrière-pays toulonnais, l’incendie est parti d’un champ, selon les secours.",
+          "published": "2026-07-22T05:41:40+00:00"
         },
         {
-          "title": "Tour Montparnasse : le principal copropriétaire obtient l’abandon du méga projet de rénovation à 800 millions d’euros",
-          "link": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-principal-coproprietaire-reclame-et-obtient-l-abandon-du-mega-projet-de-renovation-20260721",
+          "title": "Sébastien Lecornu assure que la ministre de la Transition écologique, Monique Barbut, a sa confiance, mais défend les \"compromis\"",
+          "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-premier-ministre-sebastien-lecornu-assure-que-la-ministre-de-la-transition-ecologique-monique-barbut-a-sa-confiance-mais-defend-les-compromis_8117408.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le Premier ministre a accordé un entretien au magazine \"Paris-Match\" alors que la démission de Monique Barbut est attendue mercredi matin, en réaction à l'adoption par le Parlement de la loi d'urgence agricole.",
+          "published": "2026-07-22T05:39:48+00:00"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : Donald Trump affirme vouloir «beaucoup aider» le Liban en recevant le président Joseph Aoun",
+          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-affirme-vouloir-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun-20260722",
           "source": "Le Figaro",
-          "summary": "INFO LE FIGARO - Lors de l’assemblée générale qui s’est tenue ce mardi 21 juillet, le gestionnaire d’actifs LFPI, qui détient 30% de la tour Montparnasse, a expliqué aux autres copropriétaires son souhait de revenir à…",
-          "published": "2026-07-21T22:21:18+00:00"
+          "summary": "Le président américain a ensuite annoncé sur son réseau Truth Social la reprise des vols commerciaux directs entre les États-Unis et le Liban, suspendus depuis plus de quarante ans, invitant les Américains à «visiter ce…",
+          "published": "2026-07-22T05:39:38+00:00"
         },
         {
-          "title": "Incendies : un feu déclaré dans l'après-midi a déjà parcouru 1 700 hectares dans le Var, les flammes progressent \"à une vitesse très importante\", selon le préfet",
-          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-cinq-departements-du-pourtour-mediterraneen-place-en-risque-tres-eleve-de-feux_8115884.html#xtor=RSS-3-[lestitres]",
+          "title": "Incendie dans le Var : les flammes ont parcouru 2 550 hectares, le feu est \"contenu\" malgré \"de nombreux points chauds\", annoncent les pompiers",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-400-personnes-evacuees-dans-le-var-a-annonce-la-prefecture-du-departement-dans-la-nuit-du-mardi-a-mercredi_8117357.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Au total, 120 personnes, 60 engins et trois moyens aériens ont été mobilisés pour combattre ce feu de bâtiment survenu près de l'aéroport de Mérignac. Marc Vermeulen, directeur du Sdis 33, assure que le feu est…",
-          "published": "2026-07-21T22:05:24+00:00"
+          "summary": "Environ 900 soldats du feu sont toujours mobilisés mercredi matin sur ce sinistre sui s'est déclaré mardi à la mi-journée à Pontevès. Les flammes ont continué à progresser dans la nuit.",
+          "published": "2026-07-22T05:32:36+00:00"
         },
         {
-          "title": "La jeune actrice Kaylee Hottle, connu pour ses rôles dans \"Godzilla\", meurt à 18 ans dans un accident de voiture",
-          "link": "https://www.franceinfo.fr/culture/cinema/la-jeune-actrice-kaylee-hottle-connu-pour-ses-roles-dans-godzilla-meurt-a-18-ans-dans-un-accident-de-voiture_8117033.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Révélée au grand public grâce à son personnage de \"Jia\", elle était devenue l'une des rares jeunes actrices sourdes à s'imposer dans une superproduction hollywoodienne. Les autorités évoquent un excès de vitesse comme…",
-          "published": "2026-07-21T22:01:56+00:00"
-        },
-        {
-          "title": "« C’est la double peine » : comment la réglementation européenne et la fiscalité française font plonger le marché de l’automobile en France",
-          "link": "https://www.lefigaro.fr/societes/c-est-la-double-peine-comment-la-reglementation-europeenne-et-la-fiscalite-francaise-font-plonger-le-marche-de-l-automobile-en-france-20260721",
+          "title": "«Il a fait le malin, alors ils ne vont pas le lâcher» : à Alès, une étonnante banalisation de la violence après les menaces de mort répétées contre le maire",
+          "link": "https://www.lefigaro.fr/marseille/il-a-fait-le-malin-alors-ils-ne-vont-pas-le-lacher-a-ales-une-etonnante-banalisation-de-la-violence-apres-les-menaces-de-mort-repetees-contre-le-maire-20260722",
           "source": "Le Figaro",
-          "summary": "EXCLUSIF - Une étude réalisée par Roland Berger à la demande de la PFA, Mobilians, Sesam et Avere met en avant le poids des contraintes législatives qui pénalisent à la fois les constructeurs et les consommateurs.",
-          "published": "2026-07-21T21:47:45+00:00"
+          "summary": "REPORTAGE - Dans la nuit de lundi à mardi, le maire d’Alès Christophe Rivenq (LR) a été exfiltré de son domicile par les policiers du Raid. Quelques jours plus tôt des balles de 9mm étaient retrouvées par son épouse…",
+          "published": "2026-07-22T05:31:27+00:00"
         },
         {
-          "title": "Protoxyde d'azote, rodéos urbains, free parties… Le Parlement adopte le projet de loi Ripost sur la sécurité du quotidien",
-          "link": "https://www.franceinfo.fr/politique/protoxyde-d-azote-rodeos-urbains-free-parties-le-parlement-adopte-definitivement-le-projet-de-loi-ripost-sur-la-tranquillite-publique_8117027.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Porté par le ministre de l'Intérieur, Laurent Nunez, le texte rassemble une série de dispositions destinées à renforcer l'arsenal répressif face à plusieurs formes de troubles à l'ordre public. Il a été adopté grâce aux…",
-          "published": "2026-07-21T21:44:12+00:00"
+          "title": "EN DIRECT - Incendie dans le Var : le feu est «contenu» malgré «de nombreux points chauds», déjà plus de 2550 hectares parcourus",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722",
+          "source": "Le Figaro",
+          "summary": "Plus de 2300 foyers sont privés d’électricité en raison de l’incendie qui s’est déclenché mardi dans le Var, principalement sur la commune de Cotignac, a annoncé dans la nuit de mardi à mercredi la préfecture.",
+          "published": "2026-07-22T05:25:02+00:00"
         },
         {
-          "title": "Guerre en Ukraine : Volodymyr Zelensky limoge le commandant en chef de son armée",
-          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-limoge-le-commandant-en-chef-de-son-armee_8117009.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "A la tête des troupes ukrainiennes depuis 2024, Oleksandre Syrsky, 60 ans, sera remplacé par le populaire commandant des forces interarmées, Mykhaïlo Drapaty, 35 ans.",
-          "published": "2026-07-21T21:20:01+00:00"
-        },
-        {
-          "title": "Arrestation de la \"flottille pour Gaza\" par Israël : le Parquet national antiterroriste français ouvre une nouvelle enquête pour \"tortures\"",
-          "link": "https://www.franceinfo.fr/monde/palestine/gaza/arrestation-de-la-flottille-pour-gaza-par-israel-le-parquet-national-antiterroriste-francais-ouvre-une-nouvelle-enquete-pour-tortures_8116964.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Cette enquête, ouverte le 1er juillet par le Parquet national antiterroriste (Pnat), concerne le traitement réservé par les autorités israéliennes à deux personnes interpellées en octobre 2025 à bord d'une \"flottille…",
-          "published": "2026-07-21T20:58:15+00:00"
+          "title": "Budget : «Nous ne pouvons pas suspendre toutes les décisions jusqu'en 2027», prévient Sébastien Lecornu",
+          "link": "https://www.lefigaro.fr/conjoncture/budget-nous-ne-pouvons-pas-suspendre-toutes-les-decisions-jusqu-en-2027-previent-sebastien-lecornu-20260722",
+          "source": "Le Figaro",
+          "summary": "Le premier ministre juge «préoccupant» le niveau de la dette et du déficit du pays «parce qu’il limite notre liberté d’action et nous place en situation de vulnérabilité».",
+          "published": "2026-07-22T05:22:04+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Des modèles d’OpenAI piratent Hugging Face pour tricher à un test, sans aucune intervention humaine",
+          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3187999_des-modeles-dopenai-piratent-hugging-face-pour-tricher-a-un-test-sans-aucune-intervention-humaine",
+          "source": "Frandroid",
+          "summary": "Deux modèles d'IA d'OpenAI, dont GPT-5.6 Sol, ont franchi les limites d'un environnement de test sécurisé pour s'introduire dans les serveurs de production de Hugging Face. Le début de la fin&nbsp;?",
+          "published": "2026-07-22T05:44:32+00:00"
+        },
+        {
+          "title": "Soldé à -25 %, ce chargeur rapide 100 W peut recharger quatre appareils en même temps",
+          "link": "https://www.frandroid.com/bons-plans/3186965_solde-a-25-ce-chargeur-rapide-100-w-peut-recharger-quatre-appareils-en-meme-temps",
+          "source": "Frandroid",
+          "summary": "Équipé de quatre ports, dont trois USB-C, le chargeur Ugreen Nexode Pro peut délivrer une puissance de charge maximale de 100 W. Un petit accessoire très pratique que l'on peut trouver à 44,99 euros au lieu de 59,99…",
+          "published": "2026-07-22T05:32:00+00:00"
+        },
+        {
+          "title": "23,5 millions de comptes français piratés en seulement 3 mois : le vôtre en fait (peut-être) partie",
+          "link": "https://www.clubic.com/actualite-622114-millions-de-comptes-francais-pirates-en-seulement-3-mois-le-votre-en-fait-peut-etre-partie.html",
+          "source": "Clubic",
+          "summary": "Le piratage de compte en ligne ne concerne pas que les autres. Cette menace continue de constituer l’un des principaux enjeux en termes de cybersécurité en 2026. Et la bonne nouvelle, c’est qu’une solution efficace…",
+          "published": "2026-07-22T05:30:00+00:00"
+        },
+        {
+          "title": "Après deux ans de blocage, Google lance les Résumés IA en France (AI Overviews)",
+          "link": "https://www.numerama.com/tech/2299179-apres-deux-ans-de-blocage-google-lance-les-resumes-ia-en-france-ai-overviews.html",
+          "source": "Numerama",
+          "summary": "Google déploie les Résumés IA (AI Overviews) et le mode conversationnel (AI Mode) en France, deux ans après leur lancement aux États-Unis. Le moteur de recherche répond désormais directement aux requêtes et ne se…",
+          "published": "2026-07-22T05:00:00+00:00"
+        },
+        {
+          "title": "Google déploie ses réponses par IA en France : les Aperçus IA et le Mode IA arrivent",
+          "link": "https://www.frandroid.com/marques/google/3187965_google-deploie-ses-reponses-par-ia-en-france-les-apercus-ia-et-le-mode-ia-arrivent",
+          "source": "Frandroid",
+          "summary": "Après plusieurs années d'attente, Google annonce le déploiement de Google Aperçu IA (AI Overviews) et Google Mode IA en France. Concrètement, le moteur de recherche laisse sa place aux réponses générées par IA.",
+          "published": "2026-07-22T05:00:00+00:00"
+        },
+        {
+          "title": "La recherche Google change de visage dès aujourd'hui, avec AI Overviews et AI Mode : voici comment ça marche",
+          "link": "https://www.clubic.com/actualite-622237-la-recherche-google-change-de-visage-des-aujourd-hui-avec-ai-overviews-et-ai-mode-voici-comment-ca-marche.html",
+          "source": "Clubic",
+          "summary": "Google déploie ce mercredi en France AI Overviews et AI Mode, deux ans après leur lancement mondial. Le géant américain détaille ces nouveautés propulsées par l'IA, qui font basculer la recherche en ligne dans une…",
+          "published": "2026-07-22T05:00:00+00:00"
+        },
         {
           "title": "Range Rover dévoile enfin son GT électrique et l’intérieur va faire jaser",
           "link": "https://www.frandroid.com/survoltes/voitures-electriques/3187531_range-rover-devoile-enfin-son-gt-electrique-et-linterieur-va-faire-jaser",
@@ -274,48 +316,6 @@
           "source": "Next",
           "summary": "L&#8217;Assemblée nationale a entériné mardi la proposition de loi interdisant les réseaux sociaux aux moins de 15 ans, ouvrant la voie à une entrée en vigueur d&#8217;ici la rentrée de septembre. À cette date, les…",
           "published": "2026-07-21T18:18:21+00:00"
-        },
-        {
-          "title": "Apple Upgrade : Apple va bientôt vous louer votre iPhone en plusieurs fois",
-          "link": "https://www.clubic.com/actualite-622243-apple-upgrade-apple-va-bientot-vous-louer-votre-iphone-en-plusieurs-fois.html",
-          "source": "Clubic",
-          "summary": "Apple lancerait le 28 juillet un nouveau programme baptisé Apple Upgrade, développé avec Klarna. Objectif : proposer des mensualités plus légères que les financements actuels, et faire oublier les récentes hausses de…",
-          "published": "2026-07-21T17:33:00+00:00"
-        },
-        {
-          "title": "L’astronaute française Sophie Adenot teste le robot de cuisine Food Processor à bord de l’ISS",
-          "link": "https://www.numerama.com/sciences/2298895-lastronaute-francaise-sophie-adenot-teste-le-robot-de-cuisine-food-processor-a-bord-de-liss.html",
-          "source": "Numerama",
-          "summary": "L'astronaute française Sophie Adenot, actuellement à bord de l'ISS, s'est servie d'un robot de cuisine destiné à être utilisé dans l'espace. Pour l'instant assez sommaire, cette invention française nommée Food Processor…",
-          "published": "2026-07-21T17:25:00+00:00"
-        },
-        {
-          "title": "L’Odyssée : pensant tourner avec 20 personnes, Matt Damon se fait charger par 500 soldats en pleine nuit",
-          "link": "https://www.numerama.com/pop-culture/2299015-lodyssee-pensant-tourner-avec-20-personnes-matt-damon-se-fait-charger-par-500-soldats-en-pleine-nuit.html",
-          "source": "Numerama",
-          "summary": "Pour la prise de Troie dans&nbsp;L'Odyssée, Christopher Nolan n'a pas lésiné sur la figuration. Alors qu'il pensait tourner un face-à-face à petite échelle, Matt Damon s'est retrouvé submergé par une marée humaine…",
-          "published": "2026-07-21T16:55:00+00:00"
-        },
-        {
-          "title": "La Marine nationale reçoit un nouveau patrouilleur bardé de tech pour surveiller les confins du Pacifique",
-          "link": "https://www.clubic.com/actualite-622228-la-marine-nationale-recoit-un-nouveau-patrouilleur-barde-de-tech-pour-surveiller-les-confins-du-pacifique.html",
-          "source": "Clubic",
-          "summary": "La Direction générale de l'armement a livré il y a quelques jours le Jean Tranape, quatrième patrouilleur outre-mer de la Marine nationale. Il embarque un drone et une propulsion hybride au service de la souveraineté…",
-          "published": "2026-07-21T16:39:00+00:00"
-        },
-        {
-          "title": "Le Pass Ulys Télépage ne vous coûtera rien pendant 1 an grâce à cette offre qui tombe à pic pour les départs en vacances",
-          "link": "https://www.frandroid.com/bons-plans/3187447_le-pass-ulys-telepage-ne-vous-coutera-rien-pendant-1-an-grace-a-cette-offre-qui-tombe-a-pic-pour-les-departs-en-vacances",
-          "source": "Frandroid",
-          "summary": "Si vous ne voulez plus perdre de temps aux péages sur la route des vacances, un badge de télépéage est indispensable. Bonne nouvelle, Ulys offre actuellement 12 mois d'abonnement à son pass Télépéage.",
-          "published": "2026-07-21T16:37:00+00:00"
-        },
-        {
-          "title": "Cette IA japonaise permet de créer ses propres vidéos d’anime",
-          "link": "https://www.numerama.com/pop-culture/2298993-cette-ia-japonaise-permet-de-creer-ses-propres-videos-danime.html",
-          "source": "Numerama",
-          "summary": "Créer une courte scène d’anime à partir de quelques mots : c’est la promesse d’AnimeGen. Publié gratuitement le 13 juillet 2026, ce modèle japonais de génération vidéo peut même être utilisé dans des projets…",
-          "published": "2026-07-21T16:30:00+00:00"
         }
       ]
     }
