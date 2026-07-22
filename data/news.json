@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-07-22T19:16:22.351849+00:00",
+  "generated_at": "2026-07-22T22:02:58.899938+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Un recours demande à l’Etat d’empêcher toute contribution économique à l’occupation de la Palestine",
+          "link": "https://www.lemonde.fr/economie/article/2026/07/23/un-recours-demande-a-l-etat-d-empecher-toute-contribution-economique-a-l-occupation-de-la-palestine_6730075_3234.html",
+          "source": "Le Monde",
+          "summary": "Cinq ONG demandent la plus haute juridiction administrative de contraindre la France à empêcher toute activité économique susceptible de soutenir la colonisation de territoires palestiniens par Israël. Une démarche…",
+          "published": "2026-07-22T22:00:10+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran met en garde les pays européens contre toute aide aux Etats-Unis en cas d’escalade militaire, notamment la mise à disposition de bases",
+          "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-iran-met-en-garde-les-pays-europeens-contre-toute-aide-aux-etats-unis-en-cas-d-escalade-militaire-notamment-la-mise-a-disposition-de-bases_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Après les déclarations de Donald Trump menaçant de viser les ponts et les centrales électriques iraniennes, Téhéran a aussi promis des représailles contre des infrastructures régionales liées aux intérêts américains.",
+          "published": "2026-07-22T21:21:55+00:00"
+        },
+        {
+          "title": "Psychose à Antananarivo : les autorités tentent de rassurer après les disparitions d'enfants",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260722-psychose-%C3%A0-antananarivo-les-autorit%C3%A9s-tentent-de-rassurer-apr%C3%A8s-les-disparitions-d-enfants",
+          "source": "France 24",
+          "summary": "Depuis fin juin, une vague de disparitions frappe la capitale malgache, touchant en majorité des enfants et des adolescents. En une semaine, quatre personnes ont été retrouvées mortes, dont une fillette de douze ans et…",
+          "published": "2026-07-22T20:19:54+00:00"
+        },
+        {
+          "title": "Épuisement, manque d’effectifs, problèmes matériels... Laurent Nunez répond à la colère des pompiers",
+          "link": "https://www.france24.com/fr/france/20260722-epuisement-manque-d-effectifs-ministre-laurent-nunez-repond-colere-pompiers-bordeaux-morts",
+          "source": "France 24",
+          "summary": "Épuisement, manque d'effectifs, problèmes matériels... Face aux syndicats de pompiers qui dénoncent l'insuffisance de leurs moyens après la mort de trois d'entre eux en deux semaines, le ministre de l'Intérieur a assuré…",
+          "published": "2026-07-22T19:55:38+00:00"
+        },
+        {
+          "title": "CAN 2032 : \"le Burkina Faso, le Niger et le Mali auront leurs chances\", assure la CAF",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260722-can-2032-le-burkina-faso-le-niger-et-le-mali-auront-leurs-chances-assure-la-caf",
+          "source": "France 24",
+          "summary": "Le président de la CAF s'est prononcé sur la candidature conjointe des pays de l'AES pour l'organisation de la CAN 2032. Pour Patrice Motsepe, les trois pays auront les mêmes chances que tous les autres pays.",
+          "published": "2026-07-22T19:09:43+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : Kiev et les Etats-Unis discutent du développement de drones et de la production de missiles Patriot",
           "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-kiev-et-les-etats-unis-discutent-du-developpement-de-drones-et-de-la-production-de-missiles-patriot_6725306_3210.html",
@@ -19,6 +54,13 @@
           "published": "2026-07-22T18:40:10+00:00"
         },
         {
+          "title": "Au Liban, l'Unesco place la cité antique de Tyr sur la liste du patrimoine mondial en péril",
+          "link": "https://www.france24.com/fr/moyen-orient/20260722-au-liban-l-unesco-place-la-cit%C3%A9-antique-de-tyr-sur-la-liste-du-patrimoine-mondial-en-p%C3%A9ril",
+          "source": "France 24",
+          "summary": "Dans le sud du Liban, les ruines antiques de Tyr, l'une des plus anciennes cités du monde méditerranéen, ont été inscrites mercredi par l'Unesco sur la liste du patrimoine mondial en péril. L'organisation onusienne…",
+          "published": "2026-07-22T18:39:09+00:00"
+        },
+        {
           "title": "La Maison Blanche accuse la start-up chinoise Moonshot et sa nouvelle IA de pointe d’avoir pillé Anthropic",
           "link": "https://www.lemonde.fr/pixels/article/2026/07/22/la-maison-blanche-accuse-la-start-up-chinoise-moonshot-et-sa-nouvelle-ia-de-pointe-d-avoir-pille-anthropic_6730070_4408996.html",
           "source": "Le Monde",
@@ -31,48 +73,6 @@
           "source": "Le Monde",
           "summary": "Les autorités autrichiennes espèrent clore un long et délicat feuilleton, le pays étant souvent critiqué pour avoir tardé à reconnaître sa responsabilité dans la Shoah, durant laquelle 65 000 juifs autrichiens ont été…",
           "published": "2026-07-22T18:24:05+00:00"
-        },
-        {
-          "title": "L’Italie à nouveau secouée par des violences policières",
-          "link": "https://www.lemonde.fr/international/video/2026/07/22/l-italie-a-nouveau-secouee-par-des-violences-policieres_6730068_3210.html",
-          "source": "Le Monde",
-          "summary": "La mort d’Abderrahim Fakir, un quadragénaire d’origine marocaine, dimanche à Bologne a suscité une vague d’indignation dans le pays. Les images de son agonie filmée par un voisin ont envahi les écrans au cours des…",
-          "published": "2026-07-22T18:19:59+00:00"
-        },
-        {
-          "title": "Des humains de plus en plus exposés au risque de feux",
-          "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260722-des-humains-de-plus-en-plus-expos%C3%A9s-au-risque-de-feux",
-          "source": "France 24",
-          "summary": "L'exposition des populations au risque d'incendie a augmenté de 40% entre 2002 et 2021 selon une étude parue dans la revue Science. La faute à l'étalement urbain. La plus grande proximité avec les forêts favorise les…",
-          "published": "2026-07-22T18:03:48+00:00"
-        },
-        {
-          "title": "Le russe n'est-il vraiment plus enseigné en France ?",
-          "link": "https://www.france24.com/fr/france/20260722-le-russe-n-est-il-vraiment-plus-enseign%C3%A9-en-france",
-          "source": "France 24",
-          "summary": "La langue russe ne serait plus enseignée en France, affirme un internaute sur les réseaux sociaux. S'il est exact qu'en 2026, aucun poste d'enseignant de russe n'a été proposé aux concours de recrutement de l'Éducation…",
-          "published": "2026-07-22T17:39:09+00:00"
-        },
-        {
-          "title": "Russie : les entrepôts d’e-commerce, nouvelles cibles des drones ukrainiens",
-          "link": "https://www.lemonde.fr/international/article/2026/07/22/russie-les-entrepots-du-e-commerce-nouvelles-cibles-des-drones-ukrainiens_6730061_3210.html",
-          "source": "Le Monde",
-          "summary": "En moins d’une semaine, quatre centres de logistique et de stockage de Wildberries, l’équivalent russe d’Amazon, ont été visés. Ces attaques, qui ont fait au moins neuf morts, perturbent les chaînes de distribution et…",
-          "published": "2026-07-22T17:09:29+00:00"
-        },
-        {
-          "title": "Tour de France : Jasper Philipsen ouvre son compteur de victoire lors de la 17e étape",
-          "link": "https://www.france24.com/fr/sports/20260722-tour-de-france-belge-jasper-philipsen-ouvre-son-compteur-de-victoire-lors-de-la-17e-etape",
-          "source": "France 24",
-          "summary": "Le coureur belge Jasper Philipsen a remporté mercredi la 17e étape ​à Voiron, dans le département de l'Isère, en réglant au sprint un groupe d'une petite trentaine de coureurs. ​Il décroche ainsi sa première victoire…",
-          "published": "2026-07-22T17:07:11+00:00"
-        },
-        {
-          "title": "Le procès de Nicolas Maduro s’ouvrira à New York le 1ᵉʳ juin 2027",
-          "link": "https://www.lemonde.fr/international/article/2026/07/22/le-proces-de-nicolas-maduro-s-ouvrira-a-new-york-le-1-juin-2027_6730059_3210.html",
-          "source": "Le Monde",
-          "summary": "Capturé par les Etats-Unis à Caracas au début de l’année et incarcéré depuis dans une prison de Brooklyn, l’ex-chef d’Etat, âgé de 63 ans, est poursuivi pour quatre chefs d’accusation, dont celui de narcoterrorisme.",
-          "published": "2026-07-22T16:59:58+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Les tarifs américains retardent la première pelletée de terre du théâtre francophone de Toronto",
-          "link": "https://www.ledevoir.com/culture/theatre/996569/nouveaux-tarifs-americains-retardent-premiere-pelletee-terre-theatre-francophone-toronto",
-          "source": "Le Devoir",
-          "summary": "L’urgence de la situation avec les États-Unis a poussé la mairesse de Toronto et des élus à annuler leur présence.",
-          "published": "2026-07-22T18:47:00+00:00"
-        },
-        {
-          "title": "Le taux de criminalité et  la gravité des infractions ont diminué au Canada en 2025",
-          "link": "https://www.ledevoir.com/actualites/justice/996563/taux-criminalite-gravite-infractions-ont-diminue-canada-2025",
-          "source": "Le Devoir",
-          "summary": "Cette diminution s’observe aussi au Québec, où le taux de criminalité a baissé de 3,9% par rapport à l’année précédente.",
-          "published": "2026-07-22T17:51:00+00:00"
-        },
-        {
-          "title": "Transport collectif | Des usagers d’Android peuvent maintenant valider un passage avec leur téléphone",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-22/transport-collectif/des-usagers-d-android-peuvent-maintenant-valider-un-passage-avec-leur-telephone.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Les provinces demandent plus de financement à Mark Carney",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-07-22/les-provinces-demandent-plus-de-financement-a-mark-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Bon nombre d’utilisateurs d’Android peuvent officiellement dire au revoir à la carte OPUS et valider leur passage aux tourniquets du métro avec leur appareil mobile. Les détenteurs de iPhone, eux, devront attendre…",
-          "published": "2026-07-22T17:28:32+00:00"
+          "summary": "Les premiers ministres des provinces attendent Mark Carney jeudi avec une revendication concertée : le fédéral doit augmenter massivement le financement du système de santé.",
+          "published": "2026-07-22T21:54:25+00:00"
         },
         {
-          "title": "Trump menace de bombarder centrales et ponts iraniens, dans une guerre dont les coûts s’envolent",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/996557/trump-menace-cibler-infrastructures-civiles-chaque-fois-iran-tirera-navire",
+          "title": "Le Liban insiste sur la nécessité d’un «retrait israélien global»",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/996662/liban-insiste-necessite-retrait-israelien-global",
           "source": "Le Devoir",
-          "summary": "Le président américain menace plus spécifiquement les ponts et les centrales électriques de la République islamique.",
-          "published": "2026-07-22T17:13:00+00:00"
+          "summary": "L’armée israélienne continue de mener des frappes intermittentes dans le sud du pays.",
+          "published": "2026-07-22T21:31:46+00:00"
         },
         {
-          "title": "La SCHL prévoit désormais une baisse des ventes et des prix immobiliers en 2026",
-          "link": "https://www.lapresse.ca/affaires/marche-immobilier/2026-07-22/la-schl-prevoit-desormais-une-baisse-des-ventes-et-des-prix-immobiliers-en-2026.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le marché immobilier québécois tourne au ralenti, sans devenir plus abordable",
+          "link": "https://www.ledevoir.com/economie/996650/marche-immobilier-quebecois-tourne-ralenti-devenir-plus-abordable",
+          "source": "Le Devoir",
+          "summary": "Plus de logements locatifs sont disponibles, mais ils ne sont pas plus abordables qu’avant, selon la SCHL.",
+          "published": "2026-07-22T21:16:00+00:00"
+        },
+        {
+          "title": "Le PQ, des « petits nazis » | Le Parti libéral écarte un candidat aux propos controversés",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-07-22/le-pq-des-petits-nazis/le-parti-liberal-ecarte-un-candidat-aux-propos-controverses.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Société canadienne d’hypothèques et de logement (SCHL) indique mercredi qu’elle prévoit désormais une diminution des ventes et des prix immobiliers cette année, ce qui représente une révision à la baisse par rapport…",
-          "published": "2026-07-22T16:54:00+00:00"
+          "summary": "« Le PQ est une aberration d’extrême droite. » « Des petits nazis sans envergure. » Le Parti libéral du Québec (PLQ) a écarté son candidat Michel Savard, qui briguait un siège dans Gouin, après que des captures d’écran…",
+          "published": "2026-07-22T21:13:51+00:00"
         },
         {
-          "title": "De nouvelles images marquantes font leur apparition sur les paquets de cigarettes",
-          "link": "https://www.ledevoir.com/actualites/sante/996554/nouvelles-images-marquantes-font-apparition-paquets-cigarettes",
-          "source": "Le Devoir",
-          "summary": "Ces images visant à réduire le tabagisme devront figurer sur les paquets vendus partout au Canada d’ici le 1er août.",
-          "published": "2026-07-22T16:31:45+00:00"
-        },
-        {
-          "title": "Le Canada ne répliquera pas, assure l’architecte des nouveaux tarifs américains",
-          "link": "https://www.ledevoir.com/monde/etats-unis/996518/canada-ne-repliquera-pas-assure-architecte-nouveaux-tarifs-americains",
-          "source": "Le Devoir",
-          "summary": "Jamieson Greer estime que les autres pays maintiendront l’accès aux produits américains, «à 100%».",
-          "published": "2026-07-22T16:10:00+00:00"
-        },
-        {
-          "title": "Précampagne électorale 2026 | Les ministres caquistes quatre fois plus actifs que l’an dernier",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-07-22/precampagne-electorale-2026/les-ministres-caquistes-quatre-fois-plus-actifs-que-l-an-dernier.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Il aidait des camionneurs ontariens | Un faussaire de permis de conduire étranger souhaite l’absolution",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-22/il-aidait-des-camionneurs-ontariens/un-faussaire-de-permis-de-conduire-etranger-souhaite-l-absolution.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Coalition avenir Québec (CAQ) semble déjà en campagne, à quelques semaines du déclenchement des élections. Plutôt que de prendre des vacances estivales, ses ministres sont un peu partout. Le gouvernement a organisé…",
-          "published": "2026-07-22T16:00:00+00:00"
+          "summary": "Un moniteur de conduite montréalais qui aidait des camionneurs ontariens inexpérimentés à obtenir frauduleusement leur permis de conduire espère s’en tirer presque sans conséquence. Au contraire, une peine de trois ans…",
+          "published": "2026-07-22T21:10:23+00:00"
         },
         {
-          "title": "Nouveaux droits de douane américains | Ottawa n’aurait pas évoqué de représailles auprès de Washington",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-07-22/nouveaux-droits-de-douane-americains/ottawa-n-aurait-pas-evoque-de-represailles-aupres-de-washington.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le représentant américain au commerce, Jamieson Greer, affirme que le Canada n’a pas menacé les États-Unis de représailles après l’annonce de nouveaux droits de douane de 50 % sur des centaines de produits canadiens.",
-          "published": "2026-07-22T15:23:09+00:00"
-        },
-        {
-          "title": "Un candidat libéral présente ses excuses à Paul St-Pierre Plamondon",
-          "link": "https://www.ledevoir.com/politique/quebec/996473/candidat-liberal-presente-excuses-paul-st-pierre-plamondon",
+          "title": "Un joueur des Cardinals arrêté en Ontario pour possession d’arme à feu",
+          "link": "https://www.ledevoir.com/sports/996653/joueur-cardinals-arrete-ontario-possession-arme-feu",
           "source": "Le Devoir",
-          "summary": "Michel Savard avait traité les partisans du chef péquiste de « petits nazis sans envergure » sur ses réseaux sociaux.",
-          "published": "2026-07-22T15:20:00+00:00"
+          "summary": "Isaiah Adams fait face à quatre chefs d’accusation.",
+          "published": "2026-07-22T21:01:05+00:00"
+        },
+        {
+          "title": "Fréchette n’a pas la légitimité pour signer un accord sur Churchill Falls, clame le PQ",
+          "link": "https://www.ledevoir.com/politique/quebec/996641/frechette-pas-legitimite-signer-accord-churchill-falls-clame-pq",
+          "source": "Le Devoir",
+          "summary": "Pour Pascal Paradis, la première ministre ne peut sacrifier les intérêts du Québec pour des raisons électoralistes.",
+          "published": "2026-07-22T20:36:46+00:00"
+        },
+        {
+          "title": "L’univers fascinant des « adultes Disney »",
+          "link": "https://www.lapresse.ca/societe/2026-07-22/l-univers-fascinant-des-adultes-disney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "« Je ne bois pas d’alcool, je ne consomme pas de drogue, je ne fume pas de cigarettes, mais je vais à Disney. »",
+          "published": "2026-07-22T20:30:00+00:00"
+        },
+        {
+          "title": "Davantage d’usagers d’Android peuvent maintenant remplacer leur carte OPUS par leur téléphone",
+          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/996635/davantage-usagers-android-peuvent-maintenant-remplacer-carte-opus-telephone",
+          "source": "Le Devoir",
+          "summary": "Toujours en phase de test, cette fonctionnalité n’est pas encore disponible sur iOS.",
+          "published": "2026-07-22T20:19:00+00:00"
+        },
+        {
+          "title": "La Sicile frappée par une vague d’incendies",
+          "link": "https://www.ledevoir.com/monde/europe/996632/sicile-frappee-vague-incendies",
+          "source": "Le Devoir",
+          "summary": "Une clinique a dû être évacuée alors que des températures supérieures à 40°C attisent les flammes.",
+          "published": "2026-07-22T20:15:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "«Nous condamnons fermement cette façon de faire» : dans une vidéo, des membres présumés de la DZ Mafia nient avoir menacé le maire d’Alès",
-          "link": "https://www.lefigaro.fr/marseille/nous-condamnons-fermement-cette-facon-de-faire-dans-une-video-des-membres-presumes-de-la-dz-mafia-nient-avoir-menace-le-maire-d-ales-20260722",
-          "source": "Le Figaro",
-          "summary": "Plusieurs individus cagoulés se revendiquant de l’organisation criminelle marseillaise démentent, dans une séquence transmise au Figaro, avoir menacé de mort l’édile LR. Les malfaiteurs dénoncent un acte «lâche» qui…",
-          "published": "2026-07-22T19:10:05+00:00"
-        },
-        {
-          "title": "Dans l’Essonne, douze enfants découverts entassés dans une voiture au sous-sol d’une crèche clandestine",
-          "link": "https://www.liberation.fr/societe/police-justice/dans-lessonne-douze-enfants-decouverts-entasses-dans-une-voiture-au-sous-sol-dune-creche-clandestine-20260722_BZA3UWY7ANGXZDGGADLHGKQZCA/",
-          "source": "Liberation",
-          "summary": "Âgés de 4 mois à 7 ans, ils ont été retrouvés dans la pénombre lors d’un contrôle de police dans la ville de Yerres, en Ile-de-France. Deux assistantes maternelles seront jugées fin septembre pour mise en danger de…",
-          "published": "2026-07-22T19:09:47+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : un F-16 ukrainien aurait abattu un chasseur russe en combat aérien pour la première fois",
-          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-un-f-16-ukrainien-aurait-abattu-un-chasseur-russe-en-combat-aerien-pour-la-premiere-fois-20260722",
-          "source": "Le Figaro",
-          "summary": "Un F-16 ukrainien a remporté son premier duel aérien face à un chasseur russe, a annoncé le chef d’état-major américain. Les circonstances exactes de l’affrontement restent toutefois inconnues.",
-          "published": "2026-07-22T18:54:02+00:00"
-        },
-        {
-          "title": "Maintien de Monique Barbut au gouvernement : sur l’eau, les forêts et le cadmium, des garanties enfin fiables ?",
-          "link": "https://www.liberation.fr/environnement/climat/maintien-de-monique-barbut-au-gouvernement-sur-leau-les-forets-et-le-cadmium-des-garanties-enfin-fiables-20260722_3KPZSYW4MVCJVJ3TM37B5AHODY/",
-          "source": "Liberation",
-          "summary": "La ministre de la Transition écologique a justifié sa décision de rester au gouvernement en assurant que l’adaptation des forêts, la lutte contre le cadmium et la protection des captages d’eau potable deviendraient la…",
-          "published": "2026-07-22T18:53:43+00:00"
-        },
-        {
-          "title": "\"Peine\", \"respect immense\", \"chagrin\"... Très émus, les habitants de Saint-Médard-en-Jalles rendent hommage aux deux pompiers décédés",
-          "link": "https://www.franceinfo.fr/faits-divers/incendie/peine-respect-immense-chagrin-tres-emus-les-habitants-de-saint-medard-en-jalles-rendent-hommage-aux-deux-pompiers-decedes_8118356.html#xtor=RSS-3-[lestitres]",
+          "title": "La DJ Barbara Butch, \"toujours en état de choc\" après l'arrêt de son concert, se produira bien sur scène samedi",
+          "link": "https://www.franceinfo.fr/culture/la-dj-barbara-butch-toujours-en-etat-de-choc-apres-l-arret-de-son-concert-se-produira-bien-sur-scene-samedi_8118440.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Au lendemain de la mort de deux sapeurs-pompiers de 34 ans, l'émotion est immense en Gironde, mercredi 22 juillet. Tous deux appartenaient au centre de secours de Saint-Médard-en-Jalles et ont perdu la vie, piégés dans…",
-          "published": "2026-07-22T18:53:15+00:00"
+          "summary": "Un concert de l'artiste a dû être interrompu samedi à Grenoble en raison d'une action de militants propalestiniens et LFI répondant à un appel au boycott. Ils lui reprochent notamment d'avoir signé une tribune en faveur…",
+          "published": "2026-07-22T21:50:55+00:00"
         },
         {
-          "title": "Royaume-Uni : en conflit sur les obsèques et la succession, cinq enfants laissent le corps de leur mère aux pompes funèbres pendant près de quatre ans",
-          "link": "https://www.lefigaro.fr/international/royaume-uni-en-conflit-sur-les-obseques-et-la-succession-cinq-enfants-laissent-le-corps-de-leur-mere-aux-pompes-funebres-pendant-pres-de-quatre-ans-20260722",
+          "title": "Affaire Epstein : malgré la mort de Daniel Siad, l'enquête pour \"traite des êtres humains\" se poursuit, assure le parquet de Paris",
+          "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/affaire-epstein-malgre-la-mort-de-daniel-siad-l-enquete-pour-traite-des-etres-humains-se-poursuit-assure-le-parquet-de-paris_8118455.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Suspecté d'être l'un des rabatteurs du pédocriminel Jeffrey Epstein à Paris, Daniel Siad, 61 ans, a été retrouvé mort lundi soir à son domicile de Colombes (Hauts-de-Seine).",
+          "published": "2026-07-22T21:50:15+00:00"
+        },
+        {
+          "title": "\"Je suis dans ce pays la personnalité la plus protégée après le président\", témoigne Amine Kessaci, adjoint au maire de Marseille devenu une cible pour sa lutte contre le narcotrafic",
+          "link": "https://www.franceinfo.fr/societe/drogue/je-suis-dans-ce-pays-la-personnalite-la-plus-protegee-apres-le-president-temoigne-amine-kessaci-adjoint-au-maire-de-marseille-devenu-une-cible-pour-sa-lutte-contre-le-narcotrafic_8118398.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Après l’exfiltration du maire d’Alès par le GIGN, menacé par la DZ Mafia, nous avons voulu savoir comment vivent ces élus pris pour cible par les narcotrafiquants. Amine Kessaci, désormais maire adjoint de Marseille,…",
+          "published": "2026-07-22T21:40:06+00:00"
+        },
+        {
+          "title": "« Cet accord est dangereux » : l’Arabie saoudite a reçu le feu vert de Washington sur le nucléaire civil",
+          "link": "https://www.lefigaro.fr/international/cet-accord-est-dangereux-l-arabie-saoudite-s-attend-a-un-feu-vert-de-donald-trump-sur-le-nucleaire-civil-20260722",
           "source": "Le Figaro",
-          "summary": "Saisie de cette affaire qualifiée d’« inhabituelle » et de « troublante », la Haute Cour de Londres a fini par mettre un terme à ce conflit hors norme.",
-          "published": "2026-07-22T18:38:52+00:00"
+          "summary": "DÉCRYPTAGE - Au grand dam d’Israël, Washington a donné son feu vert pour que Riyad développe son propre programme.",
+          "published": "2026-07-22T21:18:11+00:00"
         },
         {
-          "title": "Tour Montparnasse : le chantier titanesque de rénovation a débuté, dans l’incertitude sur la suite du projet",
-          "link": "https://www.liberation.fr/economie/tour-montparnasse-le-chantier-titanesque-de-renovation-a-debute-dans-lincertitude-sur-la-suite-du-projet-20260722_DXCWIZ73HZBNXBD6IT754MYJCM/",
-          "source": "Liberation",
-          "summary": "La première phase des travaux comprend le désamiantage et le retrait du bas de la façade de l’édifice. Mais l’envolée des coûts, désormais estimés à 800 millions d’euros, partage les copropriétaires sur l’ampleur de la…",
-          "published": "2026-07-22T18:32:52+00:00"
+          "title": "Nucléaire : les États-Unis envisagent d'installer des réacteurs en mer",
+          "link": "https://www.lefigaro.fr/flash-eco/nucleaire-les-etats-unis-envisagent-d-installer-des-reacteurs-en-mer-20260722",
+          "source": "Le Figaro",
+          "summary": "La Marine Minerals Administration (MMA), chargée de superviser les projets dans les zones maritimes au large des États-Unis, a annoncé avoir signé un accord avec le régulateur américain du nucléaire.",
+          "published": "2026-07-22T21:16:58+00:00"
         },
         {
-          "title": "Vraie-fausse démission de Monique Barbut : les mensonges et les promesses de l’exécutif",
-          "link": "https://www.liberation.fr/idees-et-debats/editorial/vraie-fausse-demission-de-monique-barbut-les-mensonges-et-les-promesses-de-lexecutif-20260722_P7D75HQBYBABZGXOG2ZPNMQ36I/",
-          "source": "Liberation",
-          "summary": "Démissionnaire après la loi d’urgence agricole, la ministre de la Transition écologique reste finalement au gouvernement. Convaincue par les «garanties» d’un Emmanuel Macron pourtant assez inerte face à la grave crise…",
-          "published": "2026-07-22T18:20:22+00:00"
+          "title": "EN DIRECT - Incendies : plus de 1000 hectares dévorés par les flammes en Gironde, des milliers de personnes évacuées",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722",
+          "source": "Le Figaro",
+          "summary": "Un feu «très virulent» parti de Saumos, au nord du bassin d’Arcachon, a déjà parcouru plusieurs centaines d’hectares mercredi et des habitants ont été évacués par précaution. Plus de 2500 hectares ont brûlé dans le Var,…",
+          "published": "2026-07-22T21:16:02+00:00"
         },
         {
-          "title": "Monique Barbut au gouvernement : récit d’une volte-farce",
-          "link": "https://www.liberation.fr/politique/monique-barbut-au-gouvernement-recit-dune-volte-farce-20260722_IXHGENICPNF4RB5DVVQ52BL5AE/",
-          "source": "Liberation",
-          "summary": "Après s’être annoncée démissionnaire dans un post LinkedIn et sur fond de désaccord politique lié à la loi d’urgence agricole, la ministre de la Transition écologique a finalement choisi mercredi de rester à l’issue…",
-          "published": "2026-07-22T18:15:56+00:00"
+          "title": "Espagne : licencié pour 63 retards, un mécanicien fait condamner son entreprise à le réintégrer ou à lui verser 27.000 euros",
+          "link": "https://www.lefigaro.fr/international/espagne-licencie-pour-63-retards-un-mecanicien-fait-condamner-son-entreprise-a-le-reintegrer-ou-a-lui-verser-27-000-euros-20260722",
+          "source": "Le Figaro",
+          "summary": "Le tribunal a reconnu l’existence des retards qui ne dépassaient pas plus de «deux à quatre minutes» et a pris en compte l’ancienneté du salarié.",
+          "published": "2026-07-22T21:04:28+00:00"
         },
         {
-          "title": "Incendies : le brasier «pas fixé» dans le Var, «la lutte se fait pied à pied, arbre par arbre» en Gironde",
-          "link": "https://www.liberation.fr/environnement/climat/lincendie-du-var-a-continue-de-progresser-plus-de-2-300-foyers-prives-delectricite-20260722_JF565JKNEFAV3MIZL54I5YZ22A/",
+          "title": "Coupe du monde 2026 : une pétition pour exclure définitivement l’Argentine du Mondial frôle un record historique",
+          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-une-petition-pour-exclure-definitivement-l-argentine-du-mondial-atteint-un-record-historique-20260722",
+          "source": "Le Figaro",
+          "summary": "LE SCAN SPORT - Ignorée par la Fifa, la pétition « Argentina Out » a pris beaucoup d’ampleur. Lancée pour réclamer l’exclusion définitive de l’Argentine de la Coupe du monde, elle a recueilli 23 millions de signatures…",
+          "published": "2026-07-22T20:56:56+00:00"
+        },
+        {
+          "title": "Les incendies ont brûlé au moins 44 000 hectares en France en 2026, annonce Laurent Nuñez, 128 personnes interpellées",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/les-incendies-ont-brule-au-moins-44-000-hectares-en-france-en-2026-et-128-personnes-ont-ete-interpellees-annonce-laurent-nunez-en-gironde_8118410.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "\"Nous faisons face\" aux incendies qui se multiplient à travers le pays, a affirmé Laurent Nuñez mercredi à Bordeaux, ajoutant qu'\"il y en a un peu assez des polémiques\" sur les moyens de lutte dont disposent les…",
+          "published": "2026-07-22T20:37:20+00:00"
+        },
+        {
+          "title": "«Maintenant, c’est le terrain qui va parler» : en Gironde, un nouveau brasier pendant que Nuñez rend hommage à deux pompiers tués",
+          "link": "https://www.liberation.fr/environnement/maintenant-cest-le-terrain-qui-va-parler-en-gironde-un-nouveau-brasier-pendant-que-nunez-rend-hommage-a-deux-pompiers-tues-20260722_U2ZRDKFK3VDFNAN6OTBWIKOTHQ/",
           "source": "Liberation",
-          "summary": "Les flammes ont ravagé 2 500 hectares de végétation depuis deux jours dans l’arrière-pays varois ; et 600 hectares en une après-midi ce mercredi dans le Médoc. Depuis le début de l’année, 44 000 hectares ont brûlé, a…",
-          "published": "2026-07-22T18:14:59+00:00"
+          "summary": "Dans le département, un nouveau feu s’est déclaré ce mercredi 22 juillet entre Le Porge et Saumos et a déjà ravagé 800 hectares. Au même moment, le ministre de l’Intérieur Laurent Nuñez venait rendre hommage à deux…",
+          "published": "2026-07-22T20:30:46+00:00"
         }
       ]
     },
