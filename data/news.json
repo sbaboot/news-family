@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-07-22T22:02:58.899938+00:00",
+  "generated_at": "2026-07-23T02:37:42.283353+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En direct : les Houthis revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge",
+          "link": "https://www.france24.com/fr/moyen-orient/20260723-en-direct-moyen-orient-iran-houthis-attaques-petroliers-saoudiens-mer-rouge-trump-ormuz",
+          "source": "France 24",
+          "summary": "Les rebelles houthis du Yémen, pro-iraniens, ont revendiqué des attaques mercredi soir en mer Rouge contre \"deux pétroliers saoudiens\", semblant ouvrir un nouveau front dans le conflit au Moyen-Orient, pendant que les…",
+          "published": "2026-07-23T02:02:27+00:00"
+        },
+        {
+          "title": "L’Arabie saoudite s’allie aux Etats-Unis pour se doter d’un programme nucléaire civil",
+          "link": "https://www.lemonde.fr/international/article/2026/07/23/l-arabie-saoudite-s-allie-aux-etats-unis-pour-se-doter-d-un-programme-nucleaire-civil_6730141_3210.html",
+          "source": "Le Monde",
+          "summary": "L’annonce de l’accord entre Riyad et Washington suscite des inquiétudes chez certains élus et experts qui craignent que le royaume s’en serve pour développer des armes nucléaires. Les Etats-Unis assurent prévoir des…",
+          "published": "2026-07-23T01:35:21+00:00"
+        },
+        {
+          "title": "En Italie, la blessure toujours ouverte de la répression lors du G8 de Gênes en 2001",
+          "link": "https://www.lemonde.fr/international/article/2026/07/23/en-italie-la-blessure-toujours-ouverte-de-la-repression-lors-du-g8-de-genes-en-2001_6730108_3210.html",
+          "source": "Le Monde",
+          "summary": "En marge du sommet international, les forces de l’ordre avaient déployé une brutalité inouïe, Amnesty International dénonçant plus tard « une violation des droits de l’homme d’une ampleur sans précédent dans l’histoire…",
+          "published": "2026-07-23T01:00:02+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Kiev demande une réunion d’urgence du Conseil de sécurité de l’ONU, accusant la Russie d’entraver ses exportations agricoles",
+          "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-d-urgence-du-conseil-de-securite-de-l-onu-accusant-la-russie-d-entraver-ses-exportations-agricoles_6725306_3210.html",
+          "source": "Le Monde",
+          "summary": "« La Russie tient en otage la sécurité alimentaire mondiale », déclare Kiev qui dénonce des frappes russes, ces derniers jours, sur des navires cargo utilisant les ports ukrainiens.",
+          "published": "2026-07-22T23:59:15+00:00"
+        },
+        {
+          "title": "Le sud de l’Europe frappé par une série d’incendies : un pompier meurt en Italie ; des évacuations dans la région de Madrid",
+          "link": "https://www.lemonde.fr/planete/article/2026/07/23/le-sud-de-l-europe-frappe-par-une-serie-d-incendies-un-pompier-meurt-en-italie-des-evacuations-dans-la-region-de-madrid_6730032_3245.html",
+          "source": "Le Monde",
+          "summary": "Selon le premier ministre espagnol, Pedro Sanchez, le pays a vécu depuis le début de l’année « 22 grands incendies », soit « quatre fois plus » qu’en 2025 sur la même période.",
+          "published": "2026-07-22T23:51:00+00:00"
+        },
+        {
+          "title": "Madrid, Calabre, Sicile, Var, Gironde... l'Europe du Sud reste en proie aux incendies",
+          "link": "https://www.france24.com/fr/europe/20260722-incendies-espagne-italie-france-madrid-calabre-sicile-var-gironde-europe-du-sud-pompiers",
+          "source": "France 24",
+          "summary": "Du côté de Madrid, en Espagne, dans les régions de Calabre et de Sicile en Italie, mais aussi dans le sud de la France, dans le Var et en Gironde, plusieurs incendies continuaient à faire rage mercredi.",
+          "published": "2026-07-22T23:11:10+00:00"
+        },
         {
           "title": "Un recours demande à l’Etat d’empêcher toute contribution économique à l’occupation de la Palestine",
           "link": "https://www.lemonde.fr/economie/article/2026/07/23/un-recours-demande-a-l-etat-d-empecher-toute-contribution-economique-a-l-occupation-de-la-palestine_6730075_3234.html",
@@ -12,11 +54,11 @@
           "published": "2026-07-22T22:00:10+00:00"
         },
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran met en garde les pays européens contre toute aide aux Etats-Unis en cas d’escalade militaire, notamment la mise à disposition de bases",
+          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis annoncent de nouvelles frappes nocturnes « contre des cibles militaires iraniennes »",
           "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-au-moyen-orient-l-iran-met-en-garde-les-pays-europeens-contre-toute-aide-aux-etats-unis-en-cas-d-escalade-militaire-notamment-la-mise-a-disposition-de-bases_6725301_3210.html",
           "source": "Le Monde",
-          "summary": "Après les déclarations de Donald Trump menaçant de viser les ponts et les centrales électriques iraniennes, Téhéran a aussi promis des représailles contre des infrastructures régionales liées aux intérêts américains.",
-          "published": "2026-07-22T21:21:55+00:00"
+          "summary": "« La mission se poursuivra afin de réduire davantage la capacité de l’Iran à menacer les marins civils et les navires commerciaux transitant dans les eaux » du détroit d’Ormuz, a expliqué, mercredi soir, l’armée…",
+          "published": "2026-07-22T21:21:51+00:00"
         },
         {
           "title": "Psychose à Antananarivo : les autorités tentent de rassurer après les disparitions d'enfants",
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "Épuisement, manque d'effectifs, problèmes matériels... Face aux syndicats de pompiers qui dénoncent l'insuffisance de leurs moyens après la mort de trois d'entre eux en deux semaines, le ministre de l'Intérieur a assuré…",
           "published": "2026-07-22T19:55:38+00:00"
-        },
-        {
-          "title": "CAN 2032 : \"le Burkina Faso, le Niger et le Mali auront leurs chances\", assure la CAF",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260722-can-2032-le-burkina-faso-le-niger-et-le-mali-auront-leurs-chances-assure-la-caf",
-          "source": "France 24",
-          "summary": "Le président de la CAF s'est prononcé sur la candidature conjointe des pays de l'AES pour l'organisation de la CAN 2032. Pour Patrice Motsepe, les trois pays auront les mêmes chances que tous les autres pays.",
-          "published": "2026-07-22T19:09:43+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Kiev et les Etats-Unis discutent du développement de drones et de la production de missiles Patriot",
-          "link": "https://www.lemonde.fr/international/live/2026/07/22/en-direct-guerre-en-ukraine-kiev-et-les-etats-unis-discutent-du-developpement-de-drones-et-de-la-production-de-missiles-patriot_6725306_3210.html",
-          "source": "Le Monde",
-          "summary": "Le secrétaire du Conseil de défense et de sécurité nationale d’Ukraine, Rustem Umerov, s’est entretenu mercredi à Kiev avec le représentant permanent des Etats-Unis auprès de l’OTAN, Matthew Whitaker, pour évoquer le…",
-          "published": "2026-07-22T18:46:58+00:00"
-        },
-        {
-          "title": "L’Union européenne autorise sous conditions le rachat de Warner par Paramount",
-          "link": "https://www.lemonde.fr/international/article/2026/07/22/l-union-europeenne-autorise-sous-conditions-le-rachat-de-warner-par-paramount_6730072_3210.html",
-          "source": "Le Monde",
-          "summary": "Le groupe acquéreur a pris, auprès de Bruxelles, des engagements qui « remédient pleinement aux problèmes de concurrence recensés par la Commission » dans le secteur de la distribution cinématographique.",
-          "published": "2026-07-22T18:40:10+00:00"
-        },
-        {
-          "title": "Au Liban, l'Unesco place la cité antique de Tyr sur la liste du patrimoine mondial en péril",
-          "link": "https://www.france24.com/fr/moyen-orient/20260722-au-liban-l-unesco-place-la-cit%C3%A9-antique-de-tyr-sur-la-liste-du-patrimoine-mondial-en-p%C3%A9ril",
-          "source": "France 24",
-          "summary": "Dans le sud du Liban, les ruines antiques de Tyr, l'une des plus anciennes cités du monde méditerranéen, ont été inscrites mercredi par l'Unesco sur la liste du patrimoine mondial en péril. L'organisation onusienne…",
-          "published": "2026-07-22T18:39:09+00:00"
-        },
-        {
-          "title": "La Maison Blanche accuse la start-up chinoise Moonshot et sa nouvelle IA de pointe d’avoir pillé Anthropic",
-          "link": "https://www.lemonde.fr/pixels/article/2026/07/22/la-maison-blanche-accuse-la-start-up-chinoise-moonshot-et-sa-nouvelle-ia-de-pointe-d-avoir-pille-anthropic_6730070_4408996.html",
-          "source": "Le Monde",
-          "summary": "« C’est une atteinte à toute économie qui valorise l’esprit d’entreprise, récompense le capital privé et repose sur une concurrence loyale et honnête », a dénoncé Jacob Helberg, le sous-secrétaire d’Etat américain aux…",
-          "published": "2026-07-22T18:38:46+00:00"
-        },
-        {
-          "title": "Autriche : les images de la maison natale d’Adolf Hitler, transformée en commissariat",
-          "link": "https://www.lemonde.fr/international/video/2026/07/22/autriche-les-images-de-la-maison-natale-d-adolf-hitler-transformee-en-commissariat_6730069_3210.html",
-          "source": "Le Monde",
-          "summary": "Les autorités autrichiennes espèrent clore un long et délicat feuilleton, le pays étant souvent critiqué pour avoir tardé à reconnaître sa responsabilité dans la Shoah, durant laquelle 65 000 juifs autrichiens ont été…",
-          "published": "2026-07-22T18:24:05+00:00"
         }
       ]
     },
@@ -84,80 +84,122 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Les provinces demandent plus de financement à Mark Carney",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-07-22/les-provinces-demandent-plus-de-financement-a-mark-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le pianiste Oliver Jones nous a quittés",
+          "link": "https://www.ledevoir.com/culture/musique/996689/pianiste-oliver-jones-nous-quitte",
+          "source": "Le Devoir",
+          "summary": "Pianiste, compositeur et band leader, le musicien était l’incarnation de l’âme jazz montréalaise.",
+          "published": "2026-07-23T02:17:00+00:00"
+        },
+        {
+          "title": "Légende du jazz montréalais | Le pianiste Oliver Jones s’éteint à l’âge de 91 ans",
+          "link": "https://www.lapresse.ca/arts/musique/2026-07-22/legende-du-jazz-montrealais/le-pianiste-oliver-jones-s-eteint-a-l-age-de-91-ans.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les premiers ministres des provinces attendent Mark Carney jeudi avec une revendication concertée : le fédéral doit augmenter massivement le financement du système de santé.",
-          "published": "2026-07-22T21:54:25+00:00"
+          "summary": "Oliver Jones, figure incontournable du jazz montréalais, est mort mercredi à l’âge de 91 ans après plus de 80 ans de carrière.",
+          "published": "2026-07-23T01:42:10+00:00"
         },
         {
-          "title": "Le Liban insiste sur la nécessité d’un «retrait israélien global»",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/996662/liban-insiste-necessite-retrait-israelien-global",
+          "title": "La Fédération argentine de soccer nie que son président ait été visé par le FBI",
+          "link": "https://www.ledevoir.com/sports/996686/federation-argentine-soccer-nie-president-ait-ete-vise-fbi",
           "source": "Le Devoir",
-          "summary": "L’armée israélienne continue de mener des frappes intermittentes dans le sud du pays.",
-          "published": "2026-07-22T21:31:46+00:00"
+          "summary": "Claudio Tapia aurait été intercepté à l’aéroport de New York au terme du tournoi.",
+          "published": "2026-07-23T01:30:54+00:00"
         },
         {
-          "title": "Le marché immobilier québécois tourne au ralenti, sans devenir plus abordable",
-          "link": "https://www.ledevoir.com/economie/996650/marche-immobilier-quebecois-tourne-ralenti-devenir-plus-abordable",
-          "source": "Le Devoir",
-          "summary": "Plus de logements locatifs sont disponibles, mais ils ne sont pas plus abordables qu’avant, selon la SCHL.",
-          "published": "2026-07-22T21:16:00+00:00"
-        },
-        {
-          "title": "Le PQ, des « petits nazis » | Le Parti libéral écarte un candidat aux propos controversés",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-07-22/le-pq-des-petits-nazis/le-parti-liberal-ecarte-un-candidat-aux-propos-controverses.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Marineland | Six bélugas ont été transférés avec succès aux États-Unis",
+          "link": "https://www.lapresse.ca/actualites/national/2026-07-22/marineland/six-belugas-ont-ete-transferes-avec-succes-aux-etats-unis.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "« Le PQ est une aberration d’extrême droite. » « Des petits nazis sans envergure. » Le Parti libéral du Québec (PLQ) a écarté son candidat Michel Savard, qui briguait un siège dans Gouin, après que des captures d’écran…",
-          "published": "2026-07-22T21:13:51+00:00"
+          "summary": "Les 30 bélugas et 4 dauphins du parc d’attractions Marineland, fermé depuis l’été 2024, pourront enfin déménager grâce à un accord avec un consortium d’aquariums américains et espagnols. Six d’entre eux nagent désormais…",
+          "published": "2026-07-23T01:15:00+00:00"
         },
         {
-          "title": "Il aidait des camionneurs ontariens | Un faussaire de permis de conduire étranger souhaite l’absolution",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-22/il-aidait-des-camionneurs-ontariens/un-faussaire-de-permis-de-conduire-etranger-souhaite-l-absolution.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Immigration | Les demandes d’asile en chute libre au pays",
+          "link": "https://www.lapresse.ca/actualites/2026-07-22/immigration/les-demandes-d-asile-en-chute-libre-au-pays.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Un moniteur de conduite montréalais qui aidait des camionneurs ontariens inexpérimentés à obtenir frauduleusement leur permis de conduire espère s’en tirer presque sans conséquence. Au contraire, une peine de trois ans…",
-          "published": "2026-07-22T21:10:23+00:00"
+          "summary": "Les demandes d’asile continuent de chuter au Québec. Entre janvier et mai 2026, elles ont reculé de 57 % par rapport à la même période de 2025 et de 75 % par rapport à 2024, selon les plus récentes données…",
+          "published": "2026-07-22T23:45:00+00:00"
         },
         {
-          "title": "Un joueur des Cardinals arrêté en Ontario pour possession d’arme à feu",
-          "link": "https://www.ledevoir.com/sports/996653/joueur-cardinals-arrete-ontario-possession-arme-feu",
-          "source": "Le Devoir",
-          "summary": "Isaiah Adams fait face à quatre chefs d’accusation.",
-          "published": "2026-07-22T21:01:05+00:00"
-        },
-        {
-          "title": "Fréchette n’a pas la légitimité pour signer un accord sur Churchill Falls, clame le PQ",
-          "link": "https://www.ledevoir.com/politique/quebec/996641/frechette-pas-legitimite-signer-accord-churchill-falls-clame-pq",
-          "source": "Le Devoir",
-          "summary": "Pour Pascal Paradis, la première ministre ne peut sacrifier les intérêts du Québec pour des raisons électoralistes.",
-          "published": "2026-07-22T20:36:46+00:00"
-        },
-        {
-          "title": "L’univers fascinant des « adultes Disney »",
-          "link": "https://www.lapresse.ca/societe/2026-07-22/l-univers-fascinant-des-adultes-disney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Génération MusiquePlus – 86-96 | Pour revivre « la télévidéo en stéréo »",
+          "link": "https://www.lapresse.ca/arts/spectacles/2026-07-22/generation-musiqueplus-86-96/pour-revivre-la-televideo-en-stereo.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "« Je ne bois pas d’alcool, je ne consomme pas de drogue, je ne fume pas de cigarettes, mais je vais à Disney. »",
-          "published": "2026-07-22T20:30:00+00:00"
+          "summary": "Depuis le début du mois, les anciens VJ Geneviève Borne et Paul Sarrasin pilotent un grisant voyage dans le temps. Leur destination ? La décennie 1986-1996. Leur machine à remonter les années ? Un spectacle hautement…",
+          "published": "2026-07-22T23:30:00+00:00"
         },
         {
-          "title": "Davantage d’usagers d’Android peuvent maintenant remplacer leur carte OPUS par leur téléphone",
-          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/996635/davantage-usagers-android-peuvent-maintenant-remplacer-carte-opus-telephone",
-          "source": "Le Devoir",
-          "summary": "Toujours en phase de test, cette fonctionnalité n’est pas encore disponible sur iOS.",
-          "published": "2026-07-22T20:19:00+00:00"
+          "title": "Nicaragua | Le président Ortega veut en finir avec les élections",
+          "link": "https://www.lapresse.ca/international/amerique-latine/2026-07-22/nicaragua/le-president-ortega-veut-en-finir-avec-les-elections.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le président du Nicaragua, Daniel Ortega, a annoncé dimanche son intention d’en finir avec les élections dans le pays latino-américain, marquant, de spectaculaire façon, l’importance de la dérive autoritaire survenue…",
+          "published": "2026-07-22T23:30:00+00:00"
         },
         {
-          "title": "La Sicile frappée par une vague d’incendies",
-          "link": "https://www.ledevoir.com/monde/europe/996632/sicile-frappee-vague-incendies",
+          "title": "Une fausse main ensanglantée déposée devant une mosquée à Verdun, «c’est assez», clame un organisme",
+          "link": "https://www.ledevoir.com/actualites/justice/996671/fausse-main-ensanglantee-deposee-devant-mosquee-verdun",
           "source": "Le Devoir",
-          "summary": "Une clinique a dû être évacuée alors que des températures supérieures à 40°C attisent les flammes.",
-          "published": "2026-07-22T20:15:00+00:00"
+          "summary": "Le Conseil national des musulmans canadiens dénonce une recrudescence d’actes haineux.",
+          "published": "2026-07-22T23:18:00+00:00"
+        },
+        {
+          "title": "Produits visés par les nouveaux droits de douane | Catégories inusitées, répercussions bien réelles",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-07-22/produits-vises-par-les-nouveaux-droits-de-douane/categories-inusitees-repercussions-bien-reelles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Perruques, fausses barbes, éponges naturelles et peaux de reptiles… Vous risquez de sourciller en passant au peigne fin la liste des produits dans le collimateur de la plus récente menace tarifaire de la Maison-Blanche.…",
+          "published": "2026-07-22T23:00:00+00:00"
+        },
+        {
+          "title": "Les immigrants s’en sortent mieux en milieu rural qu’en ville, selon une étude",
+          "link": "https://www.ledevoir.com/economie/996647/immigrants-sortent-mieux-milieu-rural-ville-selon-etude",
+          "source": "Le Devoir",
+          "summary": "Un rapport du CIRANO dresse un portrait économique de l’immigration en région éloignée.",
+          "published": "2026-07-22T22:21:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "Elon Musk laisse planer l’hypothèse d’une fusion entre Tesla et SpaceX",
+          "link": "https://www.lefigaro.fr/societes/elon-musk-laisse-planer-l-hypothese-d-une-fusion-entre-tesla-et-spacex-20260723",
+          "source": "Le Figaro",
+          "summary": "La rumeur d’un rapprochement entre les deux sociétés court depuis des mois. Mais les discussions se sont intensifiées au cours depuis l’entrée en Bourse record de SpaceX.",
+          "published": "2026-07-23T01:47:14+00:00"
+        },
+        {
+          "title": "«Historiettes» de Johann Peter Hebel, tout à tracts",
+          "link": "https://www.liberation.fr/culture/livres/historiettes-de-johann-peter-hebel-tout-a-tracts-20260723_BY2R273WIVDQTIINTSNU2WVRGA/",
+          "source": "Liberation",
+          "summary": "Un barbier, des meuniers, un conscrit attaché à sa guérite… les personnages de l’écrivain né à Bâle en 1760 enchantaient le «petit peuple». Diffusés en France ces dernières années lors de manifestations, de récitations…",
+          "published": "2026-07-23T01:00:00+00:00"
+        },
+        {
+          "title": "La canicule de juin a coûté plus d'un milliard à l'économie britannique",
+          "link": "https://www.lefigaro.fr/conjoncture/la-canicule-de-juin-a-coute-plus-d-un-milliard-a-l-economie-britannique-20260723",
+          "source": "Le Figaro",
+          "summary": "En raison de la vague de chaleur, les Britanniques ont réduit leur temps de travail de 0,47 heure en moyenne, selon une étude publiée jeudi par la London School of Economics (LSE).",
+          "published": "2026-07-22T23:22:51+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies : plus de 1400 hectares dévorés par les flammes en Gironde, des milliers de personnes évacuées",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722",
+          "source": "Le Figaro",
+          "summary": "Un feu «très virulent» parti de Saumos, au nord du bassin d’Arcachon, a déjà parcouru plusieurs centaines d’hectares mercredi et des habitants ont été évacués par précaution. Plus de 2500 hectares ont brûlé dans le Var,…",
+          "published": "2026-07-22T22:20:00+00:00"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : l'Iran menace les Etats-Unis d'une riposte \"puissante\" en cas d'attaques sur ses infrastructures civiles",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-a-lance-des-frappes-contre-des-cibles-iraniennes-pour-la-onzieme-nuit-consecutive_8117363.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le président américain Donald Trump avait assuré plus tôt mercredi que Washington répliquerait à toutes les prochaines attaques de navires dans le détroit d'Ormuz en bombardant les ponts et les centrales électriques…",
+          "published": "2026-07-22T22:02:43+00:00"
+        },
+        {
+          "title": "Incendies : plus de 5 000 personnes évacuées en raison du feu qui s'est déclaré en Gironde, 1 400 hectares parcourus par les flammes",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-400-personnes-evacuees-dans-le-var-a-annonce-la-prefecture-du-departement-dans-la-nuit-du-mardi-a-mercredi_8117357.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Un feu \"très virulent\" qui s'est déclaré dans le Médoc, entre Saumos et Le Porge, en début d'après-midi, continue de progresser à une vitesse préoccupante.",
+          "published": "2026-07-22T22:02:08+00:00"
+        },
         {
           "title": "La DJ Barbara Butch, \"toujours en état de choc\" après l'arrêt de son concert, se produira bien sur scène samedi",
           "link": "https://www.franceinfo.fr/culture/la-dj-barbara-butch-toujours-en-etat-de-choc-apres-l-arret-de-son-concert-se-produira-bien-sur-scene-samedi_8118440.html#xtor=RSS-3-[lestitres]",
@@ -185,48 +227,6 @@
           "source": "Le Figaro",
           "summary": "DÉCRYPTAGE - Au grand dam d’Israël, Washington a donné son feu vert pour que Riyad développe son propre programme.",
           "published": "2026-07-22T21:18:11+00:00"
-        },
-        {
-          "title": "Nucléaire : les États-Unis envisagent d'installer des réacteurs en mer",
-          "link": "https://www.lefigaro.fr/flash-eco/nucleaire-les-etats-unis-envisagent-d-installer-des-reacteurs-en-mer-20260722",
-          "source": "Le Figaro",
-          "summary": "La Marine Minerals Administration (MMA), chargée de superviser les projets dans les zones maritimes au large des États-Unis, a annoncé avoir signé un accord avec le régulateur américain du nucléaire.",
-          "published": "2026-07-22T21:16:58+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies : plus de 1000 hectares dévorés par les flammes en Gironde, des milliers de personnes évacuées",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-le-var-le-feu-continue-de-progresser-a-une-vitesse-tres-importante-et-a-deja-parcouru-plus-de-1700-hectares-20260722",
-          "source": "Le Figaro",
-          "summary": "Un feu «très virulent» parti de Saumos, au nord du bassin d’Arcachon, a déjà parcouru plusieurs centaines d’hectares mercredi et des habitants ont été évacués par précaution. Plus de 2500 hectares ont brûlé dans le Var,…",
-          "published": "2026-07-22T21:16:02+00:00"
-        },
-        {
-          "title": "Espagne : licencié pour 63 retards, un mécanicien fait condamner son entreprise à le réintégrer ou à lui verser 27.000 euros",
-          "link": "https://www.lefigaro.fr/international/espagne-licencie-pour-63-retards-un-mecanicien-fait-condamner-son-entreprise-a-le-reintegrer-ou-a-lui-verser-27-000-euros-20260722",
-          "source": "Le Figaro",
-          "summary": "Le tribunal a reconnu l’existence des retards qui ne dépassaient pas plus de «deux à quatre minutes» et a pris en compte l’ancienneté du salarié.",
-          "published": "2026-07-22T21:04:28+00:00"
-        },
-        {
-          "title": "Coupe du monde 2026 : une pétition pour exclure définitivement l’Argentine du Mondial frôle un record historique",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-une-petition-pour-exclure-definitivement-l-argentine-du-mondial-atteint-un-record-historique-20260722",
-          "source": "Le Figaro",
-          "summary": "LE SCAN SPORT - Ignorée par la Fifa, la pétition « Argentina Out » a pris beaucoup d’ampleur. Lancée pour réclamer l’exclusion définitive de l’Argentine de la Coupe du monde, elle a recueilli 23 millions de signatures…",
-          "published": "2026-07-22T20:56:56+00:00"
-        },
-        {
-          "title": "Les incendies ont brûlé au moins 44 000 hectares en France en 2026, annonce Laurent Nuñez, 128 personnes interpellées",
-          "link": "https://www.franceinfo.fr/faits-divers/incendie/les-incendies-ont-brule-au-moins-44-000-hectares-en-france-en-2026-et-128-personnes-ont-ete-interpellees-annonce-laurent-nunez-en-gironde_8118410.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"Nous faisons face\" aux incendies qui se multiplient à travers le pays, a affirmé Laurent Nuñez mercredi à Bordeaux, ajoutant qu'\"il y en a un peu assez des polémiques\" sur les moyens de lutte dont disposent les…",
-          "published": "2026-07-22T20:37:20+00:00"
-        },
-        {
-          "title": "«Maintenant, c’est le terrain qui va parler» : en Gironde, un nouveau brasier pendant que Nuñez rend hommage à deux pompiers tués",
-          "link": "https://www.liberation.fr/environnement/maintenant-cest-le-terrain-qui-va-parler-en-gironde-un-nouveau-brasier-pendant-que-nunez-rend-hommage-a-deux-pompiers-tues-20260722_U2ZRDKFK3VDFNAN6OTBWIKOTHQ/",
-          "source": "Liberation",
-          "summary": "Dans le département, un nouveau feu s’est déclaré ce mercredi 22 juillet entre Le Porge et Saumos et a déjà ravagé 800 hectares. Au même moment, le ministre de l’Intérieur Laurent Nuñez venait rendre hommage à deux…",
-          "published": "2026-07-22T20:30:46+00:00"
         }
       ]
     },
