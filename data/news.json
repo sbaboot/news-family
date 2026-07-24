@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-23T22:03:15.163742+00:00",
+  "generated_at": "2026-07-24T02:34:15.390914+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En direct : nouvelles frappes américaines en Iran, le pétrole au-dessus des 100 dollars le baril",
+          "link": "https://www.france24.com/fr/moyen-orient/20260724-en-direct-moyen-orient-iran-etats-unis-frappes-petrole-houthis-ormuz",
+          "source": "France 24",
+          "summary": "Les États-Unis ont lancé vendredi une nouvelle série de frappes en Iran, tandis que les alliés houthis ont ouvert un deuxième front dans le conflit, revendiquant des attaques en mer Rouge qui font grimper le prix du…",
+          "published": "2026-07-24T02:09:50+00:00"
+        },
+        {
+          "title": "Incendies en Europe : la France appelle l'UE à la rescousse, l'Espagne déclare l'état d'urgence",
+          "link": "https://www.france24.com/fr/europe/20260724-incendies-europe-france-ue-rescousse-espagne-etat-d-urgence",
+          "source": "France 24",
+          "summary": "Alors que de violents incendies font rage en Europe du Sud, le président français Emmanuel Macron a annoncé vendredi compter sur de nouveaux renforts européens, tandis qu'en Espagne, l’état d’urgence national a été…",
+          "published": "2026-07-24T01:50:26+00:00"
+        },
+        {
+          "title": "En Tunisie, l’opposant Rached Ghannouchi, incarcéré, est dans un état « critique », selon ses avocats",
+          "link": "https://www.lemonde.fr/afrique/article/2026/07/24/en-tunisie-l-opposant-rached-ghannouchi-incarcere-est-dans-un-etat-critique-selon-ses-avocats_6731374_3212.html",
+          "source": "Le Monde",
+          "summary": "La défense du chef du parti islamo-conservateur Ennahdha, âgé de 85 ans, a alerté sur une « grave détérioration » de son état de santé, après avoir appris qu’il avait perdu connaissance en prison.",
+          "published": "2026-07-24T01:17:00+00:00"
+        },
+        {
+          "title": "En Chine, la célébration opportune des Tigres volants américains",
+          "link": "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html",
+          "source": "Le Monde",
+          "summary": "Cet escadron, qui a appuyé l’armée chinoise dans les airs contre les avancées japonaises durant la seconde guerre mondiale, est exploité diplomatiquement par Pékin pour essayer d’influer sur l’attitude de Washington à…",
+          "published": "2026-07-24T01:00:08+00:00"
+        },
+        {
+          "title": "Droits de douane : Donald Trump poursuit sa guerre commerciale par tous les moyens",
+          "link": "https://www.lemonde.fr/economie/article/2026/07/24/droits-de-douane-donald-trump-poursuit-sa-guerre-commerciale-par-tous-les-moyens_6731308_3234.html",
+          "source": "Le Monde",
+          "summary": "Les Etats-Unis ont annoncé, jeudi, la mise en place de nouvelles taxes sur les importations allant de 10 % à 12,5 % visant 60 pays, alors que les précédentes arrivaient à échéance. Ce dispositif devrait rester en place…",
+          "published": "2026-07-24T00:20:50+00:00"
+        },
+        {
+          "title": "ONU: l'ex-président sénégalais Macky Sall défend sa candidature au poste de secrétaire général",
+          "link": "https://www.rfi.fr/fr/monde/20260724-onu-l-ex-pr%C3%A9sident-s%C3%A9n%C3%A9galais-macky-sall-d%C3%A9fend-sa-candidature-au-poste-de-secr%C3%A9taire-g%C3%A9n%C3%A9ral",
+          "source": "RFI",
+          "summary": "À une semaine de l'ouverture officielle du processus de désignation du prochain secrétaire général des Nations unies, les six candidats ont présenté jeudi 23 juillet leur vision devant l'Assemblée générale à New York.…",
+          "published": "2026-07-24T00:10:59+00:00"
+        },
+        {
+          "title": "Donald Trump ne s’opposera pas à l’extradition des frères Tate vers le Royaume-Uni, selon la Maison Blanche",
+          "link": "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-vers-le-royaume-uni-selon-la-maison-blanche_6731242_3210.html",
+          "source": "Le Monde",
+          "summary": "« Il n’y a aucun rôle à jouer pour nous à ce stade, et peut-être même jamais, dans cette affaire », a déclaré de son côté le secrétaire d’Etat américain, Marco Rubio, mercredi.",
+          "published": "2026-07-23T23:48:49+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis annoncent bombarder l’Iran pour la treizième nuit de suite",
+          "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-au-moyen-orient-les-etats-unis-annoncent-bombarder-l-iran-pour-la-treizieme-nuit-de-suite_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Ces nouvelles frappes visent notamment à « réduire les menaces que fait peser le corps des gardiens de la révolution islamique sur la marine marchande », a affirmé, jeudi, le commandement militaire américain pour le…",
+          "published": "2026-07-23T23:35:03+00:00"
+        },
+        {
+          "title": "Marineland d'Antibes : huit des 12 dauphins ont été transférés en Espagne",
+          "link": "https://www.france24.com/fr/france/20260723-marineland-antibes-8-des-12-dauphins-transferes-parc-benalmadena-espagne",
+          "source": "France 24",
+          "summary": "Huit des 12 dauphins restant au Marineland d'Antibes, fermé depuis janvier 2025, ont été transférés jeudi dans un parc à Benalmadena, près de Malaga, en Espagne. À l'avenir, ces cétacés pourraient revenir en France dans…",
+          "published": "2026-07-23T22:46:59+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de l’adoption par l’Union européenne de nouvelles sanctions contre la Russie",
           "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-l-adoption-par-l-union-europeenne-de-nouvelles-sanctions-contre-la-russie_6725306_3210.html",
           "source": "Le Monde",
           "summary": "Salut des mesures « fortes » pour limiter les revenus russes, le président ukrainien a par ailleurs assuré qu’il comptait sur un travail « actif » autour d’un vingt-deuxième train de sanctions, censé permettre des «…",
           "published": "2026-07-23T21:37:52+00:00"
-        },
-        {
-          "title": "États-Unis : de nouveaux droits de douane visent plusieurs partenaires commerciaux",
-          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260723-%C3%A9tats-unis-de-nouveaux-droits-de-douane-visent-plusieurs-partenaires-commerciaux",
-          "source": "France 24",
-          "summary": "Alors que des droits de douane temporaires de 10 % arrivent à expiration vendredi, la Maison Blanche a annoncé jeudi de nouvelles surtaxes de 10 % ou 12,5 %, visant une soixantaine de partenaires commerciaux, accusés de…",
-          "published": "2026-07-23T21:13:56+00:00"
-        },
-        {
-          "title": "Ebola en RDC et en Ouganda : le bilan dépasse désormais les 1 000 morts, selon l'OMS",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260723-ebola-en-rdc-et-en-ouganda-le-bilan-d%C3%A9passe-d%C3%A9sormais-les-1-000-morts-selon-l-oms",
-          "source": "France 24",
-          "summary": "La barre des mille morts pour Ebola franchie en RDC. Mais en Ituri, épicentre de la flambée, deux essais cliniques ouvrent toutefois une piste encourageante. Pendant ce temps, l'agence sanitaire de l'Union africaine…",
-          "published": "2026-07-23T20:53:03+00:00"
-        },
-        {
-          "title": "Ghana : pourquoi les accusations de sorcellerie continuent-elles de tuer ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-ghana-pourquoi-les-accusations-de-sorcellerie-continuent-elles-de-tuer",
-          "source": "France 24",
-          "summary": "Six ans après le lynchage d'Akua Denteh, accusée de sorcellerie au Ghana, les défenseurs des droits humains dénoncent l'absence de protection effective des victimes. Malgré un texte adopté par le Parlement en 2023,…",
-          "published": "2026-07-23T20:48:29+00:00"
-        },
-        {
-          "title": "Faut-il sauver Wikipédia?",
-          "link": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20260723-faut-il-sauver-wikip%C3%A9dia",
-          "source": "RFI",
-          "summary": "Le rendez-vous annuel de la plus grande encyclopédie libre en ligne se déroule jusqu’à ce samedi à Paris. Wikimania 2026 intervient alors que Wikipédia célèbre cette année ses 25 ans. Et est confronté à une menace…",
-          "published": "2026-07-23T19:29:17+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : le secrétaire général de l’ONU estime que la situation au Moyen-Orient « échappe à tout contrôle »",
-          "link": "https://www.lemonde.fr/international/live/2026/07/23/en-direct-guerre-au-moyen-orient-le-secretaire-general-de-l-onu-estime-que-la-situation-au-moyen-orient-echappe-a-tout-controle_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "« Les combats doivent cesser partout et la liberté de navigation doit être rétablie », a déclaré jeudi Antonio Guterres.",
-          "published": "2026-07-23T19:10:05+00:00"
-        },
-        {
-          "title": "Au Maroc, les soutiens du rappeur Mehdi Black Wind réclament sa libération",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-au-maroc-les-soutiens-du-rappeurs-mehdi-black-wind-r%C3%A9clament-sa-lib%C3%A9ration",
-          "source": "France 24",
-          "summary": "Au Maroc, le rappeur Mehdi Black Wind est en détention provisoire depuis le 13 juillet. Connu pour ses textes critiques sur les inégalités marocaines, il a été arrêté à l'aéroport de Rabat alors qu'il s'apprêtait à…",
-          "published": "2026-07-23T18:55:16+00:00"
-        },
-        {
-          "title": "Après l’interpellation violente de deux diplomates à Téhéran, la France s’inquiète pour ses ressortissants en Iran",
-          "link": "https://www.lemonde.fr/international/article/2026/07/23/apres-l-interpellation-violente-de-deux-diplomates-a-teheran-la-france-s-inquiete-pour-ses-ressortissants-en-iran_6731176_3210.html",
-          "source": "Le Monde",
-          "summary": "L’un des deux agents de l’ambassade de France à Téhéran interpellés dimanche a été « molesté », « brutalisé » et « frappé », a dénoncé le ministre des affaires étrangères, Jean-Noël Barrot. Alors que les diplomates sont…",
-          "published": "2026-07-23T18:55:12+00:00"
-        },
-        {
-          "title": "L'épidémie d'Ebola a déjà fait plus de 1000 morts en RDC et en Ouganda",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-l-%C3%A9pid%C3%A9mie-d-ebola-a-d%C3%A9j%C3%A0-fait-plus-de-1000-morts-en-rdc-et-en-ouganda",
-          "source": "France 24",
-          "summary": "Plus d'un millier de personnes ont été emportées par l’épidémie d’Ebola en RDC et en Ouganda, selon un dernier bilan de l'OMS. L'organisation estime également que le virus a une longueur d'avance sur la riposte déployée.",
-          "published": "2026-07-23T18:47:36+00:00"
-        },
-        {
-          "title": "Feu vert américain au nucléaire civil saoudien : une victoire signée MBS ?",
-          "link": "https://www.france24.com/fr/moyen-orient/20260723-feu-vert-am%C3%A9ricain-au-nucl%C3%A9aire-civil-saoudien-une-victoire-sign%C3%A9e-mbs",
-          "source": "France 24",
-          "summary": "Washington a annoncé, mercredi, avoir conclu un accord avec l'Arabie saoudite autour d'un programme nucléaire civil qui, selon des médias américains, dérogerait aux inspections internationales renforcées habituellement…",
-          "published": "2026-07-23T18:34:59+00:00"
         }
       ]
     },
@@ -84,80 +84,136 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Démystifier l’environnement | Les vents sont-ils plus forts qu’avant ?",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-07-23/demystifier-l-environnement/les-vents-sont-ils-plus-forts-qu-avant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "L’IA est-elle devenue trop puissante pour être contrôlée?",
+          "link": "https://www.ledevoir.com/economie/techno/997052/ia-est-elle-devenue-trop-puissante-etre-controlee",
+          "source": "Le Devoir",
+          "summary": "Les modèles IA «vont réussir à mieux dissimuler leurs actions», craint un expert.",
+          "published": "2026-07-24T01:31:51+00:00"
+        },
+        {
+          "title": "Rapport sur le taux de criminalité | Baisse du crime au Québec… sauf chez les jeunes",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-23/rapport-sur-le-taux-de-criminalite/baisse-du-crime-au-quebec-sauf-chez-les-jeunes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Chaque mois, nos journalistes répondent à des questions environnementales posées par des lecteurs.",
-          "published": "2026-07-23T21:44:34+00:00"
+          "summary": "Les Québécois sont en moyenne très sages en comparaison du reste du Canada : l’indice de gravité de la criminalité dans la province est parmi les plus bas du pays, notamment grâce à un système communautaire mieux rodé…",
+          "published": "2026-07-24T01:24:27+00:00"
         },
         {
-          "title": "Lutte contre le travail forcé  | Trump impose de nouveaux droits de douane à plusieurs pays, dont le Canada",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-07-23/lutte-contre-le-travail-force/trump-impose-de-nouveaux-droits-de-douane-a-plusieurs-pays-dont-le-canada.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Incident d’OpenAI | L’IA est-elle devenue trop puissante pour être contrôlée ?",
+          "link": "https://www.lapresse.ca/affaires/techno/2026-07-23/incident-d-openai/l-ia-est-elle-devenue-trop-puissante-pour-etre-controlee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’administration Trump affirme qu’elle impose des droits de douane à des dizaines de pays, dont le Canada, en invoquant le recours au travail forcé dans les chaînes d’approvisionnement.",
-          "published": "2026-07-23T21:18:49+00:00"
+          "summary": "La cyberattaque perpétrée de manière autonome par des modèles d’intelligence artificielle (IA) d’OpenAI initialement confinés pose la question du contrôle de l’IA la plus avancée, désormais capable d’échapper à ses…",
+          "published": "2026-07-24T00:33:44+00:00"
         },
         {
-          "title": "Trump ne s’opposera pas à l’extradition des frères Tate, selon la Maison-Blanche",
-          "link": "https://www.ledevoir.com/monde/etats-unis/996935/trump-ne-opposera-pas-extradition-freres-tate-selon-maison-blanche",
-          "source": "Le Devoir",
-          "summary": "Les deux hommes ont été arrêtés samedi en Floride à la demande des autorités britanniques.",
-          "published": "2026-07-23T21:17:41+00:00"
-        },
-        {
-          "title": "Les inondations de juin au Québec ont causé 409 millions en dommages assurés",
-          "link": "https://www.ledevoir.com/actualites/societe/996929/inondations-juin-ont-cause-409m-dommages-assures-quebec",
-          "source": "Le Devoir",
-          "summary": "Des pluies torrentielles s’étaient abattues sur le sud du Québec les 20 et 21 juin derniers.",
-          "published": "2026-07-23T21:07:00+00:00"
-        },
-        {
-          "title": "Équipement désuet  | Hydro-Québec remplacera à nouveau ses compteurs",
-          "link": "https://www.lapresse.ca/affaires/2026-07-23/equipement-desuet/hydro-quebec-remplacera-a-nouveau-ses-compteurs.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Des chercheurs à l’œuvre | Y a-t-il eu une tornade dans les Laurentides ?",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-07-23/des-chercheurs-a-l-oeuvre/y-a-t-il-eu-une-tornade-dans-les-laurentides.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Six ans à peine après avoir achevé de remplacer tous les compteurs de ses 4,4 millions de clients, Hydro-Québec recommence l’opération parce que l’équipement est désormais désuet.",
-          "published": "2026-07-23T20:35:03+00:00"
+          "summary": "Une équipe spécialisée en phénomènes météorologiques extrêmes tentait jeudi de déterminer si la petite municipalité de Harrington avait bel et bien été le théâtre d’une tornade. La Presse s’est greffée à elle le temps…",
+          "published": "2026-07-23T23:30:00+00:00"
         },
         {
-          "title": "Carney ne compte pas répliquer aux nouveaux tarifs de Trump pour l’instant",
-          "link": "https://www.ledevoir.com/politique/canada/996896/carney-ne-compte-pas-repliquer-nouveaux-tarifs-trump-instant",
-          "source": "Le Devoir",
-          "summary": "« Ce serait contre-productif d’y répondre à l’avance », a dit le premier ministre pour clore le Conseil de la fédération.",
-          "published": "2026-07-23T20:17:00+00:00"
+          "title": "Une fois, c’est deux gars qui jasent de testostérone…",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-07-23/une-fois-c-est-deux-gars-qui-jasent-de-testosterone.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Aux États-Unis, le secrétaire à la Défense, Pete Hegseth, veut soumettre les militaires de 30 ans et plus à des tests de testostérone obligatoires. Qu’est-ce que ça dit sur notre vision de la masculinité ? J’en ai…",
+          "published": "2026-07-23T23:00:00+00:00"
         },
         {
-          "title": "Pourquoi la flambée des prix du pétrole est plus préoccupante qu’au printemps?",
-          "link": "https://www.ledevoir.com/economie/996890/pourquoi-flambee-prix-petrole-est-plus-preoccupante-printemps",
-          "source": "Le Devoir",
-          "summary": "Le regain des tensions au Moyen-Orient pourrait fragiliser les points de passage des pétroliers à long terme.",
-          "published": "2026-07-23T20:11:42+00:00"
+          "title": "Grossesses après 40 ans | Qu’en est-il des risques et des bénéfices ?",
+          "link": "https://www.lapresse.ca/societe/2026-07-23/grossesses-apres-40-ans/qu-en-est-il-des-risques-et-des-benefices.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Sur les tapis rouges, le ventre rond d’Anne Hathaway fait tourner les têtes. Comme plusieurs vedettes avant elle, l’actrice de 43 ans brise le tabou de la maternité tardive. Qu’en est-il vraiment des risques (et…",
+          "published": "2026-07-23T23:00:00+00:00"
         },
         {
-          "title": "Moncton confie la traduction de ses conseils municipaux à une IA américaine",
-          "link": "https://www.ledevoir.com/actualites/societe/996872/moncton-confie-traduction-conseils-municipaux-ia-americaine",
-          "source": "Le Devoir",
-          "summary": "La Ville avait besoin d’une solution rapide alors que le contrat avec son interprète actuel arrivait à échéance.",
-          "published": "2026-07-23T18:47:00+00:00"
+          "title": "Fréquentation des salles de cinéma | La génération Z à la rescousse",
+          "link": "https://www.lapresse.ca/cinema/chroniques/2026-07-23/frequentation-des-salles-de-cinema/la-generation-z-a-la-rescousse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "En début de semaine, Fiston nous a réservé des billets pour un film qui sera présenté… dans cinq mois. Avengers: Doomsday ne prendra l’affiche que le 18 décembre. En avril, il a voulu se procurer d’avance des billets…",
+          "published": "2026-07-23T23:00:00+00:00"
         },
         {
-          "title": "L’Association des obstétriciens et gynécologues dépose un recours pour iniquité salariale",
-          "link": "https://www.ledevoir.com/actualites/sante/996866/association-obstetriciens-gynecologues-depose-recours-iniquite-salariale",
+          "title": "Carney reconnaît un manque de clarté concernant le pont Gordie-Howe",
+          "link": "https://www.ledevoir.com/economie/997025/carney-reconnait-manque-clarte-concernant-pont-gordie-howe",
           "source": "Le Devoir",
-          "summary": "L’Association a déposé un recours à la Cour supérieure contre la Fédération des médecins spécialistes du Québec.",
-          "published": "2026-07-23T18:32:41+00:00"
+          "summary": "«Aurais-je pu mieux l’expliquer un dimanche matin au Stampede ? Oui. Avec un chapeau de cowboy ? Oui.»",
+          "published": "2026-07-23T22:59:00+00:00"
         },
         {
-          "title": "Les pays de l’UE trouvent un accord sur de nouvelles sanctions contre la Russie",
-          "link": "https://www.ledevoir.com/monde/europe/996860/pays-ue-trouvent-accord-nouvelles-sanctions-contre-russie",
+          "title": "Washington lance une nouvelle salve de droits de douane contre une soixantaine de pays",
+          "link": "https://www.ledevoir.com/economie/997001/washington-lance-nouvelle-salve-droits-douane-contre-soixantaine-pays",
           "source": "Le Devoir",
-          "summary": "L’objectif est de continuer à limiter les revenus pétroliers de Moscou, qui financent en partie de sa guerre en Ukraine.",
-          "published": "2026-07-23T17:48:19+00:00"
+          "summary": "Des tarifs de 10% ou 12,5% s’appliqueront à un certain nombre de produits entrant aux États-Unis.",
+          "published": "2026-07-23T22:34:50+00:00"
+        },
+        {
+          "title": "Le domaine Villa Maria est officiellement mis en vente",
+          "link": "https://www.ledevoir.com/actualites/education/996992/domaine-villa-maria-est-officiellement-mis-vente",
+          "source": "Le Devoir",
+          "summary": "La congrégation religieuse propriétaire du terrain avait annoncé son intention de le vendre en 2023.",
+          "published": "2026-07-23T22:15:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "EN DIRECT - Incendies : la préfecture ordonne l’évacuation des «premiers villages de la presqu’île du Cap-Ferret»",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-du-var-a-la-gironde-les-pompiers-se-battent-contre-deux-feux-d-ampleur-20260723",
+          "source": "Le Figaro",
+          "summary": "La France va «rapidement» recevoir des renforts aériens européens pour lutter contre les incendies, a annoncé dans la nuit de jeudi à vendredi le chef de l’État.",
+          "published": "2026-07-24T02:12:03+00:00"
+        },
+        {
+          "title": "«Injustifiés», «regrettables»... L'Australie, le Japon et la Nouvelle-Zélande dénoncent les nouveaux droits de douane américains",
+          "link": "https://www.lefigaro.fr/international/l-australie-juge-les-nouveaux-droits-de-douane-americains-injustifies-20260724",
+          "source": "Le Figaro",
+          "summary": "Tokyo, Canberra et Wellington dénoncent leur inscription sur la liste des partenaires commerciaux de Washington frappés par des surtaxes de 10 à 12,5%.",
+          "published": "2026-07-24T02:04:31+00:00"
+        },
+        {
+          "title": "La chanteuse Rosalia au cœur d’une polémique en Argentine après le partage d'une vidéo sur la défaite au Mondial",
+          "link": "https://www.lefigaro.fr/culture/la-chanteuse-rosalia-au-coeur-d-une-polemique-en-argentine-apres-le-partage-d-une-video-sur-la-defaite-au-mondial-20260724",
+          "source": "Le Figaro",
+          "summary": "À un peu plus d’une semaine du premier des quatre concerts de son «Lux Tour» à Buenos Aires, tous à guichets fermés, certains messages sur les réseaux sociaux assurent vouloir boycotter l’artiste espagnole.",
+          "published": "2026-07-23T23:58:45+00:00"
+        },
+        {
+          "title": "Face aux incendies, Emmanuel Macron demande l'activation du mécanisme de protection civile de l'UE, des renforts aériens attendus \"rapidement\"",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/face-aux-incendies-emmanuel-macron-demande-l-activation-du-mecanisme-de-protection-civile-de-l-ue-des-renforts-aeriens-europeens-attendus-rapidement_8119946.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le président de la République, qui déplore une situation \"sous très forte tension\", assure que les sapeurs-pompiers français vont pouvoir compter sur l'appui \"de deux Canadair croates, de deux Air Tractor portugais…",
+          "published": "2026-07-23T23:41:55+00:00"
+        },
+        {
+          "title": "EN DIRECT - Guerre au Moyen-Orient : «Ils n’ont pas encore assez souffert», Donald Trump veut reprendre des opérations majeures en Iran",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
+          "source": "Le Figaro",
+          "summary": "L’Iran a juré jeudi de poursuivre ses représailles contre l’ennemi américain tant qu’il serait attaqué, tandis que ses alliés houthis yéménites ont ouvert un deuxième front dans la guerre régionale en revendiquant des…",
+          "published": "2026-07-23T23:37:02+00:00"
+        },
+        {
+          "title": "New York : deux personnes blessées au couteau, l'auteur crie «Allah Akbar»",
+          "link": "https://www.lefigaro.fr/flash-actu/new-york-deux-personnes-blessees-au-couteau-l-auteur-crie-allah-akbar-20260724",
+          "source": "Le Figaro",
+          "summary": "Le maire de New York, Zohran Mamdani, a dénoncé des «attaques haineuses et odieuses» qui n’ont pas leur place dans notre ville».",
+          "published": "2026-07-23T23:24:48+00:00"
+        },
+        {
+          "title": "Incendie en Gironde : un sapeur-pompier blessé après l'explosion d'une bonbonne de gaz à Lège-Cap Ferret, plus de 4 800 hectares parcourus par le feu",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-2-000-hectares-brules-au-moins-12-000-personnes-evacuees-depuis-hier-annonce-la-prefecture_8118599.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La situation reste très défavorable au nord du bassin d'Arcachon, où l'incendie qui s'est déclaré mercredi a entraîné l'évacuation de près de 20 000 personnes. D'autres feux sont déclarés dans les Landes, dans le Var et…",
+          "published": "2026-07-23T22:06:15+00:00"
+        },
+        {
+          "title": "Aux Etats-Unis, une enquête ouverte contre un agent du Secret Service de J.D. Vance pour fuite présumée d'informations",
+          "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-enquete-ouverte-contre-un-agent-du-secret-service-de-j-d-vance-pour-fuite-presumee-d-informations_8119859.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Cet agent est accusé d'avoir fait fuiter des informations à l'origine de révélations selon lesquelles le vice-président des Etats-Unis souhaitait utiliser un hélicoptère militaire pour emmener son fils au golf.",
+          "published": "2026-07-23T22:00:04+00:00"
+        },
         {
           "title": "Une enquête ouverte à Paris contre le réseau libertin Wyylde, soupçonné d'avoir été utilisé dans une affaire de viols collectifs filmés en Gironde",
           "link": "https://www.franceinfo.fr/societe/justice/une-enquete-ouverte-a-paris-contre-le-reseau-libertin-wyylde-soupconne-d-avoir-ete-utilise-dans-une-affaire-de-viols-collectifs-filmes-en-gironde_8119871.html#xtor=RSS-3-[lestitres]",
@@ -166,67 +222,11 @@
           "published": "2026-07-23T21:51:16+00:00"
         },
         {
-          "title": "«Tous les hommes blancs à l’arrière» : la chanteuse Sophie Straat sous le feu des critiques après ses propos lors d’un festival en Belgique",
-          "link": "https://www.lefigaro.fr/musique/tous-les-hommes-blancs-a-l-arriere-la-chanteuse-sophie-straat-sous-le-feu-des-critiques-apres-ses-propos-lors-d-un-festival-en-belgique-20260723",
-          "source": "Le Figaro",
-          "summary": "En plein concert à Gand lundi, la chanteuse Sophie Straat a invité les «hommes blancs» à reculer pour laisser la place aux femmes, aux personnes queer et aux personnes de couleur.",
-          "published": "2026-07-23T21:42:38+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies : 20.000 personnes évacuées en Gironde, 1200 hectares parcourus et 5000 évacués près de Biscarosse",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-du-var-a-la-gironde-les-pompiers-se-battent-contre-deux-feux-d-ampleur-20260723",
-          "source": "Le Figaro",
-          "summary": "L’incendie d’origine probablement accidentelle qui a parcouru 4800 hectares près du bassin d’Arcachon (Gironde) est «contenu» au nord de Lège-Cap-Ferret, selon la préfecture, tandis que plus de 20.000 personnes ont été…",
-          "published": "2026-07-23T21:42:02+00:00"
-        },
-        {
           "title": "«Totalement inédit» : avec le retour de la canicule la semaine prochaine, quelles seront les régions les plus touchées ?",
           "link": "https://www.lefigaro.fr/meteo/totalement-inedit-avec-le-retour-de-la-canicule-la-semaine-prochaine-quelles-seront-les-regions-les-plus-touchees-20260723",
           "source": "Le Figaro",
           "summary": "La quatrième canicule de l’année arrivera la semaine prochaine, et concernera les trois quarts du pays des températures maximales parfois proches de 40°C, selon La Chaîne météo. Du jamais vu depuis 1945 au minimum.",
           "published": "2026-07-23T21:17:26+00:00"
-        },
-        {
-          "title": "La Maison-Blanche annonce de nouveaux droits de douane à partir de vendredi",
-          "link": "https://www.lefigaro.fr/conjoncture/la-maison-blanche-annonce-de-nouveaux-droits-de-douane-a-partir-de-vendredi-20260723",
-          "source": "Le Figaro",
-          "summary": "Ces nouveaux droits de douane, de 10% ou 12,5%, visent une soixantaine de partenaires commerciaux, accusés de ne pas suffisamment lutter contre le travail forcé.",
-          "published": "2026-07-23T21:16:53+00:00"
-        },
-        {
-          "title": "Soupçonné de faire partie de la flotte fantôme russe, le pétrolier immobilisé à Marseille autorisé à repartir après paiement d'une amende",
-          "link": "https://www.franceinfo.fr/societe/justice/soupconne-de-faire-partie-de-la-flotte-fantome-russe-le-petrolier-immobilise-a-marseille-autorise-a-repartir-apres-paiement-d-une-amende_8119811.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le \"Deliver\", un navire de 275 mètres de long battant pavillon camerounais, avait été arraisonné le 23 juin au large de la Sicile par la marine française.",
-          "published": "2026-07-23T21:12:27+00:00"
-        },
-        {
-          "title": "Incendie en Gironde : un sapeur-pompier blessé après l'explosion d'une bonbonne de gaz à Lège-Cap Ferret, plus de 4 800 hectares parcourus par le feu",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-2-000-hectares-brules-au-moins-12-000-personnes-evacuees-depuis-hier-annonce-la-prefecture_8118599.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La situation reste très défavorable au nord du bassin d'Arcachon, où l'incendie qui s'est déclaré mercredi a entraîné l'évacuation de près de 20 000 personnes. D'autres feux sont déclarés dans les Landes, dans le Var et…",
-          "published": "2026-07-23T21:03:36+00:00"
-        },
-        {
-          "title": "Incendies : l’UE déploie trois bombardiers d’eau en Gironde, où l’incendie a brûlé 3 800 hectares",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-progression-alarmante-en-gironde-le-feu-fixe-dans-le-var-20260723_W6KPYIMZK5A7JPX462MDIOC5DI/",
-          "source": "Liberation",
-          "summary": "20 000 personnes ont été évacuées préventivement par la préfecture dans le nord du bassin d’Arcachon. Un incendie s’est déclaré jeudi en fin d’après-midi dans les Landes, et avait déjà parcouru 1 200 hectares jeudi soir.",
-          "published": "2026-07-23T20:54:30+00:00"
-        },
-        {
-          "title": "Pris dans le piège iranien, Donald Trump tenté par l’escalade",
-          "link": "https://www.lefigaro.fr/international/pris-dans-le-piege-iranien-donald-trump-tente-par-l-escalade-20260723",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - L’armée américaine a envoyé de nombreux renforts au Moyen-Orient alors que le conflit s’étend en mer Rouge, avec l’implication des rebelles houthistes pro iraniens.",
-          "published": "2026-07-23T20:44:31+00:00"
-        },
-        {
-          "title": "En Charente-Maritime, la justice ordonne le démantèlement de quatre \"bassines\" d'ici 3 ans",
-          "link": "https://www.franceinfo.fr/societe/justice/en-charente-maritime-la-justice-ordonne-le-demantelement-de-quatre-bassines-d-ici-3-ans_8119850.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les exploitants de ces retenues d'eau agricole, qui contestent le jugement du tribunal administratif de Poitiers, ont annoncé qu'ils faisaient appel de leur condamnation.",
-          "published": "2026-07-23T20:44:17+00:00"
         }
       ]
     },
