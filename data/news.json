@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-07-24T19:23:36.777078+00:00",
+  "generated_at": "2026-07-24T22:03:39.022677+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "L'Iran revendique des attaques de drones contre le Bahreïn, la Jordanie et le Koweït",
+          "link": "https://www.france24.com/fr/moyen-orient/20260724-l-iran-revendique-des-attaques-de-drones-contre-le-bahre%C3%AFn-la-jordanie-et-le-kowe%C3%AFt",
+          "source": "France 24",
+          "summary": "Après de nouvelles frappes américaines sur le territoire iranien, l'Iran a lancé, vendredi, des attaques de drones sur ses voisins du Golfe au Bahreïn, en Jordanie et au Koweït. Dans la soirée, l'Arabie saoudite a lancé…",
+          "published": "2026-07-24T20:51:45+00:00"
+        },
+        {
+          "title": "Karim Khan, procureur général de la CPI, démis de ses fonctions après des accusations d’agression sexuelle",
+          "link": "https://www.lemonde.fr/international/article/2026/07/24/karim-khan-procureur-general-de-la-cpi-demis-de-ses-fonctions-apres-des-accusations-d-agression-sexuelle_6731579_3210.html",
+          "source": "Le Monde",
+          "summary": "Le Britannique était visé par une procédure disciplinaire pour faute grave, liée à des accusations d’une collaboratrice. Cette décision survient au moment où la juridiction fait face à une pression croissante des…",
+          "published": "2026-07-24T20:51:18+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : la Russie prépare « une nouvelle attaque massive » contre le pays dans les quarante-huit heures, selon Volodymyr Zelensky",
           "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-la-russie-prepare-une-nouvelle-attaque-massive-contre-l-ukraine-dans-les-quarante-huit-heures-selon-volodymyr-zelensky_6725306_3210.html",
@@ -40,10 +54,10 @@
           "published": "2026-07-24T18:28:06+00:00"
         },
         {
-          "title": "Le procureur général de la CPI Karim Khan démis de ses fonctions, selon plusieurs sources",
+          "title": "Le procureur général de la CPI Karim Khan démis de ses fonctions",
           "link": "https://www.france24.com/fr/europe/20260724-le-procureur-g%C3%A9n%C3%A9ral-de-la-cpi-karim-khan-d%C3%A9mis-de-ses-fonctions-selon-plusieurs-sources",
           "source": "France 24",
-          "summary": "Le procureur général de la Cour pénale internationale, Karim Khan, a été démis, vendredi, de ses fonctions suite à des allégations de harcèlement sexuel sur une membre de son équipe, ont indiqué des diplomates à…",
+          "summary": "Le procureur général de la Cour pénale internationale, Karim Khan, a été démis, vendredi, de ses fonctions suite à des allégations de harcèlement sexuel sur une membre de son équipe. L'avocat britannique de 56 ans, qui…",
           "published": "2026-07-24T17:47:10+00:00"
         },
         {
@@ -59,20 +73,6 @@
           "source": "France 24",
           "summary": "Des feux ravagent plusieurs régions du monde. La France, récemment frappée par trois canicules consécutives, lutte toujours contre deux incendies majeurs. Des catastrophes liées au dérèglement climatique, dont l'origine…",
           "published": "2026-07-24T17:17:53+00:00"
-        },
-        {
-          "title": "En Guinée, une mobilisation en ligne inédite après les viols de jeunes filles mineures",
-          "link": "https://www.lemonde.fr/afrique/article/2026/07/24/en-guinee-une-mobilisation-en-ligne-inedite-apres-les-viols-de-jeunes-filles-mineures_6731536_3212.html",
-          "source": "Le Monde",
-          "summary": "La diffusion de vidéos montrant des viols collectifs d’adolescentes, dans la région de Kankan, a provoqué une forte émotion. Une information judiciaire est ouverte depuis avril, mais la volonté des familles de faire…",
-          "published": "2026-07-24T17:00:06+00:00"
-        },
-        {
-          "title": "Royaume-Uni : quatre jours après son arrivée à Downing Street, Andy Burnham déjà dans la tourmente",
-          "link": "https://www.lemonde.fr/international/article/2026/07/24/royaume-uni-quatre-jours-apres-son-arrivee-a-downing-street-andy-burnham-deja-dans-la-tourmente_6731531_3210.html",
-          "source": "Le Monde",
-          "summary": "C’est déjà la fin de l’état de grâce pour le nouveau premier ministre britannique, Andy Burnham. Le chef de file des travaillistes s’attire les critiques sur le financement de ses premières mesures, dans un contexte…",
-          "published": "2026-07-24T16:30:09+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Omnium Banque Nationale | Sinner et Djokovic font l’impasse sur Montréal",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-07-24/omnium-banque-nationale/sinner-et-djokovic-font-l-impasse-sur-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Rougeole | L’épidémie atteint un niveau jamais vu en 35 ans aux États-Unis",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-07-24/rougeole/l-epidemie-atteint-un-niveau-jamais-vu-en-35-ans-aux-etats-unis.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Tennis Canada a confirmé vendredi que l’Italien Jannik Sinner et le Serbe Novak Djokovic feront l’impasse sur le volet masculin de l’Omnium Banque Nationale, présenté à Montréal le mois prochain.",
-          "published": "2026-07-24T18:31:23+00:00"
+          "summary": "Les États-Unis ont enregistré en 2026 leur pire épidémie de rougeole en 35 ans, selon un décompte officiel vendredi, cette maladie grave et contagieuse opérant depuis plus d’un an un puissant retour en force, sur fond…",
+          "published": "2026-07-24T21:59:23+00:00"
         },
         {
-          "title": "Le nombre de suicides attribuables au climat risque d’augmenter, prévient une étude",
-          "link": "https://www.ledevoir.com/actualites/sante/997226/nombre-suicides-attribuables-climat-risque-augmenter-previent-etude",
-          "source": "Le Devoir",
-          "summary": "La chaleur peut exacerber des problèmes de santé mentale préexistants.",
-          "published": "2026-07-24T18:13:36+00:00"
-        },
-        {
-          "title": "Le Québec invite les autres provinces à se joindre à sa bourse du carbone",
-          "link": "https://www.ledevoir.com/politique/canada/997223/quebec-demande-autres-provinces-joindre-bourse-carbone",
-          "source": "Le Devoir",
-          "summary": "Un plan doit être établi d’ici l’été 2027 pour trouver comment relier les différents marchés du carbone au Canada.",
-          "published": "2026-07-24T18:12:00+00:00"
-        },
-        {
-          "title": "Cacher ses revenus pour se soustraire à une pension alimentaire? Pas une bonne idée.",
-          "link": "https://www.ledevoir.com/actualites/justice/997220/cacher-revenus-soustraire-pension-alimentaire-pas-bonne-idee",
-          "source": "Le Devoir",
-          "summary": "Les jeux de cache-cache doivent cesser, la situation finissant toujours par rattraper le parent fautif, assène un juge.",
-          "published": "2026-07-24T18:03:00+00:00"
-        },
-        {
-          "title": "Une candidate transgenre de QS se retire en raison de propos homophobes",
-          "link": "https://www.ledevoir.com/politique/quebec/997178/candidate-transgenre-qs-retire-raison-propos-homophobes",
-          "source": "Le Devoir",
-          "summary": "Vanessa Durand, qui se présentait dans Westmount-Saint-Louis, s’est attaquée aux personnes «queers» qui appuient le PQ.",
-          "published": "2026-07-24T16:43:00+00:00"
-        },
-        {
-          "title": "Trump sera de retour ce soir au gala de la presse, trois mois après le chaos d’avril",
-          "link": "https://www.ledevoir.com/monde/etats-unis/997172/trump-sera-retour-ce-soir-gala-presse-trois-mois-apres-chaos-avril",
-          "source": "Le Devoir",
-          "summary": "Une fusillade avait éclaté lors de la précédente édition, possiblement une tentative d’assassinat du président.",
-          "published": "2026-07-24T16:24:24+00:00"
-        },
-        {
-          "title": "Fillette tuée dans l’État de New York | Un enregistrement expose des failles dans le récit du père",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-24/fillette-tuee-dans-l-etat-de-new-york/un-enregistrement-expose-des-failles-dans-le-recit-du-pere.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Élection partielle fédérale | Daniel Gobeil sera le candidat libéral dans Chicoutimi–Le Fjord",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-07-24/election-partielle-federale/daniel-gobeil-sera-le-candidat-liberal-dans-chicoutimi-le-fjord.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "À peine quelques heures après la disparition de Melina Frattolin, les premières failles apparaissaient dans le récit de son père. Luciano Frattolin, accusé de meurtre au deuxième degré, semblait incapable de guider les…",
-          "published": "2026-07-24T16:08:37+00:00"
+          "summary": "Le Parti libéral du Canada a annoncé la nomination de Daniel Gobeil, bachelier en agronomie et producteur laitier, comme candidat libéral dans Chicoutimi–Le Fjord.",
+          "published": "2026-07-24T21:49:56+00:00"
         },
         {
-          "title": "Oliver Jones, feux de forêt et tarifs douaniers américains: le Défi de l’info du 24 juillet 2026",
-          "link": "https://www.ledevoir.com/actualites/997139/oliver-jones-feux-foret-tarifs-douaniers-americains-defi-info-24-juillet-2026",
-          "source": "Le Devoir",
-          "summary": "Venez tester vos connaissances de l’actualité en 10 questions.",
-          "published": "2026-07-24T16:00:00+00:00"
-        },
-        {
-          "title": "Déluge en juin à Montréal | Un mois plus tard, les inondés ramassent toujours les dégâts",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-24/deluge-en-juin-a-montreal/un-mois-plus-tard-les-inondes-ramassent-toujours-les-degats.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Montréal | Le Mousso fermera ses portes",
+          "link": "https://www.lapresse.ca/gourmand/restaurants/2026-07-24/montreal/le-mousso-fermera-ses-portes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Un mois après les pluies diluviennes de juin qui ont causé des inondations, des restes du sinistre traînent toujours à Pierrefonds-Roxboro, dans l’ouest de l’île de Montréal. Des montagnes de débris de planchers et de…",
-          "published": "2026-07-24T16:00:00+00:00"
+          "summary": "Le restaurant Mousso servira ses derniers clients le 22 août prochain. Après 11 ans à tenir l’une des grandes tables de la scène culinaire montréalaise, les propriétaires Katerine Mousseau et Antonin Mousseau-Rivard…",
+          "published": "2026-07-24T21:38:04+00:00"
         },
         {
-          "title": "Les séjours à l’urgence sont plus longs cet été que l’an dernier au Québec",
-          "link": "https://www.ledevoir.com/actualites/sante/997145/sejours-urgence-sont-plus-longs-cet-ete-ete-dernier-quebec",
+          "title": "Les trois actus du 24 juillet",
+          "link": "https://www.ledevoir.com/actualites/997253/trois-actus-24-juillet",
           "source": "Le Devoir",
-          "summary": "En juin, les patients à l’urgence avant d’être hospitalisés y ont passé 1h30 de plus qu’à pareille date en 2025.",
-          "published": "2026-07-24T15:57:00+00:00"
+          "summary": "Marchés du carbone au Canada, transfert des chirurgies et immigration via la Coupe du monde: ce qu’il faut retenir.",
+          "published": "2026-07-24T20:24:59+00:00"
+        },
+        {
+          "title": "Appels à rétablir les lignes de bus abolies pour faire place au REM",
+          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/997247/appels-retablir-lignes-bus-abolies-faire-place-rem",
+          "source": "Le Devoir",
+          "summary": "Les pannes répétées «ébranlent la confiance des usagers», affirme la mairesse de Brossard, Doreen Assaad.",
+          "published": "2026-07-24T19:49:00+00:00"
+        },
+        {
+          "title": "Chez un investisseur en cryptomonnaie | Un troisième suspect arrêté en lien avec une invasion de domicile",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-24/chez-un-investisseur-en-cryptomonnaie/un-troisieme-suspect-arrete-en-lien-avec-une-invasion-de-domicile.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "En voulant s’en prendre à un investisseur en cryptomonnaie, un jeune suspect aurait tiré un projectile d’arme à feu sur son complice lors d’une invasion à domicile qui s’est produite l’hiver dernier. La police de…",
+          "published": "2026-07-24T19:39:04+00:00"
+        },
+        {
+          "title": "Québec renvoie la balle à Santé Québec quant au transfert au privé des chirurgies en attente",
+          "link": "https://www.ledevoir.com/politique/quebec/997244/quebec-renvoie-balle-sante-quebec-transferts-chirurgies-prive",
+          "source": "Le Devoir",
+          "summary": "C’est à la société d’État de livrer la promesse de faire appel au privé après un an, dit le gouvernement.",
+          "published": "2026-07-24T19:32:00+00:00"
+        },
+        {
+          "title": "Le Canada inaugure seul le pont Gordie Howe à la frontière avec les États-Unis",
+          "link": "https://www.ledevoir.com/actualites/997238/canada-inaugure-seul-pont-gordie-howe-frontiere-etats-unis",
+          "source": "Le Devoir",
+          "summary": "La cérémonie conjointe a été annulée à cause de l’intention de Trump d’imposer davantage de droits de douane.",
+          "published": "2026-07-24T19:18:00+00:00"
+        },
+        {
+          "title": "La FMSQ se défend sur l’iniquité salariale dans les spécialités à majorité féminine",
+          "link": "https://www.ledevoir.com/actualites/sante/997232/fmsq-defend-iniquite-salariale-specialites-majorite-feminine",
+          "source": "Le Devoir",
+          "summary": "La veille, l’Association des gynécologues et obstétriciens a déposé un recours à la Cour supérieure contre la FMSQ.",
+          "published": "2026-07-24T19:04:29+00:00"
+        },
+        {
+          "title": "Sinner et Djokovic font l’impasse sur l’Omnium Banque Nationale à Montréal",
+          "link": "https://www.ledevoir.com/sports/997229/sinner-djokovic-font-impasse-omnium-banque-nationale-montreal",
+          "source": "Le Devoir",
+          "summary": "Le Québécois Félix Auger-Aliassime sera donc la deuxième tête de série du tournoi.",
+          "published": "2026-07-24T18:33:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Incendie : visualisez en carte les feux de forêt en cours près du bassin d’Arcachon",
-          "link": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260723",
+          "title": "« Après quelques heures, si personne ne se manifeste, nous les retirons » : en Grèce, sur l’île de Kos, la guerre des transats, symptôme d’un tourisme de masse à bout de souffle",
+          "link": "https://www.lefigaro.fr/conjoncture/apres-quelques-heures-si-personne-ne-se-manifeste-nous-les-retirons-en-grece-sur-l-ile-de-kos-la-guerre-des-transats-symptome-d-un-tourisme-de-masse-a-bout-de-souffle-20260724",
           "source": "Le Figaro",
-          "summary": "CARTE - Le feu qui sévit en Gironde depuis mercredi a désormais parcouru plus de 14.000 hectares. Visualisez les zones touchées et l’évolution de la situation grâce à notre carte en direct.",
-          "published": "2026-07-24T19:21:02+00:00"
+          "summary": "REPORTAGE - Applis de réservation, mise en place de surveillants… Les résidences hôtelières cherchent la parade à ce phénomène devenu récurrent chaque été, où, dès l’aube, les vacanciers se précipitent pour déposer leur…",
+          "published": "2026-07-24T21:59:52+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies : 14 000 hectares parcourus en Gironde, la pluie fait son apparition",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
-          "source": "Liberation",
-          "summary": "Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union européenne.",
-          "published": "2026-07-24T19:20:51+00:00"
+          "title": "Incendies : Sébastien Lecornu annonce l'arrivée de 500 militaires supplémentaires en Gironde, où 1,5 million de masques FFP2 vont être acheminés \"dès cette nuit\"",
+          "link": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Plus de 19 000 hectares ont déjà été dévorés par les flammes en Gironde et les incendies se dirigent désormais vers la métropole bordelaise, selon la préfète de Nouvelle-Aquitaine, qui a annoncé des évacuations…",
+          "published": "2026-07-24T21:57:45+00:00"
         },
         {
-          "title": "Paris : un homme tué d’un coup de couteau après une rixe dans le 10e arrondissement, trois blessés",
-          "link": "https://www.lefigaro.fr/faits-divers/paris-un-homme-tue-d-un-coup-de-couteau-apres-une-rixe-dans-le-10e-arrondissement-trois-blesses-20260724",
-          "source": "Le Figaro",
-          "summary": "Une altercation survenue entre la rue Lafayette et le quai de Valmy, à Paris, a dégénéré en attaque au couteau. Le parquet a ouvert une enquête pour homicide volontaire et violences aggravées.",
-          "published": "2026-07-24T19:18:13+00:00"
-        },
-        {
-          "title": "Des incendies «hors norme», vraiment ?",
-          "link": "https://www.liberation.fr/idees-et-debats/editorial/des-incendies-hors-norme-vraiment-20260724_VW5WVSW2RBFUNLQMI3ALZMQOJI/",
-          "source": "Liberation",
-          "summary": "Ces deux mots disent bien ce qu’ils veulent dire, les feux auxquels nous assistons sont exceptionnels. Mais ces phénomènes qui débordent des mois d’été, les surfaces cramées plus grandes et les territoires à risques…",
-          "published": "2026-07-24T19:10:27+00:00"
-        },
-        {
-          "title": "«C’était effrayant» : en Gironde et dans les Landes, deux «ogres» de feu dévorent tout sur leur passage",
-          "link": "https://www.liberation.fr/environnement/cetait-effrayant-en-gironde-et-dans-les-landes-deux-ogres-de-feu-devorent-tout-sur-leur-passage-20260724_427JRR2BGZAXJI3DXEDMVOSWWI/",
-          "source": "Liberation",
-          "summary": "Déclenchés mercredi et jeudi, les incendies ravagent toujours, vendredi soir, cette partie du Sud-Ouest et ont déjà forcé l’évacuation de 110 000 personnes, en pleine saison touristique.",
-          "published": "2026-07-24T19:10:22+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies : les autorités vont «tout faire pour protéger» la ville de Bordeaux, déclare le ministre de l’Intérieur",
+          "title": "EN DIRECT - Incendies : Emmanuel Macron demande aux Armées de «venir en renfort maximal de la sécurité civile»",
           "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
           "source": "Le Figaro",
-          "summary": "Le préfet de Gironde va ordonner l’évacuation de communes de l’agglomération bordelaise, a déclaré Laurent Nunez, qui précise que 110.000 évacuations et 14.000 hectares ont été parcourus par le feu dans le Sud-Ouest.",
-          "published": "2026-07-24T19:08:56+00:00"
+          "summary": "Par ailleurs, le préfet de Gironde va ordonner l’évacuation de communes de l’agglomération bordelaise. De son côté, Laurent Nunez a précisé que 110.000 évacuations et 14.000 hectares ont été parcourus par le feu dans le…",
+          "published": "2026-07-24T21:46:03+00:00"
         },
         {
-          "title": "Guerre au Moyen-Orient : les Houthis affirment ne pas chercher à bloquer le détroit de Bab-el-Mandeb, après une attaque visant un navire saoudien",
+          "title": "Guerre en Ukraine : Kiev a des renseignements \"clairs\" indiquant que Moscou prépare une mobilisation militaire, affirme Volodymyr Zelensky",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-a-des-renseignements-clairs-indiquant-que-moscou-prepare-une-mobilisation-militaire-affirme-volodymyr-zelensky_8121251.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Cette nouvelle vague de mobilisation russe devrait survenir à l'automne, selon le président ukrainien, qui prévient que son homologue russe Vladimir Poutine \"a toujours l'intention d'étendre cette guerre\".",
+          "published": "2026-07-24T21:44:14+00:00"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : des sites militaires houthis visés au Yémen par la coalition menée par l'Arabie Saoudite",
           "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Les rebelles houthis avaient annoncé lundi vouloir entraver le trafic en mer Rouge et dans le golfe d'Aden des navires d'Arabie saoudite, premier exportateur mondial de brut. Ils l'avaient déjà fait pendant la guerre de…",
-          "published": "2026-07-24T19:07:56+00:00"
+          "published": "2026-07-24T21:28:38+00:00"
         },
         {
-          "title": "Incendies : 110 000 personnes évacuées en Gironde, annonce Laurent Nuñez, plus de 14 000 hectares parcourus par le feu",
-          "link": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Pour l'heure, \"les conditions météorologiques restent défavorables avec des rafales de vent attendues jusqu'à 80 km/h et des orages secs qui pourraient éclater localement\", a souligné la préfecture de Gironde. D'autres…",
-          "published": "2026-07-24T19:07:32+00:00"
-        },
-        {
-          "title": "Accusé d’agression sexuelle, le procureur général de la CPI Karim Khan est relevé de ses fonctions",
-          "link": "https://www.liberation.fr/international/moyen-orient/accuse-dagression-sexuelle-le-procureur-general-de-la-cpi-karim-khan-est-releve-de-ses-fonctions-20260724_W4F6JRWA2JBP3LTT7HAYS24TAY/",
+          "title": "EN DIRECT - Incendies : 19 000 hectares parcourus en Gironde, la préfecture annonce des évacuations près de Bordeaux",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/",
           "source": "Liberation",
-          "summary": "Au bout d’un vote qui s’annonçait incertain, les Etats membres de la Cour pénale internationale ont assez largement approuvé la destitution de l’ex-avocat britannique de 56 ans, vendredi 24 juillet.",
-          "published": "2026-07-24T19:05:18+00:00"
+          "summary": "Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union européenne.",
+          "published": "2026-07-24T20:57:46+00:00"
         },
         {
-          "title": "Un surveillant de collège de 24 ans mis en examen pour viol sur mineur dans le Pas-de-Calais",
-          "link": "https://www.franceinfo.fr/faits-divers/un-surveillant-de-college-de-24-ans-mis-en-examen-pour-viol-sur-mineur-dans-le-pas-de-calais_8121200.html#xtor=RSS-3-[lestitres]",
+          "title": "Le Venezuela annonce son retrait \"définitif\" de la Cour pénale internationale, accusée de concentrer son action sur les pays africains et latino-américains",
+          "link": "https://www.franceinfo.fr/monde/venezuela/le-venezuela-annonce-son-retrait-definitif-de-la-cour-penale-internationale-accusee-de-concentrer-son-action-sur-les-pays-africains-et-latino-americains_8121266.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les faits dénoncés ont eu lieu lors de l'année scolaire qui vient de s'achever entre septembre 2025 et juin 2026.",
-          "published": "2026-07-24T18:58:17+00:00"
+          "summary": "Visé par une enquête pour de possibles crimes contre l'humanité commis sous la présidence de Nicolas Maduro, le pays d'Amérique latine juge que la juridiction internationale aggrave \"les inégalités entre les peuples\".",
+          "published": "2026-07-24T20:55:24+00:00"
+        },
+        {
+          "title": "Anthropic sort Claude Opus 5, un modèle d’IA présenté comme moins dangereux pour la cybersécurité",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/anthropic-sort-une-nouvelle-intelligence-artificielle-presentee-comme-moins-dangereuse-pour-la-cybersecurite-20260724",
+          "source": "Le Figaro",
+          "summary": "Selon Anthropic, Opus 5 «s’approche des capacités de Fable 5 dans de nombreux domaines, pour la moitié du prix», selon un communiqué.",
+          "published": "2026-07-24T20:41:17+00:00"
+        },
+        {
+          "title": "Le procureur de la CPI Karim Khan, visé par des allégations d'agression sexuelle, relevé de ses fonctions",
+          "link": "https://www.franceinfo.fr/societe/justice/le-procureur-de-la-cpi-karim-khan-vise-par-des-allegations-d-agression-sexuelle-releve-de-ses-fonctions_8121227.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'Assemblée des 125 Etats membres de la Cour pénale internationale (CPI) a décidé vendredi de relever de ses fonctions le magistrat britannique, accusé par une de ses anciennes collaboratrice. Il va \"contester\" cette…",
+          "published": "2026-07-24T20:40:48+00:00"
+        },
+        {
+          "title": "Les figures de l’IA «font peur aux gens» : les confidences de Jensen Huang, l’homme le plus puissant du monde de la tech",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/les-figures-de-l-ia-font-peur-aux-gens-les-confidences-de-jensen-huang-l-homme-le-plus-puissant-du-monde-de-la-tech-20260724",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - Le patron de Nvidia, à la tête de l’entreprise la plus valorisée au monde, a estimé dans un long entretien vidéo que le monde de la tech devait «absolument» utiliser les modèles chinois, malgré les…",
+          "published": "2026-07-24T20:40:42+00:00"
         }
       ]
     },
