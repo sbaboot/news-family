@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-07-24T05:49:43.811963+00:00",
+  "generated_at": "2026-07-24T08:26:01.651972+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En Cisjordanie, un Israélien et quatre Palestiniens tués dans des affrontements",
+          "link": "https://www.lemonde.fr/international/article/2026/07/24/en-cisjordanie-un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements_6731473_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon les forces de l’Etat hébreu, des randonneurs ont été pris pour cibles près d’une colonie du nord du territoire. Benyamin Nétanyahou doit réunir les responsables des services de sécurité pour « discuter des…",
+          "published": "2026-07-24T08:20:34+00:00"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : après les attaques en mer Rouge, le baril de pétrole remonte au-dessus des 100 dollars",
+          "link": "https://www.lemonde.fr/economie/article/2026/07/24/guerre-au-moyen-orient-apres-les-attaques-en-mer-rouge-le-baril-de-petrole-remonte-au-dessus-des-100-dollars_6731472_3234.html",
+          "source": "Le Monde",
+          "summary": "Pour contourner le détroit d’Ormuz, l’Arabie saoudite a réorienté une très large part de ses exportations de brut vers le détroit de Bab Al-Mandeb (Yémen), à l’entrée de la mer Rouge, menacée à son tour de blocage.",
+          "published": "2026-07-24T08:08:36+00:00"
+        },
+        {
+          "title": "Espagne : les incendies qui font rage dans la région de Madrid ne sont « toujours pas maîtrisés ni contenus »",
+          "link": "https://www.lemonde.fr/international/article/2026/07/24/espagne-les-incendies-qui-font-rage-dans-la-region-de-madrid-ne-sont-toujours-pas-maitrises-ni-contenus_6731471_3210.html",
+          "source": "Le Monde",
+          "summary": "« Les conditions météorologiques, principalement le vent, compliqueront les opérations d’extinction ce vendredi », a fait savoir la région de Madrid, vendredi matin.",
+          "published": "2026-07-24T07:55:50+00:00"
+        },
+        {
+          "title": "🔴 En direct : plus de 10 000 hectares de forêt ravagés dans le Sud-Ouest, le Cap-Ferret évacué",
+          "link": "https://www.france24.com/fr/france/20260724-feux-for%C3%AAts-en-direct-10-000-hectares-ravag%C3%A9s-sud-ouest-cap-ferret-%C3%A9vacu%C3%A9",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-07-24T07:42:51+00:00"
+        },
+        {
+          "title": "En Inde, le gouvernement peine à désamorcer un mouvement de contestation qui cible désormais Narendra Modi",
+          "link": "https://www.lemonde.fr/international/article/2026/07/24/en-inde-le-gouvernement-peine-a-desamorcer-un-mouvement-de-contestation-qui-cible-desormais-narendra-modi_6731469_3210.html",
+          "source": "Le Monde",
+          "summary": "Après avoir tenté d’ignorer la mobilisation étudiante des « cafards » dénonçant la corruption du système éducatif, le premier ministre, Narendra Modi, se voit de plus en plus mis en cause, alors que les partis…",
+          "published": "2026-07-24T07:31:06+00:00"
+        },
+        {
+          "title": "Russie : des drones ukrainiens touchent un entrepôt d'e-commerce à Saint-Pétersbourg",
+          "link": "https://www.france24.com/fr/europe/20260724-russie-drones-ukrainiens-touchent-entrep%C3%B4t-commerce-saint-p%C3%A9tersbourg",
+          "source": "France 24",
+          "summary": "Un entrepôt du géant du e-commerce Wildberries a été visé vendredi par des drones ukrainiens près de Saint-Pétersbourg. C'est la troisième attaque récente contre \"l'Amazon de la Russie\", accusé par Kiev de stocker et…",
+          "published": "2026-07-24T06:34:37+00:00"
+        },
+        {
+          "title": "Les Etats membres de la CPI s’apprêtent à décider du sort de son procureur, suspendu pour un « usage abusif de pouvoir ou d’autorité » sur son assistante",
+          "link": "https://www.lemonde.fr/international/article/2026/07/24/les-etats-membres-de-la-cpi-s-appretent-a-decider-du-sort-de-son-procureur-suspendu-pour-un-usage-abusif-de-pouvoir-ou-d-autorite-sur-son-assistante_6731464_3210.html",
+          "source": "Le Monde",
+          "summary": "Dans un contexte d’attaques américaines contre la Cour pénale internationale, les Etats membres de la juridiction votent, vendredi 24 juillet, pour ou contre la révocation de Karim Khan.",
+          "published": "2026-07-24T06:30:09+00:00"
+        },
+        {
+          "title": "🔴 En direct : nouvelles frappes américaines en Iran, pour la treizième nuit consécutive",
+          "link": "https://www.france24.com/fr/moyen-orient/20260724-en-direct-moyen-orient-iran-etats-unis-frappes-petrole-houthis-ormuz",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-07-24T06:02:20+00:00"
+        },
         {
           "title": "Tour de France : l'Équatorien Richard Carapaz s'impose en solitaire sur la 18e étape",
           "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260724-tour-de-france-%C3%A9quatorien-richard-carapaz-s-impose-solitaire-18e-%C3%A9tape",
@@ -17,62 +73,6 @@
           "source": "Le Monde",
           "summary": "Cinq ans après l’arrivée au pouvoir du président Kaïs Saïed, l’Etat tunisien est fragilisé par la destruction du système issu de la révolution de 2011, conjuguée à l’absence d’un modèle alternatif durable, analyse le…",
           "published": "2026-07-24T05:00:07+00:00"
-        },
-        {
-          "title": "Voix de femmes en Afghanistan avec Elise Blanchard au coeur d’une famille talibane",
-          "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260724-voix-de-femmes-en-afghanistan-avec-elise-blanchard-au-coeur-d-une-famille-talibane",
-          "source": "RFI",
-          "summary": "Chaque mois, Voix de femmes met en avant des femmes aux parcours singuliers, inspirants ou méconnus. Chaque épisode rassemble plusieurs portraits, racontés dans le but de révéler la force, la créativité et la résilience…",
-          "published": "2026-07-24T05:00:06+00:00"
-        },
-        {
-          "title": "Au Yémen, dans le détroit de Bab Al-Mandab, la menace d’un nouveau front de la guerre en Iran",
-          "link": "https://www.lemonde.fr/international/article/2026/07/24/au-yemen-dans-le-detroit-de-bab-al-mandab-la-menace-d-un-nouveau-front-de-la-guerre-en-iran_6731426_3210.html",
-          "source": "Le Monde",
-          "summary": "​Les houthistes, qui avaient annoncé, lundi, un blocus des ports saoudiens, ont revendiqué, mercredi soir, une attaque en mer Rouge contre deux pétroliers d’Arabie saoudite. L’Iran comme les houthistes font le pari que…",
-          "published": "2026-07-24T04:47:26+00:00"
-        },
-        {
-          "title": "« Jos le joufflu », le baron néerlandais de la cocaïne devenu vice-roi de Sierra Leone",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/24/jos-le-joufflu-le-baron-neerlandais-de-la-cocaine-devenu-vice-roi-de-sierra-leone_6731425_3451060.html",
-          "source": "Le Monde",
-          "summary": "« L’Afrique sous emprise » (5/6). Condamné aux Pays-Bas à sept années de détention dans une affaire d’importation de 11 tonnes de cocaïne, Jos Leijdekkers, gendre du président sierra-léonais, organise son trafic en…",
-          "published": "2026-07-24T04:30:10+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont visé de nouvelles installations militaires en Iran, pour la treizième nuit de suite",
-          "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-vise-de-nouvelles-installations-militaires-en-iran-pour-la-treizieme-nuit-de-suite_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "Le détroit d’Ormuz « reste ouvert au transit malgré les récentes attaques menées par le corps des gardiens de la révolution islamique iranien », affirme l’armée américaine qui dit avoir notamment ciblé des centres de…",
-          "published": "2026-07-24T04:15:59+00:00"
-        },
-        {
-          "title": "Au Brésil, le port de Pecem se rêve en champion mondial de l’hydrogène vert",
-          "link": "https://www.lemonde.fr/economie/article/2026/07/24/au-bresil-le-port-de-pecem-se-reve-en-champion-mondial-de-l-hydrogene-vert_6731423_3234.html",
-          "source": "Le Monde",
-          "summary": "« La ruée sur les ports » (15/16). Le président Lula ambitionne de transformer le port du Nordeste brésilien, une région où la production d’énergies renouvelables est abondante, en un vaste hub d’exportation d’hydrogène…",
-          "published": "2026-07-24T04:00:35+00:00"
-        },
-        {
-          "title": "En Russie, les autorités tentent de recruter des étudiants pour pallier le manque de soldats dans les régiments de dronistes",
-          "link": "https://www.lemonde.fr/international/article/2026/07/24/en-russie-les-autorites-tentent-de-recruter-des-etudiants-pour-pallier-le-manque-de-soldats-dans-les-regiments-de-dronistes_6731422_3210.html",
-          "source": "Le Monde",
-          "summary": "Alors que la rumeur d’une nouvelle vague de mobilisation enfle sur les réseaux sociaux, le Kremlin impose aux universités de fournir 2 % de leurs effectifs au service de sa guerre contre l’Ukraine.",
-          "published": "2026-07-24T04:00:25+00:00"
-        },
-        {
-          "title": "En Albanie, la « révolution des flamants roses » donne des ailes à la jeunesse",
-          "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/24/en-albanie-la-revolution-des-flamants-roses-donne-des-ailes-a-la-jeunesse_6731419_4500055.html",
-          "source": "Le Monde",
-          "summary": "Depuis la fin mai, des manifestations antigouvernementales, nées de la contestation des projets immobiliers du clan Trump sur une île du pays, rassemblent des milliers d’Albanais. Parmi eux, une grande partie de la «…",
-          "published": "2026-07-24T04:00:05+00:00"
-        },
-        {
-          "title": "OpenLux : comment le Luxembourg est devenu l’incontournable porte d’entrée financière de la Chine dans l’UE",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/24/openlux-comment-le-luxembourg-est-devenu-l-incontournable-porte-d-entree-financiere-de-la-chine-dans-l-ue_6731418_4355770.html",
-          "source": "Le Monde",
-          "summary": "Pékin a tiré avantage du Luxembourg pour investir massivement des dizaines de milliards d’euros. En acquérant des fleurons technologiques ou de l’immobilier stratégique, il a tissé une toile qui bouscule la souveraineté…",
-          "published": "2026-07-24T04:00:04+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Guerre au Moyen-Orient : «13e nuit consécutive» de bombardements américains en Iran, le pétrole au-dessus des 100 dollars",
+          "title": "Le gouvernement engage de nouveaux transferts de remboursements de soins vers les mutuelles, indique la ministre de la Santé",
+          "link": "https://www.lefigaro.fr/social/le-gouvernement-engage-de-nouveaux-transferts-de-remboursements-de-soins-vers-les-mutuelles-indique-la-ministre-de-la-sante-20260724",
+          "source": "Le Figaro",
+          "summary": "Stéphanie Rist a annoncé l’envoi de projets de décrets visant à réduire la part prise en charge par l’Assurance maladie sur certains soins, notamment les consultations dentaires, les transports sanitaires et certains…",
+          "published": "2026-07-24T08:19:38+00:00"
+        },
+        {
+          "title": "Feux en France : 32 incendies en cours et 50.000 hectares brûlés depuis début 2026, selon Laurent Nuñez",
+          "link": "https://www.lefigaro.fr/meteo/feux-en-france-32-incendies-en-cours-et-50-000-hectares-brules-depuis-debut-2026-selon-laurent-nunez-20260724",
+          "source": "Le Figaro",
+          "summary": "«On a dépassé le seuil des 50.000 hectares qui ont été brûlés depuis le 1er janvier de cette année. Donc si vous prenez la référence par rapport à l’an passé, c’est quasiment fois trois», a-t-il indiqué.",
+          "published": "2026-07-24T08:16:22+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies : 40 000 évacués en Gironde et dans les Landes, 32 feux en cours en France",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
+          "source": "Liberation",
+          "summary": "Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap-Ferret est en train d’être vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union…",
+          "published": "2026-07-24T08:15:33+00:00"
+        },
+        {
+          "title": "Incendie : visualisez en carte les feux de forêt en cours près du bassin d’Arcachon",
+          "link": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260723",
+          "source": "Le Figaro",
+          "summary": "CARTE - Le feu qui sévit en Gironde depuis mercredi a désormais parcouru 8.700 hectares. Visualisez les zones touchées et l’évolution de la situation grâce à notre carte en direct.",
+          "published": "2026-07-24T08:08:33+00:00"
+        },
+        {
+          "title": "Feux de forêt: quelles conséquences pour la santé des riverains, et quelles précautions prendre ?",
+          "link": "https://sante.lefigaro.fr/social/sante-publique/incendie-a-marseille-quelles-consequences-pour-la-sante-des-riverains-20250708",
+          "source": "Le Figaro",
+          "summary": "La respiration de fumées émises par les feux de forêt représente un risque sanitaire difficile à évaluer, mais probablement proche d’un pic de pollution intense.",
+          "published": "2026-07-24T08:05:15+00:00"
+        },
+        {
+          "title": "EN DIRECT - «Le plus gros feu en Gironde de la saison» : 10.000 hectares détruits, 40.000 personnes évacuées, 100 maisons brûlées",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
+          "source": "Le Figaro",
+          "summary": "Deux importants feux de forêt sévissent en Nouvelle-Aquitaine, où les feux ont parcouru 10.000 hectares en Gironde et 2500 hectares dans les Landes. Des renforts aériens européens attendus ce vendredi.",
+          "published": "2026-07-24T08:04:39+00:00"
+        },
+        {
+          "title": "Pourquoi l'Ukraine cible des entrepôts du géant de l'e-commerce Wildberries, connu comme l'\"Amazon russe\"",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-l-ukraine-cible-des-entrepots-du-geant-de-l-e-commerce-wildberries-connu-comme-l-amazon-russe_8118971.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Depuis samedi, plusieurs attaques menées par Kiev visent des centres de l'entreprise en Russie. Au moins huit personnes sont mortes.",
+          "published": "2026-07-24T08:03:57+00:00"
+        },
+        {
+          "title": "Cisjordanie : un Israélien et quatre Palestiniens tués dans des affrontements au Nord",
+          "link": "https://www.lefigaro.fr/international/cisjordanie-un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements-au-nord-20260724",
+          "source": "Le Figaro",
+          "summary": "L’armée israélienne a affirmé que des civils israéliens avaient été pris pour cibles avant que l’armée riposte contre les auteurs des tirs.",
+          "published": "2026-07-24T08:03:27+00:00"
+        },
+        {
+          "title": "EN DIRECT - Guerre au Moyen-Orient : le quartier général de la marine des Gardiens de la Révolution touché par des frappes américaines dans le nord de l’Iran",
           "link": "https://www.lefigaro.fr/international/en-direct-conflit-guerre-moyen-orient-iran-etats-unis-frappes-armee-americaine-yemen-houthistes-liban-israel-koweit-20260724",
           "source": "Le Figaro",
           "summary": "Les États-Unis ont lancé vendredi une nouvelle série de frappes en Iran, tandis que les alliés houthis ont ouvert un autre front dans le conflit, revendiquant des attaques en mer Rouge qui font grimper le prix du baril…",
-          "published": "2026-07-24T05:46:03+00:00"
+          "published": "2026-07-24T07:59:03+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies : plusieurs villages évacués au Cap-Ferret, 23.000 personnes contraintes de quitter leur foyer dans les Landes",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
-          "source": "Le Figaro",
-          "summary": "Deux importants feux de forêt sévissent en Nouvelle-Aquitaine, où les feux ont parcouru 4800 hectares en Gironde et 1000 hectares dans les Landes. Des renforts aériens européens attendus ce vendredi.",
-          "published": "2026-07-24T05:45:03+00:00"
-        },
-        {
-          "title": "Formule 1 : Ferrari pour faire trembler Mercedes, Hadjar brille de mille feux, l’avenir d’Ocon en suspens... 5 questions avant le Grand Prix de Hongrie",
-          "link": "https://www.lefigaro.fr/sports/formule-1/formule-1-ferrari-pour-faire-trembler-mercedes-hadjar-brille-de-mille-feux-l-avenir-d-ocon-en-suspens-5-questions-avant-le-grand-prix-de-hongrie-20260724",
-          "source": "Le Figaro",
-          "summary": "Entre un circuit qui correspond bien aux Ferrari, une nouvelle polémique réglementaire et les grosses évolutions d’Aston Martin, le 11e Grand Prix de la saison ne manque pas de piment.",
-          "published": "2026-07-24T05:45:00+00:00"
-        },
-        {
-          "title": "Réseaux sociaux : 69 % des 10-14 ans favorables à l’interdiction pour les moins de 15 ans",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/reseaux-sociaux-69-des-10-14-ans-favorables-a-l-interdiction-pour-les-moins-de-15-ans-20260724",
-          "source": "Le Figaro",
-          "summary": "Selon une étude de l’Arcom, près de sept enfants sur dix âgés de 10 à 14 ans jugent favorable l’interdiction des réseaux sociaux pour les moins de 15 ans. Si une majorité affirme qu’elle respectera la future loi, un…",
-          "published": "2026-07-24T05:40:48+00:00"
-        },
-        {
-          "title": "Le Conseil constitutionnel censure le recours à la généalogie génétique pour les enquêtes criminelles",
-          "link": "https://www.lefigaro.fr/faits-divers/le-conseil-constitutionnel-censure-le-recours-a-la-genealogie-genetique-pour-les-enquetes-criminelles-20260724",
-          "source": "Le Figaro",
-          "summary": "Pour les Sages, «le législateur n’a pas prévu de garanties légales propres» à pouvoir «assurer le droit au respect de la vie privée».",
-          "published": "2026-07-24T05:33:33+00:00"
-        },
-        {
-          "title": "Incendie en Gironde : la préfecture ordonne \"l'évacuation sans délai des premiers villages de la presqu'île du Cap-Ferret\"",
-          "link": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les villages de Claouey, Le Four, Les Jacquets, Petit Piquey et Grand Piquey sont concernés, a-t-elle précisé dans un communiqué publié vendredi vers 3h30.",
-          "published": "2026-07-24T05:33:10+00:00"
-        },
-        {
-          "title": "Bab El-Mandeb, l’autre détroit qui menace d’étrangler le pétrole mondial",
-          "link": "https://www.lefigaro.fr/international/bab-el-mandeb-l-autre-detroit-qui-menace-d-etrangler-le-petrole-mondial-20260723",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Suite à une frappe sur un pétrolier saoudien, les rebelles houthis imposent un blocus naval à Riyad en mer Rouge. Après Ormuz, verrouillé par Téhéran, un second goulet d’étranglement se referme sur le brut…",
-          "published": "2026-07-24T05:31:08+00:00"
-        },
-        {
-          "title": "Sous l’effet des canicules, l’inquiétante hausse des décès chez les animaux de compagnie",
-          "link": "https://www.lefigaro.fr/actualite-france/sous-l-effet-des-canicules-l-inquietante-hausse-des-deces-chez-les-animaux-de-compagnie-20260723",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Sous l’effet des vagues de chaleur successives, les services d’urgences vétérinaires et de pompes funèbres animalières font face à un pic de mortalité inédit sur l’ensemble du territoire.",
-          "published": "2026-07-24T05:16:21+00:00"
-        },
-        {
-          "title": "\"Tout est recouvert d'un centimètre de suie\" : après le passage de l'incendie dans le Var, les habitants constatent les dégâts à Cotignac",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/temoignage-tout-est-recouvert-d-un-centimetre-de-suie-apres-le-passage-de-l-incendie-dans-le-var-les-habitants-constatent-les-degats-a-cotignac_8119343.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Alors que le feu qui s'est déclaré mardi à Pontevès n'est toujours pas fixé, les habitants de Cotignac commencent à regagner leur maison. Ils découvrent parfois ce qu'il en reste.",
-          "published": "2026-07-24T05:13:00+00:00"
-        },
-        {
-          "title": "«Un feu apocalyptique» : 23.000 personnes évacuées dans les Landes, 2500 hectares brûlés à Biscarrosse",
-          "link": "https://www.lefigaro.fr/meteo/un-feu-apocalyptique-23-000-personnes-evacuees-au-total-dans-les-landes-20260724",
-          "source": "Le Figaro",
-          "summary": "Plus de 23.000 personnes ont été évacuées au total dans les Landes en raison d’un incendie, a annoncé vendredi matin le préfet Gilles Clavreul, alors que les flammes continuent à progresser.",
-          "published": "2026-07-24T05:04:26+00:00"
+          "title": "Nouveaux bombardements en Iran, cinq morts en Cisjordanie, le prix du pétrole s’envole… L’actu de la guerre au Moyen-Orient ce vendredi 24 juillet",
+          "link": "https://www.liberation.fr/international/moyen-orient/nouveaux-bombardements-en-iran-cinq-morts-en-cisjordanie-le-prix-du-petrole-senvole-lactu-de-la-guerre-au-moyen-orient-ce-vendredi-24-juillet-20260724_6JQIBEKY4BCXNJ6TAL342IE3DU/",
+          "source": "Liberation",
+          "summary": "L’essentiel des informations du jour sur la guerre entre le Hamas et Israël.",
+          "published": "2026-07-24T07:54:41+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Instagram bannit les utilisateurs qui harcèlent des inconnus avec les lunettes Meta",
-          "link": "https://www.clubic.com/actualite-622561-instagram-bannit-les-utilisateurs-qui-harcelent-des-inconnus-avec-les-lunettes-meta.html",
+          "title": "Google apporte Gemini Live aux vieux Home Mini et Nest Hub, mais seulement pour les abonnés",
+          "link": "https://www.frandroid.com/marques/google/3191475_google-apporte-gemini-live-aux-vieux-home-mini-et-nest-hub-mais-seulement-pour-les-abonnes",
+          "source": "Frandroid",
+          "summary": "Google ouvre Gemini Live aux Google Home Mini et Nest Hub de première génération. La conversation fluide arrive sur ces vieilles enceintes, mais elle reste réservée aux abonnés payants.",
+          "published": "2026-07-24T08:24:52+00:00"
+        },
+        {
+          "title": "Vos téléchargements de jeux sur Xbox vont bientôt devenir beaucoup plus rapides",
+          "link": "https://www.frandroid.com/marques/microsoft/3191385_vos-telechargements-de-jeux-sur-xbox-vont-bientot-devenir-beaucoup-plus-rapides",
+          "source": "Frandroid",
+          "summary": "Vous ne le voyez probablement pas encore, mais Microsoft travaille à doper la vitesse de téléchargement et d'installation des jeux, ainsi que des mises à jour, sur ses Xbox. Voici ce que l'on apprend.",
+          "published": "2026-07-24T08:23:16+00:00"
+        },
+        {
+          "title": "Parce que vous n'en aviez pas assez, Copilot va s'inviter dans Outlook Classic",
+          "link": "https://www.clubic.com/actualite-622585-parce-que-vous-n-en-aviez-pas-assez-copilot-va-s-inviter-dans-outlook-classic.html",
           "source": "Clubic",
-          "summary": "Instagram retire désormais les comptes qui diffusent des vidéos de harcèlement tournées avec les lunettes connectées de Meta, en réaction à la multiplication de contenus filmés à l’insu de passants et de commerçants.",
-          "published": "2026-07-24T05:44:00+00:00"
+          "summary": "Microsoft ajoute une nouvelle entrée à sa feuille de route Microsoft 365 : Outlook classique doit accueillir, à partir d'août 2026, un accès unique à Copilot, calé sur le reste de la suite bureautique.",
+          "published": "2026-07-24T08:22:00+00:00"
         },
         {
-          "title": "☕️ Geekbench 7 : AV1, Whisper, CUDA et de nouveaux tests GPU pour refléter les vrais usages",
-          "link": "https://next.ink/brief-article/geekbench-7-av1-whisper-cuda-et-de-nouveaux-tests-gpu-pour-refleter-les-vrais-usages/",
-          "source": "Next",
-          "summary": "Le fameux outil de benchmark Geekbench est désormais disponible en version 7. Le logiciel, qui sert à mesurer les performances d&#8217;un appareil Windows, macOS, Linux, Android et iOS, revoit ses tests pour mieux…",
-          "published": "2026-07-24T05:38:00+00:00"
+          "title": "Incendies à Biscarrosse, en Gironde et ailleurs en France : Google Maps aide à suivre la localisation des feux en direct",
+          "link": "https://www.numerama.com/tech/2300787-incendies-a-biscarrosse-en-gironde-et-ailleurs-en-france-google-maps-aide-a-suivre-la-localisation-des-feux-en-direct.html",
+          "source": "Numerama",
+          "summary": "La France fait face à un terrible été caniculaire et plusieurs départements affrontent de multiples départs de feux. Pour suivre l'évolution des flammes et éviter les routes barrées, Google Maps intègre une fonction de…",
+          "published": "2026-07-24T08:21:26+00:00"
         },
         {
-          "title": "iPhone : Surfshark dévoile sa nouvelle solution 4-en-1 anti-arnaque [Sponso]",
-          "link": "https://www.frandroid.com/services/vpn/3187383_iphone-surfshark-devoile-sa-nouvelle-solution-4-en-1-anti-arnaque",
+          "title": "Après avoir révolutionné le camion électrique, Tesla confirme l’arrivée du FSD sur son Semi",
+          "link": "https://www.frandroid.com/marques/tesla/3191397_apres-avoir-revolutionne-le-camion-electrique-tesla-confirme-larrivee-du-fsd-sur-son-semi",
           "source": "Frandroid",
-          "summary": "Surfshark vous protège mieux que jamais contre les arnaques avec sa nouvelle interface pour iOS. Découvrez tout ce qu’elle inclut pour à peine 3,35 €/mois (TTC).",
-          "published": "2026-07-24T05:33:00+00:00"
+          "summary": "Tesla le confirme, sa conduite autonome FSD va bientôt débarquer sur son camion électrique, le Semi. Le but&nbsp;? Réduire la fatigue des conducteurs, notamment sur l’autoroute.",
+          "published": "2026-07-24T08:14:45+00:00"
         },
         {
-          "title": "Norton 360 Deluxe passe à 39,99 € la première année, soit -63 % sur le prix de renouvellement",
-          "link": "https://www.clubic.com/bons-plans-621175-norton-360-deluxe-passe-a-39-99-la-premiere-annee-soit--63-sur-le-prix-de-renouvellement.html",
+          "title": "Chrome : Google dit avoir divisé par deux les saccades lors du scroll des pages sur Android",
+          "link": "https://www.frandroid.com/android/3191545_chrome-google-dit-avoir-divise-par-deux-les-saccades-lors-du-scroll-des-pages-sur-android",
+          "source": "Frandroid",
+          "summary": "Google affirme avoir divisé par deux les à-coups de défilement dans Chrome sur Android. Les pages web devraient glisser plus doucement, surtout sur les téléphones un peu justes.",
+          "published": "2026-07-24T08:14:16+00:00"
+        },
+        {
+          "title": "Moins de pannes, meilleure couverture, votre réseau mobile va changer d'ici 2030, voici ce que prépare l'ARCEP",
+          "link": "https://www.clubic.com/actualite-622588-moins-de-pannes-meilleure-couverture-votre-reseau-mobile-va-changer-d-ici-2030-voici-ce-que-prepare-l-arcep.html",
           "source": "Clubic",
-          "summary": "Et avec cette suite de cybersécurité aucune économie n’est faite sur la qualité de ses différentes fonctionnalités.",
-          "published": "2026-07-24T05:30:00+00:00"
+          "summary": "L'ARCEP vient d'ouvrir une nouvelle consultation publique pour redessiner les fréquences mobiles françaises jusqu'en 2035, un chantier qui doit redéfinir la fiabilité du réseau, la couverture internet mobile et le…",
+          "published": "2026-07-24T08:09:00+00:00"
         },
         {
-          "title": "Intersport rend son Nakamura E-Summt Lite encore plus abordable : moins de 1 200 € pour ce VTTAE endurant",
-          "link": "https://www.frandroid.com/bons-plans/3190983_intersport-rend-son-nakamura-e-summt-lite-encore-plus-abordable-moins-de-1-200-e-pour-ce-vttae-endurant",
-          "source": "Frandroid",
-          "summary": "Le Nakamura E-Summit Lite est un VTTAE plus abordable que bien d'autres concurrents. Idéal pour les débutants et les amateurs de balades en forêt ou en montagne, ce modèle est en ce moment proposé à 1 199,99 euros au…",
-          "published": "2026-07-24T05:24:00+00:00"
-        },
-        {
-          "title": "iPhone Utra : Apple pourrait déjà s'emparer de 25 % du marché dès 2026",
-          "link": "https://www.clubic.com/actualite-622570-iphone-utra-apple-pourrait-deja-s-emparer-de-25-du-marche-des-2026.html",
+          "title": "Ce pavé tactile se contrôle avec la langue, les adeptes de l'IA veulent déjà l'adopter",
+          "link": "https://www.clubic.com/actualite-622576-ce-pave-tactile-se-controle-avec-la-langue-les-adeptes-de-l-ia-veulent-deja-l-adopter.html",
           "source": "Clubic",
-          "summary": "Apple n'a encore commercialisé aucun smartphone pliant que les analystes lui prêtent déjà un impact massif sur ce segment. Selon Counterpoint Research, un pliant sur quatre vendu dans le monde cette année pourrait être…",
-          "published": "2026-07-24T05:10:00+00:00"
+          "summary": "Une start-up dédiée aux personnes à mobilité réduite ouvre la vente publique de son pavé tactile actionné par la langue et lance la version bêta d’un micro cutané, deux outils pensés pour les personnes qui ne peuvent…",
+          "published": "2026-07-24T08:05:00+00:00"
         },
         {
-          "title": "« Je ne recommande à personne d’en acheter » : la grogne et le désespoir des utilisateurs de vélos électriques Cowboy six mois après le rachat par Rebirth",
-          "link": "https://www.frandroid.com/marques/cowboy/3181159_je-ne-recommande-a-personne-den-acheter-la-grogne-et-le-desespoir-des-utilisateurs-de-velos-electriques-cowboy-six-mois-apres-le-rachat-par-rebirth",
+          "title": "Microsoft : vous allez enfin pouvoir vous débarrasser de la touche Copilot, mais uniquement sur Windows",
+          "link": "https://www.frandroid.com/marques/microsoft/3191389_microsoft-vous-allez-enfin-pouvoir-vous-debarrasser-de-la-touche-copilot-mais-uniquement-sur-windows",
           "source": "Frandroid",
-          "summary": "Assistance qui se coupe toutes les cinq minutes, connecteur en rupture de stock pendant six mois, service client qui ne répond plus : trois utilisateurs parisiens de vélos électriques Cowboy racontent leur quotidien…",
-          "published": "2026-07-23T18:31:00+00:00"
+          "summary": "C'est une mise à jour qui sonne comme un aveu d'échec. Microsoft va enfin permettre aux utilisateurs de Windows 11 de réassigner la touche Copilot présente sur certains claviers. Ils pourront lui attribuer une autre…",
+          "published": "2026-07-24T08:03:42+00:00"
         },
         {
-          "title": "Menacée de fermeture, cette usine Ford en Europe sauvée in extremis grâce à une alliance avec la Chine et Geely",
-          "link": "https://www.frandroid.com/marques/ford/3190837_menacee-de-fermeture-cette-usine-ford-en-europe-sauvee-in-extremis-grace-a-une-alliance-avec-la-chine-et-geely",
+          "title": "Un faux Claude, hébergé sur le vrai Claude, a piraté des dizaines d’entreprises : on décortique la mécanique de l’attaque",
+          "link": "https://www.numerama.com/cyberguerre/2300799-un-faux-claude-heberge-sur-le-vrai-claude-a-pirate-des-dizaines-dentreprises-on-decortique-la-mecanique-de-lattaque.html",
+          "source": "Numerama",
+          "summary": "Entre le 21 et le 22 juillet 2026, au moins 29 entreprises ont été infectées par un malware après avoir cru télécharger l'application de bureau de Claude… directement depuis claude.ai.",
+          "published": "2026-07-24T08:01:42+00:00"
+        },
+        {
+          "title": "Elegoo lance son premier sécheur de filament le H1 HT parfait complément de la Centauri Carbon 2",
+          "link": "https://www.frandroid.com/produits-android/3190721_elegoo-lance-son-premier-secheur-de-filament-le-h1-ht-parfait-complement-de-la-centauri-carbon-2",
           "source": "Frandroid",
-          "summary": "Ford officialise une alliance avec le chinois Geely pour maintenir en vie son usine d'Almussafes, en Espagne. Une coentreprise doit démarrer sa production en 2028, mais au-delà de l'annonce, le constructeur américain…",
-          "published": "2026-07-23T18:13:50+00:00"
+          "summary": "Elegoo lance son tout premier sécheur de filament, le H1 HT. Un accessoire pensé pour accompagner la Centauri Carbon 2, mais qui fonctionne aussi sur presque toutes les imprimantes 3D du marché.",
+          "published": "2026-07-24T08:00:00+00:00"
         },
         {
-          "title": "« Nous resterons à la pointe » : la pique subtile de Samsung contre Apple juste avant l’iPhone Ultra",
-          "link": "https://www.frandroid.com/marques/3191321_nous-resterons-a-la-pointe-le-tacle-subtil-de-samsung-contre-apple-juste-avant-liphone-ultra",
+          "title": "Déjà 800 € de remise pour le Galaxy Z Fold 8 : c’est chez Boulanger que le nouveau pliant au format passeport de Samsung est au meilleur prix",
+          "link": "https://www.frandroid.com/bons-plans/3190333_cest-chez-fnac-et-darty-que-vous-trouverez-la-meilleure-offre-pour-le-samsung-galaxy-z-fold-8-jusqua-600-e-de-remise",
           "source": "Frandroid",
-          "summary": "Après avoir présenté son Galaxy Z Fold 8, Samsung tacle subtilement Apple, sans le nommer, en affirmant que personne ne peut égaler son expertise dans le secteur des smartphones pliables du jour au lendemain.",
-          "published": "2026-07-23T17:43:10+00:00"
-        },
-        {
-          "title": "Alphabet (Google) annonce de superbes résultats... son cours à la Bourse chute brutalement. L'IA ne fait plus rêver ?",
-          "link": "https://www.clubic.com/actualite-622549-alphabet-google-annonce-de-superbes-resultats-son-cours-a-la-bourse-chute-brutalement-l-ia-ne-fait-plus-rever.html",
-          "source": "Clubic",
-          "summary": "Les bons résultats financiers ne sont pas toujours automatiquement récompensés à la Bourse. C'est le cas aujourd'hui d'Alphabet.",
-          "published": "2026-07-23T17:14:00+00:00"
-        },
-        {
-          "title": "J’ai testé la Samsung HW-Q930H : la barre de son Dolby Atmos la plus facile à recommander ?",
-          "link": "https://www.frandroid.com/marques/samsung/3161653_jai-teste-la-samsung-hw-q930h-la-barre-de-son-dolby-atmos-la-plus-facile-a-recommander",
-          "source": "Frandroid",
-          "summary": "La Samsung HW-Q930H reconduit une formule qui a fait ses preuves : une barre de son Dolby Atmos 9.1.4 livrée avec caisson et enceintes surround, le tout dans un ensemble simple à installer et particulièrement immersif.…",
-          "published": "2026-07-23T17:02:00+00:00"
-        },
-        {
-          "title": "Pendant la Coupe du monde 2026, les Français ont parié comme jamais... et beaucoup ont perdu",
-          "link": "https://www.clubic.com/actualite-622540-pendant-la-coupe-du-monde-2026-les-francais-ont-parie-comme-jamais-et-beaucoup-ont-perdu.html",
-          "source": "Clubic",
-          "summary": "La Coupe du monde 2026 a généré 1,3 milliard d'euros de mises sur les paris sportifs en ligne, un record, selon l'Autorité nationale des jeux. Un succès pour l'industrie, mais un échec pour une majorité de parieurs.",
-          "published": "2026-07-23T16:39:00+00:00"
+          "summary": "Le Galaxy Z Fold 8, tout nouveau smartphone pliant au format passeport de Samsung, est disponible à 1 199 euros au lieu de 1 999 euros chez Boulanger, grâce à un code promo, une remise membre Club et et bonus reprise,…",
+          "published": "2026-07-24T07:51:25+00:00"
         }
       ]
     }
@@ -327,15 +327,7 @@
     },
     "sejour_bien_etre": {
       "label": "Sejour bien-etre",
-      "items": [
-        {
-          "title": "Le DOGE devait disparaître début juillet... Suprise, il est toujours là",
-          "link": "https://www.slate.fr/politique/doge-departement-efficacite-gouvernementale-elon-musk-donald-trump-dissolution",
-          "source": "Slate.fr",
-          "summary": "Il était prévu que le département de l'Efficacité gouvernementale, chargé de dégraisser le budget fédéral, s'autodétruise le 4 juillet 2026. Plusieurs dizaines de collaborateurs seraient toutefois toujours en poste.",
-          "published": "2026-07-21T06:25:02+00:00"
-        }
-      ]
+      "items": []
     },
     "retraite_spirituelle": {
       "label": "Retraite spirituelle",
