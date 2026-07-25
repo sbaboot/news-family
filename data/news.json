@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-25T02:32:33.915848+00:00",
+  "generated_at": "2026-07-25T05:42:22.220878+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : une frappe de drone russe fait au moins deux morts à Soumy, dans le nord du pays",
-          "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-une-frappe-de-drone-russe-fait-au-moins-deux-morts-a-soumy-dans-le-nord-du-pays_6725306_3210.html",
+          "title": "Le discours antidémocratique peut-il encore être combattu?",
+          "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260725-le-discours-antid%C3%A9mocratique-peut-il-encore-%C3%AAtre-combattu",
+          "source": "RFI",
+          "summary": "La « guerre de l’information » est sur toutes les lèvres. Depuis la crise sanitaire et plus encore avec le conflit en Ukraine, cette guerre qui n’est ni militaire, ni sociale, ni économique, déchire le débat public.…",
+          "published": "2026-07-25T05:00:13+00:00"
+        },
+        {
+          "title": "Entre surveillance et censure, comment informer sur la Russie et l’Iran ?",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/07/25/entre-surveillance-et-censure-comment-informer-sur-la-russie-et-l-iran_6731825_5463015.html",
           "source": "Le Monde",
-          "summary": "Ces frappes surviennent au lendemain d’une attaque de missile russe contre une démonstration d’équipements militaires, dans la région de Kiev, qui a tué vendredi au moins dix personnes et blessé près d’une centaine…",
-          "published": "2026-07-24T22:56:08+00:00"
+          "summary": "« Festival international de journalisme » (2/7). Etre journaliste en Iran et en Russie est souvent compliqué. Alors, comment continuer d’informer malgré tout ?",
+          "published": "2026-07-25T05:00:07+00:00"
         },
         {
-          "title": "Incendies en France : des évacuations ordonnées, la population bloquée sur les routes",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260724-incendies-en-france-des-%C3%A9vacuations-ordonn%C3%A9es-la-population-bloqu%C3%A9e-sur-les-routes",
-          "source": "France 24",
-          "summary": "En Gironde, les incendies ont provoqué d'importantes évacuations autour du bassin d'Arcachon. À Andernos-les-Bains, de longues files de voitures se sont formées alors que les habitants tentent de quitter la zone.",
-          "published": "2026-07-24T22:43:58+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme négocier avec l’Iran tout en se disant prêt à intensifier les frappes",
-          "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-donald-trump-affirme-negocier-avec-l-iran-tout-en-se-disant-pret-a-intensifier-les-frappes_6725301_3210.html",
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine affirme avoir frappé un pétrolier ne respectant pas son blocus des ports iraniens",
+          "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-les-etats-unis-affirment-avoir-frappe-un-petrolier-ne-respectant-pas-le-blocus-des-ports-iraniens_6725301_3210.html",
           "source": "Le Monde",
-          "summary": "« On leur parle en ce moment », a déclaré le président américain à propos des dirigeants iraniens. « Je pense qu’ils deviennent de plus en plus sérieux au fil des jours, peut-être pour une raison évidente », a-t-il…",
-          "published": "2026-07-24T22:42:42+00:00"
+          "summary": "« L’équipage a été averti à plusieurs reprises, n’a pas obtempéré, et les forces américaines sur zone ont neutralisé le navire après avoir tiré sur sa salle des machines », a déclaré Tim Hawkins, le porte-parole du…",
+          "published": "2026-07-25T04:54:12+00:00"
         },
         {
-          "title": "Imane Ayissi : le premier grand couturier d'Afrique subsaharienne raconte son parcours",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260724-imane-ayissi-le-premier-grand-couturier-d-afrique-subsaharienne-raconte-son-parcours",
-          "source": "France 24",
-          "summary": "Premier créateur originaire d'Afrique subsaharienne inscrit au calendrier officiel de la haute couture à Paris, Imane Ayissi revient sur son parcours dans Grande Couture. Le styliste camerounais raconte son enfance, ses…",
-          "published": "2026-07-24T21:25:51+00:00"
-        },
-        {
-          "title": "Vers une intervention américaine au Mali ? Bamako ne confirme pas.",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260724-vers-une-intervention-am%C3%A9ricaine-au-mali-bamako-ne-confirme-pas",
-          "source": "France 24",
-          "summary": "Les États Unis envisagent-elles une prochaine intervention militaire au Mali ? Mercredi, le journal américain Le Washington Post a affirmé que « l’Administration Trump étudie des options militaires au Mali ». Cette…",
-          "published": "2026-07-24T21:24:46+00:00"
-        },
-        {
-          "title": "L'Iran revendique des attaques de drones contre le Bahreïn, la Jordanie et le Koweït",
-          "link": "https://www.france24.com/fr/moyen-orient/20260724-l-iran-revendique-des-attaques-de-drones-contre-le-bahre%C3%AFn-la-jordanie-et-le-kowe%C3%AFt",
-          "source": "France 24",
-          "summary": "Après de nouvelles frappes américaines sur le territoire iranien, l'Iran a lancé, vendredi, des attaques de drones sur ses voisins du Golfe au Bahreïn, en Jordanie et au Koweït. Dans la soirée, l'Arabie saoudite a lancé…",
-          "published": "2026-07-24T20:51:45+00:00"
-        },
-        {
-          "title": "Karim Khan, procureur général de la CPI, démis de ses fonctions après des accusations d’agression sexuelle",
-          "link": "https://www.lemonde.fr/international/article/2026/07/24/karim-khan-procureur-general-de-la-cpi-demis-de-ses-fonctions-apres-des-accusations-d-agression-sexuelle_6731579_3210.html",
+          "title": "EN DIRECT, guerre en Ukraine : au moins deux personnes tuées dans une frappe russe à Soumy, dans le nord du pays",
+          "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-au-moins-deux-personnes-tuees-dans-une-frappe-russe-a-soumy-dans-le-nord-du-pays_6725306_3210.html",
           "source": "Le Monde",
-          "summary": "Le Britannique était visé par une procédure disciplinaire pour faute grave, liée à des accusations d’une collaboratrice. Cette décision survient au moment où la juridiction fait face à une pression croissante des…",
-          "published": "2026-07-24T20:51:18+00:00"
+          "summary": "Ces frappes surviennent au lendemain d’une attaque de missile russe contre une démonstration d’équipements militaires, dans la région de Kiev, qui a tué vendredi au moins dix personnes.",
+          "published": "2026-07-25T04:34:25+00:00"
         },
         {
-          "title": "Mali : Bamako dément les rumeurs d'une intervention américaine",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260724-mali-bamako-d%C3%A9ment-les-rumeurs-d-une-intervention-am%C3%A9ricaine",
-          "source": "France 24",
-          "summary": "Le gouvernement malien affirme n'avoir reçu aucune confirmation officielle de Washington. Le ministre malien des Affaires étrangères, Abdoulaye Diop, a réaffirmé la volonté du Mali de gérer lui-même la lutte contre le…",
-          "published": "2026-07-24T18:39:49+00:00"
-        },
-        {
-          "title": "Amende infligée à Google : l’Union européenne va payer « un très lourd prix », menace Donald Trump",
-          "link": "https://www.lemonde.fr/international/article/2026/07/24/amende-a-google-l-union-europeenne-va-payer-un-tres-lourd-prix-menace-donald-trump_6731543_3210.html",
+          "title": "Guerre d’Espagne : « Comment j’ai retrouvé la trace de mon arrière-grand-père républicain, oublié des fosses communes »",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/25/guerre-d-espagne-comment-j-ai-retrouve-la-trace-de-mon-arriere-grand-pere-republicain-oublie-des-fosses-communes_6731791_3451060.html",
           "source": "Le Monde",
-          "summary": "L’amende de 890 millions d’euros sanctionne notamment les pratiques du moteur de recherche grâce auxquelles le groupe américain met systématiquement en avant ses propres services, au détriment de ses concurrents.",
-          "published": "2026-07-24T18:35:16+00:00"
+          "summary": "Comme plus de 100 000 autres républicains, José Molina Lopez a été jeté dans l’anonymat d’une fosse et sa mémoire confisquée par le récit national imposé par Franco. La journaliste Garance Muñoz a exhumé le passé de son…",
+          "published": "2026-07-25T04:30:10+00:00"
         },
         {
-          "title": "🔴  En direct : 110 000 personnes évacuées en Gironde, les autorités vont \"tout faire pour protéger\" la ville de Bordeaux",
-          "link": "https://www.france24.com/fr/france/20260724-feux-for%C3%AAts-en-direct-10-000-hectares-ravag%C3%A9s-sud-ouest-cap-ferret-%C3%A9vacu%C3%A9",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-07-24T18:32:06+00:00"
+          "title": "La révocation du procureur de la CPI, Karim Khan, clôt un long feuilleton sans régler les défis auxquels est confrontée la juridiction",
+          "link": "https://www.lemonde.fr/international/article/2026/07/25/la-revocation-du-procureur-de-la-cpi-karim-khan-met-fin-a-une-longue-saga_6731788_3210.html",
+          "source": "Le Monde",
+          "summary": "Le Britannique était visé par une procédure pour faute grave, pour avoir engagé une relation sexuelle « inappropriée » avec son assistante. Cette révocation risque de fragiliser la Cour pénale internationale, soumise à…",
+          "published": "2026-07-25T04:15:00+00:00"
+        },
+        {
+          "title": "De propagandiste du Kremlin à avocate de la cause ukrainienne : la conversion spectaculaire de Laura Loomer, l’influenceuse MAGA qui a l’oreille de Donald Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/07/25/de-propagandiste-du-kremlin-a-avocate-de-la-cause-ukrainienne-la-conversion-spectaculaire-de-laura-loomer-l-influenceuse-maga-qui-a-l-oreille-de-donald-trump_6731754_3210.html",
+          "source": "Le Monde",
+          "summary": "Un an après s’être fait remarquer en obtenant la tête du directeur de la National Security Agency (NSA), l’influenceuse de 33 ans a rencontré Volodymyr Zelensky à Kiev. Rappelant avoir cru que « l’armée ukrainienne…",
+          "published": "2026-07-25T04:00:30+00:00"
+        },
+        {
+          "title": "Pourquoi l’incarcération au Maroc de Mehdi Black Wind est-elle dénoncée à l’international ?",
+          "link": "https://www.lemonde.fr/videos/video/2026/07/25/pourquoi-l-incarceration-au-maroc-de-mehdi-black-wind-est-elle-denoncee-a-l-international_6731752_1669088.html",
+          "source": "Le Monde",
+          "summary": "Les soutiens au rappeur marocain accusé d’« outrage à une institution constitutionnelle », se multiplient notamment en France.",
+          "published": "2026-07-25T04:00:24+00:00"
+        },
+        {
+          "title": "Après des affrontements meurtriers entre Palestiniens et colons en Cisjordanie, Nétanyahou annonce une opération « contre-terroriste de grande ampleur »",
+          "link": "https://www.lemonde.fr/international/article/2026/07/25/apres-des-affrontements-meurtriers-entre-palestiniens-et-colons-en-cisjordanie-netanyahou-annonce-une-operation-contre-terroriste-de-grande-ampleur_6731753_3210.html",
+          "source": "Le Monde",
+          "summary": "Des violences qui se sont déroulées, vendredi matin, autour de Naplouse, ont provoqué la mort de deux Israéliens et de quatre Palestiniens. Le gouvernement israélien a sommé l’armée « d’accélérer la légalisation des…",
+          "published": "2026-07-25T04:00:19+00:00"
+        },
+        {
+          "title": "« El Diablo », narcotrafiquant le plus recherché du Costa Rica, a été arrêté",
+          "link": "https://www.lemonde.fr/international/article/2026/07/25/el-diablo-narcotrafiquant-le-plus-recherche-du-costa-rica-a-ete-arrete_6731646_3210.html",
+          "source": "Le Monde",
+          "summary": "Au terme d’une dizaine d’années de cavale, Alejandro Arias Monge, dont la tête était mise à prix pour 500 000 dollars, a été capturé alors qu’il participait à une réunion avec d’autres chefs criminels.",
+          "published": "2026-07-25T02:35:57+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Pour passer outre la Cour suprême, Trump change de stratégie sur les droits de douane",
-          "link": "https://www.ledevoir.com/economie/997319/passer-outre-cour-supreme-trump-change-strategie-droits-douane",
+          "title": "Prix de consolation",
+          "link": "https://www.ledevoir.com/opinion/chroniques/997187/prix-consolation",
           "source": "Le Devoir",
-          "summary": "Le département américain du Commerce s’appuie sur une loi de 1974 déjà utilisée par le passé.",
-          "published": "2026-07-25T02:07:00+00:00"
+          "summary": "Adieu Ronaldo, adieu Messi! La page se tourne sur une génération et une nouvelle prend le relais.",
+          "published": "2026-07-25T04:00:00+00:00"
         },
         {
-          "title": "Plateau-Mont-Royal | Un suspect de 19 ans arrêté après une violente altercation",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-24/plateau-mont-royal/un-suspect-de-19-ans-arrete-apres-une-violente-altercation.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un suspect a été arrêté dans l’affaire de l’agression survenue la nuit dernière dans l’arrondissement du Plateau-Mont-Royal. L’homme de 19 ans a été appréhendé à Terrebonne.",
-          "published": "2026-07-25T01:45:53+00:00"
-        },
-        {
-          "title": "Trump ordonne l’installation de panneaux devant un musée accusé d’être trop «woke»",
-          "link": "https://www.ledevoir.com/monde/etats-unis/997310/trump-ordonne-installation-panneaux-devant-musee-accuse-etre-trop-woke",
+          "title": "L’Académie française, une institution qu’on aime critiquer",
+          "link": "https://www.ledevoir.com/opinion/idees/997214/academie-francaise-institution-on-aime-critiquer",
           "source": "Le Devoir",
-          "summary": "«Le rôle central de la foi chrétienne» n’y est pas suffisamment mis de l’avant, clame notamment la Maison-Blanche.",
-          "published": "2026-07-25T01:42:18+00:00"
+          "summary": "On trouve dans le Grand Siècle une des graines qui a semé le purisme dans la langue française, toujours vivant.",
+          "published": "2026-07-25T04:00:00+00:00"
         },
         {
-          "title": "Incendies de forêt au Canada | Trump ramène l’idée d’un droit de douane supplémentaire",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-07-24/incendies-de-foret-au-canada/trump-ramene-l-idee-d-un-droit-de-douane-supplementaire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le président américain a réitéré vendredi sa menace d’imposer un droit de douane supplémentaire sur les biens canadiens en raison de la fumée des incendies de forêt.",
-          "published": "2026-07-25T01:39:14+00:00"
-        },
-        {
-          "title": "Démystifier l’économie | Pourquoi ne fait-on pas passer le TGV au milieu des autoroutes ?",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-07-24/demystifier-l-economie/pourquoi-ne-fait-on-pas-passer-le-tgv-au-milieu-des-autoroutes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Chaque samedi, un de nos journalistes répond, en compagnie d’experts, à l’une de vos questions sur l’économie, les finances, les marchés, etc.",
-          "published": "2026-07-25T01:00:00+00:00"
-        },
-        {
-          "title": "Le Mousso mettra la clef sous la porte",
-          "link": "https://www.ledevoir.com/actualites/997304/mousso-mettra-clef-sous-porte",
+          "title": "En Iran, Donald Trump est aussi en guerre contre les faits",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/997199/iran-donald-trump-est-aussi-guerre-contre-faits",
           "source": "Le Devoir",
-          "summary": "«Nous tournons la page avec émotion et fierté», ont déclaré les propriétaires.",
-          "published": "2026-07-25T00:53:00+00:00"
+          "summary": "À l’image de Nixon au Vietnam, le président cherche à dissimuler la vérité pour ne pas s’aliéner l’opinion publique.",
+          "published": "2026-07-25T04:00:00+00:00"
         },
         {
-          "title": "Les Impatients | Quand Trump devient source d’inspiration artistique",
-          "link": "https://www.lapresse.ca/arts/arts-visuels/2026-07-24/les-impatients/quand-trump-devient-source-d-inspiration-artistique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Comment l’actualité influence-t-elle les artistes ? Dans leur exposition estivale, Les Impatients nous donnent quelques réponses, souvent riches en couleur. Et en angoisses.",
-          "published": "2026-07-24T23:45:00+00:00"
-        },
-        {
-          "title": "Un consortium québécois débouté | Un groupe ontarien est le racheteur du Chateau Montebello",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-07-24/un-consortium-quebecois-deboute/un-groupe-ontarien-est-le-racheteur-du-chateau-montebello.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le groupe hôtelier Westmont Hospitality, basé à Mississauga, est l’acquéreur du luxueux hôtel Chateau Montebello, en Outaouais. Il y a un peu plus d’une semaine, un groupe québécois dénonçait le fait de ne pas avoir été…",
-          "published": "2026-07-24T23:35:58+00:00"
-        },
-        {
-          "title": "50 ans des Jeux de Montréal | Que sont devenues nos installations olympiques ?",
-          "link": "https://www.lapresse.ca/sports/jeux-olympiques/2026-07-24/50-ans-des-jeux-de-montreal/que-sont-devenues-nos-installations-olympiques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Certaines installations ont été construites spécifiquement pour les Jeux de 1976. D’autres existaient déjà. La plupart, mais pas toutes, ont conservé leur vocation sportive. Voyage en images chez cinq d’entre elles.",
-          "published": "2026-07-24T23:30:00+00:00"
-        },
-        {
-          "title": "Paramount accepte de reporter de plusieurs mois le rachat de Warner Bros.",
-          "link": "https://www.ledevoir.com/economie/997295/paramount-accepte-reporter-plusieurs-mois-rachat-warner-bros",
+          "title": "La géographie musicale d’Oliver Jones",
+          "link": "https://www.ledevoir.com/culture/musique/997292/geographie-musicale-oliver-jones",
           "source": "Le Devoir",
-          "summary": "La procédure intentée par les procureurs de 12 États pourrait empêcher la transaction de se conclure à la date choisie.",
-          "published": "2026-07-24T23:15:00+00:00"
+          "summary": "Le regretté musicien jazz était aussi profondément montréalais.",
+          "published": "2026-07-25T04:00:00+00:00"
+        },
+        {
+          "title": "Mathieu Lacroix, des dessins comme des vestiges",
+          "link": "https://www.ledevoir.com/culture/arts-visuels/996893/mathieu-lacroix-dessins-comme-vestiges",
+          "source": "Le Devoir",
+          "summary": "L’artiste réalise sur papier et carton des œuvres colorées qui nous placent devant nos habitudes de consommation.",
+          "published": "2026-07-25T04:00:00+00:00"
+        },
+        {
+          "title": "L’Université de l’Alberta accusée d’effacer sa francophonie",
+          "link": "https://www.ledevoir.com/actualites/societe/997193/universite-alberta-accusee-effacer-francophonie",
+          "source": "Le Devoir",
+          "summary": "Les communautés francophones dénoncent l’aide du gouvernement fédéral dans cette démarche d’anglicisation.",
+          "published": "2026-07-25T04:00:00+00:00"
+        },
+        {
+          "title": "Tiers pays sûr, vraiment?",
+          "link": "https://www.ledevoir.com/opinion/chroniques/997217/tiers-pays-vraiment",
+          "source": "Le Devoir",
+          "summary": "C’est toute une population qui se retrouve prise en étau à cause de la politique d’expulsion de Trump.",
+          "published": "2026-07-25T04:00:00+00:00"
+        },
+        {
+          "title": "Au Festif!, la météo et le climat sont sous haute surveillance",
+          "link": "https://www.ledevoir.com/actualites/environnement/997289/festif-meteo-climat-sont-sous-haute-surveillance",
+          "source": "Le Devoir",
+          "summary": "Le rendez-vous musical de Baie-Saint-Paul a été frappé par des événements extrêmes au fil des ans.",
+          "published": "2026-07-25T04:00:00+00:00"
+        },
+        {
+          "title": "La place du Québec au sein des nations",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/997196/place-quebec-sein-nations",
+          "source": "Le Devoir",
+          "summary": "L’instabilité chronique de notre action internationale a de vraies conséquences.",
+          "published": "2026-07-25T04:00:00+00:00"
+        },
+        {
+          "title": "La Bavière, un exemple à suivre pour l’industrie québécoise de la défense?",
+          "link": "https://www.ledevoir.com/economie/997184/baviere-exemple-suivre-industrie-quebecoise-defense",
+          "source": "Le Devoir",
+          "summary": "Le land allemand est devenu au fil des ans une référence européenne en matière d’innovation industrielle.",
+          "published": "2026-07-25T04:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Incendies : nouvelles évacuations en cours dans quatre communes près de Bordeaux",
+          "title": "Tour Montparnasse : le maire de Paris convoque une réunion de crise pour sauver la rénovation à 800 millions d’euros",
+          "link": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-maire-de-paris-convoque-une-reunion-de-crise-pour-sauver-la-renovation-a-800-millions-d-euros-20260725",
+          "source": "Le Figaro",
+          "summary": "INFO LE FIGARO - Emmanuel Grégoire réunit dans les prochains jours les grands copropriétaires, dont Xavier Niel. Objectif : trouver des voies de passage entre les différents protagonistes. Le report de la rénovation…",
+          "published": "2026-07-25T05:37:19+00:00"
+        },
+        {
+          "title": "Incendie en Gironde : les assureurs en première ligne face aux sinistres",
+          "link": "https://www.lefigaro.fr/societes/incendie-en-gironde-les-assureurs-en-premiere-ligne-face-aux-sinistres-20260725",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - Un feu « XXL » ravage de nouveau la Gironde, contraignant les autorités à évacuer les habitants et vacanciers de la très chic presqu’île du cap Ferret. Quelques dizaines de maisons ont d’ores et déjà brûlé,…",
+          "published": "2026-07-25T05:32:33+00:00"
+        },
+        {
+          "title": "Incendies dans le sud-ouest : sept nouvelles communes évacuées près de Bordeaux",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-le-sud-ouest-sept-nouvelles-communes-evacuees-pres-de-bordeaux_8121596.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Cette nouvelle mesure concerne les habitants des communes de Saint-Médard-en-Jalles, Le Haillan, Saint-Jean-d'Illac, Martignas-sur-Jalles et Saint-Aubin-de-Médoc.",
+          "published": "2026-07-25T05:29:48+00:00"
+        },
+        {
+          "title": "\"C'est l'apocalypse\" : au Parc des expositions de Bordeaux, l'angoisse des évacués des incendies en Gironde",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-l-apocalypse-aux-parcs-des-expositions-de-bordeaux-l-angoisse-des-evacues-des-incendies-en-gironde_8121542.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les milliers de personnes ont été évacuées dans plusieurs communes près de Bordeaux. Toutes acheminées aux Parc des expositions de la ville où ils décrivent \"l'apocalypse\".",
+          "published": "2026-07-25T05:26:04+00:00"
+        },
+        {
+          "title": "NOS JOURS HEUREUX. \"Le Tour de France, ça change de tout ce qu'on voit aux infos\" : au bord de la route, le bonheur d'une journée sur la Grande Boucle",
+          "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-le-tour-de-france-ca-change-de-tout-ce-qu-on-voit-aux-infos-au-bord-de-la-route-le-bonheur-d-une-journee-sur-la-grande-boucle_8109983.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Notre série \"Nos jours heureux\" explore les moments de joie pendant l'été. Dans cet épisode, des Français rencontrés lors de l'étape dans le Cantal racontent leur attachement à la course reine du cyclisme, synonyme de…",
+          "published": "2026-07-25T05:13:53+00:00"
+        },
+        {
+          "title": "Un \"cyberincident sans précédent\" : ce que l'on sait de la cyberattaque menée de leur propre initiative par les modèles d'OpenAI",
+          "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le créateur de ChatGPT a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés lors de tests de sécurité : ils sont parvenus à exploiter des failles pour accéder à internet et pirater la…",
+          "published": "2026-07-25T05:12:41+00:00"
+        },
+        {
+          "title": "Il achète une maison aux enchères sans la visiter et tombe nez à nez avec les cadavres des anciens propriétaires",
+          "link": "https://immobilier.lefigaro.fr/article/il-achete-une-maison-aux-encheres-sans-la-visiter-et-tombe-nez-a-nez-avec-les-cadavres-des-anciens-proprietaires-20260725",
+          "source": "Le Figaro",
+          "summary": "C’est une découverte macabre qu’a faite un Américain. Après avoir remporté la mise lors d’une vente aux enchères d’une maison saisie, le nouveau propriétaire y a découvert trois corps sans vie en prenant possession des…",
+          "published": "2026-07-25T05:00:00+00:00"
+        },
+        {
+          "title": "« Virevoltant », « fabuleux »... La presse salue un sans-faute avec De la Comédie-Française",
+          "link": "https://www.lefigaro.fr/cinema/virevoltant-fabuleux-la-presse-salue-un-sans-faute-avec-de-la-comedie-francaise-20260725",
+          "source": "Le Figaro",
+          "summary": "La comédie de Bertrand Usclat et Martin Darondeau offre une plongée caustique dans les coulisses de l’institution qui se parodie elle-même.",
+          "published": "2026-07-25T05:00:00+00:00"
+        },
+        {
+          "title": "Entre Nicolas Sarkozy et Dominique de Villepin, la politique frictions",
+          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/entre-nicolas-sarkozy-et-dominique-de-villepin-la-politique-frictions-20260725_B4RTGKBVFBEXRBTDHKSHQP74JY/",
+          "source": "Liberation",
+          "summary": "Souvent ennemis, parfois alliés, les deux hommes nourrissent une rivalité depuis les années 90, rythmée par les élections présidentielles, les manœuvres entre ministères et l’affaire Clearstream.",
+          "published": "2026-07-25T05:00:00+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies : nouvelles évacuations dans plusieurs communes, les flammes s’approchent de Bordeaux",
           "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
           "source": "Le Figaro",
           "summary": "Sébastien Lecornu a annoncé vendredi soir que quelque 500 militaires supplémentaires allaient être envoyés «en appui des sapeurs-pompiers» qui luttent contre les violents incendies en Gironde et dans les Landes.",
-          "published": "2026-07-25T01:48:37+00:00"
-        },
-        {
-          "title": "La mégafusée Starship réussit son test, le premier depuis l'entrée en Bourse de SpaceX",
-          "link": "https://www.lefigaro.fr/international/la-megafusee-starship-reussit-son-test-le-premier-depuis-l-entree-en-bourse-de-spacex-20260725",
-          "source": "Le Figaro",
-          "summary": "Il s’agissait du 13e essai de cette fusée qui est la plus grande et la plus puissante jamais développée, et le deuxième de sa dernière version, nommée V3.",
-          "published": "2026-07-25T00:59:58+00:00"
-        },
-        {
-          "title": "La Tunisie convoque l'ambassadrice de France après la diffusion d’un entretien jugé hostile par une chaîne française",
-          "link": "https://www.lefigaro.fr/international/la-tunisie-convoque-l-ambassadrice-de-france-apres-la-diffusion-d-un-entretien-juge-hostile-par-une-chaine-francaise-20260725",
-          "source": "Le Figaro",
-          "summary": "Selon un commentateur considéré comme proche des cercles du pouvoir, il s’agit de la chaîne France 24 et d’un entretien récent avec l’ancien président tunisien Moncef Marzouki.",
-          "published": "2026-07-24T23:40:39+00:00"
-        },
-        {
-          "title": "Colombie : l’ex-dirigeant Gustavo Petro affirme que le président élu «obéit directement» à Washington",
-          "link": "https://www.lefigaro.fr/international/colombie-l-ex-dirigeant-gustavo-petro-affirme-que-le-president-elu-obeit-directement-a-washington-20260725",
-          "source": "Le Figaro",
-          "summary": "Gustavo Petro passera la main le 7 août à Abelardo de la Espriella, un avocat de droite dure qui a reçu le soutien de Donald Trump lors de la campagne.",
-          "published": "2026-07-24T23:14:55+00:00"
-        },
-        {
-          "title": "De fortes chaleurs attendues en France dès la semaine prochaine",
-          "link": "https://www.liberation.fr/environnement/climat/de-fortes-chaleurs-attendues-en-france-des-la-semaine-prochaine-20260723_KWAAQGC3MVCZHB4BOUBVK67YZA/",
-          "source": "Liberation",
-          "summary": "Alors que la France vient d’en finir avec sa troisième vague de chaleur, la plus longue jamais relevée, une quatrième canicule se dessine sur l’hexagone la semaine prochaine, indique la Chaîne Météo.",
-          "published": "2026-07-24T23:09:41+00:00"
-        },
-        {
-          "title": "Incendies en Gironde : «Une situation totalement inédite» selon Laurent Nuñez, la préfecture annonce des évacuations près de Bordeaux",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/",
-          "source": "Liberation",
-          "summary": "Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union européenne.",
-          "published": "2026-07-24T22:59:33+00:00"
-        },
-        {
-          "title": "Guerre au Moyen-Orient : des sites militaires houthis visés au Yémen par la coalition menée par l'Arabie Saoudite",
-          "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les rebelles houthis avaient annoncé lundi vouloir entraver le trafic en mer Rouge et dans le golfe d'Aden des navires d'Arabie saoudite, premier exportateur mondial de brut. Ils l'avaient déjà fait pendant la guerre de…",
-          "published": "2026-07-24T22:42:22+00:00"
-        },
-        {
-          "title": "Incendies : Sébastien Lecornu annonce le doublement des militaires déployés en Gironde, où 1,5 million de masques FFP2 vont être acheminés \"dès cette nuit\"",
-          "link": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Plus de 19 000 hectares ont déjà été dévorés par les flammes en Gironde et les incendies se dirigent désormais vers la métropole bordelaise, selon la préfète de Nouvelle-Aquitaine, qui a annoncé des évacuations…",
-          "published": "2026-07-24T22:38:51+00:00"
-        },
-        {
-          "title": "Emmanuel Macron demande aux Armées \"de se mobiliser\" pour lutter contre les incendies dans le Sud-Ouest, 500 militaires supplémentaires déployés",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/emmanuel-macron-demande-aux-armees-de-se-mobiliser-pour-lutter-contre-les-incendies-dans-le-sud-ouest-500-militaires-supplementaires-deployes_8121302.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Au total, ce sont environ 1 000 militaires qui seront déployés sur le terrain face aux flammes, qui ont déjà dévoré 22 000 hectares et provoqué l'évacuation de plus de 140 000 personnes.",
-          "published": "2026-07-24T22:26:42+00:00"
-        },
-        {
-          "title": "« Après quelques heures, si personne ne se manifeste, nous les retirons » : en Grèce, sur l’île de Kos, la guerre des transats, symptôme d’un tourisme de masse à bout de souffle",
-          "link": "https://www.lefigaro.fr/conjoncture/apres-quelques-heures-si-personne-ne-se-manifeste-nous-les-retirons-en-grece-sur-l-ile-de-kos-la-guerre-des-transats-symptome-d-un-tourisme-de-masse-a-bout-de-souffle-20260724",
-          "source": "Le Figaro",
-          "summary": "REPORTAGE - Applis de réservation, mise en place de surveillants… Les résidences hôtelières cherchent la parade à ce phénomène devenu récurrent chaque été, où, dès l’aube, les vacanciers se précipitent pour déposer leur…",
-          "published": "2026-07-24T21:59:52+00:00"
+          "published": "2026-07-25T04:51:02+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Fusée SpaceX clouée au sol, quatrième canicule en France, vol du Starship – le récap’ sciences de la semaine",
+          "link": "https://www.numerama.com/sciences/2301355-fusee-spacex-clouee-au-sol-quatrieme-canicule-en-france-vol-du-starship-le-recap-sciences-de-la-semaine.html",
+          "source": "Numerama",
+          "summary": "Une fusée Falcon 9 de SpaceX clouée au sol, le retour probable de la canicule en France, treizième vol du Starship : voici les sujets qui vous ont le plus intéressés dans la rubrique Sciences de Numerama cette semaine.…",
+          "published": "2026-07-25T05:35:00+00:00"
+        },
         {
           "title": "Bizarre ou logique ? À l’horizontale, le Samsung Galaxy Z Fold 8 prend des photos verticales quand il est déplié",
           "link": "https://www.frandroid.com/marques/samsung/3193883_lappareil-photo-du-samsung-galaxy-z-fold-8-me-perturbe-quand-le-smartphone-est-deplie",
@@ -309,13 +316,6 @@
           "source": "Clubic",
           "summary": "Le nouvel espoir du secteur de la RAM, CXMT, pourrait ne pas être la solution miracle. La preuve avec les prix que l'entreprise pratique actuellement.",
           "published": "2026-07-24T16:18:00+00:00"
-        },
-        {
-          "title": "Batteries en rupture, factures salées et attente interminable : le cauchemar des réparations chez Cowboy",
-          "link": "https://www.frandroid.com/marques/cowboy/3182777_batteries-introuvables-factures-salees-le-cauchemar-des-reparations-chez-cowboy",
-          "source": "Frandroid",
-          "summary": "Depuis des mois, des propriétaires de vélos électriques Cowboy attendent une pièce, un capteur ou une batterie que seule la marque peut fournir. Nous avons interrogé trois utilisateurs, un réparateur agréé parisien et…",
-          "published": "2026-07-24T16:13:00+00:00"
         }
       ]
     }
