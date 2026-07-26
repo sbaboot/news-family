@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-07-25T21:54:36.146957+00:00",
+  "generated_at": "2026-07-26T02:40:15.648705+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Au Sénégal, le président Faye lance son nouveau parti et confirme la rupture avec Ousmane Sonko",
+          "link": "https://www.france24.com/fr/afrique/20260726-au-s%C3%A9n%C3%A9gal-le-pr%C3%A9sident-faye-lance-son-nouveau-parti-et-confirme-la-rupture-avec-ousmane-sonko",
+          "source": "France 24",
+          "summary": "Le président du Sénégal Bassirou Diomaye Faye a dévoilé samedi son nouveau parti, baptisé \"Kiiraay\", lors d'une conférence dans un grand hôtel de Dakar. La rupture avec son ancien Premier ministre Ousmane Sonko est…",
+          "published": "2026-07-26T01:47:11+00:00"
+        },
+        {
+          "title": "A Glasgow, quinze interpellations en marge d’un affrontement entre manifestants anti-immigration et antiracistes",
+          "link": "https://www.lemonde.fr/international/article/2026/07/26/a-glasgow-quinze-interpellations-en-marge-d-un-affrontement-entre-manifestants-anti-immigration-et-antiracistes_6732590_3210.html",
+          "source": "Le Monde",
+          "summary": "La plus grande ville d’Ecosse est régulièrement agitée par des mobilisations de personnes hostiles à l’immigration, ou aux immigrés eux-mêmes, des rassemblements organisées notamment par des groupes identitaires.",
+          "published": "2026-07-26T01:00:54+00:00"
+        },
+        {
+          "title": "🔴 Marche des fiertés à Berlin : un véhicule percute la foule, un mort et 16 blessés",
+          "link": "https://www.france24.com/fr/europe/20260725-marche-des-fiert%C3%A9s-%C3%A0-berlin-un-v%C3%A9hicule-percute-la-foule-un-mort-et-une-quinzaine-de-bless%C3%A9s",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-07-25T23:23:31+00:00"
+        },
+        {
+          "title": "🔴 En direct - Incendies en Gironde : \"situation critique\" et nouvelles évacuations près de Bordeaux",
+          "link": "https://www.france24.com/fr/france/20260725-en-direct-incendies-feux-france-espagne-gironde-evacuations-bordeaux-pompiers",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-07-25T22:47:08+00:00"
+        },
+        {
+          "title": "Marche des fiertés de Berlin : un véhicule percute la foule, faisant un mort et une quinzaine de blessés",
+          "link": "https://www.lemonde.fr/international/article/2026/07/26/marche-des-fiertes-de-berlin-un-mort-et-une-quinzaine-de-blesses-apres-un-incident-impliquant-un-vehicule_6732524_3210.html",
+          "source": "Le Monde",
+          "summary": "Le chancelier allemand, Friedrich Merz, a appelé à « faire toute la lumière » sur le drame, un « acte abominable », selon lui. Un suspect, pas encore interpellé, serait « lié au milieu islamiste », selon la police.",
+          "published": "2026-07-25T22:00:33+00:00"
+        },
         {
           "title": "Vingt morts en Ukraine et en Russie, Kiev frappe des régions russes jusqu'à l'Oural",
           "link": "https://www.france24.com/fr/europe/20260725-vingt-morts-en-ukraine-et-en-russie-kiev-frappe-des-r%C3%A9gions-russes-jusqu-%C3%A0-l-oural",
@@ -38,41 +73,6 @@
           "source": "France 24",
           "summary": "Investi samedi pour la présidentielle d'octobre, Flavio Bolsonaro revendique l'héritage de son père, l'ancien chef de l'État d'extrême droite Jair Bolsonaro, emprisonné pour tentative de coup d'État. Il affrontera le…",
           "published": "2026-07-25T18:51:13+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : au moins 20 morts en Ukraine et en Russie, selon les autorités des deux pays",
-          "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-en-ukraine-au-moins-20-morts-en-ukraine-et-en-russie-selon-les-autorites-des-deux-pays_6725306_3210.html",
-          "source": "Le Monde",
-          "summary": "Quelques heures après des frappes ukrainiennes de longue portée dans le territoire russe, le président du Kazakhstan, Kassym-Jomart Tokaïev, a estimé samedi que le conflit devait être « gelé », lors d’une rencontre avec…",
-          "published": "2026-07-25T18:25:15+00:00"
-        },
-        {
-          "title": "🔴 En direct - Incendies : \"les prochaines heures peuvent être difficiles\" en Gironde, prévient Sébastien Lecornu",
-          "link": "https://www.france24.com/fr/france/20260725-incendies-en-france-de-nouvelles-communes-%C3%A9vacu%C3%A9es-en-gironde-les-feux-progressent-vers-bordeaux",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-07-25T18:11:31+00:00"
-        },
-        {
-          "title": "Incendies en France : la commune de Biscarrosse ravagée par les flammes",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260725-incendies-en-france-la-commune-de-biscarrosse-ravag%C3%A9e-par-les-flammes-1",
-          "source": "France 24",
-          "summary": "Au lendemain de l'évacuation de Biscarrosse, dans le sud-ouest de la France, les destructions du violent incendie sont visibles dans la commune. Les flammes ont endommagé ou détruit 105 habitations et bâtiments.",
-          "published": "2026-07-25T17:34:17+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : le ministre des affaires étrangères iranien appelle au « dialogue » entre les Saoudiens et les houthistes",
-          "link": "https://www.lemonde.fr/international/live/2026/07/25/en-direct-guerre-au-moyen-orient-le-ministre-des-affaires-etrangeres-iranien-appelle-au-dialogue-entre-les-saoudiens-et-les-houthistes_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "Les rebelles du Yémen, alliés de Téhéran, ont attaqué samedi des sites pétroliers dans l’Arabie saoudite voisine en riposte à des frappes de Riyad, marquant une intensification des hostilités sur ce nouveau front de la…",
-          "published": "2026-07-25T16:39:59+00:00"
-        },
-        {
-          "title": "\"L'impression de manger pour mourir\" : la peur de s'empoisonner face aux scandales alimentaires (1/3)",
-          "link": "https://www.france24.com/fr/plan%C3%A8te/20260725-scandales-sanitaires-manger-pour-mourir-angoisse-empoisonner-pfas-pesticides-cadmium",
-          "source": "France 24",
-          "summary": "Du poison dans l'assiette (1/3). Pesticides, Pfas, cadmium… alors que les alertes sanitaires sur l'alimentation se sont multipliées ces dernières années, manger sans s'empoisonner est devenu une priorité et une…",
-          "published": "2026-07-25T16:21:02+00:00"
         }
       ]
     },
@@ -84,11 +84,32 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Plusieurs blessés auraient été percutés par une voiture lors de la Fierté à Berlin",
+          "title": "L’Inter Miami CF blanchit le CF Montréal 1-0",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-07-25/l-inter-miami-cf-blanchit-le-cf-montreal-1-0.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Luis Suarez a inscrit le seul but du match et le CF Montréal s’est incliné 1-0 devant l’Inter Miami CF, samedi soir, au stade Saputo.",
+          "published": "2026-07-26T02:01:52+00:00"
+        },
+        {
+          "title": "Agression armée dans Ville-Marie | Une femme de 26 ans gravement blessée",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-25/agression-armee-dans-ville-marie/une-femme-de-26-ans-gravement-blessee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Une femme de 26 ans a subi d’importantes blessures lors d’une agression armée, samedi en fin d’après-midi, dans l’arrondissement de Ville-Marie à Montréal.",
+          "published": "2026-07-26T01:24:07+00:00"
+        },
+        {
+          "title": "L’UNESCO sonne l’alarme | L’aide internationale à l’éducation réduite dans l’ombre des dépenses militaires",
+          "link": "https://www.lapresse.ca/international/2026-07-25/l-unesco-sonne-l-alarme/l-aide-internationale-a-l-education-reduite-dans-l-ombre-des-depenses-militaires.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "C’est un combat à armes inégales. Dans plusieurs pays occidentaux, l’OTAN a bien plus la cote que l’UNESCO, et l’une des premières victimes de la révision des priorités budgétaires en cette ère de remilitarisation…",
+          "published": "2026-07-25T23:45:00+00:00"
+        },
+        {
+          "title": "Un mort et plusieurs blessés à la Fierté de Berlin, percutés par une voiture",
           "link": "https://www.ledevoir.com/monde/europe/997364/plusieurs-blesses-auraient-ete-percutes-voiture-lors-fierte-berlin",
           "source": "Le Devoir",
-          "summary": "Le reste des festivités est annulé, alors que la police allemande recherche les personnes impliquées.",
-          "published": "2026-07-25T21:25:49+00:00"
+          "summary": "Le reste des festivités est annulé. Un suspect aurait été identifié, mais pas encore interpellé.",
+          "published": "2026-07-25T21:40:00+00:00"
         },
         {
           "title": "Les démocrates du Maine choisissent un nouveau candidat pour le Sénat",
@@ -98,10 +119,10 @@
           "published": "2026-07-25T21:18:08+00:00"
         },
         {
-          "title": "Fierté de Berlin | Un mort et une quinzaine de blessés, probablement percutés par une voiture",
-          "link": "https://www.lapresse.ca/international/europe/2026-07-25/fierte-de-berlin/un-mort-et-une-quinzaine-de-blesses-probablement-percutes-par-une-voiture.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Fierté de Berlin | Un mort et 16 blessés percutés par un véhicule",
+          "link": "https://www.lapresse.ca/international/europe/2026-07-25/fierte-de-berlin/un-mort-et-16-blesses-percutes-par-un-vehicule.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une personne est morte et une quinzaine de personnes ont été blessées, probablement percutées par une voiture, dans le parc Tiergarten de Berlin, où s’achevait samedi soir la marche des fiertés, a indiqué la police de…",
+          "summary": "Un véhicule utilitaire a percuté la foule en marge de la Fierté de Berlin samedi soir, faisant un mort et 16 de blessés dont 11 grièvement selon les pompiers, le maire de la capitale dénonçant une « attaque contre notre…",
           "published": "2026-07-25T21:13:52+00:00"
         },
         {
@@ -112,13 +133,6 @@
           "published": "2026-07-25T20:30:00+00:00"
         },
         {
-          "title": "Saint-Donat | Une deuxième tornade confirmée au Québec",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-07-25/saint-donat/une-deuxieme-tornade-confirmee-au-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Après une première observée à Harrington, des experts viennent d’identifier une deuxième tornade qui est survenue mardi, cette fois à Saint-Donat, dans Lanaudière.",
-          "published": "2026-07-25T18:54:08+00:00"
-        },
-        {
           "title": "Montréalaise blessée dans une poursuite | Plusieurs semaines de suspension pour des policiers",
           "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-25/montrealaise-blessee-dans-une-poursuite/plusieurs-semaines-de-suspension-pour-des-policiers.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -126,10 +140,10 @@
           "published": "2026-07-25T18:30:00+00:00"
         },
         {
-          "title": "Flavio Bolsonaro se présente à la présidentielle brésilienne",
+          "title": "Flávio Bolsonaro se lance dans la course présidentielle au Brésil",
           "link": "https://www.ledevoir.com/monde/ameriques/997355/flavio-bolsonaro-presente-presidentielle-bresilienne",
           "source": "Le Devoir",
-          "summary": "Adoubé comme héritier par son père après l’incarcération de ce dernier, Bolsonaro promet de «libérer» le pays du crime.",
+          "summary": "Investi candidat à l’élection d’octobre, il s’est posé en héritier de son père, détenu pour tentative de coup d’État.",
           "published": "2026-07-25T18:19:00+00:00"
         },
         {
@@ -138,20 +152,6 @@
           "source": "Le Devoir",
           "summary": "Tokaïev, qui est un allié de Moscou, n’a jamais exprimé son soutien à l’offensive en Ukraine.",
           "published": "2026-07-25T17:17:52+00:00"
-        },
-        {
-          "title": "Nostalgie | Voyage dans le temps aux chutes du Niagara",
-          "link": "https://www.lapresse.ca/voyage/quebec-et-canada/2026-07-25/nostalgie/voyage-dans-le-temps-aux-chutes-du-niagara.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Plus de 13 millions de touristes se rendent chaque année aux chutes du Niagara. Comme eux, nous avons visité ses différentes attractions au parfum suranné. Souvenirs de jeunesse et découvertes au présent de ce lieu aux…",
-          "published": "2026-07-25T15:30:00+00:00"
-        },
-        {
-          "title": "Nouveau front au Moyen-Orient, les Houthis visent des installations pétrolières en Arabie saoudite",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/997346/houthis-revendiquent-frappe-arabie-saoudite",
-          "source": "Le Devoir",
-          "summary": "Le conflit au Moyen-Orient s’étend désormais aux rives de la mer Rouge.",
-          "published": "2026-07-25T14:36:00+00:00"
         }
       ]
     },
@@ -159,53 +159,53 @@
       "label": "France",
       "items": [
         {
-          "title": "« Nous allons faire ce qu’on attend de nous » : en Gironde et dans les Landes, les pompiers luttent sans relâche",
-          "link": "https://www.lefigaro.fr/bordeaux/nous-allons-faire-ce-qu-on-attend-de-nous-en-gironde-et-dans-les-landes-les-pompiers-luttent-sans-relache-20260725",
+          "title": "Zelensky affirme que la Russie a demandé 30.000 soldats supplémentaires à la Corée du Nord",
+          "link": "https://www.lefigaro.fr/international/zelensky-affirme-que-la-russie-a-demande-30-000-soldats-supplementaires-a-la-coree-du-nord-20260726",
           "source": "Le Figaro",
-          "summary": "REPORTAGE - Dans les deux départements, les soldats du feu sont soutenus par leurs pairs venus d’autres régions, mais aussi par toute une société civile qui se mobilise.",
-          "published": "2026-07-25T21:50:19+00:00"
+          "summary": "La Corée du Nord et la Russie ont rapidement renforcé leur coopération depuis le début de la guerre en Ukraine début 2022.",
+          "published": "2026-07-26T01:07:14+00:00"
         },
         {
-          "title": "Allemagne : un mort et une quinzaine de blessés après un incident impliquant un véhicule en marge de la gay pride à Berlin",
+          "title": "Allemagne : un mort et 16 blessés après un incident impliquant un véhicule, un suspect «lié au milieu islamiste»",
           "link": "https://www.lefigaro.fr/international/allemagne-plusieurs-blesses-en-marge-de-la-gay-pride-a-berlin-apres-un-probable-incident-impliquant-une-voiture-20260725",
           "source": "Le Figaro",
-          "summary": "«Les blessés sont actuellement pris en charge par les services de secours. Nous recherchons activement des personnes soupçonnées d’être impliquées dans les faits», a déclaré la police.",
-          "published": "2026-07-25T21:44:12+00:00"
+          "summary": "Un suspect présumé du drame causé par une voiture lancée contre la foule en marge de la gay pride de Berlin, «identifié» mais pas encore «interpellé», serait lié au «milieu islamiste», a indiqué le porte-parole de la…",
+          "published": "2026-07-26T00:48:51+00:00"
         },
         {
-          "title": "Yonne : Barbara Butch remonte sur scène, cette fois dans le calme",
-          "link": "https://www.lefigaro.fr/culture/yonne-barbara-butch-remonte-sur-scene-cette-fois-dans-le-calme-20260725",
+          "title": "Irlande: inculpation d'un homme pour possession d'explosifs près de la frontière Nord",
+          "link": "https://www.lefigaro.fr/international/irlande-inculpation-d-un-homme-pour-possession-d-explosifs-pres-de-la-frontiere-nord-20260726",
           "source": "Le Figaro",
-          "summary": "Son concert du samedi 18 juillet, cible d’un appel au boycott, notamment de la part de l’antenne grenobloise de La France insoumise, avait été interrompu par des «jets de projectiles», selon la mairie de Grenoble qui a…",
-          "published": "2026-07-25T21:17:45+00:00"
+          "summary": "L’Irlande du Nord a été déchirée pendant des décennies par un conflit sanglant ayant opposé les républicains nationalistes aux loyalistes et aux unionistes pro-Royaume-Uni.",
+          "published": "2026-07-25T23:27:30+00:00"
         },
         {
-          "title": "Incendie en Gironde : environ 8 000 nouvelles évacuations ordonnées près de Bordeaux \"au regard de la progression du feu\", annonce la préfecture",
+          "title": "Réouverture de la frontière Niger-Bénin: le général Tiani évoque des «plaies» qu'il faut d’abord «panser»",
+          "link": "https://www.lefigaro.fr/international/reouverture-de-la-frontiere-niger-benin-le-general-tiani-evoque-des-plaies-qu-il-faut-d-abord-panser-20260726",
+          "source": "Le Figaro",
+          "summary": "La visite du nouveau président du Bénin, Romuald Wadagni, début juin au Niger, a marqué le dégel des relations très tendues entre les deux pays confrontés à des violences jihadistes récurrentes.",
+          "published": "2026-07-25T22:48:09+00:00"
+        },
+        {
+          "title": "Incendie en Gironde : trois nouvelles communes évacuées près de Bordeaux, 55 000 personnes concernées, annonce la préfecture",
           "link": "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-gironde-environ-8-000-nouvelles-evacuations-ordonnees-pres-de-bordeaux-au-regard-de-la-progression-du-feu-annonce-la-prefecture_8122355.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les habitants de la commune de Marcheprime et de plusieurs quartiers de Cestas sont concernés.",
-          "published": "2026-07-25T20:51:10+00:00"
-        },
-        {
-          "title": "Incendies : le tracé de la dernière étape du Tour de France modifié, les passages à Montmartre conservés",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-le-trace-de-la-derniere-etape-modifie-les-passages-a-montmartre-conserves-20260725",
-          "source": "Le Figaro",
-          "summary": "Dans l’idée de soulager les services de secours et les forces de police mobilisées en Gironde, les organisateurs de la Grande Boucle ont décidé de limiter la dernière étape à Paris, dimanche.",
-          "published": "2026-07-25T20:48:12+00:00"
+          "summary": "Dans le détail, les évacuations concernent désormais l'intégralité des habitants des communes de Marcheprime, Le Barp, Biganos, Mios et Cestas.",
+          "published": "2026-07-25T22:25:45+00:00"
         },
         {
           "title": "EN DIRECT - Incendies en Gironde : de nouvelles évacuations aux abords de Bordeaux, le feu «sera long à combattre»",
           "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
           "source": "Le Figaro",
           "summary": "Un avion militaire A400M a effectué une première intervention durant l’après-midi. 30.000 autres personnes ont dû être déplacées dans les Landes. Un total de 1500 militaires seront mobilisés face aux incendies à partir…",
-          "published": "2026-07-25T20:45:07+00:00"
+          "published": "2026-07-25T22:19:02+00:00"
         },
         {
-          "title": "Guerre au Moyen-Orient : l'Iran affirme avoir vendu 18 milliards de dollars de pétrole en cinq mois de guerre",
-          "link": "https://www.lefigaro.fr/flash-eco/guerre-au-moyen-orient-l-iran-affirme-avoir-vendu-18-milliards-de-dollars-de-petrole-en-cinq-mois-de-guerre-20260725",
+          "title": "« Nous allons faire ce qu’on attend de nous » : en Gironde et dans les Landes, les pompiers luttent sans relâche",
+          "link": "https://www.lefigaro.fr/bordeaux/nous-allons-faire-ce-qu-on-attend-de-nous-en-gironde-et-dans-les-landes-les-pompiers-luttent-sans-relache-20260725",
           "source": "Le Figaro",
-          "summary": "L’Iran a vendu pour 11,5 milliards de dollars (10 milliards d’euros) de pétrole entre le 28 février, date du début de la guerre, et le 8 avril, lorsqu’un cessez-le-feu a été conclu, a affirmé le ministère du Pétrole…",
-          "published": "2026-07-25T20:34:33+00:00"
+          "summary": "REPORTAGE - Dans les deux départements, les soldats du feu sont soutenus par leurs pairs venus d’autres régions, mais aussi par toute une société civile qui se mobilise.",
+          "published": "2026-07-25T22:05:44+00:00"
         },
         {
           "title": "Incendies dans le Sud-Ouest : peut-on annuler ses vacances et se faire rembourser ?",
