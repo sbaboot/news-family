@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-27T02:48:44.955798+00:00",
+  "generated_at": "2026-07-27T06:29:18.021308+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Le Brésil rappelle son ambassadeur en Argentine après des « propos offensants » de Javier Milei, qui s’en prend aussi au Mexique et au Parti démocrate américain",
-          "link": "https://www.lemonde.fr/international/article/2026/07/27/le-bresil-rappelle-son-ambassadeur-en-argentine-apres-des-propos-offensants-de-javier-milei-qui-s-en-prend-aussi-au-mexique-et-au-parti-democrate-americain_6733504_3210.html",
-          "source": "Le Monde",
-          "summary": "Brasilia a également convoqué l’ambassadeur de l’Argentine après de nouvelles attaques verbales du président argentin visant, entre autres, son homologue brésilien.",
-          "published": "2026-07-27T00:20:50+00:00"
+          "title": "Les drones au menu de la rencontre Zelensky-Burnham au Royaume-Uni",
+          "link": "https://www.france24.com/fr/europe/20260727-volodymyr-zelensky-andy-burnham-royaume-uni-drones-systeme-brouillage-%C3%A9lectronique",
+          "source": "France 24",
+          "summary": "Le président ukrainien Volodymyr Zelensky se rend lundi au Royaume-Uni pour proposer un \"accord sur les drones\" au nouveau Premier ministre Andy Burnham. Lors de cette visite, Londres doit annoncer le partage avec…",
+          "published": "2026-07-27T06:22:10+00:00"
         },
         {
-          "title": "En direct : les colonies de vacances suspendues en Gironde, Macron présidera lundi une cellule de crise",
+          "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens fait deux morts dans le sud de la Russie, selon les autorités locales",
+          "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-fait-deux-morts-dans-le-sud-de-la-russie-selon-les-autorites-locales_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "Une frappe ukrainienne nocturne sur la ville de Rostov-sur-le-Don a tué un couple et blessé cinq personnes, a déclaré le gouverneur régional. De son côté, l’armée ukrainienne a affirmé que 147 drones russes avaient été…",
+          "published": "2026-07-27T05:56:47+00:00"
+        },
+        {
+          "title": "🔴 En direct : les colonies de vacances suspendues en Gironde, Macron présidera lundi une cellule de crise",
           "link": "https://www.france24.com/fr/france/20260727-en-direct-115-000-hectares-parcourus-flammes-2026-france-cellule-crise-elysee-espagne-incendie-feux-foret-pompiers-europe-gironde",
           "source": "France 24",
-          "summary": "Des milliers de pompiers ont affronté pour la cinquième nuit consécutive un incendie hors norme en Gironde. Les activités des colonies de vacances sont suspendues dans le département, a annoncé tôt lundi la préfète…",
-          "published": "2026-07-27T00:01:41+00:00"
-        },
-        {
-          "title": "Un millier de nouveaux cas de Ebola recensés en dix jours en RD Congo",
-          "link": "https://www.france24.com/fr/afrique/20260726-un-millier-nouveaux-cas-virus-ebola-epidemie-sante-recenses-dix-jours-rd-congo-afrique",
-          "source": "France 24",
-          "summary": "La République démocratique du Congo fait face à une flambée d'Ebola dans l'est. Les autorités ont annoncé, dimanche, que 3 075 cas, dont 1 354 décès, ont été recensés dans le pays, alors que le seuil des 2 000 cas avait…",
-          "published": "2026-07-26T23:19:46+00:00"
-        },
-        {
-          "title": "Milei accuse Brésil, Mexique et Parti démocrate américain d'avoir financé une \"campagne anti-argentine\"",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260726-javier-milei-accuse-bresil-mexique-parti-democrate-americain-avoir-finance-campagne-anti-argentine-coupe-monde-diplomatie-rappel-ambassadeur-lula-da-silva",
-          "source": "France 24",
-          "summary": "Le président argentin Javier Milei a accusé dimanche le Brésil, le Mexique et le Parti démocrate américain d'avoir financé une \"campagne anti-argentine\" en marge de la Coupe du Monde. Plus tôt, Brasilia a rappelé son…",
-          "published": "2026-07-26T21:53:05+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky sera reçu lundi par le nouveau premier ministre britannique, Andy Burnham",
-          "link": "https://www.lemonde.fr/international/live/2026/07/26/en-direct-guerre-en-ukraine-volodymyr-zelensky-sera-recu-lundi-par-le-nouveau-premier-ministre-britannique-annonce-downing-street_6732775_3210.html",
-          "source": "Le Monde",
-          "summary": "Les deux dirigeants doivent se rencontrer sur une base navale et échangeront avec des militaires ukrainiens et britanniques qui participent à un exercice de lutte contre les mines marines, afin de préparer de futures…",
-          "published": "2026-07-26T21:44:36+00:00"
-        },
-        {
-          "title": "3 ans après le coup d'état au Niger, la situation sécuritaire instable et Bazoum toujours séquestré",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260726-3-ans-apr%C3%A8s-le-coup-d-%C3%A9tat-au-niger-la-situation-s%C3%A9curitaire-instable-et-bazoum-toujours-s%C3%A9questr%C3%A9",
-          "source": "France 24",
-          "summary": "Le 26 juillet 2023, le Niger basculait dans une nouvelle ère avec le coup d'Etat contre Mohamed Bazoum... Trois ans plus tard, le bilan de la junte militaire est mitigé sur le plan sécuritaire... Les avocats du…",
-          "published": "2026-07-26T21:13:44+00:00"
-        },
-        {
-          "title": "\"J'ai passé la nuit à tousser\" : sous les fumées des incendies, Bordeaux suffoque",
-          "link": "https://www.france24.com/fr/france/20260726-pass%C3%A9-nuit-tousser-fum%C3%A9es-incendies-bordeaux-gironde-suffoque",
-          "source": "France 24",
-          "summary": "Depuis vendredi soir, Bordeaux est plongé dans une épaisse fumée provenant de l'incendie massif qui ravage la région. Alors que le feu est désormais aux portes de la métropole, France 24 a arpenté les rues de la ville à…",
-          "published": "2026-07-26T20:57:42+00:00"
-        },
-        {
-          "title": "CAN féminine 2026 : le Nigeria peut-il conserver son titre face au Maroc ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260726-can-f%C3%A9minine-2026-le-nigeria-peut-il-conserver-son-titre-face-au-maroc",
-          "source": "France 24",
-          "summary": "La Coupe d'Afrique des Nations féminine débute au Maroc avec seize sélections en lice. Le Nigeria, champion en titre et détenteur de dix sacres continentaux, fait figure de favori, tandis que le Maroc espère enfin…",
-          "published": "2026-07-26T20:23:01+00:00"
-        },
-        {
-          "title": "🔴En direct : les incendies ont parcouru \"115 000 hectares depuis le début de la saison\", selon Laurent Nuñez",
-          "link": "https://www.france24.com/fr/france/20260725-en-direct-incendies-feux-france-espagne-gironde-evacuations-bordeaux-pompiers",
-          "source": "France 24",
           "summary": "",
-          "published": "2026-07-26T19:13:21+00:00"
+          "published": "2026-07-27T05:45:24+00:00"
         },
         {
-          "title": "Incendies en France : au coeur de la lutte contre les flammes",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260726-incendies-en-france-au-coeur-de-la-lutte-contre-les-flammes",
+          "title": "Incendies en France et en Espagne: \"Une saison en enfer\"",
+          "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260727-incendies-en-france-et-en-espagne-une-saison-en-enfer",
           "source": "France 24",
-          "summary": "Dans le département de la Gironde, les pompiers français luttent au plus près des flammes pour contenir un incendie hors norme.",
-          "published": "2026-07-26T18:44:41+00:00"
+          "summary": "A la Une de la presse, ce lundi 27 juillet les réactions aux incendies historiques qui ravagent le sud-ouest de la France et la région de Madrid, en Espagne.",
+          "published": "2026-07-27T05:26:42+00:00"
+        },
+        {
+          "title": "Tour de France : Mathieu van der Poel remporte une dernière étape de légende",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260727-tour-de-france-mathieu-van-der-poel-remporte-derni%C3%A8re-%C3%A9tape-l%C3%A9gende",
+          "source": "France 24",
+          "summary": "Lancé dans l’échappée, le Néerlandais Mathieu van der Poel s’est retrouvé seul avec le maillot jaune Tadej Pogacar avant de résister au retour du peloton. Le Slovène, lui, remporte son cinquième Tour de France.",
+          "published": "2026-07-27T05:16:04+00:00"
+        },
+        {
+          "title": "Dans la douleur de l’apprentissage de la danse : Louise Pommeret raconte",
+          "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260727-dans-la-douleur-de-l-apprentissage-de-la-danse-louise-pommeret-raconte",
+          "source": "RFI",
+          "summary": "Cette semaine, nous vous proposons une série spéciale de portraits \"Il ou elle raconte\". Nous partons à la rencontre de personnalités qui racontent nos sociétés actuelles. Avec eux, nous questionnerons notre rapport à…",
+          "published": "2026-07-27T05:00:06+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : Volodymyr Zelensky accuse l’Iran d’avoir « attaqué » l’Ukraine en fournissant des drones à la Russie",
+          "link": "https://www.lemonde.fr/international/live/2026/07/27/en-direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-iranienne-accuse-l-ukraine-d-avoir-attaque-un-navire-commercial-iranien_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Abbas Araghtchi, le chef de la diplomatie iranienne, avait jugé dimanche que Kiev était responsable d’une attaque contre un navire marchand iranien en mer Caspienne, dans laquelle un marin a été tué. Il a assuré que…",
+          "published": "2026-07-27T04:31:22+00:00"
+        },
+        {
+          "title": "« Après trois années d’un régime d’isolement implacable, la junte nigérienne entend continuer à martyriser nos parents »",
+          "link": "https://www.lemonde.fr/idees/article/2026/07/27/apres-trois-annees-d-un-regime-d-isolement-implacable-la-junte-nigerienne-entend-continuer-a-martyriser-nos-parents_6733711_3232.html",
+          "source": "Le Monde",
+          "summary": "Depuis le coup d’Etat du 26 juillet 2023, l’ancien dirigeant du Niger Mohamed Bazoum est retenu avec son épouse Khadija dans l’enceinte du palais présidentiel. Dans une tribune au « Monde », leurs cinq enfants demandent…",
+          "published": "2026-07-27T04:30:06+00:00"
+        },
+        {
+          "title": "Berlin sous le choc après l'attaque à la Pride",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-berlin-sous-le-choc-apr%C3%A8s-l-attaque-%C3%A0-la-pride",
+          "source": "France 24",
+          "summary": "L'attaque contre la marche des fiertés à Berlin, samedi, a fait un mort et 29 blessés. Le principal suspect avait déjà \"attiré l'attention des autorités par le passé en raison d'un grand nombre d'infractions pénales, de…",
+          "published": "2026-07-27T03:04:44+00:00"
+        },
+        {
+          "title": "Gironde : l'incendie menace des sites stratégiques",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-gironde-l-incendie-menace-des-sites-strat%C3%A9giques",
+          "source": "France 24",
+          "summary": "Face à la propagation du feu, qui se trouve désormais à une quinzaine de kilomètres de Bordeaux, les pompiers concentrent leurs efforts sur certains sites sensibles et stratégiques du domaine spacial, aéronautique et de…",
+          "published": "2026-07-27T03:01:13+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Seattle | Une fusillade dans un complexe événementiel fait plusieurs blessés",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-07-26/seattle/une-fusillade-dans-un-complexe-evenementiel-fait-plusieurs-blesses.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Plusieurs personnes ont été blessées dimanche soir lors d’une fusillade survenue dans un complexe événementiel situé près de la Space Needle à Seattle, a indiqué la police dans un communiqué.",
-          "published": "2026-07-27T02:47:47+00:00"
-        },
-        {
-          "title": "Tiger-Cats 18 – Alouettes 31 | Les Alouettes jouent avec le feu, mais l’emportent sur les Tiger-Cats",
-          "link": "https://www.lapresse.ca/sports/football/2026-07-26/tiger-cats-18-alouettes-31/les-alouettes-jouent-avec-le-feu-mais-l-emportent-sur-les-tiger-cats.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les Alouettes ont continué à jouer avec le feu et ils s’en sont encore une fois sorti indemnes.",
-          "published": "2026-07-27T02:14:07+00:00"
-        },
-        {
-          "title": "20e édition d’Haïti en Folie | La culture haïtienne à l’honneur",
-          "link": "https://www.lapresse.ca/actualites/2026-07-26/20e-edition-d-haiti-en-folie/la-culture-haitienne-a-l-honneur.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ateliers culinaires, percussions, cours de créole, peinture, lecture de conte : la culture haïtienne était à l’honneur lors de l’évènement Lakay se lakay, au parc La Fontaine du Plateau-Mont-Royal, dimanche. Retour en…",
-          "published": "2026-07-27T00:38:24+00:00"
-        },
-        {
-          "title": "Colombie-Britannique | Des incendies de forêt fusionnent au nord de Clinton",
-          "link": "https://www.lapresse.ca/actualites/national/2026-07-26/colombie-britannique/des-incendies-de-foret-fusionnent-au-nord-de-clinton.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Deux incendies menaçant le village de Clinton, en Colombie-Britannique, et ses environs ont fusionné samedi soir, au lendemain de l’incendie dans le secteur du lac Pear qui a détruit des bâtiments, dont des habitations,…",
-          "published": "2026-07-27T00:17:41+00:00"
-        },
-        {
-          "title": "La petite maison dans la prairie | Catherine Bérubé dans la série de l’été sur Netflix",
-          "link": "https://www.lapresse.ca/arts/television/2026-07-26/la-petite-maison-dans-la-prairie/catherine-berube-dans-la-serie-de-l-ete-sur-netflix.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La comédienne québécoise Catherine Bérubé a l’habitude de jouer dans des productions anglophones. Mais elle n’avait encore jamais tourné dans une série de l’ampleur de La petite maison dans la prairie, sur Netflix.",
-          "published": "2026-07-26T23:30:00+00:00"
-        },
-        {
-          "title": "«L’Odyssée» de Nolan ne montre aucun signe de faiblesse au box-office",
-          "link": "https://www.ledevoir.com/culture/cinema/997436/odyssee-nolan-ne-montre-aucun-signe-faiblesse-box-office",
+          "title": "Accueillir les Jeux a-t-il été payant?",
+          "link": "https://www.ledevoir.com/sports/997307/accueillir-jeux-il-ete-payant",
           "source": "Le Devoir",
-          "summary": "Le film continue d’exercer une forte emprise sur les cinéphiles nord-américains, avec des recettes de 87 millions de dollars.",
-          "published": "2026-07-26T22:55:00+00:00"
+          "summary": "Certaines méthodes de calcul gonflent artificiellement les bénéfices estimés pour l’accueil de tels événements.",
+          "published": "2026-07-27T04:00:00+00:00"
         },
         {
-          "title": "Quoi retenir de la fin de semaine ?",
-          "link": "https://www.ledevoir.com/actualites/997430/quoi-retenir-fin-semaine",
+          "title": "La nouvelle gauche… automobile",
+          "link": "https://www.ledevoir.com/opinion/idees/997265/nouvelle-gauche-automobile",
           "source": "Le Devoir",
-          "summary": "L’actualité de la fin de semaine des 25 et 26 juillet en résumé.",
-          "published": "2026-07-26T22:00:00+00:00"
+          "summary": "Cette course permanente contre le temps peut avoir des conséquences aussi dramatiques qu’irréversibles.",
+          "published": "2026-07-27T04:00:00+00:00"
         },
         {
-          "title": "«La boucle était bouclée» pour le chef du Mousso",
-          "link": "https://www.ledevoir.com/actualites/997427/boucle-etait-bouclee-chef-mousso",
+          "title": "Ce que la science nous apprend des effets de la nature sur le cerveau des enfants",
+          "link": "https://www.ledevoir.com/actualites/education/997424/ce-science-nous-apprend-effets-nature-cerveau-enfants",
           "source": "Le Devoir",
-          "summary": "La table de fine gastronomie montréalaise a annoncé vendredi qu’elle fermerait ses portes le 22 août prochain. Entrevue.",
-          "published": "2026-07-26T21:30:00+00:00"
+          "summary": "Une enseignante emmène l’ensemble des élèves dehors dans l’objectif d’adopter une philosophie axée sur la nature.",
+          "published": "2026-07-27T04:00:00+00:00"
         },
         {
-          "title": "Homicide à Shawinigan | Un homme est recherché par la SQ",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-26/homicide-a-shawinigan/un-homme-est-recherche-par-la-sq.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le Service des enquêtes sur les crimes contre la personne de la Sûreté du Québec (SQ) tente de retrouver une personne d’intérêt dans une enquête en lien avec un homicide survenu dimanche matin à Shawinigan. Il s’agit de…",
-          "published": "2026-07-26T20:45:21+00:00"
-        },
-        {
-          "title": "Près de 350 000 Haïtiens vivant aux États-Unis seront plongés dans l’incertitude dès demain",
-          "link": "https://www.ledevoir.com/actualites/immigration/997403/pres-350-000-haitiens-vivant-etats-unis-seront-plonges-incertitude-demain",
+          "title": "Brûler le monde",
+          "link": "https://www.ledevoir.com/opinion/chroniques/997418/bruler-monde",
           "source": "Le Devoir",
-          "summary": "«Le Devoir» fait le point sur la situation qui pourrait avoir des répercussions au Québec et au Canada.",
-          "published": "2026-07-26T20:33:00+00:00"
+          "summary": "Je continue de penser que si la jeunesse souffre, c’est aussi parce qu’elle vit en phase avec son monde.",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Pourquoi nos muscles s’affaiblissent-ils avec l’âge?",
+          "link": "https://www.ledevoir.com/opinion/idees/997277/pourquoi-muscles-affaiblissent-ils-age",
+          "source": "Le Devoir",
+          "summary": "Une piste du côté des mitochondries nous dit que le vieillissement musculaire n’est pas entièrement écrit d’avance.",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Le photographe Michel Gauthier ou le pari du quotidien",
+          "link": "https://www.ledevoir.com/culture/arts-visuels/997409/photographe-michel-gauthier-ou-pari-quotidien",
+          "source": "Le Devoir",
+          "summary": "Le photographe penche du côté des humbles, à travers lesquels se dessinent des récits empreints d’humanité.",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Un «superpouvoir» en habitation pour les villes, mais à quel prix?",
+          "link": "https://www.ledevoir.com/actualites/societe/997406/superpouvoir-habitation-villes-mais-quel-prix",
+          "source": "Le Devoir",
+          "summary": "Des experts craignent que des projets soient approuvés sans tenir compte de la capacité du territoire à les accueillir.",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Même refrain et pas de grand projet au PLQ",
+          "link": "https://www.ledevoir.com/opinion/idees/997412/meme-refrain-pas-grand-projet-plq",
+          "source": "Le Devoir",
+          "summary": "Milliard se compare souvent à Bourassa, mais est-il capable d’en assumer pleinement le nationalisme robuste?",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Le cul-de-sac de la CAQ",
+          "link": "https://www.ledevoir.com/opinion/idees/997415/cul-sac-caq",
+          "source": "Le Devoir",
+          "summary": "Son bilan économique et constitutionnel montre qu’il n’y a pas de place pour une plus grande autonomie.",
+          "published": "2026-07-27T04:00:00+00:00"
+        },
+        {
+          "title": "Pour ne pas perdre le fil des tarifs américains",
+          "link": "https://www.ledevoir.com/economie/997421/ne-pas-perdre-fil-tarifs-americains",
+          "source": "Le Devoir",
+          "summary": "Le Québec serait le plus touché au Canada et le secteur manufacturier serait le seul à en profiter aux États-Unis.",
+          "published": "2026-07-27T04:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,129 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Incendies en France : neuf pompiers blessés en Gironde, l’activité des colonies de vacances suspendue",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-emmanuel-macron-presidera-lundi-a-10-heures-une-cellule-interministerielle-de-crise-20260726",
-          "source": "Le Figaro",
-          "summary": "Les incendies se poursuivent en Gironde ; plus de 42.000 hectares ont été brûlés et 220.000 personnes évacuées. Celles-ci ne pourront pas revenir à leur domicile tant que le feu ne sera pas fixé.",
-          "published": "2026-07-27T01:24:04+00:00"
-        },
-        {
-          "title": "\"C'est un peu comme une guerre\" : des Landes à la Gironde, retour sur quatre jours de lutte contre des incendies hors norme",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-un-peu-comme-une-guerre-des-landes-a-la-gironde-quatre-jours-en-enfer-contre-un-monstre-de-feu_8123234.html#xtor=RSS-3-[lestitres]",
+          "title": "Aux Etats-Unis, une fusillade fait deux morts et au moins quatre blessés à Seattle",
+          "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-deux-morts-et-au-moins-quatre-blesses-dans-une-fusillade-a-seattle_8123522.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les feux ont déjà ravagé 42 000 hectares et entraîné l'évacuation de 220 000 personnes en Gironde. France Télévisions revient sur ces quatre jours en enfer.",
-          "published": "2026-07-26T21:08:47+00:00"
+          "summary": "Les tirs, qui ont eu lieu à proximité de la célèbre tour Space Needle, dimanche, ont blessé deux femmes, un homme et un enfant, qui ont été hospitalisés. Deux suspects ont été interpellés, selon la municipalité.",
+          "published": "2026-07-27T06:25:52+00:00"
         },
         {
-          "title": "\"On se doit d'être là pour eux\" : au milieu du brasier en Gironde, des habitants tentent d'aider les 2 500 pompiers mobilisés",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/2-500-pompiers-mobilises-au-c-ur-du-brasier-en-gironde_8123198.html#xtor=RSS-3-[lestitres]",
+          "title": "Deux morts en Russie dans une attaque de drones ukrainienne",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-morts-en-russie-dans-une-attaque-de-drones-ukrainienne_8123597.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Face aux incendies, c’est la nuit que le combat est le plus éprouvant pour les pompiers, car les Canadairs ne peuvent pas voler. Tout se joue au sol, au plus près des flammes, avec parfois l’aide des habitants.",
-          "published": "2026-07-26T20:50:37+00:00"
+          "summary": "Les drones ukrainiens ont frappé dans la nuit de dimanche à lundi la ville de Rostov-sur-le-Don, dans le sud de la Russie, provoquant la mort d'un couple et faisant cinq blessés. Douze autres personnes ont été blessées…",
+          "published": "2026-07-27T06:21:31+00:00"
         },
         {
-          "title": "«Une dégradation importante de la qualité de l’air» dans quatre départements du Sud-Ouest à cause des incendies",
-          "link": "https://sante.lefigaro.fr/social/sante-publique/une-degradation-importante-de-la-qualite-de-l-air-dans-quatre-departements-du-sud-ouest-a-cause-des-incendies-20260726",
+          "title": "EN DIRECT - Incendies en France : feu «globalement stable» en Gironde, Macron présidera une cellule interministérielle de crise ce lundi",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-en-france-feu-globalement-stable-en-gironde-macron-presidera-une-cellule-interministerielle-de-crise-ce-lundi-20260727",
           "source": "Le Figaro",
-          "summary": "Le seuil d’alerte de pollution aux particules fines a été dépassé en Gironde, Landes, Dordogne et Lot-et-Garonne à cause des panaches de fumée dégagés par les incendies.",
-          "published": "2026-07-26T20:49:23+00:00"
+          "summary": "Après plusieurs journées de progression ininterrompue, l’incendie massif qui a parcouru 42.000 hectares en Gironde et entraîné l’évacuation de 220.000 personnes est resté «globalement stable au cours de la nuit» de…",
+          "published": "2026-07-27T06:21:02+00:00"
         },
         {
-          "title": "Tour de France : «Je veux juste profiter du moment, sans penser à l’histoire», assure Tadej Pogacar",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-je-veux-juste-profiter-du-moment-sans-penser-a-l-histoire-assure-tadej-pogacar-20260726",
+          "title": "Incendies : le dernier Conseil des ministres avant la pause estivale vire à la réunion de crise",
+          "link": "https://www.lefigaro.fr/politique/incendies-le-dernier-conseil-des-ministres-avant-la-pause-estivale-vire-a-la-reunion-de-crise-20260726",
           "source": "Le Figaro",
-          "summary": "Le Slovène a, ce dimanche à Paris, remporté un cinquième succès sur le Tour. Une victoire totale.",
-          "published": "2026-07-26T20:32:06+00:00"
+          "summary": "Le « mégafeu » de Gironde mobilise le gouvernement Lecornu, qui a envoyé l’armée en renfort et se voit accusé d’impréparation par les oppositions. Emmanuel Macron doit présider lundi matin une nouvelle réunion de crise.",
+          "published": "2026-07-27T06:15:10+00:00"
         },
         {
-          "title": "«Le Monde a décidé de sortir l’artillerie lourde» : Bernard Arnault écrit sa colère après une enquête consacrée à LVMH",
-          "link": "https://www.lefigaro.fr/societes/le-monde-a-decide-de-sortir-l-artillerie-lourde-bernard-arnault-ecrit-sa-colere-apres-une-enquete-consacree-a-lvmh-20260726",
+          "title": "«Berlin est liberté» : la Porte de Brandebourg illuminée en arc-en-ciel après l’attentat contre la pride",
+          "link": "https://www.lefigaro.fr/international/berlin-est-liberte-la-porte-de-brandebourg-illuminee-en-arc-en-ciel-apres-l-attentat-contre-la-pride-20260727",
           "source": "Le Figaro",
-          "summary": "Dans une lettre diffusée sur X, le PDG et principal actionnaire du leader mondial du luxe a vivement réagi à la publication de plusieurs articles consacrés à «L’empire Bernard Arnault».",
-          "published": "2026-07-26T20:29:55+00:00"
+          "summary": "VIDÉO - Au lendemain de l’attentat qui a visé la Marche des fiertés de Berlin, la Porte de Brandebourg s’est illuminée des couleurs de l’arc-en-ciel dimanche 26 juillet.",
+          "published": "2026-07-27T06:04:07+00:00"
         },
         {
-          "title": "«Taisez-vous», «C’est pas le Club Med», «Arrête ton cinéma, je suis deuxième»... les phrases chocs du Tour de France",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/taisez-vous-c-est-pas-le-club-med-arrete-ton-cinema-je-suis-deuxieme-les-phrases-marquantes-du-tour-de-france-20260726",
-          "source": "Le Figaro",
-          "summary": "Paul Seixas qui calme le public, Lenny Martinez qui répond à Carapaz ou encore Remco Evenepoel qui recadre son attaché de presse... Florilège des plus belles punchlines de la Grande Boucle.",
-          "published": "2026-07-26T19:52:44+00:00"
-        },
-        {
-          "title": "Tour de France : exceptionnel Van der Poel, le volcan Montmartre, un gel inutile du classement... Les tops et les flops de la 21e étape",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-exceptionnel-van-der-poel-le-volcan-montmartre-un-gel-inutile-du-classement-les-tops-et-les-flops-de-la-21e-etape-20260726",
-          "source": "Le Figaro",
-          "summary": "À l’issue de la magistrale victoire sur les Champs-Élysées de Mathieu van der Poel, retrouvez ce qui a plu... et déplu à nos envoyés spéciaux.",
-          "published": "2026-07-26T19:38:17+00:00"
-        },
-        {
-          "title": "\"La commune a été encerclée par les flammes\" : dans le village du Porge, 175 maisons ont été détruites par l'incendie qui ravage la Gironde",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/je-vois-plus-rien-je-vois-de-la-desolation-le-porge-un-village-aneanti-par-les-incendies_8123225.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"Nos administrés ne doivent pas revenir ici. C’est pour leur sécurité\", assure le maire de la commune.",
-          "published": "2026-07-26T19:36:41+00:00"
-        },
-        {
-          "title": "Ecosse, Algérie, Italie… Ces autres pays gravement touchés par des incendies",
-          "link": "https://www.liberation.fr/international/europe/ecosse-algerie-italie-ces-autres-pays-gravement-touches-par-des-incendies-20260726_4NWRDBD35ZC7DPUO26JSZUGY3A/",
+          "title": "Le feu «globalement stable» en Gironde, l’auteur présumé de l’attaque à Berlin tué, une nouvelle vague de chaleur… L’actu de ce lundi 27 juillet au matin",
+          "link": "https://www.liberation.fr/international/europe/le-feu-globalement-stable-en-gironde-lauteur-presume-de-lattaque-a-berlin-tue-une-nouvelle-vague-de-chaleur-lactu-de-ce-lundi-27-juillet-au-matin-20260727_CVXR6X342RBBFNXZRH3UMLSQ7E/",
           "source": "Liberation",
-          "summary": "D’un continent à l’autre, sécheresse et hautes températures sont le carburant des feux de forêts d’ampleur.",
-          "published": "2026-07-26T19:19:00+00:00"
+          "summary": "La rédaction de «Libération» compile les principales infos du jour",
+          "published": "2026-07-27T06:01:01+00:00"
+        },
+        {
+          "title": "Aux Iles Salomon, plusieurs morts à craindre après un glissement de terrain dans une mine d'or",
+          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/aux-iles-salomon-plusieurs-morts-a-craindre-apres-un-glissement-de-terrain-dans-une-mine-d-or_8123552.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Un journal local a fait état de la découverte de \"10 corps\" sur le site minier de Gold Ridge. Un bilan que la police royale a refusé de commenter pour le moment.",
+          "published": "2026-07-27T05:59:21+00:00"
+        },
+        {
+          "title": "\"Le jour où on arrête, le feu arrive au village\" : dans les Pyrénées-Orientales, les agriculteurs érigent un rempart contre les flammes",
+          "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-le-jour-ou-on-arrete-le-feu-arrive-au-village-dans-les-pyrenees-orientales-les-agriculteurs-erigent-un-rempart-contre-les-flammes_8095964.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Comment prévenir au mieux les incendies ? Le village de Montalba-le-Château a été épargné par le gros feu de Trévillach, début juillet, grâce notamment à des pâturages et des arbres bien entretenus. Ces ceintures vertes…",
+          "published": "2026-07-27T05:59:16+00:00"
+        },
+        {
+          "title": "\"À quel point l'arbre est-il capable de refaire des pommes ?\" : des chercheurs en quête d'arbres fruitiers plus résilients face au réchauffement climatique",
+          "link": "https://www.franceinfo.fr/environnement/crise-climatique/reportage-a-quel-point-l-arbre-est-il-capable-de-refaire-des-pommes-des-chercheurs-en-quete-d-arbres-fruitiers-plus-resilients-face-au-rechauffement-climatique_8123042.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La recherche scientifique se penche sur des variétés capables de mieux résister aux aléas climatiques. Des chercheurs réalisent des prélèvements pour étudier les propriétés de pommiers, d'abricotiers ou encore…",
+          "published": "2026-07-27T05:55:46+00:00"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : au Yémen, la crainte d'une prise contrôle du détroit de Bab-el-Mandeb par les Houthis",
+          "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/guerre-au-moyen-orient-au-yemen-la-crainte-d-une-prise-controle-du-detroit-de-bab-el-mandeb-par-les-houthis_8123219.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'Arabie saoudite et les Houthis ont à nouveau échangé des tirs après quatre ans de cessez-le-feu. Un nouveau front risque de s'ouvrir dans ce détroit au sud du Yémen où passent notamment des pétroliers saoudiens.",
+          "published": "2026-07-27T05:44:35+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Piégée par un radar, une conductrice perd tous ses points de permis, mais un vice de procédure joue en sa faveur",
+          "link": "https://www.clubic.com/actualite-622807-piegee-par-un-radar-une-conductrice-perd-tous-ses-points-de-permis-mais-un-vice-de-procedure-joue-en-sa-faveur.html",
+          "source": "Clubic",
+          "summary": "Le tribunal administratif de Versailles a annulé, le 17 juillet, l'invalidation du permis à points d'une automobiliste, car l'administration n'a pas su prouver l'avoir informée des conséquences de trois infractions…",
+          "published": "2026-07-27T06:16:00+00:00"
+        },
+        {
+          "title": "Lunettes connectées Apple : le grand dilemme de la caméra et de la vie privée",
+          "link": "https://www.frandroid.com/marques/apple/3194409_lunettes-connectees-apple-le-grand-dilemme-de-la-camera-et-de-la-vie-privee",
+          "source": "Frandroid",
+          "summary": "Bloomberg confirme la piste&nbsp;: les premières lunettes connectées d'Apple seraient dévoilées à la WWDC de juin 2027, avec la vie privée comme argument phare face aux Ray-Ban Meta.",
+          "published": "2026-07-27T06:10:18+00:00"
+        },
+        {
+          "title": "AppleCare One arrive en France le 4 août : trois appareils protégés sous un seul abonnement",
+          "link": "https://www.clubic.com/actualite-622522-applecare-one-arrive-en-france-le-4-aout-trois-appareils-proteges-sous-un-seul-abonnement.html",
+          "source": "Clubic",
+          "summary": "Apple lance sa nouvelle AppleCare One en France le 4 août prochain. Elle permet aux utilisateurs de protéger jusqu’à trois appareils dans un seul abonnement, avec quelques économies à la clé.",
+          "published": "2026-07-27T06:00:00+00:00"
+        },
+        {
+          "title": "Test du Realme 16 Pro : une grosse batterie dans un smartphone étonnamment léger",
+          "link": "https://www.numerama.com/tech/2299987-test-du-realme-16-pro-une-grosse-batterie-dans-un-smartphone-etonnamment-leger.html",
+          "source": "Numerama",
+          "summary": "Avec sa batterie de 6 500 mAh et son capteur photo de 200 mégapixels, le Realme 16 Pro avance de solides arguments sur le milieu de gamme. Disponible autour de 350 € depuis janvier 2026, rivalise-t-il avec la…",
+          "published": "2026-07-27T05:34:00+00:00"
+        },
+        {
+          "title": "Honor Magic 8 Lite vs Nothing Phone (3a) : comment choisir le meilleur smartphone abordable  ?",
+          "link": "https://www.frandroid.com/versus/2955015_honor-magic-8-lite-vs-nothing-phone-3a-comment-choisir-le-meilleur-smartphone-abordable",
+          "source": "Frandroid",
+          "summary": "Le Nothing Phone (3a) a contribué à redistribuer les cartes du milieu de gamme. Le Honor Magic 8 Lite peut-il répliquer l'exploit ? On les compare dans ce nouveau versus pour vous aider à bien choisir !",
+          "published": "2026-07-27T05:32:00+00:00"
+        },
+        {
+          "title": "À moins de 500 €, ce laptop HP de 17″ avec Ryzen 5 est une machine idéale pour les étudiants",
+          "link": "https://www.frandroid.com/bons-plans/3193691_a-moins-de-500-e-ce-laptop-hp-de-17-avec-ryzen-5-est-une-machine-ideale-pour-les-etudiants",
+          "source": "Frandroid",
+          "summary": "Si vous recherchez un PC portable simple, efficace et surtout équipé d'un grand écran pour travailler dans de bonnes conditions, le HP 17-cp2051nf pourrait bien vous intéresser. La bonne nouvelle, c'est que Cdiscount le…",
+          "published": "2026-07-27T05:12:00+00:00"
+        },
+        {
+          "title": "Les IA d’OpenAI qui dérapent, une faille Linux trouvée par Claude et un million de VM patchées d’urgence chez OVHcloud : on vous raconte la semaine Cyberguerre",
+          "link": "https://www.numerama.com/cyberguerre/2301581-les-ia-dopenai-qui-derapent-une-faille-linux-trouvee-par-claude-et-un-million-de-vm-patchees-durgence-chez-ovhcloud-on-vous-raconte-la-semaine-cyberguerre.html",
+          "source": "Numerama",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : des agents d'OpenAI qui ont piraté Hugging Face en toute autonomie, une faille noyau critique débusquée par Claude Mythos, et le récit d'une course contre…",
+          "published": "2026-07-27T05:00:00+00:00"
+        },
         {
           "title": "Pas de Tesla FSD en France, Toyota est en plein malaise et un avantage pour les VE en Belgique : le récap’ Vroom de la semaine",
           "link": "https://www.numerama.com/vroom/2301591-pas-de-tesla-fsd-en-france-toyota-est-plein-malaise-et-un-avantage-pour-les-ve-en-belgique-le-recap-vroom-de-la-semaine.html",
@@ -267,55 +316,6 @@
           "source": "Frandroid",
           "summary": "Les enceintes Bluetooth portables intègrent bien entendu une batterie pour être utilisées un peu partout. L'autonomie est donc un critère majeur. Quels sont les modèles qui se distinguent sur ce point ?",
           "published": "2026-07-26T17:02:09+00:00"
-        },
-        {
-          "title": "C’est l’une des plus grandes bavures scientifiques de l’histoire, et on la doit à un physicien français",
-          "link": "https://www.numerama.com/sciences/2301497-cest-lune-des-plus-grandes-bavures-scientifiques-de-lhistoire-et-on-la-doit-a-un-physicien-francais.html",
-          "source": "Numerama",
-          "summary": "Il faut le croire pour le voir&nbsp;: voilà ce qui a conduit des scientifiques renommés à percevoir des rayons émis qui finalement n’existaient pas. L’affaire des rayons N illustre l’un des plus grands égarements…",
-          "published": "2026-07-26T16:31:00+00:00"
-        },
-        {
-          "title": "Xiaomi POCO X8 Pro Max vs Nothing Phone (4a) Pro : comment choisir le meilleur smartphone milieu de gamme ?",
-          "link": "https://www.frandroid.com/versus/3190317_xiaomi-poco-x8-pro-max-vs-nothing-phone-4a-pro-comment-choisir-le-meilleur-smartphone-milieu-de-gamme",
-          "source": "Frandroid",
-          "summary": "Si Nothing est bien installé sur le segment du milieu de gamme, Xiaomi frappe un grand coup cette année avec un POCO X8 Pro Max surprenant, notamment au chapitre des performances. Comment départager ces deux références ?",
-          "published": "2026-07-26T16:00:00+00:00"
-        },
-        {
-          "title": "Le moniteur gaming XXL de LG, 52 pouces en 5K2K et 240 Hz, perd 300 € de son prix",
-          "link": "https://www.frandroid.com/bons-plans/3190795_le-moniteur-gaming-xxl-de-lg-52-pouces-en-5k2k-et-240-hz-perd-300-e-de-son-prix",
-          "source": "Frandroid",
-          "summary": "Le LG UltraGear 52G930B est un moniteur gaming hors norme : 52 pouces en format 21:9, résolution 5K2K et 240 Hz. Il est assez onéreux, mais grâce à cette offre Amazon, son prix passe à 1 499 euros au lieu de 1 799 euros…",
-          "published": "2026-07-26T15:45:00+00:00"
-        },
-        {
-          "title": "Obtenez 12 mois de frais de gestion OFFERTS sur votre badge de télépéage avec ce code promo",
-          "link": "https://www.clubic.com/bons-plans-622444-obtenez-12-mois-de-frais-de-gestion-offerts-sur-votre-badge-de-telepeage-avec-ce-code-promo.html",
-          "source": "Clubic",
-          "summary": "Fulli allège la facture des trajets estivaux : 12 mois de frais de gestion offerts sur le badge de télépéage avec le code ETE26.",
-          "published": "2026-07-26T15:30:00+00:00"
-        },
-        {
-          "title": "Vos enfants sont trop jeunes pour voir L’Odyssée au cinéma ? Ce livre devrait leur plaire",
-          "link": "https://www.numerama.com/pop-culture/2301663-ce-livre-est-la-meilleure-porte-dentree-pour-faire-decouvrir-lodyssee-aux-plus-jeunes.html",
-          "source": "Numerama",
-          "summary": "Vous avez vu L’Odyssée de Christopher Nolan au cinéma et vous aimeriez bien montrer le film à vos enfants. Problème : ils sont encore trop jeunes. Il existe heureusement de nombreuses œuvres qui abordent le récit à leur…",
-          "published": "2026-07-26T15:00:00+00:00"
-        },
-        {
-          "title": "J’ai essayé le DS N°7 : beaucoup de potentiel face aux Allemands, mais une base technique qui fait douter",
-          "link": "https://www.numerama.com/vroom/2298113-jai-essaye-le-ds-n7-beaucoup-de-potentiel-face-aux-allemands-mais-une-base-technique-qui-fait-douter.html",
-          "source": "Numerama",
-          "summary": "Le DS 7 change tout, même de nom, et devient N°7. Il est le premier modèle de la marque à se renouveler pour une nouvelle génération et il le fait avec la manière, en passant au 100 % électrique. Au menu : un style…",
-          "published": "2026-07-26T15:00:00+00:00"
-        },
-        {
-          "title": "AMD confirme Zen 7 (Florence) et Intinct MI600 pour 2028 ; Zen 8 (Ravenna) pour 2030",
-          "link": "https://www.clubic.com/actualite-622789-amd-confirme-zen-7-florence-et-intinct-mi600-pour-2028-zen-8-ravenne-pour-2030.html",
-          "source": "Clubic",
-          "summary": "La feuille de route CPU/GPU d’AMD se précise pour les trois à quatre prochaines années : Zen a de l’avenir.",
-          "published": "2026-07-26T14:46:00+00:00"
         }
       ]
     }
