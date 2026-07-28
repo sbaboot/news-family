@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-07-28T16:39:56.491991+00:00",
+  "generated_at": "2026-07-28T19:21:24.551446+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine affirme avoir dérouté 18 navires commerciaux depuis le début du blocus des ports iraniens",
+          "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-americaine-affirme-avoir-deroute-18-navires-commerciaux-depuis-le-debut-du-blocus-contre-l-iran_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Le commandement militaire conjoint iranien a, de son côté, déclaré que toute entreprise ou tout pays qui recevrait des avoirs iraniens gelés à titre d’indemnisation pour ses navires endommagés ne serait pas autorisé à…",
+          "published": "2026-07-28T18:30:23+00:00"
+        },
+        {
+          "title": "En Espagne, le « pacte d’Etat » de Pedro Sanchez face à l’urgence climatique est rejeté par une droite climatosceptique",
+          "link": "https://www.lemonde.fr/planete/article/2026/07/28/en-espagne-le-pacte-d-etat-de-pedro-sanchez-face-a-l-urgence-climatique-est-rejete-par-la-droite_6735402_3244.html",
+          "source": "Le Monde",
+          "summary": "Alors que les incendies monstres qui ravagent le pays sont en passe d’être fixés, le premier ministre socialiste estime qu’il est urgent d’adopter les mesures de prévention élaborées en 2025 avec la société civile et…",
+          "published": "2026-07-28T17:42:43+00:00"
+        },
+        {
+          "title": "Incendies en Gironde : chaîne de solidarité pour les animaux",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-incendies-en-gironde-cha%C3%AEne-de-solidarit%C3%A9-pour-les-animaux",
+          "source": "France 24",
+          "summary": "Face aux évacuations massives dans le sud-ouest de la France, la solidarité s'organise aussi pour les animaux. Éleveurs et bénévoles se mobilisent pour accueillir les compagnons des habitants contraints de fuir et…",
+          "published": "2026-07-28T17:25:55+00:00"
+        },
+        {
+          "title": "Japon : un séisme de magnitude 7,1 frappe le pays",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-japon-un-s%C3%A9isme-de-magnitude-7-1-frappe-le-pays",
+          "source": "France 24",
+          "summary": "Un séisme de magnitude 7,1 a frappé mardi 28 juillet le sud-ouest du Japon faisant au moins un mort et des dizaines de blessés.",
+          "published": "2026-07-28T17:13:41+00:00"
+        },
+        {
+          "title": "Bénin : les masques ancestraux à l’honneur à Porto-Novo",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-b%C3%A9nin-les-masques-ancestraux-%C3%A0-l-honneur-%C3%A0-porto-novo",
+          "source": "France 24",
+          "summary": "Le Bénin célèbre son patrimoine à travers le Festival des masques de Porto-Novo, un événement qui rassemble traditions, culture et spiritualité. Le pays ambitionne d'en faire un rendez-vous incontournable à l'échelle…",
+          "published": "2026-07-28T17:04:01+00:00"
+        },
+        {
+          "title": "Guerre au Soudan : l’armée fait une avancée stratégique après des mois de gel du front",
+          "link": "https://www.lemonde.fr/afrique/article/2026/07/28/guerre-au-soudan-l-armee-fait-une-avancee-strategique-apres-des-mois-de-gel-du-front_6735364_3212.html",
+          "source": "Le Monde",
+          "summary": "Les forces armées soudanaises se sont emparées, dimanche 26 juillet, de quatre villes stratégiques situées sur la route reliant Khartoum à El-Obeid, la capitale du Kordofan du Nord assiégée par les paramilitaires des…",
+          "published": "2026-07-28T17:00:04+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite de sa « belle rencontre » avec Donald Trump",
+          "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-de-sa-belle-rencontre-avec-donald-trump_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "« Nous avons discuté (…) des licences de production d’intercepteurs pour les [missiles] Patriot et de quelques autres idées qui pourraient aider. Nous avons également parlé de diplomatie », a affirmé le président…",
+          "published": "2026-07-28T16:59:33+00:00"
+        },
         {
           "title": "Les États-Unis en manque d'armes ? Pourquoi l'armée s'inquiète",
           "link": "https://www.france24.com/fr/am%C3%A9riques/20260728-les-%C3%A9tats-unis-en-manque-d-armes-pourquoi-l-arm%C3%A9e-s-inqui%C3%A8te",
@@ -24,55 +73,6 @@
           "source": "France 24",
           "summary": "Face à la panique des évacuations liées au méga feu en Gironde, de nombreux animaux de compagnie ont été laissés, livrés à eux-mêmes. D'autres, emmenés dans la précipitation par leurs maîtres désormais sans logement,…",
           "published": "2026-07-28T16:29:56+00:00"
-        },
-        {
-          "title": "Mort du journaliste sénégalais Idriss Fall, une voix influente de l’Afrique francophone",
-          "link": "https://www.lemonde.fr/disparitions/article/2026/07/28/mort-du-journaliste-senegalais-idriss-fall-une-voix-influente-de-l-afrique-francophone_6735329_3382.html",
-          "source": "Le Monde",
-          "summary": "Grand reporter puis rédacteur en chef du service francophone de la radio américaine Voice of America, il avait couvert de nombreux conflits en Afrique. Il est mort le 24 juillet, à l’âge de 72 ans.",
-          "published": "2026-07-28T16:29:47+00:00"
-        },
-        {
-          "title": "« J’ai pris la fuite pour protéger mes enfants, mais ça n’a pas suffi » : à Gaza, les missiles israéliens continuent de tuer des civils malgré le cessez-le-feu",
-          "link": "https://www.lemonde.fr/international/article/2026/07/28/j-ai-pris-la-fuite-pour-proteger-mes-enfants-mais-ca-n-a-pas-suffi-a-gaza-les-missiles-israeliens-continuent-de-tuer-des-civils-malgre-le-cessez-le-feu_6735327_3210.html",
-          "source": "Le Monde",
-          "summary": "Depuis l’annonce du cessez-le-feu imposé par Donald Trump en octobre 2025, les frappes israéliennes ont causé la mort de plus de 1 100 Gazaouis. Parmi eux, près de 300 mineurs, selon l’Unicef, dont les quatre enfants de…",
-          "published": "2026-07-28T16:26:04+00:00"
-        },
-        {
-          "title": "Zinédine Zidane nouveau sélectionneur des Bleus, à quoi s’attendre ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-zin%C3%A9dine-zidane-nouveau-s%C3%A9lectionneur-des-bleus-%C3%A0-quoi-s-attendre",
-          "source": "France 24",
-          "summary": "Zinédine #Zidane est le nouveau coach des Bleus. Nouveau staff, nouvelles échéances, nouveau style de jeu ? À quoi s’attendre avec Zizou à la tête des Bleus ? On décortique tout ça avec Benoît Perrochais",
-          "published": "2026-07-28T16:24:59+00:00"
-        },
-        {
-          "title": "Le Togo, nouvelle porte d’entrée des armes envoyées par Moscou au Sahel",
-          "link": "https://www.france24.com/fr/afrique/20260728-le-togo-nouvelle-porte-d-entr%C3%A9e-des-armes-envoy%C3%A9es-par-moscou-au-sahel",
-          "source": "France 24",
-          "summary": "Un navire russe sous sanctions américaines, le Mikhael Britnev, a livré le 9 juillet une cargaison de véhicules militaires dans le port de Lomé, au Togo. C’est la première fois que le pays sert à l’acheminement d'armes…",
-          "published": "2026-07-28T16:12:32+00:00"
-        },
-        {
-          "title": "Stocks de munitions américains : l’inquiétude grandit",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-stocks-de-munitions-am%C3%A9ricains-l-inqui%C3%A9tude-grandit",
-          "source": "France 24",
-          "summary": "Les stocks de munitions de l'armée américaine sont-ils sous tension ? Alors que le New York Times alerte sur un possible affaiblissement des réserves, notamment en missiles intercepteurs Patriot, le général de corps…",
-          "published": "2026-07-28T16:08:23+00:00"
-        },
-        {
-          "title": "Séisme au Japon : tremblement de terre de magnitude 7,1, au moins un mort et des dizaines de blessés",
-          "link": "https://www.lemonde.fr/international/article/2026/07/28/seisme-au-japon-tremblement-de-terre-de-magnitude-7-1-au-moins-un-mort-et-des-dizaines-de-blesses_6734975_3211.html",
-          "source": "Le Monde",
-          "summary": "Plusieurs dizaines de personnes sont également portées disparues. Le deuxième étage d’un centre commercial s’est effondré, piégeant de « nombreuses personnes ». Le trafic ferroviaire a été suspendu dans tout le sud du…",
-          "published": "2026-07-28T16:07:52+00:00"
-        },
-        {
-          "title": "Incendies en France : à Biscarrosse, les habitants évacués rentrent progressivement chez eux",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-incendies-en-france-%C3%A0-biscarrosse-les-habitants-%C3%A9vacu%C3%A9s-rentrent-progressivement-chez-eux",
-          "source": "France 24",
-          "summary": "Dans les Landes, l'accalmie se confirme. Les feux de Biscarrosse sont désormais fixés et des milliers d'habitants peuvent enfin regagner leur domicile, après plusieurs jours d'évacuation. Les autorités appellent…",
-          "published": "2026-07-28T16:07:14+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Changements climatiques | Une présence accrue des requins blancs dans le golfe du Saint-Laurent",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-07-28/changements-climatiques/une-presence-accrue-des-requins-blancs-dans-le-golfe-du-saint-laurent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Prix du carburant | Transat emprunte encore auprès d’Ottawa",
+          "link": "https://www.lapresse.ca/affaires/entreprises/2026-07-28/prix-du-carburant/transat-emprunte-encore-aupres-d-ottawa.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Un total de neuf requins blancs ont été repérés en train de nager dans les eaux du golfe du Saint-Laurent, au cours de la dernière semaine. Loin d’être anormale, cette présence accrue reflète notamment une conséquence…",
-          "published": "2026-07-28T16:00:00+00:00"
+          "summary": "Sous pression en raison de la flambée des prix du carburant d’aviation, Transat A.T. alourdira sa dette en empruntant jusqu’à 150 millions auprès d’Ottawa dans le cadre de son programme visant à épauler les…",
+          "published": "2026-07-28T19:05:51+00:00"
         },
         {
-          "title": "« Spider-Man : Brand New Day » : une variation réussie",
-          "link": "https://www.ledevoir.com/culture/cinema/997847/spider-man-brand-new-day-variation-reussie",
+          "title": "Pourquoi la France ne recevra-t-elle pas de nouveaux Canadair avant 2028?",
+          "link": "https://www.ledevoir.com/economie/997907/pourquoi-france-ne-recevra-elle-pas-nouveaux-canadair-avant-2028",
           "source": "Le Devoir",
-          "summary": "Plus sombre et plus « réaliste », ce Spider-Man donne du swing à la franchise.",
-          "published": "2026-07-28T15:55:00+00:00"
+          "summary": "De Havilland a relancé la production en 2024 à Calgary, après 10 ans sans qu’un de ces bombardiers ne sorte d’usine.",
+          "published": "2026-07-28T18:29:43+00:00"
         },
         {
-          "title": "Menaces de nouveaux droits de douane | Le ministre LeBlanc retourne à Washington",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-07-28/menaces-de-nouveaux-droits-de-douane/le-ministre-leblanc-retourne-a-washington.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Les plans d’Infantino de «vendre» la Coupe du monde  soulève l’ire de l’UEFA",
+          "link": "https://www.ledevoir.com/sports/997898/plans-infantino-vendre-coupe-monde-souleve-ire-uefa",
+          "source": "Le Devoir",
+          "summary": "La famille Kushner, reliée au président Trump, ferait partie des investisseurs d’une nouvelle compagnie privée.",
+          "published": "2026-07-28T18:15:00+00:00"
+        },
+        {
+          "title": "Assurances | Le nombre de réclamations pour les vols de voitures a chuté en 2025 au Québec",
+          "link": "https://www.lapresse.ca/affaires/2026-07-28/assurances/le-nombre-de-reclamations-pour-les-vols-de-voitures-a-chute-en-2025-au-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le ministre du Commerce Canada–États-Unis, Dominic LeBlanc, doit se rendre à Washington cette semaine alors que le président américain Donald Trump a menacé d’imposer de nouveaux droits de douane sur toute une série de…",
-          "published": "2026-07-28T15:41:20+00:00"
+          "summary": "Le vol de véhicules a ralenti l’an dernier au Québec, si l’on se fie aux statistiques du Groupement des assureurs automobiles (GAA) publiées mardi.",
+          "published": "2026-07-28T17:59:22+00:00"
         },
         {
-          "title": "L’excès de confiance rend les Canadiens vulnérables à la fraude, révèle un sondage",
-          "link": "https://www.ledevoir.com/economie/finances-personnelles/997814/exces-confiance-rend-canadiens-vulnerables-fraude-selon-sondage",
+          "title": "CBC/Radio-Canada refuse de divulguer les coûts liés à l’Eurovision",
+          "link": "https://www.ledevoir.com/culture/musique/997892/cbc-radio-canada-refuse-divulguer-couts-lies-eurovision",
           "source": "Le Devoir",
-          "summary": "S’ils pensent pouvoir reconnaître la fraude, ils n’adaptent pas leur comportement, selon l’enquête de la Banque TD.",
-          "published": "2026-07-28T15:28:00+00:00"
+          "summary": "En 2025, le coût d’une participation a varié entre environ 400 000$ pour le Portugal et 1,5 million $ pour Israël.",
+          "published": "2026-07-28T17:59:00+00:00"
         },
         {
-          "title": "L’Union européenne impose l’étiquetage des contenus créés par l’IA",
-          "link": "https://www.ledevoir.com/economie/techno/997805/union-europeenne-impose-etiquetage-contenus-crees-ia",
+          "title": "Les matchs du mercredi dans la LNH seront  diffusés sur Prime Video pendant 12 ans",
+          "link": "https://www.ledevoir.com/sports/997886/matchs-mercredi-lnh-seront-diffuses-prime-video-pendant-12-ans",
           "source": "Le Devoir",
-          "summary": "Cela concernera dès dimanche tous les textes, images, vidéos ou sons générés, ainsi que les robots conversationnels.",
-          "published": "2026-07-28T14:35:37+00:00"
+          "summary": "Ces parties seront diffusées sur la plateforme d’Amazon, en anglais et en français, en vertu d’une entente avec Rogers.",
+          "published": "2026-07-28T17:34:00+00:00"
         },
         {
-          "title": "Zinédine Zidane nommé sélectionneur des Bleus",
-          "link": "https://www.ledevoir.com/sports/997799/zinedine-zidane-nomme-selectionneur-bleus",
-          "source": "Le Devoir",
-          "summary": "«L’équipe de France, c’est la seule chose que je voulais faire», affirme le successeur de Didier Deschamps.",
-          "published": "2026-07-28T14:11:23+00:00"
+          "title": "Ligue nationale de hockey | Prime Video diffusera les matchs nationaux du mercredi en saison régulière",
+          "link": "https://www.lapresse.ca/affaires/medias/2026-07-28/ligue-nationale-de-hockey/prime-video-diffusera-les-matchs-nationaux-du-mercredi-en-saison-reguliere.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "À partir de la saison prochaine, Prime Video d’Amazon diffusera en exclusivité au Canada les matchs nationaux de la saison régulière de la Ligue nationale de hockey (LNH) disputés le mercredi soir, en anglais et en…",
+          "published": "2026-07-28T17:13:21+00:00"
         },
         {
-          "title": "Les intoxications au Benadryl en hausse",
-          "link": "https://www.ledevoir.com/actualites/sante/997796/intoxications-benadryl-hausse",
+          "title": "Près de 22 000 $ d’amendes pour des feux de camp illégaux en Colombie-Britannique",
+          "link": "https://www.ledevoir.com/actualites/environnement/997880/equipe-evalue-degats-causes-feu-foret-clinton-colombie-britannique",
           "source": "Le Devoir",
-          "summary": "Le Centre antipoison appuie le projet de Québec de retirer ces produits des tablettes des pharmacies.",
-          "published": "2026-07-28T13:38:26+00:00"
+          "summary": "L’ignorance des interdictions ne constitue pas une excuse, a expliqué le Service des agents de conservation.",
+          "published": "2026-07-28T16:56:00+00:00"
         },
         {
-          "title": "Canal+ confirme boycotter le financement des films de ses détracteurs",
-          "link": "https://www.ledevoir.com/culture/cinema/997793/canal-confirme-boycotter-financement-films-detracteurs",
+          "title": "Sánchez voit «la lumière au bout du tunnel» dans la lutte contre les feux de forêt en Espagne",
+          "link": "https://www.ledevoir.com/monde/europe/997871/sanchez-voit-lumiere-bout-tunnel-lutte-contre-feux-foret-espagne",
           "source": "Le Devoir",
-          "summary": "Son patron assura qu’il «n’oublie rien» après une tribune torpillant le milliardaire conservateur Vincent Bolloré.",
-          "published": "2026-07-28T13:33:00+00:00"
+          "summary": "L’ordre d’évacuation a été levé pour 13 communes des régions de Madrid et de Castille-et-Léon.",
+          "published": "2026-07-28T16:26:18+00:00"
         },
         {
-          "title": "Le retour de la chaleur fait craindre le pire pour le mégafeu de forêt qui sévit près de  Bordeaux",
-          "link": "https://www.ledevoir.com/monde/europe/997787/retour-chaleur-fait-craindre-pire-megafeu-foret-sevit-pres-bordeaux",
+          "title": "Zelensky a demandé﻿ à Trump en face à face des intercepteurs Patriot pour l’Ukraine",
+          "link": "https://www.ledevoir.com/monde/etats-unis/997868/zelensky-demande-trump-face-face-intercepteurs-patriot-ukraine",
           "source": "Le Devoir",
-          "summary": "4000 autres personnes ont été évacuées mardi en Gironde, dans le sud-ouest de la France.",
-          "published": "2026-07-28T12:53:23+00:00"
-        },
-        {
-          "title": "La perspective d’une percée chinoise dans la fabrication de puces fait paniquer les marchés",
-          "link": "https://www.ledevoir.com/economie/techno/997778/perspective-percee-chinoise-fabrication-puces-fait-paniquer-marches",
-          "source": "Le Devoir",
-          "summary": "Une firme aurait réussi à maîtriser une technologie jusqu’ici exclusivement maîtrisée par le groupe néerlandais ASML.",
-          "published": "2026-07-28T11:55:58+00:00"
+          "summary": "Le président ukrainien a salué une «bonne rencontre» après son passage à la Maison-Blanche.",
+          "published": "2026-07-28T16:23:23+00:00"
         }
       ]
     },
@@ -159,80 +159,108 @@
       "label": "France",
       "items": [
         {
-          "title": "Incendies en Gironde : 14 reprises de feux ont été recensées mardi, annonce la préfète",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-la-situation-reste-tres-imprevisible-en-gironde-ou-le-retour-de-la-chaleur-fait-craindre-une-nouvelle-aggravation_8124866.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le feu qui ravage le département reste \"stabilisé\", mais reprend de la vigueur à la faveur de conditions météo défavorables, notamment à Lège-Cap-Ferret, où une \"importante reprise de feu\" a été signalée mardi…",
-          "published": "2026-07-28T16:37:11+00:00"
-        },
-        {
-          "title": "La SNCF a engrangé plus d'un milliard d'euros de bénéfices au premier semestre, malgré les aléas climatiques",
-          "link": "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-a-engrange-plus-d-un-milliard-d-euros-de-benefices-au-premier-semestre-malgre-les-aleas-climatiques_8125874.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le chiffre d'affaires s'est établi à 21,94 milliards d'euros, contre 21,52 milliards un an plus tôt.",
-          "published": "2026-07-28T16:34:31+00:00"
+          "title": "Les images impressionnantes d’un sauveteur californien venant en aide à un enfant emporté par les vagues",
+          "link": "https://www.lefigaro.fr/international/les-images-impressionnantes-d-un-sauveteur-californien-venant-en-aide-a-un-enfant-emporte-par-les-vagues-20260728",
+          "source": "Le Figaro",
+          "summary": "Un jeune garçon a évité la noyade le 25 juillet dernier grâce à l’intervention d’un sauveteur en mer à Santa Cruz, qui l’a secouru des fortes vagues dans lequel il ne parvenait pas à sortir.",
+          "published": "2026-07-28T19:14:32+00:00"
         },
         {
           "title": "EN DIRECT - Incendie en Gironde : malgré «14 reprises de feu» mardi, les évacués de trois villes proches de Bordeaux vont pouvoir rentrer chez eux",
           "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-incendies-feux-pompiers-gironde-landes-bouches-du-rhone-var-corse-hautes-alpes-20260728",
           "source": "Le Figaro",
           "summary": "L’incendie en Gironde est «stabilisé» et «ne progresse pas», a déclaré à 18 heures la préfète du département, Sophie Brocas.",
-          "published": "2026-07-28T16:33:02+00:00"
+          "published": "2026-07-28T19:10:02+00:00"
         },
         {
-          "title": "EN DIRECT - L’incendie en Gironde pas encore fixé, 14 reprises de feu identifiées ce mardi, annonce la préfète",
+          "title": "EN DIRECT - L’incendie dans le Var désormais «fixé», celui de Gironde toujours actif ce mardi",
           "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-france-en-gironde-lincendie-toujours-stabilises-apres-une-nuit-calme-20260728_43JT4ACCERGYRDWHIIVAOXZBAA/",
           "source": "Liberation",
-          "summary": "Le retour d’une vague de chaleur dans la région ravive certains foyers à l’est de Bordeaux. Dans la matinée, les campings de Lacanau ont été évacués par précaution face à la dégradation attendue des conditions météo.",
-          "published": "2026-07-28T16:29:47+00:00"
+          "summary": "Le retour d’une vague de chaleur dans la région bordelaise ravive certains foyers à l’est de la capitale régionale. Dans la matinée, les campings de Lacanau ont été évacués par précaution face à la dégradation attendue…",
+          "published": "2026-07-28T18:57:45+00:00"
         },
         {
-          "title": "Habitacle protecteur, effet «dissuasif» contre les pilleurs... Qu’est-ce que le Centaure, ce véhicule blindé déployé face au mégafeu en Gironde ?",
-          "link": "https://www.lefigaro.fr/actualite-france/grenades-camera-thermique-et-possible-mitrailleuse-qu-est-ce-que-le-centaure-ce-vehicule-blinde-deploye-massivement-ce-18-septembre-20250917",
-          "source": "Le Figaro",
-          "summary": "La gendarmerie a mobilisé 10 de ces engins dans le sud-ouest de la France, où un incendie a parcouru 42.000 hectares.",
-          "published": "2026-07-28T16:28:42+00:00"
-        },
-        {
-          "title": "Fumées toxiques, brûlures, cancers... Que risquent les pompiers en luttant contre les feux de forêt ?",
-          "link": "https://sante.lefigaro.fr/social/sante-publique/fumees-toxiques-brulures-cancers-que-risquent-les-pompiers-en-luttant-contre-les-feux-de-foret-20260728",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Plus de 2 500 sapeurs-pompiers venus de toute la France sont toujours mobilisés, jour et nuit, contre l’incendie en Gironde. Mais ce n’est pas sans risques pour leur santé.",
-          "published": "2026-07-28T16:24:03+00:00"
-        },
-        {
-          "title": "Manche : l’interview d’un député britannique interrompue par des tirs d’un navire militaire français",
-          "link": "https://www.lefigaro.fr/international/manche-l-interview-d-un-depute-britannique-interrompue-par-des-tirs-d-un-navire-militaire-francais-20260728",
-          "source": "Le Figaro",
-          "summary": "L’élu conservateur, Chris Philp, était interviewé mardi matin par la BBC à bord d’un bateau de pêche à propos des traversées de la Manche par les petites embarcations transportant des migrants.",
-          "published": "2026-07-28T16:22:41+00:00"
-        },
-        {
-          "title": "Dauphins de Marineland transférés en Espagne : l’inquiétude des associations grandit",
-          "link": "https://www.lefigaro.fr/nice/dauphins-de-marineland-transferes-en-espagne-l-inquietude-des-associations-grandit-20260728",
-          "source": "Le Figaro",
-          "summary": "Après le départ d’une partie des dauphins du célèbre parc de la Côte d’Azur vers Malaga en Espagne, les ONG s’inquiètent sur leurs conditions de captivité.",
-          "published": "2026-07-28T16:19:25+00:00"
-        },
-        {
-          "title": "Incendies : Sébastien Lecornu renonce à ses vacances le temps de gérer la crise des «méga-feux»",
-          "link": "https://www.lefigaro.fr/politique/incendies-sebastien-lecornu-renonce-a-ses-vacances-le-temps-de-gerer-la-crise-des-mega-feux-20260728",
-          "source": "Le Figaro",
-          "summary": "INFO LE FIGARO - Le premier ministre, qui avait menacé de priver ses troupes de congés si la situation l’exigeait, a décidé de s’appliquer cette consigne à lui-même.",
-          "published": "2026-07-28T16:19:19+00:00"
-        },
-        {
-          "title": "«Spider-Man: Brand New Day», à qui mue mue",
-          "link": "https://www.liberation.fr/culture/cinema/spider-man-brand-new-day-a-qui-mue-mue-20260728_N5ZXEFCYXZCQXL6ESVF6OTNQFU/",
+          "title": "Incendies en Gironde : le «feu agit aux portes du camp» militaire de Souge, selon le maire de Martignas-sur-Jalle",
+          "link": "https://www.liberation.fr/environnement/incendies-en-gironde-le-feu-agit-aux-portes-du-camp-militaire-de-souge-selon-le-maire-de-martignas-sur-jalle-20260728_GABSW2XKFRGYPLXZJ5IATBBBSQ/",
           "source": "Liberation",
-          "summary": "Le dernier film de la saga entame une seconde mutation pour l’homme-araignée sous un jour nouveau qui peine à se lever.",
-          "published": "2026-07-28T16:17:00+00:00"
+          "summary": "Face au brasier, certains points stratégiques sont au centre de toutes les inquiétudes, notamment le camp militaire de l’ouest de la métropole bordelaise. Des «experts et des moyens» ont été «déployés pour la sécurité…",
+          "published": "2026-07-28T18:57:13+00:00"
+        },
+        {
+          "title": "Volodymyr Zelensky et Donald Trump ont évoqué la production de missiles Patriot par l'Ukraine",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-et-donald-trump-ont-evoque-la-production-de-missiles-patriot-par-l-ukraine_8126009.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Début juillet, Donald Trump avait fait part de sa volonté d'autoriser l'Ukraine à produire ces missiles sol-air et leur rencontre intervient au moment où la Russie intensifie ses frappes sur l'Ukraine.",
+          "published": "2026-07-28T18:56:06+00:00"
+        },
+        {
+          "title": "Incendie de Biscarrosse : « C’était l’apocalypse » raconte au Figaro une pompier volontaire engagée",
+          "link": "https://www.lefigaro.fr/actualite-france/incendie-de-biscarrosse-c-etait-l-apocalypse-raconte-au-figaro-une-pompier-volontaire-engagee-20260728",
+          "source": "Le Figaro",
+          "summary": "TÉMOIGNAGE - Grâce à la mobilisation de plus de 500 pompiers, l’incendie des Landes qui a entraîné l’évacuation de plusieurs milliers de personnes a pu être fixé ce lundi soir.",
+          "published": "2026-07-28T18:52:33+00:00"
+        },
+        {
+          "title": "Air irrespirable et décor apocalyptique : en immersion avec les pompiers face au «  monstre de feu  » près de Lège-Cap-Ferret",
+          "link": "https://www.lefigaro.fr/actualite-france/air-irrespirable-et-decor-apocalyptique-en-immersion-avec-les-pompiers-face-au-monstre-de-feu-pres-de-lege-cap-ferret-20260728",
+          "source": "Le Figaro",
+          "summary": "REPORTAGE - L’incendie qui ravage la Gironde depuis la semaine dernière est reparti de plus belle dans plusieurs secteurs ce mardi. Nous avons suivi les pompiers qui combattent les flammes sans relâche, appuyés par des…",
+          "published": "2026-07-28T18:52:29+00:00"
+        },
+        {
+          "title": "De moins en moins de femmes parmi les préfets, s’alarme la Cour des comptes",
+          "link": "https://www.lemonde.fr/societe/article/2026/07/28/de-moins-en-moins-de-femmes-parmi-les-prefets-s-alarme-la-cour-des-comptes_6735470_3224.html",
+          "source": "Le Monde",
+          "summary": "Après une période de nette hausse, « le nombre comme la proportion de femmes préfètes ont diminué » depuis 2019, relève la Cour. Malgré les discours officiels, cette fonction reste un bastion masculin.",
+          "published": "2026-07-28T18:51:44+00:00"
+        },
+        {
+          "title": "Les pompiers, aidés par les habitants, luttent contre l'incendie en Gironde en traquant sans relâche les reprises de flammes",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/en-images-les-pompiers-aides-par-les-habitants-luttent-contre-l-incendie-en-gironde-en-traquant-sans-relache-les-reprises-de-flammes_8125871.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le gigantesque incendie ne progresse plus, mardi, mais le combat est loin d'être terminé. Les pompiers, épaulés par les forestiers, les agriculteurs et les habitants, poursuivent un combat de chaque instant pour…",
+          "published": "2026-07-28T18:40:48+00:00"
+        },
+        {
+          "title": "En Gironde, le combat des pompiers contre les reprises de feu : «C’est un peu le jeu du chat et de la souris»",
+          "link": "https://www.liberation.fr/environnement/en-gironde-le-combat-des-pompiers-contre-les-reprises-de-feu-cest-un-peu-le-jeu-du-chat-et-de-la-souris-20260728_G2RRB2YBHBC7RJHBCJ5WQ4YFFQ/",
+          "source": "Liberation",
+          "summary": "Ce mardi 28 juillet, plusieurs milliers de touristes ont été évacués de Lacanau alors que les flammes étaient aux portes du camp militaire de Souge. Malgré un sinistre «stabilisé», l’inquiétude était de mise avant…",
+          "published": "2026-07-28T18:38:27+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Promesse non tenue sur l’EX90 : pourquoi Volvo offre 1 800 € à ses premiers acheteurs",
+          "link": "https://www.frandroid.com/marques/volvo/3196703_promesse-non-tenue-sur-lex90-pourquoi-volvo-offre-1-800-e-a-ses-premiers-acheteurs",
+          "source": "Frandroid",
+          "summary": "Volvo tire un trait sur le LiDAR. Le constructeur suédois annonce l'arrêt définitif de ce capteur sur ses EX90 et ES90, sans possibilité de le retirer physiquement des véhicules déjà équipés. En Norvège, les clients…",
+          "published": "2026-07-28T17:57:12+00:00"
+        },
+        {
+          "title": "Panneaux solaires sur les rails : pourquoi la fausse bonne idée de la SNCF se heurte à la réalité",
+          "link": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3196863_panneaux-solaires-sur-les-rails-pourquoi-la-fausse-bonne-idee-de-la-sncf-se-heurte-a-la-realite",
+          "source": "Frandroid",
+          "summary": "Après les toits, les parkings et les terrains, le solaire pourrait conquérir les rails.&nbsp; La SNCF teste une technologie qui promet de produire de l’électricité directement sur les voies ferrées. Cependant, le…",
+          "published": "2026-07-28T17:49:15+00:00"
+        },
+        {
+          "title": "Disney+ : vous ne savez pas quelle série regarder en famille ? On vous aide",
+          "link": "https://www.numerama.com/pop-culture/2302513-disney-vous-ne-savez-pas-quelle-serie-regarder-en-famille-on-vous-aide.html",
+          "source": "Numerama",
+          "summary": "Trouver un programme capable de captiver un enfant de 7 ans sans lasser ses parents relève souvent du parcours du combattant. Pour éviter les productions trop enfantines ou mal écrites, voici une sélection rigoureuse de…",
+          "published": "2026-07-28T17:30:00+00:00"
+        },
+        {
+          "title": "La SNCF lance ses ventes flash, avec 100 000 billets à 19 euros : on a vérifié, et on a eu du mal à en trouver",
+          "link": "https://www.clubic.com/actualite-623149-la-sncf-lance-ses-ventes-flash-avec-10000-billets-a-19-euros-on-a-verifie-et-on-a-eu-du-mal-a-en-trouver.html",
+          "source": "Clubic",
+          "summary": "NOUILa SNCF a lancé une nouvelle vente flash TGV INOUI mardi, avec la promesse de 100 000 billets à partir de 19 euros, disponibles jusqu'au 30 juillet pour des trajets effectués entre le 10 août et le 1er octobre 2026.",
+          "published": "2026-07-28T17:01:00+00:00"
+        },
         {
           "title": "BMW tente un pari que presque tous ses concurrents ont abandonné : un cabriolet électrique",
           "link": "https://www.frandroid.com/marques/bmw/3196765_bmw-tente-un-pari-que-presque-tous-ses-concurrents-ont-abandonne-un-cabriolet-electrique",
@@ -288,34 +316,6 @@
           "source": "Frandroid",
           "summary": "Samsung vient d'officialiser ses deux nouveaux smartphones pliants : les Galaxy Z Fold8 et Galaxy Z Fold8 Ultra. Voici ce qui les rend uniques et pourquoi il est bon de les précommander dès à présent.",
           "published": "2026-07-28T15:37:51+00:00"
-        },
-        {
-          "title": "Le tout nouveau Galaxy Z Fold 8 parti pour devenir un best-seller historique de Samsung",
-          "link": "https://www.clubic.com/actualite-623143-le-tout-nouveau-galaxy-z-fold-8-parti-pour-devenir-un-best-seller-historique-de-samsung.html",
-          "source": "Clubic",
-          "summary": "Le smartphone pliable Samsung Galaxy Z Fold 8 adopte un tout nouveau format. Et la formule semble fonctionner, vu sa popularité.",
-          "published": "2026-07-28T15:36:00+00:00"
-        },
-        {
-          "title": "On a trouvé l’accessoire anti-canicule le plus malin du moment, mais il est en promo jusqu’à ce soir seulement",
-          "link": "https://www.frandroid.com/bons-plans/3196933_on-a-trouve-laccessoire-anti-canicule-le-plus-malin-du-moment-mais-il-est-en-promo-jusqua-ce-soir-seulement",
-          "source": "Frandroid",
-          "summary": "Le RANVOO AICE LITE MAX 2026 est un climatiseur portable qui se porte autour du cou et rafraîchit grâce à de vraies plaques thermoélectriques. En ce moment sur Amazon, il passe à 179,64 euros au lieu de 239 euros, mais…",
-          "published": "2026-07-28T15:35:14+00:00"
-        },
-        {
-          "title": "Remixer un titre sans voler l’artiste, c’est désormais possible, et c’est une première mondiale",
-          "link": "https://www.clubic.com/actualite-623077-remixer-un-titre-sans-voler-l-artiste-c-est-desormais-possible-et-c-est-une-premiere-mondiale.html",
-          "source": "Clubic",
-          "summary": "La musique n'a jamais été aussi accessible : des millions de titres dans notre poche, partout. Mais pourquoi se contenter d'écouter un morceau quand on peut le transformer ? C'est tout l'intérêt de Remix Lab, la…",
-          "published": "2026-07-28T15:30:00+00:00"
-        },
-        {
-          "title": "WhatsApp Plus : plus de personnes peuvent souscrire l’abonnement payant en France",
-          "link": "https://www.frandroid.com/marques/3196337_whatsapp-plus-plus-de-personnes-peuvent-souscrire-a-labonnement-payant-en-france",
-          "source": "Frandroid",
-          "summary": "L'abonnement WhatsApp Plus se déploie plus massivement en France, aussi bien sur les iPhone que sur les smartphones Android. Voici tout ce qu'il faut savoir sur cette offre à 2,49 euros par mois.",
-          "published": "2026-07-28T15:21:14+00:00"
         }
       ]
     }
@@ -328,6 +328,13 @@
     "sejour_bien_etre": {
       "label": "Sejour bien-etre",
       "items": [
+        {
+          "title": "Comment des salles de sport américaines aident des milliers d'anciens toxicomanes à ne pas rechuter",
+          "link": "https://www.slate.fr/sante/addiction-drogues-alcool-usa-etats-unis-cafe-sport-salle-addiction-sobriete-alternatives-cocaine-desintoxication",
+          "source": "Slate.fr",
+          "summary": "Outre-Atlantique, les espaces sobres organisés autour du sport, de la musique ou du café sont en plein essor. Leur objectif est de soutenir les personnes qui souhaitent sortir de la dépendance, en leur proposant un…",
+          "published": "2026-07-28T18:55:01+00:00"
+        },
         {
           "title": "Un mystérieux cristal «impossible» a poussé à bord de la Station spatiale internationale",
           "link": "https://www.slate.fr/sciences/mysterieux-cristal-impossible-station-spatiale-internationale-iss-microgravite-chlorure-potassium-espace",
