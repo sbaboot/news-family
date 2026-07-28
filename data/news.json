@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-07-27T22:05:54.777848+00:00",
+  "generated_at": "2026-07-28T02:27:07.371739+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Haïti : les autorités annoncent des élections en fin d’année, si les conditions de sécurité le permettent",
+          "link": "https://www.lemonde.fr/international/article/2026/07/28/haiti-les-autorites-annoncent-des-elections-en-fin-d-annee-si-les-conditions-de-securite-le-permettent_6734392_3210.html",
+          "source": "Le Monde",
+          "summary": "L’Etat haïtien n’a plus connu d’élections depuis 2016 et son dernier président, Jovenel Moïse, assassiné en 2021, n’a pas été remplacé.",
+          "published": "2026-07-28T02:10:36+00:00"
+        },
+        {
+          "title": "République démocratique du Congo : des attaques menées par les djihadistes ont fait au moins 31 morts en quelques jours dans le Nord-Est",
+          "link": "https://www.lemonde.fr/afrique/article/2026/07/28/rdc-plusieurs-attaques-menees-par-les-djihadistes-des-adf-ont-fait-au-moins-31-morts-civils-en-quelques-jours-dans-le-nord-est_6734359_3212.html",
+          "source": "Le Monde",
+          "summary": "Dans la province de l’Ituri, les rebelles des Forces démocratiques alliées, qui ont prêté allégeance à l’organisation Etat islamique, imposent des taxes aux habitants, menaçant de les tuer s’ils ne paient pas.",
+          "published": "2026-07-28T00:50:57+00:00"
+        },
+        {
+          "title": "Haïti organisera des élections en fin d'année sous condition de sécurité",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260728-haiti-elections-presidentielle-legislatives-fin-annee-condition-securite-violences-gangs",
+          "source": "France 24",
+          "summary": "Les autorités haïtiennes ont annoncé lundi soir des élections présidentielle et législatives dont le premier tour se tiendra le 13 décembre 2026 et le second le 21 février 2027. Ce calendrier dépend toutefois de…",
+          "published": "2026-07-28T00:06:25+00:00"
+        },
+        {
+          "title": "Le chanteur américain D4vd renvoyé en procès pour le meurtre d’une adolescente",
+          "link": "https://www.lemonde.fr/international/article/2026/07/28/le-chanteur-americain-d4vd-renvoye-en-proces-pour-le-meurtre-d-une-adolescente_6734326_3210.html",
+          "source": "Le Monde",
+          "summary": "L’homme est soupçonné d’avoir poignardé à mort puis démembré, en avril 2025, Celeste Rivas Hernandez, avec qui il aurait eu des relations sexuelles dès les 13 ans de cette dernière, alors qu’il en avait 18. Il risque la…",
+          "published": "2026-07-27T23:53:26+00:00"
+        },
+        {
+          "title": "Partir ou être expulsés : des milliers d'Haïtiens ne sont plus les bienvenus aux États-Unis",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260727-etats-unis-haiti-haitiens-fin-statut-protection-temporaire-tps-expulsions-trump",
+          "source": "France 24",
+          "summary": "Quelque 200 000 Haïtiens aux États-Unis voient leur statut de protection temporaire révoqué à partir de lundi soir, alors qu'il leur permettait depuis 2010 de vivre et de travailler légalement dans le pays.",
+          "published": "2026-07-27T22:59:43+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : plus de 180 drones ukrainiens abattus dans la journée de lundi, selon la Russie",
+          "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-en-ukraine-plus-de-180-drones-ukrainiens-abattus-dans-la-journee-de-lundi-selon-la-russie_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "Les engins ont été interceptés en Russie et en Crimée, ainsi qu’en mer d’Azov et en mer Noire entre 8 heures et 20 heures, a annoncé le ministère de la défense, qui ne signale jamais d’impact. Par ailleurs, l’armée…",
+          "published": "2026-07-27T22:32:08+00:00"
+        },
         {
           "title": "Soudan : après un revers face à l'armée, le chef des paramilitaires ne retiendra plus ses troupes",
           "link": "https://www.france24.com/fr/afrique/20260727-soudan-revers-armee-chef-paramilitaires-fds-mohamed-hamdane-daglo-el-obeid-route",
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "Après deux jours de combats acharnés contre les Forces de soutien rapide (RSF), l'armée soudanaise affirme avoir pris le contrôle de l'autoroute d'Al Sadarat, une voie d'approvisionnement militaire stratégique, et avoir…",
           "published": "2026-07-27T20:18:08+00:00"
-        },
-        {
-          "title": "En Cisjordanie occupée, une femme perd son enfant à naître à un barrage, l’armée israélienne se dédouane",
-          "link": "https://www.lemonde.fr/international/article/2026/07/27/en-cisjordanie-occupee-une-femme-perd-son-enfant-a-naitre-a-un-barrage-l-armee-israelienne-se-dedouane_6734226_3210.html",
-          "source": "Le Monde",
-          "summary": "D’après les secouristes palestiniens, l’ambulance transportant cette femme de 28 ans enceinte de six mois, qui souffrait d’une hémorragie sévère et était inconsciente, a été retenue plus de trente minutes au checkpoint…",
-          "published": "2026-07-27T19:52:57+00:00"
-        },
-        {
-          "title": "La France et les États-Unis s'écharpent au Conseil de sécurité de l'ONU",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260727-la-france-et-les-%C3%A9tats-unis-s-%C3%A9charpent-au-conseil-de-s%C3%A9curit%C3%A9-de-l-onu",
-          "source": "France 24",
-          "summary": "Les États-Unis ont quitté, lundi, une réunion du Conseil de sécurité de l'ONU pour, selon eux, dénoncer des commentaires \"hypocrites\" de la France. Paris a comparé Washington à la Corée du Nord et à la Russie au sujet…",
-          "published": "2026-07-27T19:43:43+00:00"
-        },
-        {
-          "title": "Biens mal acquis : le PNF demande le renvoi de BNP Paribas et des enfants d'Omar Bongo",
-          "link": "https://www.france24.com/fr/france/20260727-biens-mal-acquis-le-pnf-demande-le-renvoi-de-bnp-paribas-et-des-enfants-d-omar-bongo",
-          "source": "France 24",
-          "summary": "Le parquet national financier a requis le renvoi de BNP Paribas, ainsi que des enfants de l'ancien président gabonais Omar Bongo, devant le tribunal correctionnel de Paris dans le cadre d'une enquête sur des biens…",
-          "published": "2026-07-27T19:32:26+00:00"
-        },
-        {
-          "title": "Le Tchad annonce quitter la CPI à la demande des Etats-Unis",
-          "link": "https://www.lemonde.fr/afrique/article/2026/07/27/le-tchad-annonce-quitter-la-cpi-a-la-demande-des-etats-unis_6734224_3212.html",
-          "source": "Le Monde",
-          "summary": "Le retrait de N’Djamena, qui prendra effet en juillet 2027, n’affecte pas la poursuite des enquêtes déjà lancées. Le rôle trouble joué par le Tchad dans la guerre au Soudan est dans le viseur de l’instance.",
-          "published": "2026-07-27T19:00:12+00:00"
-        },
-        {
-          "title": "🔴 En direct : l'incendie dans les Landes \"est fixé\", annonce Emmanuel Macron",
-          "link": "https://www.france24.com/fr/europe/20260727-en-direct-macron-attendu-en-gironde-une-nouvelle-vague-de-chaleur-extr%C3%AAme-attendue-en-europe",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-07-27T18:46:56+00:00"
-        },
-        {
-          "title": "En Tunisie, Kaïs Saïed, qui fait face à une forte grogne sociale, s’isole sur la scène internationale",
-          "link": "https://www.lemonde.fr/afrique/article/2026/07/27/en-tunisie-kais-saied-qui-fait-face-a-une-forte-grogne-sociale-s-isole-sur-la-scene-internationale_6734223_3212.html",
-          "source": "Le Monde",
-          "summary": "La convocation de l’ambassadrice de France par les autorités tunisiennes, le 24 juillet, s’inscrit dans une série de tensions avec les diplomates européens. Alors que le régime accroît la répression politique et ne…",
-          "published": "2026-07-27T18:30:02+00:00"
         }
       ]
     },
@@ -84,80 +84,101 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Élections provinciales 2026 | L’analyste de TVA Elsie Lefebvre retournerait au Parti québécois",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-07-27/elections-provinciales-2026/l-analyste-de-tva-elsie-lefebvre-retournerait-au-parti-quebecois.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Accusés de viol | Les frères Tate resteront en détention pendant au moins deux semaines supplémentaires",
+          "link": "https://www.lapresse.ca/international/2026-07-27/accuses-de-viol/les-freres-tate-resteront-en-detention-pendant-au-moins-deux-semaines-supplementaires.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’analyste et chroniqueuse à TVA Elsie Lefebvre, anciennement la plus jeune députée de l’histoire de l’Assemblée nationale, tenterait un retour en politique active. Elle serait candidate pour le Parti québécois, en vue…",
-          "published": "2026-07-27T21:59:54+00:00"
+          "summary": "Les influenceurs sur les réseaux sociaux Andrew et Tristan Tate resteront en détention pendant au moins deux semaines supplémentaires, jusqu’à leur prochaine audience, alors qu’ils contestent leur extradition vers le…",
+          "published": "2026-07-28T01:59:42+00:00"
         },
         {
-          "title": "Qu’est-ce qui explique les feux en France et en Espagne ?",
+          "title": "Le sol et la tourbe sont des sources majeures d’émissions liées aux feux de forêt",
+          "link": "https://www.ledevoir.com/actualites/environnement/997712/sol-tourbe-sont-sources-majeures-emissions-liees-feux-foret",
+          "source": "Le Devoir",
+          "summary": "La plupart des données utilisées dans l’étude publiée lundi proviennent de l’Ouest canadien.",
+          "published": "2026-07-28T01:46:00+00:00"
+        },
+        {
+          "title": "Réunion du Conseil de sécurité de l’ONU | Les diplomates américains quittent la salle pour protester contre des critiques françaises",
+          "link": "https://www.lapresse.ca/international/2026-07-27/reunion-du-conseil-de-securite-de-l-onu/les-diplomates-americains-quittent-la-salle-pour-protester-contre-des-critiques-francaises.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les diplomates américains ont quitté la salle alors que leurs homologues français prenaient la parole lundi aux Nations unies, après que cet allié européen proche des États-Unis a critiqué le bilan de l’administration…",
+          "published": "2026-07-28T00:39:04+00:00"
+        },
+        {
+          "title": "Vivre le choc",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-07-27/vivre-le-choc.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Quand allons-nous regarder la crise climatique en face ? En passant par sa petite histoire de cycliste montréalais, notre collaborateur se demande si nous sommes prêts à encaisser ce choc.",
+          "published": "2026-07-28T00:00:00+00:00"
+        },
+        {
+          "title": "Décryptage | Quand une Canadienne est présumée espionne",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-07-27/decryptage/quand-une-canadienne-est-presumee-espionne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’arrestation pour espionnage présumé d’une stagiaire canadienne d’origine chinoise en poste à l’OTAN embarrasse le Canada et soulève des questions au sujet des examens de sécurité. Décryptage d’une affaire nébuleuse…",
+          "published": "2026-07-27T23:45:00+00:00"
+        },
+        {
+          "title": "Attaque au défilé de la fierté de Berlin | Fierté Montréal rehausse sa sécurité",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-27/attaque-au-defile-de-la-fierte-de-berlin/fierte-montreal-rehausse-sa-securite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La sécurité entourant les évènements de Fierté Montréal sera renforcée, a annoncé l’organisation lundi. Plusieurs dispositifs additionnels seront mis en place, dans la foulée de l’attentat qui a fait un mort et une…",
+          "published": "2026-07-27T23:03:56+00:00"
+        },
+        {
+          "title": "Incendies de forêt | Des brasiers partout dans le monde",
+          "link": "https://www.lapresse.ca/international/2026-07-27/incendies-de-foret/des-brasiers-partout-dans-le-monde.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "En France et en Espagne, les brasiers suscitent toujours l’inquiétude. Mais ce ne sont pas les seuls pays où les pompiers combattent les flammes. Ailleurs en Europe, mais aussi au Canada, aux États-Unis et au Maghreb,…",
+          "published": "2026-07-27T23:00:00+00:00"
+        },
+        {
+          "title": "Une ville de l’État de New York rend hommage à une jeune Montréalaise",
+          "link": "https://www.ledevoir.com/actualites/justice/997685/ville-etat-new-york-rend-hommage-jeune-montrealaise",
+          "source": "Le Devoir",
+          "summary": "Le père de la fillette est actuellement jugé pour meurtre non loin du lieu de commémoration.",
+          "published": "2026-07-27T22:43:18+00:00"
+        },
+        {
+          "title": "Trump défend ses droits de douane lors d’une visite dans le Michigan",
+          "link": "https://www.ledevoir.com/economie/997682/trump-defend-droits-douane-lors-visite-michigan",
+          "source": "Le Devoir",
+          "summary": "Le président américain a particulièrement visé le Canada, en imposant des tarifs pouvant atteindre 50%.",
+          "published": "2026-07-27T22:12:14+00:00"
+        },
+        {
+          "title": "Qu’est-ce qui explique les feux en France et en Espagne?",
           "link": "https://www.ledevoir.com/monde/997670/est-ce-explique-feux-france-espagne",
           "source": "Le Devoir",
           "summary": "Les changements climatiques peuvent certainement être pointés du doigt… mais pas que, soutiennent des experts.",
           "published": "2026-07-27T21:19:00+00:00"
-        },
-        {
-          "title": "Les Américains quittent le Conseil de sécurité pour protester contre des critiques françaises",
-          "link": "https://www.ledevoir.com/monde/etats-unis/997667/americains-quittent-conseil-securite-protester-contre-critiques-francaises",
-          "source": "Le Devoir",
-          "summary": "«Les États-Unis étaient autrefois un modèle en matière de droits humains. Ce n’est plus le cas.»",
-          "published": "2026-07-27T21:10:50+00:00"
-        },
-        {
-          "title": "Le Canada pourrait-il être affecté par les sommets que la rougeole atteint aux États-Unis?",
-          "link": "https://www.ledevoir.com/actualites/sante/997661/canada-pourrait-il-etre-affecte-sommets-rougeole-atteint-etats-unis",
-          "source": "Le Devoir",
-          "summary": "«Oui, il y a un risque pour les Canadiens non vaccinés de voyager» dans les régions affectées, affirme un expert.",
-          "published": "2026-07-27T20:43:11+00:00"
-        },
-        {
-          "title": "Le successeur du Publisac, raddar, menace des journaux hebdomadaires",
-          "link": "https://www.lapresse.ca/affaires/medias/2026-07-27/le-successeur-du-publisac-raddar-menace-des-journaux-hebdomadaires.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Des journaux hebdomadaires partout au pays voient leurs revenus baisser de façon draconienne depuis l’arrivée récente de raddar, le feuillet publicitaire qui a succédé au Publisac. Les groupes de journaux demandent une…",
-          "published": "2026-07-27T20:38:07+00:00"
-        },
-        {
-          "title": "Homicide à Shawinigan | Philippe Benoit désormais qualifié de « suspect »",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-27/homicide-a-shawinigan/philippe-benoit-desormais-qualifie-de-suspect.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Précédemment qualifié de « personne d’intérêt », Philippe Benoit est désormais qualifié de « suspect » par la Sûreté du Québec (SQ), toujours à sa recherche en lien avec un homicide survenu dimanche matin à Shawinigan.",
-          "published": "2026-07-27T20:24:33+00:00"
-        },
-        {
-          "title": "Les trois actus du 27 juillet",
-          "link": "https://www.ledevoir.com/actualites/997655/trois-actus-27-juillet",
-          "source": "Le Devoir",
-          "summary": "Mégafeu «stabilisé» en France, consulat américain à Toronto et une congrégation visée en justice: ce qu’il faut retenir.",
-          "published": "2026-07-27T20:15:59+00:00"
-        },
-        {
-          "title": "Trump exige que le Sénat annule ses vacances pour adopter une réforme du droit de vote",
-          "link": "https://www.ledevoir.com/monde/etats-unis/997643/trump-exige-senat-annule-vacances-adopter-reforme-droit-vote",
-          "source": "Le Devoir",
-          "summary": "Les républicains manquent de voix pour la faire adopter. Elle imposerait de prouver sa citoyenneté pour pouvoir voter.",
-          "published": "2026-07-27T19:37:41+00:00"
-        },
-        {
-          "title": "Que savez-vous des Jeux olympiques de Montréal?",
-          "link": "https://www.ledevoir.com/sports/997640/savez-vous-jeux-olympiques-montreal",
-          "source": "Le Devoir",
-          "summary": "Venez tester vos connaissances sur les JO de 1976 en 11 questions.",
-          "published": "2026-07-27T19:36:56+00:00"
-        },
-        {
-          "title": "Québec donne son feu vert à la reconstruction de l’échangeur Saint-Pierre",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-27/quebec-donne-son-feu-vert-a-la-reconstruction-de-l-echangeur-saint-pierre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Québec donne son aval à la reconstruction de l’échangeur Saint-Pierre, un chantier majeur qui est à l’étude depuis plus d’une décennie à Montréal. Plusieurs étapes doivent toutefois encore être franchies avant le début…",
-          "published": "2026-07-27T19:25:50+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "Bouches-du-Rhône : un pompier volontaire de 38 ans meurt lors d’une sortie de route",
+          "link": "https://www.lefigaro.fr/faits-divers/bouches-du-rhone-un-pompier-volontaire-de-38-ans-meurt-lors-d-une-sortie-de-route-20260727",
+          "source": "Le Figaro",
+          "summary": "Le caporal Laurent Manson, du centre d’incendie et de secours de Saint-Étienne-du-Grès, a perdu la vie «dans l’exercice de ses fonctions», après une sortie de route de son véhicule d’intervention.",
+          "published": "2026-07-28T00:49:49+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies en France : l’incendie dans les Landes «est fixé» mais la situation reste difficile en Gironde, annonce Emmanuel Macron",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-en-france-feu-globalement-stable-en-gironde-macron-presidera-une-cellule-interministerielle-de-crise-ce-lundi-20260727",
+          "source": "Le Figaro",
+          "summary": "Venu à Bordeaux, le président de la République a appelé lundi à «rester unis» pour gagner la longue bataille contre le mégafeu en Gironde. Et préconise de «replanter et rebâtir une forêt différente» en s’adaptant aux…",
+          "published": "2026-07-28T00:41:18+00:00"
+        },
+        {
+          "title": "États-Unis : le chanteur D4vd sera jugé pour avoir tué et démembré une adolescente",
+          "link": "https://www.lefigaro.fr/culture/etats-unis-le-chanteur-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-20260727",
+          "source": "Le Figaro",
+          "summary": "Jalouse d’une autre femme, la victime avait menacé de ruiner la carrière du chanteur environ 24 heures avant sa mort.",
+          "published": "2026-07-27T22:09:06+00:00"
+        },
         {
           "title": "La délégation américaine quitte une réunion du Conseil de sécurité de l'ONU pour protester contre des critiques françaises",
           "link": "https://www.franceinfo.fr/monde/onu/la-delegation-americaine-quitte-une-reunion-du-conseil-de-securite-de-l-onu-pour-protester-contre-des-critiques-francaises_8124605.html#xtor=RSS-3-[lestitres]",
@@ -171,20 +192,6 @@
           "source": "France Info",
           "summary": "La victime partait effectuer le ravitaillement d'un camion-citerne lorsqu'elle a réalisé une sortie de route, dont les causes ne sont pas déterminées.",
           "published": "2026-07-27T21:42:50+00:00"
-        },
-        {
-          "title": "Bouches-du-Rhône : un pompier volontaire de 38 ans meurt lors d’une sortie de route",
-          "link": "https://www.lefigaro.fr/faits-divers/bouches-du-rhone-un-pompier-volontaire-de-38-ans-meurt-lors-d-une-sortie-de-route-20260727",
-          "source": "Le Figaro",
-          "summary": "Le caporal Laurent Manson, du centre d’incendie et de secours de Saint-Étienne-du-Grès, a perdu la vie «dans l’exercice de ses fonctions», après une sortie de route de son véhicule d’intervention.",
-          "published": "2026-07-27T21:28:47+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies en France : l’incendie dans les Landes «est fixé» mais la situation reste difficile en Gironde, annonce Emmanuel Macron",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-en-france-feu-globalement-stable-en-gironde-macron-presidera-une-cellule-interministerielle-de-crise-ce-lundi-20260727",
-          "source": "Le Figaro",
-          "summary": "Venu à Bordeaux, le président de la République a appelé lundi à «rester unis» pour gagner la longue bataille contre le mégafeu en Gironde. Et préconise de «replanter et rebâtir une forêt différente» en s’adaptant aux…",
-          "published": "2026-07-27T21:22:02+00:00"
         },
         {
           "title": "L'incendie dans les Landes \"est fixé\", annonce Emmanuel Macron",
@@ -220,19 +227,19 @@
           "source": "France Info",
           "summary": "La marque au losange est le deuxième constructeur à être renvoyé en procès en France après l'allemand Volkswagen.",
           "published": "2026-07-27T20:17:07+00:00"
-        },
-        {
-          "title": "Incendies en France : le feu dans les Landes «est fixé», annonce Macron",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-france-en-gironde-une-situation-globalement-stable-au-cours-de-la-nuit-20260727_KMKERQ2ZGZF6RBVPK6WUMVLAHY/",
-          "source": "Liberation",
-          "summary": "Le président, en marge d’un déplacement à Bordeaux ce lundi auprès des pompiers, a annoncé que les flammes au nord de Biscarrosse n’avançaient plus. Ce qui n’est pas le cas en Gironde, où la situation pourrait…",
-          "published": "2026-07-27T20:14:37+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "J’ai essayé la Mercedes-Benz Classe C électrique : sûrement la meilleure voiture électrique pour tracer la route",
+          "link": "https://www.frandroid.com/marques/mercedes-benz/3190567_jai-essaye-la-mercedes-benz-classe-c-electrique-surement-la-meilleure-voiture-electrique-pour-tracer-la-route",
+          "source": "Frandroid",
+          "summary": "Le constructeur allemand Mercedes-Benz est en plein renouvellement de sa gamme de voitures électriques. Après avoir lancé le GLC, voici la berline Classe C, reposant sur la même plateforme et proposant les mêmes…",
+          "published": "2026-07-28T01:00:00+00:00"
+        },
         {
           "title": "Peut-on vraiment fuir un incendie en voiture électrique ? On compare avec une voiture essence",
           "link": "https://www.frandroid.com/survoltes/voitures-electriques/3195289_fuir-un-incendie-en-voiture-electrique-pourquoi-la-batterie-nest-pas-le-vrai-probleme",
@@ -309,13 +316,6 @@
           "source": "Numerama",
           "summary": "Si vous avez trouvé vos lunettes d'éclipse, c'est une bonne nouvelle. Mais il ne faut pas s'arrêter à cette étape. Vous devez encore anticiper à quoi ressemblera l'éclipse solaire du 12 août 2026 depuis votre lieu…",
           "published": "2026-07-27T16:30:20+00:00"
-        },
-        {
-          "title": "Zendure brade son système de stockage solaire SolarFlow 1600 AC+ : -419 € sur Amazon",
-          "link": "https://www.frandroid.com/bons-plans/3195407_zendure-brade-son-systeme-de-stockage-solaire-solarflow-1600-ac-419-e-sur-amazon",
-          "source": "Frandroid",
-          "summary": "Le Zendure SolarFlow 1600 AC+ est un système de stockage solaire AC-couplé Plug &amp; Play, livré ici avec la batterie AB2000L de 1,92 kWh. Pensé pour les foyers déjà équipés de panneaux photovoltaïques, il est…",
-          "published": "2026-07-27T16:15:00+00:00"
         }
       ]
     }
