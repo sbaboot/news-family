@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-28T22:03:44.699087+00:00",
+  "generated_at": "2026-07-29T02:31:05.131574+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En direct : Washington et Riyad ont mené des frappes en Irak contre des alliés de l'Iran",
+          "link": "https://www.france24.com/fr/moyen-orient/20260729-en-direct-moyen-orient-iran-irak-etats-unis-arabie-saoudite-frappes-ormuz-petrole-houthis",
+          "source": "France 24",
+          "summary": "Les États-Unis et l'Arabie saoudite ont annoncé avoir mené des frappes en Irak contre des \"terroristes\" soutenus par l'Iran dans la nuit de mardi à mercredi, dans un premier regain de violence au Moyen-Orient après…",
+          "published": "2026-07-29T02:04:57+00:00"
+        },
+        {
+          "title": "« Musango matusadonaensis », un nouveau dinosaure découvert au Zimbabwe qui arpentait la brousse il y a 210 millions d’années",
+          "link": "https://www.lemonde.fr/sciences/article/2026/07/29/musango-matusadonaensis-un-nouveau-dinosaure-decouvert-au-zimbabwe-qui-arpentait-la-brousse-il-y-a-210-millions-d-annees_6735739_1650684.html",
+          "source": "Le Monde",
+          "summary": "La découverte de cette espèce découle de l’examen d’un squelette déterré en 2018, dans le nord du Zimbabwe. Le dinosaure mesurait environ 4,5 m de long et pesait seulement 222 kg. Les chercheurs pensent qu’il était…",
+          "published": "2026-07-29T00:40:36+00:00"
+        },
+        {
+          "title": "Etats-Unis : l’industrie spatiale pourrait bénéficier de règles environnementales allégées",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-l-industrie-spatiale-pourrait-beneficier-de-regles-environnementales-allegees_6735706_3210.html",
+          "source": "Le Monde",
+          "summary": "L’administration Trump souhaite éliminer des exigences fédérales de protection de la nature pour « obtenir plus rapidement et plus facilement les autorisations nécessaires pour lancer des fusées et faire rentrer des…",
+          "published": "2026-07-29T00:03:35+00:00"
+        },
+        {
+          "title": "Aux Etats-Unis, prison à vie pour un adolescent auteur d’une tuerie dans un lycée de Géorgie",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-prison-a-vie-pour-un-adolescent-auteur-d-une-tuerie-dans-un-lycee-de-georgie_6735673_3210.html",
+          "source": "Le Monde",
+          "summary": "Colt Gray, âgé de 16 ans, a plaidé coupable d’avoir ouvert le feu au lycée Apalachee, dans la petite ville de Winder, en 2024. Il avait tué deux élèves ainsi que deux professeurs et avait blessé neuf personnes.",
+          "published": "2026-07-28T23:34:04+00:00"
+        },
+        {
+          "title": "Algérie : Khalida Boufedeche devient la première femme présidente de l’Assemblée populaire nationale",
+          "link": "https://www.lemonde.fr/afrique/article/2026/07/29/algerie-khalida-boufedeche-devient-la-premiere-femme-presidente-de-l-assemblee-populaire-nationale_6735672_3212.html",
+          "source": "Le Monde",
+          "summary": "Députée d’Alger, son parti était arrivé en tête des récentes législatives, au taux de participation le plus bas jamais enregistré et à l’issue desquelles seules vingt-cinq femmes avaient été élues sur 407 sièges.",
+          "published": "2026-07-28T23:31:07+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue sa « belle rencontre » avec Donald Trump à la Maison Blanche",
+          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-sa-belle-rencontre-avec-donald-trump-a-la-maison-blanche_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "« Nous avons discuté (…) des licences de production d’intercepteurs pour les [missiles] Patriot et de quelques autres idées qui pourraient aider. Nous avons également parlé de diplomatie », a affirmé le président…",
+          "published": "2026-07-28T23:02:27+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir intercepté des missiles lancés par l’Iran",
+          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-intercepte-des-missiles-lances-par-l-iran_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Le Commandement militaire américain pour le Moyen-Orient fait état de missiles lancés par la République islamique « contre les forces américaines basées au Moyen-Orient ».",
+          "published": "2026-07-28T22:57:02+00:00"
+        },
+        {
+          "title": "Etats-Unis : les robots humanoïdes étrangers interdits à l’importation",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-les-robots-humanoides-etrangers-interdits-a-l-importation_6735639_3210.html",
+          "source": "Le Monde",
+          "summary": "Estimant qu’ils présentent « des risques inacceptables pour la sécurité nationale » l’administration Trump a banni les « appareils robotiques avancés » dont la majorité sont produits en Chine.",
+          "published": "2026-07-28T22:56:46+00:00"
+        },
+        {
+          "title": "Aux Etats-Unis, une réforme pour accélérer l’expulsion des demandeurs d’asile.",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html",
+          "source": "Le Monde",
+          "summary": "Les demandes pourront être directement adressées à des juges sans entretien préalable avec un agent des services de l’immigration, limitant la durée pendant laquelle les requérants pourront rester dans le pays.",
+          "published": "2026-07-28T22:01:17+00:00"
+        },
         {
           "title": "Le mégafeu en Gironde est \"stabilisé\" mais un nouveau \"pic de chaleur\" arrive",
           "link": "https://www.france24.com/fr/france/20260728-france-incendies-feux-megafeu-gironde-stabilise-pic-chaleur-canicule-pompiers-evacuations-landes",
           "source": "France 24",
           "summary": "En Gironde, où les flammes ont déjà ravagé 42 000 hectares, la journée mardi a été marquée par 14 reprises de feu, qui ont forcé l'évacuation préventive de milliers de touristes. L'incendie est \"stabilisé\" et ne…",
           "published": "2026-07-28T21:49:30+00:00"
-        },
-        {
-          "title": "Incendie en Gironde \"stabilisé\" : des évacutations préventives dans trois communes",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-incendie-en-gironde-stabilis%C3%A9-des-%C3%A9vacutations-pr%C3%A9ventives-dans-trois-communes",
-          "source": "France 24",
-          "summary": "Malgré 14 reprises de feu ce mardi, l'incendie reste \"stabilisé mais toujours pas fixé\" en Gironde. Les habitants de trois communes proches de Bordeaux ont été autorisés à rentrer chez eux, soit 60 000 personnes.…",
-          "published": "2026-07-28T20:28:24+00:00"
-        },
-        {
-          "title": "Attaque au couteau à Paris : levée de la garde à vue du suspect, conduit en psychiatrie",
-          "link": "https://www.france24.com/fr/france/20260728-attaque-au-couteau-paris-lev%C3%A9e-garde-vue-du-suspect-conduit-psychiatrie",
-          "source": "France 24",
-          "summary": "La garde à vue de l'homme interpellé lundi après avoir blessé à l'arme blanche trois femmes, dont deux grièvement, dans le 17e arrondissement de Paris, a été levée mardi pour raison psychiatrique. Le suspect était…",
-          "published": "2026-07-28T20:21:44+00:00"
-        },
-        {
-          "title": "Cameroun: séjour d'une longueur record pour Paul Biya en Suisse",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260728-cameroun-s%C3%A9jour-d-une-longueur-record-pour-paul-biya-en-suisse",
-          "source": "France 24",
-          "summary": "Au Cameroun, 50 jours que le président Biya a quitté le Cameroun. Parti du Cameroun le 7 juin dernier, le chef de l’état camerounais qui est âgé de 93 ans, dont bientôt 44 au pouvoir, n’a plus été vu en public depuis…",
-          "published": "2026-07-28T20:21:33+00:00"
-        },
-        {
-          "title": "Oman propose à l'Iran un mécanisme pour la gestion du détroit d'Ormuz",
-          "link": "https://www.france24.com/fr/moyen-orient/20260728-oman-propose-%C3%A0-l-iran-un-m%C3%A9canisme-pour-la-gestion-du-d%C3%A9troit-d-ormuz",
-          "source": "France 24",
-          "summary": "Oman a présenté ⁠à l'Iran ​une proposition visant à mettre en place un mécanisme régional conjoint – financé par des redevances volontaires – pour la ​gestion du détroit d'Ormuz, a déclaré, mardi, à l'agence Reuters une…",
-          "published": "2026-07-28T20:13:08+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine affirme avoir dérouté 18 navires commerciaux depuis le début du blocus des ports iraniens",
-          "link": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-americaine-affirme-avoir-deroute-18-navires-commerciaux-depuis-le-debut-du-blocus-contre-l-iran_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "Le commandement militaire conjoint iranien a, de son côté, déclaré que toute entreprise ou tout pays qui recevrait des avoirs iraniens gelés à titre d’indemnisation pour ses navires endommagés ne serait pas autorisé à…",
-          "published": "2026-07-28T18:30:23+00:00"
-        },
-        {
-          "title": "En Espagne, le « pacte d’Etat » de Pedro Sanchez face à l’urgence climatique est rejeté par une droite climatosceptique",
-          "link": "https://www.lemonde.fr/planete/article/2026/07/28/en-espagne-le-pacte-d-etat-de-pedro-sanchez-face-a-l-urgence-climatique-est-rejete-par-la-droite_6735402_3244.html",
-          "source": "Le Monde",
-          "summary": "Alors que les incendies monstres qui ravagent le pays sont en passe d’être fixés, le premier ministre socialiste estime qu’il est urgent d’adopter les mesures de prévention élaborées en 2025 avec la société civile et…",
-          "published": "2026-07-28T17:42:43+00:00"
-        },
-        {
-          "title": "Incendies en Gironde : chaîne de solidarité pour les animaux",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-incendies-en-gironde-cha%C3%AEne-de-solidarit%C3%A9-pour-les-animaux",
-          "source": "France 24",
-          "summary": "Face aux évacuations massives dans le sud-ouest de la France, la solidarité s'organise aussi pour les animaux. Éleveurs et bénévoles se mobilisent pour accueillir les compagnons des habitants contraints de fuir et…",
-          "published": "2026-07-28T17:25:55+00:00"
-        },
-        {
-          "title": "Japon : un séisme de magnitude 7,1 frappe le pays",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-japon-un-s%C3%A9isme-de-magnitude-7-1-frappe-le-pays",
-          "source": "France 24",
-          "summary": "Un séisme de magnitude 7,1 a frappé mardi 28 juillet le sud-ouest du Japon faisant au moins un mort et des dizaines de blessés.",
-          "published": "2026-07-28T17:13:41+00:00"
-        },
-        {
-          "title": "Bénin : les masques ancestraux à l’honneur à Porto-Novo",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-b%C3%A9nin-les-masques-ancestraux-%C3%A0-l-honneur-%C3%A0-porto-novo",
-          "source": "France 24",
-          "summary": "Le Bénin célèbre son patrimoine à travers le Festival des masques de Porto-Novo, un événement qui rassemble traditions, culture et spiritualité. Le pays ambitionne d'en faire un rendez-vous incontournable à l'échelle…",
-          "published": "2026-07-28T17:04:01+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Le Collège supérieur de Montréal et celui de Sherbrooke peuvent reprendre leurs activités",
-          "link": "https://www.ledevoir.com/actualites/education/997970/college-superieur-montreal-celui-sherbrooke-peuvent-reprendre-activites",
-          "source": "Le Devoir",
-          "summary": "Une décision du Tribunal administratif désavouerait le refus du ministère de l’Éducation de renouveler leur permis.",
-          "published": "2026-07-28T21:21:00+00:00"
-        },
-        {
-          "title": "Fillette tuée durant un voyage à New York | Melina Frattolin craignait de partir en voyage avec son père",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-28/fillette-tuee-durant-un-voyage-a-new-york/melina-frattolin-craignait-de-partir-en-voyage-avec-son-pere.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Centres de la jeunesse et centres Batshaw | Santé Québec réclame une enquête indépendante",
+          "link": "https://www.lapresse.ca/actualites/2026-07-28/centres-de-la-jeunesse-et-centres-batshaw/sante-quebec-reclame-une-enquete-independante.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Melina Frattolin aurait supplié de ne pas partir en voyage avec son père, quelques mois avant qu’il ne l’ait assassinée. C’est ce qu’a révélé sa mère endeuillée, lors d’un témoignage mardi.",
-          "published": "2026-07-28T21:07:00+00:00"
+          "summary": "Santé Québec demande un examen indépendant, a appris La Presse mardi, en réaction au décès en mars dernier de trois jeunes hébergées au Centre de réadaptation jeunesse de Prévost, un établissement qui relève des Centres…",
+          "published": "2026-07-29T02:09:01+00:00"
         },
         {
-          "title": "Les attaques israéliennes réduisent l’aide humanitaire à Gaza",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/997955/attaques-israeliennes-reduisent-aide-humanitaire-gaza",
+          "title": "Deux Américains reconnus coupables du meurtre de Daniel Langlois et de Dominique Marchand",
+          "link": "https://www.ledevoir.com/actualites/justice/998018/deux-americains-reconnus-coupables-meurtre-daniel-langlois-dominique-marchand",
           "source": "Le Devoir",
-          "summary": "Près de 300 enfants palestiniens ont été tués depuis l’entrée en vigueur du cessez-le-feu, indique l’UNICEF.",
-          "published": "2026-07-28T20:54:50+00:00"
+          "summary": "L’entrepreneur québécois et sa femme ont été assassinés en décembre 2023 sur l’île de la Dominique.",
+          "published": "2026-07-29T01:29:49+00:00"
         },
         {
-          "title": "Le nombre de réclamations pour les vols de voitures a chuté en 2025 au Québec",
-          "link": "https://www.ledevoir.com/actualites/societe/997949/nombre-reclamations-vols-voitures-chute-2025-quebec",
+          "title": "Omnium Banque Nationale | L’effet Félix, les demandes de joueurs et autres sujets connexes",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-07-28/omnium-banque-nationale/l-effet-felix-les-demandes-de-joueurs-et-autres-sujets-connexes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Valérie Tétreault dirigera un tournoi de 12 jours pour la deuxième fois. Après une première expérience enlevante et historique avec le triomphe de Victoria Mboko, les attentes en vue de l’Omnium Banque Nationale 2026…",
+          "published": "2026-07-29T01:00:00+00:00"
+        },
+        {
+          "title": "L’armée américaine affirme avoir déjoué une attaque de missiles iraniens",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/998015/armee-americaine-affirme-avoir-dejoue-attaque-missiles-iraniens",
           "source": "Le Devoir",
-          "summary": "Le coût moyen des réclamations aux assurances a toutefois plus que doublé en dix ans.",
-          "published": "2026-07-28T20:46:00+00:00"
+          "summary": "La capacité des États-Unis à intercepter les frappes ennemies est devenue un enjeu de plus en plus crucial.",
+          "published": "2026-07-29T00:34:37+00:00"
         },
         {
-          "title": "Permis non renouvelés | Le Tribunal administratif suspend la décision de Québec et permet à deux collèges privés de rouvrir",
-          "link": "https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le Tribunal administratif du Québec (TAQ) autorise le Collège supérieur de Montréal et le Collège supérieur de Sherbrooke à reprendre immédiatement leurs activités d’enseignement, le temps qu’il tranche sur le litige…",
-          "published": "2026-07-28T20:45:58+00:00"
-        },
-        {
-          "title": "Les trois actus du 28 juillet",
-          "link": "https://www.ledevoir.com/actualites/997934/trois-actus-28-juillet-2026",
+          "title": "Le Sénat américain fait avancer de nouvelles sanctions contre la Russie",
+          "link": "https://www.ledevoir.com/monde/etats-unis/998012/senat-americain-fait-avancer-nouvelles-sanctions-contre-russie",
           "source": "Le Devoir",
-          "summary": "Intoxications au Benadryl, Zelensky et Nétanyahou à la Maison-Blanche et demandes de passeport: ce qu’il faut retenir.",
-          "published": "2026-07-28T20:19:00+00:00"
+          "summary": "Le projet de loi prévoit de cibler le secteur des hydrocarbures russes.",
+          "published": "2026-07-29T00:17:32+00:00"
         },
         {
-          "title": "Sécurité, défi du silence… | Cinq choses à savoir avant les spectacles d’Ariana Grande au Centre Bell",
-          "link": "https://www.lapresse.ca/arts/musique/2026-07-28/securite-defi-du-silence/cinq-choses-a-savoir-avant-les-spectacles-d-ariana-grande-au-centre-bell.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "À la conquête du Canada | Gros chantier de 50 millions pour Simons",
+          "link": "https://www.lapresse.ca/affaires/2026-07-28/a-la-conquete-du-canada/gros-chantier-de-50-millions-pour-simons.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La chanteuse américaine Ariana Grande s’arrête au Centre Bell de Montréal mardi, jeudi et vendredi, pour des spectacles à guichets fermés. À quoi faut-il s’attendre ? Voici quelques éléments à savoir.",
-          "published": "2026-07-28T20:00:14+00:00"
+          "summary": "Les affaires vont visiblement bien pour le détaillant Simons, qui se lance dans un chantier de 50 millions pour agrandir son vaste complexe de distribution ultramoderne inauguré il y a cinq ans à peine en banlieue de…",
+          "published": "2026-07-28T23:45:00+00:00"
         },
         {
-          "title": "Homicide à l’Orange Julep | Huit ans de prison pour le coup de pied du dernier accusé",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-28/homicide-a-l-orange-julep/huit-ans-de-prison-pour-le-coup-de-pied-du-dernier-accuse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le dernier accusé de l’agression mortelle dans le stationnement du restaurant Orange Julep, en mai 2023, à Montréal, écope de huit ans de prison pour avoir contribué au décès d’Andreï Petuhov. Il passera trois ans de…",
-          "published": "2026-07-28T19:55:07+00:00"
-        },
-        {
-          "title": "Meurtre à Shawinigan  | Une chasse à l’homme, étape par étape",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-28/meurtre-a-shawinigan/une-chasse-a-l-homme-etape-par-etape.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Aucune vérification ne doit être négligée dans le « jeu du chat et de la souris » d’une enquête criminelle impliquant une chasse à l’homme, explique André Gélinas, ex-sergent-détective au Service de police de la Ville…",
-          "published": "2026-07-28T19:48:09+00:00"
-        },
-        {
-          "title": "Tous les Canadiens de plus de 16 ans au pays pourront renouveler leur passeport en ligne",
-          "link": "https://www.ledevoir.com/actualites/997919/tous-canadiens-plus-16-ans-pays-pourront-renouveler-passeport-ligne",
+          "title": "Les États-Unis restreignent la recherche sur les virus, citant l’exemple de la COVID-19",
+          "link": "https://www.ledevoir.com/monde/etats-unis/998009/etats-unis-restreignent-recherche-virus-citant-exemple-covid-19",
           "source": "Le Devoir",
-          "summary": "Pour les enfants, il sera toujours nécessaire de faire la demande en personne.",
-          "published": "2026-07-28T18:54:00+00:00"
+          "summary": "Les nouvelles règles interdisent notamment «le soutien fédéral aux recherches dangereuses de gain de fonction».",
+          "published": "2026-07-28T23:39:01+00:00"
+        },
+        {
+          "title": "Des experts en santé mentale appellent à la prudence après l’homicide à Shawinigan",
+          "link": "https://www.ledevoir.com/actualites/justice/998003/experts-sante-mentale-appellent-prudence-apres-homicide-shawinigan",
+          "source": "Le Devoir",
+          "summary": "Des psychologues redoutent des amalgames entre schizophrénie et violence.",
+          "published": "2026-07-28T22:44:00+00:00"
+        },
+        {
+          "title": "Le fils de Lleyton Hewitt gagne son premier match de l’ATP",
+          "link": "https://www.journaldemontreal.com/2026/07/28/le-fils-de-lleyton-hewitt-gagne-son-premier-match-de-latp",
+          "source": "Journal de Montreal",
+          "summary": "Cruz Hewitt suit les traces de son père.",
+          "published": "2026-07-28T22:08:56+00:00"
+        },
+        {
+          "title": "FESTIVENT | « Tout a explosé du jour au lendemain » : comment Arpin Lépine est devenu une vedette grâce à sa chanson « St-Félix »",
+          "link": "https://www.journaldemontreal.com/2026/08/01/tout-a-explose-du-jour-au-lendemain---comment-arpin-lepine-est-devenu-une-vedette-grace-a-sa-chanson--st-felix",
+          "source": "Journal de Montreal",
+          "summary": "La chanson « St-Félix » a changé la vie de cet ex-poseur de toitures de 26 ans.",
+          "published": "2026-07-28T22:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Incendie en Gironde : «le feu reste toujours actif mais contenu» avant une journée à haut risque mercredi",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-incendies-feux-pompiers-gironde-landes-bouches-du-rhone-var-corse-hautes-alpes-20260728",
+          "title": "Guerre en Ukraine : Zelensky affirme que «l’initiative n’est plus entre les mains de Poutine»",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-zelensky-affirme-que-l-initiative-n-est-plus-entre-les-mains-de-poutine-20260729",
           "source": "Le Figaro",
-          "summary": "La préfecture de la Gironde a indiqué mardi soir que plusieurs foyers restaient actifs dans le département et alerte toutefois sur des conditions météorologiques «défavorables pour demain», avec une hausse des…",
-          "published": "2026-07-28T21:46:03+00:00"
+          "summary": "Depuis Washington, le président ukrainien a affirmé mardi que Vladimir Poutine n’était plus en position de force dans la guerre en Ukraine, malgré son refus d’y mettre fin.",
+          "published": "2026-07-29T02:02:15+00:00"
         },
         {
-          "title": "Bâtiments endommagés, centre commercial effondré, pont éventré… Les dégâts provoqués par le séisme de magnitude 7,1 dans le sud du Japon",
-          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-batiments-endommages-centre-commercial-effondre-pont-eventre-les-degats-provoques-par-le-seisme-de-magnitude-7-1-dans-le-sud-du-japon_8125514.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La préfecture de Kumamoto a été touchée par une secousse qui a fait au moins trois morts et plus de 100 blessés. Le deuxième étage d'un centre commercial s'est effondré, piégeant de nombreuses personnes à l'intérieur,…",
-          "published": "2026-07-28T21:45:34+00:00"
+          "title": "«Le Triangle d’or» d’Hélène Rosselet-Ruiz, major dame",
+          "link": "https://www.liberation.fr/culture/cinema/le-triangle-dor-dhelene-rosselet-ruiz-major-dame-20260729_SVNS5K76SJDTVBHRTVIHFC2WFM/",
+          "source": "Liberation",
+          "summary": "Dans un huis clos qui suit le «couple» formé par la maîtresse d’un prince saoudien et sa domestique, la cinéaste mêle ambiance anxiogène et critique des ultra riches.",
+          "published": "2026-07-29T02:00:00+00:00"
         },
         {
-          "title": "Un séisme de magnitude 7,1 frappe le sud du Japon, au moins trois morts, 100 blessés et une dizaine de personnes portées disparues",
-          "link": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La secousse, qui a atteint le niveau maximum sur l'échelle d'intensité sismique du pays, s'est produite dans la préfecture de Kumamoto.",
-          "published": "2026-07-28T21:44:12+00:00"
-        },
-        {
-          "title": "L'incendie en Gironde est \"stabilisé\" mais avec 14 reprises de feu signalées sur la seule journée de mardi, selon la préfète",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-en-gironde-est-stabilise-mais-avec-14-reprises-de-feu-signalees-sur-la-seule-journee-de-mardi-selon-la-prefete_8126129.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'incendie de Gironde a brûlé 42 000 hectares à ce jour, soit la plus grande superficie depuis un feu de forêt meurtrier en 1949.",
-          "published": "2026-07-28T21:30:06+00:00"
-        },
-        {
-          "title": "Le gouvernement Trump interdit l'importation de robots humanoïdes fabriqués à l'étranger",
-          "link": "https://www.lefigaro.fr/international/le-gouvernement-trump-interdit-l-importation-de-robots-humanoides-fabriques-a-l-etranger-20260728",
+          "title": "Chine : 30 corps supplémentaires retrouvés après le glissement de terrain dans le sud-ouest",
+          "link": "https://www.lefigaro.fr/international/chine-30-corps-supplementaires-retrouves-apres-le-glissement-de-terrain-dans-le-sud-ouest-20260729",
           "source": "Le Figaro",
-          "summary": "La majorité des robots humanoïdes vendus aux États-Unis sont produits à l’étranger, en Chine notamment.",
-          "published": "2026-07-28T21:24:06+00:00"
+          "summary": "Le glissement de terrain de Chongqing est survenu moins de deux semaines après un autre glissement de terrain dans la province du Gansu.",
+          "published": "2026-07-29T01:47:28+00:00"
         },
         {
-          "title": "Betye Saar, figure tutélaire de l’art afro-américain, est morte",
-          "link": "https://www.lemonde.fr/disparitions/article/2026/07/28/betye-saar-figure-tutelaire-de-l-art-afro-americain-est-morte_6735604_3382.html",
+          "title": "Guerre au Moyen-Orient : les États-Unis annoncent avoir mené avec Ryad des frappes en Irak contre des alliés de l’Iran",
+          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-armee-americaine-annonce-avoir-intercepte-des-missiles-lances-par-l-iran-20260729",
+          "source": "Le Figaro",
+          "summary": "Après plusieurs jours d’accalmie, il s’agit du premier regain de violence entre Washington et Téhéran.",
+          "published": "2026-07-29T01:01:33+00:00"
+        },
+        {
+          "title": "IA : le patron d’Anthropic et des dirigeants d’OpenAI, Meta et Google demandent à «temporiser» la sortie des modèles",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/ia-le-patron-d-anthropic-et-des-dirigeants-d-openai-meta-et-google-demandent-a-temporiser-la-sortie-des-modeles-20260729",
+          "source": "Le Figaro",
+          "summary": "Un millier d’employés d’entreprises à la pointe de l’intelligence artificielle (IA) ont demandé mardi au gouvernement américain d’aider à «temporiser» la sortie des modèles d’IA les plus avancés.",
+          "published": "2026-07-28T23:52:32+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue sa « belle rencontre » avec Donald Trump à la Maison Blanche",
+          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-sa-belle-rencontre-avec-donald-trump-a-la-maison-blanche_6732775_3210.html",
           "source": "Le Monde",
-          "summary": "Connue pour ses œuvres d’assemblages comme pour ses engagements politiques, la Calfornienne s’est éteinte dimanche 26 juillet, à Los Angeles, à quatre jours de son centième anniversaire.",
-          "published": "2026-07-28T21:20:04+00:00"
+          "summary": "« Nous avons discuté (…) des licences de production d’intercepteurs pour les [missiles] Patriot et de quelques autres idées qui pourraient aider. Nous avons également parlé de diplomatie », a affirmé le président…",
+          "published": "2026-07-28T23:02:27+00:00"
         },
         {
-          "title": "Nouvelle canicule en France : quand les températures vont-elles repartir à la baisse ?",
-          "link": "https://www.lefigaro.fr/meteo/nouvelle-canicule-en-france-quand-les-temperatures-vont-elles-repartir-a-la-baisse-20260728",
-          "source": "Le Figaro",
-          "summary": "Après plusieurs épisodes de chaleur intense depuis le début de l’été, la France s’apprête à connaître une nouvelle vague de fortes températures. Les prochains jours seront encore marqués par une chaleur persistante.",
-          "published": "2026-07-28T20:55:42+00:00"
+          "title": "«The Ugly» de Yeon Sang-ho, c’est moche",
+          "link": "https://www.liberation.fr/culture/cinema/the-ugly-de-yeon-sang-ho-cest-moche-20260729_ZXPWKUMOKZCZDICDWQC2BE6SLM/",
+          "source": "Liberation",
+          "summary": "Adapté de son roman graphique, le cinéaste livre le portrait d’une femme souffre-douleur dans une intrigue chargée de pathos et oubliant de donner la parole à la victime.",
+          "published": "2026-07-28T23:00:00+00:00"
         },
         {
-          "title": "L'incendie dans le Var est \"officiellement fixé\", annonce la préfecture",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-dans-le-var-est-officiellement-fixe-annonce-la-prefecture_8126111.html#xtor=RSS-3-[lestitres]",
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir intercepté des missiles lancés par l’Iran",
+          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-intercepte-des-missiles-lances-par-l-iran_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Le Commandement militaire américain pour le Moyen-Orient fait état de missiles lancés par la République islamique « contre les forces américaines basées au Moyen-Orient ».",
+          "published": "2026-07-28T22:57:02+00:00"
+        },
+        {
+          "title": "EN DIRECT, incendies : 14 reprises de feu ont été constatées mardi en Gironde, mais « le feu est toujours stabilisé », selon la préfète ; dans le Var, le feu du Gros Bessillon est fixé",
+          "link": "https://www.lemonde.fr/planete/live/2026/07/29/en-direct-incendies-14-reprises-de-feu-ont-ete-constatees-mardi-en-gironde-mais-le-feu-est-toujours-stabilise-selon-la-prefete-dans-le-var-le-feu-du-gros-bessillon-est-fixe_6730417_3244.html",
+          "source": "Le Monde",
+          "summary": "Seize départements, dont la Gironde et les Landes, en proie aux incendies, passeront en vigilance orange canicule mercredi, a annoncé mardi Météo-France. Quatorze autres départements du centre-est du pays, du…",
+          "published": "2026-07-28T22:52:12+00:00"
+        },
+        {
+          "title": "La Fifa dévoile un projet de société commerciale ouverte à des investisseurs extérieurs",
+          "link": "https://www.franceinfo.fr/sports/la-fifa-devoile-un-projet-de-societe-commerciale-ouverte-a-des-investisseurs-exterieurs_8126135.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Près de 5 000 personnes avaient dû être évacuées de plusieurs communes du centre du département depuis le début du sinistre, déclenché mardi dernier.",
-          "published": "2026-07-28T20:54:59+00:00"
-        },
-        {
-          "title": "Claude Mythos peut-il détruire l’économie mondiale et les communications ? L’IA d’Anthropic a compromis les mécanismes secrets qui sécurisent Internet",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/claude-mythos-peut-il-detruire-l-economie-mondiale-et-les-communications-l-ia-d-anthropic-a-compromis-les-mecanismes-secrets-qui-securisent-internet-20260728",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Le géant de l’IA a annoncé qu’un de ses prototypes avait réussi à percer deux systèmes de chiffrement différents. Ces systèmes sécurisent nos paiements, nos communications et nos fichiers confidentiels.",
-          "published": "2026-07-28T20:48:41+00:00"
-        },
-        {
-          "title": "Aucun TGV ne circulera mercredi au sud de Bordeaux, sauf pour Toulouse et Tarbes, du fait des incendies",
-          "link": "https://www.franceinfo.fr/economie/transports/sncf/aucun-tgv-ne-circulera-mercredi-au-sud-de-bordeaux-sauf-pour-toulouse-et-tarbes-du-fait-des-incendies_8126096.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La compagnie ferroviaire recommande \"de reporter les déplacements en train prévus jusqu'au vendredi 31 juillet inclus à destination des zones concernées\".",
-          "published": "2026-07-28T20:31:51+00:00"
+          "summary": "D'après le journal \"The Times\", le président de la Fifa, Gianni Infantino, qui a régulièrement affiché sa proximité avec le président américain, pourrait à terme devenir directeur général de cette nouvelle structure.",
+          "published": "2026-07-28T22:17:34+00:00"
         }
       ]
     },
