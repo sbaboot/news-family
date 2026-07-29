@@ -1,15 +1,43 @@
 {
-  "generated_at": "2026-07-29T19:13:34.110753+00:00",
+  "generated_at": "2026-07-29T22:00:19.990485+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Argentine : sept morts dans le crash d’un hélicoptère de lutte contre les incendies",
+          "link": "https://www.lemonde.fr/planete/article/2026/07/29/argentine-sept-morts-dans-le-crash-d-un-helicoptere-de-lutte-contre-les-incendies_6736449_3244.html",
+          "source": "Le Monde",
+          "summary": "Le contact avait été perdu dans la matinée alors que l’appareil participait à une mission de formation avant d’être mobilisé pour lutter contre un incendie dans la province de La Rioja.",
+          "published": "2026-07-29T21:51:10+00:00"
+        },
+        {
+          "title": "Infantino défend son projet d'investisseurs privés à la Fifa : \"une opportunité, pas une obligation\"",
+          "link": "https://www.france24.com/fr/sports/20260729-fifa-projet-investisseurs-prives-opportunite-pas-obligation-gianni-infantino-scandale",
+          "source": "France 24",
+          "summary": "Face au tollé provoqué par son projet de créer une société commerciale ouverte aux investisseurs privés, le patron de la Fifa s'est défendu mercredi : \"C'est une occasion en or de dynamiser le développement du sport à…",
+          "published": "2026-07-29T21:50:49+00:00"
+        },
+        {
+          "title": "🔴 En direct : \"importante reprise\" de feu à Fontainebleau, \"pas de progression\" du mégafeu en Gironde",
+          "link": "https://www.france24.com/fr/france/20260729-en-direct-megafeu-gironde-feu-toujours-stabilise-nouveau-pic-de-chaleur",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-07-29T20:35:19+00:00"
+        },
+        {
+          "title": "La Cour constitutionnelle ouvre la voie à un référendum : un 3e mandat pour Félix Tshisekedi ?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260729-la-cour-constitutionnelle-ouvre-la-voie-%C3%A0-un-r%C3%A9f%C3%A9rendum-un-3e-mandat-pour-f%C3%A9lix-tshisekedi",
+          "source": "France 24",
+          "summary": "On ouvre ce journal en RDC, où la coalition d'opposition C64 vient de s'exprimer pour vivement critiquer la Cour constitutionnelle, tout en donnant rendez-vous au peuple congolais le 15 août prochain. Une prise de…",
+          "published": "2026-07-29T20:29:08+00:00"
+        },
+        {
           "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis annoncent de nouvelles sanctions visant des entités iraniennes liées aux gardiens de la révolution",
           "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-etats-unis-annoncent-de-nouvelles-sanctions-visant-des-entites-iraniennes-liees-aux-gardiens-de-la-revolution_6725301_3210.html",
           "source": "Le Monde",
           "summary": "L’annonce de ces sanctions, qui concernent des entités accusées d’imposer des « assurances » aux navires transitant par le détroit d’Ormuz, survient alors que Donald Trump a averti que les Etats-Unis allaient frapper «…",
-          "published": "2026-07-29T18:39:39+00:00"
+          "published": "2026-07-29T18:39:36+00:00"
         },
         {
           "title": "La Fed maintient ses taux inchangés, sous la pression de Donald Trump",
@@ -45,34 +73,6 @@
           "source": "France 24",
           "summary": "Au Nigeria, la recrudescence des violences dans le nord du pays aggrave la crise alimentaire. Plus de 3 millions de personnes souffrent d'une insécurité alimentaire aiguë, selon le Programme alimentaire mondial. Parmi…",
           "published": "2026-07-29T17:28:24+00:00"
-        },
-        {
-          "title": "Mégafeu en Gironde : les pompiers face aux reprises de feu, l'incendie stabilisé",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-m%C3%A9gafeu-en-gironde-les-pompiers-face-aux-reprises-de-feu-l-incendie-stabilis%C3%A9",
-          "source": "France 24",
-          "summary": "Les sapeurs-pompiers ont dû faire face mercredi à de nouvelles reprises de feu dans plusieurs communes de Gironde, notamment Lège-Cap-Ferret, mais elles ​sont désormais stabilisées ou en cours de stabilisation, a fait…",
-          "published": "2026-07-29T17:27:57+00:00"
-        },
-        {
-          "title": "La Fifa sous le feu des critiques suite au projet d’investissements privés",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-la-fifa-sous-le-feu-des-critiques-suite-au-projet-d-investissements-priv%C3%A9s",
-          "source": "France 24",
-          "summary": "Les fédérations européennes du football tiennent une réunion d'urgence ce 29 juillet sous l'égide de l'UEFA. Cela fait suite à l'annonce du projet de la Fifa d'ouvrir la porte aux investisseurs privés via la création…",
-          "published": "2026-07-29T17:09:37+00:00"
-        },
-        {
-          "title": "Brésil : la Cour suprême somme Jair Bolsonaro de s’expliquer sur un deepfake électoral en soutien de son fils candidat à la présidentielle",
-          "link": "https://www.lemonde.fr/international/article/2026/07/29/bresil-la-cour-supreme-somme-jair-bolsonaro-de-s-expliquer-sur-un-deepfake-electoral-en-soutien-de-son-fils-candidat-a-la-presidentielle_6736406_3210.html",
-          "source": "Le Monde",
-          "summary": "L’ancien chef de l’Etat a interdiction de s’exprimer publiquement alors qu’il purge, à son domicile, une peine de vingt-sept ans de prison pour une tentative de coup d’Etat après sa défaite au scrutin de 2022.",
-          "published": "2026-07-29T17:02:04+00:00"
-        },
-        {
-          "title": "La Syrie se promeut en plateforme énergétique et logistique alternative au détroit d’Ormuz",
-          "link": "https://www.lemonde.fr/international/article/2026/07/29/la-syrie-se-promeut-en-plateforme-energetique-et-logistique-alternative-au-detroit-d-ormuz_6736405_3210.html",
-          "source": "Le Monde",
-          "summary": "Porté par les pays du Golfe, la Turquie et Washington, le président syrien, Ahmed Al-Charaa, mise sur la position géographique de son pays pour en faire un corridor énergétique incontournable entre le Golfe et l’Europe,…",
-          "published": "2026-07-29T17:00:09+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Une pénurie d’antidouleurs dans les pharmacies du Québec",
-          "link": "https://www.ledevoir.com/actualites/sante/998237/penurie-antidouleurs-pharmacies-quebec",
+          "title": "Philippe Benoit, soupçonné du meurtre de son fils, a été arrêté",
+          "link": "https://www.ledevoir.com/actualites/justice/998339/philippe-benoit-soupconne-meurtre-fils-ete-arrete",
           "source": "Le Devoir",
-          "summary": "Il s’agit des comprimés d’hydromorphone, qui comprend la marque Dilaudid et deux génériques.",
-          "published": "2026-07-29T18:45:00+00:00"
+          "summary": "Il était recherché depuis dimanche, soupçonné du meurtre de son fils de 16 ans à Shawinigan.",
+          "published": "2026-07-29T21:30:00+00:00"
         },
         {
-          "title": "Malgré une inflation élevée, la Fed maintient son taux directeur",
-          "link": "https://www.ledevoir.com/economie/998234/malgre-inflation-elevee-fed-maintient-taux-directeur",
+          "title": "Meurtre à Shawinigan | Le suspect retrouvé en vie",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-29/meurtre-a-shawinigan/le-suspect-retrouve-en-vie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Philippe Benoit, un suspect recherché pour le meurtre de son fils, a été retrouvé. Il est en vie, confirme la Sûreté du Québec (SQ).",
+          "published": "2026-07-29T21:24:17+00:00"
+        },
+        {
+          "title": "Le ministre Drainville allonge les heures d’ouverture des boutiques érotiques",
+          "link": "https://www.lapresse.ca/affaires/entreprises/2026-07-29/le-ministre-drainville-allonge-les-heures-d-ouverture-des-boutiques-erotiques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les boutiques érotiques vendront bientôt vibrateurs et huile de massage jusqu’à 23h grâce à l’intervention du gouvernement du Québec qui souhaite prolonger leurs heures ouvrables.",
+          "published": "2026-07-29T21:23:11+00:00"
+        },
+        {
+          "title": "Anthony Fauci, ancien conseiller sur la COVID-19, refuse de répondre au Sénat",
+          "link": "https://www.ledevoir.com/monde/etats-unis/998333/anthony-fauci-ancien-conseiller-covid-19-refuse-repondre-senat",
           "source": "Le Devoir",
-          "summary": "Un relèvement des taux aurait représenté un cas de figure défavorable pour le président Donald Trump.",
-          "published": "2026-07-29T18:38:00+00:00"
+          "summary": "«Le peuple américain mérite franchement des excuses», a tonné le sénateur républicain Rand Paul.",
+          "published": "2026-07-29T21:14:33+00:00"
         },
         {
-          "title": "La Réserve fédérale américaine maintient ses taux inchangés, entre 3,50% et 3,75%",
-          "link": "https://www.journaldemontreal.com/2026/07/29/la-reserve-federale-americaine-maintient-ses-taux-inchanges-entre-350-et-375",
-          "source": "Journal de Montreal",
-          "summary": "La Réserve fédérale américaine a fait mercredi le choix de ne pas choisir, en maintenant ses taux inchangés.",
-          "published": "2026-07-29T18:17:55+00:00"
-        },
-        {
-          "title": "«Dialogues des carmélites» à Québec, l’opéra à l’état pur",
-          "link": "https://www.ledevoir.com/culture/musique/998231/dialogues-carmelites-quebec-opera-etat-pur",
+          "title": "Un délinquant sexuel multirécidiviste activement recherché par la police",
+          "link": "https://www.ledevoir.com/actualites/justice/998330/delinquant-sexuel-multirecidiviste-activement-recherche-police",
           "source": "Le Devoir",
-          "summary": "L’opéra de Francis Poulenc est un événement. Ne reste plus qu’à remplir la salle.",
-          "published": "2026-07-29T18:15:45+00:00"
+          "summary": "Mario Charette est actuellement en liberté illégale. Il pourrait être n’importe où au Québec et au Canada.",
+          "published": "2026-07-29T21:00:00+00:00"
         },
         {
-          "title": "Une maison rasée par une explosion en Ontario est «perte totale», selon les pompiers",
-          "link": "https://www.journaldemontreal.com/2026/07/29/une-explosion-rase-une-maison-en-ontario-perte-totale-selon-les-pompiers",
+          "title": "Stratagème Ponzi de 100 M$: un producteur de films canadien arrêté pour fraude",
+          "link": "https://www.journaldemontreal.com/2026/07/29/stratageme-ponzi-de-100-m-un-producteur-de-films-canadien-arrete-pour-des-accusations-de-fraude",
           "source": "Journal de Montreal",
-          "summary": "Les services d'urgence sont intervenus mercredi après-midi à la suite d'une explosion qui a rasé une maison en Ontario.",
-          "published": "2026-07-29T18:15:04+00:00"
+          "summary": "Le producteur de cinéma canadien Jason Cloth est accusé d’avoir escroqué des clients à la hauteur de plus de 100 millions de dollars américains.",
+          "published": "2026-07-29T20:48:34+00:00"
         },
         {
-          "title": "Une ambiance « apocalyptique » : voici l’histoire derrière la photo virale d’un couple à la plage lors des incendies en France",
-          "link": "https://www.journaldemontreal.com/2026/07/29/une-ambiance--apocalyptique---voici-lhistoire-derriere-la-photo-virale-dun-couple-a-la-plage-lors-des-incendies-en-france",
+          "title": "Les Jays gagnent leur série à Washington",
+          "link": "https://www.journaldemontreal.com/2026/07/29/les-jays-gagnent-leur-serie-a-washington",
           "source": "Journal de Montreal",
-          "summary": "Le cliché est saisissant : deux personnes à la plage, sous un parasol, contemplant les feux qui embrasent la France.",
-          "published": "2026-07-29T18:10:59+00:00"
+          "summary": "L'attaque accomplit le boulot attendu, tout comme le partant Trey Yesavage.",
+          "published": "2026-07-29T20:46:36+00:00"
         },
         {
-          "title": "Des profits de «1800$ par seconde»: il faut taxer les revenus excessifs des géants pétroliers, réclame OXFAM",
-          "link": "https://www.journaldemontreal.com/2026/07/29/des-profits-de-1800-par-seconde-il-faut-taxer-les-revenus-excessifs-des-geants-petroliers-reclame-oxfam",
-          "source": "Journal de Montreal",
-          "summary": "Les grandes entreprises pétrolières empochent des milliards tout en générant une pollution qui tue des milliers de gens, dénonce OXFAM-Québec",
-          "published": "2026-07-29T18:06:13+00:00"
+          "title": "Le Canada a «repris le contrôle» de l’immigration, assure Carney",
+          "link": "https://www.ledevoir.com/politique/canada/998321/canada-repris-controle-immigration-assure-carney",
+          "source": "Le Devoir",
+          "summary": "Le premier ministre soutient que le flux de demandeurs d’asile entrant au Canada a diminué d’un tiers.",
+          "published": "2026-07-29T20:45:44+00:00"
         },
         {
-          "title": "Un match de la NBA sera présenté pour la première fois au Centre Vidéotron, à Québec",
-          "link": "https://www.journaldemontreal.com/2026/07/29/nba--un-premier-match-presaison-a-quebec",
+          "title": "Plus de deux ans avec une pièce défectueuse: des propriétaires de Ford Explorer toujours en attente",
+          "link": "https://www.journaldemontreal.com/2026/07/29/plus-de-deux-ans-avec-une-piece-defectueuse-des-proprietaires-de-ford-explorer-toujours-en-attente",
           "source": "Journal de Montreal",
-          "summary": "Les Raptors et le Heat s’affronteront dans un match préparatoire de la NBA, le 3 octobre, à Québec.",
-          "published": "2026-07-29T18:04:57+00:00"
+          "summary": "Rouler pendant deux ans et demi avec une pièce défectueuse sans pouvoir la remplacer: c’est la réalité de nombreux propriétaires de Ford Explorer.",
+          "published": "2026-07-29T20:41:03+00:00"
         },
         {
-          "title": "Leylah Fernandez vaincue à Washington",
-          "link": "https://www.journaldemontreal.com/2026/07/29/leylah-fernandez-vaincue-a-washington",
+          "title": "La folie Ariana Grande : les fans déboursent des centaines de dollars pour des souvenirs de leur idole dans sa boutique éphémère",
+          "link": "https://www.journaldemontreal.com/2026/07/29/la-folie-ariana-grande--les-fans-deboursent-des-centaines-de-dollars-pour-des-souvenirs-de-leur-idole-dans-sa-boutique-ephemere",
           "source": "Journal de Montreal",
-          "summary": "La Québécoise était championne en titre du tournoi.",
-          "published": "2026-07-29T18:04:32+00:00"
-        },
-        {
-          "title": "Mercedes-Benz GLA 2028 : 3e génération électrique",
-          "link": "https://www.guideautoweb.com/articles/82660/mercedes-benz-gla-2028-une-troisieme-generation-electrique-et-hybride/",
-          "source": "Journal de Montreal",
-          "summary": "Le plus petit utilitaire de Mercedes-Benz se renouvelle complètement en suivant les traces des autres véhicules compacts de la marque de luxe.",
-          "published": "2026-07-29T18:00:00+00:00"
+          "summary": "Depuis mardi, des centaines d’admirateurs d’Ariana Grande se rendent à la boutique éphémère sur la rue Sainte-Catherine à Montréal.",
+          "published": "2026-07-29T20:36:59+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Incendie en Gironde : pas de TGV au sud de Bordeaux hormis Toulouse jusqu’au dimanche 2 août",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-et-canicule-en-france-en-gironde-une-nuit-calme-et-un-feu-toujours-stabilise-avant-une-journee-tres-chaude-20260729_64HFBBEKXBARJPG7VMBWG3SPNA/",
-          "source": "Liberation",
-          "summary": "Les Landes et la Gironde, toujours en proie aux feux, rebasculeront en vert dès l’aube, jeudi, à la faveur d’un «net rafraîchissement» sur la façade atlantique, annonce Météo-France.",
-          "published": "2026-07-29T19:07:17+00:00"
-        },
-        {
-          "title": "États-Unis : Un jeune homme de 15 ans tué par la foudre pendant une randonnée en tentant de protéger son petit frère",
-          "link": "https://www.lefigaro.fr/international/etats-unis-un-jeune-homme-de-15-ans-tue-par-la-foudre-pendant-une-randonnee-en-tentant-de-proteger-son-petit-frere-20260729",
-          "source": "Le Figaro",
-          "summary": "Levi Strobel faisait une randonnée avec quatre autres personnes dans le Colorado dimanche 26 juillet. Malgré l’intervention rapide des secours, il n’a pu être réanimé. Son cadet a été hospitalisé.",
-          "published": "2026-07-29T19:03:54+00:00"
-        },
-        {
-          "title": "Ville fantôme, chiens charognards, drones kamikazes... En Ukraine, l’odyssée d’Andriy Leonovitch au cœur de la «kill zone»",
-          "link": "https://www.lefigaro.fr/international/ville-fantome-chiens-charognards-drones-kamikazes-en-ukraine-l-odyssee-d-andriy-leonovitch-au-coeur-de-la-kill-zone-20260729",
-          "source": "Le Figaro",
-          "summary": "RÉCIT - Après la destruction de sa maison près de Dobropillia, ce civil âgé de 52 ans a dû se terrer pendant trois mois avant de défier les drones et les bombes russes pour parvenir en lieu sûr.",
-          "published": "2026-07-29T19:00:00+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies : 263 personnes interpellées depuis le 28 juin, dont 92 mineures",
+          "title": "EN DIRECT - Incendies : nouveaux départs de feu à Fontainebleau et dans le Var, le mégafeu en Gironde «n’a pas progressé» mercredi",
           "link": "https://www.lefigaro.fr/meteo/direct-incendies-gironde-landes-var-saumos-meteo-canicule-chaleur-feux-pompiers-20260729",
           "source": "Le Figaro",
-          "summary": "«Les forces de sécurité sont pleinement mobilisées pour identifier les incendiaires. Ils seront retrouvés, interpellés et répondront de leurs actes devant la justice», avait assuré lundi sur X le Premier ministre…",
-          "published": "2026-07-29T18:59:02+00:00"
+          "summary": "La préfecture de la Gironde dit pouvoir «envisager», si l’accalmie se confirme, un retour à la «normale», malgré les fortes chaleurs ressenties qui laissaient craindre «une journée à haut risque».",
+          "published": "2026-07-29T21:52:52+00:00"
         },
         {
-          "title": "Incendies dans le Sud-Ouest : la SNCF maintient jusqu’à dimanche 2 août l’annulation des TGV au sud de Bordeaux",
-          "link": "https://www.lefigaro.fr/actualite-france/incendies-dans-le-sud-ouest-les-tgv-au-sud-de-bordeaux-resteront-annules-jeudi-confirme-la-sncf-20260729",
-          "source": "Le Figaro",
-          "summary": "La SNCF précise également que tous les clients concernés par les annulations bénéficient de l’échange ou du remboursement sans frais de leurs billets.",
-          "published": "2026-07-29T18:57:12+00:00"
-        },
-        {
-          "title": "Le gouvernement réhausse le plafond d'aide d'urgence pour certains indépendants après les incendies en Nouvelle-Aquitaine",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-gouvernement-rehausse-le-plafond-d-aide-d-urgence-pour-certains-independants-apres-les-incendies-en-nouvelle-aquitaine_8127578.html#xtor=RSS-3-[lestitres]",
+          "title": "Incendies : \"importante reprise de feu\" dans la forêt de Fontainebleau, 6 hectares brûlés",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-reste-stabilise-apres-une-nouvelle-nuit-calme-selon-la-prefecture_8126570.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Pour les indépendants \"directement touchés par l'incendie de leur entreprise et/ou de leur habitation personnelle\", cette aide voit son plafond quadruplé, passant à 8 000 euros.",
-          "published": "2026-07-29T18:55:36+00:00"
+          "summary": "\"Il n'y a pas d'évacuations envisagées\", a cependant souligné mercredi soir un officier de communication du service départemental d''incendie et de secours (Sdis) de Seine-et-Marne.",
+          "published": "2026-07-29T21:52:36+00:00"
         },
         {
-          "title": "EN DIRECT, incendies : plusieurs quartiers évacués à Brignoles, dans le Var, en raison d’un incendie ; des reprises de feu observées en Gironde",
-          "link": "https://www.lemonde.fr/planete/live/2026/07/29/en-direct-incendies-plusieurs-quartiers-evacues-a-brignoles-dans-le-var-en-raison-d-un-incendie-des-reprises-de-feu-observees-en-gironde_6730417_3244.html",
-          "source": "Le Monde",
-          "summary": "La Gironde et les Landes font partie des 16 départements placés mercredi en vigilance orange canicule par Météo-France. La SNCF maintient jusqu’à dimanche l’annulation des TGV au sud de Bordeaux.",
-          "published": "2026-07-29T18:49:55+00:00"
+          "title": "Guerre au Moyen-Orient : des groupes armés pro-iraniens menacent de frapper l'Arabie saoudite, en riposte aux frappes américano-saoudiennes en Irak",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-le-nord-ouest-de-l-iran-selon-la-television-d-etat-iranienne_8127041.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les frappes reprennent au Moyen-Orient après une accalmie des hostilités qui a duré plusieurs jours. Le cours du pétrole a bondi face à cette montée des tensions.",
+          "published": "2026-07-29T21:52:17+00:00"
         },
         {
-          "title": "Expulsion de la propagandiste Xenia Fedorova : et si les médias de Bolloré donnaient l’exemple ?",
-          "link": "https://www.liberation.fr/idees-et-debats/expulsion-de-la-propagandiste-xenia-fedorova-et-si-les-medias-de-bollore-donnaient-lexemple-20260729_ONAXRPSUMRD5BO7D5R4YEMIXHQ/",
-          "source": "Liberation",
-          "summary": "L’arrêté d’expulsion délivré à la propagandiste russe place la bollosphère face à ses contradictions.",
-          "published": "2026-07-29T18:47:05+00:00"
+          "title": "L'Arcom sanctionne une trentaine de sites pornographiques qui n'ont pas mis en place de système de vérification d'âge de leurs utilisateurs",
+          "link": "https://www.franceinfo.fr/societe/pornographie/l-arcom-sanctionne-une-trentaine-de-sites-pornographiques-qui-n-ont-pas-mis-en-place-de-systeme-de-verification-d-age-de-leurs-utilisateurs_8127671.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Depuis janvier 2025, la loi française oblige les éditeurs des sites diffusant du contenu pornographique à mettre en place un système d'identification empêchant les mineurs d'y accéder, sous peine de sanctions du…",
+          "published": "2026-07-29T21:49:22+00:00"
         },
         {
-          "title": "Expulsion de la propagandiste russe Xenia Fedorova : face aux ingérences, l’exécutif durcit le ton",
-          "link": "https://www.liberation.fr/politique/elections/expulsion-de-xenia-fedorova-face-aux-ingerences-lexecutif-durcit-le-ton-20260730_KUG7HFGWBFCYZF2UX3EVM7PANQ/",
-          "source": "Liberation",
-          "summary": "L’ancienne patronne de RT France, devenue figure médiatique du groupe Bolloré, est visée par un arrêté d’expulsion. Le symbole d’une nouvelle ligne dure d’Emmanuel Macron contre les opérations d’influence étrangères.",
-          "published": "2026-07-29T18:45:29+00:00"
+          "title": "L'acteur et chanteur Jared Leto accusé de violences sexuelles par plusieurs femmes dans une enquête de la BBC",
+          "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-acteur-jared-leto-accuse-de-violences-sexuelles-par-plusieurs-femmes-dans-une-enquete-de-la-bbc_8127479.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Au total, dix femmes témoignent dans le documentaire \"Jared Leto : le sombre secret de Hollywood\" de la BBC, dont neuf pour la première fois.",
+          "published": "2026-07-29T21:29:06+00:00"
         },
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis annoncent de nouvelles sanctions visant des entités iraniennes liées aux gardiens de la révolution",
-          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-etats-unis-annoncent-de-nouvelles-sanctions-visant-des-entites-iraniennes-liees-aux-gardiens-de-la-revolution_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "L’annonce de ces sanctions, qui concernent des entités accusées d’imposer des « assurances » aux navires transitant par le détroit d’Ormuz, survient alors que Donald Trump a averti que les Etats-Unis allaient frapper «…",
-          "published": "2026-07-29T18:39:39+00:00"
+          "title": "En Côte-d'Or, un incendie s'est déclaré au sud de Dijon, plus de 50 hectares de végétation déjà brûlés",
+          "link": "https://www.franceinfo.fr/france/bourgogne-franche-comte/cote-d-or/en-cote-d-or-un-incendie-s-est-declare-au-sud-de-dijon-plus-de-50-hectares-de-vegetation-deja-brules_8127668.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "\"Aucun blessé n'est à déplorer et aucune habitation n'a été touchée à cette heure\", a précisé la préfecture de Côte-d'Or mercredi soir.",
+          "published": "2026-07-29T21:26:40+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : « signaux » à la droite, encouragements à être candidat… La méthode de Sébastien Lecornu agite son camp",
+          "link": "https://www.lefigaro.fr/politique/presidentielle-2027-signaux-a-la-droite-encouragements-a-etre-candidat-la-methode-de-sebastien-lecornu-agite-son-camp-20260729",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - Mobilisé par les incendies, le premier ministre s’est mis en scène dans Paris Match pour préparer les esprits aux débats budgétaires, relançant les spéculations sur son futur rôle dans la course à venir…",
+          "published": "2026-07-29T21:12:43+00:00"
+        },
+        {
+          "title": "En Gironde, 80 hectares dédiés aux recherches forestières de l'Inrae ont brûlé dans l'incendie",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-80-hectares-dedies-aux-recherches-forestieres-de-l-inrae-ont-brule-dans-l-incendie_8127662.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les dispositifs comportaient notamment des parcelles destinées à tester le mélange d'espèces, à documenter l'effet du dérèglement climatique sur les arbres pour encore à étudier l'impact des bioagresseurs sur les…",
+          "published": "2026-07-29T21:01:15+00:00"
+        },
+        {
+          "title": "L'incendie en Gironde \"n'a pas progressé\" mercredi malgré les fortes chaleurs, annonce la préfète",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/video-l-incendie-en-gironde-n-a-pas-progresse-mercredi-malgre-les-fortes-chaleurs-annonce-la-prefete_8127650.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La préfète de Gironde, Sophie Brocas, a déclaré, mercredi soir, \"envisager un retour à une vie plus normale\" si l'accalmie \"se confirme\".",
+          "published": "2026-07-29T20:37:53+00:00"
+        },
+        {
+          "title": "\"Je me suis vu mourir\" : après avoir frôlé la mort dans un incendie il y a 20 ans, ce pompier poursuit sa carrière",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-me-suis-vu-mourir-apres-avoir-frole-la-mort-dans-un-incendie-il-y-a-20-ans-ce-pompier-poursuit-sa-carriere_8127593.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Parmi les pompiers engagés en Gironde, l’un d’eux sait mieux que quiconque ce que les flammes peuvent coûter. En 2004, Frédéric Maggiani a failli mourir dans un incendie de forêt. Il a été brûlé sur 37 % du corps et…",
+          "published": "2026-07-29T20:36:42+00:00"
         }
       ]
     },
