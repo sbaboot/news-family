@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-29T02:31:05.131574+00:00",
+  "generated_at": "2026-07-29T05:51:35.379640+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "En direct : Washington et Riyad ont mené des frappes en Irak contre des alliés de l'Iran",
+          "title": "EN DIRECT, guerre au Moyen-Orient : les gardiens de la révolution iraniens affirment avoir visé une base américaine en Jordanie avec plusieurs missiles",
+          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-vise-une-base-americaine-en-jordanie-avec-plusieurs-missiles_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Dans un communiqué, les pasdarans écrivent que l’attaque est une réponse aux « actions agressives de l’armée américaine ». Les Etats-Unis et l’Arabie saoudite ont mené des frappes conjointes contre des milices…",
+          "published": "2026-07-29T05:43:05+00:00"
+        },
+        {
+          "title": "En direct : une nouvelle nuit \"calme\" en Gironde, le feu \"toujours stabilisé\"",
+          "link": "https://www.france24.com/fr/france/20260729-en-direct-megafeu-gironde-feu-toujours-stabilise-nouveau-pic-de-chaleur",
+          "source": "France 24",
+          "summary": "Le mégafeu qui a brûlé 42 000 hectares en Gironde depuis le 22 juillet est \"toujours stabilisé\" mercredi matin après une seconde nuit \"calme\", a-t-on appris auprès de la préfecture du département. Plusieurs reprises de…",
+          "published": "2026-07-29T05:10:55+00:00"
+        },
+        {
+          "title": "J’ai tout perdu en bourse : Alexander Hurst raconte",
+          "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260729-j-ai-tout-perdu-en-bourse-alexander-hurst-raconte",
+          "source": "RFI",
+          "summary": "Cette semaine, nous vous proposons une série special de portraits \"Il ou elle raconte\". Nous partons à la rencontre de personnalités qui racontent nos sociétés actuelles. Avec eux, nous questionnerons notre rapport à…",
+          "published": "2026-07-29T05:00:08+00:00"
+        },
+        {
+          "title": "En Iran, \"dès que l'ombre de la guerre se dissipe, la répression se fait plus brutale\"",
+          "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260729-en-iran-d%C3%A8s-que-l-ombre-de-la-guerre-se-dissipe-la-r%C3%A9pression-se-fait-plus-brutale",
+          "source": "France 24",
+          "summary": "A la Une de la presse, ce mercredi 29 juillet, le retour en force de la répression en Iran, où deux hommes ont été exécutés, hier, après avoir été condamnés pour leur participation aux manifestations anti-régime du…",
+          "published": "2026-07-29T04:17:43+00:00"
+        },
+        {
+          "title": "Inquiets, des cadres de l'IA demandent aux États-Unis de les aider à lever le pied",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260729-ia-petition-openai-anthropic-google-inquiets-etats-unis-auto-amelioration-recursive",
+          "source": "France 24",
+          "summary": "Face à la crainte d'une intelligence artificielle qui s'améliore toute seule de façon incontrôlable, plus de 1 100 cadres du secteur ont lancé un appel sous forme de pétition, mardi, pour que le gouvernement américain…",
+          "published": "2026-07-29T04:10:15+00:00"
+        },
+        {
+          "title": "Guerre en Iran : une rencontre entre Benyamin Nétanyahou et Donald Trump, sur fond de frustration du président américain",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/guerre-en-iran-une-rencontre-entre-benyamin-netanyahou-et-donald-trump-sur-fond-de-frustration-du-president-americain_6736006_3210.html",
+          "source": "Le Monde",
+          "summary": "Le locataire de la Maison Blanche recevait, mardi 28 juillet, le premier ministre israélien, qui l’avait convaincu de déclencher le conflit au Moyen-Orient et vis-à-vis duquel il ne cache plus son agacement.",
+          "published": "2026-07-29T04:00:01+00:00"
+        },
+        {
+          "title": "Venezuela : militants pro-pouvoir et de l’opposition manifestent avant les pourparlers sur la transition politique",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/venezuela-militants-pro-pouvoir-et-de-l-opposition-manifestent-avant-les-pourparlers-sur-la-transition-politique_6735973_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que des négociations sur l’avenir politique et la tenue d’élections doivent avoir lieu le 1ᵉʳ août sous l’égide des Etats-Unis, les deux camps s’inquiètent de l’ingérence américaine.",
+          "published": "2026-07-29T03:49:15+00:00"
+        },
+        {
+          "title": "Au Japon, la crainte d’un lourd bilan après le puissant séisme survenu à Kumamoto",
+          "link": "https://www.lemonde.fr/planete/article/2026/07/29/au-japon-la-crainte-d-un-lourd-bilan-apres-le-puissant-seisme-survenu-a-kumamoto_6735905_3244.html",
+          "source": "Le Monde",
+          "summary": "Le tremblement de terre de magnitude 7,1 a provoqué d’importants dégâts, mardi, à Kumamoto, dans le sud-ouest de l’Archipel. Le bilan, d’au moins 13 morts, pourrait être alourdi par la puissante explosion qui a dévasté…",
+          "published": "2026-07-29T03:00:03+00:00"
+        },
+        {
+          "title": "A Washington, Volodymyr Zelensky soigne sa nouvelle relation avec Donald Trump et décroche une victoire au Sénat américain",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/a-washington-volodymyr-zelensky-soigne-sa-nouvelle-relation-avec-donald-trump-et-decroche-une-victoire-au-senat-americain_6735906_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que le locataire de la Maison Blanche se montre plus prévenant avec son homologue ukrainien, un nouveau paquet de sanctions contre la Russie a passé une étape décisive à la chambre haute du Congrès.",
+          "published": "2026-07-29T03:00:03+00:00"
+        },
+        {
+          "title": "🔴 En direct : reprise des frappes au Moyen-Orient, le pétrole repart à la hausse",
           "link": "https://www.france24.com/fr/moyen-orient/20260729-en-direct-moyen-orient-iran-irak-etats-unis-arabie-saoudite-frappes-ormuz-petrole-houthis",
           "source": "France 24",
-          "summary": "Les États-Unis et l'Arabie saoudite ont annoncé avoir mené des frappes en Irak contre des \"terroristes\" soutenus par l'Iran dans la nuit de mardi à mercredi, dans un premier regain de violence au Moyen-Orient après…",
-          "published": "2026-07-29T02:04:57+00:00"
-        },
-        {
-          "title": "« Musango matusadonaensis », un nouveau dinosaure découvert au Zimbabwe qui arpentait la brousse il y a 210 millions d’années",
-          "link": "https://www.lemonde.fr/sciences/article/2026/07/29/musango-matusadonaensis-un-nouveau-dinosaure-decouvert-au-zimbabwe-qui-arpentait-la-brousse-il-y-a-210-millions-d-annees_6735739_1650684.html",
-          "source": "Le Monde",
-          "summary": "La découverte de cette espèce découle de l’examen d’un squelette déterré en 2018, dans le nord du Zimbabwe. Le dinosaure mesurait environ 4,5 m de long et pesait seulement 222 kg. Les chercheurs pensent qu’il était…",
-          "published": "2026-07-29T00:40:36+00:00"
-        },
-        {
-          "title": "Etats-Unis : l’industrie spatiale pourrait bénéficier de règles environnementales allégées",
-          "link": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-l-industrie-spatiale-pourrait-beneficier-de-regles-environnementales-allegees_6735706_3210.html",
-          "source": "Le Monde",
-          "summary": "L’administration Trump souhaite éliminer des exigences fédérales de protection de la nature pour « obtenir plus rapidement et plus facilement les autorisations nécessaires pour lancer des fusées et faire rentrer des…",
-          "published": "2026-07-29T00:03:35+00:00"
-        },
-        {
-          "title": "Aux Etats-Unis, prison à vie pour un adolescent auteur d’une tuerie dans un lycée de Géorgie",
-          "link": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-prison-a-vie-pour-un-adolescent-auteur-d-une-tuerie-dans-un-lycee-de-georgie_6735673_3210.html",
-          "source": "Le Monde",
-          "summary": "Colt Gray, âgé de 16 ans, a plaidé coupable d’avoir ouvert le feu au lycée Apalachee, dans la petite ville de Winder, en 2024. Il avait tué deux élèves ainsi que deux professeurs et avait blessé neuf personnes.",
-          "published": "2026-07-28T23:34:04+00:00"
-        },
-        {
-          "title": "Algérie : Khalida Boufedeche devient la première femme présidente de l’Assemblée populaire nationale",
-          "link": "https://www.lemonde.fr/afrique/article/2026/07/29/algerie-khalida-boufedeche-devient-la-premiere-femme-presidente-de-l-assemblee-populaire-nationale_6735672_3212.html",
-          "source": "Le Monde",
-          "summary": "Députée d’Alger, son parti était arrivé en tête des récentes législatives, au taux de participation le plus bas jamais enregistré et à l’issue desquelles seules vingt-cinq femmes avaient été élues sur 407 sièges.",
-          "published": "2026-07-28T23:31:07+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue sa « belle rencontre » avec Donald Trump à la Maison Blanche",
-          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-sa-belle-rencontre-avec-donald-trump-a-la-maison-blanche_6732775_3210.html",
-          "source": "Le Monde",
-          "summary": "« Nous avons discuté (…) des licences de production d’intercepteurs pour les [missiles] Patriot et de quelques autres idées qui pourraient aider. Nous avons également parlé de diplomatie », a affirmé le président…",
-          "published": "2026-07-28T23:02:27+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir intercepté des missiles lancés par l’Iran",
-          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-intercepte-des-missiles-lances-par-l-iran_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "Le Commandement militaire américain pour le Moyen-Orient fait état de missiles lancés par la République islamique « contre les forces américaines basées au Moyen-Orient ».",
-          "published": "2026-07-28T22:57:02+00:00"
-        },
-        {
-          "title": "Etats-Unis : les robots humanoïdes étrangers interdits à l’importation",
-          "link": "https://www.lemonde.fr/international/article/2026/07/29/etats-unis-les-robots-humanoides-etrangers-interdits-a-l-importation_6735639_3210.html",
-          "source": "Le Monde",
-          "summary": "Estimant qu’ils présentent « des risques inacceptables pour la sécurité nationale » l’administration Trump a banni les « appareils robotiques avancés » dont la majorité sont produits en Chine.",
-          "published": "2026-07-28T22:56:46+00:00"
-        },
-        {
-          "title": "Aux Etats-Unis, une réforme pour accélérer l’expulsion des demandeurs d’asile.",
-          "link": "https://www.lemonde.fr/international/article/2026/07/29/aux-etats-unis-une-reforme-pour-accelerer-l-expulsion-des-demandeurs-d-asile_6735606_3210.html",
-          "source": "Le Monde",
-          "summary": "Les demandes pourront être directement adressées à des juges sans entretien préalable avec un agent des services de l’immigration, limitant la durée pendant laquelle les requérants pourront rester dans le pays.",
-          "published": "2026-07-28T22:01:17+00:00"
-        },
-        {
-          "title": "Le mégafeu en Gironde est \"stabilisé\" mais un nouveau \"pic de chaleur\" arrive",
-          "link": "https://www.france24.com/fr/france/20260728-france-incendies-feux-megafeu-gironde-stabilise-pic-chaleur-canicule-pompiers-evacuations-landes",
-          "source": "France 24",
-          "summary": "En Gironde, où les flammes ont déjà ravagé 42 000 hectares, la journée mardi a été marquée par 14 reprises de feu, qui ont forcé l'évacuation préventive de milliers de touristes. L'incendie est \"stabilisé\" et ne…",
-          "published": "2026-07-28T21:49:30+00:00"
+          "summary": "",
+          "published": "2026-07-29T02:22:24+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Centres de la jeunesse et centres Batshaw | Santé Québec réclame une enquête indépendante",
-          "link": "https://www.lapresse.ca/actualites/2026-07-28/centres-de-la-jeunesse-et-centres-batshaw/sante-quebec-reclame-une-enquete-independante.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le grand retour d’Ariana Grande à Montréal",
+          "link": "https://www.lapresse.ca/arts/spectacles/2026-07-29/le-grand-retour-d-ariana-grande-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Santé Québec demande un examen indépendant, a appris La Presse mardi, en réaction au décès en mars dernier de trois jeunes hébergées au Centre de réadaptation jeunesse de Prévost, un établissement qui relève des Centres…",
-          "published": "2026-07-29T02:09:01+00:00"
+          "summary": "Vaut-il mieux oublier tout son passé ou apprendre à vivre avec ses blessures ? Ariana Grande, de passage au Centre Bell pour sa tournée The Eternal Sunshine Tour, nous embarque dans cette quête personnelle, à travers un…",
+          "published": "2026-07-29T04:17:35+00:00"
         },
         {
-          "title": "Deux Américains reconnus coupables du meurtre de Daniel Langlois et de Dominique Marchand",
-          "link": "https://www.ledevoir.com/actualites/justice/998018/deux-americains-reconnus-coupables-meurtre-daniel-langlois-dominique-marchand",
+          "title": "La GRC craint que des acteurs étrangers prennent pied dans les communautés autochtones du Nord",
+          "link": "https://www.ledevoir.com/actualites/997937/grc-craint-acteurs-etrangers-prennent-pied-communautes-autochtones-nord",
           "source": "Le Devoir",
-          "summary": "L’entrepreneur québécois et sa femme ont été assassinés en décembre 2023 sur l’île de la Dominique.",
-          "published": "2026-07-29T01:29:49+00:00"
+          "summary": "Un rapport interne de la GRC obtenu par le «National Observer» dresse un état des menaces pesant sur l’Arctique.",
+          "published": "2026-07-29T04:00:00+00:00"
         },
         {
-          "title": "Omnium Banque Nationale | L’effet Félix, les demandes de joueurs et autres sujets connexes",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-07-28/omnium-banque-nationale/l-effet-felix-les-demandes-de-joueurs-et-autres-sujets-connexes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Valérie Tétreault dirigera un tournoi de 12 jours pour la deuxième fois. Après une première expérience enlevante et historique avec le triomphe de Victoria Mboko, les attentes en vue de l’Omnium Banque Nationale 2026…",
-          "published": "2026-07-29T01:00:00+00:00"
-        },
-        {
-          "title": "L’armée américaine affirme avoir déjoué une attaque de missiles iraniens",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/998015/armee-americaine-affirme-avoir-dejoue-attaque-missiles-iraniens",
+          "title": "De Toronto à Hollywood, les influenceurs redéfinissent le marketing du cinéma",
+          "link": "https://www.ledevoir.com/culture/cinema/997922/toronto-hollywood-influenceurs-redefinissent-marketing-cinema",
           "source": "Le Devoir",
-          "summary": "La capacité des États-Unis à intercepter les frappes ennemies est devenue un enjeu de plus en plus crucial.",
-          "published": "2026-07-29T00:34:37+00:00"
+          "summary": "L’apparition des créateurs de contenu dans le septième art s’accompagne de critiques sur leur transparence.",
+          "published": "2026-07-29T04:00:00+00:00"
         },
         {
-          "title": "Le Sénat américain fait avancer de nouvelles sanctions contre la Russie",
-          "link": "https://www.ledevoir.com/monde/etats-unis/998012/senat-americain-fait-avancer-nouvelles-sanctions-contre-russie",
+          "title": "Le chantier de la rue De Castelnau Est plombe l’été des commerçants",
+          "link": "https://www.ledevoir.com/economie/consommation/997913/chantier-rue-castelnau-est-plombe-ete-commercants",
           "source": "Le Devoir",
-          "summary": "Le projet de loi prévoit de cibler le secteur des hydrocarbures russes.",
-          "published": "2026-07-29T00:17:32+00:00"
+          "summary": "Privés de leur artère piétonne, les commerces enregistrent une baisse, parfois marquée, de leur achalandage.",
+          "published": "2026-07-29T04:00:00+00:00"
         },
         {
-          "title": "À la conquête du Canada | Gros chantier de 50 millions pour Simons",
-          "link": "https://www.lapresse.ca/affaires/2026-07-28/a-la-conquete-du-canada/gros-chantier-de-50-millions-pour-simons.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les affaires vont visiblement bien pour le détaillant Simons, qui se lance dans un chantier de 50 millions pour agrandir son vaste complexe de distribution ultramoderne inauguré il y a cinq ans à peine en banlieue de…",
-          "published": "2026-07-28T23:45:00+00:00"
-        },
-        {
-          "title": "Les États-Unis restreignent la recherche sur les virus, citant l’exemple de la COVID-19",
-          "link": "https://www.ledevoir.com/monde/etats-unis/998009/etats-unis-restreignent-recherche-virus-citant-exemple-covid-19",
+          "title": "Celui qui détient les clés de notre souveraineté numérique n’est pas celui que vous pensez",
+          "link": "https://www.ledevoir.com/opinion/idees/997988/celui-detient-cles-notre-souverainete-numerique-est-pas-celui-vous-pensez",
           "source": "Le Devoir",
-          "summary": "Les nouvelles règles interdisent notamment «le soutien fédéral aux recherches dangereuses de gain de fonction».",
-          "published": "2026-07-28T23:39:01+00:00"
+          "summary": "Le prochain défi du Québec en matière de souveraineté est numérique et il se joue maintenant.",
+          "published": "2026-07-29T04:00:00+00:00"
         },
         {
-          "title": "Des experts en santé mentale appellent à la prudence après l’homicide à Shawinigan",
-          "link": "https://www.ledevoir.com/actualites/justice/998003/experts-sante-mentale-appellent-prudence-apres-homicide-shawinigan",
+          "title": "Climat, logement et inégalités, une recette pour rendre la ville inhospitalière",
+          "link": "https://www.ledevoir.com/opinion/idees/997985/climat-logement-inegalites-recette-rendre-ville-inhospitaliere",
           "source": "Le Devoir",
-          "summary": "Des psychologues redoutent des amalgames entre schizophrénie et violence.",
-          "published": "2026-07-28T22:44:00+00:00"
+          "summary": "L’adaptation ne peut reposer sur la capacité individuelle. C’est une responsabilité collective et politique.",
+          "published": "2026-07-29T04:00:00+00:00"
         },
         {
-          "title": "Le fils de Lleyton Hewitt gagne son premier match de l’ATP",
-          "link": "https://www.journaldemontreal.com/2026/07/28/le-fils-de-lleyton-hewitt-gagne-son-premier-match-de-latp",
-          "source": "Journal de Montreal",
-          "summary": "Cruz Hewitt suit les traces de son père.",
-          "published": "2026-07-28T22:08:56+00:00"
+          "title": "Ne laissons pas l’espace public se rétrécir",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/997973/ne-laissons-pas-espace-public-retrecir",
+          "source": "Le Devoir",
+          "summary": "Protégeons de toutes nos forces la juste place en pleine lumière de la communauté LGBTQ+.",
+          "published": "2026-07-29T04:00:00+00:00"
         },
         {
-          "title": "FESTIVENT | « Tout a explosé du jour au lendemain » : comment Arpin Lépine est devenu une vedette grâce à sa chanson « St-Félix »",
-          "link": "https://www.journaldemontreal.com/2026/08/01/tout-a-explose-du-jour-au-lendemain---comment-arpin-lepine-est-devenu-une-vedette-grace-a-sa-chanson--st-felix",
-          "source": "Journal de Montreal",
-          "summary": "La chanson « St-Félix » a changé la vie de cet ex-poseur de toitures de 26 ans.",
-          "published": "2026-07-28T22:00:00+00:00"
+          "title": "Les enfants de Protagoras et la suspicion envers les experts",
+          "link": "https://www.ledevoir.com/opinion/idees/997943/enfants-protagoras-suspicion-envers-experts",
+          "source": "Le Devoir",
+          "summary": "L’art de donner un vernis de crédibilité à des options ou à des lubies politiques en flattant le bon peuple.",
+          "published": "2026-07-29T04:00:00+00:00"
+        },
+        {
+          "title": "Le domaine Villa Maria, une vente privée, mais une responsabilité collective",
+          "link": "https://www.ledevoir.com/opinion/idees/997940/domaine-villa-maria-vente-privee-mais-responsabilite-collective",
+          "source": "Le Devoir",
+          "summary": "Montréal, Québec et Ottawa demeurent en retrait, et cette inertie s’apparente à une abdication.",
+          "published": "2026-07-29T04:00:00+00:00"
+        },
+        {
+          "title": "Ma ruelle est vide",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/997994/ruelle-est-vide",
+          "source": "Le Devoir",
+          "summary": "Jadis animée par l’imaginaire des enfants, elle a été désertée par un âge qui encarcane ses enfants.",
+          "published": "2026-07-29T04:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,108 @@
       "label": "France",
       "items": [
         {
-          "title": "Guerre en Ukraine : Zelensky affirme que «l’initiative n’est plus entre les mains de Poutine»",
-          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-zelensky-affirme-que-l-initiative-n-est-plus-entre-les-mains-de-poutine-20260729",
-          "source": "Le Figaro",
-          "summary": "Depuis Washington, le président ukrainien a affirmé mardi que Vladimir Poutine n’était plus en position de force dans la guerre en Ukraine, malgré son refus d’y mettre fin.",
-          "published": "2026-07-29T02:02:15+00:00"
-        },
-        {
-          "title": "«Le Triangle d’or» d’Hélène Rosselet-Ruiz, major dame",
-          "link": "https://www.liberation.fr/culture/cinema/le-triangle-dor-dhelene-rosselet-ruiz-major-dame-20260729_SVNS5K76SJDTVBHRTVIHFC2WFM/",
-          "source": "Liberation",
-          "summary": "Dans un huis clos qui suit le «couple» formé par la maîtresse d’un prince saoudien et sa domestique, la cinéaste mêle ambiance anxiogène et critique des ultra riches.",
-          "published": "2026-07-29T02:00:00+00:00"
-        },
-        {
-          "title": "Chine : 30 corps supplémentaires retrouvés après le glissement de terrain dans le sud-ouest",
-          "link": "https://www.lefigaro.fr/international/chine-30-corps-supplementaires-retrouves-apres-le-glissement-de-terrain-dans-le-sud-ouest-20260729",
-          "source": "Le Figaro",
-          "summary": "Le glissement de terrain de Chongqing est survenu moins de deux semaines après un autre glissement de terrain dans la province du Gansu.",
-          "published": "2026-07-29T01:47:28+00:00"
-        },
-        {
-          "title": "Guerre au Moyen-Orient : les États-Unis annoncent avoir mené avec Ryad des frappes en Irak contre des alliés de l’Iran",
-          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-armee-americaine-annonce-avoir-intercepte-des-missiles-lances-par-l-iran-20260729",
-          "source": "Le Figaro",
-          "summary": "Après plusieurs jours d’accalmie, il s’agit du premier regain de violence entre Washington et Téhéran.",
-          "published": "2026-07-29T01:01:33+00:00"
-        },
-        {
-          "title": "IA : le patron d’Anthropic et des dirigeants d’OpenAI, Meta et Google demandent à «temporiser» la sortie des modèles",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/ia-le-patron-d-anthropic-et-des-dirigeants-d-openai-meta-et-google-demandent-a-temporiser-la-sortie-des-modeles-20260729",
-          "source": "Le Figaro",
-          "summary": "Un millier d’employés d’entreprises à la pointe de l’intelligence artificielle (IA) ont demandé mardi au gouvernement américain d’aider à «temporiser» la sortie des modèles d’IA les plus avancés.",
-          "published": "2026-07-28T23:52:32+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue sa « belle rencontre » avec Donald Trump à la Maison Blanche",
-          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-sa-belle-rencontre-avec-donald-trump-a-la-maison-blanche_6732775_3210.html",
+          "title": "EN DIRECT, guerre au Moyen-Orient : les gardiens de la révolution iraniens affirment avoir visé une base américaine en Jordanie avec plusieurs missiles",
+          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-vise-une-base-americaine-en-jordanie-avec-plusieurs-missiles_6725301_3210.html",
           "source": "Le Monde",
-          "summary": "« Nous avons discuté (…) des licences de production d’intercepteurs pour les [missiles] Patriot et de quelques autres idées qui pourraient aider. Nous avons également parlé de diplomatie », a affirmé le président…",
-          "published": "2026-07-28T23:02:27+00:00"
+          "summary": "Dans un communiqué, les pasdarans écrivent que l’attaque est une réponse aux « actions agressives de l’armée américaine ». Les Etats-Unis et l’Arabie saoudite ont mené des frappes conjointes contre des milices…",
+          "published": "2026-07-29T05:43:05+00:00"
         },
         {
-          "title": "«The Ugly» de Yeon Sang-ho, c’est moche",
-          "link": "https://www.liberation.fr/culture/cinema/the-ugly-de-yeon-sang-ho-cest-moche-20260729_ZXPWKUMOKZCZDICDWQC2BE6SLM/",
-          "source": "Liberation",
-          "summary": "Adapté de son roman graphique, le cinéaste livre le portrait d’une femme souffre-douleur dans une intrigue chargée de pathos et oubliant de donner la parole à la victime.",
-          "published": "2026-07-28T23:00:00+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dit avoir intercepté des missiles lancés par l’Iran",
-          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-l-armee-americaine-dit-avoir-intercepte-des-missiles-lances-par-l-iran_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "Le Commandement militaire américain pour le Moyen-Orient fait état de missiles lancés par la République islamique « contre les forces américaines basées au Moyen-Orient ».",
-          "published": "2026-07-28T22:57:02+00:00"
-        },
-        {
-          "title": "EN DIRECT, incendies : 14 reprises de feu ont été constatées mardi en Gironde, mais « le feu est toujours stabilisé », selon la préfète ; dans le Var, le feu du Gros Bessillon est fixé",
-          "link": "https://www.lemonde.fr/planete/live/2026/07/29/en-direct-incendies-14-reprises-de-feu-ont-ete-constatees-mardi-en-gironde-mais-le-feu-est-toujours-stabilise-selon-la-prefete-dans-le-var-le-feu-du-gros-bessillon-est-fixe_6730417_3244.html",
-          "source": "Le Monde",
-          "summary": "Seize départements, dont la Gironde et les Landes, en proie aux incendies, passeront en vigilance orange canicule mercredi, a annoncé mardi Météo-France. Quatorze autres départements du centre-est du pays, du…",
-          "published": "2026-07-28T22:52:12+00:00"
-        },
-        {
-          "title": "La Fifa dévoile un projet de société commerciale ouverte à des investisseurs extérieurs",
-          "link": "https://www.franceinfo.fr/sports/la-fifa-devoile-un-projet-de-societe-commerciale-ouverte-a-des-investisseurs-exterieurs_8126135.html#xtor=RSS-3-[lestitres]",
+          "title": "Violences sexuelles sur mineurs : 924 personnes incarcérées depuis le lancement de la revue nationale des procédures, après l'affaire Lyhanna",
+          "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexuelles-sur-mineurs-924-personnes-incarcerees-depuis-le-lancement-de-la-revue-nationale-des-procedures-apres-l-affaire-lyhanna_8125715.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "D'après le journal \"The Times\", le président de la Fifa, Gianni Infantino, qui a régulièrement affiché sa proximité avec le président américain, pourrait à terme devenir directeur général de cette nouvelle structure.",
-          "published": "2026-07-28T22:17:34+00:00"
+          "summary": "Après la mort de Lyhanna, le ministre de la Justice avait donné jusqu'au 14 juillet aux magistrats et aux enquêteurs pour reprendre \"l'intégralité des plaintes qui touchent les enfants\".",
+          "published": "2026-07-29T05:40:33+00:00"
+        },
+        {
+          "title": "EN DIRECT - Guerre au Moyen-Orient : au moins dix morts en Irak dans des frappes américano-saoudiennes",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-detroit-ormuz-petroliers-arabie-saoudite-20260729",
+          "source": "Le Figaro",
+          "summary": "Les frappes au Moyen-Orient ont repris mercredi après une accalmie de plusieurs jours, l’armée américaine annonçant avoir intercepté des missiles iraniens, puis lancé une attaque conjointe avec l’Arabie saoudite contre…",
+          "published": "2026-07-29T05:36:03+00:00"
+        },
+        {
+          "title": "«Nous, ça fait 40 ans qu’on a la maison !» : des sinistrés de Gironde ulcérés par le tweet d’un député LFI sur «les bourgeois du Cap Ferret»",
+          "link": "https://immobilier.lefigaro.fr/article/nous-ca-fait-40-ans-qu-on-a-la-maison-les-sinistres-de-gironde-ulceres-par-le-tweet-d-un-depute-lfi-etrillant-les-bourgeois-du-cap-ferret-20260729",
+          "source": "Le Figaro",
+          "summary": "S’il a très vite effacé son message publié sur le réseau social X, le député insoumis Jean-François Coulomme n’en a pas moins suscité une forme de dégoût de la part des habitants de cette partie de la Gironde.",
+          "published": "2026-07-29T05:30:29+00:00"
+        },
+        {
+          "title": "Tarifs de l’électricité, taux du Livret A, démarchage téléphonique... Ce qui change en août 2026",
+          "link": "https://www.lefigaro.fr/conjoncture/tarifs-de-l-electricite-taux-du-livret-a-demarchage-telephonique-ce-qui-change-en-aout-2026-20260729",
+          "source": "Le Figaro",
+          "summary": "Le Figaro fait le point sur les principaux changements et échéances qui surviendront lors du mois d’août 2026.",
+          "published": "2026-07-29T05:30:00+00:00"
+        },
+        {
+          "title": "Garde rapprochée du Real Madrid, France 98, dossier sensible... À quoi devrait ressembler le staff de Zinédine Zidane chez les Bleus ?",
+          "link": "https://www.lefigaro.fr/sports/football/equipe-de-france/garde-rapprochee-du-real-madrid-france-98-dossier-sensible-a-quoi-devrait-ressembler-le-staff-de-zinedine-zidane-chez-les-bleus-20260729",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - Le nouveau patron de l’équipe de France comptera sur une large équipe pour faire briller la sélection.",
+          "published": "2026-07-29T05:30:00+00:00"
+        },
+        {
+          "title": "Danone a trouvé la recette pour limiter ses hausses de prix",
+          "link": "https://www.lefigaro.fr/flash-eco/danone-a-trouve-la-recette-pour-limiter-ses-hausses-de-prix-20260729",
+          "source": "Le Figaro",
+          "summary": "Le groupe devrait légèrement augmenter ses tarifs dans les prochains mois dans les pays matures, comme il l’a déjà fait dans les pays émergents. Mais il compte surtout sur la hausse de ses volumes, sur les économies et…",
+          "published": "2026-07-29T05:30:00+00:00"
+        },
+        {
+          "title": "Brûlages dirigés, pare-feux, feu tactique... Découvrez ces techniques que les pompiers utilisent pour freiner et éteindre les incendies en Gironde",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/brulages-diriges-pare-feux-feu-tactique-decouvrez-ces-techniques-que-les-pompiers-utilisent-pour-freiner-et-eteindre-les-incendies-en-gironde_8125475.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Du contre-feu au noyage, les soldats du feu maîtrisent plusieurs procédés pour tenter de ralentir les incendies les plus violents, protéger les zones menacées et éviter les reprises de flammes.",
+          "published": "2026-07-29T05:24:17+00:00"
+        },
+        {
+          "title": "Frégate-F100, Kepplair 72... Ces avions sur le point d'émerger pour remplacer une flotte vieillissante dans la lutte contre les incendies",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/fregate-f100-kepplair-72-ces-avions-sur-le-point-d-emerger-pour-remplacer-une-flotte-vieillissante-dans-la-lutte-contre-les-incendies_8125166.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'âge moyen des Canadair français est de 30 ans et leur production n'a pas encore été relancée dans l'usine canadienne de Calgary. Mais plusieurs autres appareils peuvent participer à la lutte contre les flammes.",
+          "published": "2026-07-29T05:24:00+00:00"
+        },
+        {
+          "title": "De jeunes hommes, souffrant d'addictions ou de troubles mentaux... Quels profils figurent parmi les 184 personnes interpellées pour des incendies depuis début juillet ?",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/de-jeunes-hommes-souffrant-d-addictions-ou-de-troubles-mentaux-quels-profils-figurent-parmi-les-184-personnes-interpellees-pour-des-incendies-depuis-debut-juillet_8125175.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Depuis le 6 juillet, 184 personnes ont été arrêtées pour des départs de feu, a annoncé, mardi, le ministre de l'Intérieur. Cinq ont été condamnées à de la prison ferme et 15 sont en détention provisoire dans l'attente…",
+          "published": "2026-07-29T05:23:35+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Incendies en France et en Espagne : Tesla offre la recharge gratuite aux sinistrés",
+          "link": "https://www.clubic.com/actualite-623170-incendies-en-france-et-en-espagne-tesla-offre-la-recharge-gratuite-aux-sinistres.html",
+          "source": "Clubic",
+          "summary": "Après Starlink, c'est au tour de Tesla de proposer une aide gratuite aux sinistrés des incendies qui touchent la France et l'Espagne. Le constructeur ouvre ses Superchargeurs sans facturation dans les zones concernées,…",
+          "published": "2026-07-29T05:43:00+00:00"
+        },
+        {
+          "title": "PlayStation Plus : les 3 jeux offerts en août 2026",
+          "link": "https://www.numerama.com/pop-culture/2303303-playstation-plus-les-3-jeux-offerts-en-aout-2026.html",
+          "source": "Numerama",
+          "summary": "Sony a annoncé la liste des trois jeux qui pourront être ajoutés à la bibliothèque des personnes abonnées au PlayStation Plus au début du mois d'août 2026.",
+          "published": "2026-07-29T05:41:01+00:00"
+        },
+        {
+          "title": "Test du Ninja CREAMi Scoop & Swirl : j’étais sceptique face à cette machine à glace, voici pourquoi j’ai changé d’avis",
+          "link": "https://www.frandroid.com/produits-android/maison-connectee/3197197_test-du-ninja-creami-scoop-swirl-jetais-sceptique-face-a-cette-machine-a-glace-voici-pourquoi-jai-change-davis",
+          "source": "Frandroid",
+          "summary": "Après la CREAMi Deluxe, Ninja pousse le concept un cran plus loin avec la Scoop &amp; Swirl : une machine qui fait des boules de glace ET de la glace à l'italienne, distribuée directement dans le cornet. On l'a testée,…",
+          "published": "2026-07-29T05:30:00+00:00"
+        },
+        {
+          "title": "Ce puissant laptop Acer avec écran OLED et Ryzen AI 7 profite d’une belle remise de 33 %",
+          "link": "https://www.frandroid.com/bons-plans/3196199_ce-puissant-laptop-acer-avec-ecran-oled-et-ryzen-ai-7-profite-dune-belle-remise-de-33",
+          "source": "Frandroid",
+          "summary": "Châssis léger, processeur Ryzen AI 7, écran OLED de 14 pouces, SSD de 1 To pour rendre la machine bien réactive... L'Acer Aspire 14 AI ne manque clairement pas d'arguments. Et la bonne nouvelle, c'est que Boulanger…",
+          "published": "2026-07-29T05:27:00+00:00"
+        },
         {
           "title": "Promesse non tenue sur l’EX90 : pourquoi Volvo offre 1 800 € à ses premiers acheteurs",
           "link": "https://www.frandroid.com/marques/volvo/3196703_promesse-non-tenue-sur-lex90-pourquoi-volvo-offre-1-800-e-a-ses-premiers-acheteurs",
@@ -288,34 +316,6 @@
           "source": "Clubic",
           "summary": "Les restrictions à l'export de machines ASML imposées à la Chine ralentissent son développement dans le secteur des semi-conducteurs. Mais une société locale commence à se développer dans le même domaine que le géant…",
           "published": "2026-07-28T16:22:00+00:00"
-        },
-        {
-          "title": "Que sait-on d’Arcadia, cette IA qui doit remplacer Palantir dans les systèmes de l’armée ?",
-          "link": "https://next.ink/249346/que-sait-on-darcadia-cette-ia-qui-doit-remplacer-palantir-dans-les-systemes-de-larmee/",
-          "source": "Next",
-          "summary": "Il devait être testé lors de l’OTAN Coalition Warrior Interoperability Exercise mais n’a finalement pas été présenté. Que sait-on d’Arcadia, cette plateforme dopée à l’IA grâce à laquelle l’armée française compte se…",
-          "published": "2026-07-28T15:57:22+00:00"
-        },
-        {
-          "title": "L'IA a commencé à dépecer le service client, même chez les géants Microsoft, Uber et compagnie",
-          "link": "https://www.clubic.com/actualite-623140-l-ia-a-commence-a-depecer-le-service-client-meme-chez-les-geants-microsoft-uber-et-compagnie.html",
-          "source": "Clubic",
-          "summary": "Microsoft, Uber, ou le géant de l'hôtellerie Hyatt réduisent déjà leurs effectifs de service client, à mesure que l'intelligence artificielle automatise les tâches les plus simples. Et le mouvement touche aussi leurs…",
-          "published": "2026-07-28T15:55:00+00:00"
-        },
-        {
-          "title": "WhatsApp Web permet enfin de passer des appels vocaux et vidéo",
-          "link": "https://www.frandroid.com/marques/meta/3197043_whatsapp-web-permet-enfin-de-passer-des-appels-vocaux-et-video",
-          "source": "Frandroid",
-          "summary": "Meta ajoute enfin les appels sur la version web de WhatsApp. Une fonction attendue depuis des années par tous ceux qui ont l'habitude d'utiliser WhatsApp sur PC.",
-          "published": "2026-07-28T15:50:21+00:00"
-        },
-        {
-          "title": "Les Galaxy Z Fold8 et Z Fold8 Ultra arrivent avec une offre de précommande exclusive à Samsung [Sponso]",
-          "link": "https://www.frandroid.com/produits-android/smartphone/3185887_les-galaxy-z-fold8-et-z-fold8-ultra-arrivent-avec-une-offre-de-precommande-exclusive-a-samsung",
-          "source": "Frandroid",
-          "summary": "Samsung vient d'officialiser ses deux nouveaux smartphones pliants : les Galaxy Z Fold8 et Galaxy Z Fold8 Ultra. Voici ce qui les rend uniques et pourquoi il est bon de les précommander dès à présent.",
-          "published": "2026-07-28T15:37:51+00:00"
         }
       ]
     }
