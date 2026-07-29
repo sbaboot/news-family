@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-07-29T11:25:35.263982+00:00",
+  "generated_at": "2026-07-29T14:07:25.416444+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump promet que les Etats-Unis vont frapper « fort » en Iran après les attaques sur une base américaine en Jordanie",
+          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-au-moyen-orient-donald-trump-promet-que-les-etats-unis-vont-frapper-fort-en-iran-apres-les-attaques-sur-une-base-americaine-en-jordanie_6725301_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président américain a proféré ces menaces, mercredi, sur Fox News, alors que la situation s’est dégradée au Moyen-Orient après plusieurs jours d’accalmie. En plus des frappes iraniennes, les Etats-Unis et l’Arabie…",
+          "published": "2026-07-29T13:24:46+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-les-dernieres-informations-au-29-juillet-2026_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "L’armée ukrainienne a attaqué, mercredi, un entrepôt de Wildberries, l’« Amazon russe », et plusieurs sites militaires et énergétiques en Russie, dans le district de Riazan ainsi que dans les régions de Perm et Rostov,…",
+          "published": "2026-07-29T13:24:24+00:00"
+        },
+        {
+          "title": "Projet de la Fifa : une réunion d'urgence convoquée par les instances européennes",
+          "link": "https://www.france24.com/fr/sports/20260729-projet-de-la-fifa-une-r%C3%A9union-d-urgence-convoqu%C3%A9e-par-les-instances-europ%C3%A9ennes",
+          "source": "France 24",
+          "summary": "Sous l'égide de l'UEFA, les fédérations européennes du football vont se réunir, mercredi, pour débattre du projet de la Fifa d'ouvrir la porte aux investisseurs privés via la création d'une société. \"Un projet qui…",
+          "published": "2026-07-29T13:19:25+00:00"
+        },
+        {
+          "title": "Au Cameroun, la longue absence de Paul Biya fait polémique",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-au-cameroun-la-longue-absence-de-paul-biya-fait-pol%C3%A9mique",
+          "source": "France 24",
+          "summary": "Au Cameroun, Paul Biya n'a plus été vu en public depuis le 7 juin, soit 50 jours d'absence. À 93 ans, le président camerounais alimente les spéculations sur sa gouvernance. L'opposition dénonce un pays en \"pilotage…",
+          "published": "2026-07-29T12:26:20+00:00"
+        },
+        {
+          "title": "Xenia Fedorova, propagandiste prorusse, visée par un arrêté d’expulsion, annonce le ministère de l’intérieur français",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/la-propagandiste-prorusse-xenia-fedorova-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur-francais_6736367_3210.html",
+          "source": "Le Monde",
+          "summary": "« Son comportement porte atteinte aux intérêts fondamentaux de l’Etat » et sa présence sur le territoire « constitue pour ce motif une menace particulièrement grave et actuelle pour l’ordre public », peut-on lire dans…",
+          "published": "2026-07-29T11:56:46+00:00"
+        },
+        {
+          "title": "La chroniqueuse prorusse Xenia Fedorova visée par un arrêté d'expulsion (ministère de l'Intérieur)",
+          "link": "https://www.france24.com/fr/france/20260729-chroniqueuse-prorusse-xenia-fedorova-visee-par-arrete-expulsion-france",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-07-29T11:55:25+00:00"
+        },
+        {
+          "title": "Séisme au Japon : les secours toujours à la recherche de survivants piégés dans un centre commercial après le séisme à Kumamoto, qui a fait au moins 13 morts",
+          "link": "https://www.lemonde.fr/international/article/2026/07/29/seisme-au-japon-les-secours-toujours-a-la-recherche-de-survivants-pieges-dans-un-centre-commercial-apres-le-seisme-a-kumamoto-qui-a-fait-au-moins-13-morts_6736366_3210.html",
+          "source": "Le Monde",
+          "summary": "La secousse de magnitude 7,1 qui a frappé mardi l’île de Kyushu a provoqué l’effondrement partiel d’un centre commercial et d’une usine, où des personnes restent portées disparues.",
+          "published": "2026-07-29T11:40:48+00:00"
+        },
         {
           "title": "En visite au Mali, Bassirou Diomaye Faye réaffirme son soutien du Sénégal face au terrorisme",
           "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-en-visite-au-mali-bassirou-diomaye-faye-r%C3%A9affirme-son-soutien-du-s%C3%A9n%C3%A9gal-face-au-terrorisme",
@@ -24,55 +73,6 @@
           "source": "France 24",
           "summary": "Six médinas séculaires des Comores ont été inscrites ce weekend au patrimoine mondial de l'Unesco. Une reconnaissance saluée par le président de l'archipel ainsi que par les associations de conservation, qui appellent à…",
           "published": "2026-07-29T10:39:42+00:00"
-        },
-        {
-          "title": "Nigeria : la crise sécuritaire aggrave l'insécurité alimentaire dans le nord du pays",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-nigeria-la-crise-s%C3%A9curitaire-aggrave-l-ins%C3%A9curit%C3%A9-alimentaire-dans-le-nord-du-pays",
-          "source": "France 24",
-          "summary": "La recrudescence des violences dans le nord du Nigeria a entraîné une hausse de l’insécurité alimentaire à un niveau inédit depuis dix ans, alerte le Programme alimentaire mondial. Faute de financements suffisants,…",
-          "published": "2026-07-29T10:35:51+00:00"
-        },
-        {
-          "title": "Guinée : décès d'un adolescent emprisonné pour fraude au baccalauréat",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-guin%C3%A9e-d%C3%A9c%C3%A8s-d-un-adolescent-emprisonn%C3%A9-pour-fraude-au-baccalaur%C3%A9at",
-          "source": "France 24",
-          "summary": "En Guinée, un adolescent emprisonné pour une fraude présumée au baccalauréat est décédé après quelques jours d’incarcération à la maison d’arrêt de Kindia, une ville située à près de 130 kilomètres de Conakry. Il avait…",
-          "published": "2026-07-29T10:35:05+00:00"
-        },
-        {
-          "title": "Côte d’Ivoire : après le meurtre d’un livreur Yango, l’émotion et les appels à la sécurité",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-c%C3%B4te-d-ivoire-apr%C3%A8s-le-meurtre-d-un-livreur-yango-l-%C3%A9motion-et-les-appels-%C3%A0-la-s%C3%A9curit%C3%A9",
-          "source": "France 24",
-          "summary": "Le meurtre d’Amidou Koné, livreur Yango tué lors d’une agression à main armée dans la nuit du 6 au 7 juillet, a suscité une vive émotion en Côte d’Ivoire. Alors que le tribunal de première instance d’Abidjan a condamné…",
-          "published": "2026-07-29T10:21:36+00:00"
-        },
-        {
-          "title": "La population de tigres continue d'augmenter au Népal, avec 429 individus",
-          "link": "https://www.france24.com/fr/info-en-continu/20260729-la-population-de-tigres-continue-d-augmenter-au-n%C3%A9pal-avec-429-individus",
-          "source": "France 24",
-          "summary": "La population de tigres au Népal a continué d'augmenter et compte désormais 429 individus, ont annoncé mercredi les autorités de ce pays himalayen, où les efforts déployés depuis plusieurs années pour préserver ce félin…",
-          "published": "2026-07-29T10:21:10+00:00"
-        },
-        {
-          "title": "Incendies, canicules : l'heure de la prise de conscience ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-incendies-canicules-l-heure-de-la-prise-de-conscience",
-          "source": "France 24",
-          "summary": "Avec un été marqué par les incendies et les épisodes de canicule, la question de la prise de conscience face à l’urgence climatique se pose plus que jamais. Jean-Pascal van Ypersele, climatologue et ancien…",
-          "published": "2026-07-29T10:10:36+00:00"
-        },
-        {
-          "title": "En Afrique du Sud, la prévention et le dépistage du sida menacés par l’arrêt définitif de l’aide américaine",
-          "link": "https://www.lemonde.fr/afrique/article/2026/07/29/sida-l-afrique-du-sud-au-defi-de-compenser-l-arret-definitif-de-l-aide-americaine_6736361_3212.html",
-          "source": "Le Monde",
-          "summary": "Les Etats-Unis ont mis un terme au programme Pepfar, qui finançait, en 2024, 17 % des dépenses de lutte contre le VIH en Afrique du Sud.",
-          "published": "2026-07-29T10:00:00+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne attaque un entrepôt de Wildberries, l’« Amazon russe », et plusieurs sites militaires en Russie",
-          "link": "https://www.lemonde.fr/international/live/2026/07/29/en-direct-guerre-en-ukraine-un-entrepot-de-wildberries-l-amazon-russe-attaque-par-l-ukraine-dans-l-ouest-de-la-russie_6732775_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon plusieurs médias russes, un incendie s’est déclaré dans un centre logistique de Wildberries, dans le district de Riazan. La raffinerie de pétrole locale a également été touchée, selon les autorités locales.…",
-          "published": "2026-07-29T09:47:08+00:00"
         }
       ]
     },
@@ -83,6 +83,48 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Trains de longs parcours de VIA Rail | Des locomotives suisses assemblées à Montréal",
+          "link": "https://www.lapresse.ca/affaires/entreprises/2026-07-29/trains-de-longs-parcours-de-via-rail/des-locomotives-suisses-assemblees-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "VIA Rail fait le pari d’assembler à Montréal, dans un nouveau centre, des locomotives achetées au constructeur suisse Stadler dans le cadre du renouvellement des vieux trains de longs parcours de la société d’État.…",
+          "published": "2026-07-29T13:40:05+00:00"
+        },
+        {
+          "title": "Aéroport Montréal-Trudeau | La douane américaine suspend temporairement ses activités",
+          "link": "https://www.lapresse.ca/affaires/2026-07-29/aeroport-montreal-trudeau/la-douane-americaine-suspend-temporairement-ses-activites.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La douane américaine a suspendu temporairement ses activités à l’aéroport Montréal-Trudeau en raison d’une « odeur de matériaux de construction », a annoncé Aéroports de Montréal (ADM) mercredi. Certains vols vers les…",
+          "published": "2026-07-29T13:08:37+00:00"
+        },
+        {
+          "title": "Plusieurs vols à l’aéroport de Montréal vers les États-Unis annulés",
+          "link": "https://www.ledevoir.com/actualites/998087/plusieurs-vols-aeroport-montreal-vers-etats-unis-annules",
+          "source": "Le Devoir",
+          "summary": "Le service américain des douanes a suspendu ses activités en raison d’une « odeur de matériaux de construction ».",
+          "published": "2026-07-29T12:59:00+00:00"
+        },
+        {
+          "title": "La guerre se propage au Moyen-Orient, le pétrole repart à la hausse",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/998084/guerre-propage-moyen-orient-petrole-repart-hausse",
+          "source": "Le Devoir",
+          "summary": "Les États-Unis et leur allié saoudien ont dit avoir visé mercredi des groupes armés pro-iraniens en Irak.",
+          "published": "2026-07-29T12:50:33+00:00"
+        },
+        {
+          "title": "Jay Clayton confirmé comme directeur du renseignement américain",
+          "link": "https://www.ledevoir.com/monde/etats-unis/998069/jay-clayton-confirme-comme-directeur-renseignement-americain",
+          "source": "Le Devoir",
+          "summary": "La nomination de ce procureur new-yorkais a été approuvée mardi soir avec 51 voix pour et 47 contre, toutes démocrates.",
+          "published": "2026-07-29T11:38:30+00:00"
+        },
+        {
+          "title": "Conflit au Moyen-Orient | L’Iran reprend ses attaques à la roquette, ses alliés en Irak touchés",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-07-29/conflit-au-moyen-orient/l-iran-reprend-ses-attaques-a-la-roquette-ses-allies-en-irak-touches.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’Iran a lancé mercredi matin une salve de missiles contre les forces américaines au Moyen-Orient, alors que les États-Unis se sont associés à l’Arabie saoudite pour frapper des milices soutenues par Téhéran en Irak…",
+          "published": "2026-07-29T11:22:01+00:00"
+        },
         {
           "title": "Des dizaines de milliers d’Espagnols évacués en raison des feux rentrent chez eux",
           "link": "https://www.ledevoir.com/monde/europe/998063/dizaines-milliers-espagnols-evacues-raison-feux-rentrent-eux",
@@ -98,13 +140,6 @@
           "published": "2026-07-29T10:37:26+00:00"
         },
         {
-          "title": "Chauffeurs au rabais | « Il n’y a aucune conséquence »",
-          "link": "https://www.lapresse.ca/actualites/2026-07-29/chauffeurs-au-rabais/il-n-y-a-aucune-consequence.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les autorités fédérales sont incapables de sévir contre les entreprises de camionnage délinquantes, selon un document interne d’Emploi et Développement social Canada. Le problème est pourtant à l’origine de plusieurs…",
-          "published": "2026-07-29T09:00:00+00:00"
-        },
-        {
           "title": "Incendies de forêt en France | « Les pompiers ne peuvent pas nous aider »",
           "link": "https://www.lapresse.ca/international/europe/2026-07-29/incendies-de-foret-en-france/les-pompiers-ne-peuvent-pas-nous-aider.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -112,46 +147,11 @@
           "published": "2026-07-29T09:00:00+00:00"
         },
         {
-          "title": "Centre-ville de Montréal | Un gratte-ciel pour remplacer une « faiblesse urbaine » ?",
-          "link": "https://www.lapresse.ca/affaires/marche-immobilier/2026-07-29/centre-ville-de-montreal/un-gratte-ciel-pour-remplacer-une-faiblesse-urbaine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Chauffeurs au rabais | « Il n’y a aucune conséquence »",
+          "link": "https://www.lapresse.ca/actualites/2026-07-29/chauffeurs-au-rabais/il-n-y-a-aucune-consequence.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’ancienne terrasse Peel a été identifiée pour accueillir le prochain projet de gratte-ciel à lever de terre au centre-ville. Montréal se penche actuellement sur la demande d’un promoteur pour y ériger une tour de 33…",
+          "summary": "Les autorités fédérales sont incapables de sévir contre les entreprises de camionnage délinquantes, selon un document interne d’Emploi et Développement social Canada. Le problème est pourtant à l’origine de plusieurs…",
           "published": "2026-07-29T09:00:00+00:00"
-        },
-        {
-          "title": "À vous la parole | Quels artistes pour faire aimer la culture québécoise ?",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-07-29/a-vous-la-parole/quels-artistes-pour-faire-aimer-la-culture-quebecoise.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Vous rencontrez quelqu’un qui n’est pas du Québec et vous voulez lui faire découvrir – et aimer – la culture québécoise : quels artistes allez-vous lui suggérer ? C’est la question que nos deux chroniqueurs ont posée…",
-          "published": "2026-07-29T09:00:00+00:00"
-        },
-        {
-          "title": "Homicide à Shawinigan | Dans quel contexte peut-on forcer un traitement en psychatrie ?",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-29/homicide-a-shawinigan/dans-quel-contexte-peut-on-forcer-un-traitement-en-psychatrie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’homme recherché pour le meurtre de son fils à Shawinigan s’était fait ordonner à trois reprises par un tribunal de se soumettre à la prise d’antipsychotiques, une procédure judiciaire courante en psychiatrie. Mais…",
-          "published": "2026-07-29T09:00:00+00:00"
-        },
-        {
-          "title": "Ruelles vertes | Un tas de tôle devenu l’oasis des enfants",
-          "link": "https://www.lapresse.ca/actualites/2026-07-29/ruelles-vertes/un-tas-de-tole-devenu-l-oasis-des-enfants.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Pour jouer à la pétanque, prendre l’apéro ou regarder un film sous les étoiles, les ruelles vertes sont plus que des corridors de passage. Cet été, La Presse vous propose une visite de ces lieux animés où des voisins se…",
-          "published": "2026-07-29T09:00:00+00:00"
-        },
-        {
-          "title": "Pascale Savard, 18 ans | Quand le vélo rend malheureux",
-          "link": "https://www.lapresse.ca/sports/cyclisme/2026-07-29/pascale-savard-18-ans/quand-le-velo-rend-malheureux.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La cycliste Pascale Savard, 18 ans, rêvait de disputer les Championnats du monde UCI à Montréal, en septembre. Une opération cardiaque et une dépression majeure ont fait capoter son plan. Trois mois plus tard, elle va…",
-          "published": "2026-07-29T09:00:00+00:00"
-        },
-        {
-          "title": "Le grand retour d’Ariana Grande à Montréal",
-          "link": "https://www.lapresse.ca/arts/spectacles/2026-07-29/le-grand-retour-d-ariana-grande-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Vaut-il mieux oublier tout son passé ou apprendre à vivre avec ses blessures ? Ariana Grande, de passage au Centre Bell pour sa tournée The Eternal Sunshine Tour, nous embarque dans cette quête personnelle, à travers un…",
-          "published": "2026-07-29T04:17:35+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Guerre au Moyen-Orient : le nord-ouest de l’Iran touché par des frappes américaines, selon la télévision d’État",
-          "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-detroit-ormuz-petroliers-arabie-saoudite-20260729",
+          "title": "Incendie en Gironde : la Belgique envoie une trentaine de militaires et une dizaine de véhicules spécialisés",
+          "link": "https://www.lefigaro.fr/sciences/incendie-en-france-la-belgique-envoie-une-trentaine-de-militaires-et-une-dizaine-de-vehicules-specialises-20260729",
           "source": "Le Figaro",
-          "summary": "Les frappes au Moyen-Orient ont repris mercredi après une accalmie de plusieurs jours, l’armée américaine annonçant avoir intercepté des missiles iraniens, puis lancé une attaque conjointe avec l’Arabie saoudite contre…",
-          "published": "2026-07-29T11:22:02+00:00"
+          "summary": "«Face aux violents incendies qui touchent la France, nous déployons aujourd’hui des moyens humains et matériels pour appuyer les secours sur le terrain», a écrit sur le réseau X le premier ministre belge Bart De Wever.",
+          "published": "2026-07-29T14:03:48+00:00"
         },
         {
-          "title": "Incendie en Gironde : les réservations d’hôtels en chute libre pour le mois d’août, même loin des flammes",
-          "link": "https://www.lefigaro.fr/conjoncture/incendie-en-gironde-les-reservations-d-hotels-en-chute-libre-pour-le-mois-d-aout-meme-loin-des-flammes-20260729",
-          "source": "Le Figaro",
-          "summary": "L’incendie parti de Saumos, au nord du bassin d’Arcachon, pousse de nombreux touristes à se détourner de la région. La crise pourrait coûter jusqu’à cinq millions d’euros par semaine aux seuls hôteliers.",
-          "published": "2026-07-29T11:22:00+00:00"
-        },
-        {
-          "title": "Mort de Kavinsky : de \"Nightcall\" à sa collaboration avec The Weeknd, cinq morceaux  du DJ électro français, star de la French Touch",
-          "link": "https://www.franceinfo.fr/culture/musique/cinq-morceaux-qui-ont-marque-la-carriere-du-celebre-dj-et-producteur-francais-kavinsky_8126777.html#xtor=RSS-3-[lestitres]",
+          "title": "La chroniqueuse Xenia Fedorova, accusée de relayer la propagande russe, est visée par un arrêté d'expulsion, annonce le ministère de l'Intérieur",
+          "link": "https://www.franceinfo.fr/economie/medias/la-chroniqueuse-xenia-fedorova-accusee-de-relayer-la-propagande-russe-est-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur_8127053.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "L'emblématique visage de la French Touch a été retrouvé mort à son domicile mardi soir.",
-          "published": "2026-07-29T11:20:48+00:00"
+          "summary": "Le Quai d'Orsay a notamment accusé cette intervenante régulière des médias appartenant à Vincent Bolloré de reprendre \"mot pour mot les narratifs de propagande russe\".",
+          "published": "2026-07-29T14:03:13+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies en France : «Des matières considérées comme dangereuses» ont été retirées des sites Seveso en Gironde",
+          "title": "Vol de grands crus, cambriolage, faux psychologue : l’incendie en Gironde attire les profiteurs de crise",
+          "link": "https://www.lefigaro.fr/faits-divers/cambriolages-escroqueries-certains-profitent-ils-de-l-incendie-en-gironde-pour-piller-les-habitations-evacuees-20260729",
+          "source": "Le Figaro",
+          "summary": "Cinq personnes ont été interpellées ces derniers jours, notamment pour recel de bijoux. Si ces affaires inquiètent les habitants évacués, les autorités assurent que les actes de prédation restent très marginaux grâce au…",
+          "published": "2026-07-29T14:00:39+00:00"
+        },
+        {
+          "title": "Résidences littéraires: dans le parc de Jumièges, bien à l’abri",
+          "link": "https://www.liberation.fr/culture/livres/residences-litteraires-dans-le-parc-de-jumieges-bien-a-labri-20260729_TZWEJ6VBHRDQVIBZDTV556DRZ4/",
+          "source": "Liberation",
+          "summary": "Cet été, «Libé» visite des lieux d’accueil d’autrices et auteurs en France et ailleurs. Aujourd’hui, «confort et frugalité» en Normandie dans une cabane inspirée par Henry David Thoreau.",
+          "published": "2026-07-29T14:00:00+00:00"
+        },
+        {
+          "title": "Piratage «sans précédent» : OpenAI annonce que ses modèles d’IA se sont introduits sur quatre autres plateformes",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-openai-annonce-que-ses-modeles-se-sont-introduits-sur-quatre-autres-plateformes-20260729",
+          "source": "Le Figaro",
+          "summary": "L’une d’entre elles a servi de relais pour préparer l’attaque sur Hugging Face, une bibliothèque IA que les deux modèles ont fouillé pour trouver les réponses aux tests soumis par les développeurs d’OpenAI, a annoncé…",
+          "published": "2026-07-29T13:59:59+00:00"
+        },
+        {
+          "title": "Les fédérations de football ont jusqu'au 19 septembre pour se prononcer sur le projet d'investisseurs privés à la Fifa, avant une application de la proposition dès le 1er janvier 2027",
+          "link": "https://www.franceinfo.fr/sports/foot/les-federations-de-football-ont-jusqu-au-19-septembre-pour-se-prononcer-sur-le-projet-d-investisseurs-prives-a-la-fifa-avant-une-application-de-la-proposition-des-le-1er-janvier-2027_8127194.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le président de l'instance mondiale du football, Gianni Infantino, promet que ce projet se fera \"sans céder le contrôle de quelque nature que ce soit\".",
+          "published": "2026-07-29T13:58:52+00:00"
+        },
+        {
+          "title": "«Une fierté française pour toujours» : Emmanuel Macron, Angèle, The Weeknd... pluie d’hommages après la mort de Kavinsky",
+          "link": "https://www.lefigaro.fr/musique/une-fierte-francaise-pour-toujours-emmanuel-macron-rend-hommage-au-dj-kavinsky-20260729",
+          "source": "Le Figaro",
+          "summary": "L’artiste de 50 ans a été retrouvé mort à son domicile parisien mardi 28 juillet.",
+          "published": "2026-07-29T13:58:48+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendie en Gironde : les pompiers luttent contre une reprise de feu importante à Lanton, trois Canadair sur place",
           "link": "https://www.lefigaro.fr/meteo/direct-incendies-gironde-landes-var-saumos-meteo-canicule-chaleur-feux-pompiers-20260729",
           "source": "Le Figaro",
-          "summary": "Le ministre de l’Industrie Sébastien Martin a indiqué mercredi que les industriels ont «enlevé de ces sites des matières considérées comme dangereuses» alors que les incendies se rapprochaient. Des travaux de…",
-          "published": "2026-07-29T11:20:03+00:00"
+          "summary": "Alors que des reprises de feu mobilisent les pompiers en Gironde, notamment à Lanton et Blagon, des gendarmes cherchent à appréhender un homme soupçonné d’avoir allumé un incendie.",
+          "published": "2026-07-29T13:58:03+00:00"
         },
         {
-          "title": "La France ordonne une mesure d’expulsion à l’encontre de Xenia Fedorova, propagandiste russe et égérie de la bollosphère",
-          "link": "https://www.liberation.fr/international/europe/la-france-ordonne-une-mesure-dexpulsion-a-lencontre-de-xenia-fedorova-propagandiste-russe-et-egerie-de-la-bollosphere-20260729_Y7OSOWFZVZBQ5BE7YD7JHFOPEY/",
+          "title": "La propagandiste pro-russe Xenia Fedorova visée par un arrêté d’expulsion : il était plus que temps !",
+          "link": "https://www.liberation.fr/politique/la-propagandiste-pro-russe-xenia-fedorova-visee-par-un-arrete-dexpulsion-il-etait-plus-que-temps-20260729_7QYOUVMFANBI7ESZQNBLZ3NZXI/",
           "source": "Liberation",
-          "summary": "L’ancienne patronne de Russia Today France vit et travaille dans l’Hexagone depuis dix ans. Son avocat s’est vu remettre un arrêté ministériel d’expulsion ce mercredi 29 juillet.",
-          "published": "2026-07-29T11:15:47+00:00"
+          "summary": "Tout patriote digne de ce nom devrait se réjouir de voir retourner chez elle celle qui a passé les dix dernières années à déverser la propagande poutinienne dans notre pays, en cherchant à déstabiliser notre société…",
+          "published": "2026-07-29T13:55:28+00:00"
         },
         {
-          "title": "«On s’est sentis complètement abandonnés» : après l’incendie qui a ravagé le Porge, les habitants lancent une action en justice",
-          "link": "https://www.liberation.fr/societe/police-justice/on-sest-sentis-completement-abandonnes-apres-lincendie-qui-a-ravage-le-porge-les-habitants-lancent-une-action-en-justice-20260729_3BXCGSSYTZDMRNBJRMVXJJMWFY/",
-          "source": "Liberation",
-          "summary": "Réunis dans un collectif, les habitants de cette commune du littoral atlantique, l’une des plus meurtries par le brasier qui ravage le département, estiment avoir été «sacrifiés» au profit des communes plus huppées du…",
-          "published": "2026-07-29T11:15:08+00:00"
-        },
-        {
-          "title": "Marseille : classement sans suite de l'enquête pour prise illégale d'intérêt visant Renaud Muselier",
-          "link": "https://www.lefigaro.fr/marseille/marseille-classement-sans-suite-de-l-enquete-pour-prise-illegale-d-interet-visant-renaud-muselier-20260729",
+          "title": "Canicule : 25 députés présentent une proposition de loi afin d’instaurer une trêve estivale des expulsions",
+          "link": "https://leparticulier.lefigaro.fr/jcms/c_112149/location/canicule-25-deputes-presentent-une-proposition-de-loi-afin-d-instaurer-une-treve-estivale-des-expulsions-20260729",
           "source": "Le Figaro",
-          "summary": "Le parquet de Marseille a annoncé le classement sans suite de l’enquête pour prise illégale d’intérêt qui visait le président de la région Paca. Un signalement l’accusait d’avoir fait assumer la rémunération d’un…",
-          "published": "2026-07-29T11:11:20+00:00"
-        },
-        {
-          "title": "On vous explique pourquoi le projet de la Fifa de vendre des parts de la Coupe du monde fait polémique",
-          "link": "https://www.franceinfo.fr/sports/foot/on-vous-explique-pourquoi-le-projet-de-la-fifa-de-vendre-des-parts-de-la-coupe-du-monde-fait-polemique_8126741.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Après des révélations du média britannique The Times, la Fifa a communiqué dans la soirée, mardi, les détails d’un projet qui permettrait de vendre des parts de la Coupe du monde à des investisseurs privés, via la…",
-          "published": "2026-07-29T11:10:46+00:00"
-        },
-        {
-          "title": "«Je voulais juste boire une bière» : sept supporteurs jugés pour une rixe à Paris en marge de la finale de la Coupe de France",
-          "link": "https://www.liberation.fr/societe/police-justice/je-voulais-juste-boire-une-biere-sept-supporteurs-juges-pour-une-rixe-a-paris-en-marge-de-la-finale-de-la-coupe-de-france-20260729_CALAVCVWNBED3M6UV4URRXYXLI/",
-          "source": "Liberation",
-          "summary": "Dans la nuit du 22 au 23 mai, une violente bagarre avait éclaté dans la capitale entre des fans de l’OGC Nice et du PSG. Mardi, trois supporteurs ont été relaxés et quatre ont écopé d’amendes pour leur participation à…",
-          "published": "2026-07-29T11:08:02+00:00"
-        },
-        {
-          "title": "Un décret permet de changer d’école un élève dont un parent perturbe gravement l’établissement",
-          "link": "https://www.lemonde.fr/education/article/2026/07/29/un-decret-permet-de-changer-d-ecole-un-eleve-dont-un-parent-perturbe-gravement-l-etablissement_6736364_1473685.html",
-          "source": "Le Monde",
-          "summary": "Un texte publié mercredi au « Journal officiel » permet au directeur académique de faire réaffecter un élève lorsque le comportement d’un parent menace la sécurité d’un membre de l’établissement. Des syndicats de…",
-          "published": "2026-07-29T11:06:54+00:00"
+          "summary": "L’Assemblée nationale vient d’enregistrer une proposition de loi visant à instaurer, à l’instar de la trêve hivernale des expulsions, une trêve estivale d’une durée minimale de 3 mois. Si la loi était votée en l’état…",
+          "published": "2026-07-29T13:54:40+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Piratage Hugging Face : on sait enfin comment les IA d’OpenAI se sont échappées de leur bac à sable",
-          "link": "https://www.numerama.com/cyberguerre/2303539-piratage-hugging-face-on-sait-enfin-comment-les-ia-dopenai-se-sont-echappees-de-leur-bac-a-sable.html",
+          "title": "Plus de 1 200 salariés d'OpenAI, Google et Anthropic veulent ralentir l'IA",
+          "link": "https://www.clubic.com/actualite-623263-plus-de-1-200-salaries-d-openai-google-et-anthropic-veulent-ralentir-l-ia.html",
+          "source": "Clubic",
+          "summary": "Et si les premiers à tirer le frein à main sur l'IA étaient... ceux qui la construisent ? Plus de 1 200 salariés du secteur signent une déclaration qui appellent un ralentissement collectif.",
+          "published": "2026-07-29T14:02:00+00:00"
+        },
+        {
+          "title": "Macaulay Culkin propose à Disney un nouveau Maman, j’ai raté l’avion !",
+          "link": "https://www.numerama.com/tech/2303677-macaulay-culkin-propose-a-disney-un-nouveau-maman-jai-rate-lavion.html",
           "source": "Numerama",
-          "summary": "Le 27 juillet 2026, JFrog a levé le voile sur la vulnérabilité qui a permis à deux modèles d'OpenAI de s'extraire de leur environnement de test pour pirater Hugging Face. Une pièce manquante du puzzle, qui en soulève…",
-          "published": "2026-07-29T11:10:00+00:00"
+          "summary": "Trente-six ans après avoir brisé le nez des Casseurs Flotteurs à coups de pots de peinture, Macaulay Culkin n'en a pas fini avec Kevin McCallister. L'acteur de 45 ans s'est pointé en personne chez Disney pour leur…",
+          "published": "2026-07-29T14:00:00+00:00"
         },
         {
-          "title": "Le plus grand datacenter du Rhône veut doubler sa taille",
-          "link": "https://www.clubic.com/actualite-623236-le-plus-grand-datacenter-du-rhone-veut-doubler-sa-taille.html",
+          "title": "Un cloud gratuit illimité grâce à ce simple logiciel ? La combine est bien réelle !",
+          "link": "https://www.clubic.com/actualite-623215-un-cloud-gratuit-illimite-grace-a-ce-simple-logiciel-la-combine-est-bien-reelle.html",
           "source": "Clubic",
-          "summary": "Installé depuis 2024 sur une ancienne friche textile de Vénissieux, le plus gros centre de données de l'agglomération lyonnaise veut passer à 33 000 mètres carrés. Sa puissance, elle, restera celle d'un très gros…",
-          "published": "2026-07-29T10:59:00+00:00"
+          "summary": "Et si votre compte Telegram pouvait remplacer les quelques gigaoctets offerts par Google Drive ou OneDrive ? Telegram Drive exploite le stockage cloud déjà intégré à la messagerie pour le présenter dans une interface…",
+          "published": "2026-07-29T14:00:00+00:00"
         },
         {
-          "title": "Ce forfait 5G+ combine 500 Go, SFR TV et 137 destinations à un excellent prix",
-          "link": "https://www.frandroid.com/bons-plans/3197551_ce-forfait-5g-combine-500-go-sfr-tv-et-137-destinations-a-un-excellent-prix",
+          "title": "La climatisation du voisin vous gâche la vue : pouvez-vous l’obliger à installer un cache-clim ?",
+          "link": "https://www.frandroid.com/produits-android/3197727_la-climatisation-du-voisin-vous-gache-la-vue-pouvez-vous-lobliger-a-installer-un-cache-clim",
           "source": "Frandroid",
-          "summary": "À 24,99 euros par mois, ou 19,99 euros pour les clients box, le forfait 500 Go 5G+ de SFR est un forfait ultra complet.",
-          "published": "2026-07-29T10:49:00+00:00"
+          "summary": "La clim du voisin vissée sur la façade vous gâche la vue. Avant de rêver d'un cache décoratif imposé de force, voici ce que la loi vous autorise vraiment à exiger de votre voisin.",
+          "published": "2026-07-29T13:58:32+00:00"
         },
         {
-          "title": "Une recharge en moins de 4 minutes : la nouvelle batterie chinoise Hongqi fait mieux que BYD",
-          "link": "https://www.frandroid.com/marques/hongqi/3197515_une-recharge-en-moins-de-4-minutes-la-nouvelle-batterie-chinoise-hongqi-fait-mieux-que-byd",
-          "source": "Frandroid",
-          "summary": "La marque chinoise Hongqi&nbsp;dévoile une nouvelle batterie capable de se charger de 10 à 70&nbsp;% en moins de quatre minutes. Elle pourrait finir par équiper ses voitures électriques, afin de faire mieux que son…",
-          "published": "2026-07-29T10:41:19+00:00"
-        },
-        {
-          "title": "800 métiers passés au crible : l'IA s'installe partout et ne remplace presque personne",
-          "link": "https://www.clubic.com/actualite-623191-metiers-passes-au-crible-l-ia-s-installe-partout-et-ne-remplace-presque-personne.html",
+          "title": "Faillite de StreamView : Thomson repart avec le même capitaine, sous un nouveau pavillon",
+          "link": "https://www.clubic.com/actualite-623296-faillite-de-streamview-thomson-repart-avec-le-meme-capitaine-sous-un-nouveau-pavillon.html",
           "source": "Clubic",
-          "summary": "Google a analysé près de 15 millions de conversations avec Gemini pour savoir ce que l'intelligence artificielle fait vraiment au travail. Le résultat rassure, à condition de ne pas ouvrir les annexes.",
-          "published": "2026-07-29T10:33:00+00:00"
+          "summary": "Quelques mois après la disparition de StreamView, son ancien partenaire européen, Thomson annonce avoir confié sa licence TV à une nouvelle société autrichienne baptisée TVue. Une transition qui s'accompagne toutefois…",
+          "published": "2026-07-29T13:55:00+00:00"
         },
         {
-          "title": "Les montres connectées peuvent-elles remplacer le premier smartphone de votre enfant ?",
-          "link": "https://www.clubic.com/actualite-623125-les-montres-connectees-peuvent-elles-remplacer-le-premier-smartphone-de-votre-enfant.html",
+          "title": "Apple : le futur MacBook Ultra souffrirait d'un tarif délirant, pour au moins deux raisons",
+          "link": "https://www.clubic.com/actualite-623245-apple-le-futur-macbook-ultra-souffrirait-d-un-tarif-delirant-pour-au-moins-deux-raisons.html",
           "source": "Clubic",
-          "summary": "À l'approche de la rentrée, de nombreux parents se posent la même question : faut-il enfin acheter un smartphone à son enfant ? Alors que la France s'apprête à interdire les réseaux sociaux aux moins de 15 ans, une…",
-          "published": "2026-07-29T10:33:00+00:00"
+          "summary": "Très attendu, le MacBook Ultra devrait profiter d'un tout nouveau châssis et être le premier MacBook à intégrer un écran OLED tactile. Cette dalle haut de gamme, couplée à la hausse spectaculaire des prix de la RAM,…",
+          "published": "2026-07-29T13:48:00+00:00"
         },
         {
-          "title": "Jumanji Open World : la première bande-annonce inverse totalement le concept du film",
-          "link": "https://www.numerama.com/pop-culture/2303459-jumanj-open-world-la-premiere-bande-annonce-inverse-totalement-le-concept-du-film.html",
-          "source": "Numerama",
-          "summary": "Poule aux œufs d'or inattendue pour Sony, la saga Jumanji version The Rock se prépare à tirer sa révérence. La première bande-annonce de Jumanji: Open World vient de tomber. Le quatuor d'avatars rempile une ultime fois…",
-          "published": "2026-07-29T10:25:00+00:00"
-        },
-        {
-          "title": "23 % des téléphones portables analysés par l’ANFR en 2025 n’étaient pas conformes",
-          "link": "https://next.ink/249427/23-des-telephones-portables-analyses-par-lanfr-en-2025-netaient-pas-conformes/",
+          "title": "SpaceXAI veut faire annuler la loi du Minnesota contre la « nudification »",
+          "link": "https://next.ink/249483/spacexai-veut-faire-annuler-la-loi-du-minnesota-contre-la-nudification/",
           "source": "Next",
-          "summary": "Comme chaque année, l’Agence nationale des fréquences publie son bilan de surveillance des terminaux mobiles, portant notamment sur les niveaux d’exposition aux ondes. En 2025, 12&#160;% des smartphones dépassaient les…",
-          "published": "2026-07-29T10:21:53+00:00"
+          "summary": "SpaceXAI part en croisade contre une loi du Minnesota interdisant les technologies de «&#160;nudification&#160;», qui permettent de générer des deepfakes dénudés de personnes réelles. L&#8217;entreprise est la première…",
+          "published": "2026-07-29T13:46:11+00:00"
         },
         {
-          "title": "100 % hybride, 0 % électrique : le pari à prix Dacia du chinois Chery pour conquérir la France avec la marque Tiggo",
-          "link": "https://www.frandroid.com/marques/chery/3197331_100-hybride-0-electrique-le-pari-a-prix-dacia-du-chinois-chery-pour-conquerir-la-france-avec-la-marque-tiggo",
+          "title": "Un robot tondeuse à moins de 500 € cet été, c’est possible avec l’Ecovacs GOAT O600 RTK",
+          "link": "https://www.frandroid.com/bons-plans/3077331_un-robot-tondeuse-a-moins-de-500-cet-ete-cest-possible-avec-lecovacs-goat-o600-rtk",
           "source": "Frandroid",
-          "summary": "Récemment arrivé en France avec Omoda &amp; Jaecoo, le groupe chinois Chery ne veut pas s’arrêter là. Voilà qu’il annonce désormais le lancement d’une troisième marque sur notre territoire, qui vise directement Dacia et…",
-          "published": "2026-07-29T10:19:43+00:00"
+          "summary": "Dites adieu à la corvée du week-end : voici la solution ultime pour garder une pelouse impeccable sans lever le petit doigt. Équipé d'une caméra IA pour esquiver les obstacles et naviguer avec précision, l'Ecovacs Goat…",
+          "published": "2026-07-29T13:44:58+00:00"
         },
         {
-          "title": "Ninja DualZone : cet air fryer à double compartiment de 7,6 L fait croustiller 2 kg de frites et passe sous les 100 €",
-          "link": "https://www.frandroid.com/bons-plans/3197437_ninja-dualzone-cet-air-fryer-a-double-compartiment-de-76-l-fait-croustiller-2-kg-de-frites-et-passe-sous-les-100-e",
+          "title": "Ouvrir la prochaine Xbox à Steam coûterait trop cher à Microsoft",
+          "link": "https://www.frandroid.com/produits-android/3197989_ouvrir-la-prochaine-xbox-a-steam-couterait-trop-cher-a-microsoft",
           "source": "Frandroid",
-          "summary": "Avec ses deux grands compartiments, le Ninja DualZone peut cuire deux plats différents de façon simultanée. Un modèle polyvalent et très efficace que vous pouvez trouver, sur le site officiel, à 91,99 euros au lieu de…",
-          "published": "2026-07-29T10:11:00+00:00"
+          "summary": "La prochaine Xbox, nom de code Project Helix, devait ouvrir grand ses portes aux jeux PC et à Steam. Selon Windows Central, cette promesse serait devenue un piège pour Microsoft, qui perd déjà de l'argent sur chaque…",
+          "published": "2026-07-29T13:43:12+00:00"
         },
         {
-          "title": "Popups intrusifs sur Windows 11 : Microsoft sanctionne LG pour McAfee, mais pas ses propres pubs Bing",
-          "link": "https://www.clubic.com/actualite-623188-popups-intrusifs-sur-windows-11-microsoft-sanctionne-lg-pour-mcafee-mais-pas-ses-propres-pubs-bing.html",
-          "source": "Clubic",
-          "summary": "HP continue d'afficher des popups pour faire de Bing le moteur de recherche par défaut sur ses PC Windows 11, y compris après que l'utilisateur a demandé à ne plus les voir. Microsoft, qui vient d'obliger LG à retirer…",
-          "published": "2026-07-29T10:10:00+00:00"
-        },
-        {
-          "title": "À la dérive depuis des jours, SpaceX lance le sauvetage du Starship",
-          "link": "https://www.numerama.com/sciences/2303429-a-la-derive-depuis-des-jours-spacex-lance-le-sauvetage-du-starship.html",
+          "title": "Melbourne-Toulouse en 24 heures 24 : cette carte retrace le vol commercial le plus long de tous les temps",
+          "link": "https://www.numerama.com/tech/2303695-melbourne-toulouse-en-24-heures-24-cette-carte-retrace-le-vol-commercial-le-plus-long-de-tous-les-temps.html",
           "source": "Numerama",
-          "summary": "Tombé intact dans l'océan Indien lors de son 13ᵉ vol d'essai, l'étage supérieur du Starship refuse de couler. Mais pourquoi SpaceX a-t-elle attendu près de quatre jours avant d'envoyer un navire de repêchage ?",
-          "published": "2026-07-29T09:58:28+00:00"
+          "summary": "Un Airbus A350-1000ULR a relié Melbourne à Toulouse en 24 heures et 24 minutes. Cet appareil doit permettre à Qantas de lancer, dès 2027, des liaisons sans escale entre l'Australie et l'Europe.",
+          "published": "2026-07-29T13:40:00+00:00"
+        },
+        {
+          "title": "ATI et AMD : 40 ans d’histoire des cartes graphiques résumés en une vidéo",
+          "link": "https://www.frandroid.com/marques/amd/3197725_ati-et-amd-40-ans-dhistoire-des-cartes-graphiques-resumes-en-une-video",
+          "source": "Frandroid",
+          "summary": "De la première Graphics Solution à la dernière Radeon, une impressionnante collection de cartes graphiques ATI / AMD retrace l'histoire des GPU depuis 1986.",
+          "published": "2026-07-29T13:38:06+00:00"
+        },
+        {
+          "title": "Le patron de Telegram désormais en ligne de mire du gouvernement russe",
+          "link": "https://www.clubic.com/actualite-623278-le-patron-de-telegram-desormais-en-ligne-de-mire-du-gouvernement-russe.html",
+          "source": "Clubic",
+          "summary": "La Russie a annoncé avoir émis un avis de recherche international contre Pavel Durov, le fondateur de Telegram. Le Service fédéral de sécurité (FSB) l'accuse de complicité de terrorisme, dans une enquête liée à un robot…",
+          "published": "2026-07-29T13:38:00+00:00"
         }
       ]
     }
