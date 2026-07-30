@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-30T19:24:07.537119+00:00",
+  "generated_at": "2026-07-30T22:04:14.012221+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Ukraine : Zelensky accuse la Corée du Nord d'avoir fourni le missile ayant décimé une famille",
+          "link": "https://www.france24.com/fr/europe/20260730-ukraine-russie-zelensky-accuse-coree-du-nord-missile-decim%C3%A9-famille-kryvyi-rig",
+          "source": "France 24",
+          "summary": "Après les attaques meurtrières de la nuit de mercredi à jeudi en Ukraine, le président Volodymyr Zelensky a accusé la Corée du Nord d'avoir fourni le missile balistique ayant anéanti une famille entière près de Kryvyï…",
+          "published": "2026-07-30T21:54:30+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le chancelier allemand, Friedrich Merz, dénonce « l’irresponsabilité de la Russie et sa volonté d’escalade » après la chute d’un missile présumé russe en Pologne",
+          "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade-apres-la-chute-d-un-missile-presume-russe-en-pologne_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. La présidente de la Commission européenne, Ursula von der Leyen, a fustigé une…",
+          "published": "2026-07-30T21:45:38+00:00"
+        },
+        {
+          "title": "Incendies : accalmie espérée en France et en Espagne, de nouveaux feux de forêt gagnent l'Europe",
+          "link": "https://www.france24.com/fr/europe/20260730-incendies-accalmie-esp%C3%A9r%C3%A9e-france-espagne-nouveaux-feux-for%C3%AAt-gagnent-europe",
+          "source": "France 24",
+          "summary": "La France et l'Espagne entrevoient jeudi une accalmie après certains des incendies les plus violents de leur histoire récente, qui ont contraint des centaines de milliers de personnes à évacuer. Mais ailleurs en Europe,…",
+          "published": "2026-07-30T20:17:50+00:00"
+        },
         {
           "title": "🔴 \"Urgence humanitaire\" à Ceuta après l'arrivée massive de migrants, l'armée envoyée en renfort",
           "link": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
@@ -52,27 +73,6 @@
           "source": "France 24",
           "summary": "Le 29 juillet 1991, le Mali ouvrait sa Conférence nationale après des décennies de dictature sous Moussa Traoré. Une constitution, un multipartisme et une promesse démocratique saluée dans tout le continent. 35 ans plus…",
           "published": "2026-07-30T17:59:11+00:00"
-        },
-        {
-          "title": "Xenia Fedorova, propagandiste russe, visée par un arrêté d’expulsion : Laurent Nuñez affirme que ce n’est « pas une atteinte à la liberté d’expression »",
-          "link": "https://www.lemonde.fr/politique/article/2026/07/30/xenia-fedorova-propagandiste-russe-visee-par-un-arrete-d-expulsion-laurent-nunez-affirme-que-ce-n-est-pas-une-atteinte-a-la-liberte-d-expression_6737064_823448.html",
-          "source": "Le Monde",
-          "summary": "« On est sur un sujet qui est très grave, qui est celui d’une atteinte aux intérêts fondamentaux de la nation », a déclaré le ministre de l’intérieur, jeudi soir, accusant la chroniqueuse de ne faire que « relayer la…",
-          "published": "2026-07-30T17:53:15+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : après la chute d’un missile présumé russe en Pologne, le chancelier allemand, Friedrich Merz, dénonce « l’irresponsabilité de la Russie et sa volonté d’escalade »",
-          "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-apres-la-chute-d-un-missile-presume-russe-en-pologne-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade_6732775_3210.html",
-          "source": "Le Monde",
-          "summary": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. La présidente de la Commission européenne, Ursula von der Leyen, a fustigé une…",
-          "published": "2026-07-30T16:54:28+00:00"
-        },
-        {
-          "title": "En Chine, le bilan du glissement de terrain à Chongqing, dans le sud-ouest du pays, s’alourdit à 51 morts",
-          "link": "https://www.lemonde.fr/international/article/2026/07/30/en-chine-le-bilan-du-glissement-de-terrain-a-chongqing-dans-le-sud-ouest-du-pays-s-alourdit-a-51-morts_6737053_3210.html",
-          "source": "Le Monde",
-          "summary": "Ce glissement de terrain est survenu le 17 juillet, moins de deux semaines après un autre glissement de terrain dans la province du Gansu, dans le nord-ouest du pays, qui a fait 21 morts.",
-          "published": "2026-07-30T16:37:51+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Un électeur libéral sur six soutient désormais le NPD, selon un sondage",
-          "link": "https://www.ledevoir.com/politique/canada/998711/electeur-liberal-six-soutient-desormais-npd-selon-sondage",
-          "source": "Le Devoir",
-          "summary": "La moitié de ces électeurs citait les changements climatiques comme la question les préoccupant le plus.",
-          "published": "2026-07-30T18:45:00+00:00"
-        },
-        {
-          "title": "Plus de 80 feux de forêt ont été maîtrisés dans les dernières semaines en Ontario",
-          "link": "https://www.ledevoir.com/actualites/environnement/998699/plus-80-feux-foret-ont-ete-maitrises-dernieres-semaines-ontario",
-          "source": "Le Devoir",
-          "summary": "La situation évolue de façon rassurante selon les autorités, bien que 159 feux font toujours rage dans la province.",
-          "published": "2026-07-30T18:20:00+00:00"
-        },
-        {
-          "title": "En Dominique | La défense va faire appel du verdict de meurtre de Daniel Langlois et Dominique Marchand",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-30/en-dominique/la-defense-va-faire-appel-du-verdict-de-meurtre-de-daniel-langlois-et-dominique-marchand.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Orchestre philharmonique du Québec | Le chef Alexandre Da Costa part prématurément",
+          "link": "https://www.lapresse.ca/arts/musique/2026-07-30/orchestre-philharmonique-du-quebec/le-chef-alexandre-da-costa-part-prematurement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’avocat de la défense de deux Américains reconnus coupables du meurtre de l’entrepreneur québécois Daniel Langlois et de sa conjointe en Dominique annonce qu’ils feront appel du verdict.",
-          "published": "2026-07-30T18:07:08+00:00"
+          "summary": "L’Orchestre philharmonique du Québec a annoncé jeudi le départ d’Alexandre Da Costa, son chef attitré, qui occupait la fonction de directeur artistique. Son mandat a été écourté d’un commun accord, indique l’Orchestre…",
+          "published": "2026-07-30T21:17:13+00:00"
         },
         {
-          "title": "Trois personnes ont été en contact avec un chat atteint de la rage en Montérégie",
-          "link": "https://www.ledevoir.com/actualites/sante/998693/trois-personnes-ont-ete-contact-chat-atteint-rage-monteregie",
-          "source": "Le Devoir",
-          "summary": "Un traitement préventif a été administré à ces individus.",
-          "published": "2026-07-30T17:55:22+00:00"
-        },
-        {
-          "title": "Le BEI ouvre une enquête sur l’arrestation de Philippe Benoit",
-          "link": "https://www.ledevoir.com/actualites/justice/998696/bei-ouvre-enquete-arrestation-philippe-benoit",
-          "source": "Le Devoir",
-          "summary": "L’homme de 41 ans a été retrouvé mercredi par la SQ. Il est soupçonné d’avoir tué son fils de 16 ans à Shawinigan.",
-          "published": "2026-07-30T17:55:00+00:00"
-        },
-        {
-          "title": "La stagiaire suspectée d’espionnage à l’OTAN serait passée par le Québec",
-          "link": "https://www.ledevoir.com/politique/canada/998687/stagiaire-suspectee-espionnage-otan-serait-passee-quebec",
-          "source": "Le Devoir",
-          "summary": "Claire (Biwei) Zhang aurait étudié à l’Université de Montréal et travaillé à l’Agence spatiale canadienne.",
-          "published": "2026-07-30T17:41:00+00:00"
-        },
-        {
-          "title": "Le milieu culturel dénonce l’abandon des redevances aux plateformes étrangères par le CRTC",
-          "link": "https://www.ledevoir.com/culture/998690/milieu-culturel-denonce-abandon-redevances-plateformes-americaines-crtc",
-          "source": "Le Devoir",
-          "summary": "Le premier ministre Carney «considère la culture comme un objet de marchandage sans valeur», selon une association.",
-          "published": "2026-07-30T17:40:00+00:00"
-        },
-        {
-          "title": "Il en coûte 35 % plus cher pour réaliser une chirurgie au privé",
-          "link": "https://www.ledevoir.com/actualites/sante/998678/35-plus-cher-realiser-operation-prive",
-          "source": "Le Devoir",
-          "summary": "Un mémoire confidentiel que nous avons obtenu indique qu’opérer au public est plus économe.",
-          "published": "2026-07-30T17:29:00+00:00"
-        },
-        {
-          "title": "Espagne | L’entrée massive de migrants à Ceuta fait 9 morts, l’armée mobilisée",
-          "link": "https://www.lapresse.ca/international/europe/2026-07-30/espagne/l-entree-massive-de-migrants-a-ceuta-fait-9-morts-l-armee-mobilisee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "OTAN | La présumée espionne canadienne conteste sa détention en Belgique",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-07-30/otan/la-presumee-espionne-canadienne-conteste-sa-detention-en-belgique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Neuf migrants sont morts jeudi en tentant de rejoindre à la nage depuis le Maroc l’enclave espagnole de Ceuta, où plusieurs centaines d’autres sont arrivés dans les dernières heures, ce qui a poussé le gouvernement…",
-          "published": "2026-07-30T17:16:03+00:00"
+          "summary": "La Canadienne d’origine chinoise, arrêtée la semaine dernière en Belgique pour espionnage présumé dans un centre d’opération de l’OTAN, a interjeté appel de sa détention provisoire d’un mois.",
+          "published": "2026-07-30T21:10:03+00:00"
         },
         {
-          "title": "Un vote pour un moratoire sur les centres de données pourrait créer un précédent au Canada",
-          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/998672/vote-moratoire-centres-donnees-pourrait-creer-precedent-canada",
+          "title": "Félix Auger-Aliassime arrive à Montréal avec de hautes attentes",
+          "link": "https://www.ledevoir.com/sports/998789/felix-auger-aliassime-arrive-montreal-hautes-attentes",
           "source": "Le Devoir",
-          "summary": "Le règlement doit encore être adopté à son retour devant le conseil municipal, en septembre.",
-          "published": "2026-07-30T17:14:20+00:00"
+          "summary": "Désormais quatrième au monde, l’athlète québécois se dit confiant et au sommet de sa forme.",
+          "published": "2026-07-30T20:59:00+00:00"
+        },
+        {
+          "title": "Le ministre Lightbound défend la décision de mettre fin aux redevances des grands diffuseurs",
+          "link": "https://www.journaldemontreal.com/2026/07/30/le-ministre-lightbound-defend-la-decision-de-mettre-fin-aux-redevances-des-grands-diffuseurs",
+          "source": "Journal de Montreal",
+          "summary": "En entrevue, le lieutenant du Québec pour le gouvernement Carney a défendu l’abandon des redevances exigées aux plateformes de diffusion américaines.",
+          "published": "2026-07-30T20:56:23+00:00"
+        },
+        {
+          "title": "«Une épreuve terrible»: George Clooney forcé d’évacuer sa maison en France",
+          "link": "https://www.journaldemontreal.com/2026/07/30/une-epreuve-terrible-george-clooney-force-devacuer-sa-maison-en-france",
+          "source": "Journal de Montreal",
+          "summary": "L’acteur américain George Clooney et sa femme, Amal, ont dû évacuer de leur résidence dans le sud-est de la France.",
+          "published": "2026-07-30T20:49:12+00:00"
+        },
+        {
+          "title": "Adolescent tué à Shawinigan | Philippe Benoit comparait depuis son lit d’hôpital",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-30/adolescent-tue-a-shawinigan/philippe-benoit-comparait-depuis-son-lit-d-hopital.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "C’est de son lit d’hôpital que l’homme de 41 ans, retrouvé mercredi après quatre jours de cavale à Lac-aux-Sables, a comparu moins de 24 h après son arrestation, dans le secteur du Lac Veillette. Philippe Benoit est…",
+          "published": "2026-07-30T20:48:33+00:00"
+        },
+        {
+          "title": "Québec retarde encore la publication des nouvelles cartes des zones inondables",
+          "link": "https://www.ledevoir.com/politique/quebec/998771/quebec-retarde-encore-publication-nouvelles-cartes-zones-inondables",
+          "source": "Le Devoir",
+          "summary": "Pourtant, la cartographie est «prête depuis un bout de temps», explique le maire de Deux-Montagnes.",
+          "published": "2026-07-30T20:43:38+00:00"
+        },
+        {
+          "title": "Les clients se ruent sur les produits surgelés pour lutter contre l’inflation, dit Loblaw",
+          "link": "https://www.ledevoir.com/economie/998774/clients-ruent-produits-surgeles-lutter-contre-inflation-dit-loblaw",
+          "source": "Le Devoir",
+          "summary": "L’entreprise derrière Maxi, Provigo et Pharmaprix a observé une croissance des ventes de légumes surgelés.",
+          "published": "2026-07-30T20:40:00+00:00"
+        },
+        {
+          "title": "Des «progrès» contre un incendie dans l'est de l'Angleterre, une centaine de pompiers mobilisés",
+          "link": "https://www.journaldemontreal.com/2026/07/30/une-centaine-de-pompiers-mobilises-contre-un-incendie-dans-lest-de-langleterre",
+          "source": "Journal de Montreal",
+          "summary": "Les pompiers luttent jeudi «dans des conditions difficiles» contre un incendie dans le Suffolk, dans l’est de l’Angleterre.",
+          "published": "2026-07-30T20:31:41+00:00"
+        },
+        {
+          "title": "50 ans des Jeux de Montréal | Un accueil digne d’une rock star pour Nadia Comăneci",
+          "link": "https://www.lapresse.ca/sports/jeux-olympiques/2026-07-30/50-ans-des-jeux-de-montreal/un-accueil-digne-d-une-rock-star-pour-nadia-comaneci.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Nadia Comăneci était sollicitée de toutes parts, jeudi, à l’angle du boulevard René-Lévesque et de la côte du Beaver Hall. Entre les entrevues et les poses pour les photographes, la légendaire gymnaste recevait de…",
+          "published": "2026-07-30T20:30:52+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "Annecy : le parquet ouvre une enquête pour viol après une plainte d’un jeune homme contre un élu municipal",
-          "link": "https://www.lefigaro.fr/flash-actu/annecy-le-parquet-ouvre-une-enquete-pour-viol-apres-une-plainte-d-un-jeune-homme-contre-un-elu-municipal-20260730",
+          "title": "Pourquoi le nouvel El Niño, déjà surnommé «Godzilla», inquiète les climatologues",
+          "link": "https://www.lefigaro.fr/sciences/pourquoi-le-nouvel-el-nino-deja-surnomme-godzilla-inquiete-les-climatologues-20260730",
           "source": "Le Figaro",
-          "summary": "Les faits auraient été commis à l’automne 2023. La personne mise en cause a été entendue par la gendarmerie le 9 juin.",
-          "published": "2026-07-30T19:19:50+00:00"
+          "summary": "DÉCRYPTAGE - S’il n’a pas eu d’effet sur les récentes canicules en France, le phénomène naturel, combiné au changement climatique d’origine humaine, pourrait faire de l’année prochaine la plus chaude jamais enregistrée.",
+          "published": "2026-07-30T21:53:04+00:00"
         },
         {
-          "title": "A Annecy, une enquête pour viol ouverte après une plainte contre un élu municipal",
-          "link": "https://www.franceinfo.fr/faits-divers/une-enquete-pour-viol-ouverte-apres-une-plainte-contre-un-elu-municipal_8129117.html#xtor=RSS-3-[lestitres]",
+          "title": "L'Irak nie avoir approuvé les frappes américano-saoudiennes de mercredi",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-irak-nie-avoir-approuve-les-frappes-americano-saoudiennes-de-mercredi_8129192.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "L'enquête préliminaire pour viol a été ouverte et confiée à la brigade des recherches d'Annecy, selon le parquet, qui précise que la personne mise en cause a été entendue par la gendarmerie.",
-          "published": "2026-07-30T19:14:39+00:00"
+          "summary": "Le président américain Donald Trump avait affirmé que ces frappes avaient été \"coordonnées\" avec Bagdad.",
+          "published": "2026-07-30T21:49:26+00:00"
         },
         {
-          "title": "Neuf migrants sont morts en tentant de rejoindre l'enclave de Ceuta, annonce le gouvernement espagnol",
+          "title": "EN DIRECT, guerre en Ukraine : le chancelier allemand, Friedrich Merz, dénonce « l’irresponsabilité de la Russie et sa volonté d’escalade » après la chute d’un missile présumé russe en Pologne",
+          "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade-apres-la-chute-d-un-missile-presume-russe-en-pologne_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. La présidente de la Commission européenne, Ursula von der Leyen, a fustigé une…",
+          "published": "2026-07-30T21:45:38+00:00"
+        },
+        {
+          "title": "Neuf personnes sont mortes durant l'entrée massive de migrants à Ceuta, des centaines de personnes continuent de converger vers l'enclave",
           "link": "https://www.franceinfo.fr/monde/espagne/neuf-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-de-ceuta-annonce-le-gouvernement-espagnol_8129108.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "\"Neuf corps\" de migrants ont été repêchés, a déclaré une porte-parole de la délégation du gouvernement, sans donner plus de précisions.",
-          "published": "2026-07-30T19:06:40+00:00"
+          "published": "2026-07-30T21:34:08+00:00"
         },
         {
-          "title": "Pyrénées-Atlantiques : importante opération de secours pour remonter un spéléologue blessé à 350 mètres de profondeur",
-          "link": "https://www.lefigaro.fr/faits-divers/pyrenees-atlantiques-importante-operation-de-secours-pour-remonter-un-speleologue-blesse-a-350-metres-de-profondeur-20260730",
+          "title": "Espagne : une grand-mère de 79 ans remporte le jackpot à la loterie mais ne peut retirer ses gains à cause de son mari décédé",
+          "link": "https://www.lefigaro.fr/international/espagne-une-grand-mere-de-79-ans-remporte-le-jackpot-a-la-loterie-mais-ne-peut-retirer-ses-gains-a-cause-de-son-mari-decede-20260730",
           "source": "Le Figaro",
-          "summary": "Mercredi soir, un homme d’une soixantaine d’années a été victime d’une chute alors qu’il cheminait avec un autre spéléologue aguerri cœur de l’un des gouffres de La Pierre Saint-Martin. Il souffre de plusieurs…",
-          "published": "2026-07-30T19:00:21+00:00"
+          "summary": "Inscrite à son insu sur le registre général des personnes interdites d’accès aux jeux de hasard, Carmen ne peut empocher ses 35.000€ de gains remportés en août 2025. Elle a déposé un recours administratif.",
+          "published": "2026-07-30T21:23:47+00:00"
         },
         {
-          "title": "Au moins neuf morts dans l’entrée de migrants à Ceuta, un morceau d’Europe enclavé au Maroc",
-          "link": "https://www.liberation.fr/international/europe/au-moins-neuf-morts-dans-lentree-de-migrants-a-ceuta-un-morceau-deurope-enclave-au-maroc-20260730_6EYSCVGVGZBINDZGBF4IMQAMDA/",
-          "source": "Liberation",
-          "summary": "De très nombreux jeunes hommes, dont des mineurs, se sont introduits illégalement dans ce territoire espagnol, jeudi. L’Espagne et le Maroc annoncent de prochaines expulsions express, pratique condamnée par le droit…",
-          "published": "2026-07-30T18:57:46+00:00"
-        },
-        {
-          "title": "États-Unis : 15 ans de prison pour le père d'un adolescent ayant tué quatre personnes dans une école",
-          "link": "https://www.lefigaro.fr/flash-actu/etats-unis-15-ans-de-prison-pour-le-pere-d-un-adolescent-ayant-tue-quatre-personnes-dans-une-ecole-20260730",
+          "title": "Afflux massif de migrants à Ceuta : Madrid dénonce la «démagogie» de l’Italie qui veut suspendre l'Espagne de l'espace Schengen",
+          "link": "https://www.lefigaro.fr/flash-actu/afflux-massif-de-migrants-a-ceuta-l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-20260730",
           "source": "Le Figaro",
-          "summary": "Colin Gray serait le premier parent à être reconnu coupable de meurtre pour une tuerie commise à l’arme à feu par sa progéniture. En 2023, il avait offert à son fils Colt un fusil d’assaut pour Noël qu’il avait utilisé…",
-          "published": "2026-07-30T18:57:15+00:00"
+          "summary": "Madrid convoque l’ambassadeur italien à la suite des propos de Giorgia Meloni. Laquelle dit vouloir suspendre l’Espagne de l’espace Schengen, après l’arrivée de centaines de migrants à Ceuta en provenance du Maroc.",
+          "published": "2026-07-30T21:17:40+00:00"
         },
         {
-          "title": "À cause du phénomène de \"feu zombie\", faudra-t-il des mois pour éteindre les incendies en Gironde ?",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/a-cause-du-phenomene-de-feu-zombie-faudra-t-il-des-mois-pour-eteindre-les-incendies-en-gironde_8129114.html#xtor=RSS-3-[lestitres]",
+          "title": "“Urgence humanitaire“ :  arrivée massive de migrants à Ceuta",
+          "link": "https://www.franceinfo.fr/monde/europe/migrants/urgence-humanitaire-arrivee-massive-de-migrants-a-ceuta_8129177.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Maîtriser les flammes ne signifie pas que le feu est éteint. Il peut continuer de brûler sous terre sans être visible, puis surgir plusieurs jours, voire plusieurs semaines plus tard. C’est ce que les pompiers appellent…",
-          "published": "2026-07-30T18:51:16+00:00"
+          "summary": "Des centaines de personnes sont entrées illégalement à Ceuta (Espagne), jeudi 30 juillet, à la suite de rumeurs selon lesquelles la frontière ouvrirait à l'aube. Elles s'ajoutent aux plus de 1 500 personnes arrivées à…",
+          "published": "2026-07-30T21:02:43+00:00"
         },
         {
-          "title": "EN DIRECT - Feux dans le Sud-Ouest : l’incendie de Biscarrosse est «maîtrisé», annonce le préfet des Landes",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-lincendie-toujours-stabilise-en-gironde-la-reprise-de-feu-fixee-a-fontainebleau-20260730_RLA3FHHDJNG7VLWRWRIJN3ABUM/",
-          "source": "Liberation",
-          "summary": "Les très fortes chaleurs vont se cantonner au quart sud-est du pays le 31 juillet, «avec des températures maximales de 34 à 38 °C», a indiqué Météo France dans son bulletin de 16 heures ce jeudi. Le danger de feux se…",
-          "published": "2026-07-30T18:46:39+00:00"
-        },
-        {
-          "title": "La Fondation du Patrimoine lance un appel à la générosité pour \"sauver les forêts\" en Gironde et dans les Landes après les incendies",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/la-fondation-du-patrimoine-lance-un-appel-a-la-generosite-pour-sauver-les-forets-en-gironde-et-dans-les-landes-apres-les-incendies_8129099.html#xtor=RSS-3-[lestitres]",
+          "title": "L'Italie veut suspendre l'Espagne de l'espace Schengen après que des centaines de migrants sont arrivés à Ceuta, Madrid dénonce la \"démagogie\" de Rome",
+          "link": "https://www.franceinfo.fr/monde/italie/l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-apres-que-des-centaines-de-migrants-sont-arrives-a-ceuta-madrid-denonce-la-demagogie-de-rome_8129171.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "À l'image de la collecte concernant le brasier de Fontainebleau, l'objectif fixé par la Fondation du Patrimoine s'élève à deux millions d'euros.",
-          "published": "2026-07-30T18:43:17+00:00"
+          "summary": "Le ministre des Affaires étrangères espagnol, José Luis Albares, a convoqué jeudi l'ambassadeur italien en signe de protestation.",
+          "published": "2026-07-30T20:59:36+00:00"
         },
         {
-          "title": "EN DIRECT - Incendie en Gironde : «Il n’y a eu aucune instruction» pour «privilégier la presqu’île du Cap Ferret», selon Laurent Nuñez",
-          "link": "https://www.lefigaro.fr/meteo/direct-incendies-gironde-feux-evacues-canicule-chaleur-feux-temperatures-pompiers-foret-fontainebleau-var-landes-dijon-20260730",
+          "title": "Henri Matisse : comment la lumière de Collioure a-t-elle donné un nouvel élan au chef de file du fauvisme ?",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/henri-matisse-comment-la-lumiere-de-collioure-a-t-elle-donne-un-nouvel-elan-au-chef-de-file-du-fauvisme_8129153.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "C’est à Collioure (Pyrénées-Orientales), petit village de pêcheurs, qu’Henri Matisse a réinventé sa peinture. Lui qui aimait immortaliser les scènes de sieste y redécouvre des couleurs vives et acidulées.",
+          "published": "2026-07-30T20:54:57+00:00"
+        },
+        {
+          "title": "Maroc : des centaines de personnes en route pour la frontière avec l’enclave espagnole de Ceuta",
+          "link": "https://www.lefigaro.fr/international/maroc-des-centaines-de-personnes-en-route-pour-la-frontiere-avec-l-enclave-espagnole-de-ceuta-20260730",
           "source": "Le Figaro",
-          "summary": "Le ministre de l’Intérieur a répondu jeudi soir aux détracteurs qui accusent les autorités d’inégalités de traitement entre les communes durant le mégafeu. «On peut penser que le pire est derrière nous», a-t-il ajouté.",
-          "published": "2026-07-30T18:35:03+00:00"
+          "summary": "Le passage en force ces derniers jours de plus de 1500 migrants dans l’enclave espagnole a créé un appel d’air auprès des candidats à l’émigration vers Europe.",
+          "published": "2026-07-30T20:50:20+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Amazon attribue plusieurs cyberattaques contre npm à un même groupe de hackers nord-coréens",
+          "link": "https://www.clubic.com/actualite-623554-amazon-attribue-plusieurs-cyberattaques-contre-npm-a-un-meme-groupe-de-hackers-nord-coreens.html",
+          "source": "Clubic",
+          "summary": "Des pirates nord-coréens seraient à l’origine des compromissions des paquets npm typo-crypto, debug, chalk et axios, selon Amazon. Le groupe poursuivrait un objectif financier via les bibliothèques les plus téléchargées…",
+          "published": "2026-07-30T19:03:00+00:00"
+        },
         {
           "title": "Konami a pris un gros risque pour ressusciter Silent Hill",
           "link": "https://www.numerama.com/pop-culture/2304403-konami-a-pris-un-gros-risque-pour-ressusciter-silent-hill.html",
@@ -309,13 +316,6 @@
           "source": "Frandroid",
           "summary": "Xiaomi ouvre les précommandes de ses deux premiers SUV hybrides (électrique à prolongateur d'autonomie) Sky Nomad en Chine, à partir de l'équivalent de 33 500 €, avant des livraisons prévues pour septembre. En Europe,…",
           "published": "2026-07-30T15:52:00+00:00"
-        },
-        {
-          "title": "L'Union européenne veut sept gigafactories d'IA, la France répond et propose d'emblée 100 millions d'euros",
-          "link": "https://www.clubic.com/actualite-623527-l-union-europeenne-veut-sept-gigafactories-d-ia-la-france-repond-et-propose-d-emblee-100-millions-d-euros.html",
-          "source": "Clubic",
-          "summary": "L'Union européenne lance un appel à projets pour bâtir jusqu'à sept gigafactories d'IA, avec plus de 30 milliards d'euros à la clé. La France confirme sa candidature et s'engage à hauteur de 100 millions d'euros pour…",
-          "published": "2026-07-30T15:43:00+00:00"
         }
       ]
     }
