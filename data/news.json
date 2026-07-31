@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-31T11:28:30.900595+00:00",
+  "generated_at": "2026-07-31T14:02:53.658340+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "A Ceuta, les images des dizaines de milliers d’exilés qui tentent de traverser la frontière espagnole",
-          "link": "https://www.lemonde.fr/international/article/2026/07/31/a-ceuta-les-images-des-dizaines-de-milliers-d-exiles-qui-tentent-de-traverser-la-frontiere-espagnole_6737127_3210.html",
+          "title": "Ebola : en RDC, plus de 3 500 cas recensés en quelques mois, plus que lors de l’épidémie la plus meurtrière de l’histoire du pays",
+          "link": "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html",
           "source": "Le Monde",
-          "summary": "En photos | Les images prises sur place montrent les foules de personnes traversant la frontière à pied ou par la mer, les interventions des forces de l’ordre espagnoles ou marocaines.",
-          "published": "2026-07-31T11:04:53+00:00"
+          "summary": "Vendredi, 3 532 cas de la maladie à virus Ebola ont été confirmés dans cinq provinces du pays, selon les données publiées par les autorités congolaises. Parmi ces 3 532 cas, 1 556 personnes sont mortes.",
+          "published": "2026-07-31T13:58:32+00:00"
         },
         {
-          "title": "En Europe, une sécheresse intense et des températures très élevées",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260731-en-europe-une-s%C3%A9cheresse-intense-et-des-temp%C3%A9ratures-tr%C3%A8s-%C3%A9lev%C3%A9es",
+          "title": "Fifa Forward Enterprise : le projet qui fracture le football mondial",
+          "link": "https://www.france24.com/fr/sports/20260731-fifa-forward-enterprise-projet-controverse-infantino-boycott-uefa",
           "source": "France 24",
-          "summary": "Tandis qu'un incendie est hors de contrôle dans le nord du Portugal et que l'île de Crête en Grèce est en proie aux flammes, la France elle fait face à la pire saison des feux de son histoire. L'Espagne a également…",
-          "published": "2026-07-31T10:42:33+00:00"
+          "summary": "Boycott de l'UEFA, rejet de plusieurs confédérations, plainte pour corruption et démission d'un proche conseiller de Gianni Infantino : le projet Fifa Forward Enterprise, censé révolutionner le financement du football…",
+          "published": "2026-07-31T13:56:31+00:00"
         },
         {
-          "title": "Secrétariat général de l'ONU: le sénégalais Macky Sall en difficulté après un premier vote indicatif",
-          "link": "https://www.rfi.fr/fr/monde/20260731-secr%C3%A9tariat-g%C3%A9n%C3%A9ral-de-l-onu-le-s%C3%A9n%C3%A9galais-macky-sall-en-difficult%C3%A9-apr%C3%A8s-un-premier-vote-indicatif",
-          "source": "RFI",
-          "summary": "La règle était tacite, mais claire : le prochain patron de l’ONU serait une femme. Et pour respecter la rotation géographique, elle serait originaire d’un pays d’Amérique latine. Pourtant, deux candidats africains ont…",
-          "published": "2026-07-31T10:35:48+00:00"
-        },
-        {
-          "title": "RD Congo : l'opposition monte au créneau après la validation de la loi référendaire",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260731-rd-congo-l-opposition-monte-au-cr%C3%A9neau-apr%C3%A8s-la-validation-de-la-loi-r%C3%A9f%C3%A9rendaire",
-          "source": "France 24",
-          "summary": "En RD Congo, la Cour constitutionnelle a validé la loi référendaire ouvrant la voie à un possible troisième mandat pour le président Félix Tshisekedi. La coalition d'opposition C64 monte au créneau et donne rendez-vous…",
-          "published": "2026-07-31T10:26:01+00:00"
-        },
-        {
-          "title": "CAN féminine, nouveau parti de Faye au Sénégal, situation instable au Niger : l'hebdo Afrique",
-          "link": "https://www.france24.com/fr/afrique/20260731-can-f%C3%A9minine-nouveau-parti-de-faye-au-s%C3%A9n%C3%A9gal-situation-instable-au-niger-l-hebdo-afrique",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-07-31T10:24:15+00:00"
-        },
-        {
-          "title": "Gaza : désarmement du Hamas en vue du \"retrait progressif\" d'Israël",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260731-gaza-d%C3%A9sarmement-du-hamas-en-vue-du-retrait-progressif-d-isra%C3%ABl",
-          "source": "France 24",
-          "summary": "Donald Trump a annoncé qu'un accord avait été conclu sur le désarmement du Hamas dans la bande de Gaza, un des points clés de la deuxième phase du plan de paix du président américain. Explications de Thibault…",
-          "published": "2026-07-31T09:57:01+00:00"
-        },
-        {
-          "title": "Football : l'UEFA menace à \"l'unanimité\" un boycott des Coupes du monde",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260731-football-l-uefa-menace-%C3%A0-l-unanimit%C3%A9-un-boycott-des-coupes-du-monde",
-          "source": "France 24",
-          "summary": "Les fédérations membres de l'UEFA ont menacé à l'unanimité de boycotter la Coupe du monde et les autres compétitions de la Fifa, en cas de poursuite du nouveau projet de Gianni Infantino. Le président de la Fifa a…",
-          "published": "2026-07-31T09:54:47+00:00"
-        },
-        {
-          "title": "En Allemagne, le taux de chômage augmente, dans un contexte de dynamique « faible » pour l’emploi",
-          "link": "https://www.lemonde.fr/international/article/2026/07/31/en-allemagne-le-taux-de-chomage-augmente-dans-un-contexte-de-dynamique-faible-pour-l-emploi_6737123_3210.html",
+          "title": "EN DIRECT, guerre au Moyen-Orient : le Koweït affirme avoir détruit des drones iraniens après des attaques contre des sites militaires",
+          "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-le-koweit-affirme-avoir-detruit-des-drones-iraniens-apres-des-attaques-contre-des-sites-militaires_6737099_3210.html",
           "source": "Le Monde",
-          "summary": "L’Agence fédérale pour l’emploi a annoncé un taux de chômage de 6,4 % pour le mois de juillet, en hausse « essentiellement pour des raisons saisonnières ».",
-          "published": "2026-07-31T09:54:02+00:00"
+          "summary": "Les forces armées koweïtiennes ont annoncé, vendredi, avoir détruit des drones iraniens entrés dans l’espace aérien du pays, affirmant que l’Iran avait visé plusieurs installations militaires et infrastructures vitales.",
+          "published": "2026-07-31T13:53:06+00:00"
         },
         {
-          "title": "Mégafeu en Gironde : 84 000 personnes autorisées à rentrer",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260731-m%C3%A9gafeu-en-gironde-84-000-personnes-autoris%C3%A9es-%C3%A0-rentrer",
+          "title": "Avalanche au Pakistan : dix personnes disparues, dont la star de l'alpinisme Nirmal Purja",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260731-avalanche-pakistan-dix-personnes-disparues-dont-star-alpinisme-nirmal-purja",
           "source": "France 24",
-          "summary": "Un retour ⁠à la normale s'amorçait ​sur le front des incendies en France après une nuit \"très calme\" en Gironde où ​le mégafeu qui a détruit 42.000 hectares reste \"stabilisé\", ce qui permet la réouverture de l'autoroute…",
-          "published": "2026-07-31T09:50:55+00:00"
+          "summary": "Une avalanche a fait dix disparus dans le nord du Pakistan parmi les membres d'une expédition partie avec le grand alpiniste Nirmal Purja, a annoncé la police vendredi. Quatre corps ont été retrouvés près du lieu de la…",
+          "published": "2026-07-31T13:33:35+00:00"
         },
         {
-          "title": "Espagne : au moins dix-huit migrants morts en tentant de rejoindre l'enclave de Ceuta",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260731-espagne-au-moins-dix-huit-migrants-morts-en-tentant-de-rejoindre-l-enclave-de-ceuta",
+          "title": "« Ce que vivent les Palestiniens en Cisjordanie occupée dépasse la violence ordinaire et correspond exactement à la définition du terrorisme »",
+          "link": "https://www.lemonde.fr/international/article/2026/07/31/ce-que-vivent-les-palestiniens-en-cisjordanie-occupee-depasse-la-violence-ordinaire-et-correspond-exactement-a-la-definition-du-terrorisme_6737138_3210.html",
+          "source": "Le Monde",
+          "summary": "Arie Perliger, professeur à l’université du Massachusetts à Lowell, spécialiste du terrorisme d’extrême droite en Israël et aux Etats-Unis, revient dans un entretien au « Monde » sur les ressorts idéologiques de la…",
+          "published": "2026-07-31T13:30:10+00:00"
+        },
+        {
+          "title": "Sénégal : le départ du sélectionneur Pape Thiaw bloqué par l'État",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260731-s%C3%A9n%C3%A9gal-le-d%C3%A9part-du-s%C3%A9lectionneur-pape-thiaw-bloqu%C3%A9-par-l-%C3%A9tat",
           "source": "France 24",
-          "summary": "Dix-huit personnes sont mortes parmi les milliers qui ont tenté de pénétrer dans l'enclave espagnole de Ceuta à partir du Maroc, a déclaré le ministère espagnol de l'Intérieur, évaluant à près de 50 000 le nombre de…",
-          "published": "2026-07-31T09:47:52+00:00"
+          "summary": "Au Sénégal, le feuilleton est loin de son épilogue dans l'affaire de Pape Thiaw et la Fédération sénégalaise de football. Alors qu'il a été limogé par la fédération, le ministère des Sports, refuse de payer ses…",
+          "published": "2026-07-31T12:57:32+00:00"
+        },
+        {
+          "title": "Incendie en Gironde : une situation \"stable\", le feu reste \"contenu dans son périmètre\"",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260731-incendie-en-gironde-une-situation-stable-le-feu-reste-contenu-dans-son-p%C3%A9rim%C3%A8tre",
+          "source": "France 24",
+          "summary": "Après neuf jours de lutte acharnée des pompiers et 42 000 hectares de forêt partis en fumée, l'optimisme prévaut sur le front du mégafeu de Gironde, \"contenu dans son périmètre\" mais toujours actif par endroits, ce qui…",
+          "published": "2026-07-31T12:28:31+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Kiev affirme avoir mené une frappe contre la raffinerie de Loukoïl à Volgograd",
+          "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-kiev-affirme-avoir-mene-une-frappe-contre-la-raffinerie-de-loukoil-dans-la-region-de-volgograd_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "Les services de sécurité ukrainiens ont revendiqué vendredi un bombardement sur cette installation pétrolière, sans préciser l’ampleur des dégâts. Le gouverneur régional a fait état d’un incendie sur un site du complexe…",
+          "published": "2026-07-31T12:26:26+00:00"
+        },
+        {
+          "title": "Espagne : Pedro Sánchez à Ceuta évoque \"une attaque, une violation de l'intégrité territoriale\"",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260731-espagne-pedro-s%C3%A1nchez-%C3%A0-ceuta-%C3%A9voque-une-attaque-une-violation-de-l-int%C3%A9grit%C3%A9-territoriale",
+          "source": "France 24",
+          "summary": "Le Premier ministre espagnol Pedro Sánchez a qualifié vendredi 31 juillet d'\"attaque\", de \"violation de l'intégrité territoriale de l'Espagne\" l'arrivée massive de quelque 40 000 migrants dans l'enclave de Ceuta depuis…",
+          "published": "2026-07-31T12:22:43+00:00"
+        },
+        {
+          "title": "Ceuta : la crise migratoire constitue une \"violation de la souveraineté territoriale\", dit Sanchez",
+          "link": "https://www.france24.com/fr/europe/20260731-ceuta-migrants-reaction-violation-espagne-sanchez-aide-frontiere",
+          "source": "France 24",
+          "summary": "Le Premier ministre espagnol, Pedro Sanchez, a pris la parole vendredi depuis Ceuta, où près de 60 000 personnes ont passé la frontière entre le Maroc et l'Espagne. Il a affirmé que ces traversées massives constituaient…",
+          "published": "2026-07-31T12:19:07+00:00"
         }
       ]
     },
@@ -84,11 +84,46 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Alimentation Couche-Tard veut faire une importante acquisition en Pologne",
+          "link": "https://www.ledevoir.com/economie/998909/alimentation-couche-tard-veut-faire-importante-acquisition-pologne",
+          "source": "Le Devoir",
+          "summary": "Le géant québécois des dépanneurs met 12 milliards $ sur la table pour mettre la main sur Zabka Group.",
+          "published": "2026-07-31T13:35:54+00:00"
+        },
+        {
+          "title": "Environ 60 000 migrants marocains ont traversé la frontière vers l’enclave espagnole de Ceuta",
+          "link": "https://www.ledevoir.com/monde/europe/998903/environ-40-000-migrants-marocains-ont-traverse-frontiere-vers-enclave-espagnole-ceuta",
+          "source": "Le Devoir",
+          "summary": "Le premier ministre espagnol Pedro Sánchez évoque une «attaque». L’affaire déclenche une crise diplomatique européenne.",
+          "published": "2026-07-31T11:22:00+00:00"
+        },
+        {
+          "title": "Trêve à Gaza | Le Hamas confirme un accord sur son désarmement",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-07-31/treve-a-gaza/le-hamas-confirme-un-accord-sur-son-desarmement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le Hamas a confirmé vendredi la conclusion d’un accord sur son désarmement à Gaza, un des points clés de la deuxième phase du plan de paix initié par les États-Unis visant à mettre fin à la guerre entre le mouvement…",
+          "published": "2026-07-31T10:47:24+00:00"
+        },
+        {
           "title": "Le Hamas confirme qu’il a approuvé un accord sur son désarmement",
           "link": "https://www.ledevoir.com/monde/moyen-orient/998897/hamas-confirme-il-approuve-accord-desarmement",
           "source": "Le Devoir",
           "summary": "Israël n’a cependant toujours pas commenté cette annonce faite jeudi soir par le président américain.",
-          "published": "2026-07-31T10:35:15+00:00"
+          "published": "2026-07-31T10:35:00+00:00"
+        },
+        {
+          "title": "Espagne | 60 000 migrants ont rejoint l’enclave de Ceuta depuis le Maroc",
+          "link": "https://www.lapresse.ca/international/2026-07-31/espagne/60-000-migrants-ont-rejoint-l-enclave-de-ceuta-depuis-le-maroc.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Soixante mille migrants ont rejoint l’enclave espagnole de Ceuta au Maroc en quelques jours, provoquant une crise diplomatique européenne quant à la potentielle suspension de l’Espagne de l’espace Schengen.",
+          "published": "2026-07-31T10:16:49+00:00"
+        },
+        {
+          "title": "Réseau cyclable | Montréal veut améliorer la cohabitation sur quatre pistes",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-07-31/reseau-cyclable/montreal-veut-ameliorer-la-cohabitation-sur-quatre-pistes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "« Assurer l’harmonie dans le partage de la rue ». Voilà, assure la Ville de Montréal, l’objectif derrière une nouvelle consultation publique au sujet de quatre pistes cyclables jugées problématiques. Alors que les…",
+          "published": "2026-07-31T10:00:00+00:00"
         },
         {
           "title": "Couche-Tard offre 12 milliards pour le groupe polonais Zabka",
@@ -105,52 +140,17 @@
           "published": "2026-07-31T09:00:00+00:00"
         },
         {
-          "title": "Conflit au Moyen-Orient | Semaine d’embrasement dans la région",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-07-31/conflit-au-moyen-orient/semaine-d-embrasement-dans-la-region.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Menaces tarifaires | Les producteurs de lait appellent à la solidarité",
+          "link": "https://www.lapresse.ca/affaires/chroniques/2026-07-31/menaces-tarifaires/les-producteurs-de-lait-appellent-a-la-solidarite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "De l’accalmie à l’embrasement : le conflit entre les États-Unis et l’Iran s’est étendu cette semaine. Longtemps réfractaire à la possibilité de se mêler aux opérations militaires, l’Arabie saoudite a mené des…",
+          "summary": "Si on a chaque fois l’impression de monter dans le même vieux manège, la dernière menace tarifaire que vient de formuler Donald Trump à l’endroit du Canada a été particulièrement surprenante tellement elle arrivait de…",
           "published": "2026-07-31T09:00:00+00:00"
-        },
-        {
-          "title": "50 ans d’évolution : décathlon | Bruce Jenner contre Damian Warner",
-          "link": "https://www.lapresse.ca/sports/jeux-olympiques/2026-07-31/50-ans-d-evolution-decathlon/bruce-jenner-contre-damian-warner.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "",
-          "published": "2026-07-31T09:00:00+00:00"
-        },
-        {
-          "title": "L’été, c’est du cinéma",
-          "link": "https://www.lapresse.ca/cinema/chroniques/2026-07-31/l-ete-c-est-du-cinema.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Avez-vous des rituels de cinéphile ? Bien sûr que oui, sinon, vous ne regarderiez pas des films de Noël dans le temps des Fêtes, des films d’horreur à l’Halloween, des comédies romantiques à la Saint-Valentin et des…",
-          "published": "2026-07-31T09:00:00+00:00"
-        },
-        {
-          "title": "Hors-jeu | Une visite inattendue au pays natal",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-07-31/hors-jeu/une-visite-inattendue-au-pays-natal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Chaque vendredi, l’écrivain livre ses réflexions personnelles sur l’air du temps, un peu comme s’il tenait un journal.",
-          "published": "2026-07-31T09:00:00+00:00"
-        },
-        {
-          "title": "Au-delà de la visibilité, la nécessité de la rencontre",
-          "link": "https://www.ledevoir.com/opinion/idees/998819/dela-visibilite-necessite-rencontre",
-          "source": "Le Devoir",
-          "summary": "Lorsque la musique se tait et que les drapeaux de la Fierté sont rangés, sommes-nous réellement une communauté?",
-          "published": "2026-07-31T04:00:00+00:00"
         },
         {
           "title": "L’itinérance des femmes âgées, un fléau qui ne cesse de grandir",
           "link": "https://www.ledevoir.com/actualites/societe/998831/itinerance-femmes-agees-fleau-ne-cesse-grandir",
           "source": "Le Devoir",
           "summary": "«Je suis tombée en dépression, j’ai perdu ma job [...] Je me suis ramassée sans domicile», témoigne Claudia, 59 ans.",
-          "published": "2026-07-31T04:00:00+00:00"
-        },
-        {
-          "title": "Le carfentanil fait des victimes au Québec depuis 2017",
-          "link": "https://www.ledevoir.com/actualites/sante/998828/carfentanil-fait-victimes-quebec-depuis-2017",
-          "source": "Le Devoir",
-          "summary": "Aux huit décès liés ce puissant opioïde depuis avril dernier s’ajoutent 42 autres.",
           "published": "2026-07-31T04:00:00+00:00"
         }
       ]
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "«C’est une invasion», «toutes les limites ont été franchies» : la classe politique européenne inquiète et en colère devant la vague migratoire massive de Ceuta",
-          "link": "https://www.lefigaro.fr/international/c-est-une-invasion-toutes-les-limites-ont-ete-franchies-la-classe-politique-europeenne-inquiete-et-en-colere-devant-la-vague-migratoire-massive-de-ceuta-20260731",
+          "title": "EN DIRECT - Vague migratoire à Ceuta : ces images «terribles» sont un avertissement pour les États-Unis, réagit Donald Trump",
+          "link": "https://www.lefigaro.fr/international/en-direct-ceuta-l-espagne-estime-que-49-000-migrants-sont-entres-dans-l-enclave-espagnole-au-cours-des-dernieres-24-heures-20260731",
           "source": "Le Figaro",
-          "summary": "Plus de 50.000 personnes sont entrées dans l’enclave espagnole de Ceuta après des rumeurs faisant état d’une ouverture de la frontière. Les forces de l’ordre ont été débordées.",
-          "published": "2026-07-31T11:27:19+00:00"
+          "summary": "Au moins soixante mille migrants ont rejoint l’enclave espagnole de Ceuta au Maroc en quelques jours, provoquant une crise diplomatique européenne quant à la potentielle suspension de l’Espagne de l’espace Schengen.",
+          "published": "2026-07-31T13:56:03+00:00"
         },
         {
-          "title": "Amira Casar en présidente et Once Upon a Time in a Cinema en ouverture au Festival de Dinard",
-          "link": "https://www.lefigaro.fr/cinema/amira-casar-en-presidente-et-once-upon-a-time-in-a-cinema-en-ouverture-au-festival-de-dinard-20260731",
-          "source": "Le Figaro",
-          "summary": "La manifestation, consacrée aux films britanniques et irlandais, se déroulera dans la cité bretonne du 7 au 11 octobre.",
-          "published": "2026-07-31T11:25:40+00:00"
-        },
-        {
-          "title": "Crise des migrants à Ceuta : le Premier ministre espagnol dénonce \"une attaque, une violation de l'intégrité territoriale de l'Espagne\"",
-          "link": "https://www.franceinfo.fr/monde/espagne/direct-crise-des-migrants-a-ceuta-la-france-va-renforcer-sans-attendre-les-controles-a-la-frontiere-espagnole-annonce-laurent-nunez_8129753.html#xtor=RSS-3-[lestitres]",
+          "title": "La circulation sur les routes sera \"extrêmement difficile\" dans le sens des départs en vacances samedi",
+          "link": "https://www.franceinfo.fr/decouverte/vacances/la-circulation-sur-les-routes-sera-extremement-difficile-dans-le-sens-des-departs-en-vacances-samedi_8130221.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le ministère de l'Intérieur espagnol a évalué à 49 000 le nombre de migrants arrivés en 24 heures dans l'enclave, rapporte Reuters. Au moins neuf personnes sont mortes.",
-          "published": "2026-07-31T11:22:44+00:00"
+          "summary": "Le trafic routier dans le sens des retours sera quant à lui \"difficile\", selon Bison Futé.",
+          "published": "2026-07-31T13:55:36+00:00"
         },
         {
-          "title": "Stéphane Ricordel, trapéziste et homme de théâtre, est décédé à 62 ans",
-          "link": "https://www.lefigaro.fr/theatre/stephane-ricordel-trapeziste-et-homme-de-theatre-est-decede-a-62-ans-20260731",
+          "title": "EN DIRECT - Incendies : reprise de feu dans le Var, nouvelles évacuations",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
+          "source": "Liberation",
+          "summary": "Des habitants de Correns et de son camping sont évacués ce vendredi après-midi en raison d’une reprise localisée de l’important incendie du Gros Bessillon qui avait fait rage entre le 21 et le 28 juillet et brûlé 4 500…",
+          "published": "2026-07-31T13:52:30+00:00"
+        },
+        {
+          "title": "Josh da Costa, Alex Cameron, Sooj… Qu’est-ce qu’on écoute cette semaine ?",
+          "link": "https://www.liberation.fr/culture/musique/josh-da-costa-alex-cameron-sooj-quest-ce-quon-ecoute-cette-semaine-20260731_CE3JYXNYHRBVPEMDJNG72BCO5A/",
+          "source": "Liberation",
+          "summary": "Pop, rock, musiques électroniques… Chaque semaine, «Libé» vous aide à vous y retrouver dans l’actu des sorties.",
+          "published": "2026-07-31T13:49:26+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies en France : le Var confronté à une reprise de feu, de nouvelles évacuations ordonnées",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
           "source": "Le Figaro",
-          "summary": "DISPARITION - Le codirecteur du Rond-Point était l’un des fondateurs de la compagnie de cirque les Arts sauts qui révolutionna l’art du trapèze. Il est mort jeudi 30 juillet des suites d’une maladie neurodégénérative.",
-          "published": "2026-07-31T11:22:25+00:00"
+          "summary": "Des évacuations de population ont été ordonnées vendredi après-midi dans le Var en raison d’une reprise localisée de l’important incendie du Gros Bessillon qui avait fait rage durant une semaine et brûlé 4500 hectares,…",
+          "published": "2026-07-31T13:49:03+00:00"
         },
         {
-          "title": "EN DIRECT - Ceuta : Emmanuel Macron dit que la France est prête à «apporter» son appui à l’Espagne, y compris via Frontex",
+          "title": "Frontière terrestre avec l'Afrique, ville autonome, voie migratoire… Trois questions autour de Ceuta, l'enclave espagnole au cœur d'une crise migratoire",
+          "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/frontiere-terrestre-avec-l-afrique-ville-autonome-voie-migratoire-trois-questions-autour-de-ceuta-l-enclave-espagnole-au-c-ur-d-une-crise-migratoire_8130101.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Depuis deux jours, cette petite enclave espagnole à la frontière du Maroc est redevenue un sujet politique brûlant au sein de l'Union européenne et au Maroc devant l'afflux de plusieurs dizaines de milliers de Marocains…",
+          "published": "2026-07-31T13:49:00+00:00"
+        },
+        {
+          "title": "Foot : après les investissements privés, la Fifa étudie l’impact d’un élargissement du Mondial à 64 équipes pour l’édition de 2030",
+          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/foot-apres-les-investissements-prives-la-fifa-etudie-l-impact-d-un-elargissement-du-mondial-a-64-equipes-pour-l-edition-de-2030-20260731",
+          "source": "Le Figaro",
+          "summary": "La Fédération internationale commencerait à sérieusement envisager d’organiser la Coupe du monde 2030 avec 16 sélections de plus, d’après les informations de Reuters.",
+          "published": "2026-07-31T13:48:10+00:00"
+        },
+        {
+          "title": "\"Comme un ballon dans le ventre\" : après les Etats-Unis, le Royaume-Uni alerte contre une infection qui provoque une \"diarrhée explosive\"",
+          "link": "https://www.franceinfo.fr/sante/comme-un-ballon-dans-le-ventre-apres-les-etats-unis-la-grande-bretagne-alerte-contre-une-infection-qui-provoque-une-diarrhee-explosive_8130104.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Selon les derniers chiffres des autorités américaines, plus de 18 000 personnes dans 45 États différents ont contracté cette maladie.",
+          "published": "2026-07-31T13:47:09+00:00"
+        },
+        {
+          "title": "Le spéléologue bloqué à 350 mètres de profondeur dans un gouffre a été remonté à la surface par les secouristes",
+          "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/le-speleologue-bloque-a-350-metres-de-profondeur-dans-un-gouffre-a-ete-remonte-a-la-surface-par-les-secouristes-3395113.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Un spéléologue de 62 ans s'est retrouvé bloqué avec plusieurs traumatismes depuis mercredi 29 juillet, au fond d'un gouffre situé à Arette La Pierre-Saint-Martin, dans les Pyrénées-Atlantiques. Les secours ont réussi à…",
+          "published": "2026-07-31T13:46:49+00:00"
+        },
+        {
+          "title": "EN DIRECT - Ceuta : 60 000 migrants ont passé la frontière vers l’Espagne, 25 000 sont repartis vers le Maroc",
           "link": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
           "source": "Liberation",
           "summary": "Des milliers de ressortissants marocains traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, dans le nord du Maroc. Il s’agit de l’arrivée de migrants la plus importante depuis 2021.",
-          "published": "2026-07-31T11:22:10+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies en Gironde : le trafic ferroviaire va reprendre samedi au sud de Bordeaux",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
-          "source": "Le Figaro",
-          "summary": "«L’infrastructure a été épargnée par le feu», a indiqué SNCF Réseau dans un communiqué, après un travail d’inspection et de réparation sur les deux tronçons de voie ferrée Bordeaux-Arcachon et Bordeaux-Morcenx, fermés à…",
-          "published": "2026-07-31T11:21:57+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies : le trafic ferroviaire peut finalement reprendre à partir de samedi au sud de Bordeaux, annonce SNCF Réseau",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
-          "source": "Liberation",
-          "summary": "Les autorités viennent d’autoriser la réintégration de la population à Biganos et Audenge (à l’exception de deux quartiers), indique en fin de matinée la préfecture ce vendredi 31 juillet.",
-          "published": "2026-07-31T11:19:54+00:00"
-        },
-        {
-          "title": "Incendie en Gironde : le trafic ferroviaire au sud de Bordeaux reprendra samedi, annonce la SNCF",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-en-gironde-le-feu-est-contenu-dans-son-perimetre-rapporte-la-prefecture_8129489.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La situation sur le front de l'incendie en Gironde est \"stable\", \"malgré des secteurs actifs persistants sur Claouey, Lanton, Le Porge et Lacanau\", a rapporté la préfecture.",
-          "published": "2026-07-31T11:17:28+00:00"
-        },
-        {
-          "title": "«Attaque», «Mafia de trafiquants d’être humains»... Ce qu’il faut retenir de la prise de parole de Pedro Sánchez après la vague migratoire massive de Ceuta",
-          "link": "https://www.lefigaro.fr/international/attaque-mafia-de-trafiquants-d-etre-humains-ce-qu-il-faut-retenir-de-la-prise-de-parole-de-pedro-sanchez-apres-la-vague-migratoire-massive-de-ceuta-20260731",
-          "source": "Le Figaro",
-          "summary": "«Le gouvernement de l’Espagne est aux côtés de la ville de Ceuta. Et nous comprenons l’émotion, la situation d’angoisse qu’ils vivent depuis ces dernières heures, en particulier depuis aujourd’hui», a déclaré le premier…",
-          "published": "2026-07-31T11:16:43+00:00"
-        },
-        {
-          "title": "On vous explique la crise ouverte par l'afflux de dizaines de milliers de migrants à la frontière entre le Maroc et l'enclave espagnole de Ceuta",
-          "link": "https://www.franceinfo.fr/monde/europe/migrants/on-vous-explique-la-crise-ouverte-par-l-afflux-de-milliers-de-migrants-marocains-a-la-frontiere-avec-l-enclave-de-ceuta_8129597.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Près de 50 000 personnes sont entrées illégalement dans le territoire, après avoir forcé la ligne de démarcation, et au moins neuf migrants sont morts noyés. L'armée a été déployée pour débloquer les routes.",
-          "published": "2026-07-31T11:11:44+00:00"
+          "published": "2026-07-31T13:45:21+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Premiers tests de la Radeon RX 9050 : jusqu’à 30 % moins rapide que la RTX 5050",
-          "link": "https://www.clubic.com/actualite-623650-premiers-tests-de-la-radeon-rx-9050-jusqu-a-30-moins-rapide-que-la-rtx-5050.html",
-          "source": "Clubic",
-          "summary": "Tout juste officialisée par AMD, la Radeon RX 9050 est au centre d'un premier test qui se focalise sur la version dotée de 8 Go.",
-          "published": "2026-07-31T11:09:00+00:00"
-        },
-        {
-          "title": "Starship à la dérive en pleine mer : le sauvetage du Ship 40 est lancé",
-          "link": "https://www.numerama.com/sciences/2304773-starship-a-la-derive-en-pleine-mer-le-sauvetage-du-ship-40-est-lance.html",
-          "source": "Numerama",
-          "summary": "À la dérive depuis plus de six jours dans l’océan Indien, le Ship 40 de SpaceX s’apprête enfin à être remorqué. Une flottille de navires spécialisés fait route vers le géant d'acier pour entamer une opération de…",
-          "published": "2026-07-31T11:01:00+00:00"
-        },
-        {
-          "title": "Thales boucle son rachat du poids lourd français des drones sous-marins, Exail, pour 4 milliards d'euros",
-          "link": "https://www.clubic.com/actualite-623644-thales-boucle-son-rachat-du-poids-lourd-francais-des-drones-sous-marins-exail.html",
-          "source": "Clubic",
-          "summary": "Thales et Exail Technologies ont signé, en fin de semaine, l'accord définitif de leur rapprochement à 3,9 milliards d'euros. Le géant de la défense s'apprête à racheter le spécialiste français des drones sous-marins et…",
-          "published": "2026-07-31T10:43:00+00:00"
-        },
-        {
-          "title": "Les meilleures offres de location de vélos électriques chez Decathlon : notre sélection",
-          "link": "https://www.frandroid.com/guide-dachat/2813327_les-meilleures-offres-de-location-de-vae-chez-decathlon-notre-selection",
-          "source": "Frandroid",
-          "summary": "Vous êtes à la recherche d'une offre de location plutôt que d'acheter un vélo électrique ? Chez Decathlon, plusieurs modèles sont disponibles… mais quels sont les plus intéressants ? Réponse ici.",
-          "published": "2026-07-31T10:42:49+00:00"
-        },
-        {
-          "title": "Microsoft annonce une \"super-application\" Copilot : à quoi s'attendre",
-          "link": "https://www.clubic.com/actualite-623635-microsoft-annonce-une-super-application-copilot-a-quoi-s-attendre.html",
-          "source": "Clubic",
-          "summary": "Microsoft l’a confirmé : une « super-application » Copilot arrive cette année. Une ambition qui n’est pas sans rappeler celle d’OpenAI, dont la tentative similaire tourne pour l’instant au casse-tête.",
-          "published": "2026-07-31T10:39:00+00:00"
-        },
-        {
-          "title": "Spider-Man: Brand New Day est réussi, mais il a quand même un immense défaut",
-          "link": "https://www.numerama.com/pop-culture/2304731-spider-man-brand-new-day-est-reussi-mais-il-a-quand-meme-un-immense-defaut.html",
-          "source": "Numerama",
-          "summary": "Reconquête de l'essence de Peter Parker, retour à un New York plus centré et scènes d'action qui défouraillent, Spider-Man: Brand New Day réussit une bonne partie de son pari. Pourtant, dès qu'on gratte sous le vernis…",
-          "published": "2026-07-31T10:22:00+00:00"
-        },
-        {
-          "title": "Tim Cook part sur un record, mais lègue un problème européen à son successeur",
-          "link": "https://www.clubic.com/actualite-623602-tim-cook-part-sur-un-record-mais-legue-un-probleme-europeen-a-son-successeur.html",
-          "source": "Clubic",
-          "summary": "Cupertino a longtemps juré que la régulation ne ferait de mal qu'à ses utilisateurs. Ses derniers résultats trimestriels racontent une autre histoire : cette fois, c'est le tiroir-caisse des Services qui grince.",
-          "published": "2026-07-31T10:18:00+00:00"
-        },
-        {
-          "title": "L’enceinte Bluetooth idéale pour l’été est signée JBL, et elle est déjà en promo à 40 €",
-          "link": "https://www.frandroid.com/bons-plans/3065931_lenceinte-bluetooth-ideale-pour-lete-est-signee-jbl-et-elle-est-deja-en-promo-a-40",
-          "source": "Frandroid",
-          "summary": "Si vous cherchez le compagnon audio idéal pour l'été, la nouvelle JBL Go 5 a de solides arguments. Avec son format ultra-compact, son design renforcé et sa conception parée pour l'extérieur, elle est parfaite à emmener…",
-          "published": "2026-07-31T10:15:23+00:00"
-        },
-        {
-          "title": "IA agentique et données personnelles, un joli bazar",
-          "link": "https://next.ink/249726/ia-agentique-et-donnees-personnelles-un-joli-bazar/",
+          "title": "Vous ne voulez pas des Aperçus IA de Google ? Voici comment s’en débarrasser",
+          "link": "https://next.ink/249588/vous-ne-voulez-pas-des-apercus-ia-de-google-voici-comment-sen-debarrasser/",
           "source": "Next",
-          "summary": "Comment concilier protection des données et IA agentique&#160;? Dans une note publiée le 20 juillet, le CIANum (Conseil de l’IA et du Numérique) et la CNIL se sont penchés sur la question, pointant le vaste changement…",
-          "published": "2026-07-31T10:14:42+00:00"
+          "summary": "Comment contourner les résumés IA de Google ? Next fait un tour d’horizon des solutions disponibles, mais attention : toutes ne se valent pas, loin de là. Ça y est, les résumés IA apparaissent en haut des recherches…",
+          "published": "2026-07-31T13:54:33+00:00"
         },
         {
-          "title": "Lunettes d’éclipse solaire : où acheter des modèles aux normes avant le 12 août 2026 ?",
-          "link": "https://www.numerama.com/sciences/2237131-lunettes-eclipse-solaire-2026-modeles-certifies-prix-et-ou-les-acheter.html",
+          "title": "Ces smartphones Android de Samsung et Nothing viennent d’être interdits à la vente en France",
+          "link": "https://www.numerama.com/tech/2305083-ces-smartphones-android-de-samsung-et-nothing-viennent-detre-interdits-a-la-vente-en-france.html",
           "source": "Numerama",
-          "summary": "E-commerçants, pharmacie, opticien, boutique d’astronomie ou distribution gratuite : plusieurs solutions existent pour acheter des lunettes avant l’éclipse solaire du 12 août 2026. Voici les modèles dont nous avons…",
-          "published": "2026-07-31T10:10:22+00:00"
+          "summary": "L'agence nationale des fréquences annonce que quatre modèles de téléphone, deux deux sont fabriqués par Samsung et Nothing, sont retirés de la vente en France.",
+          "published": "2026-07-31T13:45:00+00:00"
         },
         {
-          "title": "Les PS5 ne manqueront pas : Sony assure avoir prévu assez de RAM pour accompagner la sortie de GTA 6",
-          "link": "https://www.frandroid.com/marques/sony/3200105_les-ps5-ne-manqueront-pas-sony-assure-avoir-prevu-assez-de-ram-pour-accompagner-la-sortie-de-gta-6",
+          "title": "Apple augmente ses prix, mais Amazon fait baisser celui de l’Apple TV 4K 2022",
+          "link": "https://www.frandroid.com/bons-plans/3188215_apple-augmente-ses-prix-mais-amazon-fait-baisser-celui-de-lapple-tv-4k-2022",
           "source": "Frandroid",
-          "summary": "Dans le cadre de la publication de ses derniers résultats trimestriels, Sony a confirmé, en creux, avoir prévu suffisamment de PlayStation 5 pour accompagner la hausse des ventes pressentie dans le contexte d'un…",
-          "published": "2026-07-31T10:08:27+00:00"
+          "summary": "L'Apple TV 4K (2022) est le dernier boîtier multimédia en date de la marque. Récemment, il a subi une hausse de prix faisant grimper son tarif à 229 euros. Heureusement, on le trouve en ce moment chez Amazon à 161…",
+          "published": "2026-07-31T13:34:08+00:00"
         },
         {
-          "title": "Le film Elden Ring de A24 vient de franchir une étape importante vers sa sortie",
-          "link": "https://www.numerama.com/pop-culture/2304737-le-film-elden-ring-de-a24-vient-de-franchir-une-etape-importante-vers-sa-sortie.html",
+          "title": "Joli coup pour Airbus, qui va développer un satellite espagnol résistant aux impulsions nucléaires et au brouillage",
+          "link": "https://www.clubic.com/actualite-623665-joli-coup-pour-airbus-qui-va-developper-un-satellite-espagnol-resistant-aux-impulsions-nucleaires-et-au-brouillage.html",
+          "source": "Clubic",
+          "summary": "Airbus va construire le nouveau satellite espagnol de communications sécurisées? SpainSat NG-III? commandé par l'opérateur Hisdesat. le programme militaire, conçu pour l'Espagne et l'OTAN, doit renforcer l'autonomie…",
+          "published": "2026-07-31T13:29:00+00:00"
+        },
+        {
+          "title": "Xbox : dernier jour pour acheter une console avant la hausse de prix mondiale",
+          "link": "https://www.frandroid.com/produits-android/console/console-de-jeux/3200719_xbox-dernier-jour-pour-acheter-une-console-avant-la-hausse-de-prix-mondiale",
+          "source": "Frandroid",
+          "summary": "Microsoft relève le prix de ses Xbox partout dans le monde dès le 1er août. En France, il ne reste que quelques heures pour s'équiper au tarif actuel.",
+          "published": "2026-07-31T13:26:27+00:00"
+        },
+        {
+          "title": "SpaceX livre les images de ses premiers Starlink V3 en orbite, cap sur le très haut débit",
+          "link": "https://www.clubic.com/actualite-623659-spacex-livre-les-images-de-ses-premiers-starlink-v3-en-orbite-cap-sur-le-tres-haut-debit.html",
+          "source": "Clubic",
+          "summary": "SpaceX vient de dévoiler les premières images de ses satellites Starlink V3 en pleine action en orbite. Une étape clé avant un bond de capacité inédit pour la constellation.",
+          "published": "2026-07-31T13:26:00+00:00"
+        },
+        {
+          "title": "☕️ Google Earth permet maintenant d’ajouter ce qui n’existe pas",
+          "link": "https://next.ink/brief-article/google-earth-permet-maintenant-dajouter-ce-qui-nexiste-pas/",
+          "source": "Next",
+          "summary": "Google a eu une drôle d&#8217;idée : intégrer Nano Banana 2, son modèle IA de génération d&#8217;images, dans Google Earth. Il devient maintenant possible d&#8217;« améliorer » des éléments présents dans les images…",
+          "published": "2026-07-31T13:12:37+00:00"
+        },
+        {
+          "title": "« Je suis convaincu que nous pouvons y parvenir » : le patron de Mazda confirme travailler sur une MX-5 100 % électrique",
+          "link": "https://www.numerama.com/vroom/2304895-je-suis-convaincu-que-nous-pouvons-y-parvenir-le-patron-de-mazda-confirme-travailler-sur-une-mx-5-100-electrique.html",
           "source": "Numerama",
-          "summary": "Le tournage du film Elden Ring, adaptation signée Alex Garland, est désormais terminé. Mais il y a encore de longs mois de post-production pour donner vie à l'Entre-Terre à l'écran.",
-          "published": "2026-07-31T10:04:00+00:00"
+          "summary": "Bientôt une MX-5 électrique ? Le patron de Mazda affirme plancher sur la question. Repenser une telle icône ne s'annonce pas comme une mince affaire. L'enjeu de taille restera le poids.",
+          "published": "2026-07-31T13:12:21+00:00"
+        },
+        {
+          "title": "1,1 milliard d'euros : l'État vend une partie de ses parts dans Orange",
+          "link": "https://www.clubic.com/actualite-623662-milliard-d-euros-l-etat-vend-une-partie-de-ses-parts-dans-orange.html",
+          "source": "Clubic",
+          "summary": "C'est une opération importante. L'État revend une petite partie de sa participation dans le capital de l'opérateur Orange.",
+          "published": "2026-07-31T13:11:00+00:00"
+        },
+        {
+          "title": "Scam, phishing : Malwarebytes déploie une flopée d'outils gratuits pour votre smartphone",
+          "link": "https://www.clubic.com/actualite-623632-malwarebytes-booste-son-detecteur-anti-scam.html",
+          "source": "Clubic",
+          "summary": "Près d'un utilisateur sur deux affirme être confronté à une arnaque sur son smartphone chaque jour, selon une enquête menée par Malwarebytes en 2025 auprès de 1 300 personnes aux États-Unis et en Europe.",
+          "published": "2026-07-31T13:05:00+00:00"
+        },
+        {
+          "title": "« 0 mm de bordures : Tecno présente un smartphone avec un écran vraiment sans bordures",
+          "link": "https://www.frandroid.com/marques/tecno/3200685_0-mm-de-bordures-tecno-un-smartphone-avec-un-ecran-vraiment-sans-bordures",
+          "source": "Frandroid",
+          "summary": "En amont de l'IFA, Tecno dévoile un nouveau concept phone, le Next-Gen Bezelless Concept Phone. Il propose un écran totalement bord à bord, sans aucune bordure en façade.",
+          "published": "2026-07-31T13:02:54+00:00"
+        },
+        {
+          "title": "Garmin Venu 4 : cette excellente montre notée 9/10 est à prix cassé sur Amazon (-30 %)",
+          "link": "https://www.frandroid.com/bons-plans/2968497_garmin-venu-4-cette-excellente-montre-notee-9-10-est-a-prix-casse-sur-amazon",
+          "source": "Frandroid",
+          "summary": "Notée 9/10, la Garmin Venu 4 allie un design élégant et discret à des fonctionnalités sportives avancées, le tout avec une bonne autonomie. Et bonne nouvelle pour les sportifs : son prix chute à 385 euros contre 549…",
+          "published": "2026-07-31T12:40:13+00:00"
         }
       ]
     }
