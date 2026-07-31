@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-07-30T22:04:14.012221+00:00",
+  "generated_at": "2026-07-31T02:42:13.798758+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "​Bande de Gaza : Donald Trump annonce un accord sur le désarmement du Hamas",
+          "link": "https://www.lemonde.fr/international/article/2026/07/31/bande-de-gaza-donald-trump-annonce-un-accord-sur-le-desarmement-du-hamas_6737076_3210.html",
+          "source": "Le Monde",
+          "summary": "Ni le Hamas, ni Israël n’ont pour l’heure officiellement confirmé un tel accord. Le président américain affirme que les forces israéliennes se retireront du territoire palestinien « à mesure que le désarmement s’achève…",
+          "published": "2026-07-30T23:53:54+00:00"
+        },
+        {
+          "title": "En direct : Donald Trump dit qu'Israël quittera Gaza une fois le Hamas désarmé",
+          "link": "https://www.france24.com/fr/moyen-orient/20260730-en-direct-moyen-orient-gaza-iran-accord-desarmement-hamas-israel-donald-trump-ormuz",
+          "source": "France 24",
+          "summary": "Donald Trump a affirmé jeudi qu'Israël quitterait la bande de Gaza une fois le Hamas désarmé, après avoir annoncé la conclusion d'un accord par son Conseil de paix. Sur un autre front, les négociations entre Washington…",
+          "published": "2026-07-30T23:30:49+00:00"
+        },
+        {
+          "title": "La nomination du futur ambassadeur de France à Washington compromise par les humeurs de l’administration Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/07/31/la-nomination-du-futur-ambassadeur-de-france-a-washington-compromise-par-les-humeurs-de-l-administration-trump_6737075_3210.html",
+          "source": "Le Monde",
+          "summary": "Programmé en septembre, le départ d’Aurélien Lechevallier pour les Etats-Unis sera ajourné, voire bloqué, en raison d’un désaccord diplomatique au sujet de la non-reconduction de Volker Türk à la tête du…",
+          "published": "2026-07-30T23:30:40+00:00"
+        },
+        {
+          "title": "🔴 Donald Trump revendique un accord sur le \"désarmement complet\" du Hamas à Gaza",
+          "link": "https://www.france24.com/fr/moyen-orient/20260730-gaza-donald-trump-accord-desarmement-complet-hamas-israel-conseil-de-la-paix",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-07-30T23:12:46+00:00"
+        },
+        {
+          "title": "Un afflux massif de migrants à Ceuta ravive les tensions entre Madrid et Rabat",
+          "link": "https://www.lemonde.fr/international/article/2026/07/31/un-afflux-massif-de-migrants-a-ceuta-ravive-les-tensions-entre-madrid-et-rabat_6737073_3210.html",
+          "source": "Le Monde",
+          "summary": "Des centaines de personnes, des jeunes hommes et des adolescents dans leur immense majorité, ont soudainement rejoint par la mer, jeudi, depuis le Maroc, l’enclave espagnole située sur continent africain.",
+          "published": "2026-07-30T23:00:03+00:00"
+        },
+        {
+          "title": "Etats-Unis : un père condamné à quinze ans de prison pour avoir offert à son fils l’arme d’une tuerie scolaire",
+          "link": "https://www.lemonde.fr/international/article/2026/07/31/etats-unis-un-pere-condamne-a-15-ans-de-prison-pour-avoir-offert-a-son-fils-l-arme-d-une-tuerie-scolaire_6737072_3210.html",
+          "source": "Le Monde",
+          "summary": "En 2023, Colin Gray avait donné un fusil d’assaut à son fils Colt pour Noël, alors que l’adolescent avait préalablement menacé d’ouvrir le feu dans une école. Cet homme de 55 ans est le premier parent américain à être…",
+          "published": "2026-07-30T22:45:43+00:00"
+        },
         {
           "title": "Ukraine : Zelensky accuse la Corée du Nord d'avoir fourni le missile ayant décimé une famille",
           "link": "https://www.france24.com/fr/europe/20260730-ukraine-russie-zelensky-accuse-coree-du-nord-missile-decim%C3%A9-famille-kryvyi-rig",
@@ -16,7 +58,7 @@
           "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade-apres-la-chute-d-un-missile-presume-russe-en-pologne_6732775_3210.html",
           "source": "Le Monde",
           "summary": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. La présidente de la Commission européenne, Ursula von der Leyen, a fustigé une…",
-          "published": "2026-07-30T21:45:38+00:00"
+          "published": "2026-07-30T21:45:36+00:00"
         },
         {
           "title": "Incendies : accalmie espérée en France et en Espagne, de nouveaux feux de forêt gagnent l'Europe",
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "",
           "published": "2026-07-30T18:32:08+00:00"
-        },
-        {
-          "title": "Le Bénin installe officiellement le Sénat, une nouvelle chambre du Parlement",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-le-b%C3%A9nin-installe-officiellement-le-s%C3%A9nat-une-nouvelle-chambre-du-parlement",
-          "source": "France 24",
-          "summary": "Le Bénin a officiellement installé son Sénat, nouvelle chambre du Parlement issue de la révision constitutionnelle de 2025, ce jeudi. La cérémonie a été marquée par la présence côte à côte des anciens présidents Patrice…",
-          "published": "2026-07-30T18:25:57+00:00"
-        },
-        {
-          "title": "Guerre en Iran : la rhétorique belliciste de Donald Trump, reflet de l’enlisement américain",
-          "link": "https://www.lemonde.fr/international/article/2026/07/30/guerre-en-iran-la-rhetorique-belliciste-de-donald-trump-reflet-de-l-enlisement-americain_6737068_3210.html",
-          "source": "Le Monde",
-          "summary": "Depuis le lancement du conflit contre la République islamique par les Etats-Unis et Israël en février, le président américain multiplie les menaces et les déclarations de victoire, sans craindre de se contredire d’un…",
-          "published": "2026-07-30T18:25:22+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : les gardiens de la révolution iraniens affirment avoir visé une base américaine à Bahreïn",
-          "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-iraniens-affirment-avoir-vise-une-base-americaine-a-bahrein_6725301_3210.html",
-          "source": "Le Monde",
-          "summary": "L’Iran avait revendiqué plus tôt dans la journée la destruction de trois F-35 sur une base américaine en Jordanie, en représailles à une attaque américaine contre l’île iranienne de Qechm, des affirmations démenties par…",
-          "published": "2026-07-30T18:17:18+00:00"
-        },
-        {
-          "title": "L’Inde adopte une loi contre les fraudes aux examens, dénoncées par les étudiants",
-          "link": "https://www.lemonde.fr/international/article/2026/07/30/l-inde-adopte-une-loi-contre-les-fraudes-aux-examens-denoncees-par-les-etudiants_6737067_3210.html",
-          "source": "Le Monde",
-          "summary": "La colère étudiante est née de fraudes massives lors d’un concours national d’entrée en médecine organisé en mai, auquel plus de 2 millions de candidats s’étaient présentés.",
-          "published": "2026-07-30T18:16:15+00:00"
-        },
-        {
-          "title": "Espagne : des centaines de personnes entrées illégalement dans l’enclave espagnole de Ceuta",
-          "link": "https://www.lemonde.fr/international/video/2026/07/30/espagne-des-centaines-de-personnes-entrees-illegalement-dans-l-enclave-espagnole-de-ceuta_6737065_3210.html",
-          "source": "Le Monde",
-          "summary": "De nombreuses images montrent des dizaines d’hommes et d’adolescents arriver à la nage, du Maroc voisin, sur les côtes de l’enclave espagnole.",
-          "published": "2026-07-30T18:00:10+00:00"
-        },
-        {
-          "title": "Mali : 35 ans après la conférence nationale, où en est le pays ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-mali-35-ans-apr%C3%A8s-la-conf%C3%A9rence-nationale-o%C3%B9-en-est-le-pays",
-          "source": "France 24",
-          "summary": "Le 29 juillet 1991, le Mali ouvrait sa Conférence nationale après des décennies de dictature sous Moussa Traoré. Une constitution, un multipartisme et une promesse démocratique saluée dans tout le continent. 35 ans plus…",
-          "published": "2026-07-30T17:59:11+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Orchestre philharmonique du Québec | Le chef Alexandre Da Costa part prématurément",
-          "link": "https://www.lapresse.ca/arts/musique/2026-07-30/orchestre-philharmonique-du-quebec/le-chef-alexandre-da-costa-part-prematurement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Chutes mortelles | Deux randonneurs morts en quatre jours à Banff",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-30/chutes-mortelles/deux-randonneurs-morts-en-quatre-jours-a-banff.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’Orchestre philharmonique du Québec a annoncé jeudi le départ d’Alexandre Da Costa, son chef attitré, qui occupait la fonction de directeur artistique. Son mandat a été écourté d’un commun accord, indique l’Orchestre…",
-          "published": "2026-07-30T21:17:13+00:00"
+          "summary": "Une deuxième personne est décédée en moins d’une semaine à la suite d’une chute au parc national de Banff, en Alberta. La jeune femme dans la vingtaine est tombée en montant le mont Marvel, mardi, selon les autorités…",
+          "published": "2026-07-31T02:25:24+00:00"
         },
         {
-          "title": "OTAN | La présumée espionne canadienne conteste sa détention en Belgique",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-07-30/otan/la-presumee-espionne-canadienne-conteste-sa-detention-en-belgique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Saint-Hyacinthe | Deux personnes blessées grièvement après une collision sur la 20",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-30/saint-hyacinthe/deux-personnes-blessees-grievement-apres-une-collision-sur-la-20.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Canadienne d’origine chinoise, arrêtée la semaine dernière en Belgique pour espionnage présumé dans un centre d’opération de l’OTAN, a interjeté appel de sa détention provisoire d’un mois.",
-          "published": "2026-07-30T21:10:03+00:00"
+          "summary": "Une collision frontale entre deux véhicules sur l’autoroute 20 à Saint-Hyacinthe a fait deux blessés graves.",
+          "published": "2026-07-31T02:17:04+00:00"
         },
         {
-          "title": "Félix Auger-Aliassime arrive à Montréal avec de hautes attentes",
-          "link": "https://www.ledevoir.com/sports/998789/felix-auger-aliassime-arrive-montreal-hautes-attentes",
+          "title": "L’IA d’Anthropic a accédé sans autorisation aux systèmes d’autres organisations",
+          "link": "https://www.ledevoir.com/economie/techno/998861/ia-anthropic-accede-autorisation-systemes-autres-organisations",
           "source": "Le Devoir",
-          "summary": "Désormais quatrième au monde, l’athlète québécois se dit confiant et au sommet de sa forme.",
-          "published": "2026-07-30T20:59:00+00:00"
+          "summary": "Parmi les modèles concernés figurait l’un de ses plus puissants, Mythos 5.",
+          "published": "2026-07-31T02:15:33+00:00"
         },
         {
-          "title": "Le ministre Lightbound défend la décision de mettre fin aux redevances des grands diffuseurs",
-          "link": "https://www.journaldemontreal.com/2026/07/30/le-ministre-lightbound-defend-la-decision-de-mettre-fin-aux-redevances-des-grands-diffuseurs",
-          "source": "Journal de Montreal",
-          "summary": "En entrevue, le lieutenant du Québec pour le gouvernement Carney a défendu l’abandon des redevances exigées aux plateformes de diffusion américaines.",
-          "published": "2026-07-30T20:56:23+00:00"
-        },
-        {
-          "title": "«Une épreuve terrible»: George Clooney forcé d’évacuer sa maison en France",
-          "link": "https://www.journaldemontreal.com/2026/07/30/une-epreuve-terrible-george-clooney-force-devacuer-sa-maison-en-france",
-          "source": "Journal de Montreal",
-          "summary": "L’acteur américain George Clooney et sa femme, Amal, ont dû évacuer de leur résidence dans le sud-est de la France.",
-          "published": "2026-07-30T20:49:12+00:00"
-        },
-        {
-          "title": "Adolescent tué à Shawinigan | Philippe Benoit comparait depuis son lit d’hôpital",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-30/adolescent-tue-a-shawinigan/philippe-benoit-comparait-depuis-son-lit-d-hopital.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "C’est de son lit d’hôpital que l’homme de 41 ans, retrouvé mercredi après quatre jours de cavale à Lac-aux-Sables, a comparu moins de 24 h après son arrestation, dans le secteur du Lac Veillette. Philippe Benoit est…",
-          "published": "2026-07-30T20:48:33+00:00"
-        },
-        {
-          "title": "Québec retarde encore la publication des nouvelles cartes des zones inondables",
-          "link": "https://www.ledevoir.com/politique/quebec/998771/quebec-retarde-encore-publication-nouvelles-cartes-zones-inondables",
+          "title": "La Maison-Blanche se saisit des images de migrants en Espagne pour défendre sa politique",
+          "link": "https://www.ledevoir.com/monde/etats-unis/998858/maison-blanche-saisit-images-migrants-espagne-defendre-politique",
           "source": "Le Devoir",
-          "summary": "Pourtant, la cartographie est «prête depuis un bout de temps», explique le maire de Deux-Montagnes.",
-          "published": "2026-07-30T20:43:38+00:00"
+          "summary": "«Votre maison sera détruite et pillée par des envahisseurs», assure un proche conseiller de Donald Trump.",
+          "published": "2026-07-31T02:02:42+00:00"
         },
         {
-          "title": "Les clients se ruent sur les produits surgelés pour lutter contre l’inflation, dit Loblaw",
-          "link": "https://www.ledevoir.com/economie/998774/clients-ruent-produits-surgeles-lutter-contre-inflation-dit-loblaw",
+          "title": "Mark Carney dénonce des tirs «révoltants» contre une mosquée à Winnipeg",
+          "link": "https://www.ledevoir.com/politique/canada/998855/mark-carney-denonce-tirs-revoltants-contre-mosquee-winnipeg",
           "source": "Le Devoir",
-          "summary": "L’entreprise derrière Maxi, Provigo et Pharmaprix a observé une croissance des ventes de légumes surgelés.",
-          "published": "2026-07-30T20:40:00+00:00"
+          "summary": "La centre islamique Rahma a été la cible de l’attaque mercredi soir.",
+          "published": "2026-07-31T01:44:00+00:00"
         },
         {
-          "title": "Des «progrès» contre un incendie dans l'est de l'Angleterre, une centaine de pompiers mobilisés",
-          "link": "https://www.journaldemontreal.com/2026/07/30/une-centaine-de-pompiers-mobilises-contre-un-incendie-dans-lest-de-langleterre",
-          "source": "Journal de Montreal",
-          "summary": "Les pompiers luttent jeudi «dans des conditions difficiles» contre un incendie dans le Suffolk, dans l’est de l’Angleterre.",
-          "published": "2026-07-30T20:31:41+00:00"
-        },
-        {
-          "title": "50 ans des Jeux de Montréal | Un accueil digne d’une rock star pour Nadia Comăneci",
-          "link": "https://www.lapresse.ca/sports/jeux-olympiques/2026-07-30/50-ans-des-jeux-de-montreal/un-accueil-digne-d-une-rock-star-pour-nadia-comaneci.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Montréal | Deux policiers du SPVM agressés dans Villeray",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-30/montreal/deux-policiers-du-spvm-agresses-dans-villeray.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Nadia Comăneci était sollicitée de toutes parts, jeudi, à l’angle du boulevard René-Lévesque et de la côte du Beaver Hall. Entre les entrevues et les poses pour les photographes, la légendaire gymnaste recevait de…",
-          "published": "2026-07-30T20:30:52+00:00"
+          "summary": "Quatre personnes ont agressé deux policiers du SPVM après une intervention policière dans l’arrondissement de Villeray–Saint-Michel–Parc-Extension, dans la nuit de dimanche à lundi.",
+          "published": "2026-07-31T01:34:35+00:00"
+        },
+        {
+          "title": "Après OpenAI | L’IA d’Anthropic a accédé sans autorisation aux systèmes d’autres organisations",
+          "link": "https://www.lapresse.ca/affaires/techno/2026-07-30/apres-openai/l-ia-d-anthropic-a-accede-sans-autorisation-aux-systemes-d-autres-organisations.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La start-up américaine d’intelligence artificielle (IA) Anthropic a affirmé jeudi dans un communiqué que ses modèles avaient « obtenu un accès non autorisé » à trois organisations lors de tests pourtant censés les…",
+          "published": "2026-07-31T01:19:03+00:00"
+        },
+        {
+          "title": "Meurtre dans Ville-Émard | Au lendemain du drame, la famille et les voisins bouleversés",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-30/meurtre-dans-ville-emard/au-lendemain-du-drame-la-famille-et-les-voisins-bouleverses.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Moins de 24 heures après le meurtre de Marc Rivière, père de 42 ans, c’est la commotion dans le quartier de Ville-Émard. Tandis que ses proches s’enlacent et soulignent sa disparition brutale, des voisins, sur leur…",
+          "published": "2026-07-31T00:04:51+00:00"
+        },
+        {
+          "title": "Annulation de la « taxe Netflix » | Une décision désastreuse",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-07-30/annulation-de-la-taxe-netflix/une-decision-desastreuse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Désastreuse. C’est le seul mot qui me vient à l’esprit pour qualifier la décision du gouvernement Carney d’annuler l’application d’une taxe qui devait être imposée aux diffuseurs en ligne américains comme Netflix,…",
+          "published": "2026-07-30T23:30:00+00:00"
+        },
+        {
+          "title": "Six ans après la pandémie | La vanlife continue de faire des adeptes",
+          "link": "https://www.lapresse.ca/affaires/2026-07-30/six-ans-apres-la-pandemie/la-vanlife-continue-de-faire-des-adeptes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "On aurait pu croire à une mode éphémère qui s’essoufflerait après la pandémie, et pourtant, le nomadisme automobile, mieux connu sous le nom de vanlife, continue de faire des adeptes. Pas le temps de chômer chez les…",
+          "published": "2026-07-30T23:30:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Pourquoi le nouvel El Niño, déjà surnommé «Godzilla», inquiète les climatologues",
-          "link": "https://www.lefigaro.fr/sciences/pourquoi-le-nouvel-el-nino-deja-surnomme-godzilla-inquiete-les-climatologues-20260730",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - S’il n’a pas eu d’effet sur les récentes canicules en France, le phénomène naturel, combiné au changement climatique d’origine humaine, pourrait faire de l’année prochaine la plus chaude jamais enregistrée.",
-          "published": "2026-07-30T21:53:04+00:00"
-        },
-        {
-          "title": "L'Irak nie avoir approuvé les frappes américano-saoudiennes de mercredi",
-          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-irak-nie-avoir-approuve-les-frappes-americano-saoudiennes-de-mercredi_8129192.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le président américain Donald Trump avait affirmé que ces frappes avaient été \"coordonnées\" avec Bagdad.",
-          "published": "2026-07-30T21:49:26+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : le chancelier allemand, Friedrich Merz, dénonce « l’irresponsabilité de la Russie et sa volonté d’escalade » après la chute d’un missile présumé russe en Pologne",
-          "link": "https://www.lemonde.fr/international/live/2026/07/30/en-direct-guerre-en-ukraine-le-chancelier-allemand-friedrich-merz-denonce-l-irresponsabilite-de-la-russie-et-sa-volonte-d-escalade-apres-la-chute-d-un-missile-presume-russe-en-pologne_6732775_3210.html",
+          "title": "Guadeloupe : un bâtiment en travaux s’effondre à Pointe-à-Pitre, tuant un ouvrier",
+          "link": "https://www.lemonde.fr/outre-mer/article/2026/07/31/guadeloupe-un-batiment-en-travaux-s-effondre-a-pointe-a-pitre-tuant-un-ouvrier_6737078_1840826.html",
           "source": "Le Monde",
-          "summary": "Le commandement des forces de l’OTAN en Europe a, de son côté, assuré jeudi être en « contact étroit » avec les autorités polonaises. La présidente de la Commission européenne, Ursula von der Leyen, a fustigé une…",
-          "published": "2026-07-30T21:45:38+00:00"
+          "summary": "Un homme d’une vingtaine d’années est mort et trois autres ouvriers ont été blessés, dont l’un gravement. Une enquête pour « homicide involontaire et blessures involontaires au travail » a été ouverte.",
+          "published": "2026-07-31T02:11:15+00:00"
         },
         {
-          "title": "Neuf personnes sont mortes durant l'entrée massive de migrants à Ceuta, des centaines de personnes continuent de converger vers l'enclave",
-          "link": "https://www.franceinfo.fr/monde/espagne/neuf-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-de-ceuta-annonce-le-gouvernement-espagnol_8129108.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"Neuf corps\" de migrants ont été repêchés, a déclaré une porte-parole de la délégation du gouvernement, sans donner plus de précisions.",
-          "published": "2026-07-30T21:34:08+00:00"
+          "title": "Anthropic : des modèles d’IA ont accédé sans autorisation aux systèmes d’autres organisations",
+          "link": "https://www.lemonde.fr/pixels/article/2026/07/31/anthropic-des-modeles-d-ia-ont-accede-sans-autorisation-aux-systemes-d-autres-organisations_6737077_4408996.html",
+          "source": "Le Monde",
+          "summary": "Contrairement à l’incident impliquant OpenAI, Claude n’aurait, selon ses créateurs, pas « délibérément tenté de s’échapper de son environnement de test » mais seulement eu accès à Internet « en raison d’un malentendu »…",
+          "published": "2026-07-31T02:03:29+00:00"
         },
         {
-          "title": "Espagne : une grand-mère de 79 ans remporte le jackpot à la loterie mais ne peut retirer ses gains à cause de son mari décédé",
-          "link": "https://www.lefigaro.fr/international/espagne-une-grand-mere-de-79-ans-remporte-le-jackpot-a-la-loterie-mais-ne-peut-retirer-ses-gains-a-cause-de-son-mari-decede-20260730",
+          "title": "«Voici ce qui se passait sous Biden» : la Maison-Blanche utilise des images des migrants à Ceuta pour défendre sa politique",
+          "link": "https://www.lefigaro.fr/international/voici-ce-qui-se-passait-sous-biden-la-maison-blanche-utilise-des-images-des-migrants-a-ceuta-pour-defendre-sa-politique-20260731",
           "source": "Le Figaro",
-          "summary": "Inscrite à son insu sur le registre général des personnes interdites d’accès aux jeux de hasard, Carmen ne peut empocher ses 35.000€ de gains remportés en août 2025. Elle a déposé un recours administratif.",
-          "published": "2026-07-30T21:23:47+00:00"
+          "summary": "Deux hauts responsables de la Maison-Blanche se sont saisis jeudi d’images du passage de centaines de migrants du Maroc vers l’enclave espagnole de Ceuta pour alerter sur un éventuel retour au pouvoir des démocrates.",
+          "published": "2026-07-31T01:27:05+00:00"
         },
         {
-          "title": "Afflux massif de migrants à Ceuta : Madrid dénonce la «démagogie» de l’Italie qui veut suspendre l'Espagne de l'espace Schengen",
-          "link": "https://www.lefigaro.fr/flash-actu/afflux-massif-de-migrants-a-ceuta-l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-20260730",
+          "title": "Anthropic révèle que son IA a accédé sans autorisation aux systèmes informatiques de trois organisations",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/apres-openai-anthropic-revele-que-son-ia-a-accede-sans-autorisation-aux-systemes-informatiques-de-trois-organisations-20260731",
           "source": "Le Figaro",
-          "summary": "Madrid convoque l’ambassadeur italien à la suite des propos de Giorgia Meloni. Laquelle dit vouloir suspendre l’Espagne de l’espace Schengen, après l’arrivée de centaines de migrants à Ceuta en provenance du Maroc.",
-          "published": "2026-07-30T21:17:40+00:00"
+          "summary": "L’entreprise américaine d’intelligence artificielle a affirmé jeudi que ses modèles avaient «obtenu un accès non autorisé» à trois organisations lors de tests censés les empêcher d’accéder à des systèmes «réels».",
+          "published": "2026-07-31T01:10:12+00:00"
         },
         {
-          "title": "“Urgence humanitaire“ :  arrivée massive de migrants à Ceuta",
-          "link": "https://www.franceinfo.fr/monde/europe/migrants/urgence-humanitaire-arrivee-massive-de-migrants-a-ceuta_8129177.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Des centaines de personnes sont entrées illégalement à Ceuta (Espagne), jeudi 30 juillet, à la suite de rumeurs selon lesquelles la frontière ouvrirait à l'aube. Elles s'ajoutent aux plus de 1 500 personnes arrivées à…",
-          "published": "2026-07-30T21:02:43+00:00"
-        },
-        {
-          "title": "L'Italie veut suspendre l'Espagne de l'espace Schengen après que des centaines de migrants sont arrivés à Ceuta, Madrid dénonce la \"démagogie\" de Rome",
-          "link": "https://www.franceinfo.fr/monde/italie/l-italie-veut-suspendre-l-espagne-de-l-espace-schengen-apres-que-des-centaines-de-migrants-sont-arrives-a-ceuta-madrid-denonce-la-demagogie-de-rome_8129171.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le ministre des Affaires étrangères espagnol, José Luis Albares, a convoqué jeudi l'ambassadeur italien en signe de protestation.",
-          "published": "2026-07-30T20:59:36+00:00"
-        },
-        {
-          "title": "Henri Matisse : comment la lumière de Collioure a-t-elle donné un nouvel élan au chef de file du fauvisme ?",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/henri-matisse-comment-la-lumiere-de-collioure-a-t-elle-donne-un-nouvel-elan-au-chef-de-file-du-fauvisme_8129153.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "C’est à Collioure (Pyrénées-Orientales), petit village de pêcheurs, qu’Henri Matisse a réinventé sa peinture. Lui qui aimait immortaliser les scènes de sieste y redécouvre des couleurs vives et acidulées.",
-          "published": "2026-07-30T20:54:57+00:00"
-        },
-        {
-          "title": "Maroc : des centaines de personnes en route pour la frontière avec l’enclave espagnole de Ceuta",
-          "link": "https://www.lefigaro.fr/international/maroc-des-centaines-de-personnes-en-route-pour-la-frontiere-avec-l-enclave-espagnole-de-ceuta-20260730",
+          "title": "Donald Trump annonce un accord sur le «désarmement complet» du Hamas à Gaza",
+          "link": "https://www.lefigaro.fr/international/donald-trump-annonce-un-accord-sur-le-desarmement-complet-du-hamas-a-gaza-20260731",
           "source": "Le Figaro",
-          "summary": "Le passage en force ces derniers jours de plus de 1500 migrants dans l’enclave espagnole a créé un appel d’air auprès des candidats à l’émigration vers Europe.",
-          "published": "2026-07-30T20:50:20+00:00"
+          "summary": "Le président américain a en outre indiqué qu’Israël quitterait Gaza une fois le Hamas désarmé.",
+          "published": "2026-07-31T00:53:19+00:00"
+        },
+        {
+          "title": "Des hauts placés du Hamas confirment un accord sur les armes du mouvement et le retrait graduel d'Israël de Gaza",
+          "link": "https://www.lefigaro.fr/international/des-hauts-places-du-hamas-confirment-un-accord-sur-les-armes-du-mouvement-et-le-retrait-graduel-d-israel-de-gaza-20260731",
+          "source": "Le Figaro",
+          "summary": "Le mouvement islamiste palestinien compte sur les médiateurs et le Conseil de paix, créé en janvier par le président américain Donald Trump, pour obliger Israël à respecter les termes de l’accord.",
+          "published": "2026-07-31T00:52:40+00:00"
+        },
+        {
+          "title": "La Bourse de Séoul rebondit de 13%, Tokyo gagne 4%, la tech se ressaisit",
+          "link": "https://www.lefigaro.fr/flash-eco/la-bourse-de-seoul-rebondit-de-13-tokyo-gagne-4-la-tech-se-ressaisit-20260731",
+          "source": "Le Figaro",
+          "summary": "Les places financières asiatiques ont été revigorées par un sursaut des valeurs tech après des résultats encourageants de Microsoft.",
+          "published": "2026-07-31T00:29:24+00:00"
+        },
+        {
+          "title": "​Bande de Gaza : Donald Trump annonce un accord sur le désarmement du Hamas",
+          "link": "https://www.lemonde.fr/international/article/2026/07/31/bande-de-gaza-donald-trump-annonce-un-accord-sur-le-desarmement-du-hamas_6737076_3210.html",
+          "source": "Le Monde",
+          "summary": "Ni le Hamas, ni Israël n’ont pour l’heure officiellement confirmé un tel accord. Le président américain affirme que les forces israéliennes se retireront du territoire palestinien « à mesure que le désarmement s’achève…",
+          "published": "2026-07-30T23:53:54+00:00"
+        },
+        {
+          "title": "La nomination du futur ambassadeur de France à Washington compromise par les humeurs de l’administration Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/07/31/la-nomination-du-futur-ambassadeur-de-france-a-washington-compromise-par-les-humeurs-de-l-administration-trump_6737075_3210.html",
+          "source": "Le Monde",
+          "summary": "Programmé en septembre, le départ d’Aurélien Lechevallier pour les Etats-Unis sera ajourné, voire bloqué, en raison d’un désaccord diplomatique au sujet de la non-reconduction de Volker Türk à la tête du…",
+          "published": "2026-07-30T23:30:40+00:00"
+        },
+        {
+          "title": "John Textor, ancien président de l’OL, réclame 20 millions d’euros à la nouvelle direction du club",
+          "link": "https://www.lemonde.fr/sport/article/2026/07/31/john-textor-ancien-president-de-l-ol-reclame-20-millions-d-euros-a-la-nouvelle-direction-du-club_6737074_3242.html",
+          "source": "Le Monde",
+          "summary": "Evincé après de graves problèmes budgétaires, l’ex-actionnaire majoritaire du club a assigné les nouveaux dirigeants devant le tribunal de commerce pour le paiement de 18,4 millions d’euros au titre d’une avance à court…",
+          "published": "2026-07-30T23:11:55+00:00"
         }
       ]
     },
