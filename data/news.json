@@ -1,15 +1,22 @@
 {
-  "generated_at": "2026-07-31T22:04:12.864873+00:00",
+  "generated_at": "2026-08-01T02:40:54.246412+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : des milliers de personnes défilent à Kiev pour réclamer le retour de Mykhaïlo Fedorov au ministère de la défense",
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dément les affirmations iraniennes faisant état du blocage du trafic maritime dans le détroit d’Ormuz",
+          "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-l-armee-americaine-dement-les-affirmations-iraniennes-faisant-etat-du-blocage-du-trafic-maritime-dans-le-detroit-d-ormuz_6737099_3210.html",
+          "source": "Le Monde",
+          "summary": "L’armée américaine assure que la voie de navigation « reste ouverte aux navires commerciaux ». « L’Iran n’en a pas le contrôle. Des milliers de navires ont emprunté cette voie navigable internationale au cours des…",
+          "published": "2026-07-31T21:58:57+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : au moins quatre morts à Kiev après une attaque de missiles balistiques russes, selon les autorités ukrainiennes",
           "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-des-milliers-de-personnes-defilent-a-kiev-pour-reclamer-le-retour-de-mykhailo-fedorov-au-ministere-de-la-defense_6732775_3210.html",
           "source": "Le Monde",
-          "summary": "Très populaire, M. Fedorov avait été écarté, mi-juillet, par Volodymyr Zelensky en raison de ses divergences avec le commandant en chef des armées, Oleksandr Syrsky, lui aussi limogé depuis. Par ailleurs, Donald Trump a…",
-          "published": "2026-07-31T21:29:19+00:00"
+          "summary": "L’administration militaire de Kiev a fait également état d’au moins treize blessés suite à cette offensive russe. Elle précise qu’« un incendie s’est déclaré dans un immeuble de six étages, dans le [raïon] de…",
+          "published": "2026-07-31T21:29:15+00:00"
         },
         {
           "title": "Fabrication de missiles Patriot : Donald Trump revient sur son feu vert accordé à l'Ukraine",
@@ -66,13 +73,6 @@
           "source": "France 24",
           "summary": "En Somalie, l’avenir de la mission de l'Union africaine pour la stabilisation du pays est incertain. Les États-Unis mettront fin à leur financement de l’AUSSOM d’ici fin 2026, alors que la menace Shabab persiste. À la…",
           "published": "2026-07-31T18:23:10+00:00"
-        },
-        {
-          "title": "Rumeurs, appel d'air, passivité du Maroc... comment expliquer l'afflux inédit de migrants à Ceuta ?",
-          "link": "https://www.france24.com/fr/europe/20260731-rumeurs-appel-d-air-passivit%C3%A9-maroc-comment-expliquer-afflux-in%C3%A9dit-migrants-ceuta-espagne-sanchez",
-          "source": "France 24",
-          "summary": "Plusieurs hypothèses sont évoquées pour expliquer l'afflux soudain de 60 000 migrants à la frontière de l'enclave espagnole de Ceuta au Maroc. Si l'extrême droite européenne estime que la politique migratoire de Pedro…",
-          "published": "2026-07-31T18:04:28+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Vendre la Coupe du monde de soccer",
+          "link": "https://www.lapresse.ca/sports/chroniques/2026-07-31/vendre-la-coupe-du-monde-de-soccer.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La Coupe du monde de soccer est tellement lucrative, il faut croire que ce n’était qu’une question de temps avant que quelqu’un à la FIFA essaie d’en vendre une partie à des investisseurs.",
+          "published": "2026-08-01T02:30:00+00:00"
+        },
+        {
+          "title": "Poursuites abandonnées contre un ex-athlète accusé d’avoir dégradé le bassin réfléchissant",
+          "link": "https://www.ledevoir.com/monde/etats-unis/999161/poursuites-abandonnees-contre-ex-athlete-accuse-avoir-degrade-bassin-reflechissant",
+          "source": "Le Devoir",
+          "summary": "Le revêtement du lieu touristique avait connu de multiples problèmes dès son installation au printemps.",
+          "published": "2026-08-01T01:27:00+00:00"
+        },
+        {
+          "title": "Le patron de la FIFA fait marche arrière sur les investissements privés",
+          "link": "https://www.ledevoir.com/sports/999158/patron-fifa-fait-marche-arriere-investissements-prives",
+          "source": "Le Devoir",
+          "summary": "Le plan de Gianni Infantino était vivement critiqué sur le fond comme sur la forme.",
+          "published": "2026-08-01T01:05:00+00:00"
+        },
+        {
+          "title": "Zelensky demande de l’aide à Trump pour avoir l’autorisation d’utiliser Starlink",
+          "link": "https://www.ledevoir.com/monde/europe/999155/zelensky-demande-aide-trump-avoir-autorisation-utiliser-starlink",
+          "source": "Le Devoir",
+          "summary": "Kiev cherche des alternatives aux systèmes de défense aérienne américains Patriot pour se défendre contre la Russie.",
+          "published": "2026-08-01T00:30:00+00:00"
+        },
+        {
+          "title": "Accord sur le désarmement du Hamas | Une paix semée d’embûches",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-07-31/accord-sur-le-desarmement-du-hamas/une-paix-semee-d-embuches.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Donald Trump a annoncé jeudi une « entente HISTORIQUE » pour la paix dans la bande de Gaza. L’accord permettra-t-il d’apporter un répit dans le territoire palestinien ? Des écueils pointent déjà à l’horizon.",
+          "published": "2026-07-31T23:45:00+00:00"
+        },
+        {
+          "title": "Évènement antiavortement annulé  | L’ex-ministre Caroline Proulx condamnée à payer 60 000 $",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-07-31/evenement-antiavortement-annule/l-ex-ministre-caroline-proulx-condamnee-a-payer-60-000.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’ex-ministre du Tourisme Caroline Proulx devra payer des frais de 60 000 $ en rétribution pour avoir fait annuler un évènement antiavortement à Québec en 2023. Le juge au dossier estime que Mme Proulx a « abus[é] de…",
+          "published": "2026-07-31T23:33:58+00:00"
+        },
+        {
+          "title": "Fillette tuée durant un voyage à New York | La police new-yorkaise présente les données de la voiture de Frattolin au tribunal",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-31/fillette-tuee-durant-un-voyage-a-new-york/la-police-new-yorkaise-presente-les-donnees-de-la-voiture-de-frattolin-au-tribunal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les données de localisation provenant de la voiture conduite par Luciano Frattolin correspondent à la zone où les enquêteurs ont retrouvé le corps d’une jeune fille montréalaise tuée l’été dernier, a déclaré vendredi un…",
+          "published": "2026-07-31T22:56:19+00:00"
+        },
+        {
+          "title": "L’ex-ministre Proulx mise à l’amende pour avoir forcé l’annulation d’un événement antiavortement",
+          "link": "https://www.ledevoir.com/actualites/justice/999122/ministre-proulx-condamnee-payer-60-000-evenement-antiavortement-annule",
+          "source": "Le Devoir",
+          "summary": "L’élue a porté atteinte à la liberté d’expression de Harvest Ministries International, selon la Cour supérieure.",
+          "published": "2026-07-31T21:55:00+00:00"
+        },
+        {
+          "title": "Le changement climatique anthropique est à l’origine des feux d’Espagne et de France",
+          "link": "https://www.ledevoir.com/actualites/environnement/999119/changement-climatique-anthropique-est-origine-feux-espagne-france",
+          "source": "Le Devoir",
+          "summary": "«Nous devons cesser de brûler des combustibles fossiles», prévient une climatologue.",
+          "published": "2026-07-31T21:54:00+00:00"
+        },
+        {
           "title": "Sam Fender et Olivia Dean battent un record de 73 ans au Royaume-Uni",
           "link": "https://www.journaldemontreal.com/2026/07/31/sam-fender-et-olivia-dean-battent-un-record-de-73-ans-au-royaume-uni",
           "source": "Journal de Montreal",
           "summary": "La chanson Rein Me In des chanteurs britanniques Sam Fender et Olivia Dean est au sommet des palmarès depuis 19 semaines.",
           "published": "2026-07-31T21:06:14+00:00"
-        },
-        {
-          "title": "Le 10 millionième Tesla sort de l’usine",
-          "link": "https://www.guideautoweb.com/articles/82689/le-10-millionieme-tesla-sort-de-l-usine/",
-          "source": "Journal de Montreal",
-          "summary": "Tesla, qui a commencé avec son Roadster en 2008, a en effet assemblé son 10 millionième véhicule à l’échelle mondiale cette semaine.",
-          "published": "2026-07-31T21:00:00+00:00"
-        },
-        {
-          "title": "Un vieux billet, autographié par Nadia Comaneci, devient encore plus précieux",
-          "link": "https://www.journaldemontreal.com/2026/07/31/un-vieux-billet-autographie-par-nadia-comaneci-devient-encore-plus-precieux",
-          "source": "Journal de Montreal",
-          "summary": "Nadia Comaneci a fait le bonheur de la Québécoise Suzanne Le Blanc, vendredi après-midi.",
-          "published": "2026-07-31T20:59:15+00:00"
-        },
-        {
-          "title": "Montréal | Un incendie est survenu au campement Notre-Dame",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-07-31/montreal/un-incendie-est-survenu-au-campement-notre-dame.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un spectaculaire incendie s’est déclaré au campement Notre-Dame, une zone à forte population itinérante dans Mercier–Hochelaga-Maisonneuve, dans la nuit de jeudi à vendredi. L’incident, qui n’a fait aucun blessé, est…",
-          "published": "2026-07-31T20:54:29+00:00"
-        },
-        {
-          "title": "«Je n'ai entendu que des récits de violence»: les femmes âgées au premier plan de l'itinérance",
-          "link": "https://www.journaldemontreal.com/2026/07/31/je-nai-entendu-que-des-recits-de-violence-les-femmes-agees-au-premier-plan-de-litinerance",
-          "source": "Journal de Montreal",
-          "summary": "Les femmes âgées seraient au premier plan de l’itinérance au Québec, selon une travailleuse sociale.",
-          "published": "2026-07-31T20:43:47+00:00"
-        },
-        {
-          "title": "Omnium Banque Nationale: pas simples, les tournois allongés",
-          "link": "https://www.journaldemontreal.com/2026/07/31/omnium-banque-nationale--pas-simples-les-tournois-allonges",
-          "source": "Journal de Montreal",
-          "summary": "L’Omnium Banque Nationale compte 47 des 50 meilleurs joueurs au monde, mais les trois absents sont tous dans le top 5 et ça chatouille un peu.",
-          "published": "2026-07-31T20:40:35+00:00"
-        },
-        {
-          "title": "[IMAGES] Gaspésie: un autobus transportant 23 passagers se renverse en pleine nuit",
-          "link": "https://www.journaldemontreal.com/2026/07/31/gaspesie-un-autobus-de-23-passagers-fait-une-sortie-de-route",
-          "source": "Journal de Montreal",
-          "summary": "Un enfant en bas âge a été blessé, mais l’on ne craint pas pour sa vie, selon la Sûreté du Québec",
-          "published": "2026-07-31T20:39:12+00:00"
-        },
-        {
-          "title": "Une pluie d’honneurs pour Nadia Comaneci",
-          "link": "https://www.journaldemontreal.com/2026/07/31/une-pluie-dhonneurs-pour-nadia-comaneci",
-          "source": "Journal de Montreal",
-          "summary": "La reine des Jeux olympiques de Montréal a notamment reçu un doctorat honorifique à l’Université de Montréal.",
-          "published": "2026-07-31T20:27:35+00:00"
-        },
-        {
-          "title": "Pierre Poilievre juge son leadership intact après le départ de Richard Martel",
-          "link": "https://www.ledevoir.com/politique/canada/999107/pierre-poilievre-juge-leadership-intact-apres-depart-richard-martel",
-          "source": "Le Devoir",
-          "summary": "Son départ pour le Sénat fait fondre encore davantage le caucus conservateur à Ottawa.",
-          "published": "2026-07-31T20:25:00+00:00"
-        },
-        {
-          "title": "Temps d’attente au 811 | Une infirmière dénonce des dysfonctionnements systémiques",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-07-31/temps-d-attente-au-811/une-infirmiere-denonce-des-dysfonctionnements-systemiques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« On se dit qu’on est le département des miracles », s’exclame en entrevue une infirmière d’Info-Santé 811. La femme, qui ne souhaite pas que son nom soit révélé puisqu’elle est toujours employée de Santé Québec, sonne…",
-          "published": "2026-07-31T20:23:25+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
+          "title": "EN DIRECT - Incendies en France : le feu dans le Var «défie l’entendement» et a parcouru 1000 hectares, 2500 personnes évacuées",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
+          "source": "Le Figaro",
+          "summary": "Des évacuations de population ont été ordonnées vendredi après-midi dans des quartiers des communes de Correns et Montfort-sur-Argens en raison d’une reprise localisée de l’important incendie du Gros Bessillon, a…",
+          "published": "2026-08-01T01:49:02+00:00"
+        },
+        {
+          "title": "Cerné par les critiques, Gianni Infantino annonce le retrait du projet d’investissements privés de la Fifa",
+          "link": "https://www.lefigaro.fr/sports/football/gianni-infantino-annonce-le-retrait-du-projet-d-investissements-prives-de-la-fifa-apres-des-critiques-20260801",
+          "source": "Le Figaro",
+          "summary": "Le patron de la Fifa a annoncé samedi le retrait du projet d’ouverture de l’association aux investisseurs privés, face à la menace de boycott de l’UEFA et l’opposition affirmée des confédérations asiatique et américaine.",
+          "published": "2026-08-01T00:30:35+00:00"
+        },
+        {
+          "title": "Sous pression, Gianni Infantino renonce à son projet d’ouverture de la FIFA aux investisseurs privés",
+          "link": "https://www.lemonde.fr/football/article/2026/08/01/sous-pression-gianni-infantino-renonce-a-son-projet-d-ouverture-de-la-fifa-aux-investisseurs-prives_6737176_1616938.html",
+          "source": "Le Monde",
+          "summary": "Après les nombreuses critiques liées à la volonté de créer une société afin de gérer les activités commerciales de la FIFA et attirer des investisseurs extérieurs, dans l’optique d’accroître ses revenus, le patron de…",
+          "published": "2026-08-01T00:05:47+00:00"
+        },
+        {
+          "title": "Un incendie se déclare à la cathédrale Saint-Basile sur la place Rouge de Moscou",
+          "link": "https://www.lefigaro.fr/international/un-incendie-se-declare-a-la-cathedrale-saint-basile-sur-la-place-rouge-de-moscou-20260801",
+          "source": "Le Figaro",
+          "summary": "Les causes du sinistre n’ont pas été précisées mais l’agence d’État TASS, citant les services de secours, a indiqué qu’il s’était déclaré dans le bureau du directeur de l’église.",
+          "published": "2026-07-31T23:23:45+00:00"
+        },
+        {
+          "title": "«Nous sommes désolés» : deux lettres attribuées aux ravisseurs de la mère de la présentatrice américaine Savannah Guthrie révélées",
+          "link": "https://www.lefigaro.fr/international/nous-sommes-desoles-deux-lettres-attribuees-aux-ravisseurs-de-la-mere-de-la-presentatrice-americaine-savannah-guthrie-revelees-20260801",
+          "source": "Le Figaro",
+          "summary": "Un courrier reçu par plusieurs médias affirme que l’octogénaire est décédée à la suite d’un problème de santé.",
+          "published": "2026-07-31T23:05:58+00:00"
+        },
+        {
+          "title": "Après l’affaire Barbara Butch, la ministre de la culture veut renforcer les sanctions contre le délit d’entrave à un spectacle",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/01/apres-l-affaire-barbara-butch-la-ministre-de-la-culture-veut-renforcer-les-sanctions-contre-le-delit-d-entrave-a-un-spectacle_6737175_823448.html",
+          "source": "Le Monde",
+          "summary": "Catherine Pégard a annoncé, dans un entretien au « Parisien », l’envoi de deux circulaires destinées aux préfets et aux magistrats du siège. Elle évoque également son intention de renforcer la loi de 2016 relative à la…",
+          "published": "2026-07-31T22:58:02+00:00"
+        },
+        {
+          "title": "EN DIRECT, incendies : dans le Var, 2 500 personnes évacuées et 1 000 hectares parcourus par un feu « qui dépasse l’entendement », estime le préfet",
+          "link": "https://www.lemonde.fr/planete/live/2026/08/01/en-direct-incendies-dans-le-var-2-500-personnes-evacuees-et-1-000-hectares-parcourus-par-un-feu-qui-depasse-l-entendement-estime-le-prefet_6737097_3244.html",
+          "source": "Le Monde",
+          "summary": "Les flammes, attisées par un fort mistral, ont repris vers 13 h 30 au sud de l’incendie du massif du Gros Bessillon, qui avait été fixé mardi. En Gironde, « la crise n’est pas finie, le feu n’est pas fixé, mais on…",
+          "published": "2026-07-31T22:54:14+00:00"
+        },
+        {
+          "title": "Le policier soupçonné d’avoir éborgné le « gilet jaune » Jérôme Rodrigues sera jugé à l’été 2027, plus de huit ans après les faits",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/01/le-policier-soupconne-d-avoir-eborgne-le-gilet-jaune-jerome-rodrigues-sera-juge-a-l-ete-2027-plus-de-huit-ans-apres-les-faits_6737174_3224.html",
+          "source": "Le Monde",
+          "summary": "Le 26 janvier 2019, la victime avait été grièvement blessée lors d’une manifestation tendue des « gilets jaunes », place de la Bastille, à Paris.",
+          "published": "2026-07-31T22:50:51+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dément les affirmations iraniennes faisant état du blocage du trafic maritime dans le détroit d’Ormuz",
+          "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-l-armee-americaine-dement-les-affirmations-iraniennes-faisant-etat-du-blocage-du-trafic-maritime-dans-le-detroit-d-ormuz_6737099_3210.html",
+          "source": "Le Monde",
+          "summary": "L’armée américaine assure que la voie de navigation « reste ouverte aux navires commerciaux ». « L’Iran n’en a pas le contrôle. Des milliers de navires ont emprunté cette voie navigable internationale au cours des…",
+          "published": "2026-07-31T21:58:57+00:00"
+        },
+        {
           "title": "La France multiplie par cinq samedi le renfort de policiers et gendarmes à la frontière franco-espagnole",
           "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/la-france-multiplie-par-cinq-samedi-le-renfort-de-policiers-et-gendarmes-a-la-frontiere-franco-espagnole_8130686.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Cette décision porte à 334 le nombre de policiers et gendarmes déployés en renfort à la frontière franco-espagnole.",
           "published": "2026-07-31T21:54:27+00:00"
-        },
-        {
-          "title": "Donald Trump déclare vouloir faire \"très attention\" avant d'autoriser l'Ukraine à produire des missiles Patriot",
-          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-declare-vouloir-faire-tres-attention-avant-d-autoriser-l-ukraine-a-produire-des-missiles-patriot_8130692.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"Vous donnez cette technologie, et un jour, ils peuvent se retourner contre vous\", a-t-il mis en garde.",
-          "published": "2026-07-31T21:47:20+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies en France : le feu dans le Var «défie l’entendement» et a parcouru 1000 hectares, 2500 personnes évacuées",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
-          "source": "Le Figaro",
-          "summary": "Des évacuations de population ont été ordonnées vendredi après-midi dans des quartiers des communes de Correns et Montfort-sur-Argens en raison d’une reprise localisée de l’important incendie du Gros Bessillon, a…",
-          "published": "2026-07-31T21:43:09+00:00"
-        },
-        {
-          "title": "Importante reprise de feu dans le Var, le préfet ordonne l'évacuation de 2 500 personnes",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/importante-reprise-de-feu-dans-le-var-le-prefet-ordonne-l-evacuation-de-2-500-personnes_8130677.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le feu, qui a démarré vers 13h30 vendredi, a parcouru 1 000 hectares en six heures.",
-          "published": "2026-07-31T21:30:37+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : des milliers de personnes défilent à Kiev pour réclamer le retour de Mykhaïlo Fedorov au ministère de la défense",
-          "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-des-milliers-de-personnes-defilent-a-kiev-pour-reclamer-le-retour-de-mykhailo-fedorov-au-ministere-de-la-defense_6732775_3210.html",
-          "source": "Le Monde",
-          "summary": "Très populaire, M. Fedorov avait été écarté, mi-juillet, par Volodymyr Zelensky en raison de ses divergences avec le commandant en chef des armées, Oleksandr Syrsky, lui aussi limogé depuis. Par ailleurs, Donald Trump a…",
-          "published": "2026-07-31T21:29:19+00:00"
-        },
-        {
-          "title": "La Chine renforce ses capacités militaires en pillant les IA de la Silicon Valley, selon un rapport explosif",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/la-chine-renforce-ses-capacites-militaires-en-pillant-les-ia-de-la-silicon-valley-selon-un-rapport-explosif-20260731",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Une étude ayant analysé plus de 80 brevets et publications académiques chinoises en est arrivée à la conclusion que Pékin se servait abondamment dans les connaissances des IA américaines pour renforcer ses…",
-          "published": "2026-07-31T21:24:17+00:00"
-        },
-        {
-          "title": "L'Espagne assure que l'intégrité de l'espace Schengen reste \"absolument garantie\" après l'entrée illégale de migrants à Ceuta",
-          "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/l-espagne-assure-que-l-integrite-de-l-espace-schengen-reste-absolument-garantie-apres-l-entree-illegale-de-migrants-a-ceuta_8130668.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"Il n'est pas possible de se déplacer depuis Ceuta et Melilla jusque dans la péninsule [espagnole] sans s'identifier à un poste de contrôle de la police\", a martelé le ministre des Affaires étrangères espagnol.",
-          "published": "2026-07-31T20:56:07+00:00"
-        },
-        {
-          "title": "Google Earth retire son nouvel outil d'intelligence artificielle face aux risques de désinformation",
-          "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/google-earth-retire-son-nouvel-outil-d-intelligence-artificielle-face-aux-risques-de-desinformation_8130659.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Google a décidé de retirer cette fonctionnalité, \"le temps de mettre en place des garde-fous plus robustes\".",
-          "published": "2026-07-31T20:36:56+00:00"
-        },
-        {
-          "title": "Google retire un nouvel outil d’images satellitaires générées par IA de Google Earth après des critiques sur les risques de désinformation",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/google-retire-un-nouvel-outil-d-images-satellitaires-generees-par-ia-de-google-earth-apres-des-critiques-sur-les-risques-de-desinformation-20260731",
-          "source": "Le Figaro",
-          "summary": "Le géant américain a retiré, moins de 24 heures après son lancement, un outil de Google Earth capable de créer des images satellitaires générées par IA. Des chercheurs avaient alerté sur les risques de diffusion de faux…",
-          "published": "2026-07-31T20:31:35+00:00"
-        },
-        {
-          "title": "EN DIRECT, Ceuta : plus de 48 000 personnes sont déjà retournées au Maroc, annonce le gouvernement espagnol ; l’intégrité de l’espace Schengen est « absolument garantie », affirme le ministre des affaires étrangères",
-          "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-ceuta-plus-de-48-000-personnes-sont-deja-rentrees-au-maroc-annonce-le-gouvernement-espagnol-l-integrite-de-l-espace-schengen-est-absolument-garantie-affirme-le-ministre-des-affaires-etrangeres_6737133_3210.html",
-          "source": "Le Monde",
-          "summary": "De son côté, l’Italie a temporairement fermé l’espace Schengen à l’Espagne. Le ministère de l’intérieur espagnol avait annoncé plus tôt dans la journée que 50 000 personnes avaient afflué dans l’enclave depuis jeudi.",
-          "published": "2026-07-31T20:15:18+00:00"
         }
       ]
     },
