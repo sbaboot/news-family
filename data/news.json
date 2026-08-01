@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-08-01T05:54:02.849776+00:00",
+  "generated_at": "2026-08-01T08:18:27.915110+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Raffaele Simone, philosophe : « Contrairement à Paris, Rome se dévégétalise et se recouvre d’un travertin brûlant »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/01/raffaele-simone-philosophe-contrairement-a-paris-rome-se-devegetalise-et-se-recouvre-d-un-travertin-brulant_6737206_3232.html",
+          "source": "Le Monde",
+          "summary": "Alors que les célèbres pins de la capitale italienne s’effondrent, faute d’entretien, livrant la ville à des chaleurs écrasantes, le linguiste déplore, dans une tribune au « Monde », l’absence de toute politique verte…",
+          "published": "2026-08-01T08:00:09+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : après l’attaque qui a fait 9 morts à Kiev, Volodymyr Zelensky dénonce des dégâts dans dix-huit immeubles d’habitation",
+          "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-apres-l-attaque-qui-a-fait-9-morts-a-kiev-volodymyr-zelensky-denonce-des-degats-dans-dix-huit-immeubles-d-habitation_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a également affirmé que la Russie avait tiré pas moins de 35 missiles sur l’Ukraine, dont 27 balistiques, ainsi que 185 drones d’attaque, dans la nuit de vendredi à samedi.",
+          "published": "2026-08-01T07:50:27+00:00"
+        },
+        {
+          "title": "La cité engloutie de Baia révélée",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260801-la-cit%C3%A9-engloutie-de-baia-r%C3%A9v%C3%A9l%C3%A9e",
+          "source": "France 24",
+          "summary": "À une trentaine de kilomètres à l'ouest de Naples, Baia fut l'une des stations balnéaires les plus prestigieuses de l'Empire romain. Progressivement recouverte par la mer, elle continue de révéler ses secrets. Pour…",
+          "published": "2026-08-01T07:32:23+00:00"
+        },
+        {
+          "title": "L’exploitation éhontée de la crise de Ceuta",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/01/l-exploitation-ehontee-de-la-crise-de-ceuta_6737204_3232.html",
+          "source": "Le Monde",
+          "summary": "Responsables politiques de droite et d’extrême droite se sont précipités sur les images provenant de l’enclave espagnole située au nord du Maroc pour dénoncer l’imminence d’une vague migratoire et le danger que faisait…",
+          "published": "2026-08-01T07:30:05+00:00"
+        },
+        {
+          "title": "« C’était la chance de notre vie » : après un exil de seulement quelques heures à Ceuta, des dizaines de milliers de jeunes regagnent le Maroc",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/01/c-etait-la-chance-de-notre-vie-apres-un-exil-de-seulement-quelques-heures-a-ceuta-des-dizaines-de-milliers-de-jeunes-regagnent-le-maroc_6737202_3212.html",
+          "source": "Le Monde",
+          "summary": "Encouragées par des messages sur les réseaux sociaux, quelque 50 000 personnes ont rejoint illégalement l’enclave espagnole depuis jeudi 30 juillet, un afflux sans précédent. Mais la plupart d’entre elles ont déjà été…",
+          "published": "2026-08-01T07:28:47+00:00"
+        },
+        {
+          "title": "Pfas et cadmium : le guide pour boire et manger sans (trop) s'empoisonner (3/3)",
+          "link": "https://www.france24.com/fr/plan%C3%A8te/20260801-pfas-et-cadmium-guide-pour-boire-manger-sans-trop-s-empoisonner-polluants-eternels",
+          "source": "France 24",
+          "summary": "Du poison dans l'assiette (3/3). Les alertes sanitaires sur l'alimentation se sont multipliées ces dernières années, si bien qu'il semble désormais difficile d'échapper aux polluants dans l'assiette. Comment faire pour…",
+          "published": "2026-08-01T07:27:49+00:00"
+        },
         {
           "title": "Saint Levant et Bella Hadid: comment les égéries engagées redessinent le récit des marques de luxe",
           "link": "https://www.rfi.fr/fr/monde/20260801-saint-levant-et-bella-hadid-comment-les-%C3%A9g%C3%A9ries-engag%C3%A9es-redessinent-le-r%C3%A9cit-des-marques-de-luxe",
@@ -31,48 +73,6 @@
           "source": "RFI",
           "summary": "« Passer à table » : une expression employée dans la sphère policière, dans l’enquête : elle s'y prête doublement aussi quand il s’agit de manger ! En passant à table, chacun dévoile bien des habitudes révélatrices de…",
           "published": "2026-08-01T05:00:17+00:00"
-        },
-        {
-          "title": "Mohammed VI célèbre son règne en pleine crise migratoire avec l’Espagne",
-          "link": "https://www.lemonde.fr/international/article/2026/08/01/mohammed-vi-celebre-son-regne-en-pleine-crise-migratoire-avec-l-espagne_6737196_3210.html",
-          "source": "Le Monde",
-          "summary": "Environ 60 000 personnes ont rejoint clandestinement l’enclave espagnole, jeudi. Un nombre record, alors que le roi du Maroc fête ses vingt-sept ans sur le trône.",
-          "published": "2026-08-01T04:50:08+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump menace une nouvelle fois de frapper l’Iran « très fort »",
-          "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-au-moyen-orient-donald-trump-menace-une-nouvelle-fois-de-frapper-l-iran-tres-fort_6737099_3210.html",
-          "source": "Le Monde",
-          "summary": "Des médias américains ont rapporté que Washington envisageait de nouveaux bombardements massifs durant le week-end, auxquels pourrait participer Israël pour la première fois depuis la phase initiale de la guerre.",
-          "published": "2026-08-01T04:05:11+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : neuf morts à Kiev après une attaque de missiles balistiques russes, selon les secours ukrainiens",
-          "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-neuf-morts-a-kiev-apres-une-attaque-de-missiles-balistiques-russes-selon-les-secours-ukrainiens_6732775_3210.html",
-          "source": "Le Monde",
-          "summary": "« Un incendie s’est déclaré dans un immeuble de six étages, dans le raïon de Solomiansky à Kiev, à la suite de l’attaque », a déclaré l’administration militaire de Kiev. Selon les services de secours ukrainiens,…",
-          "published": "2026-08-01T03:57:58+00:00"
-        },
-        {
-          "title": "EN DIRECT, Ceuta : la France et l’Italie durcissent leurs contrôles frontaliers avec l’Espagne malgré les garanties formulées par Madrid",
-          "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-ceuta-la-france-et-l-italie-durcissent-leurs-controles-frontaliers-avec-l-espagne-malgre-les-garanties-formulees-par-madrid_6737133_3210.html",
-          "source": "Le Monde",
-          "summary": "La plupart des 50 000 migrants entrés illégalement dans l’enclave espagnole de Ceuta sont retournés au Maroc, et l’intégrité de l’espace Schengen est « absolument garantie », a affirmé le gouvernement espagnol.",
-          "published": "2026-08-01T03:56:07+00:00"
-        },
-        {
-          "title": "Au Pérou, l’ex-président Ollanta Humala est sorti de prison après l’annulation de sa condamnation pour blanchiment d’argent",
-          "link": "https://www.lemonde.fr/international/article/2026/08/01/au-perou-l-ex-president-ollanta-humala-est-sorti-de-prison-apres-l-annulation-de-sa-condamnation-pour-blanchiment-d-argent_6737186_3210.html",
-          "source": "Le Monde",
-          "summary": "A la tête du pays de 2011 à 2016, l’ancien chef d’Etat de 64 ans était l’un des quatre ex-présidents péruviens mis en cause dans le scandale de corruption Odebrecht, qui a éclaboussé une grande partie de l’Amérique…",
-          "published": "2026-08-01T03:44:10+00:00"
-        },
-        {
-          "title": "« La puissance ne repose plus seulement sur les territoires, les ressources ou l’armée : elle dépend de la capacité à contrôler les flux »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/01/la-puissance-ne-repose-plus-seulement-sur-les-territoires-les-ressources-ou-l-armee-elle-depend-de-la-capacite-a-controler-les-flux_6737183_3232.html",
-          "source": "Le Monde",
-          "summary": "Selon l’historien Xavier Carpentier-Tanguy, spécialiste des mondes marins, le bras de fer autour du détroit d’Ormuz révèle l’émergence d’une « rhéocratie », un nouvel ordre géopolitique où la puissance ne dépend plus…",
-          "published": "2026-08-01T03:00:36+00:00"
         }
       ]
     },
@@ -91,67 +91,67 @@
           "published": "2026-08-01T04:25:08+00:00"
         },
         {
-          "title": "Condamné à 22 mois de détention | Même en prison, un trafiquant d’armes harcèle un avocat",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-01/condamne-a-22-mois-de-detention/meme-en-prison-un-trafiquant-d-armes-harcele-un-avocat.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "D’entre les murs de la prison, un dangereux trafiquant d’armes à feu montréalais a harcelé un avocat du syndic du Barreau en l’appelant et en l’insultant à d’innombrables occasions. « Ça ne cessera pas », lui répétait…",
+          "title": "Vers une troisième année obligatoire de résidence de médecine familiale?",
+          "link": "https://www.ledevoir.com/actualites/sante/999071/vers-troisieme-annee-obligatoire-residence-medecine-familiale",
+          "source": "Le Devoir",
+          "summary": "Il s’agit toutefois d’un pari risqué alors que la profession est déjà en pénurie d’effectifs.",
           "published": "2026-08-01T04:00:00+00:00"
         },
         {
-          "title": "Alouettes 34 – Rouge et Noir 13 | La maestria de Davis Alexander",
-          "link": "https://www.lapresse.ca/sports/football/2026-07-31/alouettes-34-rouge-et-noir-13/la-maestria-de-davis-alexander.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Rien n’allait arrêter Davis Alexander et les Alouettes, vendredi soir. Encore moins un Rouge et Noir toujours sans victoire.",
-          "published": "2026-08-01T02:46:23+00:00"
-        },
-        {
-          "title": "Vendre la Coupe du monde de soccer",
-          "link": "https://www.lapresse.ca/sports/chroniques/2026-07-31/vendre-la-coupe-du-monde-de-soccer.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La Coupe du monde de soccer est tellement lucrative, il faut croire que ce n’était qu’une question de temps avant que quelqu’un à la FIFA essaie d’en vendre une partie à des investisseurs.",
-          "published": "2026-08-01T02:30:00+00:00"
-        },
-        {
-          "title": "Poursuites abandonnées contre un ex-athlète accusé d’avoir dégradé le bassin réfléchissant",
-          "link": "https://www.ledevoir.com/monde/etats-unis/999161/poursuites-abandonnees-contre-ex-athlete-accuse-avoir-degrade-bassin-reflechissant",
+          "title": "Quoi voir sur vos écrans cette fin de semaine?",
+          "link": "https://www.ledevoir.com/culture/cinema/999149/quoi-voir-ecrans-cette-fin-semaine",
           "source": "Le Devoir",
-          "summary": "Le revêtement du lieu touristique avait connu de multiples problèmes dès son installation au printemps.",
-          "published": "2026-08-01T01:27:00+00:00"
+          "summary": "Une sélection de nos critiques pour guider vos visionnages du week-end.",
+          "published": "2026-08-01T04:00:00+00:00"
         },
         {
-          "title": "Le patron de la FIFA fait marche arrière sur les investissements privés",
-          "link": "https://www.ledevoir.com/sports/999158/patron-fifa-fait-marche-arriere-investissements-prives",
+          "title": "Peut-on encore parler de médecin de «famille»?",
+          "link": "https://www.ledevoir.com/actualites/sante/999074/peut-on-encore-parler-medecin-famille",
           "source": "Le Devoir",
-          "summary": "Le plan de Gianni Infantino était vivement critiqué sur le fond comme sur la forme.",
-          "published": "2026-08-01T01:05:00+00:00"
+          "summary": "Dernièrement le terme même est remis en question par plusieurs internautes.",
+          "published": "2026-08-01T04:00:00+00:00"
         },
         {
-          "title": "Zelensky demande de l’aide à Trump pour avoir l’autorisation d’utiliser Starlink",
-          "link": "https://www.ledevoir.com/monde/europe/999155/zelensky-demande-aide-trump-avoir-autorisation-utiliser-starlink",
+          "title": "Le Musée d’art contemporain de Baie-Saint-Paul et «Gigue rouge» de Micheline Beauchemin",
+          "link": "https://www.ledevoir.com/culture/arts-visuels/998729/musee-art-contemporain-baie-saint-paul-gigue-rouge-micheline-beauchemin",
           "source": "Le Devoir",
-          "summary": "Kiev cherche des alternatives aux systèmes de défense aérienne américains Patriot pour se défendre contre la Russie.",
-          "published": "2026-08-01T00:30:00+00:00"
+          "summary": "Regard sur l’œuvre choisie par la directrice générale et conservatrice en chef Gabrielle Bouchard.",
+          "published": "2026-08-01T04:00:00+00:00"
         },
         {
-          "title": "Accord sur le désarmement du Hamas | Une paix semée d’embûches",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-07-31/accord-sur-le-desarmement-du-hamas/une-paix-semee-d-embuches.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Donald Trump a annoncé jeudi une « entente HISTORIQUE » pour la paix dans la bande de Gaza. L’accord permettra-t-il d’apporter un répit dans le territoire palestinien ? Des écueils pointent déjà à l’horizon.",
-          "published": "2026-07-31T23:45:00+00:00"
-        },
-        {
-          "title": "Évènement antiavortement annulé  | L’ex-ministre Caroline Proulx condamnée à payer 60 000 $",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-07-31/evenement-antiavortement-annule/l-ex-ministre-caroline-proulx-condamnee-a-payer-60-000.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’ex-ministre du Tourisme Caroline Proulx devra payer des frais de 60 000 $ en rétribution pour avoir fait annuler un évènement antiavortement à Québec en 2023. Le juge au dossier estime que Mme Proulx a « abus[é] de…",
-          "published": "2026-07-31T23:33:58+00:00"
-        },
-        {
-          "title": "L’ex-ministre Proulx mise à l’amende pour avoir forcé l’annulation d’un événement antiavortement",
-          "link": "https://www.ledevoir.com/actualites/justice/999122/ministre-proulx-condamnee-payer-60-000-evenement-antiavortement-annule",
+          "title": "«Les Simpson» québécois sont de retour",
+          "link": "https://www.ledevoir.com/culture/ecrans/999059/simpson-quebecois-sont-retour",
           "source": "Le Devoir",
-          "summary": "L’élue a porté atteinte à la liberté d’expression de Harvest Ministries International, selon la Cour supérieure.",
-          "published": "2026-07-31T21:55:00+00:00"
+          "summary": "Après avoir été menacé de disparaître, le doublage de la série d’animation américaine a repris à Montréal.",
+          "published": "2026-08-01T04:00:00+00:00"
+        },
+        {
+          "title": "Réconcilier justice sociale et finances publiques",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/999092/reconcilier-justice-sociale-finances-publiques",
+          "source": "Le Devoir",
+          "summary": "Entre le rêve et la prudence, la campagne électorale présente de grands défis aux partis en lice.",
+          "published": "2026-08-01T04:00:00+00:00"
+        },
+        {
+          "title": "En conversation avec Anyma Ora’, tête d’affiche de Présence autochtone",
+          "link": "https://www.ledevoir.com/culture/musique/998708/conversation-anyma-ora-tete-affiche-presence-autochtone",
+          "source": "Le Devoir",
+          "summary": "Sa chanson pop électronique marie le R&amp;B à ses racines wendates, qu’elle est honorée de pouvoir représenter sur scène.",
+          "published": "2026-08-01T04:00:00+00:00"
+        },
+        {
+          "title": "Le temps des pierres",
+          "link": "https://www.ledevoir.com/monde/asie/999023/temps-pierres",
+          "source": "Le Devoir",
+          "summary": "Les monastères sont à l’Arménie ce que le Colisée est à Rome, témoins de segments anciens du temps humain.",
+          "published": "2026-08-01T04:00:00+00:00"
+        },
+        {
+          "title": "Révolution des flamants roses",
+          "link": "https://www.ledevoir.com/opinion/chroniques/999035/revolution-flamants-roses",
+          "source": "Le Devoir",
+          "summary": "Ce que la famille Trump trame en Albanie peut tout à fait être compris comme une forme de colonialisme privé.",
+          "published": "2026-08-01T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Souviens-toi l’été d’avant la présidentielle : en 1994, aux racines du duel Chirac-Balladur",
-          "link": "https://www.liberation.fr/politique/souviens-toi-lete-davant-la-presidentielle-en-1994-aux-racines-du-duel-chirac-balladur-20260801_MDUIK2F6EFB73COYGIUB3C2UNU/",
+          "title": "Incendies et santé mentale : «L’impact psychologique sur la population sera majeur»",
+          "link": "https://www.liberation.fr/societe/sante/incendies-et-sante-mentale-limpact-psychologique-sur-la-population-sera-majeur-20260801_3JLU5INZVNB2TEN7IKI4MYWOJE/",
           "source": "Liberation",
-          "summary": "Entre la sortie du livre de Chirac en juin et des journées parlementaires du RPR explosives en septembre, l’été 1994 marque la cristallisation de l’impitoyable duel entre les deux «amis de trente ans».",
-          "published": "2026-08-01T05:45:00+00:00"
+          "summary": "Une catastrophe ne fait pas que des blessés : elle déracine des milliers de déplacés, appuie sur des fragilités et laisse une profonde empreinte traumatique. A l’image des canicules ou du Covid, les incendies de juillet…",
+          "published": "2026-08-01T08:06:06+00:00"
         },
         {
-          "title": "EN DIRECT - Incendie en France : des renforts attendus dans le Var, le feu est contenu en Gironde",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-chaleur-meteo-incendies-feux-sud-france-var-20260801",
+          "title": "Routes des vacances : plus de 300 km de bouchons en matinée",
+          "link": "https://www.lefigaro.fr/flash-eco/routes-des-vacances-plus-de-300-km-de-bouchons-en-matinee-20260801",
           "source": "Le Figaro",
-          "summary": "Des renforts sont attendus samedi dans le Var où le feu du Gros Bessillon est reparti et progresse «plus vite qu’un cheval au galop», selon la préfecture du département, écrasé par une forte hausse des températures.",
-          "published": "2026-08-01T05:43:02+00:00"
+          "summary": "",
+          "published": "2026-08-01T08:01:21+00:00"
         },
         {
-          "title": "Vivement critiqué, Gianni Infantino renonce finalement à son projet d'ouverture de la Fifa aux investissements privés",
-          "link": "https://www.franceinfo.fr/sports/foot/vivement-critique-gianni-infantino-renonce-finalement-a-son-projet-d-ouverture-de-la-fifa-aux-investissements-prives_8130998.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Présenté mardi, le plan de la Fifa, visait à porter à dix milliards de dollars le financement du développement du football dans les quatre prochaines années. Il était vivement critiqué sur le fond comme sur la forme.",
-          "published": "2026-08-01T05:36:04+00:00"
-        },
-        {
-          "title": "EN DIRECT - Vague migratoire à Ceuta : l’Italie et la France durcissent leurs contrôles frontaliers avec l’Espagne",
-          "link": "https://www.lefigaro.fr/international/en-direct-ceuta-l-espagne-estime-que-49-000-migrants-sont-entres-dans-l-enclave-espagnole-au-cours-des-dernieres-24-heures-20260731",
+          "title": "« Corruption pure et simple », projet « indéfendable »... Ces cinq jours qui ont enflammé la planète football autour du nouveau plan de la Fifa",
+          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/corruption-pure-et-simple-projet-indefendable-ces-cinq-jours-qui-ont-enflamme-la-planete-football-autour-du-nouveau-plan-de-la-fifa-20260801",
           "source": "Le Figaro",
-          "summary": "L’Italie et la France durcissent ce samedi leurs contrôles frontaliers avec l’Espagne après l’entrée illégale cette semaine de quelque 60.000 migrants en provenance du Maroc dans l’enclave espagnole de Ceuta, ouvrant…",
-          "published": "2026-08-01T05:35:53+00:00"
+          "summary": "RÉCIT - Mardi 28 juillet, la surpuissante fédération a révélé son idée d’accueillir des investisseurs privés. De nombreux acteurs y voient une mise en vente de la Coupe du monde. Depuis, le monde du ballon rond est sens…",
+          "published": "2026-08-01T08:00:00+00:00"
         },
         {
-          "title": "Incendies en France : le feu dans le Var «défie l’entendement» et a parcouru 1000 hectares, 2500 personnes évacuées",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
-          "source": "Le Figaro",
-          "summary": "Des évacuations de population ont été ordonnées vendredi après-midi dans des quartiers des communes de Correns et Montfort-sur-Argens en raison d’une reprise localisée de l’important incendie du Gros Bessillon, a…",
-          "published": "2026-08-01T05:19:16+00:00"
-        },
-        {
-          "title": "\"Un refus de maternité\" : comment expliquer que certaines femmes tuent leur nouveau-né après une grossesse passée inaperçue",
-          "link": "https://www.franceinfo.fr/faits-divers/un-refus-de-maternite-comment-expliquer-que-certaines-femmes-tuent-leur-nouveau-ne-apres-une-grossesse-passee-inapercue_8130194.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Un homme a découvert les corps de cinq bébés dans l'appartement familial à Orange (Vaucluse), en début de semaine. Il a émis l'hypothèse de précédents dénis de grossesse de sa conjointe, mise en examen et incarcérée…",
-          "published": "2026-08-01T05:17:50+00:00"
-        },
-        {
-          "title": "\"Vous êtes sûrs, ça ne craint pas de venir ?\" : à Lacanau, la saison touristique reprend après l'incendie qui a ravagé la Gironde",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/reportage-vous-etes-surs-ca-ne-craint-pas-de-venir-a-lacanau-la-saison-touristique-reprend-apres-l-incendie-qui-a-ravage-la-gironde_8130209.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Après une semaine de paralysie, la préfecture a autorisé les établissements de tourisme de la grande station balnéaire à rouvrir, dans une configuration jamais vue pour un début août.",
-          "published": "2026-08-01T05:12:52+00:00"
-        },
-        {
-          "title": "Cerné par les critiques, Gianni Infantino annonce le retrait du projet d’investissements privés de la Fifa",
-          "link": "https://www.lefigaro.fr/sports/football/gianni-infantino-annonce-le-retrait-du-projet-d-investissements-prives-de-la-fifa-apres-des-critiques-20260801",
-          "source": "Le Figaro",
-          "summary": "Le patron de la Fifa a annoncé dans la nuit le retrait du projet d’ouverture de l’association aux investisseurs privés, face à la menace de boycott de l’UEFA et l’opposition affirmée des confédérations asiatique et…",
-          "published": "2026-08-01T05:06:29+00:00"
-        },
-        {
-          "title": "«Ruser avec les bouchons» : il y a 50 ans, Bison futé à l’épreuve du chassé-croisé des vacances",
-          "link": "https://www.lefigaro.fr/histoire/archives/ruser-avec-les-bouchons-il-y-a-50-ans-bison-fute-a-l-epreuve-du-chasse-croise-des-vacances-20260801",
-          "source": "Le Figaro",
-          "summary": "LES ARCHIVES DU FIGARO - Le service d’information routière à visage de chef Indien voyait le jour à l’été 1976, après des embouteillages monstres l’année précédente sur les routes françaises.",
-          "published": "2026-08-01T05:00:00+00:00"
-        },
-        {
-          "title": "Basket : Magic Johnson et Larry Bird, un combat point à point",
-          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/basket-magic-johnson-et-larry-bird-un-combat-point-a-point-20260801_EI66FUKSK5HJDN6I4Y6XKVO6GY/",
+          "title": "La semaine vue par Coco : forêts en feu, Canadair, présidentiables (ou pas)",
+          "link": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-forets-en-feu-canadair-presidentiables-ou-pas-20260801_N5A5H242GNAFNAZ5MRNNMPR3YI/",
           "source": "Liberation",
-          "summary": "Dans les années 80, le meneur des Lakers de Los Angeles et l’ailier des Boston Celtics ont incarné tous les clivages états-uniens : racial, social, géographique… Une émulation sportive qui aura ressuscité une NBA…",
-          "published": "2026-08-01T05:00:00+00:00"
+          "summary": "L’actualité croquée par notre dessinatrice.",
+          "published": "2026-08-01T08:00:00+00:00"
+        },
+        {
+          "title": "Démarchage téléphonique, prix de l'électricité, taux des livrets d'épargne… Ce qui change au mois d'août",
+          "link": "https://www.franceinfo.fr/societe/demarchage-telephonique-prix-de-l-electricite-taux-des-livrets-d-epargne-ce-va-changer-au-mois-d-aout_8125109.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le mois qui s'ouvre samedi marque également le début du versement de l'allocation de rentrée scolaire, ainsi que le durcissement des règles pour les professionnels délivrant les cartes grises.",
+          "published": "2026-08-01T07:58:49+00:00"
+        },
+        {
+          "title": "Chassé-croisé du 1er août : journée noire ce samedi sur les routes, les conseils de Bison Futé pour éviter les bouchons",
+          "link": "https://www.lefigaro.fr/conjoncture/chasse-croise-du-1er-aout-bison-fute-hisse-le-drapeau-noir-samedi-sur-les-routes-francaises-20260730",
+          "source": "Le Figaro",
+          "summary": "Plus de 300 km de bouchons cumulés étaient déjà formés sur le territoire national ce samedi matin, selon Bison futé. Voici les heures et les axes à éviter pour faciliter votre trajet.",
+          "published": "2026-08-01T07:56:50+00:00"
+        },
+        {
+          "title": "Incendies en France : aucune nouvelle surface n'est impactée par le feu dans le Var, qui a déjà parcouru plus de 1 000 hectares",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-des-renforts-sont-attendus-dans-le-var-ou-le-feu-est-reparti-et-progresse-plus-vite-qu-un-cheval-au-galop_8131010.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le feu dans le Var a parcouru 1 000 hectares en six heures, vendredi. Les flammes ont pris au sud de l'important brasier qui avait été fixé il y a trois jours, après avoir dévoré 4 500 hectares.",
+          "published": "2026-08-01T07:55:15+00:00"
+        },
+        {
+          "title": "Guerre en Iran : l’Arabie Saoudite et les Houthis yéménites flirtent avec une nouvelle guerre",
+          "link": "https://www.liberation.fr/international/moyen-orient/guerre-en-iran-larabie-saoudite-et-les-houthis-yemenites-flirtent-avec-une-nouvelle-guerre-20260801_MJMYUV3AW5DVNEEUBJJYLWO5MU/",
+          "source": "Liberation",
+          "summary": "La trêve signée il y a quatre ans vacille chaque jour un peu plus. La création par Ryad d’une alliance avec 14 pays pour sécuriser la mer Rouge est perçue comme une provocation par les rebelles yéménites.",
+          "published": "2026-08-01T07:53:07+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : après l’attaque qui a fait 9 morts à Kiev, Volodymyr Zelensky dénonce des dégâts dans dix-huit immeubles d’habitation",
+          "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-apres-l-attaque-qui-a-fait-9-morts-a-kiev-volodymyr-zelensky-denonce-des-degats-dans-dix-huit-immeubles-d-habitation_6732775_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a également affirmé que la Russie avait tiré pas moins de 35 missiles sur l’Ukraine, dont 27 balistiques, ainsi que 185 drones d’attaque, dans la nuit de vendredi à samedi.",
+          "published": "2026-08-01T07:50:29+00:00"
+        },
+        {
+          "title": "Russie : Boris Nadejdine, ou l’art de s’opposer au Kremlin sans finir en prison",
+          "link": "https://www.liberation.fr/international/europe/russie-boris-nadejdine-ou-lart-de-sopposer-au-kremlin-sans-finir-en-prison-20260801_QZQJTIG7FFHH5A4HWP54AP7XF4/",
+          "source": "Liberation",
+          "summary": "L’ancien candidat à la présidentielle, désormais exclu des législatives de septembre prochain car étiqueté «agent de l’étranger», tente depuis vingt ans de défier le pouvoir de Vladimir Poutine en se gardant bien de…",
+          "published": "2026-08-01T07:42:00+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Antigravity A1 : le prix de ce drone FPV 360° tout léger, avec son bundle Explorer, est en chute libre (-50 %)",
-          "link": "https://www.frandroid.com/bons-plans/3198013_antigravity-a1-le-prix-de-ce-drone-fpv-360-tout-leger-avec-son-bundle-explorer-est-en-chute-libre-50",
+          "title": "Quelles sont les meilleures souris sans fil (Bluetooth) pour PC en 2026 ?",
+          "link": "https://www.frandroid.com/guide-dachat/630616_les-meilleures-souris-bluetooth-pour-votre-pc-ipad-ou-tablette-android",
           "source": "Frandroid",
-          "summary": "L'Antigravity A1 est un drone capable d'enregistrer l'ensemble de son environnement en une seule prise et se veut accessible même aux débutants. Et la bonne nouvelle du jour, c'est que ce modèle atypique et son bundle…",
-          "published": "2026-08-01T05:13:00+00:00"
+          "summary": "Qu'elle accompagne un PC portable, un PC fixe ou une tablette, la souris sans fil est devenue l'accessoire indispensable de notre quotidien numérique. Ergonomie, autonomie et précision : découvrez notre sélection des…",
+          "published": "2026-08-01T08:02:02+00:00"
         },
         {
-          "title": "Éclipse solaire totale, Perséides, éclipse de Lune : que voir dans le ciel en août 2026 ?",
-          "link": "https://www.numerama.com/sciences/2304001-eclipse-solaire-totale-perseides-eclipse-de-lune-que-voir-dans-le-ciel-en-aout-2026.html",
+          "title": "Test XGIMI Elfin Flip 4K : le projecteur à déplacer sans modération, aussi à l’aise en soirée qu’en mode ciné",
+          "link": "https://www.clubic.com/test-produit-621763-test-xgimi-elfin-flip-4k-le-projecteur-a-deplacer-sans-moderation-aussi-a-l-aise-en-soiree-qu-en-mode-cine.html",
+          "source": "Clubic",
+          "summary": "En milieu de gamme, les vidéoprojecteurs demandent souvent au consommateur de choisir entre une qualité d’image décente et un objet convivial, facile à transporter et configurer. Le nouvel Elfin Flip 4K de XGIMI rebat…",
+          "published": "2026-08-01T08:00:00+00:00"
+        },
+        {
+          "title": "Superchargeurs Tesla gratuits en Gironde, taxes sur les PHEV et un long trajet trop facile en citadine électrique : le récap’ Vroom de la semaine",
+          "link": "https://www.numerama.com/vroom/2305255-superchargeurs-tesla-gratuits-en-gironde-taxes-sur-les-phev-et-un-long-trajet-trop-facile-en-citadine-electrique-le-recap-vroom-de-la-semaine.html",
           "source": "Numerama",
-          "summary": "Le mois d'août 2026 commence, et il s'annonce déjà inoubliable pour l'astronomie. En plus de l'éclipse de Soleil très attendue en France, des étoiles filantes et une éclipse de Lune nous attendent. Voici le programme…",
-          "published": "2026-08-01T05:05:00+00:00"
+          "summary": "À la une sur Vroom cette semaine : Tesla a rendu gratuit cinq Superchargeurs en Gironde et quatre en Espagne en soutien aux victimes d'incendie, Volkswagen veut que l'Europe taxe les hybrides rechargeables chinoises et…",
+          "published": "2026-08-01T07:58:00+00:00"
         },
         {
-          "title": "Sony prépare la fin des disques PlayStation dès 2028 malgré la colère des joueurs",
-          "link": "https://www.clubic.com/actualite-623737-sony-prepare-la-fin-des-disques-playstation-des-2028-malgre-la-colere-des-joueurs.html",
+          "title": "Logitech MX Keys S, le clavier qualifié de \"roi de la bureautique\" chute de prix sur Amazon",
+          "link": "https://www.clubic.com/bons-plans-623728-logitech-mx-keys-s-le-clavier-qualifie-de-roi-de-la-bureautique-chute-de-prix-sur-amazon.html",
           "source": "Clubic",
-          "summary": "Sony ne fera pas marche arrière : à partir de janvier 2028, les nouvelles sorties PlayStation abandonneront les jeux sur disque. Un mois de contestation n'aura malheureusement pas suffi à infléchir la position du…",
-          "published": "2026-07-31T18:47:00+00:00"
+          "summary": "Pour ceux qui tapent plusieurs heures par jour sur leur ordinateur, le confort de frappe finit par peser lourd dans le choix d'un clavier. Le Logitech MX Keys S, régulièrement cité parmi les meilleurs claviers…",
+          "published": "2026-08-01T07:46:00+00:00"
         },
         {
-          "title": "Test du Dreame T16 Pro Heat : le lavage à 90 °C fait vraiment la différence au quotidien",
-          "link": "https://www.frandroid.com/test/3188197_test-dreame-t16-pro-heat",
+          "title": "Ce grand TV LG QNED de 75 pouces avec Mini LED et 144 Hz perd 400 € peu après sa sortie",
+          "link": "https://www.frandroid.com/bons-plans/3196983_ce-grand-tv-lg-qned-de-75-pouces-avec-mini-led-et-144-hz-perd-400-e-peu-apres-sa-sortie",
           "source": "Frandroid",
-          "summary": "Dreame envoie de l'eau à 90 °C sur son rouleau pour dissoudre les graisses. J'ai passé plusieurs semaines avec le T16 Pro Heat, et le pari du lavage à chaud tient largement ses promesses, malgré quelques défauts.",
-          "published": "2026-07-31T17:35:00+00:00"
+          "summary": "LG étoffe sa gamme de TV avec le 75QNED82B6A, un téléviseur lancé il y a peu qui mise sur la technologie QNED et un taux de rafraîchissement de 144 Hz sur une grande diagonale de 75 pouces. En ce moment, son prix chute…",
+          "published": "2026-08-01T07:31:00+00:00"
         },
         {
-          "title": "Nouvelle cyberattaque contre l'Éducation nationale : les données d'un grand nombre d'agents potentiellement dans la nature",
-          "link": "https://www.clubic.com/actualite-623734-nouvelle-cyberattaque-contre-l-education-nationale-les-donnees-d-un-grand-nombre-d-agents-potentiellement-dans-la-nature.html",
-          "source": "Clubic",
-          "summary": "Le ministère de l'Éducation nationale a annoncé, vendredi en fin de journée, avoir subi une nouvelle intrusion informatique. Les données personnelles d'un nombre important d'agents ont potentiellement été aspirées par…",
-          "published": "2026-07-31T16:57:00+00:00"
-        },
-        {
-          "title": "Quand reverra-t-on une éclipse solaire totale en France ?",
-          "link": "https://www.numerama.com/sciences/2252859-eclipse-solaire-totale-en-france-la-prochaine-naura-lieu-quen-2081.html",
+          "title": "Moustache Samedi 28.1, l’entrée de gamme du VAE de ville, est encore moins cher en reconditionné",
+          "link": "https://www.numerama.com/vroom/2304847-moustache-samedi-28-1-lentree-de-gamme-du-vae-de-ville-est-encore-moins-cher-en-reconditionne.html",
           "source": "Numerama",
-          "summary": "Quand une éclipse solaire se produit, la France n'a pas toujours la chance d'être dans sa zone de visibilité. Le 12 août 2026, nous pourrons voir une éclipse solaire partielle (et totale en Espagne). Jusqu'à quand…",
-          "published": "2026-07-31T16:40:57+00:00"
+          "summary": "[Deal du jour] Investir dans un bon vélo électrique est essentiel si vous souhaitez vous déplacer à deux-roues au quotidien. Reste à savoir quel modèle choisir et quel budget y consacrer. Il peut parfois être…",
+          "published": "2026-08-01T07:30:00+00:00"
         },
         {
-          "title": "« Ce téléphone n’aurait jamais dû être mis sur le marché en France » : l’ANFR demande le rappel d’une version internationale du Galaxy A55",
-          "link": "https://www.frandroid.com/marques/samsung/3200565_ce-telephone-naurait-jamais-du-etre-mis-sur-le-marche-en-france-lanfr-retire-le-galaxy-a55-de-la-vente",
-          "source": "Frandroid",
-          "summary": "L'agence nationale des fréquences indique dans un communiqué qu'une version du Galaxy A55 de Samsung ne répond pas aux exigences réglementaires et demande aux revendeurs un rappel de son téléphone.",
-          "published": "2026-07-31T16:30:00+00:00"
-        },
-        {
-          "title": "Chez Anthropic aussi des agents IA débridés sont sortis de leur boite pour attaquer",
-          "link": "https://next.ink/249799/chez-anthropic-aussi-des-agents-ia-debrides-sont-sortis-de-leur-boite-pour-attaquer/",
-          "source": "Next",
-          "summary": "Anthropic a annoncé le 30 juillet que trois incidents impliquant ses IA avaient été détectés. Chacun a impliqué une attaque distincte contre une organisation. Des informations rendues publiques dans le sillage de…",
-          "published": "2026-07-31T16:21:01+00:00"
-        },
-        {
-          "title": "J’ai testé le Samsung Galaxy Z Fold 8 : mon coup de cœur pour ce petit format imparfait",
-          "link": "https://www.frandroid.com/marques/samsung/3197063_jai-teste-le-samsung-galaxy-z-fold-8-mon-coup-de-coeur-pour-ce-petit-format-imparfait",
-          "source": "Frandroid",
-          "summary": "Le Samsung Galaxy Z Fold 8 attise la curiosité avec son format passeport. Voici notre test complet de ce smartphone pliable très singulier.",
-          "published": "2026-07-31T16:09:00+00:00"
-        },
-        {
-          "title": "On a trouvé un ventilateur de plafond pas cher et bien équipé pour moins de 70 euros",
-          "link": "https://www.frandroid.com/bons-plans/3201051_on-a-trouve-un-ventilateur-de-plafond-pas-cher-et-bien-equipe-pour-moins-de-70-euros",
-          "source": "Frandroid",
-          "summary": "Le Cecotec EnergySilence Aero 4600 est un ventilateur de plafond qui a le mérite de combiner ventilation et éclairage LED, avec télécommande incluse. Il est actuellement affiché à 69,37 euros au lieu de 89,90 euros sur…",
-          "published": "2026-07-31T16:04:09+00:00"
-        },
-        {
-          "title": "Apple lève trois limitations frustrantes d'iPhone Mirroring avec macOS 27 Golden Gate",
-          "link": "https://www.clubic.com/actualite-623689-macos-27-golden-gate-iphone-mirroring-gagne-le-redimensionnement-le-centre-de-controle-et-la-lecture-drm.html",
+          "title": "80% des problèmes corrigés : voici pourquoi Proton Pass mérite un nouvel essai",
+          "link": "https://www.clubic.com/actualite-623668-proton-peaufine-son-gestionnaire-de-mots-de-passe.html",
           "source": "Clubic",
-          "summary": "iPhone Mirroring débarque dans macOS 27 Golden Gate avec trois améliorations concrètes : redimensionnement libre des fenêtres, accès au Centre de contrôle et lecture des vidéos protégées par DRM. Trois limitations…",
-          "published": "2026-07-31T15:59:00+00:00"
+          "summary": "Proton Pass déploie une mise à jour centrée sur le remplissage automatique des identifiants, la gestion des codes de vérification et le déploiement du logiciel en entreprise.",
+          "published": "2026-08-01T07:30:00+00:00"
         },
         {
-          "title": "Fini les valises et sacs égarés en vacances : le lot de 2 AirTag 2 à moitié prix sur Amazon",
-          "link": "https://www.clubic.com/bons-plans-623716-fini-les-valises-et-sacs-egares-en-vacances-le-lot-de-2-airtag-2-a-moitie-prix-sur-amazon.html",
+          "title": "Ce SSD Western Digital 1To compatible PS5 repasse sous les 200 €, une offre qui risque de ne pas durer",
+          "link": "https://www.clubic.com/bons-plans-623722-ce-ssd-western-digital-1to-compatible-ps5-repasse-sous-les-200-une-offre-qui-risque-de-ne-pas-durer.html",
           "source": "Clubic",
-          "summary": "Avant de partir en vacances, le lot de 2 Apple AirTag de 2ᵉ génération profite d'une remise sur Amazon. À 59,98 € au lieu de 70 €, ce petit traqueur tout juste renouvelé par Apple en janvier 2026 permet de localiser…",
-          "published": "2026-07-31T15:43:00+00:00"
+          "summary": "Alors que le prix des puces mémoire pousse la quasi-totalité des SSD à la hausse depuis plusieurs mois, le WD_BLACK SN850X 1 To fait figure d'exception chez E.Leclerc. Affiché à 199 € au lieu de 249 €, ce disque NVMe…",
+          "published": "2026-08-01T07:17:00+00:00"
+        },
+        {
+          "title": "« On va arriver très vite au plafond » : le ministre de l’Économie s’emballe un peu sur le bilan du leasing social",
+          "link": "https://www.numerama.com/vroom/2305353-on-va-arriver-tres-vite-au-plafond-le-ministre-de-leconomie-semballe-un-peu-sur-le-bilan-du-leasing-social.html",
+          "source": "Numerama",
+          "summary": "Le ministre de l'Économie s'est réjoui du démarrage de la troisième édition du leasing social, affichant 19 500 dossiers en deux semaines. Il s’agit pourtant d’un démarrage bien plus timide qu’en 2025.",
+          "published": "2026-08-01T07:08:58+00:00"
+        },
+        {
+          "title": "Votre VPN fonctionne, mais les pages ne chargent plus ? Ce paramètre réseau méconnu peut tout expliquer",
+          "link": "https://www.clubic.com/dossier-623512-votre-vpn-fonctionne-mais-les-pages-ne-chargent-plus-ce-parametre-reseau-meconnu-peut-tout-expliquer.html",
+          "source": "Clubic",
+          "summary": "Le tunnel est bien établi, mais les sites moulinent, les téléchargements s’interrompent et les applications ne répondent qu’à moitié. En cause, pas forcément le serveur VPN ni même la qualité de votre connexion…",
+          "published": "2026-08-01T07:01:00+00:00"
+        },
+        {
+          "title": "Pixel Tag : la première réponse de Google à l’AirTag fuite avant sa présentation",
+          "link": "https://www.frandroid.com/marques/google/3201129_pixel-tag-la-premiere-reponse-de-google-a-lairtag-fuite-avant-sa-presentation",
+          "source": "Frandroid",
+          "summary": "Google s'apprête enfin à vendre son propre traqueur d'objets, le Pixel Tag, repéré en fuite à quelques jours de la présentation des Pixel 11. Sa première vraie réponse à l'AirTag d'Apple, avec un possible bémol de…",
+          "published": "2026-08-01T07:00:00+00:00"
+        },
+        {
+          "title": "Sauron contre le Balrog, Spider-Man contre Hulk, il y a de la bagarre dans le récap pop culture de la semaine",
+          "link": "https://www.numerama.com/pop-culture/2305137-sauron-contre-le-balrog-spider-man-contre-hulk-il-y-a-de-la-bagarre-dans-le-recap-pop-culture-de-la-semaine.html",
+          "source": "Numerama",
+          "summary": "Cette semaine a été rythmée par le dernier film Spider-Man, l’un des événements cinéma de l’année. Difficile donc de passer à travers la toile d’actualité tissée par l’Homme-Araignée, à moins de s’appeler Sauron et…",
+          "published": "2026-08-01T06:45:00+00:00"
         }
       ]
     }
