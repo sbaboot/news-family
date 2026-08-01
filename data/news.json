@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-08-01T10:39:40.068268+00:00",
+  "generated_at": "2026-08-01T13:17:19.898927+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Ilots du Pacifique : Vanuatu prêt à porter son différend avec la France sur le terrain du droit international",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/01/ilots-du-pacifique-vanuatu-pret-a-porter-son-differend-avec-la-france-sur-le-terrain-du-droit-international_6737224_823448.html",
+          "source": "Le Monde",
+          "summary": "A l’occasion de la fête de l’indépendance jeudi, Vanuatu a confirmé vouloir recourir aux instances internationales pour faire reconnaître sa souveraineté sur les îles Matthew et Hunter, qu’il revendique à la France.",
+          "published": "2026-08-01T13:00:03+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran accuse les Etats-Unis de favoriser l’« escalade des tensions »",
+          "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-au-moyen-orient-l-iran-accuse-les-etats-unis-de-favoriser-l-escalade-des-tensions_6737099_3210.html",
+          "source": "Le Monde",
+          "summary": "« Tout pays qui se dresse comme bouclier défensif de l’Amérique criminelle et agresseuse sera voué aux flammes de la guerre », a menacé le chef de l’armée iranienne, le général Ali Abdollahi.",
+          "published": "2026-08-01T12:14:29+00:00"
+        },
+        {
+          "title": "Guerre de l’IA : l’empire américain contre-attaque face à la menace des robots chinois",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260801-guerre-de-l-ia-l-empire-am%C3%A9ricain-contre-attaque-face-%C3%A0-la-menace-des-robots-chinois",
+          "source": "France 24",
+          "summary": "Les États-Unis ont décidé mardi d’interdire les importations de robots avancés étrangers.Une mesure qui vise en réalité les modèles dopés à l’IA développés par la Chine et souligne les approches rivales des deux…",
+          "published": "2026-08-01T12:07:31+00:00"
+        },
+        {
+          "title": "Aux Etats-Unis, le débat monte autour des différents modèles d’IA, sur fond de concurrence chinoise",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/01/aux-etats-unis-le-debat-monte-autour-des-differents-modeles-d-ia-sur-fond-de-concurrence-chinoise_6737218_3234.html",
+          "source": "Le Monde",
+          "summary": "Hormis Anthropic, les plus grosses sociétés américaines travaillant sur l’intelligence artificielle ont récemment demandé à Washington de soutenir le développement de la technologie dite « open weight », plus ouverte,…",
+          "published": "2026-08-01T12:00:05+00:00"
+        },
+        {
+          "title": "Au Mexique, des candidats forcés de repasser un examen d’entrée à l’université après des soupçons de fraude à l’IA",
+          "link": "https://www.lemonde.fr/international/article/2026/08/01/au-mexique-des-candidats-forces-de-repasser-un-examen-d-entree-a-l-universite-apres-des-soupcons-de-fraude-a-l-intelligence-artificielle_6737212_3210.html",
+          "source": "Le Monde",
+          "summary": "Les concours d’entrée dans les différentes filières de l’université nationale autonome, que les étudiants passaient pour la première fois à distance, ont reçu des notes beaucoup plus élevées que les années précédentes,…",
+          "published": "2026-08-01T11:00:05+00:00"
+        },
+        {
+          "title": "Lettres dissimulées, comité directeur en pleine fronde : l'Association française de cricket implose",
+          "link": "https://www.france24.com/fr/sports/20260801-association-francaise-cricket-crise-reconnaissance-etat",
+          "source": "France 24",
+          "summary": "Le président de France Cricket aurait caché à son propre conseil d'administration les courriers du ministère des Sports confirmant que l'instance avait perdu la reconnaissance de l'État. Depuis, le Conseil international…",
+          "published": "2026-08-01T10:58:07+00:00"
+        },
         {
           "title": "🔴 Le mégafeu est \"fixé\" en Gironde et \"ne progresse plus\", annonce Laurent Nuñez",
           "link": "https://www.france24.com/fr/france/20260801-incendies-en-france-le-m%C3%A9gafeu-contenu-en-gironde-plus-de-propagation-dans-le-var",
@@ -12,18 +54,18 @@
           "published": "2026-08-01T10:22:52+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : en juillet, la Russie a tiré un nombre record de missiles ; Volodymyr Zelensky accuse Moscou d’avoir attaqué « des immeubles d’habitation ordinaires »",
+          "title": "EN DIRECT, guerre en Ukraine : Kiev revendique des bombardements contre trois raffineries russes",
           "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-en-juillet-la-russie-a-tire-un-nombre-record-de-missiles-volodymyr-zelensky-accuse-moscou-d-avoir-attaque-des-immeubles-d-habitation-ordinaires_6732775_3210.html",
           "source": "Le Monde",
-          "summary": "Au total, Moscou a utilisé 376 missiles pour frapper l’Ukraine au cours du mois écoulé, soit plus du double du nombre de missiles utilisés par Moscou en juin, selon un décompte de l’Agence France-Presse.",
+          "summary": "Volodymyr Zelensky a précisé que les raffineries se situaient à près de 1 600 kilomètres des positions ukrainiennes. Plus tôt dans la journée, le chef de la République de Bachkortostan, Radi Khabirov, avait dit avoir «…",
           "published": "2026-08-01T10:17:57+00:00"
         },
         {
           "title": "Près de Naples, un séisme fait 21 blessés et cause des dégâts matériels",
           "link": "https://www.lemonde.fr/international/article/2026/08/01/pres-de-naples-un-seisme-fait-21-blesses-et-cause-des-degats-materiels_6737211_3210.html",
           "source": "Le Monde",
-          "summary": "Le séisme de magnitude 4,7, qui a secoué, vendredi soir, la région de Naples, dans le sud de l’Italie, a fait 21 blessés, dont deux blessés graves. Il a été suivi toute la nuit de dizaines de secousses de moindre…",
-          "published": "2026-08-01T10:07:18+00:00"
+          "summary": "Vendredi soir, dans le sud de l’Italie, 21 personnes ont été blessées à la suite de ce séisme. Toute la nuit de dizaines de secousses de moindre intensité se sont succédé.",
+          "published": "2026-08-01T10:07:14+00:00"
         },
         {
           "title": "Cameroun : visite de Sarah Mullally, première femme archevêque de Cantorbéry",
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "La première femme archevêque de Cantorbéry, Sarah Mullally, effectue une visite historique au Cameroun du 31 juillet au 4 août. Il s'agit de sa première tournée africaine depuis son intronisation, en mars dernier, à la…",
           "published": "2026-08-01T09:38:35+00:00"
-        },
-        {
-          "title": "Ouganda : l'opposant incarcéré Kizza Besigye placé en soins intensifs",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260801-ouganda-l-opposant-incarc%C3%A9r%C3%A9-kizza-besigye-plac%C3%A9-en-soins-intensifs",
-          "source": "France 24",
-          "summary": "Le chef de l'opposition ougandaise Kizza Besigye, qui s'est évanoui mercredi au tribunal le jugeant pour trahison, est hospitalisé en soins intensifs, a affirmé jeudi 30 juillet sur X son épouse Winnie Byanyima,…",
-          "published": "2026-08-01T09:34:48+00:00"
-        },
-        {
-          "title": "RD Congo : l'OMS s'inquiète de la propagation du choléra",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260801-rd-congo-l-oms-s-inqui%C3%A8te-de-la-propagation-du-chol%C3%A9ra",
-          "source": "France 24",
-          "summary": "En République démocratique du Congo, l'épidéme d'Ebola continue de se propager rapidement. Mais l'OMS a prévenu que le choléra représente également une menace grave. Notre correspondant Emmet Livingstone nous en dit…",
-          "published": "2026-08-01T09:33:08+00:00"
-        },
-        {
-          "title": "À la Une: nombreuses questions après l'afflux de migrants à Ceuta",
-          "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260801-%C3%A0-la-une-nombreuses-questions-apr%C3%A8s-l-afflux-de-migrants-%C3%A0-ceuta",
-          "source": "RFI",
-          "summary": "",
-          "published": "2026-08-01T09:17:47+00:00"
-        },
-        {
-          "title": "Festival Paris l'Été : Mohammed Al Qudwa, artiste et sportif palestinien",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260801-festival-paris-l-%C3%A9t%C3%A9-mohammed-al-qudwa-artiste-et-sportif-palestinien",
-          "source": "France 24",
-          "summary": "Allier karaté et poésie : l'artiste palestinien Mohammed Al Qudwa explore la frontière subtile entre les deux disciplines. Le jeune poète et sportif de 22 ans, originaire de Gaza, se produit au Festival Paris l'Été, où…",
-          "published": "2026-08-01T09:10:28+00:00"
-        },
-        {
-          "title": "Cisjordanie : un Palestinien blessé par balle lors d'une marche de colons",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260801-cisjordanie-un-palestinien-bless%C3%A9-par-balle-lors-d-une-marche-de-colons",
-          "source": "France 24",
-          "summary": "Un Palestinien a été blessé par balle vendredi 31 juillet lors d'une marche de colons israéliens dans plusieurs localités palestiniennes de Cisjordanie occupée, émaillée d' affrontements avec des habitants, selon les…",
-          "published": "2026-08-01T09:04:44+00:00"
-        },
-        {
-          "title": "France - Incendie dans le Var : \"On se croirait en temps de guerre\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260801-france-incendie-dans-le-var-on-se-croirait-en-temps-de-guerre",
-          "source": "France 24",
-          "summary": "Cette nuit, les pompiers ont tenté de ralentir la propagation du feu dans le Var. Il avait pourtant été fixé il y a quatre jours.",
-          "published": "2026-08-01T09:03:06+00:00"
         }
       ]
     },
@@ -83,6 +83,34 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Madrid réclame une réunion européenne d’urgence sur la situation à Ceuta",
+          "link": "https://www.ledevoir.com/monde/europe/999179/madrid-reclame-reunion-europeenne-urgence-situation-ceuta",
+          "source": "Le Devoir",
+          "summary": "Selon l’Espagne, « presque » tous les migrants arrivés ces derniers jours dans l’enclave sont retournés au Maroc.",
+          "published": "2026-08-01T12:48:00+00:00"
+        },
+        {
+          "title": "WestJet annule des vols à l’approche de la date butoir de la grève",
+          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/999176/westjet-annule-vols-approche-date-butoir-greve",
+          "source": "Le Devoir",
+          "summary": "La compagnie aérienne a annoncé tôt samedi matin que 81 des vols prévus pour la journée avaient été annulés.",
+          "published": "2026-08-01T12:16:00+00:00"
+        },
+        {
+          "title": "Espagne | « Presque » tous les migrants arrivés à Ceuta renvoyés au Maroc",
+          "link": "https://www.lapresse.ca/international/2026-08-01/espagne/presque-tous-les-migrants-arrives-a-ceuta-renvoyes-au-maroc.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’Espagne a estimé samedi que la situation à Ceuta était « quasiment » revenue à la normale après le retour au Maroc de « presque » tous les migrants arrivés ces derniers jours dans l’enclave, au cœur d’une crise…",
+          "published": "2026-08-01T11:42:39+00:00"
+        },
+        {
+          "title": "Menace de grève | WestJet annule des vols à l’approche de la date butoir",
+          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-01/menace-de-greve/westjet-annule-des-vols-a-l-approche-de-la-date-butoir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Certains voyageurs abordent ce week-end avec une certaine inquiétude, alors que WestJet procède à une première vague d’annulations en prévision d’une éventuelle grève des agents de bord.",
+          "published": "2026-08-01T11:09:20+00:00"
+        },
         {
           "title": "Sorties et voyages | La spontanéité en voie de disparition ?",
           "link": "https://www.lapresse.ca/affaires/2026-08-01/sorties-et-voyages/la-spontaneite-en-voie-de-disparition.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
@@ -98,10 +126,10 @@
           "published": "2026-08-01T09:00:00+00:00"
         },
         {
-          "title": "L’homophobie décomplexée",
-          "link": "https://www.lapresse.ca/actualites/chroniques/2026-08-01/l-homophobie-decomplexee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Anaplasmose | Une vie changée après avoir été infecté par une tique",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-08-01/anaplasmose/une-vie-changee-apres-avoir-ete-infecte-par-une-tique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les études et les sondages le confirment : l’homophobie connaît une recrudescence partout sur la planète, et ce, sous diverses formes. Certains parlent d’un retour en arrière de 20 ans. Les gains qui semblaient acquis…",
+          "summary": "« On dit toujours ça, mais mourir ici, c’était mon but. » Richard Maurais se balance à l’ombre sur son terrain de huit acres à la végétation abondante situé à quelques kilomètres de la frontière américaine, en Estrie.",
           "published": "2026-08-01T09:00:00+00:00"
         },
         {
@@ -119,39 +147,11 @@
           "published": "2026-08-01T09:00:00+00:00"
         },
         {
-          "title": "Anaplasmose | Une vie changée après avoir été infecté par une tique",
-          "link": "https://www.lapresse.ca/actualites/2026-08-01/anaplasmose/une-vie-changee-apres-avoir-ete-infecte-par-une-tique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« On dit toujours ça, mais mourir ici, c’était mon but. » Richard Maurais se balance à l’ombre sur son terrain de huit acres à la végétation abondante situé à quelques kilomètres de la frontière américaine, en Estrie.",
-          "published": "2026-08-01T09:00:00+00:00"
-        },
-        {
           "title": "Osheaga | Un atterrissage réussi",
           "link": "https://www.lapresse.ca/arts/musique/2026-08-01/osheaga/un-atterrissage-reussi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Nos journalistes et notre photographe ont parcouru le parc Jean-Drapeau, où a eu lieu le coup d’envoi de la 19e édition d’Osheaga. Retour en photos sur la première journée du festival.",
           "published": "2026-08-01T04:25:08+00:00"
-        },
-        {
-          "title": "Vers une troisième année obligatoire de résidence de médecine familiale?",
-          "link": "https://www.ledevoir.com/actualites/sante/999071/vers-troisieme-annee-obligatoire-residence-medecine-familiale",
-          "source": "Le Devoir",
-          "summary": "Il s’agit toutefois d’un pari risqué alors que la profession est déjà en pénurie d’effectifs.",
-          "published": "2026-08-01T04:00:00+00:00"
-        },
-        {
-          "title": "Quoi voir sur vos écrans cette fin de semaine?",
-          "link": "https://www.ledevoir.com/culture/cinema/999149/quoi-voir-ecrans-cette-fin-semaine",
-          "source": "Le Devoir",
-          "summary": "Une sélection de nos critiques pour guider vos visionnages du week-end.",
-          "published": "2026-08-01T04:00:00+00:00"
-        },
-        {
-          "title": "Peut-on encore parler de médecin de «famille»?",
-          "link": "https://www.ledevoir.com/actualites/sante/999074/peut-on-encore-parler-medecin-famille",
-          "source": "Le Devoir",
-          "summary": "Dernièrement le terme même est remis en question par plusieurs internautes.",
-          "published": "2026-08-01T04:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,150 @@
       "label": "France",
       "items": [
         {
-          "title": "Gianni Infantino a «perdu la confiance de l’UEFA», dit l’association, qui salue le retrait du projet d’investisseurs privés à la Fifa",
-          "link": "https://www.lefigaro.fr/sports/football/gianni-infantino-a-perdu-la-confiance-de-l-uefa-dit-l-association-qui-salue-le-retrait-du-projet-d-investisseurs-prives-a-la-fifa-20260801",
-          "source": "Le Figaro",
-          "summary": "L’UEFA a salué le retrait du projet d’investisseurs privés à la Fifa par son président Gianni Infantino, dans un communiqué samedi. L’association européenne a souligné «une victoire pour le football tout entier».",
-          "published": "2026-08-01T10:39:25+00:00"
-        },
-        {
-          "title": "EN DIRECT - Vague migratoire à Ceuta : «Absolument pas question» que l’Espagne quitte la zone Schengen, déclare le ministre français de l’Intérieur",
-          "link": "https://www.lefigaro.fr/international/en-direct-ceuta-l-espagne-estime-que-49-000-migrants-sont-entres-dans-l-enclave-espagnole-au-cours-des-dernieres-24-heures-20260731",
-          "source": "Le Figaro",
-          "summary": "Il n’est «absolument pas question» que l’Espagne quitte la zone Schengen, a affirmé samedi le ministre français de l’Intérieur, Laurent Nuñez, ajoutant que la France avait «une coopération très, très, très bonne avec…",
-          "published": "2026-08-01T10:39:17+00:00"
-        },
-        {
-          "title": "«L’Europe entrevoit ce qui pourrait l’attendre», «faillite du système migratoire», «urgence humanitaire»: la presse internationale voit en Ceuta le miroir des failles occidentales",
-          "link": "https://www.lefigaro.fr/international/l-europe-entrevoit-ce-qui-pourrait-l-attendre-faillite-du-systeme-migratoire-urgence-humanitaire-la-presse-internationale-voit-en-ceuta-le-miroir-des-failles-occidentales-20260801",
-          "source": "Le Figaro",
-          "summary": "De Madrid à Washington, en passant par Londres, Berlin et Rome, les journaux étrangers voient dans cette vague migratoire exceptionnelle ses propres inquiétudes.",
-          "published": "2026-08-01T10:34:46+00:00"
-        },
-        {
-          "title": "Privatisation de la Coupe du monde : malgré le retrait, Infantino a «perdu la confiance» de l’UEFA",
-          "link": "https://www.liberation.fr/sports/football/investisseurs-prives-a-la-fifa-isole-gianni-infantino-renonce-enfin-a-son-projet-20260801_5QXLV35NLNHQ3FUH5NIX7A4SWM/",
-          "source": "Liberation",
-          "summary": "Le président de la Fifa entendait créer une société - la Fifa Forward Entreprise (FFE) - ouverte aux investisseurs privés qui aurait été chargée de gérer les activités commerciales et événementielles de l’instance du…",
-          "published": "2026-08-01T10:32:20+00:00"
-        },
-        {
-          "title": "Afflux de migrants à Ceuta : 22 pays de l'UE demandent «une visioconférence d'urgence»",
-          "link": "https://www.lefigaro.fr/international/afflux-de-migrants-a-ceuta-22-pays-de-l-ue-demandent-une-visioconference-d-urgence-20260801",
-          "source": "Le Figaro",
-          "summary": "Dans une lettre ouverte adressée à la à la présidence irlandaise de l’UE, au président du Conseil européen et à la présidente de la Commission européenne, 22 signataires ont demandé une «visioconférence d’urgence» des…",
-          "published": "2026-08-01T10:31:47+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendie en France : «La situation est à haut risque» dans le Var,  «le feu est fixé» en Gironde, annonce Laurent Nunez",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-chaleur-meteo-incendies-feux-sud-france-var-20260801",
-          "source": "Le Figaro",
-          "summary": "Des renforts sont attendus samedi dans le Var où le feu du Gros Bessillon est reparti et progresse «plus vite qu’un cheval au galop», selon la préfecture du département, écrasé par une forte hausse des températures.",
-          "published": "2026-08-01T10:29:02+00:00"
-        },
-        {
-          "title": "Le feu en Gironde est \"fixé\" et \"ne progresse plus\", le Var sera à \"très haut risque\" incendie dans l'après-midi, annonce le ministre de l'Intérieur",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-des-renforts-sont-attendus-dans-le-var-ou-le-feu-est-reparti-et-progresse-plus-vite-qu-un-cheval-au-galop_8131010.html#xtor=RSS-3-[lestitres]",
+          "title": "Des ambassades américaines appellent leurs citoyens à \"envisager de quitter\" le Moyen-Orient \"en cas d'escalade\"",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/des-ambassades-americaines-appellent-leurs-citoyens-a-envisager-de-quitter-le-moyen-orient-en-cas-d-escalade_8131340.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Plus de 10 000 personnes supplémentaires vont pouvoir regagner leur domicile après une amélioration de la situation. Samedi, 198 000 personnes avaient déjà rejoint leur lieu de résidence.",
-          "published": "2026-08-01T10:26:07+00:00"
+          "summary": "\"Les Américains actuellement au Moyen-Orient doivent faire preuve de prudence et d'une vigilance accrue et se préparer à d'éventuelles annulations de vols, à des fermetures périodiques de l'espace aérien\", a précisé une…",
+          "published": "2026-08-01T13:13:35+00:00"
         },
         {
-          "title": "Au moins 67 migrants sont morts en essayant d'entrer à Ceuta depuis le Maroc, selon un nouveau bilan des autorités espagnoles",
-          "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/au-moins-67-migrants-sont-morts-en-essayant-d-entrer-a-ceuta-depuis-le-maroc-selon-un-nouveau-bilan-des-autorites-espagnoles_8131166.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"En moins de quarante-huit heures, la situation à Ceuta n'a plus rien à voir et un retour à la normale est en cours\", a déclaré le ministre de l'Intérieur espagnol.",
-          "published": "2026-08-01T10:23:09+00:00"
+          "title": "EN DIRECT - Conflit Iran-États-Unis : des ambassades américaines appellent leurs citoyens à «envisager de quitter» le Moyen-Orient",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-annonce-un-accord-sur-le-desarmement-du-hamas-a-gaza-20260731",
+          "source": "Le Figaro",
+          "summary": "«Les Américains présents dans la région devraient envisager de partir, ou être prêts à partir en cas d’escalade», indique une alerte de sécurité dont des versions ont été publiées sur les réseaux sociaux par les…",
+          "published": "2026-08-01T13:13:02+00:00"
         },
         {
-          "title": "Pyromanes : trois «monstres» mais une seule réponse pénale, par Serge Hefez",
-          "link": "https://www.liberation.fr/idees-et-debats/tribunes/pyromanes-trois-monstres-mais-une-seule-reponse-penale-par-serge-hefez-20260801_LPH6EENZRFGD7LJAJERZYY5XNM/",
+          "title": "Sur les réseaux et en librairies, les livres prennent la vague de «l’Odyssée»",
+          "link": "https://www.liberation.fr/culture/sur-les-reseaux-et-en-librairies-les-livres-prennent-la-vague-de-lodyssee-20260801_2YWPAEMQI5EB3HMISMKYUKMRYU/",
           "source": "Liberation",
-          "summary": "Si pour l’incendiaire calculateur, la peine suffit, pour le compulsif, la sanction sans soins ne fera que suspendre la tension qui le ramènera au feu. Et pour l’imitateur, elle laissera intacte la détresse et le besoin…",
-          "published": "2026-08-01T10:21:00+00:00"
+          "summary": "Les maisons d’édition, qui avaient anticipé la sortie du film de Christopher Nolan inspiré de l’épopée d’Homère, voient leurs ventes augmenter. Sur les plateformes comme TikTok, les livres inspirées de l’Antiquité ont…",
+          "published": "2026-08-01T13:12:00+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : en juillet, la Russie a tiré un nombre record de missiles ; Volodymyr Zelensky accuse Moscou d’avoir attaqué « des immeubles d’habitation ordinaires »",
-          "link": "https://www.lemonde.fr/international/live/2026/08/01/en-direct-guerre-en-ukraine-en-juillet-la-russie-a-tire-un-nombre-record-de-missiles-volodymyr-zelensky-accuse-moscou-d-avoir-attaque-des-immeubles-d-habitation-ordinaires_6732775_3210.html",
-          "source": "Le Monde",
-          "summary": "Au total, Moscou a utilisé 376 missiles pour frapper l’Ukraine au cours du mois écoulé, soit plus du double du nombre de missiles utilisés par Moscou en juin, selon un décompte de l’Agence France-Presse.",
-          "published": "2026-08-01T10:17:57+00:00"
+          "title": "Pierre Lellouche : «À Ceuta, la démonstration vient d’être faite de l’extraordinaire puissance de l’arme migratoire»",
+          "link": "https://www.lefigaro.fr/vox/monde/pierre-lellouche-a-ceuta-la-demonstration-vient-d-etre-faite-de-l-extraordinaire-puissance-de-l-arme-migratoire-20260801",
+          "source": "Le Figaro",
+          "summary": "ANALYSE - L’afflux de migrants à Ceuta s’explique par la volonté du Maroc de déstabiliser l’Espagne, analyse l’ancien ministre qui y voit un avertissement pour l’Europe toute entière.",
+          "published": "2026-08-01T13:06:25+00:00"
+        },
+        {
+          "title": "Le Rhin à son plus bas historique : la sécheresse menace un axe vital de l’industrie allemande",
+          "link": "https://www.lefigaro.fr/conjoncture/le-rhin-a-son-plus-bas-historique-la-secheresse-menace-un-axe-vital-de-l-industrie-allemande-20260801",
+          "source": "Le Figaro",
+          "summary": "Ce faible niveau des eaux menace plusieurs secteurs clés de la première économie européenne, notamment la chimie et la sidérurgie, dépendantes du fleuve pour transporter de grandes quantités de marchandises.",
+          "published": "2026-08-01T13:03:05+00:00"
+        },
+        {
+          "title": "Décision de justice mal interprétée, rumeurs, tensions diplomatiques... Comment expliquer l'afflux de migrants marocains dans l'enclave espagnole de Ceuta ?",
+          "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/decision-de-justice-mal-interpretee-rumeurs-tensions-diplomatiques-comment-expliquer-l-afflux-de-migrants-marocains-dans-l-enclave-espagnole-de-ceuta_8131058.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Plusieurs pistes sont avancées pour expliquer l'arrivée de quelque 60 000 personnes à Ceuta jeudi, entre rumeurs d'ouverture imminente de la frontière et emballement des réseaux sociaux. La presse espagnole s'interroge…",
+          "published": "2026-08-01T13:02:10+00:00"
+        },
+        {
+          "title": "Ubisoft constate «un intérêt renouvelé pour Assassin’s Creed Odyssey» depuis la sortie du dernier film de Christopher Nolan",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/ubisoft-constate-un-interet-renouvele-pour-assassin-s-creed-odyssey-depuis-la-sortie-du-dernier-film-de-christopher-nolan-20260801",
+          "source": "Le Figaro",
+          "summary": "Le jeu, issu de la licence phare d’Ubisoft, propose d’incarner un personnage à l’époque de la Grèce antique, vers 430 avant JC. Une promesse qui a visiblement séduit les amateurs de l’adaptation de L’Odyssée par le…",
+          "published": "2026-08-01T13:00:54+00:00"
+        },
+        {
+          "title": "Foot : après l’UEFA, les Fédérations anglaise et néerlandaise poussent Infantino à la démission",
+          "link": "https://www.lefigaro.fr/sports/football/foot-apres-l-uefa-les-federations-anglaise-et-neerlandaise-poussent-infantino-a-la-demission-20260801",
+          "source": "Le Figaro",
+          "summary": "Les Fédérations anglaise et néerlandaise exigent un examen complet de la gouvernance et confirment une perte de confiance envers la Fifa.",
+          "published": "2026-08-01T12:59:10+00:00"
+        },
+        {
+          "title": "Le trafic ferroviaire a progressivement repris samedi au sud de Bordeaux",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/le-trafic-ferroviaire-a-progressivement-repris-samedi-au-sud-de-bordeaux_8131352.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les trains ne circulaient plus depuis dimanche en raison des incendies en Gironde et dans les Landes. La moitié des TGV circule samedi entre Bordeaux et le Sud-Ouest, dans les deux sens de circulation. Dimanche, le…",
+          "published": "2026-08-01T12:50:43+00:00"
+        },
+        {
+          "title": "Bruxelles fait tomber le roi des échecs de Vladimir Poutine",
+          "link": "https://www.liberation.fr/international/europe/bruxelles-fait-tomber-le-roi-des-echecs-de-vladimir-poutine-20260801_VOIGH4CJMREM3EXHFNGXJYPPXQ/",
+          "source": "Liberation",
+          "summary": "Sanctionné par l’Union européenne pour son soutien à la guerre en Ukraine, Arkadi Dvorkovitch quitte la tête de la Fédération internationale des échecs. Une décision qui fragilise l’influence du Kremlin sur la…",
+          "published": "2026-08-01T12:47:00+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Avec moins de 500 € en poche, faut-il acheter le Google Pixel 10a ou son rival, le Honor 600 ?",
+          "link": "https://www.frandroid.com/bons-plans/3200649_avec-moins-de-500-e-en-poche-faut-il-acheter-le-google-pixel-10a-ou-son-rival-le-honor-600",
+          "source": "Frandroid",
+          "summary": "En quête d'un nouveau smartphone sous la barre des 500 euros ? Le récent Honor 600 et le Google Pixel 10a sont de très bonnes références qui sont justement en promotion. Mais lequel devez-vous glisser dans votre panier…",
+          "published": "2026-08-01T13:11:00+00:00"
+        },
+        {
+          "title": "J’ai sillonné la Champagne à vélo électrique pendant 3 jours : voici mon carnet de route entre tracés cyclables, dégustations et bonnes bouffes",
+          "link": "https://www.frandroid.com/survoltes/velo-electrique/3195943_jai-sillonne-la-champagne-a-velo-electrique-pendant-3-jours-voici-mon-carnet-de-route-entre-traces-cyclables-degustations-et-bonnes-bouffes",
+          "source": "Frandroid",
+          "summary": "Point de chute à Épernay, une cinquantaine de kilomètres par jour, quelques dégustations évidemment, et de jolis paysages : voici le petit récit de mon séjour cyclotouriste dans le vignoble champenois.",
+          "published": "2026-08-01T12:03:00+00:00"
+        },
+        {
+          "title": "Où voir les films Spider-Man en streaming ?",
+          "link": "https://www.numerama.com/pop-culture/2303693-ou-voir-les-films-spider-man-en-streaming.html",
+          "source": "Numerama",
+          "summary": "La sortie au cinéma de Spider-Man: Brand New Day vous a peut-être donné envie de voir ou revoir les précédents films centrés sur le tr_s apprécié super-héros Marvel. Vous ne savez pas où aller ? Suivez le guide.",
+          "published": "2026-08-01T12:01:00+00:00"
+        },
+        {
+          "title": "Quand le RGB s’emballe, il faut sortir le marteau : aidez ce pauvre Simon à réparer un PC !",
+          "link": "https://next.ink/249265/quand-le-rgb-semballe-il-faut-sortir-le-marteau-aidez-ce-pauvre-simon-a-reparer-un-pc/",
+          "source": "Next",
+          "summary": "Cet été,&#160;Next vous propose des mini-jeux. Aujourd’hui, vous devez aider un technicien à réparer un PC. Problème, le système RGB (oui, c’est un Jacky PC…) fait des siennes et s&#8217;allume par intermittence. Seule…",
+          "published": "2026-08-01T11:37:00+00:00"
+        },
+        {
+          "title": "Apple prévient : l'iPhone, l'iPad et le Mac pourraient bientôt subir des pénuries",
+          "link": "https://www.clubic.com/actualite-623743-apple-previent-l-iphone-l-ipad-et-le-mac-pourraient-bientot-subir-des-penuries.html",
+          "source": "Clubic",
+          "summary": "Tim Cook a tiré la sonnette d'alarme lors de la conférence de résultats du troisième trimestre 2026. Le patron d'Apple anticipe des difficultés d'approvisionnement croissantes pour ses trois appareils phares dans les…",
+          "published": "2026-08-01T11:35:00+00:00"
+        },
+        {
+          "title": "L'effet cheminée : la meilleure solution de refroidissement passif pour nos PC ? Il y a un mais...",
+          "link": "https://www.clubic.com/actualite-623758-l-effet-cheminee-la-meilleure-solution-de-refroidissement-passif-pour-nos-pc-il-y-a-un-mais.html",
+          "source": "Clubic",
+          "summary": "Spécialiste de tout ce qui est refroidissement de nos chers PC, der8auer s'est mis en tête de tester un système inédit… et encombrant !",
+          "published": "2026-08-01T11:16:00+00:00"
+        },
+        {
+          "title": "Incendies en Gironde vus depuis l’espace et sauvetage du Starship : le récap’ sciences de la semaine",
+          "link": "https://www.numerama.com/sciences/2304891-incendies-en-gironde-vus-depuis-lespace-et-sauvetage-du-starship-le-recap-sciences-de-la-semaine.html",
+          "source": "Numerama",
+          "summary": "L'actualité de la semaine du 27 juillet 2026 a été tristement marquée par les incendies en Gironde et dans Les Landes, dont les conséquences dévastatrices ont été observées depuis le ciel. SpaceX a aussi entamé le…",
+          "published": "2026-08-01T11:15:00+00:00"
+        },
+        {
+          "title": "C’est la batterie externe ultime pour l’écosystème Apple, et elle perd près de 20 % sur Amazon",
+          "link": "https://www.frandroid.com/bons-plans/3198227_cest-la-batterie-externe-ultime-pour-lecosysteme-apple-et-elle-perd-pres-de-20-sur-amazon",
+          "source": "Frandroid",
+          "summary": "La Belkin BoostCharge Pro est une batterie externe avec une capacité de 10 000 mAh, une puissance de 45 W et un chargeur Apple Watch intégré. C'est un accessoire indispensable pour l'été qui passe de 89,99 euros à 74,99…",
+          "published": "2026-08-01T11:09:00+00:00"
+        },
+        {
+          "title": "Voiture électrique : ce que révèlent vraiment les chiffres du marché automobile français de juillet",
+          "link": "https://www.numerama.com/vroom/2305405-voiture-electrique-ce-que-revelent-vraiment-les-chiffres-du-marche-automobile-francais-de-juillet.html",
+          "source": "Numerama",
+          "summary": "L’électrique prend l’avantage en juillet sur le marché français, devant chacune des catégories d’hybrides. Le mouvement profite d’abord à Renault, quand Tesla cale et que les constructeurs chinois avancent leurs pions.…",
+          "published": "2026-08-01T10:59:30+00:00"
+        },
+        {
+          "title": "GOG confirme penser à une version Linux de GOG Galaxy",
+          "link": "https://www.clubic.com/actualite-623755-gog-confirme-penser-a-une-version-linux-de-gog-galaxy.html",
+          "source": "Clubic",
+          "summary": "Un travail de fond est engagé autour de GOG Galaxy, mais aucune date de lancement d'une version Linux n'est pour l'heure annoncée.",
+          "published": "2026-08-01T10:43:00+00:00"
+        },
         {
           "title": "Samsung préparerait quatre nouveaux smartphones pliants et un modèle enroulable pour 2027",
           "link": "https://www.clubic.com/actualite-623746-samsung-preparerait-quatre-nouveaux-smartphones-pliants-et-un-modele-enroulable-pour-2027.html",
@@ -246,76 +316,6 @@
           "source": "Frandroid",
           "summary": "Quand on part en vacance pendant l'été, nos plantes souffrent et ont besoin d'un arrosage régulier pour survivre, en particulier en période de canicule. Que vous soyez en maison ou en appartement, il est très simple…",
           "published": "2026-08-01T10:00:00+00:00"
-        },
-        {
-          "title": "Le nouvel outil d'IA de Google Earth est déjà détourné pour créer de fausses images",
-          "link": "https://www.clubic.com/actualite-623752-le-nouvel-outil-d-ia-de-google-earth-est-deja-detourne-pour-creer-de-fausses-images.html",
-          "source": "Clubic",
-          "summary": "Une fonctionnalité de génération d’images par intelligence artificielle, intégrée cette semaine à Google Earth, recompose des vues satellites et aériennes réelles à partir d’une simple description. Un chercheur…",
-          "published": "2026-08-01T09:45:00+00:00"
-        },
-        {
-          "title": "Alors que les prix des PC s’envolent, ce laptop Lenovo (OLED + Ultra 7) s’offre une remise de 170 €",
-          "link": "https://www.frandroid.com/bons-plans/3197673_alors-que-les-prix-des-pc-senvolent-ce-laptop-lenovo-oled-ultra-7-soffre-une-remise-de-170-e",
-          "source": "Frandroid",
-          "summary": "Le Lenovo Yoga Slim 7 14ILL10 est un laptop qui mise sur un écran OLED et un processeur Intel Core Ultra 7 pour séduire. Il passe de 1 099,99 euros à 930,99 euros sur Amazon, soit 15 % d'économie.",
-          "published": "2026-08-01T09:23:00+00:00"
-        },
-        {
-          "title": "Stockage photo : les meilleurs clouds gratuits pour stocker vos photos en 2026",
-          "link": "https://www.clubic.com/stockage-en-ligne/guide-410529-meilleur-stockage-cloud-photo.html",
-          "source": "Clubic",
-          "summary": "Un téléphone perdu, un disque dur qui lâche, et ce sont des années de souvenirs qui peuvent disparaître en un instant. C'est précisément ce risque que le stockage cloud photo permet d'éviter, en mettant vos clichés à…",
-          "published": "2026-08-01T09:23:00+00:00"
-        },
-        {
-          "title": "Test du Ninja Crispi Pro : l’air fryer aux cuves en verre, sans téflon ni antiadhésif",
-          "link": "https://www.frandroid.com/test/3201135_test-ninja-crispi-pro",
-          "source": "Frandroid",
-          "summary": "Un air fryer dont les cuves sont entièrement en verre, sans le moindre revêtement antiadhésif : voilà la promesse du Ninja Crispi Pro 7-en-1. Après trois semaines à cuisiner avec, on vous explique pourquoi ce choix de…",
-          "published": "2026-08-01T08:58:07+00:00"
-        },
-        {
-          "title": "Google retire en urgence l’IA de Google Earth après la création de fausses images satellites",
-          "link": "https://www.frandroid.com/marques/google/3201137_google-retire-en-urgence-lia-de-google-earth-apres-la-creation-de-fausses-images-satellites",
-          "source": "Frandroid",
-          "summary": "Google a intégré à Google Earth une IA capable de fabriquer de fausses images satellites. Moins de 24 heures plus tard, la fonction avait disparu, faute de garde-fous contre les deepfakes.",
-          "published": "2026-08-01T08:55:00+00:00"
-        },
-        {
-          "title": "Voitures électriques : un podium 100 % Renault en juillet",
-          "link": "https://www.numerama.com/vroom/2305377-voitures-electriques-un-podium-100-renault-en-juillet.html",
-          "source": "Numerama",
-          "summary": "Le mois de juillet a encore été un très bon mois pour les immatriculations de voitures électriques en France. Renault est le leader incontesté du mois de juillet en classant trois de ses modèles sur le podium.",
-          "published": "2026-08-01T08:30:51+00:00"
-        },
-        {
-          "title": "Quelles sont les meilleures souris sans fil (Bluetooth) pour PC en 2026 ?",
-          "link": "https://www.frandroid.com/guide-dachat/630616_les-meilleures-souris-bluetooth-pour-votre-pc-ipad-ou-tablette-android",
-          "source": "Frandroid",
-          "summary": "Qu'elle accompagne un PC portable, un PC fixe ou une tablette, la souris sans fil est devenue l'accessoire indispensable de notre quotidien numérique. Ergonomie, autonomie et précision : découvrez notre sélection des…",
-          "published": "2026-08-01T08:02:02+00:00"
-        },
-        {
-          "title": "Test XGIMI Elfin Flip 4K : le projecteur à déplacer sans modération, aussi à l’aise en soirée qu’en mode ciné",
-          "link": "https://www.clubic.com/test-produit-621763-test-xgimi-elfin-flip-4k-le-projecteur-a-deplacer-sans-moderation-aussi-a-l-aise-en-soiree-qu-en-mode-cine.html",
-          "source": "Clubic",
-          "summary": "En milieu de gamme, les vidéoprojecteurs demandent souvent au consommateur de choisir entre une qualité d’image décente et un objet convivial, facile à transporter et configurer. Le nouvel Elfin Flip 4K de XGIMI rebat…",
-          "published": "2026-08-01T08:00:00+00:00"
-        },
-        {
-          "title": "Superchargeurs Tesla gratuits en Gironde, taxes sur les PHEV et un long trajet trop facile en citadine électrique : le récap’ Vroom de la semaine",
-          "link": "https://www.numerama.com/vroom/2305255-superchargeurs-tesla-gratuits-en-gironde-taxes-sur-les-phev-et-un-long-trajet-trop-facile-en-citadine-electrique-le-recap-vroom-de-la-semaine.html",
-          "source": "Numerama",
-          "summary": "À la une sur Vroom cette semaine : Tesla a rendu gratuit cinq Superchargeurs en Gironde et quatre en Espagne en soutien aux victimes d'incendie, Volkswagen veut que l'Europe taxe les hybrides rechargeables chinoises et…",
-          "published": "2026-08-01T07:58:00+00:00"
-        },
-        {
-          "title": "Logitech MX Keys S, le clavier qualifié de \"roi de la bureautique\" chute de prix sur Amazon",
-          "link": "https://www.clubic.com/bons-plans-623728-logitech-mx-keys-s-le-clavier-qualifie-de-roi-de-la-bureautique-chute-de-prix-sur-amazon.html",
-          "source": "Clubic",
-          "summary": "Pour ceux qui tapent plusieurs heures par jour sur leur ordinateur, le confort de frappe finit par peser lourd dans le choix d'un clavier. Le Logitech MX Keys S, régulièrement cité parmi les meilleurs claviers…",
-          "published": "2026-08-01T07:46:00+00:00"
         }
       ]
     }
