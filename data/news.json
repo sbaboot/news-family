@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-02T02:39:38.270950+00:00",
+  "generated_at": "2026-08-02T05:56:51.291912+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : à Kiev, le bilan de la frappe russe menée dans la nuit de vendredi à samedi s’élève à neuf morts et 33 blessés",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-a-kiev-le-bilan-de-la-frappe-russe-menee-dans-la-nuit-de-vendredi-a-samedi-s-eleve-a-neuf-morts-et-33-blesses_6732775_3210.html",
+          "title": "EN DIRECT, guerre en Ukraine : la Russie annonce avoir détruit 635 drones ukrainiens dans la nuit",
+          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-annonce-avoir-detruit-635-drones-ukrainiens-dans-la-nuit_6737250_3210.html",
           "source": "Le Monde",
-          "summary": "Le président ukrainien, Volodymyr Zelensky, a par ailleurs revendiqué, samedi, des frappes nocturnes contre « les infrastructures de trois raffineries russes au Bachkortostan », précisant qu’elles se situaient à près de…",
-          "published": "2026-08-01T22:58:32+00:00"
+          "summary": "Les frappes ukrainiennes ont fait deux morts dans l’oblast de Saratov. Un incendie s’est par ailleurs déclaré dans un entrepôt de Wildberries dans la région russe de Samara.",
+          "published": "2026-08-02T05:32:27+00:00"
         },
         {
-          "title": "Au Pérou, treize personnes, dont onze étrangers, meurent dans le crash d’un avion touristique près du site des lignes de Nazca",
-          "link": "https://www.lemonde.fr/international/article/2026/08/02/au-perou-treize-personnes-dont-onze-etrangers-meurent-dans-le-crash-d-un-avion-touristique-pres-du-site-des-lignes-de-nazca_6737245_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon la radio RPP, sept Italiens, deux Allemands et deux Espagnols se trouvent parmi les victimes. Il n’y a aucun survivant, a confirmé la police qui n’a pas précisé les causes de l’accident survenu lors d’une visite…",
-          "published": "2026-08-01T22:39:23+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : des ambassades américaines appellent leurs citoyens à « envisager de quitter » la région",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-des-ambassades-americaines-appellent-leurs-citoyens-a-envisager-de-quitter-la-region_6737099_3210.html",
-          "source": "Le Monde",
-          "summary": "En Jordanie, les citoyens américains ont été appelés à éviter les bases militaires américaines, récemment visées par des missiles iraniens. En Israël, il leur a été recommandé de repérer l’abri antiaérien le plus proche.",
-          "published": "2026-08-01T22:19:45+00:00"
-        },
-        {
-          "title": "Bande de Gaza : 112 corps extraits de décombres à Sabra, après deux semaines de recherches, selon la défense civile",
-          "link": "https://www.lemonde.fr/international/article/2026/08/02/bande-de-gaza-112-corps-extraits-de-decombres-a-sabra-apres-deux-semaines-de-recherches-selon-la-defense-civile_6737244_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon un responsable du projet d’extraction des dépouilles au sein de la défense civile du territoire palestinien, 157 autres personnes sont portées disparues sous les décombres du site, situé au sud de la ville de Gaza.",
-          "published": "2026-08-01T22:09:20+00:00"
-        },
-        {
-          "title": "Mali, les indépendantistes du FLA diffuse une vidéo de plus de 200 militaires capturés",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260801-mali-les-ind%C3%A9pendantistes-du-fla-diffuse-une-vid%C3%A9o-de-plus-de-200-militaires-captur%C3%A9s",
+          "title": "Guerre au Moyen-Orient : Donald Trump annonce suspendre les frappes américaines contre l'Iran",
+          "link": "https://www.france24.com/fr/moyen-orient/20260802-guerre-au-moyen-orient-donald-trump-annonce-suspendre-frappes-am%C3%A9ricaines-contre-iran",
           "source": "France 24",
-          "summary": "Les rebelles indépendantistes du Front de libération de l’Azawad (FLA) ont rendu public des vidéos montrant vivants les militaires maliens prisonniers qu’ils détiennent… Cela intervient dans un contexte précis:…",
-          "published": "2026-08-01T20:56:27+00:00"
+          "summary": "Donald Trump a déclaré dimanche que les frappes américaines prévues contre l'Iran étaient suspendues à la demande de Téhéran et des pays de la région, à condition qu'un accord soit rapidement conclu. \"Israël se joint à…",
+          "published": "2026-08-02T05:30:16+00:00"
         },
         {
-          "title": "Diaspora africaine : pourquoi le retour vers le continent séduit de plus en plus ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260801-diaspora-africaine-pourquoi-le-retour-vers-le-continent-s%C3%A9duit-de-plus-en-plus",
-          "source": "France 24",
-          "summary": "Après des décennies marquées par les départs, un mouvement inverse semble émerger. De plus en plus de membres de la diaspora africaine envisagent de revenir sur le continent pour investir, entreprendre ou s'y installer.…",
-          "published": "2026-08-01T20:14:31+00:00"
-        },
-        {
-          "title": "Ceuta : la quasi-totalité des migrants sont repartis au Maroc, l'UE se réunit mardi à ce sujet",
-          "link": "https://www.france24.com/fr/europe/20260801-ceuta-la-quasi-totalit%C3%A9-des-migrants-sont-repartis-au-maroc-l-ue-se-r%C3%A9unit-mardi-%C3%A0-ce-sujet",
-          "source": "France 24",
-          "summary": "Madrid a assuré samedi que la quasi-totalité des dizaines de milliers de migrants entrés illégalement dans l'enclave espagnole de Ceuta étaient repartis. Face à cette crise migratoire, les ministres de l'Intérieur des…",
-          "published": "2026-08-01T19:56:19+00:00"
-        },
-        {
-          "title": "Les incendies en France sont globalement \"sous contrôle\", assure le Premier ministre",
-          "link": "https://www.france24.com/fr/france/20260801-les-incendies-en-france-sont-globalement-sous-contr%C3%B4le-assure-le-premier-ministre",
-          "source": "France 24",
-          "summary": "Les incendies sont globalement \"aujourd'hui sous contrôle\" en France, a assuré samedi soir le Premier ministre Sébastien Lecornu. Le nouvel incendie dans le Var est \"stabilisé\" mais \"le combat continue\", selon le préfet…",
-          "published": "2026-08-01T18:58:40+00:00"
-        },
-        {
-          "title": "Comment la canicule a mis la Tunisie sous tension ? Comprendre en trois minutes",
-          "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/01/comment-la-canicule-a-mis-la-tunisie-sous-tension-comprendre-en-trois-minutes_6737243_6176282.html",
+          "title": "Intelligence artificielle : la mention « généré par IA » devient obligatoire dans l’UE",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/02/intelligence-artificielle-la-mention-genere-par-ia-devient-obligatoire-dans-l-ue_6737268_3234.html",
           "source": "Le Monde",
-          "summary": "Alors qu’une canicule étouffante affecte le réseau électrique du pays, des milliers de Tunisiens sont descendus dans la rue pour dénoncer l’inaction et la dérive autoritaire du pouvoir.",
-          "published": "2026-08-01T18:00:04+00:00"
+          "summary": "Une disposition-clé du règlement européen sur l’intelligence artificielle entre en vigueur dimanche 2 août. Les concepteurs et utilisateurs professionnels de systèmes d’IA devront mentionner que leurs contenus ont été…",
+          "published": "2026-08-02T05:28:32+00:00"
         },
         {
-          "title": "En Chine, avec la série « The Knockout », l’anticorruption conquiert le public",
-          "link": "https://www.lemonde.fr/culture/article/2026/08/01/en-chine-avec-la-serie-the-knockout-l-anticorruption-conquiert-le-public_6737240_3246.html",
+          "title": "Russie : au moins trois morts dans un attentat à la bombe dans un restaurant à Moscou",
+          "link": "https://www.france24.com/fr/europe/20260802-russie-au-moins-trois-morts-attentat-%C3%A0-la-bombe-restaurant-moscou-place-koudrine-engin-exposif-attaque-terroriste",
+          "source": "France 24",
+          "summary": "Un \"engin artisanal\" transporté par une femme inconnue a explosé samedi dans un restaurant de Moscou, en Russie. Au moins trois personnes sont mortes et 21 autres ont été blessées, ont annoncé les autorités.",
+          "published": "2026-08-02T05:10:45+00:00"
+        },
+        {
+          "title": "« Le premier mandat de Donald Trump annonçait déjà la débâcle actuelle au Moyen-Orient »",
+          "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/02/le-premier-mandat-de-donald-trump-annoncait-deja-la-debacle-actuelle-au-moyen-orient_6737267_6116995.html",
           "source": "Le Monde",
-          "summary": "« Tour du monde en séries » (6/6). Vu par 320 millions de spectateurs, le programme illustre la nouvelle stratégie de Pékin : se servir de divertissements de qualité pour vanter la politique menée par le régime de Xi…",
-          "published": "2026-08-01T17:00:05+00:00"
+          "summary": "Dès 2020, le président Trump avait fragilisé les Etats-Unis en capitulant face aux talibans, tandis que l’Iran et ses partisans multipliaient déjà les attaques contre les bases américaines.",
+          "published": "2026-08-02T05:00:11+00:00"
+        },
+        {
+          "title": "Espagne : climat politique sous forte tension",
+          "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260802-espagne-climat-politique-sous-forte-tension",
+          "source": "RFI",
+          "summary": "Il y a quatre-vingt dix ans, l’Espagne basculait dans la guerre civile. Le 17 juillet 1936, le pays entrait dans l’une des tragédies majeures du XXè siècle, une guerre qui a brisé durablement la société espagnole et…",
+          "published": "2026-08-02T05:00:06+00:00"
+        },
+        {
+          "title": "A Fnideq, près de Ceuta, la désillusion des jeunes Marocains après une traversée éclair en Europe",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/02/a-fnideq-pres-de-ceuta-la-desillusion-des-jeunes-marocains-apres-une-traversee-eclair-en-europe_6737266_3212.html",
+          "source": "Le Monde",
+          "summary": "Alors que 50 000 personnes, de jeunes Marocains pour l’essentiel, se ruaient sur l’enclave espagnole jeudi et vendredi, Ceuta est désormais désertée, la plupart des candidats à l’exil ayant fait demi-tour.",
+          "published": "2026-08-02T04:35:10+00:00"
+        },
+        {
+          "title": "L’Eglise de France se prépare à la visite historique du pape Léon XIV en septembre, avec une messe géante sur les Champs-Elysées en point d’orgue",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/02/l-eglise-de-france-se-prepare-a-la-visite-historique-du-pape-leon-xiv-en-septembre-avec-une-messe-geante-sur-les-champs-elysees-en-point-d-orgue_6737262_3224.html",
+          "source": "Le Monde",
+          "summary": "Le souverain pontife se rendra à Paris, à Lourdes et à Metz entre le 25 et le 28 septembre. Il s’agit de la première visite pontificale formelle en France depuis près de vingt ans.",
+          "published": "2026-08-02T04:30:08+00:00"
+        },
+        {
+          "title": "VIDEO - Mappemonde - La Russie de Poutine peut-elle encore contrôler l’Arctique ?",
+          "link": "https://www.lemonde.fr/international/video/2026/08/02/la-russie-de-poutine-peut-elle-encore-controler-l-arctique_6737263_3210.html",
+          "source": "Le Monde",
+          "summary": "De l’empire des tsars à Vladimir Poutine, l’Arctique est depuis plus d’un siècle le moteur économique et militaire de la Russie. Mais la diminution des financements menace aujourd’hui le rêve de puissance du président…",
+          "published": "2026-08-02T04:30:04+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump assure suspendre les frappes contre l’Iran à la demande de Téhéran et de pays de la région, dans l’attente d’un accord rapide",
+          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-donald-trump-assure-suspendre-des-frappes-contre-l-iran-a-la-demande-de-teheran-et-de-pays-de-la-region-dans-l-attente-d-un-accord-rapide_6737099_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon le président américain, qui avait menacé, vendredi lors d’un conseil des ministres, de frapper l’Iran « très fort », l’accord doit inclure « l’ouverture immédiate complète et totale du détroit d’Ormuz, ainsi que…",
+          "published": "2026-08-02T04:01:37+00:00"
         }
       ]
     },
@@ -84,25 +84,32 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "CF Montréal 2 – Revolution 2 | Un golazo de Brayan Vera sauve la mise pour le CF Montréal",
-          "link": "https://www.lapresse.ca/sports/soccer/2026-08-01/cf-montreal-2-revolution-2/un-golazo-de-brayan-vera-sauve-la-mise-pour-le-cf-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "République démocratique du Congo | L’Ebola poursuit ses ravages",
+          "link": "https://www.lapresse.ca/international/afrique/2026-08-02/republique-democratique-du-congo/l-ebola-poursuit-ses-ravages.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le stade Saputo était en train de roupiller. Après tout, le CF Montréal n’avait pas marqué en MLS depuis le 23 mai, et il était en retard par deux buts face au Revolution. Puis, Brayan Vera a ouvert les lumières.",
+          "summary": "L’épidémie d’Ebola qui frappe la République démocratique du Congo (RDC) progresse à une vitesse inédite et continue de s’étendre géographiquement malgré les efforts du personnel médical déployé sur le terrain.",
+          "published": "2026-08-02T04:00:00+00:00"
+        },
+        {
+          "title": "État de Washington | Un incendie de forêt attisé par le vent entraîne des évacuations",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-01/etat-de-washington/un-incendie-de-foret-attise-par-le-vent-entraine-des-evacuations.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un incendie de forêt se propageant rapidement, attisé par des vents violents et des températures élevées, a balayé le nord-ouest de Spokane samedi avant de franchir la rivière Spokane et de provoquer l’évacuation de…",
+          "published": "2026-08-02T03:17:46+00:00"
+        },
+        {
+          "title": "Conflit au Moyen-Orient | Trump suspend les frappes américaines contre l’Iran",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-01/conflit-au-moyen-orient/trump-suspend-les-frappes-americaines-contre-l-iran.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le président Donald Trump a déclaré samedi que les États-Unis et Israël avaient convenu de suspendre les nouvelles frappes prévues contre l’Iran à la demande de Téhéran et d’autres pays de la région, à condition qu’un…",
+          "published": "2026-08-02T03:13:56+00:00"
+        },
+        {
+          "title": "CF Montréal 2 – Revolution 2 | Quand la magie et la « résilience » se côtoient",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-08-01/cf-montreal-2-revolution-2/quand-la-magie-et-la-resilience-se-cotoient.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le stade Saputo était en train de roupiller. Après tout, le CF Montréal n’avait pas marqué en MLS depuis le 23 mai, et il était en retard par deux buts face au Revolution. Puis Brayan Vera a ouvert les lumières.",
           "published": "2026-08-02T01:48:53+00:00"
-        },
-        {
-          "title": "Idaho | Une fusillade dans un restaurant fait trois morts",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-01/idaho/une-fusillade-dans-un-restaurant-fait-trois-morts.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une fusillade mortelle a éclaté samedi après-midi dans un établissement de restauration rapide de l’Idaho dans l’ouest des États-Unis, a annoncé la police sans donner de précisions sur le nombre de victimes. Le…",
-          "published": "2026-08-02T00:55:40+00:00"
-        },
-        {
-          "title": "Cuba | Cinq des 15 provinces sans électricité en raison d’une panne sur le réseau",
-          "link": "https://www.lapresse.ca/international/caraibes/2026-08-01/cuba/cinq-des-15-provinces-sans-electricite-en-raison-d-une-panne-sur-le-reseau.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Cinq des 15 provinces de Cuba, dont celle de La Havane, ont été privées d’électricité samedi soir à la suite d’une panne sur le réseau de l’île soumise à un blocus pétrolier américain, a annoncé la compagnie nationale…",
-          "published": "2026-08-02T00:28:10+00:00"
         },
         {
           "title": "Le téléphone dans la chambre : ennemi du couple ?",
@@ -145,13 +152,6 @@
           "source": "Journal de Montreal",
           "summary": "L’Ontarien Duncan Chan a battu un joueur du top 100 mondial.",
           "published": "2026-08-01T20:40:54+00:00"
-        },
-        {
-          "title": "Pérou : 13 morts dans l'écrasement d'un petit avion transportant des touristes",
-          "link": "https://www.journaldemontreal.com/2026/08/01/perou-13-morts-dans-lecrasement-dun-petit-avion-transportant-des-touristes",
-          "source": "Journal de Montreal",
-          "summary": "Au moins 13 personnes sont décédées samedi dans l'écrasement d'un petit avion transportant des touristes dans le sud du Pérou.",
-          "published": "2026-08-01T20:36:51+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "Nirmal Purja, alpiniste star du Népal et roi du business en Himalaya, est mort",
-          "link": "https://www.lefigaro.fr/international/nirmal-purja-alpiniste-star-du-nepal-et-roi-du-business-en-himalaya-est-mort-20260801",
+          "title": "La Corée du Sud enregistre un nouveau record de température, à 42,5°C... la plus élevée depuis 1904",
+          "link": "https://www.lefigaro.fr/international/la-coree-du-sud-enregistre-un-nouveau-record-de-temperature-a-42-50c-la-plus-elevee-depuis-1904-20260802",
           "source": "Le Figaro",
-          "summary": "PORTRAIT - Emporté avec neuf autres alpinistes sur le Broad Peak, un sommet de plus de 8000 mètres, l’alpiniste était devenu ces dernières années une vedette controversée de la discipline.",
-          "published": "2026-08-02T02:28:08+00:00"
+          "summary": "Mi-juillet, Séoul avait émis pour la première fois une alerte météorologique maximale.",
+          "published": "2026-08-02T05:43:42+00:00"
         },
         {
-          "title": "Gaza: huit morts dans des frappes israéliennes nocturnes",
-          "link": "https://www.lefigaro.fr/international/gaza-huit-morts-dans-des-frappes-israeliennes-nocturnes-20260802",
+          "title": "Guerre en Ukraine : la Russie dit avoir détruit 635 drones ukrainiens pendant la nuit",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-russie-dit-avoir-detruit-635-drones-ukrainiens-pendant-la-nuit-20260802",
           "source": "Le Figaro",
-          "summary": "Plusieurs immeubles résidentiels ont été touchés dans la nuit et au moins huit personnes ont été tuées, ont indiqué tôt des responsables de la Défense civile.",
-          "published": "2026-08-02T02:21:37+00:00"
+          "summary": "Ces engins ont été abattus au-dessus de plusieurs régions revendiquées par la Russie.",
+          "published": "2026-08-02T05:42:57+00:00"
         },
         {
-          "title": "États-Unis: fusillade mortelle dans un restaurant de l'Idaho",
-          "link": "https://www.lefigaro.fr/international/etats-unis-fusillade-mortelle-dans-un-restaurant-de-l-idaho-20260802",
-          "source": "Le Figaro",
-          "summary": "L’assaillant a été tué dans l’attaque, qui s’est déroulée dans le restaurant de hamburger In-N-Out. Plusieurs victimes sont à déplorer.",
-          "published": "2026-08-02T01:02:06+00:00"
-        },
-        {
-          "title": "Sébastien Ogier et son copilote indemnes après une sortie de route spectaculaire au rallye de Finlande",
-          "link": "https://www.lemonde.fr/sport/article/2026/08/02/sebastien-ogier-et-son-copilote-indemnes-apres-une-sortie-de-route-spectaculaire-au-rallye-de-finlande_6737246_3242.html",
-          "source": "Le Monde",
-          "summary": "Le nonuple champion du monde et son copilote Julien Ingrassia passent la nuit de samedi à dimanche en observation à l’hôpital après des examens rassurants. Cet abandon freine le pilote français dans sa course à un…",
-          "published": "2026-08-02T00:52:13+00:00"
-        },
-        {
-          "title": "Cinq des 15 provinces de Cuba privées d'électricité",
-          "link": "https://www.lefigaro.fr/international/cinq-des-15-provinces-de-cuba-privees-d-electricite-20260802",
-          "source": "Le Figaro",
-          "summary": "Frappé par une grave crise économique depuis cinq ans, le pays subit régulièrement des coupures de courant totales ou partielles en raison de l’infrastructure obsolète et de la pénurie de carburant.",
-          "published": "2026-08-02T00:37:51+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : à Kiev, le bilan de la frappe russe menée dans la nuit de vendredi à samedi s’élève à neuf morts et 33 blessés",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-a-kiev-le-bilan-de-la-frappe-russe-menee-dans-la-nuit-de-vendredi-a-samedi-s-eleve-a-neuf-morts-et-33-blesses_6732775_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président ukrainien, Volodymyr Zelensky, a par ailleurs revendiqué, samedi, des frappes nocturnes contre « les infrastructures de trois raffineries russes au Bachkortostan », précisant qu’elles se situaient à près de…",
-          "published": "2026-08-01T22:58:32+00:00"
-        },
-        {
-          "title": "EN DIRECT, incendies : les feux sont aujourd’hui globalement « sous contrôle » en France, selon Sébastien Lecornu",
-          "link": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-les-feux-sont-aujourd-hui-globalement-sous-controle-en-france-selon-sebastien-lecornu_6737097_3244.html",
-          "source": "Le Monde",
-          "summary": "Le nouvel incendie qui touche le Var est « stabilisé » mais ce « n’est pas la fin de guerre contre ce feu » en raison des vents imprévisibles, a mis en garde le préfet, Simon Babre. L’incendie en Gironde, qui a brûlé 42…",
-          "published": "2026-08-01T22:55:38+00:00"
-        },
-        {
-          "title": "Au Pérou, treize personnes, dont onze étrangers, meurent dans le crash d’un avion touristique près du site des lignes de Nazca",
-          "link": "https://www.lemonde.fr/international/article/2026/08/02/au-perou-treize-personnes-dont-onze-etrangers-meurent-dans-le-crash-d-un-avion-touristique-pres-du-site-des-lignes-de-nazca_6737245_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon la radio RPP, sept Italiens, deux Allemands et deux Espagnols se trouvent parmi les victimes. Il n’y a aucun survivant, a confirmé la police qui n’a pas précisé les causes de l’accident survenu lors d’une visite…",
-          "published": "2026-08-01T22:39:23+00:00"
-        },
-        {
-          "title": "Bande de Gaza : 112 corps extraits de décombres à Sabra, après deux semaines de recherches, selon la défense civile",
-          "link": "https://www.lemonde.fr/international/article/2026/08/02/bande-de-gaza-112-corps-extraits-de-decombres-a-sabra-apres-deux-semaines-de-recherches-selon-la-defense-civile_6737244_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon un responsable du projet d’extraction des dépouilles au sein de la défense civile du territoire palestinien, 157 autres personnes sont portées disparues sous les décombres du site, situé au sud de la ville de Gaza.",
-          "published": "2026-08-01T22:09:20+00:00"
-        },
-        {
-          "title": "\"On est passés à trois fois rien...\" : En Gironde, les habitants évacués regagnent leurs logements",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/on-est-passes-a-trois-fois-rien-en-gironde-les-habitants-evacues-regagnent-leurs-logements_8131649.html#xtor=RSS-3-[lestitres]",
+          "title": "Le crash d'un avion transportant des touristes au Pérou fait treize morts",
+          "link": "https://www.franceinfo.fr/faits-divers/le-crash-d-un-avion-transportant-des-touristes-au-perou-fait-treize-morts_8131931.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "En Gironde, le feu ne progresse plus, il est \"fixé\". La plupart des 220 000 évacués ont pu rentrer chez eux. Un soulagement pour beaucoup, et pour d'autres, moins chanceux, des scènes de désolation.",
-          "published": "2026-08-01T21:28:24+00:00"
+          "summary": "Onze touristes étaient à bord de l'avion : sept Italiens, deux Allemands et deux Espagnols. Les victimes étaient âgées de 24 à 78 ans.",
+          "published": "2026-08-02T05:36:33+00:00"
+        },
+        {
+          "title": "L’acteur américain Vincent Pastore, l'indic «Big Pussy» dans «Les Soprano», est décédé à 80 ans",
+          "link": "https://www.lefigaro.fr/culture/l-acteur-americain-vincent-pastore-l-indic-big-pussy-dans-les-soprano-est-decede-a-80-ans-20260802",
+          "source": "Le Figaro",
+          "summary": "Il a incarné le bras droit du mafieux Tony Soprano, devenu ensuite un indic du FBI après avoir été arrêté par la police fédérale.",
+          "published": "2026-08-02T05:34:55+00:00"
+        },
+        {
+          "title": "Incendies : les feux sont globalement «sous contrôle» en France, annonce Sébastien Lecornu",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-chaleur-meteo-incendies-feux-sud-france-var-20260801",
+          "source": "Le Figaro",
+          "summary": "Le préfet du Var Simon Babre indique que les sapeurs-pompiers au sol sont toujours appuyés par des moyens aériens autour de Correns, avec «5 Canadair, trois Dash et 5 hélicoptères bombardiers d’eau».",
+          "published": "2026-08-02T05:33:42+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : la Russie annonce avoir détruit 635 drones ukrainiens dans la nuit",
+          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-annonce-avoir-detruit-635-drones-ukrainiens-dans-la-nuit_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Les frappes ukrainiennes ont fait deux morts dans l’oblast de Saratov. Un incendie s’est par ailleurs déclaré dans un entrepôt de Wildberries dans la région russe de Samara.",
+          "published": "2026-08-02T05:32:27+00:00"
+        },
+        {
+          "title": "Guerre au Moyen-Orient: Donald Trump dit avoir annulé une attaque sur l’Iran",
+          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-dit-avoir-annule-une-attaque-sur-l-iran-20260802",
+          "source": "Le Figaro",
+          "summary": "Le président américain a déclaré que les États-Unis et Israël avaient convenu de suspendre les nouvelles frappes prévues contre l’Iran à la demande de Téhéran et d’autres pays de la région, à condition qu’un accord soit…",
+          "published": "2026-08-02T05:32:20+00:00"
+        },
+        {
+          "title": "Injections esthétiques illégales : \"Combien de morts faudra-t-il encore Madame la Ministre ?\", interpellent 5 000 médecins dans une tribune",
+          "link": "https://www.franceinfo.fr/sante/injections-esthetiques-illegales-combien-de-morts-faudra-t-il-encore-madame-la-ministre-interpellent-5-000-medecins-dans-une-tribune_8131880.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les praticiens dénoncent la multiplication des actes réalisés par des personnes sans compétences médicales. Deux jeunes femmes sont mortes ces derniers mois après des injections esthétiques illégales. Les médecins…",
+          "published": "2026-08-02T05:13:54+00:00"
+        },
+        {
+          "title": "\"C'est une bouée de sauvetage face à la sécheresse\" : dans les Pyrénées-Orientales, les eaux usées des touristes irriguent les vergers des agriculteurs",
+          "link": "https://www.franceinfo.fr/environnement/actions-ecologiques/en-toute-sobriete-face-a-la-crise-climatique/reportage-c-est-une-bouee-de-sauvetage-face-a-la-secheresse-dans-les-pyrenees-orientales-les-eaux-usees-des-touristes-irriguent-les-vergers-des-agriculteurs_8126768.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Notre série \"En toute sobriété\" met en avant des solutions locales pour réduire nos consommations et agir face à l'urgence climatique. Dans cet épisode, une communauté de communes a mis en place une installation de…",
+          "published": "2026-08-02T05:00:56+00:00"
+        },
+        {
+          "title": "Divorce houleux, détective privé et livreur Deliveroo : les dessous de l’assassinat de Cécile Poisson, brillante agrégée de lettres égorgée par son mari",
+          "link": "https://www.lefigaro.fr/faits-divers/divorce-houleux-detective-prive-et-livreur-deliveroo-les-dessous-de-l-assassinat-de-cecile-poisson-brillante-agregee-de-lettres-egorgee-par-son-mari-20260802",
+          "source": "Le Figaro",
+          "summary": "EXCLUSIF - Déguisé en livreur Deliveroo, François-Xavier Hussherr poignardait à mort son épouse dans le hall de son immeuble à Paris en mars 2023. Il sera jugé aux assises en janvier. L’enquête dévoile une préparation…",
+          "published": "2026-08-02T05:00:00+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "RTX 5090, 96 Go de RAM et écran Mini LED 4K : ce PC portable gaming ultime s’allège de 800 €",
+          "link": "https://www.frandroid.com/bons-plans/3200375_rtx-5090-96-go-de-ram-et-ecran-mini-led-4k-ce-pc-portable-gaming-ultime-sallege-de-800-e",
+          "source": "Frandroid",
+          "summary": "L'Acer Predator Helios 18 AI propose une fiche technique ultra-musclée : écran Mini LED 4K de 18 pouces, processeur Intel Core Ultra 9, GeForce RTX 5090 et 96 Go de RAM DDR5. Cette configuration extrême est proposée à 5…",
+          "published": "2026-08-02T05:02:00+00:00"
+        },
         {
           "title": "iPhone 17 Pro Max à 1 260 € : le prix le plus bas jamais vu sur ce modèle",
           "link": "https://www.frandroid.com/marques/apple/3201285_iphone-17-pro-max-a-1-260-e-le-prix-le-plus-bas-jamais-vu-sur-ce-modele",
@@ -309,13 +316,6 @@
           "source": "Clubic",
           "summary": "Snap Inc. Sanctionne les vidéos entièrement générées par intelligence artificielle. Elles ne seront plus éligibles aux recommandations de Spotlight, sa fonction de vidéos courtes. L’entreprise veut privilégier la…",
           "published": "2026-08-01T15:38:00+00:00"
-        },
-        {
-          "title": "La découverte d’une NES spéciale dans un love hotel relance une vieille légende urbaine sur Nintendo",
-          "link": "https://www.numerama.com/pop-culture/2303271-la-decouverte-dune-nes-speciale-dans-un-love-hotel-relance-une-vieille-legende-urbaine-sur-nintendo.html",
-          "source": "Numerama",
-          "summary": "Les légendes urbaines du jeu vidéo, on adore ça. Rien de mieux qu'un bon vieux mythe sur un jeu ou une console rétro pour partir dans une quête de savoir interminable et passionnante. Notre histoire d'aujourd'hui…",
-          "published": "2026-08-01T15:02:00+00:00"
         }
       ]
     }
