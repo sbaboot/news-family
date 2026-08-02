@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-08-02T19:07:40.289133+00:00",
+  "generated_at": "2026-08-02T21:54:48.639400+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Pourquoi certains États veulent quitter la Cour Pénale internationale",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260802-pourquoi-certains-%C3%A9tats-veulent-quitter-la-cour-p%C3%A9nale-internationale",
+          "source": "France 24",
+          "summary": "Après le Burkina Faso, le Mali et le Niger, le Tchad a annoncé le 27 juillet son retrait de la Cour pénale internationale. C’est une nouvelle étape dans la stratégie diplomatique de ces États du Sahel. Après leur départ…",
+          "published": "2026-08-02T20:36:31+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : en une semaine, 1 900 drones et 144 missiles russes ont visé 16 régions ukrainiennes, selon Volodymyr Zelensky",
+          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-en-une-semaine-1-900-drones-et-144-missiles-russes-ont-vise-16-regions-ukrainiennes-selon-volodymyr-zelensky_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Il y dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de différents types, dont…",
+          "published": "2026-08-02T20:26:45+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit être proche d’un accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d’Ormuz",
+          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html",
+          "source": "Le Monde",
+          "summary": "Des efforts seraient par ailleurs en cours pour ranimer le protocole d’accord avec Washington après que Donald Trump a annoncé suspendre de nouvelles frappes sur l’Iran.",
+          "published": "2026-08-02T20:21:56+00:00"
+        },
+        {
+          "title": "Pourquoi le Mali, le Burkina Faso, le Niger et le Tchad quittent-ils la Cour pénale internationale ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-pourquoi-le-mali-le-burkina-faso-le-niger-et-le-tchad-quittent-la-cour-p%C3%A9nale-internationale",
+          "source": "France 24",
+          "summary": "Le Burkina Faso, le Mali et le Niger ont annoncé leur retrait de la Cour pénale internationale. Les trois pays de l'Alliance des États du Sahel dénoncent une justice internationale qu'ils jugent partiale et…",
+          "published": "2026-08-02T20:17:59+00:00"
+        },
         {
           "title": "Au Brésil, Lula, 80 ans, lance sa campagne pour décrocher un quatrième mandat",
           "link": "https://www.lemonde.fr/international/article/2026/08/02/au-bresil-lula-80-ans-lance-sa-campagne-pour-decrocher-un-quatrieme-mandat_6737314_3210.html",
@@ -40,39 +68,11 @@
           "published": "2026-08-02T16:19:41+00:00"
         },
         {
-          "title": "Ceuta : au moins 72 migrants sont morts en tentant de rejoindre l'enclave espagnole",
+          "title": "Au moins 72 migrants sont morts en tentant de rejoindre Ceuta, selon Madrid",
           "link": "https://www.france24.com/fr/europe/20260802-ceuta-au-moins-72-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-espagnole",
           "source": "France 24",
-          "summary": "L'afflux inédit de dizaines de milliers de personnes à Ceuta ces derniers jours a causé la mort d'au moins 72 migrants ayant tenté de rejoindre l'enclave espagnole. La police et l'armée poursuivaient leurs patrouilles,…",
+          "summary": "L'afflux inédit de dizaines de milliers de personnes à Ceuta ces derniers jours a causé la mort d'au moins 72 migrants ayant tenté de rejoindre l'enclave espagnole, selon Madrid. Le ministère de l'Intérieur marocain a…",
           "published": "2026-08-02T16:19:37+00:00"
-        },
-        {
-          "title": "Trump suspend les frappes contre l'Iran sous condition d'un accord rapide",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-trump-suspend-les-frappes-contre-l-iran-sous-condition-d-un-accord-rapide",
-          "source": "France 24",
-          "summary": "Donald Trump a annoncé avoir renoncé à de nouvelles frappes massives contre l'Iran à la demande de pays de la région, à condition qu'un accord avec Téhéran soit rapidement conclu, en particulier sur le stratégique…",
-          "published": "2026-08-02T16:11:27+00:00"
-        },
-        {
-          "title": "Incendies en Grèce : \"Tout ce qui existait a été détruit\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-incendies-en-gr%C3%A8ce-tout-ce-qui-existait-a-%C3%A9t%C3%A9-d%C3%A9truit",
-          "source": "France 24",
-          "summary": "En une semaine, plus de 12 000 hectares de forêts et de terres agricoles ont brûlé en Grèce, pays touché de plein fouet par la crise climatique, comme l'ensemble du pourtour méditerranéen.",
-          "published": "2026-08-02T16:07:41+00:00"
-        },
-        {
-          "title": "« Dominican Sisters Open Mic » : des nonnes américaines font vœu de podcast et triomphent en ligne",
-          "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/08/02/dominican-sisters-open-mic-des-nonnes-americaines-font-v-u-de-podcast-et-triomphent-en-ligne_6737306_6038514.html",
-          "source": "Le Monde",
-          "summary": "En quelques mois, la foi fervente et enjouée des religieuses de l’ordre Sisters of Mary, Mother of the Eucharist ont conquis sur les réseaux sociaux un public qui dépasse le cercle catholique. Un mode d’évangélisation…",
-          "published": "2026-08-02T16:00:19+00:00"
-        },
-        {
-          "title": "Bande de Gaza : des bombardements israéliens font au moins 13 morts malgré l’accord annoncé",
-          "link": "https://www.lemonde.fr/international/article/2026/08/02/bande-de-gaza-des-bombardements-israeliens-font-au-moins-13-morts-malgre-l-accord-annonce_6737303_3210.html",
-          "source": "Le Monde",
-          "summary": "Les frappes israéliennes et les tirs qui se sont poursuivis dans la nuit de samedi à dimanche ont touché plusieurs immeubles d’habitation.",
-          "published": "2026-08-02T15:41:25+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "«En pleine forme», Lula se lance dans sa dernière bataille électorale au Brésil",
-          "link": "https://www.ledevoir.com/monde/ameriques/999236/pleine-forme-lula-lance-derniere-bataille-electorale-bresil",
-          "source": "Le Devoir",
-          "summary": "La campagne est placée sous le signe du président Donald Trump, allié de la famille Bolsonaro.",
-          "published": "2026-08-02T18:35:00+00:00"
-        },
-        {
-          "title": "Côte-des-Neiges–Notre-Dame-de-Grâce | Le SPVM enquête sur un incendie ayant ravagé un restaurant casher",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-02/cote-des-neiges-notre-dame-de-grace/le-spvm-enquete-sur-un-incendie-ayant-ravage-un-restaurant-casher.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le corps d’un pêcheur montréalais repêché en Haute-Gaspésie",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-02/le-corps-d-un-pecheur-montrealais-repeche-en-haute-gaspesie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le Service de police de la Ville de Montréal (SPVM) mène une enquête après qu’un incendie a gravement endommagé, dans la nuit de samedi, un restaurant casher situé dans l’arrondissement de…",
-          "published": "2026-08-02T18:13:37+00:00"
+          "summary": "Après deux semaines de recherche, le corps du pêcheur Pepito Jr Labador a été retrouvé sans vie, sans les eaux du fleuve Saint-Laurent, dans le secteur de la municipalité de Marsoui, en Gaspésie.",
+          "published": "2026-08-02T21:45:35+00:00"
         },
         {
-          "title": "Orages violents et fortes pluies attendus au Québec",
-          "link": "https://www.lapresse.ca/actualites/2026-08-02/orages-violents-et-fortes-pluies-attendus-au-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Omnium Banque Nationale | Alexander Zverev à la défense de ses pairs",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-02/omnium-banque-nationale/alexander-zverev-a-la-defense-de-ses-pairs.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "De 50 à 100 mm de pluie sont attendus dans de nombreux secteurs de l’ouest et du nord québécois dimanche, alors que les régions de Montréal, Trois-Rivières et Québec doivent s’attendre à des orages violents, selon des…",
-          "published": "2026-08-02T17:52:24+00:00"
+          "summary": "Chose certaine, Alexander Zverev n’est pas le plus grand partisan des tournois Masters 1000 de 12 jours. En conférence de presse, dimanche, la première tête de série de l’Omnium Banque Nationale a pris la défense des…",
+          "published": "2026-08-02T21:09:01+00:00"
         },
         {
-          "title": "Treize Palestiniens tués par des frappes israéliennes sur Gaza",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/999233/treize-palestiniens-tues-frappes-israeliennes-gaza",
+          "title": "À surveiller dans le monde des affaires",
+          "link": "https://www.ledevoir.com/economie/999254/surveiller-monde-affaires",
           "source": "Le Devoir",
-          "summary": "Les bombardements d’Israël ont touché plusieurs immeubles d’habitation.",
-          "published": "2026-08-02T17:42:00+00:00"
+          "summary": "Cinq éléments à surveiller dans le monde des affaires au Canada au cours de la semaine à venir.",
+          "published": "2026-08-02T21:05:26+00:00"
         },
         {
-          "title": "Après l’effervescence | Les microbrasseries rattrapées par la réalité",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-02/apres-l-effervescence/les-microbrasseries-rattrapees-par-la-realite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La microbrasserie de David Côté a fait faillite l’an dernier, après 14 mois d’activités. Le brasseur vient de repartir en affaires, au même endroit, mais sur de nouvelles bases.",
-          "published": "2026-08-02T17:00:00+00:00"
+          "title": "Pêcheur montréalais emporté dans le fleuve: son corps repêché en Haute-Gaspésie",
+          "link": "https://www.journaldemontreal.com/2026/08/02/pecheur-montrealais-emporte-dans-le-fleuve-son-corps-repeche-en-haute-gaspesie",
+          "source": "Journal de Montreal",
+          "summary": "Le corps d'un Montréalais, emporté par les eaux du fleuve Saint-Laurent alors qu'il pêchait en Haute-Gaspésie, a été retrouvé dimanche matin.",
+          "published": "2026-08-02T20:58:43+00:00"
         },
         {
-          "title": "Des voyageurs à l’aéroport de Montréal dénoncent le manque de communication de WestJet",
-          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/999230/voyageurs-aeroport-montreal-denoncent-manque-communication-westjet",
+          "title": "Denis Shapovalov aura du temps",
+          "link": "https://www.journaldemontreal.com/2026/08/02/denis-shapovalov-aura-du-temps",
+          "source": "Journal de Montreal",
+          "summary": "Même s’il a disputé une finale ce week-end, Denis Shapovalov aura un peu de temps pour recharger ses batteries avant de jouer à Montréal.",
+          "published": "2026-08-02T20:53:45+00:00"
+        },
+        {
+          "title": "À TVA Sports: c'est le début de l'Omnium Banque Nationale",
+          "link": "https://www.journaldemontreal.com/2026/08/02/a-tva-sports-cest-le-debut-de-lomnium-banque-nationale",
+          "source": "Journal de Montreal",
+          "summary": "Toute l'action commence sur nos ondes aujourd'hui.",
+          "published": "2026-08-02T20:52:36+00:00"
+        },
+        {
+          "title": "Le SPVM enquête sur un incendie ayant ravagé un restaurant casher",
+          "link": "https://www.ledevoir.com/actualites/999251/spvm-enquete-incendie-ayant-ravage-restaurant-casher",
           "source": "Le Devoir",
-          "summary": "«J’aimerais juste qu’on m’explique ce qui se passe», dit Lynda Dow, dont le vol a été annulé à cause de la grève.",
-          "published": "2026-08-02T16:20:00+00:00"
+          "summary": "La police dit qu’il s’agit d’un incendie provoqué volontairement.",
+          "published": "2026-08-02T20:51:03+00:00"
         },
         {
-          "title": "Des incendies de forêt dévastateurs font rage dans l’État de Washington",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-02/des-incendies-de-foret-devastateurs-font-rage-dans-l-etat-de-washington.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Des incendies de forêt se propageant à vive allure ont ravagé la ville de Spokane, dans l’État de Washington au nord-ouest des États-Unis, entre samedi et dimanche, détruisant plusieurs centaines de bâtiments et…",
-          "published": "2026-08-02T16:01:47+00:00"
-        },
-        {
-          "title": "Huit morts en Russie dans des frappes ukrainiennes",
-          "link": "https://www.ledevoir.com/monde/europe/999227/huit-morts-russie-frappes-ukrainiennes",
+          "title": "Magistral Prokofiev à Lanaudière",
+          "link": "https://www.ledevoir.com/culture/musique/999248/magistral-prokofiev-lanaudiere",
           "source": "Le Devoir",
-          "summary": "Kiev et Moscou font monter en puissance leurs frappes à longue portée depuis des mois.",
-          "published": "2026-08-02T15:55:00+00:00"
+          "summary": "Entente totale et émulation entre Bruce Liu et Rafael Payare samedi.",
+          "published": "2026-08-02T20:50:00+00:00"
         },
         {
-          "title": "Que faire si votre vol avec WestJet est annulé en raison de la grève ?",
-          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/999224/quoi-faire-si-votre-vol-westjet-est-annule-raison-greve",
-          "source": "Le Devoir",
-          "summary": "La compagnie aérienne a l’obligation légale de vous offrir des options de rechange ou de vous rembourser.",
-          "published": "2026-08-02T15:10:00+00:00"
+          "title": "Au moins 72 migrants sont morts en essayant de gagner l'enclave de Ceuta",
+          "link": "https://www.journaldemontreal.com/2026/08/02/au-moins-72-migrants-sont-morts-en-essayant-de-gagner-lenclave-de-ceuta",
+          "source": "Journal de Montreal",
+          "summary": "Au moins 72 personnes sont mortes en voulant rejoindre illégalement l'enclave espagnole de Ceuta sur la côte nord du Maroc.",
+          "published": "2026-08-02T20:38:02+00:00"
         },
         {
-          "title": "Israël affirme avoir de sérieuses réserves concernant le désarmement du Hamas",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/999221/israel-affirme-avoir-serieuses-reserves-concernant-desarmement-hamas",
-          "source": "Le Devoir",
-          "summary": "L’armée israélienne ne se retirera pas de Gaza — qu’elle contrôle en majorité — avant que le Hamas ne se désarme.",
-          "published": "2026-08-02T15:00:00+00:00"
+          "title": "La bataille du Michigan: une primaire sénatoriale qui expose les divisions du Parti démocrate",
+          "link": "https://www.journaldemontreal.com/2026/08/02/la-bataille-du-michigan-une-primaire-senatoriale-qui-expose-les-divisions-du-parti-democrate",
+          "source": "Journal de Montreal",
+          "summary": "La primaire sénatoriale du Michigan, qui se tiendra mardi, s’annonce particulièrement révélatrice des tensions qui traversent le Parti démocrate.",
+          "published": "2026-08-02T20:35:19+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "L'avocat Antoine Vey est mis en examen pour harcèlement moral envers d’anciens collaborateurs",
-          "link": "https://www.lefigaro.fr/actualite-france/l-avocat-antoine-vey-est-mis-en-examen-pour-harcelement-moral-envers-d-anciens-collaborateurs-20260802",
+          "title": "Ceuta : le Maroc annonce, dans son premier bilan officiel, la mort de 11 migrants, tandis que l’Espagne en recense 72",
+          "link": "https://www.lefigaro.fr/international/ceuta-le-maroc-annonce-dans-son-premier-bilan-officiel-la-mort-de-11-migrants-20260802",
           "source": "Le Figaro",
-          "summary": "Ses anciens salariés ou jeunes collaborateurs accusent l’ex associé d’Éric Dupond-Moretti de dénigrements répétés à leur égard, de comportements versatiles ou humiliants.",
-          "published": "2026-08-02T19:02:58+00:00"
-        },
-        {
-          "title": "Incendies : en Gironde, réintégration autorisée lundi à Lège-Cap-Ferret et au Porge",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
-          "source": "Liberation",
-          "summary": "Les deux communes girondines, particulièrement ciblées par les flammes figurent parmi les dernières à recevoir une autorisation de réintégration.",
-          "published": "2026-08-02T19:02:36+00:00"
-        },
-        {
-          "title": "Frappés par la soudaineté de la vague migratoire, les habitants de Ceuta s’inquiètent de la fragilité de l’enclave espagnole",
-          "link": "https://www.lefigaro.fr/international/frappes-pas-la-soudainete-de-la-vague-migratoire-les-habitants-de-ceuta-s-inquietent-de-la-fragilite-de-l-enclave-espagnole-20260802",
-          "source": "Le Figaro",
-          "summary": "Faute de débouché, la plupart des candidats à l’exil ont pris le chemin du retour. Choquée, ébranlée, la population tente de reprendre le contrôle de la ville. Mais les migrants sont l’objet de désaccords, entre…",
-          "published": "2026-08-02T18:57:46+00:00"
-        },
-        {
-          "title": "Nirmal Purja, la mort d’un alpiniste sans limites",
-          "link": "https://www.lemonde.fr/disparitions/article/2026/08/02/nirmal-purja-la-mort-d-un-alpiniste-sans-limites_6737317_3382.html",
-          "source": "Le Monde",
-          "summary": "Le Népalo-Britannique, dont les exploits avaient été médiatisés dans un documentaire sur Netflix en 2021, a été emporté par une avalanche en gravissant le Broad Peak, au Pakistan, jeudi 30 juillet. Il avait 43 ans.",
-          "published": "2026-08-02T18:56:55+00:00"
-        },
-        {
-          "title": "Une nouvelle ONG critique \"l'absence de communication officielle marocaine\", après l'afflux de migrants marocains dans l'enclave espagnole de Ceuta:",
-          "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/une-nouvelle-ong-critique-l-absence-de-communication-officielle-marocaine-apres-l-afflux-de-migrants-marocains-dans-l-enclave-espagnole-de-ceuta_8132531.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'Observatoire du nord des droits de l'Homme (ONDH) \"dénonce l'absence de communication officielle marocaine clarifiant la réalité des faits, fournissant un bilan précis des victimes, des disparus et des blessés, et…",
-          "published": "2026-08-02T18:56:20+00:00"
-        },
-        {
-          "title": "37 degrés à Paris, 35 dans l’Est, le Sud-Est toujours dans la fournaise… l’épisode de chaleur va se poursuivre la semaine prochaine",
-          "link": "https://www.liberation.fr/environnement/climat/37-degres-a-paris-35-dans-lest-le-sud-est-toujours-dans-la-fournaise-lepisode-de-chaleur-va-se-poursuivre-la-semaine-prochaine-20260802_MH44IZPCLJHR3B6TWQ372PJSJQ/",
-          "source": "Liberation",
-          "summary": "Le phénomène devrait concerner le nord du pays en début de semaine, avant d’être atténué par les orages prévus au même moment, pour mieux se concentrer sur le quart sud-est au moins jusqu’à vendredi.",
-          "published": "2026-08-02T18:45:16+00:00"
-        },
-        {
-          "title": "Matignon annonce un renforcement du contrôle de l'Etat sur les achats d'entreprises des secteurs sensibles par des investisseurs étrangers",
-          "link": "https://www.franceinfo.fr/economie/entreprises/matignon-annonce-un-renforcement-du-controle-de-l-etat-sur-les-achats-d-entreprises-des-secteurs-sensibles-par-des-investisseurs-etrangers_8132510.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les services du Premier ministre justifient ce décret par un contexte géopolitique \"marqué par de fortes tensions\" \"pour se prémunir de prises de participations opportunistes non européennes dans des entreprises…",
-          "published": "2026-08-02T18:44:34+00:00"
-        },
-        {
-          "title": "Dans les Landes, après les incendies, «il faut s’occuper des clients qui sont de retour pour limiter la casse»",
-          "link": "https://www.liberation.fr/societe/dans-les-landes-apres-les-incendies-il-faut-soccuper-des-clients-qui-sont-de-retour-pour-limiter-la-casse-20260802_7SDI2BMLZJHMXFGX4RBC7KDRKA/",
-          "source": "Liberation",
-          "summary": "A Biscarrosse et aux alentours, la fréquentation touristique a très timidement redémarré. Les professionnels de l’hôtellerie-restauration oscillent entre crainte des annulations et espoirs de reprise.",
-          "published": "2026-08-02T18:44:24+00:00"
+          "summary": "L’Espagne a recensé de son côté au moins 72 morts. Le gouvernement marocain s’est vu reprocher son long silence par de nombreuses ONG.",
+          "published": "2026-08-02T21:22:03+00:00"
         },
         {
           "title": "Incendies en Grèce : deux hélicoptères entrent en collision, deux personnes sont mortes",
           "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "En Grèce, les incendies sont toujours virulents et les pompiers luttent au péril de leur vie. En pleine intervention, dimanche 2 août, deux hélicoptères sont entrés en collision. Le pilote et le copilote de l'un d'entre…",
-          "published": "2026-08-02T18:44:07+00:00"
+          "published": "2026-08-02T21:04:46+00:00"
         },
         {
-          "title": "Accident de bus en Algérie : le chauffeur avait consommé des stupéfiants et roulait à plus de 120 km/h",
-          "link": "https://www.liberation.fr/international/afrique/accident-de-bus-en-algerie-le-chauffeur-avait-consomme-des-stupefiants-et-roulait-a-plus-de-120-kmh-20260802_S3VW3PVVVZG2BEH2YFTKDY6VYA/",
-          "source": "Liberation",
-          "summary": "Le parquet a dévoilé dimanche 2 août les premiers résultats de l’enquête sur l’accident qui a fait 28 morts et 36 blessés, vendredi 31 juillet dans le nord du pays. Le véhicule transportait par ailleurs davantage de…",
-          "published": "2026-08-02T18:33:33+00:00"
+          "title": "En Moselle, le confinement de 30 000 habitants levé après l'incendie d'un site classé Seveso",
+          "link": "https://www.franceinfo.fr/france/grand-est/moselle/en-moselle-le-confinement-de-30-000-habitants-leve-apres-l-incendie-d-un-site-classe-seveso_8132507.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Dimanche 2 août a été une journée angoissante pour les 30 000 habitants de Moselle confinés chez eux en raison d’un incendie dans un entrepôt de déchets industriels à Gandrange. La préfecture a annoncé la levée du…",
+          "published": "2026-08-02T21:01:36+00:00"
+        },
+        {
+          "title": "Incendie dans l'Aude : le feu \"particulièrement complexe\" aux portes de Carcassonne est désormais fixé, annonce la préfecture",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-megafeu-en-gironde-aller-en-vacances-dans-le-departement-est-un-geste-de-solidarite-declare-sebastien-lecornu_8131925.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "A 23 heures, l'autoroute A61 était toujours fermée dans les deux sens entre Carcassonne Est et Carcassonne Ouest.",
+          "published": "2026-08-02T20:55:09+00:00"
+        },
+        {
+          "title": "L’incendie dans l’Aude ayant ravagé une centaine d’hectares près de Carcassonne est «fixé», l’A61 rouverte «dès que possible»",
+          "link": "https://www.lefigaro.fr/actualite-france/un-important-incendie-a-deja-ravage-une-centaine-d-hectares-pres-de-carcassonne-20260802",
+          "source": "Le Figaro",
+          "summary": "Le feu a démarré après qu’une voiture se soit enflammée sur le bord de l’A61 dans l’Aude. D’importants moyens humains et aériens ont été déployés.",
+          "published": "2026-08-02T20:43:07+00:00"
+        },
+        {
+          "title": "Investisseurs privés à la Fifa : «Gardez les preuves», l’UEFA menace Infantino et la Fifa de poursuites judiciaires",
+          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/investisseurs-prives-a-la-fifa-gardez-les-preuves-l-uefa-menace-infantino-et-la-fifa-de-poursuites-judiciaires-20260802",
+          "source": "Le Figaro",
+          "summary": "L’instance européenne, en tête de la fronde face au président de la Fifa et son projet de société commerciale, a menacé d’engager des poursuites judiciaires.",
+          "published": "2026-08-02T20:42:35+00:00"
+        },
+        {
+          "title": "EN DIRECT, incendies : la préfète de Gironde autorise le retour à partir de lundi à Lège-Cap-Ferret et au Porge ; le feu près de Carcassonne est fixé",
+          "link": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-la-prefete-de-gironde-autorise-le-retour-a-partir-de-lundi-a-lege-cap-ferret-et-au-porge-le-feu-pres-de-carcassonne-est-fixe_6737310_3244.html",
+          "source": "Le Monde",
+          "summary": "Un nouvel incendie s’est déclaré à Carcassonne, dans l’Aude, à proximité de l’autoroute A61. En Gironde, où le mégafeu a dévoré 42 000 hectares en onze jours, celui-ci, fixé depuis samedi, « n’évolue plus » mais n’est…",
+          "published": "2026-08-02T20:27:31+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : en une semaine, 1 900 drones et 144 missiles russes ont visé 16 régions ukrainiennes, selon Volodymyr Zelensky",
+          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-en-une-semaine-1-900-drones-et-144-missiles-russes-ont-vise-16-regions-ukrainiennes-selon-volodymyr-zelensky_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Il y dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de différents types, dont…",
+          "published": "2026-08-02T20:26:45+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit être proche d’un accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d’Ormuz",
+          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html",
+          "source": "Le Monde",
+          "summary": "Des efforts seraient par ailleurs en cours pour ranimer le protocole d’accord avec Washington après que Donald Trump a annoncé suspendre de nouvelles frappes sur l’Iran.",
+          "published": "2026-08-02T20:21:56+00:00"
+        },
+        {
+          "title": "Liechtenstein: les données d'environ 31.000 entités juridiques piratées",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/liechtenstein-les-donnees-d-environ-31-000-entites-juridiques-piratees-20260802",
+          "source": "Le Figaro",
+          "summary": "Le registre ciblé par les auteurs de l’attaque vise à lutter contre le blanchiment d’argent et le financement du terrorisme, recense les personnes qui contrôlent effectivement les sociétés, fondations et fiduciaires…",
+          "published": "2026-08-02T20:02:02+00:00"
         }
       ]
     },
@@ -234,8 +234,15 @@
       "label": "Veille technologique",
       "items": [
         {
+          "title": "Un mini PC capable de faire tourner de l’IA en local en promotion, c’est possible",
+          "link": "https://www.frandroid.com/bons-plans/bons-plans-hardware/3201303_un-mini-pc-capable-de-faire-tourner-de-lia-en-local-pour-moins-de-2-100-e-cest-possible",
+          "source": "Frandroid",
+          "summary": "Le GMKtec EVO-X2 AI est l'un des mini PC les plus puissants du marché, armé d'un AMD Ryzen AI Max+ 395 et de 64 Go de mémoire unifiée. Il est actuellement proposé à 2 079 euros au lieu de 2 365,46 euros sur Amazon.",
+          "published": "2026-08-02T20:38:29+00:00"
+        },
+        {
           "title": "Nous avons testé l’Oral-B iO Series 6 : la référence des brosses à dents connectées",
-          "link": "https://www.frandroid.com/actualites-generales/3191025_nous-avons-teste-loral-b-io-series-6-la-reference-des-brosses-a-dents-connectees",
+          "link": "https://www.frandroid.com/test/3191025_nous-avons-teste-loral-b-io-series-6-la-reference-des-brosses-a-dents-connectees",
           "source": "Frandroid",
           "summary": "Après avoir testé la Laifen Wave Pro, me voilà équipée de l’Oral-B iO 6. Ce modèle haut de gamme promet de prendre soin de notre santé bucco-dentaire au quotidien. Alors, le cador du secteur fait-il mieux que le petit…",
           "published": "2026-08-02T18:00:00+00:00"
@@ -309,13 +316,6 @@
           "source": "Numerama",
           "summary": "Le mot « distillation » est partout depuis que Washington accuse la start-up chinoise Moonshot d'avoir pillé un modèle américain grâce à cette technique. On vous explique les nuances qui se cachent derrière ce terme.",
           "published": "2026-08-02T14:30:00+00:00"
-        },
-        {
-          "title": "Le presse-papiers de Windows 11 peut faire bien plus que copier-coller, voici comment en profiter",
-          "link": "https://www.clubic.com/tutoriel-623323-le-presse-papiers-de-windows-11-peut-faire-bien-plus-que-copier-coller-voici-comment-en-profiter.html",
-          "source": "Clubic",
-          "summary": "Vous pensiez que le presse-papiers de Windows se contentait de faire le lien entre Ctrl + C et Ctrl + V ? Il a pourtant bien plus d’un tour dans son sac. Avec le module PowerToys Advanced Paste, ce que vous copiez peut…",
-          "published": "2026-08-02T14:18:00+00:00"
         }
       ]
     }
