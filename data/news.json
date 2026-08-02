@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-02T05:56:51.291912+00:00",
+  "generated_at": "2026-08-02T08:28:03.148233+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Le Malien Mamadou Sangaré, lauréat du prix Marc-Vivien Foé, part pour Brentford",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260802-le-malien-mamadou-sangar%C3%A9-laur%C3%A9at-du-prix-marc-vivien-fo%C3%A9-part-pour-brentford",
+          "source": "France 24",
+          "summary": "Le lauréat du Prix Marc-Vivien Foé 2026 Mamadou Sangaré quitte le RC Lens et rejoint l'Angleterre. Auteur d'une belle saison avec les Sang et Or, le Malien a été vendu au club anglais pour 48 millions d'euros, un record…",
+          "published": "2026-08-02T08:12:43+00:00"
+        },
+        {
+          "title": "Sri Lanka : l’armée déployée pour une nouvelle émeute en prison",
+          "link": "https://www.lemonde.fr/international/article/2026/08/02/sri-lanka-l-armee-deployee-pour-une-nouvelle-emeute-en-prison_6737276_3210.html",
+          "source": "Le Monde",
+          "summary": "L’établissement abrite 4 100 détenus, quatre fois sa capacité, une suroccupation fréquente dans les prisons de l’île, où une émeute a déjà fait 31 morts au début du mois de juillet.",
+          "published": "2026-08-02T07:35:13+00:00"
+        },
+        {
+          "title": "Et si l’IA moderne venait de la cybernétique ? Le legs méconnu de Norbert Wiener (3/3)",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260802-histoire-ia-moderne-venait-de-la-cybern%C3%A9tique-le-legs-m%C3%A9connu-de-norbert-wiener",
+          "source": "France 24",
+          "summary": "L’IA avant l’IA (3/3). Norbert Wiener, fondateur dans les années 1940 de la cybernétique, mérite-t-il sa place au panthéon des pères fondateurs de l’IA moderne au même titre qu’Alan Turing ou John von Neumann ? France…",
+          "published": "2026-08-02T07:19:43+00:00"
+        },
+        {
+          "title": "La Corée du Sud enregistre un nouveau record de température, à 42,5 °C",
+          "link": "https://www.lemonde.fr/international/article/2026/08/02/la-coree-du-sud-enregistre-un-nouveau-record-de-temperature-a-42-5-c_6737275_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon l’agence météorologique nationale KMA, le nombre annuel moyen de jours de vagues de chaleurs dans le pays est passé de huit dans les années 1970 à 19 sur les cinq dernières années.",
+          "published": "2026-08-02T06:48:47+00:00"
+        },
+        {
+          "title": "Les Jeux du Commonwealth sont-ils en pleine recomposition?",
+          "link": "https://www.rfi.fr/fr/podcasts/tour-du-monde-des-correspondants/20260802-les-jeux-du-commonwealth-sont-ils-en-pleine-recomposition",
+          "source": "RFI",
+          "summary": "Les Jeux du Commonwealth s’achèvent ce dimanche à Glasgow. Longtemps vitrine sportive de l’ancien Empire britannique, ils reflètent aujourd’hui les profondes transformations d'une organisation presque centenaire. Les…",
+          "published": "2026-08-02T06:47:50+00:00"
+        },
+        {
+          "title": "Au Brésil, le tiktokeur qui œuvre pour le repos des travailleurs : « Quand est-ce que nous, la classe ouvrière, allons en finir avec la semaine de six jours ? »",
+          "link": "https://www.lemonde.fr/m-le-mag/article/2026/08/02/au-bresil-le-tiktokeur-qui-uvre-pour-le-repos-des-travailleurs-quand-est-ce-que-nous-la-classe-ouvriere-allons-en-finir-avec-la-semaine-de-six-jours_6737274_4500055.html",
+          "source": "Le Monde",
+          "summary": "Conseiller municipal de Rio de Janeiro, Rick Azevedo est à l’origine de la réforme, en cours d’adoption, instaurant un second jour de repos hebdomadaire pour les salariés. Lancé sur les réseaux sociaux, son mouvement La…",
+          "published": "2026-08-02T06:00:24+00:00"
+        },
+        {
+          "title": "En Chine, le bilan de la crue soudaine dans le nord-ouest du pays s’alourdit, passant à 25 morts",
+          "link": "https://www.lemonde.fr/international/article/2026/08/02/en-chine-le-bilan-de-la-crue-soudaine-dans-le-nord-ouest-du-pays-s-alourdit-passant-a-25-morts_6737270_3210.html",
+          "source": "Le Monde",
+          "summary": "La Chine a été durement touchée par des conditions météorologiques extrêmes cet été. En juillet, deux glissements de terrain distincts, dans la province du Gansu et à Chongqing, ont respectivement fait 21 et 51 morts.",
+          "published": "2026-08-02T05:53:14+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : la Russie annonce avoir détruit 635 drones ukrainiens dans la nuit",
           "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-annonce-avoir-detruit-635-drones-ukrainiens-dans-la-nuit_6737250_3210.html",
@@ -12,67 +61,18 @@
           "published": "2026-08-02T05:32:27+00:00"
         },
         {
-          "title": "Guerre au Moyen-Orient : Donald Trump annonce suspendre les frappes américaines contre l'Iran",
+          "title": "Moyen-Orient en direct : Donald Trump annonce suspendre les frappes américaines contre l'Iran",
           "link": "https://www.france24.com/fr/moyen-orient/20260802-guerre-au-moyen-orient-donald-trump-annonce-suspendre-frappes-am%C3%A9ricaines-contre-iran",
           "source": "France 24",
-          "summary": "Donald Trump a déclaré dimanche que les frappes américaines prévues contre l'Iran étaient suspendues à la demande de Téhéran et des pays de la région, à condition qu'un accord soit rapidement conclu. \"Israël se joint à…",
+          "summary": "Donald Trump a déclaré que les frappes américaines prévues contre l'Iran étaient suspendues à la demande de Téhéran et des pays de la région, à condition qu'un accord soit rapidement conclu. \"Israël se joint à moi dans…",
           "published": "2026-08-02T05:30:16+00:00"
         },
         {
-          "title": "Intelligence artificielle : la mention « généré par IA » devient obligatoire dans l’UE",
+          "title": "La mention « généré par IA » devient obligatoire dans l’UE",
           "link": "https://www.lemonde.fr/economie/article/2026/08/02/intelligence-artificielle-la-mention-genere-par-ia-devient-obligatoire-dans-l-ue_6737268_3234.html",
           "source": "Le Monde",
           "summary": "Une disposition-clé du règlement européen sur l’intelligence artificielle entre en vigueur dimanche 2 août. Les concepteurs et utilisateurs professionnels de systèmes d’IA devront mentionner que leurs contenus ont été…",
-          "published": "2026-08-02T05:28:32+00:00"
-        },
-        {
-          "title": "Russie : au moins trois morts dans un attentat à la bombe dans un restaurant à Moscou",
-          "link": "https://www.france24.com/fr/europe/20260802-russie-au-moins-trois-morts-attentat-%C3%A0-la-bombe-restaurant-moscou-place-koudrine-engin-exposif-attaque-terroriste",
-          "source": "France 24",
-          "summary": "Un \"engin artisanal\" transporté par une femme inconnue a explosé samedi dans un restaurant de Moscou, en Russie. Au moins trois personnes sont mortes et 21 autres ont été blessées, ont annoncé les autorités.",
-          "published": "2026-08-02T05:10:45+00:00"
-        },
-        {
-          "title": "« Le premier mandat de Donald Trump annonçait déjà la débâcle actuelle au Moyen-Orient »",
-          "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/02/le-premier-mandat-de-donald-trump-annoncait-deja-la-debacle-actuelle-au-moyen-orient_6737267_6116995.html",
-          "source": "Le Monde",
-          "summary": "Dès 2020, le président Trump avait fragilisé les Etats-Unis en capitulant face aux talibans, tandis que l’Iran et ses partisans multipliaient déjà les attaques contre les bases américaines.",
-          "published": "2026-08-02T05:00:11+00:00"
-        },
-        {
-          "title": "Espagne : climat politique sous forte tension",
-          "link": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260802-espagne-climat-politique-sous-forte-tension",
-          "source": "RFI",
-          "summary": "Il y a quatre-vingt dix ans, l’Espagne basculait dans la guerre civile. Le 17 juillet 1936, le pays entrait dans l’une des tragédies majeures du XXè siècle, une guerre qui a brisé durablement la société espagnole et…",
-          "published": "2026-08-02T05:00:06+00:00"
-        },
-        {
-          "title": "A Fnideq, près de Ceuta, la désillusion des jeunes Marocains après une traversée éclair en Europe",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/02/a-fnideq-pres-de-ceuta-la-desillusion-des-jeunes-marocains-apres-une-traversee-eclair-en-europe_6737266_3212.html",
-          "source": "Le Monde",
-          "summary": "Alors que 50 000 personnes, de jeunes Marocains pour l’essentiel, se ruaient sur l’enclave espagnole jeudi et vendredi, Ceuta est désormais désertée, la plupart des candidats à l’exil ayant fait demi-tour.",
-          "published": "2026-08-02T04:35:10+00:00"
-        },
-        {
-          "title": "L’Eglise de France se prépare à la visite historique du pape Léon XIV en septembre, avec une messe géante sur les Champs-Elysées en point d’orgue",
-          "link": "https://www.lemonde.fr/societe/article/2026/08/02/l-eglise-de-france-se-prepare-a-la-visite-historique-du-pape-leon-xiv-en-septembre-avec-une-messe-geante-sur-les-champs-elysees-en-point-d-orgue_6737262_3224.html",
-          "source": "Le Monde",
-          "summary": "Le souverain pontife se rendra à Paris, à Lourdes et à Metz entre le 25 et le 28 septembre. Il s’agit de la première visite pontificale formelle en France depuis près de vingt ans.",
-          "published": "2026-08-02T04:30:08+00:00"
-        },
-        {
-          "title": "VIDEO - Mappemonde - La Russie de Poutine peut-elle encore contrôler l’Arctique ?",
-          "link": "https://www.lemonde.fr/international/video/2026/08/02/la-russie-de-poutine-peut-elle-encore-controler-l-arctique_6737263_3210.html",
-          "source": "Le Monde",
-          "summary": "De l’empire des tsars à Vladimir Poutine, l’Arctique est depuis plus d’un siècle le moteur économique et militaire de la Russie. Mais la diminution des financements menace aujourd’hui le rêve de puissance du président…",
-          "published": "2026-08-02T04:30:04+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump assure suspendre les frappes contre l’Iran à la demande de Téhéran et de pays de la région, dans l’attente d’un accord rapide",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-donald-trump-assure-suspendre-des-frappes-contre-l-iran-a-la-demande-de-teheran-et-de-pays-de-la-region-dans-l-attente-d-un-accord-rapide_6737099_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon le président américain, qui avait menacé, vendredi lors d’un conseil des ministres, de frapper l’Iran « très fort », l’accord doit inclure « l’ouverture immédiate complète et totale du détroit d’Ormuz, ainsi que…",
-          "published": "2026-08-02T04:01:37+00:00"
+          "published": "2026-08-02T05:28:29+00:00"
         }
       ]
     },
@@ -159,80 +159,150 @@
       "label": "France",
       "items": [
         {
-          "title": "La Corée du Sud enregistre un nouveau record de température, à 42,5°C... la plus élevée depuis 1904",
-          "link": "https://www.lefigaro.fr/international/la-coree-du-sud-enregistre-un-nouveau-record-de-temperature-a-42-50c-la-plus-elevee-depuis-1904-20260802",
-          "source": "Le Figaro",
-          "summary": "Mi-juillet, Séoul avait émis pour la première fois une alerte météorologique maximale.",
-          "published": "2026-08-02T05:43:42+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : la Russie dit avoir détruit 635 drones ukrainiens pendant la nuit",
-          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-russie-dit-avoir-detruit-635-drones-ukrainiens-pendant-la-nuit-20260802",
-          "source": "Le Figaro",
-          "summary": "Ces engins ont été abattus au-dessus de plusieurs régions revendiquées par la Russie.",
-          "published": "2026-08-02T05:42:57+00:00"
-        },
-        {
-          "title": "Le crash d'un avion transportant des touristes au Pérou fait treize morts",
-          "link": "https://www.franceinfo.fr/faits-divers/le-crash-d-un-avion-transportant-des-touristes-au-perou-fait-treize-morts_8131931.html#xtor=RSS-3-[lestitres]",
+          "title": "\"La première fois en 44 ans\" : la Hongrie annonce l'arrêt inédit de sa centrale nucléaire à cause de la canicule",
+          "link": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-premiere-fois-en-44-ans-la-hongrie-annonce-l-arret-inedit-de-sa-centrale-nucleaire-a-cause-de-la-canicule_8132042.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Onze touristes étaient à bord de l'avion : sept Italiens, deux Allemands et deux Espagnols. Les victimes étaient âgées de 24 à 78 ans.",
-          "published": "2026-08-02T05:36:33+00:00"
+          "summary": "L'exploitant de la centrale avait prévenu, vendredi, que la baisse du niveau du fleuve pourrait contraindre la centrale à être complètement mise à l'arrêt vers le milieu de la semaine prochaine.",
+          "published": "2026-08-02T08:13:49+00:00"
         },
         {
-          "title": "L’acteur américain Vincent Pastore, l'indic «Big Pussy» dans «Les Soprano», est décédé à 80 ans",
-          "link": "https://www.lefigaro.fr/culture/l-acteur-americain-vincent-pastore-l-indic-big-pussy-dans-les-soprano-est-decede-a-80-ans-20260802",
+          "title": "Claude Berri, Jean-Pierre Rassam, Thomas Langmann… La saga flamboyante et tragique de deux grandes familles du cinéma français",
+          "link": "https://www.lefigaro.fr/cinema/claude-berri-jean-pierre-rassam-thomas-langmann-la-saga-flamboyante-et-tragique-de-deux-grandes-familles-du-cinema-francais-20260802",
           "source": "Le Figaro",
-          "summary": "Il a incarné le bras droit du mafieux Tony Soprano, devenu ensuite un indic du FBI après avoir été arrêté par la police fédérale.",
-          "published": "2026-08-02T05:34:55+00:00"
+          "summary": "Depuis la disparition de Claude Berri, en 2009, une guerre de succession médiatique oppose Thomas Langmann à son demi-frère Darius, à la mère de ce dernier, la costumière Sylvie Gautrelet, et à la romancière Nathalie…",
+          "published": "2026-08-02T08:07:44+00:00"
         },
         {
-          "title": "Incendies : les feux sont globalement «sous contrôle» en France, annonce Sébastien Lecornu",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-chaleur-meteo-incendies-feux-sud-france-var-20260801",
+          "title": "EN IMAGES - Sur la ligne 2 du métro parisien, direction Nation(s)",
+          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/sur-la-ligne-2-du-metro-parisien-direction-nations-20260802_5IJZS7RWIJD27PGHMEEJZMLELQ/",
+          "source": "Liberation",
+          "summary": "Dans la capitale, rencontre en images avec les diasporas qui font vivre leur quartier. Les Algériens de Barbès, les Tamouls de La Chapelle, les Soudanais de Stalingrad, les Tibétains de Jaurès, les Chinois de Belleville…",
+          "published": "2026-08-02T08:00:00+00:00"
+        },
+        {
+          "title": "Une première en 44 ans : la Hongrie annonce l'arrêt inédit de sa centrale nucléaire à cause de la canicule",
+          "link": "https://www.lefigaro.fr/conjoncture/une-premiere-en-44-ans-la-hongrie-annonce-l-arret-inedit-de-sa-centrale-nucleaire-a-cause-de-la-canicule-20260802",
           "source": "Le Figaro",
-          "summary": "Le préfet du Var Simon Babre indique que les sapeurs-pompiers au sol sont toujours appuyés par des moyens aériens autour de Correns, avec «5 Canadair, trois Dash et 5 hélicoptères bombardiers d’eau».",
-          "published": "2026-08-02T05:33:42+00:00"
+          "summary": "Située à une centaine de kilomètres au sud de Budapest, la centrale de Paks fournit environ 40% de la production annuelle d’électricité du pays.",
+          "published": "2026-08-02T07:59:09+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : la Russie annonce avoir détruit 635 drones ukrainiens dans la nuit",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-la-russie-annonce-avoir-detruit-635-drones-ukrainiens-dans-la-nuit_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Les frappes ukrainiennes ont fait deux morts dans l’oblast de Saratov. Un incendie s’est par ailleurs déclaré dans un entrepôt de Wildberries dans la région russe de Samara.",
-          "published": "2026-08-02T05:32:27+00:00"
+          "title": "Sonneries à deux tons, prix à trois chiffres… Les dumbphones de luxe gagnent du terrain",
+          "link": "https://www.liberation.fr/lifestyle/hightech/sonneries-a-deux-tons-prix-a-trois-chiffres-les-dumbphones-de-luxe-debarquent-20260802_2BNPPOXX3FCJNGAISDSZ4MUI6A/",
+          "source": "Liberation",
+          "summary": "Face à leur dépendance aux écrans, de plus en plus d’utilisateurs se tournent vers ce téléphone dépouillé de toute fonction superflue. Mais le retour à la simplicité se paie parfois (trop) cher.",
+          "published": "2026-08-02T07:48:24+00:00"
         },
         {
-          "title": "Guerre au Moyen-Orient: Donald Trump dit avoir annulé une attaque sur l’Iran",
-          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-dit-avoir-annule-une-attaque-sur-l-iran-20260802",
-          "source": "Le Figaro",
-          "summary": "Le président américain a déclaré que les États-Unis et Israël avaient convenu de suspendre les nouvelles frappes prévues contre l’Iran à la demande de Téhéran et d’autres pays de la région, à condition qu’un accord soit…",
-          "published": "2026-08-02T05:32:20+00:00"
-        },
-        {
-          "title": "Injections esthétiques illégales : \"Combien de morts faudra-t-il encore Madame la Ministre ?\", interpellent 5 000 médecins dans une tribune",
-          "link": "https://www.franceinfo.fr/sante/injections-esthetiques-illegales-combien-de-morts-faudra-t-il-encore-madame-la-ministre-interpellent-5-000-medecins-dans-une-tribune_8131880.html#xtor=RSS-3-[lestitres]",
+          "title": "La vigilance orange canicule maintenue dans 20 départements de l'est et du sud-est de l'Hexagone",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-orange-canicule-maintenue-dans-20-departements-de-l-est-et-du-sud-est-de-l-hexagone_8132021.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les praticiens dénoncent la multiplication des actes réalisés par des personnes sans compétences médicales. Deux jeunes femmes sont mortes ces derniers mois après des injections esthétiques illégales. Les médecins…",
-          "published": "2026-08-02T05:13:54+00:00"
+          "summary": "Cet épisode caniculaire concerne le pays entier, \"mais les plus fortes chaleurs persistent dans un large quart sud-est\", précise l'institut de prévisions.",
+          "published": "2026-08-02T07:43:50+00:00"
         },
         {
-          "title": "\"C'est une bouée de sauvetage face à la sécheresse\" : dans les Pyrénées-Orientales, les eaux usées des touristes irriguent les vergers des agriculteurs",
-          "link": "https://www.franceinfo.fr/environnement/actions-ecologiques/en-toute-sobriete-face-a-la-crise-climatique/reportage-c-est-une-bouee-de-sauvetage-face-a-la-secheresse-dans-les-pyrenees-orientales-les-eaux-usees-des-touristes-irriguent-les-vergers-des-agriculteurs_8126768.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Notre série \"En toute sobriété\" met en avant des solutions locales pour réduire nos consommations et agir face à l'urgence climatique. Dans cet épisode, une communauté de communes a mis en place une installation de…",
-          "published": "2026-08-02T05:00:56+00:00"
-        },
-        {
-          "title": "Divorce houleux, détective privé et livreur Deliveroo : les dessous de l’assassinat de Cécile Poisson, brillante agrégée de lettres égorgée par son mari",
-          "link": "https://www.lefigaro.fr/faits-divers/divorce-houleux-detective-prive-et-livreur-deliveroo-les-dessous-de-l-assassinat-de-cecile-poisson-brillante-agregee-de-lettres-egorgee-par-son-mari-20260802",
+          "title": "Rallye : «Nous sommes entiers», Sébastien Ogier et Julien Ingrassia ont passé la nuit à l’hôpital après leur violente sortie de route",
+          "link": "https://www.lefigaro.fr/sports/rallye/rallye-nous-sommes-entiers-sebastien-ogier-et-julien-ingrassia-ont-passe-la-nuit-a-l-hopital-apres-leur-violente-sortie-de-route-20260802",
           "source": "Le Figaro",
-          "summary": "EXCLUSIF - Déguisé en livreur Deliveroo, François-Xavier Hussherr poignardait à mort son épouse dans le hall de son immeuble à Paris en mars 2023. Il sera jugé aux assises en janvier. L’enquête dévoile une préparation…",
-          "published": "2026-08-02T05:00:00+00:00"
+          "summary": "Le pilote et son copilote ont rassuré sur leur état de santé après le violent accident subi samedi au Rallye de Finlande.",
+          "published": "2026-08-02T07:38:19+00:00"
+        },
+        {
+          "title": "Washington aurait soutenu le yen dans une rare intervention sur les marchés, selon le Financial Times",
+          "link": "https://www.lefigaro.fr/conjoncture/washington-aurait-soutenu-le-yen-dans-une-rare-intervention-sur-les-marches-selon-le-financial-times-20260802",
+          "source": "Le Figaro",
+          "summary": "Une telle intervention coordonnée du Trésor serait une première en près de 30 ans, selon le journal américain.",
+          "published": "2026-08-02T07:35:08+00:00"
+        },
+        {
+          "title": "Tennis : à Los Cabos au Mexique, Arthur Gea remporte son premier titre ATP en carrière",
+          "link": "https://www.franceinfo.fr/sports/tennis/tennis-a-los-cabos-au-mexique-arthur-gea-remporte-son-premier-titre-atp-en-carriere_8132012.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le Français de 21 ans a remporté, samedi, son premier titre ATP (250) face au Canadien Denis Shapovalov, tenant du titre.",
+          "published": "2026-08-02T07:23:17+00:00"
+        },
+        {
+          "title": "L'acteur américain Vincent Pastore, connu pour son rôle de \"Big Pussy\" dans \"Les Soprano\", est mort à l'âge de 80 ans",
+          "link": "https://www.franceinfo.fr/culture/cinema/l-acteur-americain-vincent-pastore-connu-pour-son-role-de-big-pussy-dans-les-soprano-est-mort-a-l-age-de-80-ans_8132009.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Souvent vu en gangster, brièvement dans \"Les Affranchis\" de Martin Scorcese et \"L'Impasse\" de Brian de Palma, il est surtout connu pour avoir incarné \"Big Pussy\" dans \"Les Soprano\".",
+          "published": "2026-08-02T07:21:27+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Pendant que Google augmente ses prix, Amazon fait l'inverse avec l'iPhone 17 Pro",
+          "link": "https://www.clubic.com/bons-plans-623788-pendant-que-google-augmente-ses-prix-amazon-fait-l-inverse-avec-l-iphone-17-pro.html",
+          "source": "Clubic",
+          "summary": "Alors que la pénurie mondiale de puces mémoire pousse Google à relever le prix de ses futurs Pixel 11 de 100 €, Amazon prend le contre-pied avec l'iPhone 17 Pro 256 Go, proposé à 1229 € au lieu de 1329 €. Une remise de…",
+          "published": "2026-08-02T08:18:00+00:00"
+        },
+        {
+          "title": "Pixel 11 : coloris, zoom x30 et Gemini dévoilés par une fuite avant l’annonce",
+          "link": "https://www.frandroid.com/marques/google/3201191_pixel-11-coloris-zoom-x30-et-gemini-devoiles-par-une-fuite-avant-lannonce",
+          "source": "Frandroid",
+          "summary": "Le leaker Evleaks a mis en ligne les visuels marketing du futur Pixel 11 de Google. Coloris, zoom x30, Gemini&nbsp;: presque tout a fuité avant la présentation officielle du 12 août.",
+          "published": "2026-08-02T08:04:01+00:00"
+        },
+        {
+          "title": "Ces superbes dioramas de Final Fantasy VII et Metal Gear Solid sortent bientôt, et sont en précommande",
+          "link": "https://www.numerama.com/pop-culture/2305221-ces-superbes-dioramas-de-final-fantasy-vii-et-metal-gear-solid-sortent-bientot-et-sont-en-precommande.html",
+          "source": "Numerama",
+          "summary": "[Précommande] Oui, ils sont magnifiques. Et oui, ils rendraient parfaitement bien sur une bibliothèque. Ces deux dioramas représentant des scènes cultes de deux jeux vidéo cultes ont en plus l’audace de ne pas être trop…",
+          "published": "2026-08-02T08:00:00+00:00"
+        },
+        {
+          "title": "Infomaniak va entrer en Bourse : voici ce que cela change pour vos données personnelles",
+          "link": "https://www.clubic.com/actualite-623680-infomaniak-va-entrer-en-bourse-et-vous-vous-rassurer.html",
+          "source": "Clubic",
+          "summary": "Infomaniak va rejoindre la Bourse suisse via un rachat inversé de Perrot Duval Holding, une opération pensée pour lever des fonds sans céder le contrôle de son capital.",
+          "published": "2026-08-02T07:50:00+00:00"
+        },
+        {
+          "title": "Moins de 550 € pour un TV Mini LED 144 Hz ? C’est le super deal du jour signé Hisense",
+          "link": "https://www.frandroid.com/bons-plans/3199209_moins-de-550-e-pour-un-tv-mini-led-144-hz-cest-le-super-deal-du-jour-signe-hisense",
+          "source": "Frandroid",
+          "summary": "Avec sa dalle Hi-QLED Mini LED rafraîchie à 144 Hz, ses multiples compatibilités et ses fonctionnalités gaming, le TV Hisense 55E8S a de quoi convaincre les cinéphiles et les joueurs exigeants. Et la bonne nouvelle,…",
+          "published": "2026-08-02T07:28:00+00:00"
+        },
+        {
+          "title": "Avec les incendies partout en France, Free offre à son tour une énorme enveloppe de Go aux sinistrés",
+          "link": "https://www.clubic.com/actualite-623785-avec-les-incendies-partout-en-france-free-offre-a-son-tour-une-enorme-enveloppe-de-go-aux-sinistres.html",
+          "source": "Clubic",
+          "summary": "Après Orange et Bouygues Telecom, c'est au tour de Free de se mobiliser face aux incendies qui touchent plusieurs régions françaises. L'opérateur offre 200 Go de data supplémentaires aux abonnés concernés.",
+          "published": "2026-08-02T06:54:00+00:00"
+        },
+        {
+          "title": "Recharge ultra-rapide :  la grande lotterie des puissances de charge",
+          "link": "https://www.numerama.com/vroom/2304575-recharge-ultra-rapide-la-grande-lotterie-des-puissances-de-charge.html",
+          "source": "Numerama",
+          "summary": "Les constructeurs vendent des pics de puissance. Les automobilistes, eux, vivent avec les courbes de charge. Entre les deux, il y a parfois tout un monde. La recharge rapide est une nouvelle fois au cœur de l'édito Watt…",
+          "published": "2026-08-02T06:36:00+00:00"
+        },
+        {
+          "title": "Un juge refuse à xAI d’Elon Musk le blocage de l’interdiction de « nudification » au Minnesota",
+          "link": "https://www.clubic.com/actualite-623782-un-juge-refuse-a-xai-d-elon-musk-le-blocage-de-l-interdiction-de-nudification-au-minnesota.html",
+          "source": "Clubic",
+          "summary": "Un juge fédéral du Minnesota a rejeté la demande d’urgence déposée par xAI contre la loi de l’État, qui interdit les applications de « nudification ». L’État applique ce texte, premier du genre aux États-Unis, depuis le…",
+          "published": "2026-08-02T06:35:00+00:00"
+        },
+        {
+          "title": "Test Roborock Rockmow S1 : du RTK classique, avec un coupe-bordures qui change la donne",
+          "link": "https://www.clubic.com/test-produit-621451-roborock-rockmow-s115-un-robot-rtk-bien-ne.html",
+          "source": "Clubic",
+          "summary": "2026 marque l’arrivée sur le marché des tondeuses de la marque Roborock, plus connue pour ses robots aspirateurs. Après avoir testé le Roborock Z1, leur très impressionnant porte-drapeau qui devient un nouveau…",
+          "published": "2026-08-02T06:30:00+00:00"
+        },
+        {
+          "title": "Cette batterie Belkin se clipse au dos de votre iPhone est 45% moins chère sur Amazon",
+          "link": "https://www.clubic.com/bons-plans-623704-cette-batterie-belkin-se-clipse-au-dos-de-votre-iphone-est-45-moins-chere-sur-amazon.html",
+          "source": "Clubic",
+          "summary": "Avant de partir en vacances, la batterie externe Belkin BoostCharge Pro Magnetic profite d'une belle remise sur Amazon. À 33,24 € au lieu de 59,99 €, ce modèle se clipse directement au dos d'un iPhone compatible via son…",
+          "published": "2026-08-02T06:28:00+00:00"
+        },
         {
           "title": "RTX 5090, 96 Go de RAM et écran Mini LED 4K : ce PC portable gaming ultime s’allège de 800 €",
           "link": "https://www.frandroid.com/bons-plans/3200375_rtx-5090-96-go-de-ram-et-ecran-mini-led-4k-ce-pc-portable-gaming-ultime-sallege-de-800-e",
@@ -246,76 +316,6 @@
           "source": "Frandroid",
           "summary": "L'iPhone 17 Pro Max 256 Go en coloris Bleu Intense est disponible pour 1 260 euros sur Joybuy. Un tarif particulièrement agressif pour le haut de gamme d'Apple, alors que les iPhone 18 se profilent avec des prix en…",
           "published": "2026-08-01T20:02:44+00:00"
-        },
-        {
-          "title": "Envie d’un iPhone Pro sans attendre les 18 ? Amazon casse le prix du 17 Pro",
-          "link": "https://www.frandroid.com/produits-android/3201283_envie-dun-iphone-pro-sans-attendre-les-18-amazon-casse-le-prix-du-17-pro",
-          "source": "Frandroid",
-          "summary": "L'iPhone 17 Pro, smartphone haut de gamme compact d'Apple avec sa puce A19 Pro et son triple capteur 48 mégapixels, est disponible à 1 129 euros au lieu de 1 329 euros sur Amazon. Une remise de 200 euros qui tombe à pic…",
-          "published": "2026-08-01T19:58:56+00:00"
-        },
-        {
-          "title": "L’impact de la clim en bouchon, l’AdBlue chez les pompiers, le solaire sur les rails et Rebirth au bord du gouffre – le Récap’ Survoltés de la semaine",
-          "link": "https://www.frandroid.com/survoltes/3201097_limpact-de-la-clim-en-bouchon-ladblue-chez-les-pompiers-le-solaire-sur-les-rails-et-rebirth-au-bord-du-gouffre-le-recap-survoltes-de-la-semaine",
-          "source": "Frandroid",
-          "summary": "Cette semaine, on a mesuré combien de temps une voiture électrique tient vraiment dans un bouchon estival, découvert pourquoi l'AdBlue peut immobiliser des camions de pompiers en pleine intervention, regardé de près…",
-          "published": "2026-08-01T18:02:00+00:00"
-        },
-        {
-          "title": "Un écran PC gamer 27″ rafraîchi à 240 Hz et proposé à moins de 140 € ? C’est possible, en voici la preuve",
-          "link": "https://www.frandroid.com/bons-plans/3197869_un-ecran-pc-gamer-27-rafraichi-a-240-hz-et-propose-a-moins-de-140-e-cest-possible-en-voici-la-preuve",
-          "source": "Frandroid",
-          "summary": "Pensé pour les joueurs exigeants, l'écran PC gamer Iiyama G-Master Red Eagle mise sur une grande fluidité d'affichage et une bonne réactivité. Il est en prime proposé à un prix contenu : Boulanger l'affiche en effet à…",
-          "published": "2026-08-01T17:28:00+00:00"
-        },
-        {
-          "title": "Très attendu, le Règlement européen sur l'IA entre en application ce 2 août, voici ce qui change pour vous",
-          "link": "https://www.clubic.com/actualite-623773-tres-attendu-le-reglement-europeen-sur-l-ia-entre-en-application-ce-2-aout-voici-ce-qui-change-pour-vous.html",
-          "source": "Clubic",
-          "summary": "Ce 2 août 2026, l'AI Act, ou Règlement européen sur l'intelligence artificielle, entre dans sa phase répressive : la Commission européenne peut désormais sanctionner les entreprises qui ignorent les nouvelles règles de…",
-          "published": "2026-08-01T17:07:00+00:00"
-        },
-        {
-          "title": "Meilleure liseuse électronique : quel modèle choisir pour cet été 2026 ?",
-          "link": "https://www.frandroid.com/guide-dachat/371603_3-des-meilleures-liseuses-pour-la-rentree",
-          "source": "Frandroid",
-          "summary": "Quelle est la meilleure liseuse, noir et blanc ou couleur, à acheter ? Entre les Kindle d'Amazon et les&nbsp;Kobo, mais aussi d'autres marques telles que Boox, voici nos recommandations des meilleures liseuses.",
-          "published": "2026-08-01T17:02:07+00:00"
-        },
-        {
-          "title": "Du vibe coding au brain fry : la nouvelle fatigue qui terrasse les devs",
-          "link": "https://www.numerama.com/tech/2304443-du-vibe-coding-au-brain-fry-la-nouvelle-fatigue-qui-terrasse-les-devs.html",
-          "source": "Numerama",
-          "summary": "Les développeurs les plus en pointe avec l’intelligence artificielle générative décrivent une fatigue d’un genre nouveau, la vibecoding fatigue ou l’AI brain fry. Des parades sont inventées pour ne pas se laisser…",
-          "published": "2026-08-01T16:31:00+00:00"
-        },
-        {
-          "title": "Vous changez souvent de PC au travail ? Microsoft facilite enfin la transition sur Windows 11",
-          "link": "https://www.clubic.com/actualite-623779-vous-changez-souvent-de-pc-au-travail-microsoft-facilite-enfin-la-transition-sur-windows-11.html",
-          "source": "Clubic",
-          "summary": "Intune se refait une beauté. L’outil de Microsoft utilisé par les entreprises pour gérer leurs ordinateurs à distance se voit doté d’une lecture automatique du registre Windows. Les équipes informatiques peuvent à…",
-          "published": "2026-08-01T16:21:00+00:00"
-        },
-        {
-          "title": "J’ai testé le Ninja BlendBoss : pourquoi ce petit blender a remplacé mon KitchenAid !",
-          "link": "https://www.frandroid.com/produits-android/maison-connectee/3190913_jai-teste-le-ninja-blendboss-pourquoi-ce-petit-blender-a-remplace-mon-kitchenaid",
-          "source": "Frandroid",
-          "summary": "Le Ninja BlendBoss est vendu 129,99 euros et propose de mixer directement dans une gourde de 710 ml qu'on emporte ensuite avec soi. Après plusieurs semaines à m'en servir quotidiennement, autant vous dire que malgré son…",
-          "published": "2026-08-01T16:00:00+00:00"
-        },
-        {
-          "title": "Le Roborock F25 RT Gen 2, l’aspirateur balai laveur qui se faufile sous les meubles, est à -40 %",
-          "link": "https://www.frandroid.com/bons-plans/3196605_le-roborock-f25-rt-gen-2-laspirateur-balai-laveur-qui-se-faufile-sous-les-meubles-est-a-40",
-          "source": "Frandroid",
-          "summary": "Le Roborock F25 RT Gen 2 est un aspirateur-balai laveur sans fil qui aspire et lave les sols en un seul passage, avec la particularité de s'incliner à 180° pour se faufiler sous les meubles bas. Lancé à 299 euros, il…",
-          "published": "2026-08-01T15:39:57+00:00"
-        },
-        {
-          "title": "Snapchat ne récompense plus les vidéos 100 % IA sur Spotlight : ce que ça change pour les créateurs",
-          "link": "https://www.clubic.com/actualite-623776-snapchat-ne-recompense-plus-les-videos-100-ia-sur-spotlight-ce-que-ca-change-pour-les-createurs.html",
-          "source": "Clubic",
-          "summary": "Snap Inc. Sanctionne les vidéos entièrement générées par intelligence artificielle. Elles ne seront plus éligibles aux recommandations de Spotlight, sa fonction de vidéos courtes. L’entreprise veut privilégier la…",
-          "published": "2026-08-01T15:38:00+00:00"
         }
       ]
     }
@@ -328,6 +328,13 @@
     "sejour_bien_etre": {
       "label": "Sejour bien-etre",
       "items": [
+        {
+          "title": "Après vingt-sept ans de recherche, ces médicaments vont révolutionner le traitement de nombreuses maladies",
+          "link": "https://www.slate.fr/sciences/espoir-espoir-medecine-medicament-traitement-revolution-medicale-proteine-cellule-pathogene-maladie-cancer-innovation-recherche",
+          "source": "Slate.fr",
+          "summary": "Les médicaments dits PROTAC ne se contentent plus de bloquer les protéines responsables de certaines maladies: ils les font tout simplement disparaître.",
+          "published": "2026-08-02T07:55:02+00:00"
+        },
         {
           "title": "Les singes sont sûrement meilleurs en géométrie que vous",
           "link": "https://www.slate.fr/sciences/singe-evolution-cerveau-humain-geometrie-logique-recherche-scientifique-macaque-experience-scientifique",
