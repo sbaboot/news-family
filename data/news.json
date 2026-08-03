@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-08-03T17:08:03.792833+00:00",
+  "generated_at": "2026-08-03T19:28:05.882440+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "EN DIRECT, guerre en Ukraine : l’ambassadrice ukrainienne aux Etats-Unis limogée par Volodymyr Zelensky",
+          "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-l-ambassadrice-ukrainienne-aux-etats-unis-limogee-par-volodymyr-zelensky_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
+          "published": "2026-08-03T18:31:16+00:00"
+        },
+        {
+          "title": "Au Mali, l’ancien premier ministre Moussa Mara est sorti de prison",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/03/au-mali-l-ancien-premier-ministre-moussa-mara-est-sorti-de-prison_6737545_3212.html",
+          "source": "Le Monde",
+          "summary": "Chef du gouvernement malien pendant huit mois, en 2014-2015, l’opposant avait été arrêté en août 2025 après avoir rendu visite à des prisonniers politiques.",
+          "published": "2026-08-03T17:30:10+00:00"
+        },
         {
           "title": "À Paris, \"voler\" sur la Seine avec une planche électrique",
           "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-%C3%A0-paris-voler-sur-la-seine-avec-une-planche-%C3%A9lectrique",
@@ -19,11 +33,11 @@
           "published": "2026-08-03T16:43:02+00:00"
         },
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que l’Iran a le choix entre un « accord » ou une « capitulation totale »",
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que des discussions ont lieu « en ce moment même » avec l’Iran",
           "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-l-iran-a-le-choix-entre-un-accord-ou-une-capitulation-totale_6737099_3210.html",
           "source": "Le Monde",
-          "summary": "Sur Truth Social, le président américain s’en est pris aux dirigeants iraniens, qualifiés d’une « duplicité totale ». L’Iran avait déclaré, plus tôt dans la journée, ne pas négocier « avec les Etats-Unis en ce moment »,…",
-          "published": "2026-08-03T16:32:34+00:00"
+          "summary": "Lors d’un échange avec la presse dans le bureau Ovale, le président américain a assuré que ces pourparlers se déroulaient « à la demande » de Téhéran. L’Iran avait déclaré, plus tôt dans la journée, ne pas négocier «…",
+          "published": "2026-08-03T16:32:33+00:00"
         },
         {
           "title": "Tour de France Femmes, étape 3 : victorieuse, la Norvégienne Sigrid Haugset prend le maillot jaune",
@@ -31,6 +45,13 @@
           "source": "France 24",
           "summary": "La Norvégienne Sigrid Haugset a remporté la troisième étape du Tour de France Femmes lundi à Poligny où elle a endossé le maillot jaune au détriment de la Néerlandaise Lorena Wiebes.",
           "published": "2026-08-03T16:25:12+00:00"
+        },
+        {
+          "title": "USA : Spokane ravagée par les flammes / UE : La crise de Ceuta / Japon : Les Etats-Unis au secours du yen...",
+          "link": "https://www.rfi.fr/fr/podcasts/journal-en-fran%C3%A7ais-facile/20260803-journal-en-fran%C3%A7ais-facile-03-08-2026-16h00-gmt",
+          "source": "RFI",
+          "summary": "Le Journal en français facile du lundi 3 août 2026, 18 h 00 à Paris.",
+          "published": "2026-08-03T16:12:53+00:00"
         },
         {
           "title": "Cameroun : les œuvres africaines à l'honneur au 9e Salon international de l'artisanat",
@@ -52,27 +73,6 @@
           "source": "France 24",
           "summary": "Des opérations de déminage, entamées depuis plusieurs jours, se poursuivent au Porge pour permettre le retour complet des habitants dans le village, où le mégafeu de Gironde a révélé la présence d'obus de la Seconde…",
           "published": "2026-08-03T15:30:31+00:00"
-        },
-        {
-          "title": "Ceuta : l’afflux de migrants ravive les tensions autour de Schengen",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-ceuta-l-afflux-de-migrants-ravive-les-tensions-autour-de-schengen",
-          "source": "France 24",
-          "summary": "Après l’afflux massif de migrants à Ceuta, l’Italie, soutenue par le Danemark et la Finlande, a appelé à suspendre temporairement la coopération Schengen avec l’Espagne. Bruxelles, de son côté, rejette l’idée d’une…",
-          "published": "2026-08-03T15:27:37+00:00"
-        },
-        {
-          "title": "Grèce : quatrième jour de lutte contre les incendies",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-gr%C3%A8ce-quatri%C3%A8me-jour-de-lutte-contre-les-incendies",
-          "source": "France 24",
-          "summary": "Des bombardiers d’eau ont décollé ce lundi près de la capitale grecque pour appuyer les opérations contre les feux qui mobilisent les secours depuis quatre jours. Correspondance d'Alexia Kefalas depuis Athènes pour…",
-          "published": "2026-08-03T15:25:26+00:00"
-        },
-        {
-          "title": "Liban : en pleines négociations, Israël continue de faire régner la peur dans le sud du pays avec des dynamitages massifs",
-          "link": "https://www.lemonde.fr/international/article/2026/08/03/liban-en-pleines-negociations-israel-continue-de-faire-regner-la-peur-dans-le-sud-du-pays-avec-des-dynamitages-massifs_6737441_3210.html",
-          "source": "Le Monde",
-          "summary": "Au nom de la destruction de tunnels du Hezbollah, des opérations de dynamitage près de la forteresse de Beaufort, dans la nuit du 30 au 31 juillet, ont suscité de puissantes ondes de choc dans le sud du Liban, occupé…",
-          "published": "2026-08-03T15:25:24+00:00"
         }
       ]
     },
@@ -84,6 +84,55 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Un astronaute canadien se prépare pour une mission de la NASA",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-03/un-astronaute-canadien-se-prepare-pour-une-mission-de-la-nasa.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Quelques mois après le survol lunaire d’Artemis II, un autre astronaute canadien se prépare pour une mission spatiale.",
+          "published": "2026-08-03T19:05:14+00:00"
+        },
+        {
+          "title": "Ariana Grande se retire d’une comédie musicale et fait une pause loin des projecteurs",
+          "link": "https://www.ledevoir.com/culture/musique/999446/ariana-grande-retire-comedie-musicale-fait-pause-loin-projecteurs",
+          "source": "Le Devoir",
+          "summary": "L’attention dont elle fait l’objet s’est intensifiée, alimentant des spéculations concernant sa santé et son physique.",
+          "published": "2026-08-03T18:45:42+00:00"
+        },
+        {
+          "title": "Boucherville | Casse-tête à venir sur l’autoroute 20",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-03/boucherville/casse-tete-a-venir-sur-l-autoroute-20.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’autoroute 20 sera complètement fermée dans l’une ou l’autre de ses directions durant toutes les fins de semaine du mois d’août à la hauteur du boulevard de Montarville. Il s’agit de la sortie pour atteindre le secteur…",
+          "published": "2026-08-03T18:28:05+00:00"
+        },
+        {
+          "title": "Trump annonce une reprise des négociations, l’Iran dément",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/999440/trump-annonce-reprise-negociations-iran-dement",
+          "source": "Le Devoir",
+          "summary": "À l’heure actuelle, Téhéran dit négocier seulement avec Oman « pour sécuriser un passage dans le détroit d’Ormuz ».",
+          "published": "2026-08-03T17:40:00+00:00"
+        },
+        {
+          "title": "Les républicains récalcitrants soutiendront finalement la nomination de Todd Blanche",
+          "link": "https://www.ledevoir.com/monde/etats-unis/999434/republicains-recalcitrants-soutiendront-finalement-nomination-todd-blanche",
+          "source": "Le Devoir",
+          "summary": "L’impasse concernait sur le projet de création d’un fonds destiné à indemniser les alliés de Trump.",
+          "published": "2026-08-03T17:10:00+00:00"
+        },
+        {
+          "title": "La houle Nézet-Séguin emporte «Macbeth» à Lanaudière",
+          "link": "https://www.ledevoir.com/culture/musique/999431/houle-nezet-seguin-emporte-macbeth-lanaudiere",
+          "source": "Le Devoir",
+          "summary": "L’opéra présenté avec le Chœur Métropolitain confirme le tempérament verdien du chef d’orchestre.",
+          "published": "2026-08-03T16:55:00+00:00"
+        },
+        {
+          "title": "À l’ombre de l’IA, un «RAMageddon» s’abat sur l’électronique grand public",
+          "link": "https://www.ledevoir.com/economie/techno/999428/ombre-ia-ramageddon-abat-electronique-grand-public",
+          "source": "Le Devoir",
+          "summary": "Les fabricants délaissent un type de composants mémoires pour un autre, multipliant les prix des appareils.",
+          "published": "2026-08-03T16:50:00+00:00"
+        },
+        {
           "title": "Il y a 90 ans, Jesse Owens faisait un pied de nez à Adolf Hitler",
           "link": "https://www.ledevoir.com/sports/999416/il-y-90-ans-jesse-owens-faisait-pied-nez-adolf-hitler",
           "source": "Le Devoir",
@@ -94,64 +143,15 @@
           "title": "« J’étais convaincu que je pouvais battre Jesse Owens »",
           "link": "https://www.ledevoir.com/sports/999410/j-etais-convaincu-je-pouvais-battre-jesse-owens",
           "source": "Le Devoir",
-          "summary": "Le petit-fils et la petite-fille de la légende d’athlétisme se souviennent de leur grand-père.",
+          "summary": "Le petit-fils et la petite-fille de la légende de l’athlétisme se souviennent de leur grand-père.",
           "published": "2026-08-03T16:08:00+00:00"
         },
         {
-          "title": "Il quitte le Québec pour enterrer sa fille… et perd le droit de travailler",
-          "link": "https://www.lapresse.ca/actualites/2026-08-03/il-quitte-le-quebec-pour-enterrer-sa-fille-et-perd-le-droit-de-travailler.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Ariana Grande se retire d’une comédie musicale et prévoit prendre une pause",
+          "link": "https://www.lapresse.ca/arts/celebrites/2026-08-03/ariana-grande-se-retire-d-une-comedie-musicale-et-prevoit-prendre-une-pause.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Lorsque Laurent Favand a appris que sa fille de 21 ans venait d’être trouvée morte chez elle, à Nyons, en France, il n’a pas réfléchi longtemps.",
-          "published": "2026-08-03T16:00:00+00:00"
-        },
-        {
-          "title": "Pourquoi les autos électriques chinoises ne restent que 1,8 an sur la route",
-          "link": "https://www.lapresse.ca/auto/voitures-electriques/2026-08-03/pourquoi-les-autos-electriques-chinoises-ne-restent-que-1-8-an-sur-la-route.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Avez-vous dit manchette manipulatrice ? Bien des critiques des véhicules électriques chinois ont pris ce titre qui a circulé ces dernières semaines dans des médias asiatiques pour conclure que s’ils ne restent sur la…",
-          "published": "2026-08-03T15:45:00+00:00"
-        },
-        {
-          "title": "La pluie a raison d’une partie des matchs de lundi à l’Omnium Banque Nationale",
-          "link": "https://www.ledevoir.com/sports/999365/pluie-annulation-matchs-omnium-banque-nationale-montreal",
-          "source": "Le Devoir",
-          "summary": "La séance de soir, où devaient jouer les Québécois Gabriel Diallo et Alexis Galarneau, a été annulée.",
-          "published": "2026-08-03T15:34:31+00:00"
-        },
-        {
-          "title": "Le Maroc a-t-il laissé passer les migrants à Ceuta, et dans quel but ?",
-          "link": "https://www.ledevoir.com/monde/europe/999371/maroc-il-laisse-passer-migrants-ceuta-quel-but",
-          "source": "Le Devoir",
-          "summary": "Plusieurs experts suggèrent qu’un allègement des contrôles marocains a favorisé la crise migratoire.",
-          "published": "2026-08-03T15:25:00+00:00"
-        },
-        {
-          "title": "Les drapeaux de l’Alberta et du Canada sèment la discorde à l’approche du référendum",
-          "link": "https://www.ledevoir.com/politique/canada/999362/drapeaux-alberta-canada-sement-discorde-approche-referendum",
-          "source": "Le Devoir",
-          "summary": "Les Albertains doivent se prononcer en octobre sur la tenue d’un référendum sur l’indépendance de la province.",
-          "published": "2026-08-03T15:00:00+00:00"
-        },
-        {
-          "title": "Des feux dans le nord-ouest des États-Unis forcent 60 000 personnes à évacuer",
-          "link": "https://www.ledevoir.com/actualites/environnement/999359/feux-nord-ouest-etats-unis-forcent-60-000-personnes-evacuer",
-          "source": "Le Devoir",
-          "summary": "Aucune victime n’a été recensée pour les trois feux à Spokane, mais il est possible qu’il y en ai, selon la mairesse.",
-          "published": "2026-08-03T14:47:21+00:00"
-        },
-        {
-          "title": "Des échanges de frappes entre l’Ukraine et la Russie font 13 morts",
-          "link": "https://www.ledevoir.com/monde/europe/999356/echanges-frappes-entre-ukraine-russie-font-13-morts",
-          "source": "Le Devoir",
-          "summary": "La Crimée, annexée par la Russie en 2014, est très régulièrement la cible d’attaques de Kiev.",
-          "published": "2026-08-03T14:20:00+00:00"
-        },
-        {
-          "title": "Le Danube est si bas qu’il pousse trois pays d’Europe de l’Est au bord de la crise énergétique",
-          "link": "https://www.ledevoir.com/actualites/environnement/999353/danube-est-si-bas-il-pousse-trois-pays-europe-est-bord-crise-energetique",
-          "source": "Le Devoir",
-          "summary": "Le niveau de ce grand fleuve est descendu à 10 cm à Budapest, ce qui menace d’arrêt la seule centrale nucléaire de Hongrie.",
-          "published": "2026-08-03T14:05:00+00:00"
+          "summary": "Ariana Grande s’est retirée d’une comédie musicale qui devait bientôt être jouée à Londres, ont indiqué les producteurs. Elle compte se retirer de la scène publique pour faire une pause et échapper à l’attention intense…",
+          "published": "2026-08-03T16:06:37+00:00"
         }
       ]
     },
@@ -159,80 +159,101 @@
       "label": "France",
       "items": [
         {
-          "title": "Vosges : un policier montre des photos de cadavres à des stagiaires de 15 ans, l’IGPN saisie",
-          "link": "https://www.lefigaro.fr/actualite-france/vosges-un-policier-montre-des-photos-de-cadavres-a-des-stagiaires-de-15-ans-l-igpn-saisie-20260803",
-          "source": "Le Figaro",
-          "summary": "Selon les informations de Vosges Matin, l’officier concerné - chef d’état-major de la police nationale vosgienne- a été suspendu de ses fonctions à titre conservatoire depuis quelques semaines. Une enquête pour…",
-          "published": "2026-08-03T17:04:47+00:00"
+          "title": "Angleterre, Pays de Galles, Suède, Serbie… Plusieurs fédérations retirent leur soutien à la réélection de Gianni Infantino",
+          "link": "https://www.liberation.fr/sports/football/angleterre-pays-de-galles-suede-serbie-plusieurs-federations-retirent-leur-soutien-a-la-reelection-de-gianni-infantino-20260803_OADRCLVSURGRBNFNLKWTINSAMY/",
+          "source": "Liberation",
+          "summary": "Echaudée par le projet mort-né d’ouvrir les Coupes du monde aux investisseurs étrangers, plusieurs fédérations européennes annoncent lundi ne plus soutenir l’Italo-Suisse lors des prochaines élections, en mars 2027.",
+          "published": "2026-08-03T19:15:43+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendie de Fontainebleau : la région Ile-de-France va se constituer partie civile",
+          "link": "https://www.liberation.fr/environnement/en-direct-incendies-situation-stable-en-gironde-et-dans-le-var-alerte-aux-orages-dans-le-sud-ouest-20260803_ZT5DAEOJ2BFNHHU2TSA55AO3ZA/",
+          "source": "Liberation",
+          "summary": "La région dirigée par Valérie Pécresse a annoncé lundi son intention de se constituer partie civile dans le cadre de l’information judiciaire ouverte par le parquet de Fontainebleau après les incendies qui ont ravagé…",
+          "published": "2026-08-03T19:12:50+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine : le président Volodymyr Zelensky limoge l'ambassadrice ukrainienne aux Etats-Unis",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-president-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_8133581.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Olga Stefanichyna a mentionné une \"décision personnelle\", dans un message posté sur Facebook. La presse ukrainienne évoque une enquête de l'agence anticorruption ouverte à son encontre.",
+          "published": "2026-08-03T19:08:44+00:00"
         },
         {
           "title": "EN DIRECT - Incendies en Gironde : «Un jour heureux» pour les habitants du Porge, qui commencent à rentrer chez eux",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendies-var-gironde-aude-le-porge-cap-ferret-feux-pompiers-securite-civile-canadair-pyromanes-20260803",
           "source": "Le Figaro",
           "summary": "De nombreux incendies se sont déclarés en France depuis le début de l’été, notamment en Gironde où le feu le plus grave depuis 1949 est désormais fixé après avoir brûlé plus de 40 000 hectares en une dizaine de jours.",
-          "published": "2026-08-03T17:03:02+00:00"
+          "published": "2026-08-03T19:06:02+00:00"
         },
         {
-          "title": "La plainte contre X visant le député Charles Alloncle pour prise illégale d'intérêts a été classée sans suite",
-          "link": "https://www.franceinfo.fr/economie/medias/audiovisuel-public/la-plainte-contre-x-visant-le-depute-charles-alloncle-pour-prise-illegale-d-interets-a-ete-classee-sans-suite_8133509.html#xtor=RSS-3-[lestitres]",
+          "title": "Le président de la Fédération nationale bovine demande le déblocage d'un fonds de solidarité pour les éleveurs en raison de la sécheresse",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-president-de-la-federation-nationale-bovine-demande-le-deblocage-d-un-fonds-de-solidarite-pour-les-eleveurs-en-raison-de-la-secheresse_8133590.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "L'avocat de l'association AC!! Anti-Corruption avait accusé, début mai, le rapporteur de la commission d'enquête sur l'audiovisuel public d'avoir influencé la teneur des débats, en posant des questions suggérées par…",
-          "published": "2026-08-03T17:01:01+00:00"
+          "summary": "Le président de la FNB évoque une \"situation vraiment très préoccupante\".",
+          "published": "2026-08-03T19:00:12+00:00"
         },
         {
-          "title": "« Le Fils de l’oligarque », une enquête au scalpel du journaliste américain Patrick Radden Keefe sur un jeune mythomane anglais",
-          "link": "https://www.lemonde.fr/livres/article/2026/08/03/le-fils-de-l-oligarque-une-enquete-au-scalpel-du-journaliste-americain-patrick-radden-keefe-sur-un-jeune-mythomane-anglais_6737544_3260.html",
-          "source": "Le Monde",
-          "summary": "Plume du « New Yorker », auteur en 2022 de « L’Empire de la douleur », sur la crise des opioïdes aux Etats-Unis, Patrick Radden Keefe s’est plongé dans l’histoire tragique de Zac Brettler, retrouvé mort à Londres en…",
-          "published": "2026-08-03T17:00:14+00:00"
-        },
-        {
-          "title": "Accusé d’agressions sexuelles, l’ex-secrétaire d’Etat Jean-Vincent Placé sera jugé le 29 octobre",
-          "link": "https://www.liberation.fr/politique/accuse-dagressions-sexuelles-lex-secretaire-detat-jean-vincent-place-sera-juge-le-29-octobre-20260803_DUV435ORCFB5NMCQY4YIHCDNAA/",
+          "title": "«Je ne me sens en sécurité nulle part» : le journaliste centrafricain Ephrem Yalike-Ngonzo, du cœur de la propagande russe à l’exil forcé",
+          "link": "https://www.liberation.fr/international/afrique/je-ne-me-sens-en-securite-nulle-part-le-journaliste-centrafricain-ephrem-yalike-ngonzo-du-coeur-de-la-propagande-russe-a-lexil-force-20260803_55IJ23CMUZA4RITD4J3D3HEX4M/",
           "source": "Liberation",
-          "summary": "L’ancienne figure écologiste est accusée par deux femmes de les avoir agressées lors de voyages à l’étranger du temps où il était membre du gouvernement.",
-          "published": "2026-08-03T16:50:22+00:00"
+          "summary": "D’abord collaborateur du groupe paramilitaire Wagner, le lanceur d’alerte a révélé l’ampleur de la désinformation de Moscou dans son pays. Exfiltré en France depuis 2024, il a récemment vu sa demande d’asile rejetée et…",
+          "published": "2026-08-03T19:00:00+00:00"
         },
         {
-          "title": "EN DIRECT - Incendie en Gironde : le Porge et Lège-Cap-Ferret sont accessibles, la presqu’île du Cap Ferret rouvrira à 19 heures",
-          "link": "https://www.liberation.fr/environnement/en-direct-incendies-situation-stable-en-gironde-et-dans-le-var-alerte-aux-orages-dans-le-sud-ouest-20260803_ZT5DAEOJ2BFNHHU2TSA55AO3ZA/",
+          "title": "Volodymyr Zelensky limoge l’ambassadrice ukrainienne aux Etats-Unis",
+          "link": "https://www.liberation.fr/international/europe/volodymyr-zelensky-limoge-lambassadrice-ukrainienne-aux-etats-unis-20260803_LNZWDIHITJFEFF3GVHIHX6LFNM/",
           "source": "Liberation",
-          "summary": "Les campings restent toutefois exclus de cette mesure. Grêle, rafales de vent et pluies intenses sont annoncées ce lundi des Pyrénées aux régions du Nord et de l’Est.",
-          "published": "2026-08-03T16:50:00+00:00"
+          "summary": "Le président ukrainien a remercié ce lundi 3 août Olga Stefanichyna, sur fond de soupçons de malversations. Une décision qui intervient au moment où Kyiv espère recevoir de Washington de nouveaux missiles antiaériens…",
+          "published": "2026-08-03T18:53:31+00:00"
         },
         {
-          "title": "Sécheresse historique en France : «la situation la plus critique jamais enregistrée à cette période» pour les petits cours d’eau",
-          "link": "https://www.lefigaro.fr/actualite-france/secheresse-historique-en-france-la-situation-la-plus-critique-jamais-enregistree-a-cette-periode-pour-les-petits-cours-d-eau-20260803",
+          "title": "La Crimée face aux frappes ukrainiennes : «Je ne peux même pas préparer la bouillie de mon bébé ni faire chauffer son bain»",
+          "link": "https://www.liberation.fr/international/europe/la-crimee-face-aux-frappes-ukrainiennes-je-ne-peux-meme-pas-preparer-la-bouillie-de-mon-bebe-ni-faire-chauffer-son-bain-20260803_YGDLYNLK3RD7ZN5TR7DQEDA5WY/",
+          "source": "Liberation",
+          "summary": "Pénurie d’essence, électricité coupée, eau non potable… La péninsule, annexée par Moscou en 2014, souffre du regain des frappes de Kyiv, destinées à déstabiliser les autorités russes. Dont certains habitants remettent…",
+          "published": "2026-08-03T18:40:23+00:00"
+        },
+        {
+          "title": "Isère : un homme soupçonné d'homicide au domicile d’une personne âgée interpellé après une traque",
+          "link": "https://www.lefigaro.fr/flash-actu/isere-un-homme-soupconne-d-homicide-au-domicile-d-une-personne-agee-interpelle-apres-une-traque-20260803",
           "source": "Le Figaro",
-          "summary": "«Les derniers relevés de l’Observatoire national des étiages (ONDE) menés par les agents de l’OFB révèlent une dégradation exceptionnelle de l’état de nos rivières à la fin juillet», indique l’Office français de la…",
-          "published": "2026-08-03T16:48:16+00:00"
+          "summary": "La victime avait été retrouvée dimanche à son domicile de Sardieu, au sud-est de Vienne.",
+          "published": "2026-08-03T18:35:07+00:00"
         },
         {
-          "title": "Un homme tue son fils à Nice et envoie la photo de son enfant dans un sac à son ex-compagne",
-          "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/un-homme-tue-son-fils-a-nice-et-envoie-la-photo-de-son-enfant-dans-un-sac-a-son-ex-compagne-3396286.html#xtor=RSS-3-[lestitres]",
+          "title": "Le 737 MAX 7 de Boeing décroche enfin sa certification après sept ans de retard",
+          "link": "https://www.franceinfo.fr/economie/aeronautique/le-737-max-7-de-boeing-decroche-enfin-sa-certification-apres-sept-ans-de-retard_8133563.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Un homme a tué son fils, âgé de 17 ans, ce lundi 3 août, aux alentours de 16 heures, boulevard de la Madeleine à Nice. Une équipe du Raid est intervenue pour interpeller l'homme qui a été transporté en urgence absolue à…",
-          "published": "2026-08-03T16:47:33+00:00"
-        },
-        {
-          "title": "Comme les pharmaciens et les infirmières, les kinés vont désormais réaliser des bilans prévention",
-          "link": "https://www.liberation.fr/societe/sante/comme-les-pharmaciens-et-les-infirmieres-les-kines-vont-desormais-realiser-des-bilans-prevention-20260803_AMCAITTQKFCQJOBGDRLBHOM7GE/",
-          "source": "Liberation",
-          "summary": "A partir d’octobre, ces professionnels de santé pourront effectuer les consultations de prévention à quatre «âges clés» lancées il y a près de deux ans. Objectif : mieux dépister les maladies chroniques ou les…",
-          "published": "2026-08-03T16:46:06+00:00"
-        },
-        {
-          "title": "Les canicules et les incendies menacent l’objectif de réduction du déficit en France",
-          "link": "https://www.lemonde.fr/politique/article/2026/08/03/les-canicules-et-les-incendies-menacent-l-objectif-de-reduction-du-deficit-en-france_6737542_823448.html",
-          "source": "Le Monde",
-          "summary": "Les vagues de chaleur et leurs conséquences pourraient coûter de 3 milliards à 6 milliards d’euros en 2026. Les assureurs en prendront une part à leur charge. Mais une autre sera financée par l’Etat, compliquant…",
-          "published": "2026-08-03T16:45:08+00:00"
+          "summary": "La plus petite version de la famille pourrait entrer en service en 2027, après des retards successifs pour décrocher le précieux sésame.",
+          "published": "2026-08-03T18:34:46+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Les Anneaux de pouvoir saison 3 : le retour confirmé de Tom Bombadil pose un vrai casse-tête scénaristique",
+          "link": "https://www.numerama.com/pop-culture/2305901-les-anneaux-de-pouvoir-saison-3-le-retour-confirme-de-tom-bombadil-pose-un-vrai-casse-tete-scenaristique.html",
+          "source": "Numerama",
+          "summary": "Alors que le casting de la saison 3 des Anneaux de pouvoir est officialisé, le retour de Tom Bombadil pose une difficulté. Si l'interprétation de Rory Kinnear séduit, la puissance démesurée de « l'Aîné » pose un défi…",
+          "published": "2026-08-03T18:02:00+00:00"
+        },
+        {
+          "title": "Où regarder l’éclipse solaire du 12 août en streaming ? Notre liste des sites à suivre",
+          "link": "https://www.frandroid.com/culture-tech/espace/3201987_ou-regarder-leclipse-solaire-du-12-aout-en-streaming-notre-liste-des-sites-a-suivre",
+          "source": "Frandroid",
+          "summary": "La Lune passera devant le Soleil le mercredi 12 août en fin de journée, et une bande du nord de l'Espagne connaîtra une éclipse totale. Plusieurs institutions et sites spécialisés diffuseront l'événement en direct, avec…",
+          "published": "2026-08-03T18:01:00+00:00"
+        },
+        {
+          "title": "La Kindle Scribe, liseuse et carnet de notes tout-en-un, perd 140 € sur Amazon",
+          "link": "https://www.frandroid.com/produits-android/3201941_la-kindle-scribe-liseuse-et-carnet-de-notes-tout-en-un-perd-140-e-sur-amazon",
+          "source": "Frandroid",
+          "summary": "La Kindle Scribe 2024 d'Amazon combine une liseuse grand format et un carnet de notes numérique grâce à son écran E-Ink de 10,2 pouces et son stylet Premium Pen. Elle est actuellement proposée à 309 euros au lieu de 449…",
+          "published": "2026-08-03T17:41:00+00:00"
+        },
         {
           "title": "Canicule : luttez contre la chaleur avec ces 5 climatiseurs mobiles en stock sur Amazon",
           "link": "https://www.clubic.com/bons-plans-623944-canicule-ces-5-climatiseurs-mobiles-sont-encore-disponibles-chez-amazon.html",
@@ -295,27 +316,6 @@
           "source": "Numerama",
           "summary": "Pendant que ses régions se disputent les usines de batteries et de voitures électriques made in China, Madrid pousse en parallèle Bruxelles à imposer des règles communes pour éviter que l'accueil à bras ouverts ne se…",
           "published": "2026-08-03T15:50:00+00:00"
-        },
-        {
-          "title": "Ubaldi fait tomber ce TV TCL Mini LED 144 Hz, Dolby Vision et 65  » sous la barre des 750 €",
-          "link": "https://www.numerama.com/tech/2305803-ubaldi-fait-tomber-ce-tv-tcl-mini-led-144-hz-dolby-vision-et-65-sous-la-barre-des-750-e.html",
-          "source": "Numerama",
-          "summary": "[Deal du jour] Le TCL 65P89L, un téléviseur QD-Mini LED de 65 pouces sorti en 2026, passe à 720 € au lieu de 849 € chez Ubaldi. Cette réduction sur un modèle polyvalent, qui plus est doté d’une diagonale aussi…",
-          "published": "2026-08-03T15:48:00+00:00"
-        },
-        {
-          "title": "Aïe, Xiaomi augmente ses prix en Chine et on craint la même chose en France",
-          "link": "https://www.frandroid.com/marques/xiaomi/3202231_aie-xiaomi-augmente-ses-prix-en-chine-et-on-craint-la-meme-chose-en-france",
-          "source": "Frandroid",
-          "summary": "Xiaomi vient d'augmenter le prix de plusieurs smartphones en Chine. En cause : la mémoire, dont le coût s'envole. Et le phénomène pourrait bien finir sur nos factures en France.",
-          "published": "2026-08-03T15:45:41+00:00"
-        },
-        {
-          "title": "KDE Plasma 6.8 sera nettement plus performant avec les GPU multiples",
-          "link": "https://next.ink/249861/kde-plasma-6-8-sera-nettement-plus-performant-avec-les-gpu-multiples/",
-          "source": "Next",
-          "summary": "Plasma 6.8 va intégrer un changement majeur dans la manière dont le travail graphique est effectué sur les configurations contenant plusieurs GPU. Les gains devraient être substantiels, particulièrement sur les…",
-          "published": "2026-08-03T15:42:00+00:00"
         }
       ]
     }
