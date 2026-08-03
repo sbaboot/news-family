@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-02T21:54:48.639400+00:00",
+  "generated_at": "2026-08-03T02:41:09.079639+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Une frappe de drone fait au moins 35 morts dans le Darfour au Soudan, selon l'ONG Emergency Lawyers",
+          "link": "https://www.france24.com/fr/afrique/20260803-frappe-drone-35-morts-darfour-soudan-ong-emergency-lawyers-tribunal-fsr",
+          "source": "France 24",
+          "summary": "Selon Emergency Lawyers, une frappe a visé le tribunal du village de Garra al-Zawaya, dans l'État du Darfour du Nord, au Soudan, dimanche, où des civils \"étaient réunis\". L'ONG fait état d'un bilan d'au moins 35…",
+          "published": "2026-08-03T01:41:50+00:00"
+        },
+        {
+          "title": "Quatre femmes accusant Mohammed Al-Fayed de violences sexuelles ont été reconnues par les autorités britanniques victimes de traite d’êtres humains",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/03/quatre-femmes-accusant-mohammed-al-fayed-de-violences-sexuelles-ont-ete-reconnues-par-les-autorites-britanniques-victimes-de-traite-d-etres-humains_6737322_3224.html",
+          "source": "Le Monde",
+          "summary": "Quelque 157 personnes se sont manifestées auprès de la police britannique et accusent l’ancien propriétaire du magasin Harrods de viols, d’agressions sexuelles et d’exploitation à des fins sexuelles. Mort en 2023 alors…",
+          "published": "2026-08-03T01:21:07+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Moscou dit avoir intercepté 245 drones ukrainiens au-dessus de plusieurs régions russes, dans la journée de dimanche",
+          "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-moscou-dit-avoir-intercepte-245-drones-ukrainiens-au-dessus-de-plusieurs-regions-russes-dans-la-journee-de-dimanche_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a, lui, dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Volodymyr Zelensky dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de…",
+          "published": "2026-08-03T00:59:22+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce des discussions avec l’Iran à partir de lundi",
+          "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-des-discussions-avec-l-iran-a-partir-de-lundi_6737099_3210.html",
+          "source": "Le Monde",
+          "summary": "Après avoir déclaré, la veille, avoir renoncé à de nouvelles frappes sur l’Iran à condition qu’un accord soit rapidement conclu, le président américain a affirmé, dimanche, que des pourparlers avec Téhéran étaient…",
+          "published": "2026-08-03T00:03:32+00:00"
+        },
+        {
+          "title": "Les États-Unis sont intervenus pour soutenir le yen, Donald Trump évoque un \"geste d'amitié\"",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260802-donald-trump-confirme-intervention-americaine-pour-soutenir-monnaie-yen-geste-amitie-japon-etats-unis-reserve-federale",
+          "source": "France 24",
+          "summary": "Le Financial Times a affirmé dimanche que \"la Réserve fédérale de New York a(vait) pris la décision inhabituelle de procéder à une vente d'euros pour acheter des yens pour le compte du Trésor\" vendredi, en coordination…",
+          "published": "2026-08-02T23:40:54+00:00"
+        },
+        {
+          "title": "Donald Trump affirme que les Etats-Unis sont intervenus pour soutenir le yen, par « amitié » pour le Japon",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/03/donald-trump-affirme-que-les-etats-unis-sont-intervenus-pour-soutenir-le-yen-par-amitie-pour-le-japon_6737321_3234.html",
+          "source": "Le Monde",
+          "summary": "La Réserve fédérale de New York a orchestré une vente d’euros inédite pour acheter des yens. La monnaie nippone avait enregistré en juillet ses plus bas niveaux depuis près de quarante ans.",
+          "published": "2026-08-02T23:28:46+00:00"
+        },
+        {
+          "title": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
+          "source": "Le Monde",
+          "summary": "Le conflit entre l’armée et les Forces de soutien rapide, qui a éclaté en 2023, a fait des dizaines de milliers de morts, provoqué le déplacement de millions de personnes et déclenché ce que les Nations unies décrivent…",
+          "published": "2026-08-02T22:51:57+00:00"
+        },
+        {
+          "title": "En direct : Donald Trump annonce de nouveaux pourparlers avec l'Iran à partir de lundi",
+          "link": "https://www.france24.com/fr/moyen-orient/20260802-en-direct-donald-trump-annonce-nouveaux-pourparlers-iran-lundi-detroit-ormuz-guerre-moyen-orient-etats-unis-pays-golfe",
+          "source": "France 24",
+          "summary": "Donald Trump a annoncé, dimanche soir, de nouveaux pourparlers avec l'Iran à partir de lundi. \"Il y a un accord sur Ormuz, et il y aura ensuite un accord sur le nucléaire, on pourrait même dire sur la dénucléarisation…",
+          "published": "2026-08-02T22:06:43+00:00"
+        },
         {
           "title": "Pourquoi certains États veulent quitter la Cour Pénale internationale",
           "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260802-pourquoi-certains-%C3%A9tats-veulent-quitter-la-cour-p%C3%A9nale-internationale",
@@ -12,67 +68,11 @@
           "published": "2026-08-02T20:36:31+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : en une semaine, 1 900 drones et 144 missiles russes ont visé 16 régions ukrainiennes, selon Volodymyr Zelensky",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-en-une-semaine-1-900-drones-et-144-missiles-russes-ont-vise-16-regions-ukrainiennes-selon-volodymyr-zelensky_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président ukrainien a dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Il y dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de différents types, dont…",
-          "published": "2026-08-02T20:26:45+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit être proche d’un accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d’Ormuz",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html",
-          "source": "Le Monde",
-          "summary": "Des efforts seraient par ailleurs en cours pour ranimer le protocole d’accord avec Washington après que Donald Trump a annoncé suspendre de nouvelles frappes sur l’Iran.",
-          "published": "2026-08-02T20:21:56+00:00"
-        },
-        {
           "title": "Pourquoi le Mali, le Burkina Faso, le Niger et le Tchad quittent-ils la Cour pénale internationale ?",
           "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-pourquoi-le-mali-le-burkina-faso-le-niger-et-le-tchad-quittent-la-cour-p%C3%A9nale-internationale",
           "source": "France 24",
           "summary": "Le Burkina Faso, le Mali et le Niger ont annoncé leur retrait de la Cour pénale internationale. Les trois pays de l'Alliance des États du Sahel dénoncent une justice internationale qu'ils jugent partiale et…",
           "published": "2026-08-02T20:17:59+00:00"
-        },
-        {
-          "title": "Au Brésil, Lula, 80 ans, lance sa campagne pour décrocher un quatrième mandat",
-          "link": "https://www.lemonde.fr/international/article/2026/08/02/au-bresil-lula-80-ans-lance-sa-campagne-pour-decrocher-un-quatrieme-mandat_6737314_3210.html",
-          "source": "Le Monde",
-          "summary": "Revenu en 2023 au pouvoir après deux premiers mandats (2003-2010), le président sortant de gauche a été investi lors d’une convention de son Parti des travailleurs. Il affrontera Flavio Bolsonaro, fils de l’ex-président…",
-          "published": "2026-08-02T18:24:28+00:00"
-        },
-        {
-          "title": "Abdul Samad Rabiu, l’autre industriel multimilliardaire qui veut changer le Nigeria",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/02/abdul-samad-rabiu-l-autre-industriel-multimilliardaire-qui-veut-changer-le-nigeria_6737313_3212.html",
-          "source": "Le Monde",
-          "summary": "« Fortunes africaines ». Son parcours rappelle celui d’Aliko Dangote, première fortune d’Afrique. Plus discret, le patron du groupe BUA a lui aussi bâti un empire dans le ciment et le sucre. Et lui aussi est originaire…",
-          "published": "2026-08-02T18:00:08+00:00"
-        },
-        {
-          "title": "Présidentielle au Brésil : Lula candidat pour un quatrième et dernier mandat à la tête du pays",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260802-br%C3%A9sil-lula-candidat-pour-un-quatri%C3%A8me-et-dernier-mandat-%C3%A0-la-t%C3%AAte-du-pays",
-          "source": "France 24",
-          "summary": "Luiz Inacio Lula da Silva s'est porté candidat, dimanche, pour un quatrième et dernier mandat à la tête du Brésil lors d'une convention de son Parti des travailleurs à Sao Paulo. À 80 ans, le président brésilien s'est…",
-          "published": "2026-08-02T17:12:01+00:00"
-        },
-        {
-          "title": "Tour de France Femmes, étape 2 : Wiebes récidive au sprint et conforte son maillot jaune",
-          "link": "https://www.france24.com/fr/sports/20260802-tour-de-france-femmes-%C3%A9tape-2-wiebes-r%C3%A9cidive-au-sprint-et-conforte-son-maillot-jaune",
-          "source": "France 24",
-          "summary": "Déjà victorieuse la veille à Lausanne, Lorena Wiebes a récidivé dimanche en remportant la deuxième étape du Tour de France Femmes à Genève. La cycliste néerlandaise de la formation SDS Worx a devancé au sprint…",
-          "published": "2026-08-02T16:31:24+00:00"
-        },
-        {
-          "title": "Au Pakistan, un attentat-suicide fait au moins neuf morts et 20 blessés",
-          "link": "https://www.lemonde.fr/international/article/2026/08/02/au-pakistan-un-attentat-suicide-fait-au-moins-neuf-morts-et-20-blesses_6737308_3210.html",
-          "source": "Le Monde",
-          "summary": "Un homme a activé sa ceinture d’explosifs devant un commissariat. Les autorités font face à l’insurrection de plus en plus intensive du Tehrik-e-Taliban Pakistan, qui a revendiqué la plupart des attentats qui ont frappé…",
-          "published": "2026-08-02T16:19:41+00:00"
-        },
-        {
-          "title": "Au moins 72 migrants sont morts en tentant de rejoindre Ceuta, selon Madrid",
-          "link": "https://www.france24.com/fr/europe/20260802-ceuta-au-moins-72-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-espagnole",
-          "source": "France 24",
-          "summary": "L'afflux inédit de dizaines de milliers de personnes à Ceuta ces derniers jours a causé la mort d'au moins 72 migrants ayant tenté de rejoindre l'enclave espagnole, selon Madrid. Le ministère de l'Intérieur marocain a…",
-          "published": "2026-08-02T16:19:37+00:00"
         }
       ]
     },
@@ -84,11 +84,60 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Le corps d’un pêcheur montréalais repêché en Haute-Gaspésie",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-02/le-corps-d-un-pecheur-montrealais-repeche-en-haute-gaspesie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Venus Williams est battue par Kamilla Rakhimova, de l’Ouzbékistan",
+          "link": "https://www.ledevoir.com/sports/999299/venus-williams-est-battue-kamilla-rakhimova-ouzbekistan",
+          "source": "Le Devoir",
+          "summary": "L’icône du tennis a désormais perdu 12 matchs consécutifs.",
+          "published": "2026-08-03T00:39:00+00:00"
+        },
+        {
+          "title": "La pluie affecte déjà l’organisation de l’Omnium Banque Nationale à Montréal",
+          "link": "https://www.ledevoir.com/sports/999296/pluie-affecte-deja-organisation-omnium-banque-nationale-montreal",
+          "source": "Le Devoir",
+          "summary": "La séance de soir, qui devait mettre en vedette Diallo et Galarneau, a été entièrement annulée.",
+          "published": "2026-08-03T00:15:00+00:00"
+        },
+        {
+          "title": "Votre ras-le-bol des automobilistes agressifs",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-08-02/votre-ras-le-bol-des-automobilistes-agressifs.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Après deux semaines de recherche, le corps du pêcheur Pepito Jr Labador a été retrouvé sans vie, sans les eaux du fleuve Saint-Laurent, dans le secteur de la municipalité de Marsoui, en Gaspésie.",
-          "published": "2026-08-02T21:45:35+00:00"
+          "summary": "Ma chronique sur l’agressivité grandissante des automobilistes⁠1 a suscité une avalanche de commentaires qui s’est échelonnée sur des jours. Je ne suis visiblement pas le seul à observer ce phénomène sur nos routes.…",
+          "published": "2026-08-02T23:45:00+00:00"
+        },
+        {
+          "title": "Conflit au Moyen-Orient | Trump annonce de nouveaux pourparlers avec l’Iran à partir de lundi",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-02/conflit-au-moyen-orient/trump-annonce-de-nouveaux-pourparlers-avec-l-iran-a-partir-de-lundi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Donald Trump a annoncé que de nouvelles négociations avec l’Iran débuteraient lundi, après avoir affirmé retenir une attaque avec Israël contre la République islamique à condition qu’un accord soit rapidement conclu.",
+          "published": "2026-08-02T23:30:42+00:00"
+        },
+        {
+          "title": "La pluie s’invite  en conclusion du festival Osheaga",
+          "link": "https://www.ledevoir.com/culture/musique/999284/pluie-invite-conclusion-festival-osheaga",
+          "source": "Le Devoir",
+          "summary": "La 19e édition du festival Osheaga qui a attiré 151 000 spectateurs va se clore avec la performance de Lorde.",
+          "published": "2026-08-02T23:20:14+00:00"
+        },
+        {
+          "title": "Quoi retenir de la fin de semaine ?",
+          "link": "https://www.ledevoir.com/actualites/999290/quoi-retenir-fin-semaine",
+          "source": "Le Devoir",
+          "summary": "L’actualité du week-end des 1er et 2 août en résumé.",
+          "published": "2026-08-02T23:13:00+00:00"
+        },
+        {
+          "title": "Le dernier «Spider-Man» réalise le deuxième meilleur démarrage nord-américain",
+          "link": "https://www.ledevoir.com/culture/cinema/999278/dernier-spider-man-realise-deuxieme-meilleur-demarrage-nord-americain",
+          "source": "Le Devoir",
+          "summary": "Il n’était qu’à quelques millions de «Avengers: Endgame», qui avait démarré en récoltant 357 millions $ US en 2019.",
+          "published": "2026-08-02T21:48:30+00:00"
+        },
+        {
+          "title": "L’Ontarien Kyle Reyes remporte une médaille d’or aux Jeux du Commonwealth",
+          "link": "https://www.ledevoir.com/sports/999263/ontarien-kyle-reyes-remporte-medaille-or-jeux-commonwealth",
+          "source": "Le Devoir",
+          "summary": "Coralie Godbout a également remporté le bronze en judo dans les moins de 78 kg.",
+          "published": "2026-08-02T21:39:00+00:00"
         },
         {
           "title": "Omnium Banque Nationale | Alexander Zverev à la défense de ses pairs",
@@ -103,61 +152,54 @@
           "source": "Le Devoir",
           "summary": "Cinq éléments à surveiller dans le monde des affaires au Canada au cours de la semaine à venir.",
           "published": "2026-08-02T21:05:26+00:00"
-        },
-        {
-          "title": "Pêcheur montréalais emporté dans le fleuve: son corps repêché en Haute-Gaspésie",
-          "link": "https://www.journaldemontreal.com/2026/08/02/pecheur-montrealais-emporte-dans-le-fleuve-son-corps-repeche-en-haute-gaspesie",
-          "source": "Journal de Montreal",
-          "summary": "Le corps d'un Montréalais, emporté par les eaux du fleuve Saint-Laurent alors qu'il pêchait en Haute-Gaspésie, a été retrouvé dimanche matin.",
-          "published": "2026-08-02T20:58:43+00:00"
-        },
-        {
-          "title": "Denis Shapovalov aura du temps",
-          "link": "https://www.journaldemontreal.com/2026/08/02/denis-shapovalov-aura-du-temps",
-          "source": "Journal de Montreal",
-          "summary": "Même s’il a disputé une finale ce week-end, Denis Shapovalov aura un peu de temps pour recharger ses batteries avant de jouer à Montréal.",
-          "published": "2026-08-02T20:53:45+00:00"
-        },
-        {
-          "title": "À TVA Sports: c'est le début de l'Omnium Banque Nationale",
-          "link": "https://www.journaldemontreal.com/2026/08/02/a-tva-sports-cest-le-debut-de-lomnium-banque-nationale",
-          "source": "Journal de Montreal",
-          "summary": "Toute l'action commence sur nos ondes aujourd'hui.",
-          "published": "2026-08-02T20:52:36+00:00"
-        },
-        {
-          "title": "Le SPVM enquête sur un incendie ayant ravagé un restaurant casher",
-          "link": "https://www.ledevoir.com/actualites/999251/spvm-enquete-incendie-ayant-ravage-restaurant-casher",
-          "source": "Le Devoir",
-          "summary": "La police dit qu’il s’agit d’un incendie provoqué volontairement.",
-          "published": "2026-08-02T20:51:03+00:00"
-        },
-        {
-          "title": "Magistral Prokofiev à Lanaudière",
-          "link": "https://www.ledevoir.com/culture/musique/999248/magistral-prokofiev-lanaudiere",
-          "source": "Le Devoir",
-          "summary": "Entente totale et émulation entre Bruce Liu et Rafael Payare samedi.",
-          "published": "2026-08-02T20:50:00+00:00"
-        },
-        {
-          "title": "Au moins 72 migrants sont morts en essayant de gagner l'enclave de Ceuta",
-          "link": "https://www.journaldemontreal.com/2026/08/02/au-moins-72-migrants-sont-morts-en-essayant-de-gagner-lenclave-de-ceuta",
-          "source": "Journal de Montreal",
-          "summary": "Au moins 72 personnes sont mortes en voulant rejoindre illégalement l'enclave espagnole de Ceuta sur la côte nord du Maroc.",
-          "published": "2026-08-02T20:38:02+00:00"
-        },
-        {
-          "title": "La bataille du Michigan: une primaire sénatoriale qui expose les divisions du Parti démocrate",
-          "link": "https://www.journaldemontreal.com/2026/08/02/la-bataille-du-michigan-une-primaire-senatoriale-qui-expose-les-divisions-du-parti-democrate",
-          "source": "Journal de Montreal",
-          "summary": "La primaire sénatoriale du Michigan, qui se tiendra mardi, s’annonce particulièrement révélatrice des tensions qui traversent le Parti démocrate.",
-          "published": "2026-08-02T20:35:19+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Moscou dit avoir intercepté 245 drones ukrainiens au-dessus de plusieurs régions russes, dans la journée de dimanche",
+          "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-moscou-dit-avoir-intercepte-245-drones-ukrainiens-au-dessus-de-plusieurs-regions-russes-dans-la-journee-de-dimanche_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a, lui, dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Volodymyr Zelensky dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de…",
+          "published": "2026-08-03T00:59:22+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce des discussions avec l’Iran à partir de lundi",
+          "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-des-discussions-avec-l-iran-a-partir-de-lundi_6737099_3210.html",
+          "source": "Le Monde",
+          "summary": "Après avoir déclaré, la veille, avoir renoncé à de nouvelles frappes sur l’Iran à condition qu’un accord soit rapidement conclu, le président américain a affirmé, dimanche, que des pourparlers avec Téhéran étaient…",
+          "published": "2026-08-03T00:03:32+00:00"
+        },
+        {
+          "title": "Trump annonce de nouveaux pourparlers avec l'Iran à partir de lundi",
+          "link": "https://www.lefigaro.fr/international/trump-annonce-de-nouveaux-pourparlers-avec-l-iran-a-partir-de-lundi-20260803",
+          "source": "Le Figaro",
+          "summary": "Un protocole d’accord signé à la mi-juin pour ouvrir la voie à des pourparlers de paix n’a pas permis de percée diplomatique et des frappes réciproques ont eu lieu en juillet.",
+          "published": "2026-08-02T23:52:56+00:00"
+        },
+        {
+          "title": "Donald Trump affirme que les Etats-Unis sont intervenus pour soutenir le yen, par « amitié » pour le Japon",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/03/donald-trump-affirme-que-les-etats-unis-sont-intervenus-pour-soutenir-le-yen-par-amitie-pour-le-japon_6737321_3234.html",
+          "source": "Le Monde",
+          "summary": "La Réserve fédérale de New York a orchestré une vente d’euros inédite pour acheter des yens. La monnaie nippone avait enregistré en juillet ses plus bas niveaux depuis près de quarante ans.",
+          "published": "2026-08-02T23:28:46+00:00"
+        },
+        {
+          "title": "Soudan : une ONG accuse l’armée d’avoir tué 35 personnes dans une frappe de drone sur un tribunal du Darfour",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/03/soudan-une-ong-accuse-l-armee-d-avoir-tue-35-personnes-dans-une-frappe-de-drone-sur-un-tribunal-du-darfour_6737320_3212.html",
+          "source": "Le Monde",
+          "summary": "Le conflit entre l’armée et les Forces de soutien rapide, qui a éclaté en 2023, a fait des dizaines de milliers de morts, provoqué le déplacement de millions de personnes et déclenché ce que les Nations unies décrivent…",
+          "published": "2026-08-02T22:51:57+00:00"
+        },
+        {
+          "title": "Trump affirme que l'intervention américaine pour soutenir le yen est un «geste d'amitié»",
+          "link": "https://www.lefigaro.fr/international/trump-affirme-que-l-intervention-americaine-pour-soutenir-le-yen-est-un-geste-d-amitie-20260803",
+          "source": "Le Figaro",
+          "summary": "Le président américain a choisi de soutenir la devise nippone parce que les États-Unis ont «une bonne relation avec le Japon».",
+          "published": "2026-08-02T22:48:53+00:00"
+        },
         {
           "title": "Ceuta : le Maroc annonce, dans son premier bilan officiel, la mort de 11 migrants, tandis que l’Espagne en recense 72",
           "link": "https://www.lefigaro.fr/international/ceuta-le-maroc-annonce-dans-son-premier-bilan-officiel-la-mort-de-11-migrants-20260802",
@@ -173,60 +215,18 @@
           "published": "2026-08-02T21:04:46+00:00"
         },
         {
+          "title": "Brésil : «en pleine forme», Lula se lance à 80 ans dans sa dernière bataille",
+          "link": "https://www.lefigaro.fr/international/bresil-en-pleine-forme-lula-se-lance-a-80-ans-dans-sa-derniere-bataille-20260802",
+          "source": "Le Figaro",
+          "summary": "Le président brésilien, candidat pour un quatrième mandat, a été investi dimanche lors d’une convention de son Parti des travailleurs (PT) à São Paulo.",
+          "published": "2026-08-02T21:03:28+00:00"
+        },
+        {
           "title": "En Moselle, le confinement de 30 000 habitants levé après l'incendie d'un site classé Seveso",
           "link": "https://www.franceinfo.fr/france/grand-est/moselle/en-moselle-le-confinement-de-30-000-habitants-leve-apres-l-incendie-d-un-site-classe-seveso_8132507.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Dimanche 2 août a été une journée angoissante pour les 30 000 habitants de Moselle confinés chez eux en raison d’un incendie dans un entrepôt de déchets industriels à Gandrange. La préfecture a annoncé la levée du…",
           "published": "2026-08-02T21:01:36+00:00"
-        },
-        {
-          "title": "Incendie dans l'Aude : le feu \"particulièrement complexe\" aux portes de Carcassonne est désormais fixé, annonce la préfecture",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-megafeu-en-gironde-aller-en-vacances-dans-le-departement-est-un-geste-de-solidarite-declare-sebastien-lecornu_8131925.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "A 23 heures, l'autoroute A61 était toujours fermée dans les deux sens entre Carcassonne Est et Carcassonne Ouest.",
-          "published": "2026-08-02T20:55:09+00:00"
-        },
-        {
-          "title": "L’incendie dans l’Aude ayant ravagé une centaine d’hectares près de Carcassonne est «fixé», l’A61 rouverte «dès que possible»",
-          "link": "https://www.lefigaro.fr/actualite-france/un-important-incendie-a-deja-ravage-une-centaine-d-hectares-pres-de-carcassonne-20260802",
-          "source": "Le Figaro",
-          "summary": "Le feu a démarré après qu’une voiture se soit enflammée sur le bord de l’A61 dans l’Aude. D’importants moyens humains et aériens ont été déployés.",
-          "published": "2026-08-02T20:43:07+00:00"
-        },
-        {
-          "title": "Investisseurs privés à la Fifa : «Gardez les preuves», l’UEFA menace Infantino et la Fifa de poursuites judiciaires",
-          "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/investisseurs-prives-a-la-fifa-gardez-les-preuves-l-uefa-menace-infantino-et-la-fifa-de-poursuites-judiciaires-20260802",
-          "source": "Le Figaro",
-          "summary": "L’instance européenne, en tête de la fronde face au président de la Fifa et son projet de société commerciale, a menacé d’engager des poursuites judiciaires.",
-          "published": "2026-08-02T20:42:35+00:00"
-        },
-        {
-          "title": "EN DIRECT, incendies : la préfète de Gironde autorise le retour à partir de lundi à Lège-Cap-Ferret et au Porge ; le feu près de Carcassonne est fixé",
-          "link": "https://www.lemonde.fr/planete/live/2026/08/02/en-direct-incendies-la-prefete-de-gironde-autorise-le-retour-a-partir-de-lundi-a-lege-cap-ferret-et-au-porge-le-feu-pres-de-carcassonne-est-fixe_6737310_3244.html",
-          "source": "Le Monde",
-          "summary": "Un nouvel incendie s’est déclaré à Carcassonne, dans l’Aude, à proximité de l’autoroute A61. En Gironde, où le mégafeu a dévoré 42 000 hectares en onze jours, celui-ci, fixé depuis samedi, « n’évolue plus » mais n’est…",
-          "published": "2026-08-02T20:27:31+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : en une semaine, 1 900 drones et 144 missiles russes ont visé 16 régions ukrainiennes, selon Volodymyr Zelensky",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-en-ukraine-en-une-semaine-1-900-drones-et-144-missiles-russes-ont-vise-16-regions-ukrainiennes-selon-volodymyr-zelensky_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président ukrainien a dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Il y dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et 144 missiles de différents types, dont…",
-          "published": "2026-08-02T20:26:45+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran dit être proche d’un accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d’Ormuz",
-          "link": "https://www.lemonde.fr/international/live/2026/08/02/en-direct-guerre-au-moyen-orient-l-iran-dit-etre-proche-d-un-accord-avec-oman-sur-un-nouvel-itineraire-de-transit-des-navires-dans-le-detroit-d-ormuz_6737099_3210.html",
-          "source": "Le Monde",
-          "summary": "Des efforts seraient par ailleurs en cours pour ranimer le protocole d’accord avec Washington après que Donald Trump a annoncé suspendre de nouvelles frappes sur l’Iran.",
-          "published": "2026-08-02T20:21:56+00:00"
-        },
-        {
-          "title": "Liechtenstein: les données d'environ 31.000 entités juridiques piratées",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/liechtenstein-les-donnees-d-environ-31-000-entites-juridiques-piratees-20260802",
-          "source": "Le Figaro",
-          "summary": "Le registre ciblé par les auteurs de l’attaque vise à lutter contre le blanchiment d’argent et le financement du terrorisme, recense les personnes qui contrôlent effectivement les sociétés, fondations et fiduciaires…",
-          "published": "2026-08-02T20:02:02+00:00"
         }
       ]
     },
