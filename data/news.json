@@ -1,15 +1,71 @@
 {
-  "generated_at": "2026-08-04T05:45:26.881208+00:00",
+  "generated_at": "2026-08-04T08:34:17.518504+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Le Rhin à sec met l’économie allemande sous pression et menace de peser sur le PIB",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/04/le-rhin-a-sec-met-l-economie-allemande-sous-pression-et-menace-de-peser-sur-le-pib_6738284_3234.html",
+          "source": "Le Monde",
+          "summary": "Le fleuve atteint des niveaux exceptionnellement bas après plusieurs semaines de sécheresse. La situation perturbe le transport fluvial et menace d’alourdir les coûts des entreprises dépendantes de cet axe stratégique.",
+          "published": "2026-08-04T08:30:08+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : « Vladimir Poutine veut achever notre système énergétique », accuse le ministre de l’énergie ukrainien, Denys Chmyhal",
+          "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-vladimir-poutine-veut-achever-notre-systeme-energetique-accuse-le-ministre-de-l-energie-ukrainien-denys-chmyhal_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon le ministre ukrainien à « Politico », le président russe cherche aussi à « faire dérailler » l’économie et la production d’armes du pays, espérant qu’« en hiver, [la] société cédera sous l’épuisement et fera…",
+          "published": "2026-08-04T08:03:23+00:00"
+        },
+        {
+          "title": "Au Sénégal, les grandes figures de l’islam soufi inspirent les discours souverainistes et anticolonialistes",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/04/au-senegal-les-grandes-figures-de-l-islam-soufi-inspirent-les-discours-souverainistes-et-anticolonialistes_6738251_3212.html",
+          "source": "Le Monde",
+          "summary": "Les références à Cheikh Ahmadou Bamba, fondateur de la confrérie des mourides, ou El Hadj Oumar Tall, leader de la tidjaniya, continuent d’irriguer les champs politiques sénégalais.",
+          "published": "2026-08-04T08:00:11+00:00"
+        },
+        {
+          "title": "En Allemagne, l’AfD exploite la crise migratoire de Ceuta dans l’espoir de peser sur la campagne des régionales",
+          "link": "https://www.lemonde.fr/international/article/2026/08/04/en-allemagne-l-afd-exploite-la-crise-migratoire-de-ceuta-dans-l-espoir-de-peser-sur-la-campagne-des-regionales_6738249_3210.html",
+          "source": "Le Monde",
+          "summary": "Très actif sur les réseaux sociaux, le parti d’extrême droite a multiplié les interventions dramatisant l’arrivée de migrants dans l’enclave espagnole, tout en reprochant au chancelier conservateur, Friedrich Merz, de…",
+          "published": "2026-08-04T08:00:03+00:00"
+        },
+        {
+          "title": "À la Une: Israël maintient la pression sur Gaza",
+          "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260804-%C3%A0-la-une-isra%C3%ABl-maintient-la-pression-sur-gaza",
+          "source": "RFI",
+          "summary": "",
+          "published": "2026-08-04T07:54:01+00:00"
+        },
+        {
+          "title": "Politique migratoire: «L'Espagne constitue aujourd'hui une exception en Europe»",
+          "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260804-politique-migratoire-l-espagne-constitue-aujourd-hui-une-exception-en-europe",
+          "source": "RFI",
+          "summary": "Les ministres de l'Intérieur des 27 pays membres de l'Union européenne se retrouvent dans la matinée de ce mardi 4 août en visioconférence pour une réunion d'urgence au cours de laquelle doit être évoquée la situation à…",
+          "published": "2026-08-04T07:26:02+00:00"
+        },
+        {
+          "title": "Tour de France Femmes : le tour de force de Sigrid Ytterhus Haugset",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260804-tour-de-france-femmes-tour-force-sigrid-ytterhus-haugset-3e-etape-pogacar-vuelta-vozinha-chili-henderson-chelsea-ramos-change-club-eala-wta",
+          "source": "France 24",
+          "summary": "La coureuse norvégienne Sigrid Ytterhus Haugset a remporté la 3e étape du Tour de France Femmes. Elle s’est imposée en solitaire après une échappée de 87 kilomètres.",
+          "published": "2026-08-04T06:33:43+00:00"
+        },
+        {
+          "title": "Russie : au moins cinq morts dans une attaque de drones contre la région de Moscou",
+          "link": "https://www.france24.com/fr/europe/20260804-russie-au-moins-cinq-morts-attaque-drones-r%C3%A9gion-moscou-guerre-ukraine",
+          "source": "France 24",
+          "summary": "Cinq personnes ont été tuées et six autres blessées mardi matin après une attaque de drones sur la région de Moscou, en Russie. Du côté ukrainien, dans la région de Soumy, deux enfants et une personne âgée ont été tuées…",
+          "published": "2026-08-04T05:39:57+00:00"
+        },
+        {
           "title": "EN DIRECT, guerre au Moyen-Orient : un cargo touché par un « projectile inconnu » dans le détroit d’Ormuz ; des discussions en cours entre l’Iran et les Etats-Unis, selon Donald Trump",
           "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-au-moyen-orient-un-cargo-touche-par-un-projectile-inconnu-dans-le-detroit-d-ormuz-des-discussions-en-cours-entre-l-iran-et-les-etats-unis-selon-donald-trump_6737099_3210.html",
           "source": "Le Monde",
-          "summary": "Le cargo n’a pas fait mention d’éventuels blessés ou dégâts. L’incident est survenu au large d’Oman. En parallèle, le président américain a assuré lundi que des pourparlers se tenaient « en ce moment même », « à la…",
-          "published": "2026-08-04T05:37:20+00:00"
+          "summary": "Le cargo n’a pas fait mention d’éventuels blessés ou dégâts. L’incident est survenu au large d’Oman. Parallèlement, le président américain a assuré lundi que des pourparlers se tenaient « en ce moment même », « à la…",
+          "published": "2026-08-04T05:37:19+00:00"
         },
         {
           "title": "Vivre dans une ville hybride : Bangalore",
@@ -17,62 +73,6 @@
           "source": "RFI",
           "summary": "Dans ce deuxième épisode de notre série \"vivre en ville\", direction Bangalore, en Inde. Mégalopole de 14 millions d’habitants, Bangalore est souvent présentée comme la Sillicon Valley indienne.",
           "published": "2026-08-04T05:00:10+00:00"
-        },
-        {
-          "title": "Face à la politique de Nétanyahou, la fracture des opinions",
-          "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260804-face-%C3%A0-la-politique-de-n%C3%A9tanyahou-la-fracture-des-opinions",
-          "source": "France 24",
-          "summary": "A la Une de la presse, ce mardi 4 août, le sixième anniversaire, aujourd’hui, de l’explosion du port de Beyrouth, qui avait tué 235 personnes et fait près de 6 500 blessés. L’intransigeance du gouvernement Nétanyahou au…",
-          "published": "2026-08-04T04:15:35+00:00"
-        },
-        {
-          "title": "Catherine Wihtol de Wenden, politiste : « Le Maroc a pris conscience de la place géostratégique qu’il occupe pour l’Europe en termes de migrations »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/04/catherine-wihtol-de-wenden-politiste-le-maroc-a-pris-conscience-de-la-place-geostrategique-qu-il-occupe-pour-l-europe-en-termes-de-migrations_6738016_3232.html",
-          "source": "Le Monde",
-          "summary": "Comme tend à le montrer l’afflux de migrants dans l’enclave de Ceuta, les 30 et 31 juillet, le royaume chérifien semble utiliser la question migratoire dans sa stratégie diplomatique, à l’image de la Turquie ou de la…",
-          "published": "2026-08-04T04:00:31+00:00"
-        },
-        {
-          "title": "Ce que l’on sait de l’attentat qui a fait cinq morts et dix-neuf blessés à Moscou",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/ce-que-l-on-sait-de-l-attentat-qui-a-fait-cinq-morts-et-dix-neuf-blesses-a-moscou_6738015_3210.html",
-          "source": "Le Monde",
-          "summary": "Une bombe artisanale portée par une femme a explosé, samedi 1ᵉʳ août, dans un restaurant moscovite, en présence du nouveau chef des forces aériennes et spatiales russes, le général Alexandre Tchaïko. Selon les médias du…",
-          "published": "2026-08-04T04:00:06+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : une attaque de drones dans la région de Moscou fait cinq morts et plusieurs blessés",
-          "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-une-frappe-russe-visant-la-ville-de-soumy-fait-un-mort-et-plusieurs-blesses_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "L’attaque a visé la zone industrielle de Novoselki, où plusieurs incendies se sont déclarés, notamment dans un entrepôt, a fait savoir mardi matin le gouverneur régional.",
-          "published": "2026-08-04T03:54:04+00:00"
-        },
-        {
-          "title": "Israël intensifie ses frappes sur Gaza et réaffirme qu’il ne s’en retirera pas avant le désarmement complet du Hamas",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/israel-intensifie-ses-frappes-sur-gaza-et-reaffirme-qu-il-ne-s-en-retirera-pas-avant-le-desarmement-complet-du-hamas_6737980_3210.html",
-          "source": "Le Monde",
-          "summary": "Après l’annonce par Donald Trump, le 30 juillet, d’un plan qui prévoit un retrait des troupes israéliennes de l’enclave s’accompagnant de la collecte de l’arsenal du mouvement palestinien, Gaza a connu, le 2 août, l’une…",
-          "published": "2026-08-04T03:45:03+00:00"
-        },
-        {
-          "title": "La crise de Ceuta, un révélateur des divisions de l’Union européenne sur la question migratoire",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/la-crise-de-ceuta-un-revelateur-des-divisions-de-l-union-europeenne-sur-la-question-migratoire_6737979_3210.html",
-          "source": "Le Monde",
-          "summary": "Les ministres de l’intérieur des Vingt-Sept sont convoqués pour une visioconférence, mardi, afin de tirer des leçons de l’arrivée de près de 50 000 migrants venus du Maroc dans l’enclave espagnole le 30 juillet.",
-          "published": "2026-08-04T03:45:03+00:00"
-        },
-        {
-          "title": "Swami Vivekananda, le gourou hindou parti en 1893 à Chicago « aider spirituellement » le Nouveau Monde",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/04/swami-vivekananda-le-gourou-hindou-parti-en-1893-a-chicago-aider-spirituellement-le-nouveau-monde_6737944_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Gourous et ashrams, la ruée vers l’Ouest » (1/6). C’est lors de l’Exposition universelle de 1893 que les Etats-Unis découvrent l’hindouisme avec Swami Vivekananda. Face à un Occident en manque spirituel, le moine…",
-          "published": "2026-08-04T03:30:15+00:00"
-        },
-        {
-          "title": "Le président sortant de la Colombie, Gustavo Petro, alerte sur un risque de « guerre civile » après l’élection contestée de son successeur",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/le-president-sortant-de-la-colombie-gustavo-petro-alerte-sur-un-risque-de-guerre-civile-apres-l-election-contestee-de-son-successeur_6737910_3210.html",
-          "source": "Le Monde",
-          "summary": "Le dirigeant de gauche, menacé d’extradition aux Etats-Unis, craint que son pays ne s’embrase après la prise de pouvoir du nouveau chef d’Etat, d’extrême droite, qu’il accuse de fraude électorale.",
-          "published": "2026-08-04T03:11:08+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Pokémon, le coup de poke de Nintendo",
-          "link": "https://www.liberation.fr/lifestyle/design/pokemon-le-coup-de-poke-de-nintendo-20260804_XADPPYEFAJHZJOK4KEZ7IQ252I/",
+          "title": "EN DIRECT - Incendies : dans le Var, «rien ne peut être considéré comme acquis»",
+          "link": "https://www.liberation.fr/environnement/en-direct-incendies-dans-le-var-rien-ne-peut-etre-considere-comme-acquis-20260804_SMEV5QSCB5GB5IJEYA7MKN77PI/",
           "source": "Liberation",
-          "summary": "Retour sur l’origine, le design et le succès de logos mondialement connus. Dans ce deuxième épisode, l’identité visuelle au lettrage jaune pop bordé de bleu devenu l’un des emblèmes de l’entreprise japonaise et…",
-          "published": "2026-08-04T05:41:00+00:00"
+          "summary": "Malgré une journée de lundi qui a vu la propagation des flammes se stabiliser, les autorités du Var restent sur le qui-vive.",
+          "published": "2026-08-04T08:26:42+00:00"
         },
         {
-          "title": "L’application Telegram brièvement bannie de l’App Store par Apple",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/l-application-telegram-brievement-bannie-de-l-app-store-par-apple-20260804",
+          "title": "JO d’hiver 2030 : le village olympique du pôle glace sera à Oullins-Pierre-Bénite à côté de Lyon",
+          "link": "https://www.lefigaro.fr/lyon/jo-d-hiver-2030-le-village-olympique-du-pole-glace-sera-a-oullins-pierre-benite-a-cote-de-lyon-20260804",
           "source": "Le Figaro",
-          "summary": "La firme à la pomme indiquait que l’application, cible de nombreuses critiques sur sa modération, avait violé ses règles sur les contenus relatifs aux «abus sexuels sur enfants».",
-          "published": "2026-08-04T05:38:46+00:00"
+          "summary": "La ville de Lyon n’a pas été retenue pour accueillir le village olympique des épreuves de glace des JO de 2030. Il s’installera dans la ville voisine d’Oullins-Pierre-Bénite.",
+          "published": "2026-08-04T08:26:23+00:00"
         },
         {
-          "title": "Météo du mardi 4 aout : «31 à 35°C sur le quart sud-est» et moins d’orages, mais une chaleur toujours présente",
-          "link": "https://www.lefigaro.fr/meteo/meteo-du-mardi-4-aout-31-a-350c-sur-le-quart-sud-est-et-moins-d-orages-mais-une-chaleur-toujours-presente-20260804",
-          "source": "Le Figaro",
-          "summary": "Ce mardi, le soleil illumine une grande partie du pays. L’air frais océanique gagne l’ouest, tandis que la chaleur persiste dans le Sud-Est avec quelques orages en montagne. Les températures baissent au nord-ouest, mais…",
-          "published": "2026-08-04T05:38:25+00:00"
+          "title": "Aux Etats-Unis, l'épidémie de \"diarrhées explosives\" fait deux premiers morts",
+          "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-epidemie-de-diarrhees-explosives-fait-de-premiers-morts_8134064.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Deux personnes sont mortes dans l'Etat du Michigan après avoir contracté la cyclosporose. Les Etats-Unis sont en proie à une épidémie de cette infection intestinale, généralement non mortelle.",
+          "published": "2026-08-04T08:23:05+00:00"
         },
         {
-          "title": "Russie : une frappe de drones fait cinq victimes dans la région de Moscou",
-          "link": "https://www.lefigaro.fr/international/russie-une-frappe-de-drones-fait-cinq-victimes-dans-la-region-de-moscou-20260804",
-          "source": "Le Figaro",
-          "summary": "Une attaque de drones a fait cinq morts et six blessés dans la région de Moscou, selon les autorités russes, après des frappes visant notamment une zone industrielle. L’Ukraine et la Russie poursuivent leurs attaques…",
-          "published": "2026-08-04T05:37:58+00:00"
+          "title": "Incendie dans le Var : \"Le feu ne progresse plus mais la prudence reste de mise\", les pompiers luttent contre les reprises",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-dans-le-var-le-brasier-n-est-toujours-pas-fixe-extreme-vigilance-face-a-des-reprises-de-feu-limitees_8133794.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La surface parcourue par les flammes est toujours d'environ 1 850 hectares. Dans la Drôme, un nouveau feu s'est déclaré lundi.",
+          "published": "2026-08-04T08:17:47+00:00"
         },
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : un cargo touché par un « projectile inconnu » dans le détroit d’Ormuz ; des discussions en cours entre l’Iran et les Etats-Unis, selon Donald Trump",
-          "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-au-moyen-orient-un-cargo-touche-par-un-projectile-inconnu-dans-le-detroit-d-ormuz-des-discussions-en-cours-entre-l-iran-et-les-etats-unis-selon-donald-trump_6737099_3210.html",
+          "title": "Seize départements de l'est maintenus en vigilance orange canicule, la Saône-et-Loire et la Loire redescendent en alerte jaune",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/seize-departements-de-l-est-toujours-en-vigilance-orange-canicule-la-saone-et-loire-et-la-loire-redescendent-en-alerte-jaune_8133842.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Météo-France anticipe \"des températures maximales en baisse mardi\", mais prévoit que \"les températures repartiront à la hausse mercredi en moyenne vallée du Rhône et sur le pourtour méditerranéen\".",
+          "published": "2026-08-04T08:07:36+00:00"
+        },
+        {
+          "title": "Après la crise à Ceuta, une réunion entre dirigeants européens ce mardi",
+          "link": "https://www.liberation.fr/international/europe/apres-la-crise-a-ceuta-une-reunion-entre-dirigeants-europeens-ce-mardi-20260804_XGC3MDFLGNEJBIMIAKWU5RBG6Q/",
+          "source": "Liberation",
+          "summary": "Une visioconférence entre les différents ministres européens de l’Intérieur est prévue le 4 août au matin. Entre les Etats membres, deux approches en matière migratoire s’opposent.",
+          "published": "2026-08-04T08:06:20+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : « Vladimir Poutine veut achever notre système énergétique », accuse le ministre de l’énergie ukrainien, Denys Chmyhal",
+          "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-vladimir-poutine-veut-achever-notre-systeme-energetique-accuse-le-ministre-de-l-energie-ukrainien-denys-chmyhal_6737250_3210.html",
           "source": "Le Monde",
-          "summary": "Le cargo n’a pas fait mention d’éventuels blessés ou dégâts. L’incident est survenu au large d’Oman. En parallèle, le président américain a assuré lundi que des pourparlers se tenaient « en ce moment même », « à la…",
-          "published": "2026-08-04T05:37:20+00:00"
+          "summary": "Selon le ministre ukrainien à « Politico », le président russe cherche aussi à « faire dérailler » l’économie et la production d’armes du pays, espérant qu’« en hiver, [la] société cédera sous l’épuisement et fera…",
+          "published": "2026-08-04T08:03:23+00:00"
         },
         {
-          "title": "Le volcan de Fuego est entré en éruption près de la capitale du Guatemala, le pays émet une alerte \"danger\"",
-          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/eruptions-volcaniques/le-volcan-de-fuego-est-entre-en-eruption-pres-de-la-capitale-du-guatemala-le-pays-emet-une-alerte-danger_8133935.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Deux hameaux voisins du volcan ont commencé à être évacués. Des panaches de fumée se dispersent sur des dizaines de kilomètres.",
-          "published": "2026-08-04T05:35:16+00:00"
-        },
-        {
-          "title": "\"Je ne peux regarder ma maison que de loin\" : au sud du Liban, l'armée israélienne occupe encore une partie du territoire",
-          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/reportage-je-ne-peux-regarder-ma-maison-que-de-loin-au-sud-du-liban-l-armee-israelienne-occupe-encore-une-partie-du-territoire_8133869.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Dans ces \"zones tampons\", les troupes israéliennes doivent se retirer au profit d'un redéploiement progressif des soldats libanais. Mais certains lieux restent occupés, au grand désespoir de nombreux Libanais.",
-          "published": "2026-08-04T05:32:39+00:00"
-        },
-        {
-          "title": "EN DIRECT - Vague migratoire à Ceuta : l’heure de la mise au point pour les Européens",
-          "link": "https://www.lefigaro.fr/international/en-direct-vague-migratoire-a-ceuta-l-heure-de-la-mise-au-point-pour-les-europeens-20260804",
+          "title": "EN DIRECT - Incendie dans la Var : plusieurs massifs forestiers interdits d’accès en raison du risque d’incendie",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-la-var-plusieurs-massifs-forestiers-interdits-d-acces-en-raison-du-risque-d-incendie-20260804",
           "source": "Le Figaro",
-          "summary": "Les ministres de l’Intérieur ont prévu de s’appeler ce mardi à 10 heures. L’arrivée en force de dizaines de milliers de personnes en fin de semaine dernière dans cette enclave espagnole d’Afrique du Nord a mis en…",
-          "published": "2026-08-04T05:28:02+00:00"
+          "summary": "Lundi soir, la préfecture a annoncé que l’incendie près du massif Gros Bessillon était «toujours actif», mais qu’il n’avait pas gagné de terrain dans la journée.",
+          "published": "2026-08-04T08:02:02+00:00"
         },
         {
-          "title": "Des parents interpellés en Moselle après s'être retranchés dans un appartement insalubre avec leurs sept enfants",
-          "link": "https://www.franceinfo.fr/faits-divers/des-parents-interpelles-en-moselle-apres-s-etre-retranches-dans-un-appartement-insalubre-avec-leurs-sept-enfants_8133914.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Cafards, insectes, puces, tiques... Les enfants ont été hospitalisés pour des examens médicaux. Les parents ont été placés en garde à vue, notamment pour violences.",
-          "published": "2026-08-04T05:13:40+00:00"
+          "title": "Guatemala : alerte «danger» après une puissante éruption du volcan de Fuego",
+          "link": "https://www.liberation.fr/international/amerique/guatemala-alerte-danger-apres-une-puissante-eruption-du-volcan-de-fuego-20260804_K4ZPMOOLMBAI7AOAR6UEPTBNNQ/",
+          "source": "Liberation",
+          "summary": "Situé à 35 kilomètres de la capitale, il est entré dans une phase éruptive lundi 3 août au matin. Il est considéré comme l’un des plus actifs en Amérique Centrale.",
+          "published": "2026-08-04T08:00:46+00:00"
         },
         {
-          "title": "«J’ai mis une caravane devant le portail» : les locataires refusaient de partir, le propriétaire a gagné sa guerre d’usure",
-          "link": "https://immobilier.lefigaro.fr/article/j-ai-mis-une-caravane-devant-le-portail-les-locataires-refusaient-de-partir-le-proprietaire-a-gagne-sa-guerre-d-usure-20260804",
-          "source": "Le Figaro",
-          "summary": "Après un long séjour au Canada, un propriétaire de Bergerac pensait récupérer sa maison sans difficultés à la fin du bail. Mais il a dû engager une véritable guerre psychologique pour arriver à ses fins.",
-          "published": "2026-08-04T05:12:47+00:00"
+          "title": "Tour de France Femmes 2026 : de retour sur la Grande Boucle, le contre-la-montre peine encore à s’imposer dans le calendrier féminin",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/04/tour-de-france-femmes-2026-de-retour-sur-la-grande-boucle-le-contre-la-montre-peine-encore-a-s-imposer-dans-le-calendrier-feminin_6738250_3242.html",
+          "source": "Le Monde",
+          "summary": "La quatrième étape, qui se déroule dans la Côte-d’Or, mardi, est l’une des rares occasions pour les coureuses de se confronter à l’exercice du chronomètre. Les athlètes regrettent la rareté de ces épreuves.",
+          "published": "2026-08-04T08:00:06+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Vous partez à l’étranger ? Voici comment ne plus subir de frais bancaires inutiles",
-          "link": "https://www.clubic.com/actualite-623275-vous-partez-a-l-etranger-voici-comment-ne-plus-subir-de-frais-bancaires-inutiles.html",
+          "title": "ChatGPT-5, Claude et Gemini... les meilleures IA réunies en un seul paiement grâce à cette offre à vie à 23 €",
+          "link": "https://www.clubic.com/bons-plans-624001-chatgpt-5-claude-et-gemini-les-meilleures-ia-reunies-en-un-seul-paiement-grace-a-cette-offre-a-vie-a-23.html",
           "source": "Clubic",
-          "summary": "Avant un départ à l’étranger, on pense à réserver l’hôtel, aux activités et aux bonnes adresses repérées sur les réseaux. Un sujet en revanche passe trop souvent à la trappe : la question des paiements une fois sur…",
-          "published": "2026-08-04T05:30:00+00:00"
+          "summary": "Entre ChatGPT Plus, Claude Pro et Gemini Advanced, la facture mensuelle grimpe vite pour qui veut jongler entre plusieurs IA. 1minAI propose de casser ce cercle avec un paiement unique donnant un accès à vie à la…",
+          "published": "2026-08-04T08:34:00+00:00"
         },
         {
-          "title": "Ce TV 4K OLED 65″ Philips avec Ambilight vient de sortir, mais il bénéficie déjà d’une remise de 100 €",
-          "link": "https://www.frandroid.com/bons-plans/3202085_ce-tv-4k-oled-65-philips-avec-ambilight-vient-de-sortir-mais-il-beneficie-deja-dune-remise-de-100-e",
-          "source": "Frandroid",
-          "summary": "Le TV Philips 65OLED801 embarque l'Ambilight, une technologie lumineuse qui permet encore et toujours à la marque de se démarquer de ses concurrents. Actuellement, ce récent modèle est proposé à 1 799 euros au lieu de 1…",
-          "published": "2026-08-04T05:22:00+00:00"
+          "title": "Fin de Bloctel, interdiction du démarchage dès le 11 août : on fait le point",
+          "link": "https://next.ink/249950/fin-de-bloctel-interdiction-du-demarchage-des-le-11-aout-on-fait-le-point/",
+          "source": "Next",
+          "summary": "Le 11 août, la liste Bloctel disparaitra. Un changement attendu de longue date, car au-delà d’une inefficacité croissante, cette suppression viendra acter un renversement complet de la situation : le démarchage…",
+          "published": "2026-08-04T08:32:16+00:00"
         },
         {
-          "title": "L’Audi A2 électrique arrive avec 649 km d’autonomie : sa recette secrète pour consommer aussi peu qu’une Tesla",
-          "link": "https://www.frandroid.com/marques/audi/3195313_laudi-a2-electrique-arrive-avec-649-km-dautonomie-sa-recette-secrete-pour-consommer-aussi-peu-quune-tesla",
-          "source": "Frandroid",
-          "summary": "À quelques semaines de sa présentation définitive, l'Audi A2 e-tron dévoile quelques secrets. La voiture électrique la plus abordable de la marque sera également la plus sobre, notamment grâce à un aérodynamisme…",
-          "published": "2026-08-03T22:01:00+00:00"
-        },
-        {
-          "title": "La rotation incontrôlée du remorqueur LINK est quasi stabilisée grâce à ses propulseurs",
-          "link": "https://www.numerama.com/sciences/2305531-la-rotation-incontrolee-du-remorqueur-link-est-quasi-stabilisee-grace-a-ses-propulseurs.html",
+          "title": "Starship en mer : des photos satellites révèlent les coulisses du remorquage",
+          "link": "https://www.numerama.com/sciences/2306073-starship-en-mer-des-photos-satellites-revelent-les-coulisses-du-remorquage.html",
           "source": "Numerama",
-          "summary": "Après avoir failli virer à la catastrophe à la suite d'une panne de ses gyroscopes, la mission de secours du télescope Swift reprend des couleurs. En freinant la rotation incontrôlée du remorqueur LINK, la NASA et…",
-          "published": "2026-08-03T20:02:12+00:00"
+          "summary": "Révélées par des images satellites diffusées par CNN, les manœuvres de remorquage du Starship 40 battent leur plein au large de l'Australie.",
+          "published": "2026-08-04T08:28:00+00:00"
         },
         {
-          "title": "Les Anneaux de pouvoir saison 3 : le retour confirmé de Tom Bombadil pose un vrai casse-tête scénaristique",
-          "link": "https://www.numerama.com/pop-culture/2305901-les-anneaux-de-pouvoir-saison-3-le-retour-confirme-de-tom-bombadil-pose-un-vrai-casse-tete-scenaristique.html",
-          "source": "Numerama",
-          "summary": "Alors que le casting de la saison 3 des Anneaux de pouvoir est officialisé, le retour de Tom Bombadil pose une difficulté. Si l'interprétation de Rory Kinnear séduit, la puissance démesurée de « l'Aîné » pose un défi…",
-          "published": "2026-08-03T18:02:00+00:00"
-        },
-        {
-          "title": "Où regarder l’éclipse solaire du 12 août en streaming ? Notre liste des sites à suivre",
-          "link": "https://www.frandroid.com/culture-tech/espace/3201987_ou-regarder-leclipse-solaire-du-12-aout-en-streaming-notre-liste-des-sites-a-suivre",
-          "source": "Frandroid",
-          "summary": "La Lune passera devant le Soleil le mercredi 12 août en fin de journée, et une bande du nord de l'Espagne connaîtra une éclipse totale. Plusieurs institutions et sites spécialisés diffuseront l'événement en direct, avec…",
-          "published": "2026-08-03T18:01:00+00:00"
-        },
-        {
-          "title": "La Kindle Scribe, liseuse et carnet de notes tout-en-un, perd 140 € sur Amazon",
-          "link": "https://www.frandroid.com/produits-android/3201941_la-kindle-scribe-liseuse-et-carnet-de-notes-tout-en-un-perd-140-e-sur-amazon",
-          "source": "Frandroid",
-          "summary": "La Kindle Scribe 2024 d'Amazon combine une liseuse grand format et un carnet de notes numérique grâce à son écran E-Ink de 10,2 pouces et son stylet Premium Pen. Elle est actuellement proposée à 309 euros au lieu de 449…",
-          "published": "2026-08-03T17:41:00+00:00"
-        },
-        {
-          "title": "Canicule : luttez contre la chaleur avec ces 5 climatiseurs mobiles en stock sur Amazon",
-          "link": "https://www.clubic.com/bons-plans-623944-canicule-ces-5-climatiseurs-mobiles-sont-encore-disponibles-chez-amazon.html",
+          "title": "Votre téléviseur Hisense peut désormais lancer des jeux Xbox sans console",
+          "link": "https://www.clubic.com/actualite-623992-votre-televiseur-hisense-peut-desormais-lancer-des-jeux-xbox-sans-console.html",
           "source": "Clubic",
-          "summary": "Une quatrième canicule s'annonce dès mardi prochain avec des pics pouvant atteindre 35 à 40°C, et les climatiseurs mobiles disparaissent de nouveau des rayons. Voici cinq modèles encore disponibles chez Amazon, du plus…",
-          "published": "2026-08-03T17:02:00+00:00"
+          "summary": "Microsoft confirme le déploiement de l'application Xbox sur certains téléviseurs Hisense et, plus largement, sur des Smart TV équipées de VIDAA OS. Une manette, un abonnement Game Pass et une bonne connexion Internet…",
+          "published": "2026-08-04T08:21:00+00:00"
         },
         {
-          "title": "DeepSeek : sa nouvelle IA est de très loin la moins chère à exploiter parmi les modèles avancés",
-          "link": "https://www.clubic.com/actualite-623968-deepseek-sa-nouvelle-ia-est-de-tres-loin-la-moins-chere-a-exploiter-parmi-les-modeles-avances.html",
+          "title": "Microsoft prépare aussi l’arrivée des jeux Xbox 360 sur PC",
+          "link": "https://www.frandroid.com/marques/microsoft/3202457_microsoft-prepare-aussi-larrivee-des-jeux-xbox-360-sur-pc",
+          "source": "Frandroid",
+          "summary": "Après avoir officialisé l’arrivée des jeux Xbox originaux sur PC, Microsoft se préparerait également à accueillir les titres Xbox 360. Selon un document interne consulté par The Verge, l’éditeur travaillerait donc sur…",
+          "published": "2026-08-04T08:19:49+00:00"
+        },
+        {
+          "title": "Le célèbre Moulinex Easy Fry noté 4,6/5 sur Amazon chute à moins de 100 €",
+          "link": "https://www.clubic.com/bons-plans-623989-le-celebre-moulinex-easy-fry-note-4-6-5-sur-amazon-chute-a-moins-de-100.html",
           "source": "Clubic",
-          "summary": "Le nouveau modèle IA de DeepSeek, le V4-Flash, va sûrement marquer le marché. Et cette fois, ça sera plutôt pour son coût que pour ses performances.",
-          "published": "2026-08-03T16:42:00+00:00"
+          "summary": "L'été est la saison idéale pour cuisiner léger sans transformer sa cuisine en fournaise avec un four traditionnel. L'air fryer Moulinex Easy Fry Essential Inox 8,3L, l'un des modèles les mieux notés de la gamme, profite…",
+          "published": "2026-08-04T08:17:00+00:00"
         },
         {
-          "title": "J’ai testé le Samsung Z Flip 8 : le petit smartphone pliant se bonifie comme le bon vin, très lentement",
-          "link": "https://www.frandroid.com/marques/samsung/3189885_jai-teste-le-samsung-z-flip-8-le-petit-smartphone-pliant-se-bonifie-comme-le-bon-vin-tres-lentement",
+          "title": "Votre PC Intel Panther Lake sera bientôt plus endurant sous Linux",
+          "link": "https://www.frandroid.com/os/gnu-linux/3202443_votre-pc-intel-panther-lake-sera-bientot-plus-endurant-sous-linux",
           "source": "Frandroid",
-          "summary": "Le nouveau smartphone pliant au format poudrier de Samsung apporte plusieurs améliorations par rapport à son prédécesseur : batterie Si/C; dernière puce Exynos; format légèrement aminci; écran externe pouvant désormais…",
-          "published": "2026-08-03T16:36:44+00:00"
+          "summary": "Le passage à Linux 7.3 va très bientôt permettre aux utilisateurs de PC équipés d'un processeur Intel Panther Lake de profiter d'un nouveau mode d'économie d'énergie voué à leur partie graphique Xe3. L'autonomie des PC…",
+          "published": "2026-08-04T08:12:40+00:00"
         },
         {
-          "title": "Intermarché visé par un piratage : 2 millions de clients concernés, voici les données exposées",
-          "link": "https://www.frandroid.com/culture-tech/securite-applications/3202369_intermarche-vise-par-un-piratage-2-millions-de-clients-concernes",
+          "title": "Windows 11 accusé de ralentir les PC ? Microsoft recadre sèchement un influenceur",
+          "link": "https://www.clubic.com/actualite-623983-windows-11-accuse-de-ralentir-les-pc-microsoft-recadre-sechement-un-influenceur.html",
+          "source": "Clubic",
+          "summary": "Le créateur de contenus Xilly affirme qu'un service de Windows 11 surveille inutilement les ordinateurs et pénalise leurs performances. Microsoft dénonce quant à lui une présentation trompeuse, étayée par aucune mesure.",
+          "published": "2026-08-04T08:10:00+00:00"
+        },
+        {
+          "title": "L’application Horloge affiche enfin vos minuteurs en temps réel sur l’écran de verrouillage des Pixel",
+          "link": "https://www.frandroid.com/android/3202551_lapplication-horloge-affiche-enfin-vos-minuteurs-en-temps-reel-sur-lecran-de-verrouillage-des-pixel",
           "source": "Frandroid",
-          "summary": "Intermarché confirme une cyberattaque sur son service Drive. Noms, dates de naissance, numéros de téléphone… Voici ce qui a fuité et les réflexes à adopter tout de suite.",
-          "published": "2026-08-03T16:33:07+00:00"
+          "summary": "L'application Horloge de Google passe en version 9.0 et rattrape un vieux manque&nbsp;: vos minuteurs et chronomètres s'affichent enfin en temps réel, jusque sur l'écran de verrouillage.",
+          "published": "2026-08-04T08:08:41+00:00"
         },
         {
-          "title": "L’annulation du retour de Blade est un immense gâchis et une grosse erreur",
-          "link": "https://www.numerama.com/pop-culture/2305937-lannulation-du-retour-de-blade-est-un-immense-gachis-et-une-grosse-erreur.html",
+          "title": "Telegram supprimé de l’App Store par Apple : que s’est-il passé ?",
+          "link": "https://www.numerama.com/tech/2306069-telegram-supprime-de-lapp-store-par-apple-que-sest-il-passe.html",
           "source": "Numerama",
-          "summary": "Sept ans après son annonce retentissante au Comic-Con de San Diego, le reboot de Blade a été officiellement enterré par Marvel Studios. Entre rendez-vous manqués, vaines promesses pour l'univers fantastique et gâchis de…",
-          "published": "2026-08-03T16:22:00+00:00"
+          "summary": "Telegram a brièvement été supprimé de l'’'App Store dans le monde entier par Apple le 3 août 2026. La firme à la pomme a signalé qu'un utilisateur avait partagé du « matériel pédopornographique »,",
+          "published": "2026-08-04T08:01:08+00:00"
+        },
+        {
+          "title": "Disney+ : la 4K UHD fait son retour pour les abonnés Premium, mais le HDR manque encore",
+          "link": "https://www.frandroid.com/services/svod/3202527_disney-la-4k-uhd-fait-son-retour-pour-les-abonnes-premium-mais-le-hdr-manque-encore",
+          "source": "Frandroid",
+          "summary": "Bonne nouvelle pour les abonnés Premium : la 4K UHD revient sur Disney+ en France, quelques jours après avoir disparu sans un mot. Mais tout n'est pas encore rentré dans l'ordre.",
+          "published": "2026-08-04T08:00:26+00:00"
+        },
+        {
+          "title": "Test JBL Go 5 : une mini enceinte modernisée, efficace et nomade",
+          "link": "https://www.clubic.com/test-produit-623545-test-jbl-go-5-une-enceinte-bluetooth-compacte-et-abordable-au-son-naturel.html",
+          "source": "Clubic",
+          "summary": "Enceinte Bluetooth la plus simple et la plus abordable du catalogue JBL, la Go est un classique absolu pour les adeptes de pur nomadisme. Avec la nouvelle Go 5, la marque passe le cap symbolique du LE Audio. Pour le…",
+          "published": "2026-08-04T08:00:00+00:00"
         }
       ]
     }
