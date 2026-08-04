@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-08-03T22:08:05.586433+00:00",
+  "generated_at": "2026-08-04T02:25:09.492492+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Le nord-ouest des Etats-Unis confronté à une saison des feux « exceptionnelle », la ville de Spokane ressemble à une « zone de guerre »",
+          "link": "https://www.lemonde.fr/international/article/2026/08/04/le-nord-ouest-des-etats-unis-confronte-a-une-saison-des-feux-exceptionnelle-la-ville-de-spokane-ressemble-a-une-zone-de-guerre_6737776_3210.html",
+          "source": "Le Monde",
+          "summary": "Aucun des trois incendies qui ont détruit plusieurs quartiers de cette ville de 230 000 habitants, dans l’Etat de Washington, où l’état d’urgence a été déclaré samedi, n’est pour l’instant contenu.",
+          "published": "2026-08-03T22:48:47+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky limoge l’ambassadrice ukrainienne aux Etats-Unis",
+          "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
+          "published": "2026-08-03T22:39:43+00:00"
+        },
+        {
+          "title": "Boeing obtient la certification pour son 737 MAX 7, après sept ans de retard",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260803-boeing-737-max-7-decroche-certification-sept-ans-retard",
+          "source": "France 24",
+          "summary": "Après des années d'attente, l'avionneur américain Boeing a décroché lundi le feu vert de l'Agence fédérale de l'aviation pour son 737 MAX 7, qui devrait entrer en service en 2027. Cette avancée ne suffit pas à éteindre…",
+          "published": "2026-08-03T22:19:12+00:00"
+        },
+        {
+          "title": "Aux États-Unis, 25 États contestent en justice les nouveaux droits de douane de Donald Trump",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260803-aux-%C3%A9tats-unis-25-%C3%A9tats-contestent-en-justice-les-nouveaux-droits-de-douane-de-donald-trump",
+          "source": "France 24",
+          "summary": "Vingt-cinq États américains, majoritairement démocrates, ont attaqué en justice lundi la nouvelle série de surtaxes douanières voulues par Donald Trump et entrées en vigueur fin juillet. Les plaignants estiment que…",
+          "published": "2026-08-03T21:33:07+00:00"
+        },
         {
           "title": "Droits de douane de Donald Trump : 25 Etats américains démocrates saisissent la justice",
           "link": "https://www.lemonde.fr/economie/article/2026/08/03/droits-de-douane-de-donald-trump-25-etats-americains-democrates-saisissent-la-justice_6737710_3234.html",
@@ -33,13 +61,6 @@
           "published": "2026-08-03T18:41:40+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : l’ambassadrice ukrainienne aux Etats-Unis limogée par Volodymyr Zelensky",
-          "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-l-ambassadrice-ukrainienne-aux-etats-unis-limogee-par-volodymyr-zelensky_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
-          "published": "2026-08-03T18:31:16+00:00"
-        },
-        {
           "title": "Traduite en plusieurs langues, une intox visant Léa Salamé et Raphaël Glucksmann manque sa cible ?",
           "link": "https://www.france24.com/fr/france/20260803-traduite-en-plusieurs-langues-une-intox-visant-l%C3%A9a-salam%C3%A9-et-rapha%C3%ABl-glucksmann-manque-sa-cible",
           "source": "France 24",
@@ -52,27 +73,6 @@
           "source": "Le Monde",
           "summary": "Chef du gouvernement malien pendant huit mois, en 2014-2015, l’opposant avait été arrêté en août 2025 après avoir rendu visite à des prisonniers politiques.",
           "published": "2026-08-03T17:30:10+00:00"
-        },
-        {
-          "title": "À Paris, \"voler\" sur la Seine avec une planche électrique",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-%C3%A0-paris-voler-sur-la-seine-avec-une-planche-%C3%A9lectrique",
-          "source": "France 24",
-          "summary": "La base nautique Foil in Paris propose aux amateurs de glisse de \"voler\" sur la Seine, grâce à l'eFoil, une planche de surf électrique.",
-          "published": "2026-08-03T16:49:03+00:00"
-        },
-        {
-          "title": "Mali : le FLA montre des militaires maliens capturés",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-mali-le-fla-montre-des-militaires-maliens-captur%C3%A9s",
-          "source": "France 24",
-          "summary": "Au Mali, les rebelles indépendantistes du Front de libération de l'Azawad (FLA) ont rendu public des vidéos montrant des militaires maliens prisonniers qu'ils détiennent. Cela intervient dans un contexte précis :…",
-          "published": "2026-08-03T16:43:02+00:00"
-        },
-        {
-          "title": "Tour de France Femmes, étape 3 : victorieuse, la Norvégienne Sigrid Haugset prend le maillot jaune",
-          "link": "https://www.france24.com/fr/sports/20260803-tour-de-france-femmes-%C3%A9tape-3-victorieuse-la-norv%C3%A9gienne-sigrid-haugset-prend-le-maillot-jaune",
-          "source": "France 24",
-          "summary": "La Norvégienne Sigrid Haugset a remporté la troisième étape du Tour de France Femmes lundi à Poligny où elle a endossé le maillot jaune au détriment de la Néerlandaise Lorena Wiebes.",
-          "published": "2026-08-03T16:25:12+00:00"
         }
       ]
     },
@@ -83,6 +83,62 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Sept autres bélugas quittent Marineland pour un aquarium américain",
+          "link": "https://www.ledevoir.com/actualites/999524/sept-autres-belugas-quittent-marineland-aquarium-americain",
+          "source": "Le Devoir",
+          "summary": "Le parc aquatique est à court d’argent et ne peut plus subvenir aux besoins des baleines.",
+          "published": "2026-08-04T02:05:43+00:00"
+        },
+        {
+          "title": "El Niño | Le Pérou lance des travaux de prévention des crues",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-03/el-nino/le-perou-lance-des-travaux-de-prevention-des-crues.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La présidente du Pérou, Keiko Fujimori, investie la semaine dernière, a annoncé lundi le lancement de travaux de prévention des crues dans la région côtière de Piura (nord-ouest), l’une des plus vulnérables au phénomène…",
+          "published": "2026-08-04T01:51:19+00:00"
+        },
+        {
+          "title": "Trump pourfend la procureure qui a mené la poursuite contre un ancien olympien",
+          "link": "https://www.ledevoir.com/monde/etats-unis/999521/trump-pourfend-procureure-mene-poursuite-contre-ancien-olympien",
+          "source": "Le Devoir",
+          "summary": "«Elle s’est repliée comme un parapluie», a dit le président au sujet de Jeanine Pirro.",
+          "published": "2026-08-04T01:48:00+00:00"
+        },
+        {
+          "title": "Inondations à Montréal | Plus d’une centaine de résidents réclament une solution",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-03/inondations-a-montreal/plus-d-une-centaine-de-residents-reclament-une-solution.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des victimes d’inondation à Montréal en ont ras le bol. Lundi, ils étaient présents en grand nombre devant la mairie de Pierrefonds pour faire entendre leur voix, et demander des comptes aux décideurs municipaux.",
+          "published": "2026-08-04T00:47:00+00:00"
+        },
+        {
+          "title": "Évènements météorologiques | Comment mesure-t-on la pluie ?",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-03/evenements-meteorologiques/comment-mesure-t-on-la-pluie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Alors que certains secteurs du Québec s’attendent à recevoir des pluies abondantes d’ici mardi, des centaines de petits appareils mesurent en temps réel les précipitations qui s’abattent sur la province. Et ils le font…",
+          "published": "2026-08-03T23:45:00+00:00"
+        },
+        {
+          "title": "Le feu fait des ravages dans l’Ouest américain",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-03/le-feu-fait-des-ravages-dans-l-ouest-americain.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des maisons réduites en cendres, un ciel voilé, des voitures calcinées : la région de Spokane, dans l’État de Washington, faisait toujours face à des incendies ravageurs, lundi.",
+          "published": "2026-08-03T23:30:00+00:00"
+        },
+        {
+          "title": "Washington et Tokyo interviennent pour doper le yen, une première en 28 ans",
+          "link": "https://www.ledevoir.com/economie/999512/washington-tokyo-interviennent-doper-yen-premiere-28-ans",
+          "source": "Le Devoir",
+          "summary": "La devise nippone était récemment tombée à presque 164 yens pour un dollar, son plus bas niveau depuis 1986.",
+          "published": "2026-08-03T23:18:48+00:00"
+        },
+        {
+          "title": "Le nouveau «Spider-Man» signe le meilleur démarrage au box-office nord-américain",
+          "link": "https://www.ledevoir.com/culture/cinema/999509/nouveau-spider-man-signe-meilleur-demarrage-box-office-nord-americain",
+          "source": "Le Devoir",
+          "summary": "Le précédent record, «Avengers: Endgame», avait récolté 357 millions lors de son week-end d’ouverture.",
+          "published": "2026-08-03T22:48:00+00:00"
+        },
         {
           "title": "Colombie-Britannique | Les ordres d’évacuation s’étendent en raison des incendies de forêt",
           "link": "https://www.lapresse.ca/actualites/national/2026-08-03/colombie-britannique/les-ordres-d-evacuation-s-etendent-en-raison-des-incendies-de-foret.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
@@ -96,68 +152,40 @@
           "source": "Le Devoir",
           "summary": "Pendant l’incendie, des déflagrations ont retenti, d’abord confondues avec l’explosion de bonbonnes de gaz.",
           "published": "2026-08-03T21:31:00+00:00"
-        },
-        {
-          "title": "Un astronaute canadien se prépare pour une mission de la NASA",
-          "link": "https://www.ledevoir.com/actualites/science/999488/astronaute-canadien-prepare-mission-nasa",
-          "source": "Le Devoir",
-          "summary": "La mission comprend des études sur les effets des voyages spatiaux et de la microgravité sur la santé humaine.",
-          "published": "2026-08-03T21:18:00+00:00"
-        },
-        {
-          "title": "Wall Street clôture en nette hausse, record du Dow Jones",
-          "link": "https://www.journaldemontreal.com/2026/08/03/wall-street-cloture-en-nette-hausse-record-du-dow-jones",
-          "source": "Journal de Montreal",
-          "summary": "La Bourse de New York a terminé en hausse. aidée par la chute des prix du pétrole après l'annonce par Trump d'une reprise du dialogue avec Téhéran",
-          "published": "2026-08-03T21:05:48+00:00"
-        },
-        {
-          "title": "«C’est un très grand sentiment de fierté»: la nouvelle batterie québécoise d’Angine de Poitrine est signée Ebenor Percussion",
-          "link": "https://www.journaldemontreal.com/2026/08/03/la-nouvelle-batterie-quebecoise-dangine-de-poitrine-est-signee-ebenor-percussion--cest-un-tres-grand-sentiment-de-fierte-confie-le-fondateur",
-          "source": "Journal de Montreal",
-          "summary": "Les inconditionnels d’Angine de Poitrine ont remarqué que Klek de Poitrine avait une nouvelle batterie sur la scène du Festivent de Lévis dimanche.",
-          "published": "2026-08-03T21:00:00+00:00"
-        },
-        {
-          "title": "Un astronaute canadien s’envolera avec SpaceX pour une première historique",
-          "link": "https://www.journaldemontreal.com/2026/08/03/un-astronaute-canadien-senvolera-avec-spacex-pour-une-premiere-historique",
-          "source": "Journal de Montreal",
-          "summary": "L’astronaute canadien Joshua Kutryk deviendra le premier représentant du pays à participer au programme d’équipage commercial de la NASA.",
-          "published": "2026-08-03T20:57:47+00:00"
-        },
-        {
-          "title": "Bianca Andreescu ne fait que passer à Toronto",
-          "link": "https://www.journaldemontreal.com/2026/08/03/bianca-andreescu-ne-fait-que-passer-a-toronto",
-          "source": "Journal de Montreal",
-          "summary": "La Canadienne s’est inclinée dès le premier tour de l’Omnium Banque Nationale, lundi.",
-          "published": "2026-08-03T20:55:08+00:00"
-        },
-        {
-          "title": "25 États démocrates contestent en justice la dernière salve de tarifs de Trump",
-          "link": "https://www.ledevoir.com/monde/etats-unis/999470/25-etats-democrates-contestent-justice-derniere-salve-tarifs-trump",
-          "source": "Le Devoir",
-          "summary": "Elle consiste surtout en des surtaxes de 10% ou 12,5%, justifiées par des efforts jugés insuffisants contre le travail forcé.",
-          "published": "2026-08-03T20:40:00+00:00"
-        },
-        {
-          "title": "Les tiques s’installent dans les parcs montréalais",
-          "link": "https://www.ledevoir.com/actualites/sante/999467/tiques-installent-parcs-montrealais",
-          "source": "Le Devoir",
-          "summary": "Les tiques peuvent transmettre, entre autres, la maladie de Lyme, mais aussi d’autres bactéries.",
-          "published": "2026-08-03T20:33:55+00:00"
-        },
-        {
-          "title": "Box-office nord-américain  | Spider-Man réalise le meilleur démarrage de l’histoire et bat Avengers : Endgame",
-          "link": "https://www.lapresse.ca/cinema/2026-08-03/box-office-nord-americain/spider-man-realise-le-meilleur-demarrage-de-l-histoire-et-bat-avengers-endgame.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Spider-Man : Brand New Day a réalisé le meilleur démarrage de l’histoire du box-office nord-américain ce week-end, en battant au passage Avengers : Endgame, selon des chiffres actualisés publiés lundi.",
-          "published": "2026-08-03T20:31:49+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "Marseille : un enfant de deux ans retrouvé mort, des proches en garde à vue",
+          "link": "https://www.lefigaro.fr/marseille/marseille-un-enfant-de-deux-ans-retrouve-mort-des-proches-en-garde-a-vue-20260803",
+          "source": "Le Figaro",
+          "summary": "Une source de police a précisé que le petit garçon avait été retrouvé après une sieste, pendu au fil d’une persienne.",
+          "published": "2026-08-04T01:11:51+00:00"
+        },
+        {
+          "title": "Le député « insoumis » Eric Coquerel réclame un budget rectificatif pour financer la lutte contre les mégafeux",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/04/le-depute-insoumis-eric-coquerel-reclame-un-budget-rectificatif-pour-financer-la-lutte-contre-les-megafeux_6737809_823448.html",
+          "source": "Le Monde",
+          "summary": "L’élu de Seine-Saint-Denis demande une session extraordinaire du Parlement et un nouveau chiffrement de la lutte contre les incendies, envisageant une taxe sur les superprofits pour la financer.",
+          "published": "2026-08-03T23:17:22+00:00"
+        },
+        {
+          "title": "Le nord-ouest des Etats-Unis confronté à une saison des feux « exceptionnelle », la ville de Spokane ressemble à une « zone de guerre »",
+          "link": "https://www.lemonde.fr/international/article/2026/08/04/le-nord-ouest-des-etats-unis-confronte-a-une-saison-des-feux-exceptionnelle-la-ville-de-spokane-ressemble-a-une-zone-de-guerre_6737776_3210.html",
+          "source": "Le Monde",
+          "summary": "Aucun des trois incendies qui ont détruit plusieurs quartiers de cette ville de 230 000 habitants, dans l’Etat de Washington, où l’état d’urgence a été déclaré samedi, n’est pour l’instant contenu.",
+          "published": "2026-08-03T22:48:47+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky limoge l’ambassadrice ukrainienne aux Etats-Unis",
+          "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
+          "published": "2026-08-03T22:39:43+00:00"
+        },
         {
           "title": "Au Venezuela, le bilan grimpe à plus de 6 000 morts après le double séisme qui a secoué le nord du pays",
           "link": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-le-bilan-grimpe-a-plus-de-6-000-morts-apres-le-double-seisme-qui-a-secoue-le-nord-du-pays_8133701.html#xtor=RSS-3-[lestitres]",
@@ -187,13 +215,6 @@
           "published": "2026-08-03T21:35:04+00:00"
         },
         {
-          "title": "Marseille : un enfant de deux ans retrouvé mort, des proches en garde à vue",
-          "link": "https://www.lefigaro.fr/marseille/marseille-un-enfant-de-deux-ans-retrouve-mort-des-proches-en-garde-a-vue-20260803",
-          "source": "Le Figaro",
-          "summary": "Une source de police a précisé que le petit garçon avait été retrouvé après une sieste, pendu au fil d’une persienne.",
-          "published": "2026-08-03T21:25:31+00:00"
-        },
-        {
           "title": "Dix-huit départements du Sud-Est toujours en vigilance orange à la canicule ce mardi, plus aucun département pour les orages",
           "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/sept-departements-du-quart-sud-ouest-passent-en-vigilance-orange-aux-orages-a-partir-de-16-heures-20-departements-toujours-en-alerte-orange-canicule_8132735.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
@@ -206,27 +227,6 @@
           "source": "Le Monde",
           "summary": "Ces nouvelles surtaxes, de 10 % ou de 12,5 % selon les pays, sont entrées en vigueur le 24 juillet.",
           "published": "2026-08-03T20:55:41+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que des discussions ont lieu « en ce moment même » avec l’Iran",
-          "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-des-discussions-ont-lieu-en-ce-moment-meme-avec-l-iran_6737099_3210.html",
-          "source": "Le Monde",
-          "summary": "Lors d’un échange avec la presse dans le bureau Ovale, le président américain a assuré que ces pourparlers se déroulaient « à la demande » de Téhéran. L’Iran avait déclaré, plus tôt dans la journée, ne pas négocier «…",
-          "published": "2026-08-03T20:35:06+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies en Gironde : «Un jour heureux» pour les habitants du Porge, qui commencent à rentrer chez eux",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendies-var-gironde-aude-le-porge-cap-ferret-feux-pompiers-securite-civile-canadair-pyromanes-20260803",
-          "source": "Le Figaro",
-          "summary": "De nombreux incendies se sont déclarés en France depuis le début de l’été, notamment en Gironde où le feu le plus grave depuis 1949 est désormais fixé après avoir brûlé plus de 40 000 hectares en une dizaine de jours.",
-          "published": "2026-08-03T20:27:03+00:00"
-        },
-        {
-          "title": "25 États américains démocrates contestent en justice les derniers droits de douane de Trump",
-          "link": "https://www.lefigaro.fr/conjoncture/25-etats-americains-democrates-contestent-en-justice-les-derniers-droits-de-douane-de-trump-20260803",
-          "source": "Le Figaro",
-          "summary": "Washington justifie cette nouvelle salve douanière par l’incapacité d’une soixantaine de pays et l’UE à éliminer les produits issus du travail forcé de leurs chaînes d’approvisionnement.",
-          "published": "2026-08-03T20:26:19+00:00"
         }
       ]
     },
