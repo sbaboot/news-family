@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-04T16:50:29.704122+00:00",
+  "generated_at": "2026-08-04T19:35:55.317191+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Crise de Ceuta : le Maroc appelle l’Union européenne à ne pas « handicaper » son développement",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/04/crise-de-ceuta-le-maroc-appelle-l-union-europeenne-a-ne-pas-handicaper-son-developpement_6738916_3212.html",
+          "source": "Le Monde",
+          "summary": "Le ministère de l’intérieur marocain et celui des affaires étrangères ont pris la parole, dimanche et lundi, rejetant la responsabilité de la crise migratoire sur le gouvernement de Pedro Sanchez.",
+          "published": "2026-08-04T19:30:11+00:00"
+        },
+        {
+          "title": "États-Unis : Abdul El-Sayed, le pari de la nouvelle gauche démocrate dans le Michigan",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260804-%C3%A9tats-unis-abdul-el-sayed-pari-nouvelle-gauche-d%C3%A9mocrate-michigan",
+          "source": "France 24",
+          "summary": "Les électeurs démocrates du Michigan choisissent mardi leur candidat pour le Sénat. Abdul El-Sayed pourrait devenir l'un des visages de la nouvelle gauche américaine. Dans cet État remporté par Donald Trump en 2024, ce…",
+          "published": "2026-08-04T19:15:52+00:00"
+        },
+        {
+          "title": "A Gaza, des funérailles collectives pour 112 victimes longtemps ensevelies sous les décombres",
+          "link": "https://www.lemonde.fr/international/article/2026/08/04/a-gaza-des-funerailles-collectives-pour-112-victimes-longtemps-ensevelies-sous-les-decombres_6738850_3210.html",
+          "source": "Le Monde",
+          "summary": "Ces personnes avaient péri dans un bombardement israélien de novembre 2023.",
+          "published": "2026-08-04T18:58:45+00:00"
+        },
+        {
+          "title": "Mali : Human Rights Watch met en cause Africa Corps",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260804-mali-human-rights-watch-met-en-cause-africa-corps",
+          "source": "France 24",
+          "summary": "L’ONG Human Rights Watch a enquêté sur les frappes aériennes menées par Africa Corps à Kyrnia, dans la région de Mopti. Ces frappes, survenues le 15 juin dernier, ont tué huit civils. Selon l’organisation, aucun…",
+          "published": "2026-08-04T18:05:41+00:00"
+        },
+        {
+          "title": "Cuba : le réseau électrique rétabli après une nouvelle panne géante",
+          "link": "https://www.lemonde.fr/international/article/2026/08/04/cuba-le-reseau-electrique-retabli-apres-une-nouvelle-panne-geante_6738783_3210.html",
+          "source": "Le Monde",
+          "summary": "De vastes zones du pays restent cependant sans électricité. Il s’agit de la sixième panne de l’année dans l’île, sur fond de grave crise énergétique et de blocus pétrolier imposé par les Etats-Unis.",
+          "published": "2026-08-04T17:48:50+00:00"
+        },
+        {
+          "title": "Énergie : pourquoi le nucléaire n'est pas épargné par le dérèglement climatique",
+          "link": "https://www.france24.com/fr/plan%C3%A8te/20260804-%C3%A9nergie-pourquoi-nucl%C3%A9aire-n-est-pas-%C3%A9pargn%C3%A9-d%C3%A9r%C3%A8glement-climatique",
+          "source": "France 24",
+          "summary": "La sécheresse qui sévit sur une partie de l'Europe fragilise de nouveau la production électrique des centrales nucléaires installées au bord des cours d'eau, dont le volume se raréfie. Plusieurs réacteurs viennent…",
+          "published": "2026-08-04T17:41:35+00:00"
+        },
+        {
+          "title": "De violents incendies en Grèce relancent le débat sur le manque de moyens humains pour lutter sur le terrain",
+          "link": "https://www.lemonde.fr/international/article/2026/08/04/de-violents-incendies-en-grece-relancent-le-debat-sur-le-manque-de-moyens-humains-pour-lutter-sur-le-terrain_6738782_3210.html",
+          "source": "Le Monde",
+          "summary": "Trois pompiers et deux membres d’équipage d’un hélicoptère sont morts en cinq jours à l’ouest d’Athènes. Partis d’opposition et syndicats de pompiers dénoncent le retard pris dans la prévention et la faiblesse des…",
+          "published": "2026-08-04T17:30:18+00:00"
+        },
+        {
+          "title": "Crise de Ceuta : les Européens renvoient à l’automne le débat sur de nouvelles mesures migratoires",
+          "link": "https://www.lemonde.fr/international/article/2026/08/04/crise-de-ceuta-les-europeens-renvoient-a-l-automne-le-debat-sur-de-nouvelles-mesures-migratoires_6738781_3210.html",
+          "source": "Le Monde",
+          "summary": "Réunis en urgence par visioconférence, mardi, les vingt-sept ministres de l’intérieur de l’Union européenne ont tenté d’apaiser les tensions suscitées par l’afflux massif de personnes en provenance du Maroc dans…",
+          "published": "2026-08-04T17:30:08+00:00"
+        },
         {
           "title": "Tour de France Femmes : la Suissesse Reusser remporte le contre-la-montre, Ferrand-Prévot distancée",
           "link": "https://www.france24.com/fr/sports/20260804-tour-de-france-femmes-suissesse-reusser-remporte-contre-la-montre-ferrand-pr%C3%A9vot-distanc%C3%A9e",
@@ -17,62 +73,6 @@
           "source": "Le Monde",
           "summary": "Le ministère de la défense ukrainien fait également savoir, mardi, dans un communiqué, que « 7 922 affrontements armés ont été enregistrés » au cours du même mois, soit environ 600 de plus qu’en juin, avec une moyenne…",
           "published": "2026-08-04T16:14:09+00:00"
-        },
-        {
-          "title": "Ceuta : l'espace Schengen pas \"compromis\" pendant la crise migratoire assure Madrid",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-ceuta-l-espace-schengen-pas-compromis-pendant-la-crise-migratoire-assure-madrid",
-          "source": "France 24",
-          "summary": "Malgré l’entrée illégale d’au moins 72 000 migrants à Ceuta, l’espace Schengen n'a pas été \"compromis\", selon le ministre espagnol de l’Intérieur Fernando Grande-Marlaska. La quasi-totalité des migrants, soit près de 70…",
-          "published": "2026-08-04T16:01:52+00:00"
-        },
-        {
-          "title": "Ceuta : 75 personnes sont mortes en voulant rejoindre l’enclave espagnole, selon les autorités locales",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/ceuta-75-personnes-sont-mortes-en-voulant-rejoindre-l-enclave-espagnole-selon-les-autorites-locales_6738775_3210.html",
-          "source": "Le Monde",
-          "summary": "Un précédent bilan faisait état de 72 morts côté espagnol. Dimanche, les autorités marocaines ont annoncé que 11 personnes avaient perdu la vie.",
-          "published": "2026-08-04T16:00:04+00:00"
-        },
-        {
-          "title": "En Israël, le fléau du crime organisé dans les villes palestiniennes : « Les gangsters ne craignent plus la police »",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/en-israel-le-fleau-du-crime-organise-dans-les-villes-palestiniennes-les-gangsters-ne-craignent-plus-la-police_6738774_3210.html",
-          "source": "Le Monde",
-          "summary": "Sur les 185 personnes victimes d’homicide depuis le début de l’année 2026, 158 étaient des Palestiniens de l’Etat hébreu, qui comptent pour 21 % de la population du pays. Les responsables municipaux palestiniens…",
-          "published": "2026-08-04T15:57:39+00:00"
-        },
-        {
-          "title": "Liberia : une douzaine de hauts responsables limogés après des saisies record de cocaïne",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-liberia-une-douzaine-de-hauts-responsables-limog%C3%A9s-apr%C3%A8s-des-saisies-record-de-coca%C3%AFne",
-          "source": "France 24",
-          "summary": "Au Liberia, le président Joseph Boakai a limogé une douzaine de hauts responsables de l'aéroport, de la police et des services de sécurité après des saisies record de cocaïne, estimées à 336 millions de dollars. Une…",
-          "published": "2026-08-04T15:54:13+00:00"
-        },
-        {
-          "title": "Comment ont évolué les relations entre les Etats-Unis et Cuba ? Comprendre en trois minutes",
-          "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/04/comment-ont-evolue-les-relations-entre-les-etats-unis-et-cuba-comprendre-en-trois-minutes_6738772_6176282.html",
-          "source": "Le Monde",
-          "summary": "Alors que Donald Trump manifeste une hostilité grandissante envers l’île caribéenne, plongée dans l’histoire mouvementée de la relation entre La Havane et Washington.",
-          "published": "2026-08-04T15:33:54+00:00"
-        },
-        {
-          "title": "Todd Blanche, l’ancien avocat personnel de Donald Trump, en passe de devenir ministre de la justice des Etats-Unis",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/todd-blanche-l-ancien-avocat-personnel-de-donald-trump-en-passe-de-devenir-ministre-de-la-justice-des-etats-unis_6738769_3210.html",
-          "source": "Le Monde",
-          "summary": "Pour obtenir sa confirmation au Sénat comme procureur général, Todd Blanche a dû renoncer à la création d’un fonds d’indemnisation pour compenser financièrement des alliés du président américain poursuivis sous…",
-          "published": "2026-08-04T15:30:55+00:00"
-        },
-        {
-          "title": "Le Liban et Israël tiennent à Rome une septième session de discussions",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-le-liban-et-isra%C3%ABl-tiennent-%C3%A0-rome-une-septi%C3%A8me-session-de-discussions",
-          "source": "France 24",
-          "summary": "Le Liban a entamé ce mardi une nouvelle session de pourparlers avec Israël à Rome, sous parrainage américain. Washington dit œuvrer pour des retraits des forces israéliennes du sud du Liban. Les explications avec Jules…",
-          "published": "2026-08-04T15:29:25+00:00"
-        },
-        {
-          "title": "Hervé Renard nouveau sélectionneur de la Côte d’Ivoire, onze ans après son sacre en Coupe d’Afrique des nations avec les Eléphants",
-          "link": "https://www.lemonde.fr/sport/article/2026/08/04/herve-renard-nouveau-selectionneur-de-la-cote-d-ivoire-onze-ans-apres-son-sacre-a-la-coupe-d-afrique-avec-les-elephants_6738767_3242.html",
-          "source": "Le Monde",
-          "summary": "Le Français, nommé mardi, remplace Emerse Faé et retrouve une équipe avec qui il a déjà remporté la CAN en 2015.",
-          "published": "2026-08-04T15:29:22+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Peu après la grève | Des vols de WestJet encore annulés ce mardi",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-04/peu-apres-la-greve/des-vols-de-westjet-encore-annules-ce-mardi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les perturbations des vols se poursuivent chez WestJet alors que la compagnie aérienne reprend progressivement ses activités après un bref arrêt de travail pendant le long week-end dans une grande partie du Canada.",
-          "published": "2026-08-04T16:47:42+00:00"
-        },
-        {
-          "title": "Montréal mise sur la propreté et le logement pour relancer le Quartier chinois",
-          "link": "https://www.ledevoir.com/politique/montreal/999656/montreal-mise-proprete-logement-relancer-quartier-chinois",
+          "title": "Antoine Achard reçoit le prix Robert-Cliche du premier roman",
+          "link": "https://www.ledevoir.com/lire/999689/antoine-achard-recoit-prix-robert-cliche-premier-roman",
           "source": "Le Devoir",
-          "summary": "L’arrondissement de Ville-Marie a dévoilé mardi les détails d’un plan de revitalisation du quartier historique.",
-          "published": "2026-08-04T16:25:28+00:00"
+          "summary": "L’auteur de «Deuil et divertissement» observe le présent à l’aune du dandysme.",
+          "published": "2026-08-04T19:13:00+00:00"
         },
         {
-          "title": "Le Parlement du Canada devrait-il rester hybride? Les députés sont divisés.",
-          "link": "https://www.ledevoir.com/politique/canada/999644/parlement-canada-devrait-il-rester-hybride-deputes-sont-divises",
+          "title": "Omnium Banque Nationale | Denis Shapovalov abandonne à son premier match",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-04/omnium-banque-nationale/denis-shapovalov-abandonne-a-son-premier-match.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Denis Shapovalov a déclaré forfait durant son match de premier tour, mardi après-midi, à l’Omnium Banque Nationale de Montréal.",
+          "published": "2026-08-04T18:54:50+00:00"
+        },
+        {
+          "title": "Un géant pétrolier saoudien voit son bénéfice bondir malgré la guerre au Moyen-Orient",
+          "link": "https://www.ledevoir.com/economie/999701/geant-petrolier-saoudien-voit-benefice-bondir-malgre-guerre-moyen-orient",
           "source": "Le Devoir",
-          "summary": "Il est courant que les députés votent depuis leur téléphone lors des annonces, voire lorsqu’ils sont au restaurant.",
-          "published": "2026-08-04T16:07:20+00:00"
+          "summary": "Ces résultats ont été obtenus alors que la guerre contre l’Iran a provoqué une flambée des prix.",
+          "published": "2026-08-04T18:52:49+00:00"
         },
         {
-          "title": "Animaux d’assistance judiciaire | Un poney au palais de justice de Montréal suscite l’émoi",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-04/animaux-d-assistance-judiciaire/un-poney-au-palais-de-justice-de-montreal-suscite-l-emoi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un petit cheval d’assistance qui devait accompagner un contrevenant a créé l’émoi au palais de justice de Montréal cet été. Puisque le juge a refusé que le poney entre en salle d’audience, la séance a été reportée.…",
-          "published": "2026-08-04T16:00:00+00:00"
-        },
-        {
-          "title": "Droits de douane | Le ministre LeBlanc retourne à Washington pour rencontrer son homologue américain",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-08-04/droits-de-douane/le-ministre-leblanc-retourne-a-washington-pour-rencontrer-son-homologue-americain.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le ministre responsable du Commerce Canada–États-Unis, Dominic LeBlanc, a mis de nouveau le cap vers Washington afin de poursuivre les négociations avec son homologue américain, Jamieson Greer, et conclure une entente…",
-          "published": "2026-08-04T15:55:04+00:00"
-        },
-        {
-          "title": "Tentative de meurtre à Rivière-des-Prairies | La police demande l’aide du public pour identifier un suspect",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-04/tentative-de-meurtre-a-riviere-des-prairies/la-police-demande-l-aide-du-public-pour-identifier-un-suspect.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le Service de police de la Ville de Montréal (SPVM) sollicite la population afin d’identifier un homme soupçonné d’une tentative de meurtre survenue en mai dernier, dans l’arrondissement de…",
-          "published": "2026-08-04T15:09:46+00:00"
-        },
-        {
-          "title": "Le Hamas troublé par une mise au point du «Conseil de Paix» sur son désarmement",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/999596/hamas-trouble-mise-point-conseil-paix-desarmement",
+          "title": "L’ex-patron de la Chambre de commerce du Montréal métropolitain devient candidat libéral",
+          "link": "https://www.ledevoir.com/politique/quebec/999695/ex-patron-chambre-commerce-montreal-metropolitain-devient-candidat-liberal",
           "source": "Le Devoir",
-          "summary": "Israël ne se retirera pas de la bande de Gaza avant le désarmement «complet» du Hamas, a précisé le Conseil lundi.",
-          "published": "2026-08-04T14:56:40+00:00"
+          "summary": "Michel Leblanc s’est montré critique des politiques d’immigration de la CAQ à plusieurs reprises.",
+          "published": "2026-08-04T18:18:44+00:00"
         },
         {
-          "title": "Lors d’un concert à Chicago | Ariana Grande rétablit les faits sur sa pause annoncée",
-          "link": "https://www.lapresse.ca/arts/celebrites/2026-08-04/lors-d-un-concert-a-chicago/ariana-grande-retablit-les-faits-sur-sa-pause-annoncee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ariana Grande a remis les pendules à l’heure lundi, concernant sa décision de se retirer des projecteurs après sa tournée. Elle a souligné que celle-ci est née d’une réflexion approfondie, et non d’une réaction face à…",
-          "published": "2026-08-04T14:52:46+00:00"
-        },
-        {
-          "title": "La municipalité de L’Ascension, dans les Laurentides, déclenche l’état d’urgence",
-          "link": "https://www.ledevoir.com/actualites/environnement/999593/municipalite-ascension-laurentides-declenche-etat-urgence",
+          "title": "Les primaires dans le Michigan ont débuté, à un moment charnière pour les démocrates",
+          "link": "https://www.ledevoir.com/monde/etats-unis/999692/primaires-michigan-ont-debute-moment-charniere-democrates",
           "source": "Le Devoir",
-          "summary": "La petite municipalité d’environ 900 habitants a reçu d’importantes quantités de pluie au cours des derniers jours.",
-          "published": "2026-08-04T14:20:00+00:00"
+          "summary": "Une victoire mardi d’Abdul El-Sayed, favori des sondages, viendrait en point d’orgue du mouvement progressiste.",
+          "published": "2026-08-04T18:09:36+00:00"
         },
         {
-          "title": "Pluies diluviennes dans les Laurentides | La municipalité de L’Ascension déclenche l’état d’urgence",
-          "link": "https://www.lapresse.ca/actualites/regional/2026-08-04/pluies-diluviennes-dans-les-laurentides/la-municipalite-de-l-ascension-declenche-l-etat-d-urgence.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Desjardins modernisera ses systèmes de cartes de crédit en préservant la codétention",
+          "link": "https://www.ledevoir.com/economie/999686/desjardins-modernisera-systemes-cartes-credit-preservant-codetention",
+          "source": "Le Devoir",
+          "summary": "La coopérative lancera la migration de son système vers la mi-octobre.",
+          "published": "2026-08-04T17:53:38+00:00"
+        },
+        {
+          "title": "Omnium Banque Nationale | Le Canadien Duncan Chan s’incline au premier tour",
+          "link": "https://www.lapresse.ca/sports/2026-08-04/omnium-banque-nationale/le-canadien-duncan-chan-s-incline-au-premier-tour.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La municipalité de L’Ascension a déclaré l’état d’urgence en raison des fortes pluies des derniers jours qui ont provoqué des glissements de terrain et des inondations dans différents secteurs des Laurentides et de la…",
-          "published": "2026-08-04T14:12:00+00:00"
+          "summary": "Le Canadien Duncan Chan est passé tout près de surprendre un autre membre du top 100 mondial, mardi, à l’Omnium Banque Nationale de Montréal.",
+          "published": "2026-08-04T17:52:52+00:00"
+        },
+        {
+          "title": "Ottawa lance les démarches pour désigner son pipeline comme projet «d’intérêt national»",
+          "link": "https://www.ledevoir.com/actualites/environnement/999677/ottawa-lance-demarches-designer-pipeline-comme-projet-interet-national",
+          "source": "Le Devoir",
+          "summary": "L’expansion de la production des sables bitumineux produira des centaines de millions de tonnes de gaz à effet de serre.",
+          "published": "2026-08-04T17:49:00+00:00"
+        },
+        {
+          "title": "Omnium Banque Nationale | Victorieux, Stefanos Tsitsipas « revient de loin »",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-04/omnium-banque-nationale/victorieux-stefanos-tsitsipas-revient-de-loin.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Stefanos Tsitsipas a facilement accédé au deuxième tour de l’Omnium Banque Nationale, mardi midi, en battant l’Américain Martin Damm, 6-4 et 6-4. Il s’agit, pour l’ex-numéro 3 mondial, d’une première victoire à Montréal…",
+          "published": "2026-08-04T17:18:45+00:00"
+        },
+        {
+          "title": "Des cadres de la FIFA prennent leurs distances avec Infantino",
+          "link": "https://www.ledevoir.com/sports/999671/cadres-fifa-prennent-distances-infantino",
+          "source": "Le Devoir",
+          "summary": "Le principal défenseur du projet d’ouverture aux investisseurs privés apparaît de plus en isolé.",
+          "published": "2026-08-04T17:16:18+00:00"
         }
       ]
     },
@@ -159,80 +159,94 @@
       "label": "France",
       "items": [
         {
-          "title": "EasyJet : un préavis de grève des hôtesses et stewards déposé du 7 août au 2 septembre",
-          "link": "https://www.lefigaro.fr/voyages/easyjet-un-preavis-de-greve-pourrait-perturber-les-vols-depuis-la-france-pendant-un-mois-20260804",
-          "source": "Le Figaro",
-          "summary": "Après avoir suspendu leur mobilisation en raison des incendies en Gironde, les syndicats des personnels navigants commerciaux d’EasyJet France passent à l’offensive.",
-          "published": "2026-08-04T16:40:46+00:00"
-        },
-        {
-          "title": "Un contexte favorable «aux épisodes de chaleur de fin d’été» : Météo France anticipe des mois d’août à octobre plus chauds que la normale",
-          "link": "https://www.liberation.fr/environnement/climat/un-contexte-favorable-aux-episodes-de-chaleur-de-fin-dete-meteo-france-anticipe-des-mois-daout-a-octobre-plus-chauds-que-la-normale-20260804_QPTWGNO7IJBJ3JE6VK22OMFJX4/",
-          "source": "Liberation",
-          "summary": "Dans un contexte de réchauffement climatique, l’organisme public estime ce mardi 4 août, dans ses tendances pour les trois mois à venir, que les températures ont de grandes chances d’être plus élevées que les normales…",
-          "published": "2026-08-04T16:37:47+00:00"
-        },
-        {
-          "title": "Marlen Reusser remporte le contre-la-montre de la 4e étape du Tour de France femmes et prend le maillot jaune, douche froide pour Pauline Ferrand-Prévôt",
-          "link": "https://www.franceinfo.fr/tour-de-france/femmes/marlen-reusser-remporte-le-contre-la-montre-de-la-4e-etape-du-tour-de-france-femmes-et-prend-le-maillot-jaune-douche-froide-pour-pauline-ferrand-prevot_8134730.html#xtor=RSS-3-[lestitres]",
+          "title": "Incendie dans le Var : \"L'hypothèse de mises à feu volontaires est sérieusement envisagée\", selon le parquet de Draguignan",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-dans-le-var-le-brasier-n-est-toujours-pas-fixe-extreme-vigilance-face-a-des-reprises-de-feu-limitees_8133794.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "La vainqueure sortante de l'épreuve a perdu plus de deux minutes sur la championne du monde de l'exercice, mardi, et environ une minute sur la plupart de ses autres concurrentes.",
-          "published": "2026-08-04T16:35:16+00:00"
+          "summary": "\"On a pu recenser six départs de feu volontaires\" depuis le 24 juillet, a expliqué Eric Grohin, directeur départemental du Sdis du Var.",
+          "published": "2026-08-04T19:29:20+00:00"
         },
         {
-          "title": "The Toxic Avenger, DJ cyberharcelé pour avoir critiqué l’hommage de Bardella à Kavinsky : «Le RN aime une culture morte et inoffensive»",
-          "link": "https://www.liberation.fr/culture/musique/the-toxic-avenger-dj-cyberharcele-pour-avoir-critique-lhommage-de-bardella-a-kavinsky-le-rn-aime-une-culture-morte-et-inoffensive-20260804_UCUYMLUEHFFZ7FPBNICSUSMJKY/",
-          "source": "Liberation",
-          "summary": "L’artiste avait demandé, le 29 juillet sur X, au président du parti d’extrême droite de «s’abstenir» d’encenser le musicien décédé, rappelant l’hostilité du secteur musical envers son courant politique. Menacé par ses…",
-          "published": "2026-08-04T16:35:14+00:00"
-        },
-        {
-          "title": "Incendie dans la Drôme, suites de la crise à Ceuta, Infantino lâché par ses lieutenants… L’actu de ce mardi 4 août",
-          "link": "https://www.liberation.fr/international/europe/incendie-dans-la-drome-suites-de-la-crise-a-ceuta-infantino-lache-par-ses-lieutenants-lactu-de-ce-mardi-4-aout-20260804_Y4TL3IL23RHNVKQ5YEJWVS57GY/",
-          "source": "Liberation",
-          "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du mardi 4 août.",
-          "published": "2026-08-04T16:34:59+00:00"
-        },
-        {
-          "title": "A Katmandou, des centaines de Népalais se recueillent après la mort de Nirmal Purja et des autres alpinistes emportés dans une avalanche au Pakistan",
-          "link": "https://www.franceinfo.fr/sports/a-katmandou-des-centaines-de-nepalais-pleurent-la-mort-de-nirmal-purja-et-des-autres-alpinistes-emportes-dans-une-avalanche-au-pakistan_8134784.html#xtor=RSS-3-[lestitres]",
+          "title": "En Ukraine, une vidéo diffusée par les autorités montre un homme pris en chasse par un drone à Kherson",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-un-civil-pris-en-chasse-par-un-drone-russe_8134901.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les participants ont observé une minute de silence devant une banderole avec les photos des dix victimes parmi lesquelles figure l'homme qui a redéfini l'alpinisme moderne.",
-          "published": "2026-08-04T16:29:00+00:00"
+          "summary": "A Kherson, un drone russe a traqué un civil ukrainien sur un marché, une scène de chasse à l'homme filmée par la police. Ce vendeur de légumes de 52 ans, qui a survécu à l'explosion de l'appareil, témoigne. Kiev dénonce…",
+          "published": "2026-08-04T19:26:09+00:00"
         },
         {
-          "title": "Lens : après l’immolation d’un homme, sa compagne, brûlée par lui, meurt à son tour",
-          "link": "https://www.liberation.fr/societe/droits-des-femmes/lens-apres-limmolation-dun-homme-sa-compagne-brulee-par-lui-meurt-a-son-tour-20260804_24L7UG6MEVDHFPZCUVEHK7VJZY/",
+          "title": "A Gaza, une trêve de façade rythmée par les frappes israéliennes",
+          "link": "https://www.liberation.fr/international/moyen-orient/a-gaza-une-treve-de-facade-rythmee-par-les-frappes-israeliennes-20260804_P6S4XYWJTZEK7E5D2NUF74HU6U/",
           "source": "Liberation",
-          "summary": "Près de deux semaines après qu’un trentenaire s’est immolé avant de prendre dans ses bras sa compagne et leur bébé de trois mois, cette dernière est morte dimanche 2 août à l’hôpital. Une enquête a été ouverte par le…",
-          "published": "2026-08-04T16:21:17+00:00"
+          "summary": "La feuille de route du Conseil de la paix, présidé par Donald Trump, a été rejetée par le gouvernement Nétanyahou, qui a intensifié les bombardements sur l’enclave depuis le début du mois d’août.",
+          "published": "2026-08-04T19:25:00+00:00"
         },
         {
-          "title": "« Nous n’avons tout simplement pas la capacité de les héberger » : Ceuta face au défi des mineurs isolés",
-          "link": "https://www.lefigaro.fr/international/nous-n-avons-tout-simplement-pas-la-capacite-de-les-heberger-ceuta-face-au-defi-des-mineurs-isoles-20260804",
+          "title": "Gironde : l’État donne son feu vert à un projet contesté de mégaferme terrestre à saumons",
+          "link": "https://www.lefigaro.fr/flash-actu/gironde-l-etat-donne-son-feu-vert-a-un-projet-conteste-de-megaferme-terrestre-a-saumons-20260804",
           "source": "Le Figaro",
-          "summary": "REPORTAGE - Quasiment tous les migrants, parmi les quelque 70 000 arrivés, ont regagné le Maroc. Sauf environ un millier de mineurs isolés, pour lesquels les autorités de l’enclave espagnole solliciteront l’aide de…",
-          "published": "2026-08-04T16:19:23+00:00"
+          "summary": "Ce projet de 280 millions d’euros porté par la société Pure Salmon, financée par un fonds d’investissement singapourien, «présente un grand intérêt économique et industriel pour le territoire», a justifié mardi la…",
+          "published": "2026-08-04T19:24:46+00:00"
         },
         {
-          "title": "Crise de Ceuta : quoi qu’en dise l’extrême droite, l’immigration illégale en Europe est à son niveau le plus bas depuis 2021",
-          "link": "https://www.liberation.fr/international/europe/crise-de-ceuta-quoi-quen-dise-lextreme-droite-limmigration-en-europe-est-a-son-niveau-le-plus-bas-depuis-2021-20260804_UFIRYIOCLBGQVPTDTQRSGCFC2M/",
+          "title": "Les hôtesses et stewards d’EasyJet déposent un large préavis de grève du 7 août au 2 septembre",
+          "link": "https://www.liberation.fr/economie/social/les-hotesses-et-stewards-deasyjet-deposent-un-large-preavis-de-greve-du-7-aout-au-2-septembre-20260804_K4AMWS75CREFLCDAXLTVCDHGWE/",
           "source": "Liberation",
-          "summary": "N’en déplaise aux partis nationalistes, qui se sont servis de l’épisode de Ceuta pour répéter leurs craintes de «submersion migratoire», le nombre de passages irréguliers aux frontières de l’Union européenne atteint son…",
-          "published": "2026-08-04T16:18:57+00:00"
+          "summary": "Les syndicats, qui dénoncent notamment «l’instabilité chronique des plannings», et «l’absence totale de mesures protectrices» de la part de leur direction, précisent que les jours de mobilisation seront communiqués 48…",
+          "published": "2026-08-04T19:18:49+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies dans le Var : l’hypothèse volontaire «sérieusement envisagée» pour la reprise de feu du Gros Bessillon",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-la-var-plusieurs-massifs-forestiers-interdits-d-acces-en-raison-du-risque-d-incendie-20260804",
+          "title": "« J’ai vu le danger en direct » : ces traumatismes que les flammes ravivent chez les sinistrés",
+          "link": "https://www.lefigaro.fr/actualite-france/j-ai-vu-le-danger-en-direct-ces-traumatismes-que-les-flammes-ravivent-chez-les-sinistres-20260804",
           "source": "Le Figaro",
-          "summary": "Le feu, qui a démarré vendredi au sud de l’important brasier fixé il y a six jours près du massif du Gros Bessillon, est contenu mais n’est toujours pas fixé à ce stade.",
-          "published": "2026-08-04T16:18:28+00:00"
+          "summary": "REPORTAGE - Alors que de nouveaux feux ravagent une partie de la France depuis plusieurs semaines, des sinistrés des incendies de 2021 et 2022 témoignent de leur difficile et fragile reconstruction.",
+          "published": "2026-08-04T19:15:00+00:00"
+        },
+        {
+          "title": "Quels sont les Européens qui utilisent le plus l’IA générative ?",
+          "link": "https://www.lefigaro.fr/conjoncture/quels-sont-les-europeens-qui-utilisent-le-plus-l-ia-generative-20260804",
+          "source": "Le Figaro",
+          "summary": "INFOGRAPHIE – Près d’un habitant de l’UE sur trois a eu recours à un outil d’intelligence artificielle générative l’année dernière. Avec des usages bien différents selon les pays.",
+          "published": "2026-08-04T19:13:51+00:00"
+        },
+        {
+          "title": "Marseille : un jeune garçon de deux ans retrouvé mort dans un appartement, ses proches en garde à vue",
+          "link": "https://www.liberation.fr/societe/police-justice/marseille-un-jeune-garcon-de-deux-ans-retrouve-mort-dans-un-appartement-ses-proches-en-garde-a-vue-20260804_XCD4BPSNUBFJRE4IAHJWI6IYQA/",
+          "source": "Liberation",
+          "summary": "La mère de 35 ans, son conjoint de 18 ans et une adolescente ont été placés en garde à vue, après la macabre découverte, dimanche 2 août, dans le XIVe arrondissement de la ville. Les circonstances de la mort ne sont pas…",
+          "published": "2026-08-04T19:10:08+00:00"
+        },
+        {
+          "title": "Destructrice ou bien créatrice d’emplois ? L’impact de l’IA sur le monde du travail, un débat inflammable",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/destructrice-ou-bien-creatrice-d-emplois-l-impact-de-l-ia-sur-le-monde-du-travail-un-debat-inflammable-20260804",
+          "source": "Le Figaro",
+          "summary": "COMMENT L’IA CHANGE LE MONDE (2/5) - Alors que plusieurs entrepreneurs américains prédisent une « job apocalypse », plusieurs voix appellent à la retenue.",
+          "published": "2026-08-04T19:00:10+00:00"
+        },
+        {
+          "title": "A Gaza, des funérailles collectives pour 112 victimes longtemps ensevelies sous les décombres",
+          "link": "https://www.lemonde.fr/international/article/2026/08/04/a-gaza-des-funerailles-collectives-pour-112-victimes-longtemps-ensevelies-sous-les-decombres_6738850_3210.html",
+          "source": "Le Monde",
+          "summary": "Ces personnes avaient péri dans un bombardement israélien de novembre 2023.",
+          "published": "2026-08-04T18:58:45+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Panne Netflix : de nombreuses personnes n’ont pas accès à leurs films et séries",
+          "link": "https://www.frandroid.com/services/svod/3203519_panne-netflix-de-nombreuses-personnes-nont-pas-acces-a-leurs-films-et-series",
+          "source": "Frandroid",
+          "summary": "Netflix est en panne.",
+          "published": "2026-08-04T19:30:43+00:00"
+        },
+        {
+          "title": "Panne Discord : impossible d’envoyer certains messages",
+          "link": "https://www.frandroid.com/culture-tech/3203507_panne-discord-impossible-denvoyer-certains-messages",
+          "source": "Frandroid",
+          "summary": "Discord est actuellement en panne. Les messages privés ne fonctionnent plus.",
+          "published": "2026-08-04T19:16:18+00:00"
+        },
         {
           "title": "Google touché par une première : un agent IA a été détourné pour en piéger un autre",
           "link": "https://www.numerama.com/cyberguerre/2306277-google-touche-par-une-premiere-un-agent-ia-a-ete-detourne-pour-en-pieger-un-autre.html",
@@ -302,20 +316,6 @@
           "source": "Clubic",
           "summary": "Vous aussi, à l’hôtel, vous pardonnez facilement un oreiller un peu trop ferme ou une clim un brin bruyante… Mais beaucoup moins un Wi-Fi qui rame au moment d’envoyer un mail, de lancer Netflix ou de passer un appel…",
           "published": "2026-08-04T15:30:00+00:00"
-        },
-        {
-          "title": "Quand sort la saison 3 des Anneaux de pouvoir, la série sur Le Seigneur des anneaux de Prime Video ?",
-          "link": "https://www.numerama.com/pop-culture/1808354-saison-3-des-anneaux-de-pouvoir.html",
-          "source": "Numerama",
-          "summary": "La saison 3 de la série Les Anneaux de pouvoir est désormais tournée et presque prête à être diffusée en streaming sur Prime Video. La série télévisée, dérivée de l'univers du Seigneur des anneaux. en est à la moitié du…",
-          "published": "2026-08-04T15:29:19+00:00"
-        },
-        {
-          "title": "Éclipse solaire du 12 août : y a-t-il des spots parfaits à Paris pour observer le phénomène ?",
-          "link": "https://www.numerama.com/sciences/2306461-eclipse-solaire-du-12-aout-y-a-t-il-des-spots-parfaits-a-paris-pour-observer-le-phenomene.html",
-          "source": "Numerama",
-          "summary": "Le 12 août 2026, l'Europe vivra l'événement astronomique de la décennie. La France profitera d'une éclipse partielle spectaculaire. À Paris, le Soleil sera masqué à plus de 92 % en fin de journée. Horaire, déroulement…",
-          "published": "2026-08-04T15:20:00+00:00"
         }
       ]
     }
@@ -328,6 +328,13 @@
     "sejour_bien_etre": {
       "label": "Sejour bien-etre",
       "items": [
+        {
+          "title": "À voir au cinéma: «Des fleurs pour Tokyo» et «Girl»",
+          "link": "https://www.slate.fr/culture/sorties-cinema-fleurs-pour-tokyo-girl-yuiga-danzuka-shu-qi-japon-taiwan",
+          "source": "Slate.fr",
+          "summary": "Les premiers films de Yuiga Danzuka et de Shu Qi ont en commun d'être centrés sur les relations familiales, labyrinthe d'affects chez l'un, espace de conflits chez l'autre.",
+          "published": "2026-08-04T17:55:00+00:00"
+        },
         {
           "title": "«C'est comme si on vous mettait à nu»: au Haut-Vernet, le rouleau compresseur de la médiatisation et le deuil impossible du petit Émile",
           "link": "https://www.slate.fr/societe/au-bout-du-chemin/disparition-petit-emile-deuil-impossible-mediatisation-haut-vernet",
