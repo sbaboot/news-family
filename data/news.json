@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-08-04T22:10:23.568895+00:00",
+  "generated_at": "2026-08-05T02:24:55.055936+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Un homme armé arrêté dans un golf de Donald Trump en Californie, deux jours avant une visite du président sur place",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/un-homme-arme-arrete-dans-un-golf-de-donald-trump-en-californie-deux-jours-avant-une-visite-du-president-sur-place-mardi_6739114_3210.html",
+          "source": "Le Monde",
+          "summary": "L’individu de 38 ans au comportement jugé suspect a été interpellé, dimanche 2 août, par les services du shérif du comté de Los Angeles. Un pistolet chargé ainsi que des munitions ont été retrouvés dans son véhicule.",
+          "published": "2026-08-05T01:16:52+00:00"
+        },
+        {
+          "title": "Ukraine : nouvelle attaque russe meurtrière sur Kiev, des entrepôts touchés",
+          "link": "https://www.france24.com/fr/europe/20260805-ukraine-kiev-russie-nouvelle-attaque-russe-meurtriere-entrepots",
+          "source": "France 24",
+          "summary": "Deux personnes ont été tuées dans la nuit de mardi à mercredi à Kiev et dans sa région, visées par une attaque de missiles balistiques russe. Des infrastructures résidentielles ont été touchées ainsi que des entrepôts…",
+          "published": "2026-08-05T00:54:31+00:00"
+        },
+        {
+          "title": "Donald Trump lance un accès payant à ses annonces sur Truth Social, qui bousculent régulièrement les marchés, l’opposition s’insurge",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/donald-trump-lance-un-acces-payant-a-ses-annonces-sur-truth-social-qui-bousculent-regulierement-les-marches-l-opposition-s-insurge_6739048_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon le « Wall Street Journal », cinq entreprises financières avaient déjà souscrit à l’abonnement payant, peu après son lancement, en juillet. Le site Axios évoque un tarif mensuel allant jusqu’à 100 000 dollars, soit…",
+          "published": "2026-08-04T23:52:45+00:00"
+        },
+        {
+          "title": "Incendie aux États-Unis : les feux ne sont toujours pas contenus à Spokane, un suspect arrêté",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260804-etats-unis-incendies-feux-spokane-suspect-arrete-secheresse-meteo",
+          "source": "France 24",
+          "summary": "Mardi, trois feux de forêt encerclaient toujours Spokane, dans le nord-ouest des États-Unis, où plus de 700 bâtiments ont été détruits depuis samedi. Un suspect, soupçonné d'avoir volontairement déclenché l'un des…",
+          "published": "2026-08-04T23:49:09+00:00"
+        },
+        {
+          "title": "Le PDG de Paramount, David Ellison, défend le rachat de Warner Bros en assurant préserver « l’indépendance » et en écartant toute « domination » du marché",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/le-pdg-de-paramount-david-ellison-defend-le-rachat-de-warner-bros-en-assurant-preserver-l-independance-et-en-ecartant-toute-domination-du-marche_6739015_3210.html",
+          "source": "Le Monde",
+          "summary": "Cette acquisition majeure suscite de nombreuses critiques et des recours judiciaires. Outre les studios de cinéma et les services de streaming, elle mettra sous le même toit deux des principales chaînes d’information…",
+          "published": "2026-08-04T23:35:42+00:00"
+        },
+        {
+          "title": "Incendies dans le nord-ouest des Etats-Unis : un homme soupçonné d’avoir provoqué l’un des feux dévastateurs de Spokane arrêté",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/incendies-dans-le-nord-ouest-des-etats-unis-un-homme-soupconne-d-avoir-provoque-l-un-des-feux-devastateurs-de-spokane-arrete_6738982_3210.html",
+          "source": "Le Monde",
+          "summary": "Le plus important des trois sinistres en cours dans la ville de Spokane, dans l’Etat de Washington, pourrait avoir été déclenché par un homme de 37 ans, placé en détention provisoire, et déjà condamné par le passé pour…",
+          "published": "2026-08-04T22:10:52+00:00"
+        },
         {
           "title": "Football : plusieurs cadres de la Fifa prennent leurs distances avec Gianni Infantino",
           "link": "https://www.france24.com/fr/sports/20260804-football-plusieurs-cadres-fifa-prennent-distances-avec-gianni-infantino-arsene-wenger-mattias-grafstr%C3%B6m-uefa",
@@ -26,53 +68,11 @@
           "published": "2026-08-04T20:30:57+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : l’armée russe a largué plus de 8 300 bombes guidées sur le territoire ukrainien en juillet, « le nombre le plus élevé jamais enregistré », selon Kiev",
+          "title": "EN DIRECT, guerre en Ukraine : des bombardements sur Kiev font au moins un mort",
           "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-l-armee-russe-a-largue-plus-de-8-300-bombes-guidees-sur-le-territoire-ukrainien-en-juillet-le-nombre-le-plus-eleve-jamais-enregistre-selon-kiev_6737250_3210.html",
           "source": "Le Monde",
-          "summary": "Le ministère de la défense ukrainien fait également savoir, mardi, dans un communiqué, que « 7 922 affrontements armés ont été enregistrés » au cours du même mois, soit environ 600 de plus qu’en juin, avec une moyenne…",
-          "published": "2026-08-04T20:23:11+00:00"
-        },
-        {
-          "title": "Incendies : l'hypothèse d'actes volontaires envisagée dans le Var, 402 interpellations en France",
-          "link": "https://www.france24.com/fr/france/20260804-incendies-l-hypoth%C3%A8se-d-actes-volontaires-envisag%C3%A9e-dans-le-var-402-interpellations-en-france",
-          "source": "France 24",
-          "summary": "\"L'hypothèse de mises à feu volontaires est sérieusement envisagée\" dans la reprise de l'incendie qui a démarré vendredi dans le Var, a indiqué mardi le parquet de Draguignan. Au total, 402 personnes ont été…",
-          "published": "2026-08-04T19:57:09+00:00"
-        },
-        {
-          "title": "Crise de Ceuta : le Maroc appelle l’Union européenne à ne pas « handicaper » son développement",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/04/crise-de-ceuta-le-maroc-appelle-l-union-europeenne-a-ne-pas-handicaper-son-developpement_6738916_3212.html",
-          "source": "Le Monde",
-          "summary": "Le ministère de l’intérieur marocain et celui des affaires étrangères ont pris la parole, dimanche et lundi, rejetant la responsabilité de la crise migratoire sur le gouvernement de Pedro Sanchez.",
-          "published": "2026-08-04T19:30:11+00:00"
-        },
-        {
-          "title": "États-Unis : Abdul El-Sayed, le pari de la nouvelle gauche démocrate dans le Michigan",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260804-%C3%A9tats-unis-abdul-el-sayed-pari-nouvelle-gauche-d%C3%A9mocrate-michigan",
-          "source": "France 24",
-          "summary": "Les électeurs démocrates du Michigan choisissent mardi leur candidat pour le Sénat. Abdul El-Sayed pourrait devenir l'un des visages de la nouvelle gauche américaine. Dans cet État remporté par Donald Trump en 2024, ce…",
-          "published": "2026-08-04T19:15:52+00:00"
-        },
-        {
-          "title": "A Gaza, des funérailles collectives pour 112 victimes longtemps ensevelies sous les décombres",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/a-gaza-des-funerailles-collectives-pour-112-victimes-longtemps-ensevelies-sous-les-decombres_6738850_3210.html",
-          "source": "Le Monde",
-          "summary": "Ces personnes avaient péri dans un bombardement israélien de novembre 2023.",
-          "published": "2026-08-04T18:58:45+00:00"
-        },
-        {
-          "title": "Mali : Human Rights Watch met en cause Africa Corps",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260804-mali-human-rights-watch-met-en-cause-africa-corps",
-          "source": "France 24",
-          "summary": "L’ONG Human Rights Watch a enquêté sur les frappes aériennes menées par Africa Corps à Kyrnia, dans la région de Mopti. Ces frappes, survenues le 15 juin dernier, ont tué huit civils. Selon l’organisation, aucun…",
-          "published": "2026-08-04T18:05:41+00:00"
-        },
-        {
-          "title": "Cuba : le réseau électrique rétabli après une nouvelle panne géante",
-          "link": "https://www.lemonde.fr/international/article/2026/08/04/cuba-le-reseau-electrique-retabli-apres-une-nouvelle-panne-geante_6738783_3210.html",
-          "source": "Le Monde",
-          "summary": "De vastes zones du pays restent cependant sans électricité. Il s’agit de la sixième panne de l’année dans l’île, sur fond de grave crise énergétique et de blocus pétrolier imposé par les Etats-Unis.",
-          "published": "2026-08-04T17:48:50+00:00"
+          "summary": "Selon les autorités locales, une femme a été tuée et douze personnes blessées dans des frappes aériennes qui ont touché au moins sept lieux de la capitale ukrainienne. L’armée de l’air ukrainienne avait auparavant…",
+          "published": "2026-08-04T20:23:08+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Telesat signe un contrat pour des satellites militaires avec Ottawa",
-          "link": "https://www.ledevoir.com/economie/techno/999749/telesat-signe-contrat-satellites-militaires-ottawa",
+          "title": "Alerte maximale face à l’éruption d’un volcan au Guatemala",
+          "link": "https://www.ledevoir.com/monde/ameriques/999776/alerte-maximale-face-eruption-volcan-guatemala",
           "source": "Le Devoir",
-          "summary": "L’entreprise canadienne souhaite à terme concurrencer le service Starlink de SpaceX.",
-          "published": "2026-08-04T21:55:49+00:00"
+          "summary": "Les autorités ont évacué au moins 1700 habitants des zones proches du cratère.",
+          "published": "2026-08-05T01:24:00+00:00"
         },
         {
-          "title": "Comment se protéger contre la propagation de la rage au Québec?",
-          "link": "https://www.ledevoir.com/actualites/sante/999731/comment-proteger-contre-propagation-rage-quebec",
+          "title": "Le département de la Justice ciblé dans le dossier du bassin réfléchissant",
+          "link": "https://www.ledevoir.com/monde/etats-unis/999779/departement-justice-cible-dossier-bassin-reflechissant",
           "source": "Le Devoir",
-          "summary": "Voici des mesures à adopter pour se prémunir contre cette maladie mortelle.",
-          "published": "2026-08-04T21:17:45+00:00"
+          "summary": "La procureure fédérale Jeanine Pirro a admis que les dommages au site étaient dus à une installation bâclée.",
+          "published": "2026-08-05T01:21:48+00:00"
         },
         {
-          "title": "Répit dans la lutte aux feux de forêt au Québec",
-          "link": "https://www.ledevoir.com/actualites/environnement/999716/periode-repit-feux-foret-quebec",
+          "title": "La police a trouvé des traces de sang sur la veste de la fillette tuée à New York",
+          "link": "https://www.ledevoir.com/actualites/justice/999773/police-trouve-traces-sang-veste-fillette-tuee-new-york",
           "source": "Le Devoir",
-          "summary": "La zone nordique, qui compte un nombre inédit d’incendies, demeure toutefois sous surveillance.",
-          "published": "2026-08-04T21:07:00+00:00"
+          "summary": "Luciano Frattolin est accusé de meurtre au deuxième degré et de dissimulation du cadavre de sa fille.",
+          "published": "2026-08-05T00:46:54+00:00"
         },
         {
-          "title": "À VOIR : Jack Draper en pleurs sur le central",
-          "link": "https://www.journaldemontreal.com/2026/08/04/a-voir--jack-draper-en-pleurs-sur-le-central",
-          "source": "Journal de Montreal",
-          "summary": "Le Britannique était très émotif pendant la troisième manche de son duel face à Térence Atmare.",
-          "published": "2026-08-04T21:05:23+00:00"
-        },
-        {
-          "title": "7 spectacles incontournables à voir en août à Montréal",
-          "link": "https://www.journaldemontreal.com/2026/08/07/7-spectacles-incontournables-a-voir-en-aout-a-montreal",
-          "source": "Journal de Montreal",
-          "summary": "Musique, humour, théâtre... les salles de spectacle de Montréal redoublent d’initiatives pour nous divertir avant la rentrée des classes.",
-          "published": "2026-08-04T21:00:00+00:00"
-        },
-        {
-          "title": "La GR86 2027 insiste sur l’importance des détails",
-          "link": "https://www.guideautoweb.com/articles/82708/la-toyota-gr86-2027-insiste-sur-l-importance-des-details/",
-          "source": "Journal de Montreal",
-          "summary": "Afin d’aider la GR86 et de plaire davantage aux mordus de conduite, la compagnie lui a apporté une série d’améliorations pour 2027.",
-          "published": "2026-08-04T21:00:00+00:00"
-        },
-        {
-          "title": "L’ancien avocat de Donald Trump en voie d’être confirmé comme procureur général",
-          "link": "https://www.ledevoir.com/monde/etats-unis/999743/ancien-avocat-donald-trump-voie-etre-confirme-comme-procureur-general",
-          "source": "Le Devoir",
-          "summary": "Todd Blanche s’est notamment attiré les critiques de victimes de Jeffrey Epstein.",
-          "published": "2026-08-04T20:59:02+00:00"
-        },
-        {
-          "title": "Côte-des-Neiges | Le SPVM mènera une enquête sur l’incendie touchant une mosquée",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-04/cote-des-neiges/le-spvm-menera-une-enquete-sur-l-incendie-touchant-une-mosquee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Californie | Un homme armé a été arrêté sur un golf de Trump avant son arrivée",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-04/californie/un-homme-arme-a-ete-arrete-sur-un-golf-de-trump-avant-son-arrivee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une enquête sera menée par le Service de police de la Ville de Montréal (SPVM) concernant un incendie s’étant propagé sur une mosquée, samedi, dans le quartier de Côte-des-Neiges.",
-          "published": "2026-08-04T20:57:22+00:00"
+          "summary": "Un homme armé a été arrêté dimanche sur un golf appartenant à Donald Trump en Californie, deux jours avant la visite du président américain sur place prévue mardi soir, ont annoncé les services du shérif du comté de Los…",
+          "published": "2026-08-05T00:29:25+00:00"
         },
         {
-          "title": "Pointe-à-Callière souligne la Grande Paix de Montréal, 325 ans plus tard",
-          "link": "https://www.ledevoir.com/culture/999719/pointe-calliere-souligne-grande-paix-montreal-325-ans-plus-tard",
+          "title": "Conflit de travail chez WestJet | Des solutions farfelues proposées aux voyageurs pris à l’étranger",
+          "link": "https://www.lapresse.ca/affaires/2026-08-04/conflit-de-travail-chez-westjet/des-solutions-farfelues-proposees-aux-voyageurs-pris-a-l-etranger.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "« Enfin, un courriel de WestJet ! », se sont réjouis mardi des voyageurs québécois, coincés à l’étranger depuis que leur vol vers Montréal a été annulé en raison du conflit de travail. Mais la galère n’est pas terminée…",
+          "published": "2026-08-04T23:30:00+00:00"
+        },
+        {
+          "title": "Menstruations, le cabaret",
+          "link": "https://www.lapresse.ca/arts/theatre/2026-08-04/menstruations-le-cabaret.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Menstruosités est un spectacle qui se présente comme une comédie satirique féministe qui suit le cycle menstruel. Bienvenue aux messieurs.",
+          "published": "2026-08-04T23:30:00+00:00"
+        },
+        {
+          "title": "Grèves de la faim | Des détenus nourris de force dans les centres de détention de l’ICE",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-04/greves-de-la-faim/des-detenus-nourris-de-force-dans-les-centres-de-detention-de-l-ice.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le Service de l’immigration et des douanes des États-Unis (ICE) recourt à l’alimentation forcée pour mettre fin aux grèves de la faim des migrants sous sa garde, même si cette pratique est décriée de longue date comme…",
+          "published": "2026-08-04T23:15:00+00:00"
+        },
+        {
+          "title": "La SQ fait appel à l’armée pour une possible grenade découverte dans un camping",
+          "link": "https://www.ledevoir.com/actualites/999764/sq-fait-appel-armee-possible-grenade-decouverte-camping",
           "source": "Le Devoir",
-          "summary": "Le musée Pointe-à-Callière expose le traité historique de retour sur ses lieux d’origine.",
-          "published": "2026-08-04T20:46:00+00:00"
+          "summary": "Des membres des Forces armées canadiennes se sont rendus mardi à Saint-Bernard-de-Lacolle.",
+          "published": "2026-08-04T22:51:39+00:00"
         },
         {
-          "title": "À TVA Sports : enfin une journée ensoleillée à l'Omnium Banque Nationale",
-          "link": "https://www.journaldemontreal.com/2026/08/04/a-tva-sports--enfin-une-journee-ensoleillee-a-lomnium-banque-nationale",
-          "source": "Journal de Montreal",
-          "summary": "Ce ne sont pas moins de 23 matchs qui sont à l’horaire mardi à Montréal dans ce qui s’annonce comme une première journée complète.",
-          "published": "2026-08-04T20:08:29+00:00"
+          "title": "Pluies diluviennes | Des villes demandent l’aide de Québec pour identifier les zones inondables",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-04/pluies-diluviennes/des-villes-demandent-l-aide-de-quebec-pour-identifier-les-zones-inondables.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Alors que les épisodes de pluies diluviennes causent de plus en plus d’inondations à Montréal, la Communauté métropolitaine de Montréal (CMM) demande à Québec de soutenir le projet de cartographier les zones où les…",
+          "published": "2026-08-04T22:42:40+00:00"
+        },
+        {
+          "title": "Fillette tuée durant un voyage à New York | La police a trouvé des traces de sang sur la veste de la victime",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-04/fillette-tuee-durant-un-voyage-a-new-york/la-police-a-trouve-des-traces-de-sang-sur-la-veste-de-la-victime.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La police a trouvé des traces de sang sur la veste que portait une fillette de neuf ans originaire de Montréal lorsqu’elle est décédée l’été dernier dans une zone rurale de l’État de New York.",
+          "published": "2026-08-04T22:35:56+00:00"
         }
       ]
     },
@@ -159,25 +159,67 @@
       "label": "France",
       "items": [
         {
-          "title": "Guerre en Ukraine : une dizaine d’explosions entendues à Kiev pendant une alerte aérienne",
-          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-une-dizaine-d-explosions-entendues-a-kiev-pendant-une-alerte-aerienne-20260804",
-          "source": "Le Figaro",
-          "summary": "L’Ukraine et la Russie augmentent l’intensité de leurs frappes de longue portée depuis plusieurs mois.",
-          "published": "2026-08-04T22:02:18+00:00"
+          "title": "Un homme armé arrêté dans un golf de Donald Trump en Californie, deux jours avant une visite du président sur place",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/un-homme-arme-arrete-dans-un-golf-de-donald-trump-en-californie-deux-jours-avant-une-visite-du-president-sur-place-mardi_6739114_3210.html",
+          "source": "Le Monde",
+          "summary": "L’individu de 38 ans au comportement jugé suspect a été interpellé, dimanche 2 août, par les services du shérif du comté de Los Angeles. Un pistolet chargé ainsi que des munitions ont été retrouvés dans son véhicule.",
+          "published": "2026-08-05T01:16:52+00:00"
         },
         {
-          "title": "New York : un homme qui avait sauté nu du haut du pont de Brooklyn dans un état «stable», malgré une chute de 85 mètres",
-          "link": "https://www.lefigaro.fr/international/new-york-un-homme-qui-avait-saute-nu-du-haut-du-pont-de-brooklyn-dans-un-etat-stable-malgre-une-chute-de-85-metres-20260804",
+          "title": "Un étage d’une fusée de SpaceX va s’écraser sur la Lune à plus de 8 500 km/h, mercredi matin",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/05/un-etage-d-une-fusee-de-spacex-va-s-ecraser-sur-la-lune-a-plus-de-8-500-km-h-mercredi-matin_6739081_1650684.html",
+          "source": "Le Monde",
+          "summary": "Conséquence d’un changement de trajectoire inattendu, la collision laissera un cratère à la surface lunaire. L’impact sera sans danger pour la Terre, assure la NASA.",
+          "published": "2026-08-05T00:33:26+00:00"
+        },
+        {
+          "title": "Un homme armé a été arrêté dimanche sur un golf de Trump en Californie, avant une visite du président",
+          "link": "https://www.lefigaro.fr/international/un-homme-arme-a-ete-arrete-dimanche-sur-un-golf-de-trump-en-californie-avant-une-visite-du-president-20260805",
           "source": "Le Figaro",
-          "summary": "Originaire du Kazakhstan, Galymzhan Abaildayev était parvenu à monter au sommet de la tour nord du pont de Brooklyn pour y effectuer un plongeon dans l’East River dimanche 2 août, le jour de son anniversaire.…",
-          "published": "2026-08-04T21:49:53+00:00"
+          "summary": "L’homme a éveillé les soupçons après avoir été vu «en train de se promener sur le terrain de golf, de prendre des photos et semblait surveiller les activités liées à la planification de la sécurité».",
+          "published": "2026-08-05T00:21:40+00:00"
+        },
+        {
+          "title": "Donald Trump lance un accès payant à ses annonces sur Truth Social, qui bousculent régulièrement les marchés, l’opposition s’insurge",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/donald-trump-lance-un-acces-payant-a-ses-annonces-sur-truth-social-qui-bousculent-regulierement-les-marches-l-opposition-s-insurge_6739048_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon le « Wall Street Journal », cinq entreprises financières avaient déjà souscrit à l’abonnement payant, peu après son lancement, en juillet. Le site Axios évoque un tarif mensuel allant jusqu’à 100 000 dollars, soit…",
+          "published": "2026-08-04T23:52:45+00:00"
+        },
+        {
+          "title": "Wynn Resorts reporte l’ouverture du premier casino des Émirats à septembre 2027",
+          "link": "https://www.lefigaro.fr/societes/wynn-resorts-reporte-l-ouverture-du-premier-casino-des-emirats-a-septembre-2027-20260805",
+          "source": "Le Figaro",
+          "summary": "L’entreprise américaine a obtenu en octobre 2024 la première licence d’exploitation de casinos de jeux délivrée par les Émirats arabes unis, où cette pratique est jusqu’ici interdite selon la loi islamique.",
+          "published": "2026-08-04T23:36:11+00:00"
+        },
+        {
+          "title": "Le PDG de Paramount, David Ellison, défend le rachat de Warner Bros en assurant préserver « l’indépendance » et en écartant toute « domination » du marché",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/le-pdg-de-paramount-david-ellison-defend-le-rachat-de-warner-bros-en-assurant-preserver-l-independance-et-en-ecartant-toute-domination-du-marche_6739015_3210.html",
+          "source": "Le Monde",
+          "summary": "Cette acquisition majeure suscite de nombreuses critiques et des recours judiciaires. Outre les studios de cinéma et les services de streaming, elle mettra sous le même toit deux des principales chaînes d’information…",
+          "published": "2026-08-04T23:35:42+00:00"
+        },
+        {
+          "title": "Tennis : blessé, Carlos Alcaraz ne participera pas au Masters 1000 de Cincinnati",
+          "link": "https://www.lefigaro.fr/sports/tennis/tennis-blesse-carlos-alcaraz-ne-participera-pas-au-masters-1000-de-cincinnati-20260805",
+          "source": "Le Figaro",
+          "summary": "Éloigné des courts par une blessure au poignet depuis avril, l’Espagnol de 23 ans avait prévu de revenir à la compétition lors de ce Masters 1000 afin de se préparer à l’US Open.",
+          "published": "2026-08-04T23:23:02+00:00"
         },
         {
           "title": "L'étage supérieur d'une fusée de SpaceX va s'écraser ce mercredi sur la Lune, et y laissera un cratère",
           "link": "https://www.franceinfo.fr/sciences/espace/l-etage-superieur-d-une-fusee-de-spacex-va-s-ecraser-ce-mercredi-sur-la-lune-et-y-laissera-un-cratere_8135024.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "L'événement sera scruté par les scientifiques, afin de mesurer les risques induits par les débris spatiaux.",
-          "published": "2026-08-04T21:45:59+00:00"
+          "published": "2026-08-04T23:11:33+00:00"
+        },
+        {
+          "title": "Incendies dans le nord-ouest des Etats-Unis : un homme soupçonné d’avoir provoqué l’un des feux dévastateurs de Spokane arrêté",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/incendies-dans-le-nord-ouest-des-etats-unis-un-homme-soupconne-d-avoir-provoque-l-un-des-feux-devastateurs-de-spokane-arrete_6738982_3210.html",
+          "source": "Le Monde",
+          "summary": "Le plus important des trois sinistres en cours dans la ville de Spokane, dans l’Etat de Washington, pourrait avoir été déclenché par un homme de 37 ans, placé en détention provisoire, et déjà condamné par le passé pour…",
+          "published": "2026-08-04T22:10:52+00:00"
         },
         {
           "title": "Un étage de fusée SpaceX va s’écraser sur la Lune ce mercredi à une vitesse de 8700 km/h",
@@ -185,48 +227,6 @@
           "source": "Le Figaro",
           "summary": "Les scientifiques suivront de près la chute de cet étage de fusée, long d’environ 12 mètres et pesant 4,5 tonnes, qui avait servi en 2025 à propulser deux engins vers la Lune.",
           "published": "2026-08-04T21:30:04+00:00"
-        },
-        {
-          "title": "EN DIRECT, incendies : plus de 400 interpellations en France en lien avec les feux depuis le début de l’été, selon le ministre de l’intérieur",
-          "link": "https://www.lemonde.fr/planete/live/2026/08/04/en-direct-incendies-plus-de-400-interpellations-en-france-en-lien-avec-les-feux-depuis-le-debut-de-l-ete-selon-le-ministre-de-l-interieur_6737310_3244.html",
-          "source": "Le Monde",
-          "summary": "Laurent Nuñez a également affirmé mardi que, puis le début de la saison des incendies, « 14 540 feux ou départs de feu » ont été recensés pour une superficie « brûlée » de « 120 000 hectares ».",
-          "published": "2026-08-04T21:25:04+00:00"
-        },
-        {
-          "title": "Un navire commercial indien a coulé en mer Rouge après avoir été victime d'une attaque, l'équipage a été secouru",
-          "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/un-navire-a-coule-en-mer-rouge-apres-avoir-ete-victime-d-une-attaque-l-equipage-a-pu-etre-secouru_8135009.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le gouvernement yéménite, reconnu par la communauté internationale, a mis en cause les rebelle houthis pro-iraniens.",
-          "published": "2026-08-04T21:21:19+00:00"
-        },
-        {
-          "title": "Tour préliminaire de la Ligue des Champions : Lyon s'incline 2-1 à Prague et devra faire mieux au match retour pour croire aux barrages",
-          "link": "https://www.franceinfo.fr/sports/foot/tour-preliminaire-de-la-ligue-des-champions-lyon-s-incline-2-1-a-prague-et-devra-faire-mieux-au-match-retour-pour-croire-aux-barrages_8135003.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le Sparta s'est logiquement imposé face aux hommes de Paulo Fonseca, trop timorés, au match aller du 3e tour préliminaire. Le retour sera disputé le 11 août au Groupama Stadium.",
-          "published": "2026-08-04T21:04:18+00:00"
-        },
-        {
-          "title": "SpaceX augmente son chiffre d’affaires de 92% pour ses premiers résultats trimestriels",
-          "link": "https://www.lefigaro.fr/societes/7-8-milliards-de-dollars-spacex-augmente-son-chiffre-d-affaires-de-92-pour-ses-premiers-resultats-trimestriels-20260804",
-          "source": "Le Figaro",
-          "summary": "Les revenus de la branche IA du groupe spatial ont triplé en un trimestre, à 2,6 milliards de dollars, portés par la location de la puissance de calcul de son centre de données.",
-          "published": "2026-08-04T20:54:31+00:00"
-        },
-        {
-          "title": "Violences conjugales : la garde à vue de Jean Imbert levée, le chef transféré au tribunal de Paris",
-          "link": "https://www.lefigaro.fr/faits-divers/violences-conjugales-la-garde-a-vue-de-jean-imbert-levee-le-chef-transfere-au-tribunal-de-paris-20260804",
-          "source": "Le Figaro",
-          "summary": "Le chef cuisinier était en garde à vue depuis lundi matin, alors que trois anciennes compagnes l’accusent de violences physiques ou psychologiques.",
-          "published": "2026-08-04T20:46:50+00:00"
-        },
-        {
-          "title": "En Espagne, deux migrants ont été secourus en mer après avoir dérivé pendant deux semaines en mer Méditerranée",
-          "link": "https://www.franceinfo.fr/monde/europe/migrants/en-espagne-deux-migrants-ont-ete-secourus-en-mer-apres-avoir-derive-pendant-deux-semaines-en-mer-mediterranee_8134979.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Ils affirment que 17 autres passagers de l'embarcation ont péri sur la route, en tentant de rejoindre les Baléares depuis l'Afrique du Nord.",
-          "published": "2026-08-04T20:42:41+00:00"
         }
       ]
     },
