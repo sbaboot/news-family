@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-05T16:41:28.777583+00:00",
+  "generated_at": "2026-08-05T19:27:25.767069+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "EN DIRECT, guerre en Ukraine : plus de 120 000 foyers privés d’électricité dans l’oblast de Dnipropetrovsk après des attaques russes",
+          "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-plus-de-120-000-foyers-prives-d-electricite-dans-l-oblast-de-dnipropetrovsk-apres-des-attaques-russes_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Plusieurs bombardements russes contre les installations électriques du principal opérateur énergétique ukrainien, DTEK, ont entraîné des coupures de courant dans 126 000 foyers, principalement dans les localités de…",
+          "published": "2026-08-05T18:53:10+00:00"
+        },
+        {
+          "title": "Crash d'un débris de fusée SpaceX sur la Lune : petit impact, grandes ambitions",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260805-crash-d%C3%A9bris-fus%C3%A9e-spacex-lune-petit-impact-grandes-ambitions",
+          "source": "France 24",
+          "summary": "L'étage supérieur de la fusée Falcon 9 de SpaceX lancée en janvier 2025 s'est écrasé sur la Lune mercredi. S'il n'y laisse qu'un cratère d'une trentaine de mètres, son analyse devrait nourrir la compréhension de notre…",
+          "published": "2026-08-05T18:35:47+00:00"
+        },
+        {
+          "title": "En Malaisie, la montée des discours de haine menace les réfugiés rohingyas",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260805-malaisie-mont%C3%A9e-discours-haine-menace-r%C3%A9fugi%C3%A9s-rohingyas",
+          "source": "France 24",
+          "summary": "La propagation de contenus hostiles sur les réseaux sociaux en Malaisie a aggravé les tensions envers la communauté de réfugiés rohingyas, entraînant l’expulsion d'un village de plus de 100 personnes et la fermeture…",
+          "published": "2026-08-05T17:54:05+00:00"
+        },
+        {
+          "title": "L’Iran dit avoir trouvé un accord avec Oman sur un nouveau tracé dans le détroit d’Ormuz",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/l-iran-dit-avoir-trouve-un-accord-avec-oman-sur-un-nouveau-trace-dans-le-detroit-d-ormuz_6739360_3211.html",
+          "source": "Le Monde",
+          "summary": "Le porte-parole de la diplomatie iranienne a annoncé que les coordonnées géographiques du tracé envisagé par les deux parties ont été approuvées. Les représentants d’Oman n’ont pas encore confirmé l’accord.",
+          "published": "2026-08-05T17:42:12+00:00"
+        },
+        {
+          "title": "Sébastien Lecornu réforme le statut des conseillers du commerce extérieur afin d’éviter toute interférence étrangère",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/05/sebastien-lecornu-reforme-le-statut-des-conseillers-du-commerce-exterieur-afin-d-eviter-toute-interference-etrangere_6739457_3234.html",
+          "source": "Le Monde",
+          "summary": "Un décret paru mercredi 5 août au « Journal officiel » porte de trois à cinq ans le mandat de ces chefs d’entreprise qui contribuent à la diplomatie économique. Un changement assorti d’un durcissement des conditions…",
+          "published": "2026-08-05T17:00:41+00:00"
+        },
+        {
+          "title": "En Chine, la médaille Fields de Wang Hong relance le débat sur les conditions d’émergence des grands chercheurs",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/en-chine-la-medaille-fields-de-wang-hong-relance-le-debat-sur-les-conditions-d-emergence-des-grands-chercheurs_6739456_3210.html",
+          "source": "Le Monde",
+          "summary": "Parce qu’elle a choisi de se former en France puis aux Etats-Unis juste après sa licence, la lauréate – devenue en quelques jours une figure populaire en Chine – illustre les limites d’un système chinois fondé sur la…",
+          "published": "2026-08-05T17:00:29+00:00"
+        },
+        {
+          "title": "« Gianni Infantino doit avoir le courage de démissionner ou de solliciter un vote de confiance », estime le Congolais Constant Omari, ancien membre du conseil de la FIFA",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/05/gianni-infantino-doit-avoir-le-courage-de-demissionner-ou-de-solliciter-un-vote-de-confiance-estime-le-congolais-constant-omari-ancien-membre-du-conseil-de-la-fifa_6739455_3242.html",
+          "source": "Le Monde",
+          "summary": "L’ex-président par intérim de la Confédération africaine de football estime, dans un entretien au « Monde », que les dirigeants africains du football « doivent ouvrir les yeux et les bons » sur le président de la FIFA,…",
+          "published": "2026-08-05T17:00:15+00:00"
+        },
+        {
+          "title": "Tour de France Femmes : Vollering remporte la 5e étape, Ferrand-Prévot perd sa chance d'un doublé",
+          "link": "https://www.france24.com/fr/sports/20260805-tour-de-france-femmes-vollering-remporte-cinqui%C3%A8me-%C3%A9tape-ferrand-pr%C3%A9vot-perd-chance-doubl%C3%A9",
+          "source": "France 24",
+          "summary": "La Néerlandaise ⁠Demi Vollering a remporté mercredi la cinquième étape du Tour de France Femmes à Belleville-en-Beaujolais, tandis que la Suissesse Marlen Reusser, deuxième, a réussi à conserver son maillot jaune.…",
+          "published": "2026-08-05T16:41:20+00:00"
+        },
         {
           "title": "FIFA L'avenir de Infantino se joue-t-il en Afrique ?",
           "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-fifa-l-avenir-de-infantino-se-joue-t-il-en-afrique",
@@ -17,62 +73,6 @@
           "source": "Le Monde",
           "summary": "« Le Canard enchaîné » a exhumé, mardi 4 août, un clip vidéo produit par l’ambassade de France à Brazzaville, publié en juin et supprimé au bout de quelques heures. Centrée sur l’épineuse question des visas, la vidéo…",
           "published": "2026-08-05T16:00:06+00:00"
-        },
-        {
-          "title": "Gaza : des funérailles collectives pour une centaine de Palestiniens",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-gaza-des-fun%C3%A9railles-collectives-pour-une-centaine-de-palestiniens-1",
-          "source": "France 24",
-          "summary": "À Gaza, les dépouilles de 112 Palestiniens retrouvées sous les décombres ont été inhumées mardi 4 août lors de funérailles collectives. Une foule nombreuse est venue assister à ces obsèques, parmi les plus importantes…",
-          "published": "2026-08-05T15:50:44+00:00"
-        },
-        {
-          "title": "RD Congo : un nouveau centre de traitement Ebola à Bunia dans l'épicentre de l'épidémie",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-rd-congo-un-nouveau-centre-de-traitement-ebola-%C3%A0-bunia-dans-l-%C3%A9picentre-de-l-%C3%A9pid%C3%A9mie",
-          "source": "France 24",
-          "summary": "🇨🇩 République démocratique du Congo, un nouveau centre de traitement contre Ebola à Bunia, dans le nord-est du pays. Il s'agit de la plus grande structure dédiée à la lutte contre le virus depuis le mois de mai. À ce…",
-          "published": "2026-08-05T15:40:42+00:00"
-        },
-        {
-          "title": "Des frappes israéliennes dans le sud du Liban font un mort et plusieurs blessés",
-          "link": "https://www.france24.com/fr/moyen-orient/20260805-sud-liban-frappes-isra%C3%A9liennes-meurtri%C3%A8res-n%C3%A9gociations-rome",
-          "source": "France 24",
-          "summary": "L'armée israélienne ⁠a annoncé ​mercredi mener des frappes dans ​le sud du Liban \"en réponse à une violation flagrante du cessez-le-feu par l'organisation terroriste Hezbollah\", et ce au moment où se tiennent de…",
-          "published": "2026-08-05T15:23:49+00:00"
-        },
-        {
-          "title": "Qui est ce chef présumé de la DZ Mafia interpellé en Algérie fin juillet ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-qui-est-ce-chef-pr%C3%A9sum%C3%A9-de-la-dz-mafia-interpell%C3%A9-en-alg%C3%A9rie-fin-juillet",
-          "source": "France 24",
-          "summary": "Un chef présumé de l'organisation criminelle DZ Mafia, Mehdi Laribi, a été interpellé en Algérie fin juillet sur exécution d'un mandat d'arrêt de la justice française dont il était \"une cible prioritaire\", selon le…",
-          "published": "2026-08-05T15:21:07+00:00"
-        },
-        {
-          "title": "Les investissements record de la tech américaine ne font plus rêver les marchés",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/05/les-investissements-record-de-la-tech-americaine-ne-font-plus-rever-les-marches_6739441_3234.html",
-          "source": "Le Monde",
-          "summary": "La capacité des géants américains de convertir ces dépenses en profits n’est pas acquise. Le coût de la dette et le prix des puces mémoires, qui a sextuplé en 2025, rendent l’équation d’autant plus complexe.",
-          "published": "2026-08-05T15:19:53+00:00"
-        },
-        {
-          "title": "En Afghanistan, quelque 500 civils auraient été tués dans les affrontements avec le Pakistan depuis dix mois",
-          "link": "https://www.lemonde.fr/international/article/2026/08/05/en-afghanistan-quelque-500-civils-auraient-ete-tues-dans-les-affrontements-avec-le-pakistan-depuis-dix-mois_6739440_3210.html",
-          "source": "Le Monde",
-          "summary": "Une mission des Nations unies a enquêté sur place pour établir un bilan des frappes pakistanaises depuis octobre 2025. Islamabad conteste les chiffres et affirme ne viser que des bases du Mouvement des talibans du…",
-          "published": "2026-08-05T15:00:05+00:00"
-        },
-        {
-          "title": "« Ma tête a été mise à prix par le fils du président » : Bobi Wine, le premier opposant en Ouganda, raconte sa fuite du pays",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/05/ma-tete-a-ete-mise-a-prix-par-le-fils-du-president-bobi-wine-le-premier-opposant-en-ouganda-raconte-sa-fuite-du-pays_6739438_3212.html",
-          "source": "Le Monde",
-          "summary": "Alors que les autorités ougandaises s’apprêtaient à l’arrêter, le chanteur de raggamuffin a trouvé refuge à Washington, en mars. Pour « Le Monde », il revient sur sa cavale de deux mois et sur l’état de l’opposition…",
-          "published": "2026-08-05T15:00:05+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : après des bombardements russes meurtriers, Zelensky appelle ses alliés à accélérer la livraison de systèmes de défense aérienne ; des évacuations de familles ordonnées à Kramatorsk",
-          "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-apres-des-bombardements-russes-meurtriers-zelensky-appelle-ses-allies-a-accelerer-la-livraison-de-systemes-de-defense-aerienne-des-evacuations-de-familles-ordonnees-a-kramatorsk_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Alors que l’armée ukrainienne n’a pu abattre aucun des missiles russes lancés contre Kiev et sa région, au moins 17 personnes sont mortes dans la nuit de mardi à mercredi. Selon le président ukrainien, des intercepteurs…",
-          "published": "2026-08-05T14:34:41+00:00"
         }
       ]
     },
@@ -83,6 +83,34 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Élections 2026 | La candidature de Michel Leblanc chez les libéraux a été confirmée",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-05/elections-2026/la-candidature-de-michel-leblanc-chez-les-liberaux-a-ete-confirmee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La candidature de l’ex-président et chef de la direction de la Chambre de commerce du Montréal métropolitain (CCMM), Michel Leblanc, au Parti libéral du Québec (PLQ) a été officialisée mercredi après-midi en vue des…",
+          "published": "2026-08-05T19:01:52+00:00"
+        },
+        {
+          "title": "Omnium Banque Nationale | Déjà la fin pour Tsitsipas",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-05/omnium-banque-nationale/deja-la-fin-pour-tsitsipas.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La semaine de Stefanos Tsitsipas est déjà terminée. Forcé de passer par les qualifications et victorieux au premier tour, le Grec a baissé pavillon au deuxième tour, mercredi, contre Joao Fonseca.",
+          "published": "2026-08-05T17:28:31+00:00"
+        },
+        {
+          "title": "L’armée israélienne mène des frappes dans le sud du Liban",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/999941/armee-israelienne-mene-frappes-sud-liban",
+          "source": "Le Devoir",
+          "summary": "Ces bombardements surviennent alors que des pourparlers libano-israéliens se déroulent sous parrainage américain à Rome.",
+          "published": "2026-08-05T17:06:40+00:00"
+        },
+        {
+          "title": "Notre sélection polar d’août",
+          "link": "https://www.ledevoir.com/lire/999908/notre-selection-polar-aout",
+          "source": "Le Devoir",
+          "summary": "Les suggestions de Sonia Sarfati et de Michel Bélair.",
+          "published": "2026-08-05T16:26:00+00:00"
+        },
         {
           "title": "Immobilier résidentiel | Le marché de Québec inquiète les experts",
           "link": "https://www.lapresse.ca/affaires/marche-immobilier/2026-08-05/immobilier-residentiel/le-marche-de-quebec-inquiete-les-experts.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
@@ -116,7 +144,7 @@
           "link": "https://www.ledevoir.com/monde/etats-unis/999869/progressiste-abdul-el-sayed-sera-candidat-democrate-michigan-siege-senat",
           "source": "Le Devoir",
           "summary": "Cette victoire au terme d’une course très serrée confirme l’élan du mouvement progressiste au sein du Parti démocrate.",
-          "published": "2026-08-05T15:16:55+00:00"
+          "published": "2026-08-05T15:16:00+00:00"
         },
         {
           "title": "The Shards | Meurtres chez les preppies",
@@ -124,34 +152,6 @@
           "source": "La Presse",
           "summary": "La rencontre entre le très (et trop) prolifique réalisateur Ryan Murphy et l’écrivain Bret Easton Ellis était inscrite dans le ciel, à se demander pourquoi elle ne s’est pas produite plus tôt. Le créateur de Glee,…",
           "published": "2026-08-05T15:00:00+00:00"
-        },
-        {
-          "title": "La crise de santé mentale doit être au cœur de la campagne électorale, disent des psychiatres",
-          "link": "https://www.ledevoir.com/actualites/sante/999857/crise-sante-mentale-doit-etre-coeur-campagne-electorale-disent-psychiatres",
-          "source": "Le Devoir",
-          "summary": "Ils réclament aux partis des engagements concrets, dont la nomination d’un ministre responsable de ce dossier.",
-          "published": "2026-08-05T14:52:00+00:00"
-        },
-        {
-          "title": "Un véhicule percute un gym à Laval | Deux jeunes meurent en fuyant la police",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-05/un-vehicule-percute-un-gym-a-laval/deux-jeunes-meurent-en-fuyant-la-police.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Deux jeunes ont perdu la vie alors que le véhicule dans lequel ils prenaient place a conclu sa course dans la façade d’un centre de conditionnement physique de Laval, dans la nuit de mardi à mercredi. L’un des trois…",
-          "published": "2026-08-05T14:39:23+00:00"
-        },
-        {
-          "title": "L’écrivain français Didier Decoin, «raconteur d’histoires» et prix Goncourt, est décédé",
-          "link": "https://www.ledevoir.com/lire/999851/mort-ecrivain-francais-didier-decoin",
-          "source": "Le Devoir",
-          "summary": "Passionné de faits divers et d’Asie, il avait publié son dernier roman en avril.",
-          "published": "2026-08-05T14:38:00+00:00"
-        },
-        {
-          "title": "Un froid diplomatique s’installe entre l’Argentine et le Brésil",
-          "link": "https://www.ledevoir.com/monde/ameriques/999848/froid-diplomatique-installe-entre-argentine-bresil",
-          "source": "Le Devoir",
-          "summary": "Brasilia somme l’ambassadeur argentin de quitter le pays après les insultes répétées du président Milei envers Lula.",
-          "published": "2026-08-05T14:09:00+00:00"
         }
       ]
     },
@@ -159,80 +159,108 @@
       "label": "France",
       "items": [
         {
-          "title": "À Nice, les aveux du père soupçonné d’avoir tué son fils éclairent les premières circonstances du drame",
-          "link": "https://www.lefigaro.fr/nice/a-nice-les-aveux-du-pere-soupconne-d-avoir-tue-son-fils-eclairent-les-premieres-circonstances-du-drame-20260805",
+          "title": "Seine-et-Marne : l’analyse d’ossements découverts en juin près de Disneyland Paris confirme la mort d’une femme disparue en 2024",
+          "link": "https://www.lefigaro.fr/actualite-france/seine-et-marne-l-analyse-d-ossements-decouverts-en-juin-pres-de-disneyland-paris-confirme-la-mort-d-une-femme-disparue-en-2024-20260805",
           "source": "Le Figaro",
-          "summary": "Placé en garde à vue, l’individu aurait reconnu avoir étouffé puis étranglé l’adolescent de 17 ans sur fond de rupture conjugale, a précisé le parquet de Nice dans un communiqué.",
-          "published": "2026-08-05T16:38:42+00:00"
+          "summary": "Les raisons du décès n’ont pas pu être clairement établies au terme de l’expertise. «Aucun élément n’amène à envisager que ce décès soit consécutif à l’intervention d’un tiers» a précisé le parquet de Meaux au Figaro.",
+          "published": "2026-08-05T19:22:13+00:00"
         },
         {
-          "title": "«Le qualificatif de héros sert à masquer le délitement de la sécurité civile» : les syndicats de pompiers réclament un investissement massif de l’État",
-          "link": "https://www.lefigaro.fr/actualite-france/le-qualificatif-de-heros-sert-a-masquer-le-delitement-de-la-securite-civile-les-syndicats-de-pompiers-reclament-un-investissement-massif-de-l-etat-20260805",
-          "source": "Le Figaro",
-          "summary": "Dans un communiqué relayé le 3 août par Anthony Chauveau, vice-président et porte-parole UNSA Sapeurs-pompiers, les syndicats dénoncent l’emploi d’adjectifs glorifiant l’action des pompiers, à défaut d’octroyer des…",
-          "published": "2026-08-05T16:38:28+00:00"
+          "title": "Incendies : derrière l’annonce officielle des « 402 interpellations », des profils variés et des réalités contrastées",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/05/incendies-derriere-l-annonce-officielle-des-402-interpellations-des-profils-varies-et-des-realites-contrastees_6739463_3224.html",
+          "source": "Le Monde",
+          "summary": "Si le détail des faits reprochés aux personnes interpellées n’a pas été communiqué, nombre d’entre elles ont été traduites en justice dans des délais qui n’ont pas toujours permis un examen circonstancié de leur dossier.",
+          "published": "2026-08-05T19:15:04+00:00"
         },
         {
-          "title": "Les agriculteurs à la merci du réchauffement climatique : «C’est extrême d’avoir quatre mois d’eau, puis quatre mois sans aucune goutte»",
-          "link": "https://www.liberation.fr/environnement/agriculture/les-agriculteurs-a-la-merci-du-rechauffement-climatique-cest-extreme-davoir-quatre-mois-deau-puis-quatre-mois-sans-aucune-goutte-20260805_XKCUV7Q4CZB33BKQYZZ4YU73A4/",
-          "source": "Liberation",
-          "summary": "Dans l’ouest de la France, les cultivateurs subissent le réchauffement climatique : à Savenay, certains n’ont pas vu une goutte d’eau depuis le printemps alors qu’ils étaient inondés cet hiver.",
-          "published": "2026-08-05T16:35:19+00:00"
-        },
-        {
-          "title": "Guerre au Moyen-Orient : un village dans le sud du Liban sous ordre d’évacuation par l'armée israélienne",
-          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-un-village-dans-le-sud-du-liban-sous-ordre-d-evacuation-par-l-armee-israelienne-20260805",
-          "source": "Le Figaro",
-          "summary": "L’arme israélienne a dit avoir «commencé à mener des frappes ciblées sur le sud du Liban», «en réponse à une violation flagrante du cessez-le-feu par l’organisation terroriste Hezbollah».",
-          "published": "2026-08-05T16:34:32+00:00"
-        },
-        {
-          "title": "Un père de famille avoue le meurtre de son fils de 17 ans à Nice et invoque \"un coup de folie\"",
-          "link": "https://www.franceinfo.fr/faits-divers/un-pere-de-famille-avoue-le-meurtre-de-son-fils-de-17-ans-a-nice-et-invoque-un-coup-de-folie_8136239.html#xtor=RSS-3-[lestitres]",
+          "title": "Présidentielle 2027 : Gabriel Attal à son tour visé par \"une ingérence en provenance de Russie\"",
+          "link": "https://www.franceinfo.fr/politique/gabriel-attal/presidentielle-2027-gabriel-attal-a-son-tour-vise-par-une-ingerence-en-provenance-de-russie_8136104.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Cet homme a reconnu les faits lors de sa garde à vue, expliquant avoir étouffé l'adolescent avant de tenter de mettre fin à ses jours.",
-          "published": "2026-08-05T16:33:15+00:00"
-        },
-        {
-          "title": "Londres : quatre hommes poignardés à Covent Garden, une femme arrêtée par la police",
-          "link": "https://www.liberation.fr/international/europe/londres-quatre-personnes-poignardees-a-covent-garden-une-femme-arretee-par-la-police-20260805_K2G4QFNSVVH25DS6UZRZKD7P2A/",
-          "source": "Liberation",
-          "summary": "La suspecte, âgée de 47 ans, a été interpellée après que plusieurs personnes ont été poignardées à l’arme blanche ce mercredi 5 août à Covent Garden, dans le centre de la capitale anglaise.",
-          "published": "2026-08-05T16:33:10+00:00"
+          "summary": "Après Edouard Philippe et Raphaël Glucksmann, c'est au tour de Gabriel Attal d'être victime d'une campagne de désinformation prorusse sur les réseaux sociaux.",
+          "published": "2026-08-05T19:11:33+00:00"
         },
         {
           "title": "Crise à la Fifa : plus isolé que jamais, Gianni Infantino au bord du vide",
           "link": "https://www.lefigaro.fr/sports/football/crise-a-la-fifa-plus-isole-que-jamais-gianni-infantino-au-bord-du-vide-20260805",
           "source": "Le Figaro",
           "summary": "Lâché par Arsène Wenger mardi, le dirigeant tente de rameuter ses derniers soutiens. L’hypothèse d’une démission demeure en toile de fond.",
-          "published": "2026-08-05T16:30:00+00:00"
+          "published": "2026-08-05T19:11:32+00:00"
         },
         {
-          "title": "Guerre au Moyen-Orient : l'Iran dit avoir trouvé un accord avec Oman sur une nouvelle voie de navigation dans le détroit d’Ormuz",
-          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-iran-dit-avoir-trouve-un-accord-avec-oman-sur-une-nouvelle-voie-de-navigation-dans-le-detroit-d-ormuz-20260805",
-          "source": "Le Figaro",
-          "summary": "«Les coordonnées géographiques du tracé envisagé par les deux parties ont été approuvées», a indiqué Esmaïl Baghaï, le porte-parole de la diplomatie iranienne cité par l’agence de presse officielle Irna.",
-          "published": "2026-08-05T16:25:43+00:00"
-        },
-        {
-          "title": "Demi Vollering impressionne et remporte la 5e étape du Tour de France femmes, Pauline Ferrand-Prévôt dit presque adieu à son rêve d'un second sacre",
-          "link": "https://www.franceinfo.fr/tour-de-france/femmes/demi-vollering-remporte-la-5e-etape-du-tour-de-france-femmes-en-reglant-le-groupe-des-favorites-pauline-ferrand-prevot-dit-adieu-a-son-reve-d-un-second-sacre_8136182.html#xtor=RSS-3-[lestitres]",
+          "title": "La préfecture de Gironde débloque 300 000 euros pour lancer en urgence les premiers travaux après le passage du mégafeu",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/la-prefecture-de-gironde-debloque-300-000-euros-pour-lancer-en-urgence-les-premiers-travaux-apres-le-passage-du-megafeu_8136347.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "La Néerlandaise a réglé au sprint ses rivales Marlen Ruesser (Movistar) et Kasia Niewiadoma (Canyon-Sram), mercredi, après avoir lâché la tenante du titre française au forceps.",
-          "published": "2026-08-05T16:25:42+00:00"
+          "summary": "Cette première aide financière d'urgence doit permettre de lancer les premiers travaux urgents dans les secteurs touchés par le gigantesque incendie désormais maîtrisé.",
+          "published": "2026-08-05T19:05:30+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies et chaleurs : dix départements du sud-est maintenus en vigilance orange canicule jeudi",
-          "link": "https://www.liberation.fr/environnement/en-direct-incendies-apres-une-nuit-calme-les-pompiers-de-la-drome-sattendent-a-une-journee-difficile-20260805_WJYUHXJDYNC2NIOHOPWQAEN5DQ/",
+          "title": "Le Royaume-Uni redéfinit l’accès des personnes transgenres aux espaces non mixtes, faisant craindre des conséquences «réellement catastrophiques»",
+          "link": "https://www.liberation.fr/international/europe/le-royaume-uni-redefinit-lacces-des-personnes-transgenres-aux-espaces-non-mixtes-faisant-craindre-des-consequences-reellement-catastrophiques-20260805_ONL2FZTQANAVLE66PX4TPZQZXE/",
           "source": "Liberation",
-          "summary": "Dans la Drôme, la surface brûlée par le feu qui a débuté lundi a été revue à la baisse, à environ 240 hectares. Mais «des points chauds subsistent, notamment sur le flanc gauche», a précisé le lieutenant-colonel Alain…",
-          "published": "2026-08-05T16:24:36+00:00"
+          "summary": "Depuis ce mercredi, toilettes, vestiaires et unités hospitalières doivent désormais être utilisés selon le sexe de naissance. Les militants redoutent un recul de l’accès aux soins et à l’espace public.",
+          "published": "2026-08-05T19:05:11+00:00"
+        },
+        {
+          "title": "Les Houthis disent avoir attaqué un nouveau pétrolier en mer Rouge",
+          "link": "https://www.lefigaro.fr/flash-actu/les-houthis-disent-avoir-attaque-un-nouveau-petrolier-en-mer-rouge-20260805",
+          "source": "Le Figaro",
+          "summary": "Le porte-parole militaire des Houthis, Yahya Saree, a précisé que le navire saoudien «Daisy» avait été visé par un missile balistique dans le golfe d’Aden.",
+          "published": "2026-08-05T19:04:57+00:00"
+        },
+        {
+          "title": "Incendies aux États-Unis: un suspect arrêté, sidération et colère chez les habitants de Spokane",
+          "link": "https://www.lefigaro.fr/flash-actu/incendies-aux-etats-unis-un-suspect-arrete-sideration-et-colere-chez-les-habitants-de-spokane-20260805",
+          "source": "Le Figaro",
+          "summary": "Un Américain de 37 ans, déjà condamné après avoir tué son père, a été interpellé en possession d’allumettes étanches et d’un briquet à proximité d’un départ de feu. Il a été placé en détention provisoire.",
+          "published": "2026-08-05T19:01:09+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : plus de 120 000 foyers privés d’électricité dans l’oblast de Dnipropetrovsk après des attaques russes",
+          "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-plus-de-120-000-foyers-prives-d-electricite-dans-l-oblast-de-dnipropetrovsk-apres-des-attaques-russes_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Plusieurs bombardements russes contre les installations électriques du principal opérateur énergétique ukrainien, DTEK, ont entraîné des coupures de courant dans 126 000 foyers, principalement dans les localités de…",
+          "published": "2026-08-05T18:53:10+00:00"
+        },
+        {
+          "title": "Lacoste visé par un redressement fiscal de près de 10 millions d’euros, selon le média «L’Informé»",
+          "link": "https://www.liberation.fr/societe/police-justice/lacoste-vise-par-un-redressement-fiscal-de-pres-de-10-millions-deuros-selon-le-media-linforme-20260805_FR43TD3EKVC73LMAWFVNZUNURE/",
+          "source": "Liberation",
+          "summary": "Les enquêteurs de Bercy ont estimé que la holding était «hors des clous», selon un article du média d’investigation publié ce mercredi 5 août.",
+          "published": "2026-08-05T18:52:18+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Peugeot Cycles, Solex, Gitane : « 2026 est une année charnière » selon le patron de Rebirth",
+          "link": "https://www.frandroid.com/marques/peugeot/3202267_peugeot-cycles-solex-gitane-2026-est-une-annee-charniere-selon-le-patron-de-rebirth",
+          "source": "Frandroid",
+          "summary": "Le groupe Rebirth a racheté beaucoup de marques vélos ces trois dernières années. Son président, Grégory Trebaol, nous a détaillé ce qu'il compte faire de ce portefeuille français lors d'une entrevue de 2h : une gamme…",
+          "published": "2026-08-05T18:02:00+00:00"
+        },
+        {
+          "title": "Au fait, c’est quoi la différence entre Gemini et Gemini Intelligence ?",
+          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3204539_au-fait-cest-quoi-la-difference-entre-gemini-et-gemini-intelligence",
+          "source": "Frandroid",
+          "summary": "Gemini et Gemini Intelligence : Google a donné presque le même nom à deux choses évidemment reliées, mais avec des différences à connaître. Voici comment les distinguer une bonne fois, et pourquoi c'est censé…",
+          "published": "2026-08-05T17:32:00+00:00"
+        },
+        {
+          "title": "Protéger son Mac sans payer pour du superflu : la formule Essentiel d'Intego ONE à 2,03€/mois",
+          "link": "https://www.clubic.com/bons-plans-624202-proteger-son-mac-sans-payer-pour-du-superflu-la-formule-essentiel-d-intego-one-a-2-03-mois.html",
+          "source": "Clubic",
+          "summary": "Un Mac protégé par macOS seul reste vulnérable face à certaines menaces, et de plus en plus d’utilisateurs cherchent une solution dédiée sans payer pour des fonctions qu’ils n’utiliseront jamais. Intego ONE Essentiel,…",
+          "published": "2026-08-05T16:45:00+00:00"
+        },
+        {
+          "title": "La 5G en option, l’erreur que des milliers d’abonnés continuent de payer sans le savoir",
+          "link": "https://www.frandroid.com/bons-plans/3204211_la-5g-en-option-lerreur-que-des-milliers-dabonnes-continuent-de-payer-sans-le-savoir",
+          "source": "Frandroid",
+          "summary": "À 9,99 euros par mois sur le réseau de SFR, le forfait de YouPrice aligne 200 Go en 5G, quand un concurrent direct au même tarif se limite à 60 Go en 4G et facture la 5G en supplément. Un face-à-face qui pose une…",
+          "published": "2026-08-05T16:42:00+00:00"
+        },
         {
           "title": "Test de la Steam Machine : une adorable petite console plombée par son prix",
           "link": "https://www.frandroid.com/marques/valve/3198051_test-de-la-steam-machine-une-adorable-petite-console-plombee-par-son-prix",
@@ -288,34 +316,6 @@
           "source": "Next",
           "summary": "Un «&#160;nouveau&#160;» malware s’est propagé dans des centaines de paquets sur npm, dont plusieurs très populaires. Il s’agit une nouvelle fois d’une attaque contre la chaine d’approvisionnement ayant réussi à…",
           "published": "2026-08-05T15:40:38+00:00"
-        },
-        {
-          "title": "Amazon casse le prix de ce duo de trackers Bluetooth compatibles iOS et Android grâce à 34 % de réduction",
-          "link": "https://www.frandroid.com/bons-plans/3204371_amazon-casse-le-prix-de-ce-duo-de-trackers-bluetooth-compatibles-ios-et-android-grace-a-34-de-reduction",
-          "source": "Frandroid",
-          "summary": "Sur Amazon, on trouve un pack regroupant deux trackers Bluetooth : le Tile Mate, pratique pour les clés et le Tile Slim au format carte de crédit en promotion pour 32,99 euros au lieu de 50,08 euros sur Amazon.",
-          "published": "2026-08-05T15:34:18+00:00"
-        },
-        {
-          "title": "Comment un cheat Roblox « indétectable » transforme les ordinateurs des joueurs naïfs en mouchards",
-          "link": "https://www.numerama.com/cyberguerre/2306881-comment-un-cheat-roblox-indetectable-transforme-les-ordinateurs-des-joueurs-naifs-en-mouchards.html",
-          "source": "Numerama",
-          "summary": "Des chercheurs de Bitdefender ont mis au jour une campagne de malware distribuée via Discord et des forums de jeu, déguisée en version « indétectable » du script executor Xeno pour Roblox.",
-          "published": "2026-08-05T15:31:00+00:00"
-        },
-        {
-          "title": "Xbox Game Pass en 2026 : Essential, Premium ou Ultimate ? Tout ce qu’il faut savoir",
-          "link": "https://www.frandroid.com/marques/microsoft/672331_xbox-game-pass-ultimate-dossier-explications",
-          "source": "Frandroid",
-          "summary": "Pour tout savoir sur le Xbox Game Pass en 2026, on vous propose de répondre à toutes les questions que vous pourriez avoir sur le service de jeux par abonnement de Microsoft en France et son service Xbox Cloud Gaming.",
-          "published": "2026-08-05T15:30:02+00:00"
-        },
-        {
-          "title": "Comment réduire le stress au volant lors des longs trajets ?",
-          "link": "https://www.clubic.com/bons-plans-622981-comment-reduire-le-stress-au-volant-lors-des-longs-trajets.html",
-          "source": "Clubic",
-          "summary": "Les économies sont au rendez-vous cet été avec 12 mois offerts sur les frais de gestion de votre Pass Télépéage Classic. Commandez-le dès à présent pour en bénéficier durant vos trajets.",
-          "published": "2026-08-05T15:30:00+00:00"
         }
       ]
     }
@@ -341,13 +341,6 @@
           "source": "Slate.fr",
           "summary": "Le 8 juillet 2023, un petit garçon d'à peine 3 ans disparaissait dans une vallée des Alpes-de-Haute-Provence. Alors que des fragments de son corps ont été retrouvés et qu'un épais mystère entoure les circonstances du…",
           "published": "2026-08-04T04:55:05+00:00"
-        },
-        {
-          "title": "Après vingt-sept ans de recherche, ces médicaments vont révolutionner le traitement de nombreuses maladies",
-          "link": "https://www.slate.fr/sciences/espoir-espoir-medecine-medicament-traitement-revolution-medicale-proteine-cellule-pathogene-maladie-cancer-innovation-recherche",
-          "source": "Slate.fr",
-          "summary": "Les médicaments dits PROTAC ne se contentent plus de bloquer les protéines responsables de certaines maladies: ils les font tout simplement disparaître.",
-          "published": "2026-08-02T07:55:02+00:00"
         }
       ]
     },
