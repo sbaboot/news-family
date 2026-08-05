@@ -1,15 +1,29 @@
 {
-  "generated_at": "2026-08-05T11:20:04.826583+00:00",
+  "generated_at": "2026-08-05T14:05:57.822081+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Ukraine : Kiev sous les missiles russes, les défenses aériennes submergées",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-ukraine-kiev-sous-les-missiles-russes-les-d%C3%A9fenses-a%C3%A9riennes-submerg%C3%A9es",
-          "source": "France 24",
-          "summary": "Au moins 17 personnes ont été tuées dans une nouvelle attaque russe contre Kiev et sa région. Malgré l'interception de nombreux drones, l'Ukraine affirme n'avoir abattu aucun des missiles balistiques tirés par la…",
-          "published": "2026-08-05T10:54:38+00:00"
+          "title": "Les incertitudes politiques et géopolitiques croissantes pèsent sur l’économie européenne",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/05/les-incertitudes-politiques-et-geopolitiques-croissantes-pesent-sur-l-economie-europeenne_6739431_3234.html",
+          "source": "Le Monde",
+          "summary": "Une étude de la Banque centrale européenne suggère que la zone euro aurait perdu 0,4 point de croissance entre le premier trimestre 2025 et le premier trimestre 2026, en raison des doutes liés à l’instabilité…",
+          "published": "2026-08-05T13:22:20+00:00"
+        },
+        {
+          "title": "Les détroits dans le monde: Gibraltar, un passage stratégique entre Méditerranée et Atlantique",
+          "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260805-les-d%C3%A9troits-dans-le-monde-gibraltar-un-passage-strat%C3%A9gique-entre-m%C3%A9diterran%C3%A9e-et-atlantique",
+          "source": "RFI",
+          "summary": "Le détroit de Gibraltar, situé entre l’Espagne et le Maroc, est un point de séparation entre le continent européen et africain, c’est aussi un point de circulation important, seul passage maritime possible entre la…",
+          "published": "2026-08-05T12:56:28+00:00"
+        },
+        {
+          "title": "Le Japon sort de la déflation, mais son économie comme sa monnaie restent fragiles",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/05/le-japon-sort-de-la-deflation-mais-son-economie-comme-sa-monnaie-restent-fragiles_6739422_3234.html",
+          "source": "Le Monde",
+          "summary": "Si le pays a enfin rompu avec la spirale déflationniste qui lestait son activité, la hausse des prix est surtout liée à des chocs extérieurs et à la faiblesse du yen. Les salaires, eux, n’augmentent pas suffisamment…",
+          "published": "2026-08-05T12:00:18+00:00"
         },
         {
           "title": "La Chine annonce des restrictions sur les exportations de pièces de drones vers les Etats-Unis, en représailles aux sanctions commerciales américaines",
@@ -19,38 +33,10 @@
           "published": "2026-08-05T10:35:47+00:00"
         },
         {
-          "title": "Un étage d'une fusée SpaceX s'est écrasé sur la Lune : quelle opportunité scientifique ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-un-%C3%A9tage-d-une-fus%C3%A9e-spacex-s-est-%C3%A9cras%C3%A9-sur-la-lune-quelle-opportunit%C3%A9-scientifique",
-          "source": "France 24",
-          "summary": "L’étage supérieur de la fusée Falcon-9 de SpaceX s’est écrasé sur la Lune ce mercredi matin. Conséquence d’un changement de trajectoire inattendu, la collision va laisser un cratère à la surface lunaire. L’impact est…",
-          "published": "2026-08-05T10:34:00+00:00"
-        },
-        {
-          "title": "Primaire démocrate dans le Michigan : qui sera élu entre Haley Stevens et Abdul El‑Sayed ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-primaire-d%C3%A9mocrate-dans-le-michigan-qui-sera-%C3%A9lu-entre-haley-stevens-et-abdul-el%E2%80%91sayed",
-          "source": "France 24",
-          "summary": "Les démocrates du Michigan ont choisi mardi leur candidat au Sénat entre la modérée Haley Stevens, soutenue par l’establishment, et le progressiste Abdul El‑Sayed, appuyé par Bernie Sanders. Les résultats se font encore…",
-          "published": "2026-08-05T10:31:34+00:00"
-        },
-        {
-          "title": "Le géant russe d'e-commerce, Wildberries, accusé par Kiev d'approvisionner l'armée russe",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-le-g%C3%A9ant-russe-d-e-commerce-wildberries-accus%C3%A9-par-kiev-d-approvisionner-l-arm%C3%A9e-russe",
-          "source": "France 24",
-          "summary": "Quinze installations logistiques appartenant à Wildberries ont été attaquées en Russie au cours des dix-huit derniers jours, a affirmé le commandant ukrainien Robert Brovdi. Plusieurs attaques d’entrepôts ont eu lieu…",
-          "published": "2026-08-05T10:27:56+00:00"
-        },
-        {
-          "title": "CAC 40 : pourquoi la Bourse de Paris bat des records malgré les crises",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260805-cac-40-pourquoi-la-bourse-de-paris-bat-des-records-malgr%C3%A9-les-crises",
-          "source": "France 24",
-          "summary": "Le CAC 40 a signé un nouveau record historique en clôture mardi, cinq mois après son précédent sommet. Une performance qui peut surprendre alors que la dette française atteint des niveaux record, que les tensions…",
-          "published": "2026-08-05T10:16:15+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : au moins 17 morts dans des attaques nocturnes sur Kiev et sa région ; Ursula von der Leyen dénonce les « atrocités » russes",
+          "title": "EN DIRECT, guerre en Ukraine : après les attaques nocturnes contre Kiev et sa région, Volodymyr Zelensky regrette que les livraisons de systèmes de défense antibalistiques aient « considérablement diminué »",
           "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-au-moins-17-morts-dans-des-attaques-nocturnes-sur-kiev-et-sa-region-ursula-von-der-leyen-denonce-les-atrocites-russes_6737250_3210.html",
           "source": "Le Monde",
-          "summary": "Volodymyr Zelensky, qui estime que des intercepteurs capables de neutraliser les missiles balistiques « auraient pu sauver des vies », appelle ses alliés à accélérer leurs livraisons de systèmes de défense aérienne. La…",
+          "summary": "Alors que l’armée ukrainienne n’a pu abattre aucun des missiles russes lancés contre Kiev et sa région, au moins 17 personnes sont mortes dans la nuit de mardi à mercredi. Selon le président ukrainien, des intercepteurs…",
           "published": "2026-08-05T10:14:28+00:00"
         },
         {
@@ -61,18 +47,32 @@
           "published": "2026-08-05T10:13:13+00:00"
         },
         {
-          "title": "En Libye, indignation après la vidéo d'une femme flagellée publiquement pour adultère",
-          "link": "https://www.france24.com/fr/afrique/20260805-libye-indignation-apres-video-femme-flagell%C3%A9e-publiquement-adult%C3%A8re",
-          "source": "France 24",
-          "summary": "Une rare vidéo prise ce 21 juillet à Sebha, en Libye, montre une femme accusée d'adultère condamnée à 100 coups de fouet. Partagée sur les réseaux sociaux, elle suscite l'indignation pour différentes raisons : certains…",
-          "published": "2026-08-05T10:03:19+00:00"
-        },
-        {
           "title": "Guatemala : les images de l’éruption du volcan Fuego",
           "link": "https://www.lemonde.fr/international/video/2026/08/05/guatemala-les-images-de-l-eruption-du-volcan-fuego_6739412_3210.html",
           "source": "Le Monde",
           "summary": "Considéré comme le volcan le plus actif d’Amérique centrale, le Fuego est entré en phase éruptive lundi matin. Quelque 29 000 personnes sont directement exposées aux retombées de cendres, ce qui rend l’évacuation de la…",
           "published": "2026-08-05T10:00:12+00:00"
+        },
+        {
+          "title": "En Allemagne, le drone découvert à l’aéroport de Leipzig était équipé d’un « engin explosif », selon les enquêteurs",
+          "link": "https://www.lemonde.fr/international/article/2026/08/05/en-allemagne-le-trafic-a-l-aeroport-de-leipzig-temporairement-interrompu-en-raison-d-un-objet-volant-non-identifie_6739411_3210.html",
+          "source": "Le Monde",
+          "summary": "Le trafic aérien à l’aéroport de Leipzig-Halle, dans l’est de l’Allemagne, a été temporairement interrompu mardi dans la soirée alors qu’un avion qui n’a pu atterrir est « apparemment entré en collision » avec un objet…",
+          "published": "2026-08-05T09:37:34+00:00"
+        },
+        {
+          "title": "Le soutien des Etats-Unis aux devises des « pays amis », une manière de s’assurer leur subordination",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/05/le-soutien-des-etats-unis-aux-devises-des-pays-amis-une-maniere-de-s-assurer-leur-subordination_6739408_3234.html",
+          "source": "Le Monde",
+          "summary": "Le Trésor américain est intervenu, en coordination avec le gouvernement japonais, pour soutenir le yen. Il avait fait de même avec l’Argentine, en octobre 2025, avant l’élection de Javier Milei.",
+          "published": "2026-08-05T09:00:02+00:00"
+        },
+        {
+          "title": "« Cotton Queen » : au Soudan, le cri de résistance de deux générations de femmes",
+          "link": "https://www.lemonde.fr/culture/article/2026/08/05/cotton-queen-au-soudan-le-cri-de-resistance-de-deux-generations-de-femmes_6739404_3246.html",
+          "source": "Le Monde",
+          "summary": "Le film, qui mêle accents poétiques et réalités documentaires, voit la propriétaire d’un champ de coton et sa petite-fille confrontées à l’arrivée d’un homme d’affaires puissant.",
+          "published": "2026-08-05T08:00:00+00:00"
         }
       ]
     },
@@ -84,6 +84,41 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Crise en santé mentale | Les psychiatres interpellent les partis politiques",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-08-05/crise-en-sante-mentale/les-psychiatres-interpellent-les-partis-politiques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "À l’approche de la campagne électorale, l’Association des médecins psychiatres du Québec et la Mission Old Brewery demandent aux partis politiques de faire de la santé mentale une priorité dans leur plateforme. Ils…",
+          "published": "2026-08-05T14:00:00+00:00"
+        },
+        {
+          "title": "Israël n’a pas accepté le plan pour Gaza annoncé par Trump, dit Nétanyahou",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/999836/israel-pas-accepte-plan-gaza-annonce-trump-dit-netanyahou",
+          "source": "Le Devoir",
+          "summary": "Les États-Unis «nous ont envoyé un projet, que nous n’avons pas accepté: ce n’est pas notre projet», a-t-il commenté.",
+          "published": "2026-08-05T13:25:43+00:00"
+        },
+        {
+          "title": "Difficultés financières | Marché Goodfood demande la protection contre ses créanciers",
+          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-05/difficultes-financieres/marche-goodfood-demande-la-protection-contre-ses-creanciers.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Marché Goodfood se protège de ses créanciers, dans l’espoir de trouver un acquéreur ou de nouveaux capitaux.",
+          "published": "2026-08-05T13:16:38+00:00"
+        },
+        {
+          "title": "Marché Goodfood veut se placer à l’abri de ses créanciers",
+          "link": "https://www.ledevoir.com/economie/999824/marche-goodfood-veut-placer-abri-creanciers",
+          "source": "Le Devoir",
+          "summary": "L’entreprise montréalaise de repas prêts-à-cuisiner connaît des ennuis financiers importants depuis plusieurs mois.",
+          "published": "2026-08-05T12:33:00+00:00"
+        },
+        {
+          "title": "De jeunes entreprises du Québec fermeraient par centaines à cause de la rareté de travailleurs",
+          "link": "https://www.ledevoir.com/economie/999815/jeunes-entreprises-quebec-fermeraient-centaines-cause-rarete-travailleurs",
+          "source": "Le Devoir",
+          "summary": "Le Regroupement des jeunes chambres de commerce du Québec tire la sonnette d’alarme.",
+          "published": "2026-08-05T11:53:58+00:00"
+        },
+        {
           "title": "Des frappes russes font au moins 17 morts dans la région de Kiev",
           "link": "https://www.ledevoir.com/monde/europe/999812/frappes-russes-font-morts-kiev-ukraine-missiles-drones-intercepteurs",
           "source": "Le Devoir",
@@ -91,11 +126,18 @@
           "published": "2026-08-05T10:35:39+00:00"
         },
         {
-          "title": "Hausse de la violence chez les Cris | « Notre peuple ne fait pas ça »",
-          "link": "https://www.lapresse.ca/actualites/2026-08-05/hausse-de-la-violence-chez-les-cris/notre-peuple-ne-fait-pas-ca.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Des droits de douane de 25 % qui arrivent à point",
+          "link": "https://www.lapresse.ca/affaires/chroniques/2026-08-05/des-droits-de-douane-de-25-qui-arrivent-a-point.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Depuis l’automne dernier, les communautés cries du Nord-du-Québec sont aux prises avec une hausse marquée de la violence, particulièrement chez les jeunes. En trame de fond, on retrouve les méthodes typiques du crime…",
-          "published": "2026-08-05T09:00:00+00:00"
+          "summary": "Fait plutôt rare, l’imposition d’une nouvelle surtaxe de 25 %, qui est discrètement entrée en vigueur le 31 juillet dernier, a suscité de nombreuses réactions positives de la part des manufacturiers canadiens. Mieux…",
+          "published": "2026-08-05T10:30:00+00:00"
+        },
+        {
+          "title": "Conflit au Moyen-Orient | Nouvel ultimatum de Trump à l’Iran au sujet d’Ormuz",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-05/conflit-au-moyen-orient/nouvel-ultimatum-de-trump-a-l-iran-au-sujet-d-ormuz.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Donald Trump a affirmé que le détroit d’Ormuz rouvrirait « très bientôt » sans quoi l’Iran serait frappé « très fort », et avancé qu’un accord pourrait intervenir d’ici jeudi.",
+          "published": "2026-08-05T10:24:22+00:00"
         },
         {
           "title": "Nouvelles études | Le climat s’emballe plus vite que prévu",
@@ -105,53 +147,11 @@
           "published": "2026-08-05T09:00:00+00:00"
         },
         {
-          "title": "Virus Ebola | Un nouveau vaccin à l’essai au Canada",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-05/virus-ebola/un-nouveau-vaccin-a-l-essai-au-canada.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Hausse de la violence chez les Cris | « Notre peuple ne fait pas ça »",
+          "link": "https://www.lapresse.ca/actualites/2026-08-05/hausse-de-la-violence-chez-les-cris/notre-peuple-ne-fait-pas-ca.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Un vaccin contre la souche d’Ebola qui cause une épidémie incontrôlable en Afrique commence à être testé au Canada et au Royaume-Uni. C’est la première fois qu’un processus d’urgence est utilisé pour approuver un vaccin…",
+          "summary": "Depuis l’automne dernier, les communautés cries du Nord-du-Québec sont aux prises avec une hausse marquée de la violence, particulièrement chez les jeunes. En trame de fond, on retrouve les méthodes typiques du crime…",
           "published": "2026-08-05T09:00:00+00:00"
-        },
-        {
-          "title": "The Shards | Meurtres chez les preppies",
-          "link": "https://www.lapresse.ca/arts/chroniques/2026-08-05/the-shards/meurtres-chez-les-preppies.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La rencontre entre le très (et trop) prolifique réalisateur Ryan Murphy et l’écrivain Bret Easton Ellis était inscrite dans le ciel, à se demander pourquoi elle ne s’est pas produite plus tôt. Le créateur de Glee,…",
-          "published": "2026-08-05T09:00:00+00:00"
-        },
-        {
-          "title": "Qui doit payer le nouveau stade de tennis ?",
-          "link": "https://www.lapresse.ca/affaires/chroniques/2026-08-05/qui-doit-payer-le-nouveau-stade-de-tennis.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Plaidant que le court central du stade IGA approche de sa fin de vie, Tennis Canada veut que l’on construise un nouveau stade de tennis avec un toit rétractable.",
-          "published": "2026-08-05T09:00:00+00:00"
-        },
-        {
-          "title": "Classe olympique",
-          "link": "https://www.ledevoir.com/opinion/libre-opinion/999704/classe-olympique",
-          "source": "Le Devoir",
-          "summary": "Il y a 50 ans, une chasse au trésor au village olympique débouchait sur une découverte inattendue.",
-          "published": "2026-08-05T04:00:00+00:00"
-        },
-        {
-          "title": "Le Canada est-il sérieux avec l’Afrique?",
-          "link": "https://www.ledevoir.com/opinion/editoriaux/999674/canada-est-il-serieux-afrique",
-          "source": "Le Devoir",
-          "summary": "Mark Carney et ses ministres devront sillonner le continent avec plus en main que le catéchisme de bons sentiments.",
-          "published": "2026-08-05T04:00:00+00:00"
-        },
-        {
-          "title": "Crise à Ceuta, ou quand la politique des frontières mène au drame",
-          "link": "https://www.ledevoir.com/opinion/idees/999683/crise-ceuta-ou-quand-politique-frontieres-mene-drame",
-          "source": "Le Devoir",
-          "summary": "Une frontière hermétique n’élimine pas le désir de la franchir, elle en comprime la pression jusqu’à céder d’un coup.",
-          "published": "2026-08-05T04:00:00+00:00"
-        },
-        {
-          "title": "Le gouvernement Trump et sa politique de type «Fahrenheit 451»",
-          "link": "https://www.ledevoir.com/opinion/idees/999605/gouvernement-trump-politique-type-fahrenheit-451",
-          "source": "Le Devoir",
-          "summary": "Il s’appuie sur l’ignorance méthodique, la désinformation organisée et une idéologie violemment antiscientifique.",
-          "published": "2026-08-05T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Incendie en Gironde : la préfecture alerte les sinistrés contre des démarchages \"abusifs\" et \"opportunistes\"",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-dans-le-var-les-pompiers-poursuivent-la-lutte-contre-les-reprises-de-feu-hausse-des-temperatures-et-du-vent-a-prevoir_8135408.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les autorités appellent les victimes du mégafeu de Saumos à la vigilance après plusieurs signalements de personnes proposant des contrats d'accompagnement payants pour les démarches d'indemnisation.",
-          "published": "2026-08-05T11:07:56+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies en France : «Des départs de feu sont possibles partout», les pompiers du Var toujours sur le qui-vive",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendies-en-france-280-hectares-de-foret-brules-dans-la-drome-meteo-defavorable-ce-mercredi-20260805",
-          "source": "Le Figaro",
-          "summary": "Dans le Var, les soldats du feu font face depuis près de quinze jours à l’incendie qui est, de mémoire de pompier du département, le plus long de l’histoire.",
-          "published": "2026-08-05T10:57:03+00:00"
-        },
-        {
-          "title": "SpaceX rassure sur ses résultats et Elon Musk promet à nouveau la Lune aux investisseurs",
-          "link": "https://www.liberation.fr/economie/economie-numerique/spacex-rassure-sur-ses-resultats-et-elon-musk-promet-a-nouveau-la-lune-aux-investisseurs-20260805_DHQFJSGPOZFS7C262FLKH6JTVA/",
+          "title": "Il fallait l’inventer (4/8) : Claude Grison, verte chercheuse",
+          "link": "https://www.liberation.fr/portraits/il-fallait-linventer-48-claude-grison-verte-chercheuse-20260805_ZZ6SCHR62ZF67LNYIDEHVWUIFQ/",
           "source": "Liberation",
-          "summary": "La firme spatiale a doublé son chiffre d’affaires et réduit de moitié ses pertes au second trimestre. Pas de quoi lever tous les doutes après sa récente entrée en Bourse. Mais le magnat en a profité pour prédire un…",
-          "published": "2026-08-05T10:37:18+00:00"
+          "summary": "La chimiste se sert des plantes pour dépolluer l’eau ou pour fabriquer des médicaments.",
+          "published": "2026-08-05T14:00:00+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies : en Gironde, «les pompiers sont maîtres du feu», annonce la préfète",
-          "link": "https://www.liberation.fr/environnement/en-direct-incendies-apres-une-nuit-calme-les-pompiers-de-la-drome-sattendent-a-une-journee-difficile-20260805_WJYUHXJDYNC2NIOHOPWQAEN5DQ/",
+          "title": "L’écrivain Didier Decoin, prix Goncourt en 1977 et ancien président de son jury, est mort",
+          "link": "https://www.lefigaro.fr/culture/l-ecrivain-didier-decoin-prix-goncourt-en-1977-et-ancien-president-de-son-jury-est-mort-20260805",
+          "source": "Le Figaro",
+          "summary": "Fils du cinéaste Henri Decoin, l’auteur avait été couronné par le prix Goncourt pour son roman John l’Enfer en 1977 et avait présidé l’Académie Goncourt entre 2020 et 2024. Il avait 81 ans.",
+          "published": "2026-08-05T13:58:39+00:00"
+        },
+        {
+          "title": "Royaume-Uni : quatre hommes poignardés dans le centre de Londres, une femme interpellée",
+          "link": "https://www.lefigaro.fr/international/royaume-uni-au-moins-trois-personnes-poignardees-dans-le-centre-de-londres-une-femme-interpellee-20260805",
+          "source": "Le Figaro",
+          "summary": "Les victimes ont été prises en charge par les secours sur les lieux du drame, à Covent garden, en plein cœur de la capitale britannique.",
+          "published": "2026-08-05T13:57:14+00:00"
+        },
+        {
+          "title": "Londres : quatre personnes poignardées à Covent Garden, une femme arrêtée par la police",
+          "link": "https://www.liberation.fr/international/europe/londres-quatre-personnes-poignardees-a-covent-garden-une-femme-arretee-par-la-police-20260805_K2G4QFNSVVH25DS6UZRZKD7P2A/",
           "source": "Liberation",
-          "summary": "Le brasier, maîtrisé, ne produit «plus de flammes». Les pompiers continuent à surveiller les fumerolles et les 240 kilomètres de lisières «pour éviter des redéparts de feu». Au total, 582 sapeurs-pompiers restent…",
-          "published": "2026-08-05T10:37:08+00:00"
+          "summary": "La suspecte, âgée de 47 ans, a été interpellée après que plusieurs personnes ont reçu des coups de couteau ce mercredi 5 août à Covent Garden, dans le centre de la capitale anglaise.",
+          "published": "2026-08-05T13:55:47+00:00"
         },
         {
-          "title": "Aux États-Unis, l’épidémie de «diarrhées explosives» fait deux morts",
-          "link": "https://sante.lefigaro.fr/social/sante-publique/aux-etats-unis-l-epidemie-de-diarrhees-explosives-fait-deux-morts-20260805",
-          "source": "Le Figaro",
-          "summary": "Une enquête a permis de déterminer qu’une partie des contaminations était liée à la consommation d’une laitue iceberg produite au Mexique.",
-          "published": "2026-08-05T10:35:52+00:00"
-        },
-        {
-          "title": "Qatar, Afrique, Donald Trump... Qui soutient encore Gianni Infantino, président très contesté de la Fifa ?",
-          "link": "https://www.lefigaro.fr/sports/football/qatar-afrique-donald-trump-qui-soutient-encore-gianni-infantino-president-tres-conteste-de-la-fifa-20260805",
-          "source": "Le Figaro",
-          "summary": "De nombreux soutiens de Gianni Infantino lui tournent le dos après l’abandon du projet d’investisseurs privés à la Fifa. Les voix en faveur de l’actuel président sont désormais une rareté.",
-          "published": "2026-08-05T10:35:50+00:00"
-        },
-        {
-          "title": "La Chine annonce des restrictions sur les exportations de pièces de drones vers les Etats-Unis, en représailles aux sanctions commerciales américaines",
-          "link": "https://www.lemonde.fr/international/article/2026/08/05/la-chine-annonce-des-restrictions-sur-les-exportations-de-pieces-de-drones-vers-les-etats-unis-en-represailles-aux-sanctions-commerciales-americaines_6739416_3210.html",
-          "source": "Le Monde",
-          "summary": "Les mesures prises par l’administration de Donald Trump « portent gravement atteinte aux droits et intérêts légitimes chinois », a fait valoir le ministère du commerce pour justifier ces « contre-mesures ».",
-          "published": "2026-08-05T10:35:47+00:00"
-        },
-        {
-          "title": "Le flamboyant « Enamorada », sur un amour pris dans les soubresauts de la révolution mexicaine, revient en salles",
-          "link": "https://www.lemonde.fr/culture/article/2026/08/05/le-flamboyant-enamorada-sur-un-amour-pris-dans-les-soubresauts-de-la-revolution-mexicaine-revient-en-salles_6739415_3246.html",
-          "source": "Le Monde",
-          "summary": "La comédie épique et romantique du cinéaste Emilio Fernandez, sortie en 1946, met en scène un général révolutionnaire qui tombe fou amoureux de la fille d’un notable conservateur dans la ville qu’il a conquise.",
-          "published": "2026-08-05T10:30:09+00:00"
-        },
-        {
-          "title": "«On atteint un paroxysme» : le canal de Bourgogne risque de fermer à cause de la sécheresse",
-          "link": "https://www.lefigaro.fr/conjoncture/on-atteint-un-paroxysme-le-canal-de-bourgogne-risque-de-fermer-a-cause-de-la-secheresse-20260805",
-          "source": "Le Figaro",
-          "summary": "À l’image de nombreux cours d’eau partout en Europe, le débit a atteint un niveau tellement faible que la navigation n’y est plus possible. Faute de pluie abondante, la situation pourrait encore empirer.",
-          "published": "2026-08-05T10:27:44+00:00"
-        },
-        {
-          "title": "Rachat de Warner par Paramount : David Ellison signe un plaidoyer en faveur de son projet de fusion dans le \"New York Times\"",
-          "link": "https://www.franceinfo.fr/culture/cinema/rachat-de-warner-par-paramount-david-ellison-signe-un-plaidoyer-en-faveur-de-son-projet-de-fusion-dans-le-new-york-times_8135606.html#xtor=RSS-3-[lestitres]",
+          "title": "Six personnes blessées dans une fusillade à Valence, deux sont en urgence absolue",
+          "link": "https://www.franceinfo.fr/faits-divers/six-personnes-blessees-dans-une-fusillade-a-valence-dont-une-adolescente-de-16-ans-et-un-jeune-homme-de-19-ans-en-urgence-absolue_8135576.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le patron de Paramount estime que l'argument de domination du marché, avancé par les opposants au projet, n'est pas valable. Selon lui, la future entreprise représenterait moins de 20% du temps consacré par les…",
-          "published": "2026-08-05T10:21:40+00:00"
+          "summary": "Une personne, cagoulée, a tiré mardi soir d'une voiture sur un groupe dans la rue avec un fusil d'assaut. Les victimes ont entre 15 et 22 ans.",
+          "published": "2026-08-05T13:55:31+00:00"
+        },
+        {
+          "title": "Violences conjugales : le chef Jean Imbert présenté à un juge en vue d’une possible mise en examen",
+          "link": "https://www.lefigaro.fr/faits-divers/violences-conjugales-la-garde-a-vue-de-jean-imbert-levee-le-chef-transfere-au-tribunal-de-paris-20260804",
+          "source": "Le Figaro",
+          "summary": "Le parquet de Paris a ouvert une information judiciaire pour «violences habituelles ayant entraîné une incapacité de travail supérieur à 8 jours, par conjoint ou concubin, au préjudice de deux victimes».",
+          "published": "2026-08-05T13:54:55+00:00"
+        },
+        {
+          "title": "Didier Decoin : « Quand le rêve l’emporte sur le constat, on entre en littérature »",
+          "link": "https://www.lefigaro.fr/livres/didier-decoin-on-retrouve-les-elements-de-la-tragedie-le-destin-la-violence-l-irreparable-20260402",
+          "source": "Le Figaro",
+          "summary": "ENTRETIEN - Nombre de ses romans sont nés de véritables faits divers. Il en a inventé aussi. Didier Decoin est particulièrement bien placé pour évoquer cette fascination des écrivains pour ce type d’histoires.",
+          "published": "2026-08-05T13:51:32+00:00"
+        },
+        {
+          "title": "«C’est comme si on jouait sur le bitume» : avec des terrains «cramés» par les canicules, la saison de foot commence par une mauvaise passe",
+          "link": "https://www.liberation.fr/sports/football/cest-comme-si-on-jouait-sur-le-bitume-avec-des-terrains-crames-par-les-canicules-la-saison-de-foot-commence-par-une-mauvaise-passe-20260805_QT7O3THS5ZEGBNNI72GFAQNB5A/",
+          "source": "Liberation",
+          "summary": "Au moment où les équipes reprennent les entraînements à l’approche de la reprise des compétitions, nombre de pelouses sont rendues impraticables par les vagues de chaleurs et la sécheresse. Entre reports et matchs…",
+          "published": "2026-08-05T13:46:58+00:00"
+        },
+        {
+          "title": "Pourquoi il faut relire John l'Enfer, de Didier Decoin",
+          "link": "https://www.lefigaro.fr/livres/pourquoi-il-faut-relire-john-l-enfer-de-didier-decoin-20220505",
+          "source": "Le Figaro",
+          "summary": "Ce roman visionnaire nous livre avant l'heure la prophétie d'une ville attaquée par les airs qui voit s'effondrer la proue de l'Amérique, souligne Paule Constant.",
+          "published": "2026-08-05T13:46:01+00:00"
+        },
+        {
+          "title": "Mégaferme en Gironde : «Ce système émet deux à treize fois plus de carbone que ceux classiques en mer»",
+          "link": "https://www.liberation.fr/environnement/megaferme-en-gironde-ce-systeme-emet-deux-a-treize-fois-plus-de-carbone-que-ceux-classiques-en-mer-20260805_GCA2GU7BJ5HIRPCW4WORH2QYNE/",
+          "source": "Liberation",
+          "summary": "Yvan Savy, directeur général de l’association Compassion in World Farming France, alerte sur les conséquences délétères de l’installation d’une ferme à saumons au Verdon-sur-Mer. La préfecture de Nouvelle-Aquitaine a…",
+          "published": "2026-08-05T13:45:46+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Samsung et LG bannissent les applications capables de louer la connexion Internet de votre téléviseur",
-          "link": "https://www.clubic.com/actualite-624178-samsung-et-lg-bannissent-les-applications-capables-de-louer-la-connexion-internet-de-votre-televiseur.html",
-          "source": "Clubic",
-          "summary": "Des jeux, économiseurs d’écran et autres applications apparemment anodines pouvaient transformer certains téléviseurs Samsung et LG en relais pour le trafic Internet de clients tiers. Les deux constructeurs ont…",
-          "published": "2026-08-05T11:18:00+00:00"
-        },
-        {
-          "title": "Xiaomi baisse le prix de son réfrigérateur connecté XXL, idéal pour les grandes familles",
-          "link": "https://www.frandroid.com/bons-plans/3203779_xiaomi-baisse-le-prix-de-son-refrigerateur-connecte-xxl-ideal-pour-les-grandes-familles",
-          "source": "Frandroid",
-          "summary": "Le Xiaomi Mijia Réfrigérateur 621 L est le nouveau frigo américain connecté de la marque. Pensé pour les grandes familles, il est aujourd'hui proposé pour 799 euros au lieu de 849 euros sur le site officiel.",
-          "published": "2026-08-05T11:17:00+00:00"
-        },
-        {
-          "title": "Le monde franchit un cap solaire historique (et presque personne ne s’en est aperçu)",
-          "link": "https://www.frandroid.com/survoltes/energie/3203967_le-monde-franchit-un-cap-solaire-historique-et-presque-personne-ne-sen-est-apercu",
-          "source": "Frandroid",
-          "summary": "Le solaire est désormais loin d’être une « énergie du futur », et est devenu bien ancré dans le présent. En quelques années, cette technologie est parvenue à être un pilier grandissant du mix électrique mondial. Mais…",
-          "published": "2026-08-05T11:12:57+00:00"
-        },
-        {
-          "title": "Pression ou puissance acoustique : le piège des décibels sur l’étiquette de votre climatiseur",
-          "link": "https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3202893_pression-ou-puissance-acoustique-le-piege-des-decibels-sur-letiquette-de-votre-climatiseur",
-          "source": "Frandroid",
-          "summary": "Un climatiseur promet 19 décibels sur sa fiche, mais son étiquette énergie en affiche 54. Les deux chiffres sont exacts : ils ne comptent simplement pas la même chose, et savoir lequel regarder évite d'acheter une…",
-          "published": "2026-08-05T11:12:01+00:00"
-        },
-        {
-          "title": "FC 27 dévoile son mode open world avec des matchs 1v1 et du basket : et si c’était bien ?",
-          "link": "https://www.numerama.com/pop-culture/2306761-fc-27-devoile-son-mode-open-world-avec-des-matchs-1v1-et-du-basket-et-si-cetait-bien.html",
+          "title": "L’IA est incapable de produire quelque chose de nouveau, et c’est un chercheur de Google DeepMind qui le dit",
+          "link": "https://www.numerama.com/tech/2306795-lia-est-incapable-de-produire-quelque-chose-de-nouveau-et-cest-un-chercheur-de-google-deepmind-qui-le-dit.html",
           "source": "Numerama",
-          "summary": "Disponible à partir du 25 septembre 2026, FC 27 a pour grande nouveauté The Grounds, un monde ouvert dans lequel jusqu'à 100 joueurs peuvent se croiser pour participer à des mini-jeux. EA a diffusé le 4 août une longue…",
-          "published": "2026-08-05T11:00:00+00:00"
+          "summary": "Les intelligences artificielles génèrent des images, écrivent du code et résolvent des problèmes complexes. Mais produisent-elles réellement quelque chose de nouveau ? Pour Tom Zahavy, chercheur chez Google DeepMind,…",
+          "published": "2026-08-05T13:53:21+00:00"
         },
         {
-          "title": "Ceinture oubliée, téléphone sur les genoux : ces radars IA analysent vos moindres gestes",
-          "link": "https://www.frandroid.com/survoltes/voitures-electriques/3203731_ceinture-oubliee-telephone-sur-les-genoux-ces-radars-ia-analysent-vos-moindres-gestes",
+          "title": "La meilleure serrure connectée du marché, la Nuki Smart Lock Ultra, perd enfin 50 €",
+          "link": "https://www.frandroid.com/bons-plans/3204133_la-meilleure-serrure-connectee-du-marche-la-nuki-smart-lock-ultra-perd-enfin-50-e",
           "source": "Frandroid",
-          "summary": "La technologie franchit un nouveau cap en Espagne. Avec l’intelligence artificielle, une nouvelle génération de radars ne se contente plus de flasher les excès de vitesse, mais analyse ce qui se passe à l’intérieur de…",
-          "published": "2026-08-05T10:58:25+00:00"
+          "summary": "La Nuki Smart Lock Ultra est une serrure connectée avec plusieurs avantages. Elle est facile à installer et permet d'ouvrir une porte avec un smartphone. Par ailleurs, l'accès peut être transmis à d'autres personnes…",
+          "published": "2026-08-05T13:41:00+00:00"
         },
         {
-          "title": "Volkswagen abandonne le ciel : sa voiture volante s’écrase face aux rivaux chinois",
-          "link": "https://www.frandroid.com/marques/volkswagen/3203611_volkswagen-abandonne-le-ciel-sa-voiture-volante-secrase-face-aux-rivaux-chinois",
+          "title": "FFmpeg 9.0 : le composant clé de vos logiciels vidéo passe un cap majeur",
+          "link": "https://www.frandroid.com/video/3204127_ffmpeg-9-0-le-composant-cle-de-vos-logiciels-video-passe-un-cap-majeur",
           "source": "Frandroid",
-          "summary": "Leader des ventes en Chine, Volkswagen avait voulu tenter sa chance sur le marché des voitures volantes. Un rêve qui s’est finalement soldé par un échec cuisant pour le constructeur allemand, face à la concurrence trop…",
-          "published": "2026-08-05T10:49:43+00:00"
+          "summary": "La bibliothèque FFmpeg, utilisée par de nombreux logiciels et services multimédias connus, se met à jour vers sa version 9.0. À terme, elle sera bénéfique pour les utilisateurs.",
+          "published": "2026-08-05T13:37:34+00:00"
         },
         {
-          "title": "Pour contrer le Tesla Model Y, le futur Volvo EX50 promet d’être plus grand et moins cher",
-          "link": "https://www.frandroid.com/rumeurs/3203669_pour-contrer-le-tesla-model-y-le-futur-volvo-ex50-promet-detre-plus-grand-et-moins-cher",
+          "title": "Huawei Watch GT 7 et GT 7 Pro : titane, ECG et mode ski au programme",
+          "link": "https://www.frandroid.com/marques/3204199_huawei-watch-gt-7-et-gt-7-pro-titane-ecg-et-mode-ski-au-programme",
           "source": "Frandroid",
-          "summary": "Attendu pour 2027, le futur Volvo EX50 se prépare tout doucement. Cette nouvelle voiture électrique aura pour but de remplacer l’EX40 comme modèle d’entrée de gamme, du moins aux États-Unis.",
-          "published": "2026-08-05T10:40:15+00:00"
+          "summary": "Huawei a présenté ce 5 août en Chine ses Watch GT 7 et GT 7 Pro, deux montres taillées pour l’autonomie et le suivi santé. Elles ne sont pas encore prévues en France.",
+          "published": "2026-08-05T13:35:17+00:00"
         },
         {
-          "title": "39 % des Européens l’affirment : Elon Musk fait plus de tort à Tesla que la Chine à BYD",
-          "link": "https://www.frandroid.com/marques/tesla/3203721_39-des-europeens-laffirment-elon-musk-fait-plus-de-tort-a-tesla-que-la-chine-a-byd",
+          "title": "Ce marchand d’armes vend le clone parfait et increvable de la Nintendo 64",
+          "link": "https://www.frandroid.com/produits-android/console/console-de-jeux/3204083_ce-marchand-darmes-vend-le-clone-parfait-et-increvable-de-la-nintendo-64",
           "source": "Frandroid",
-          "summary": "Selon une récente étude, Elon Musk causerait plus de tort à Tesla que les liens de BYD avec Pékin pour les clients européens. Et ce alors que le patron pâtit d’une image personnelle très dégradée sur notre continent.",
-          "published": "2026-08-05T10:37:13+00:00"
+          "summary": "Palmer Luckey lance la ModRetro M64, un clone de Nintendo 64 pensé pour tenir des décennies. Un beau projet technique, signé par un personnage nettement plus controversé.",
+          "published": "2026-08-05T13:31:04+00:00"
         },
         {
-          "title": "L’une des meilleures enceintes de soirée Samsung est quasiment à moitié prix sur Amazon",
-          "link": "https://www.frandroid.com/bons-plans/3203919_lune-des-meilleures-enceintes-de-soiree-samsung-est-quasiment-a-moitie-prix-sur-amazon",
+          "title": "Nintendo Switch 2 : Monster Hunter Wilds viserait jusqu’à la 1440p et 40 FPS en docké",
+          "link": "https://www.frandroid.com/marques/nintendo/3204183_nintendo-switch-2-monster-hunter-wilds-viserait-jusqua-la-1440p-et-40-fps-en-docke",
           "source": "Frandroid",
-          "summary": "La Samsung Sound Tower ST50F est une sono portable avec une batterie confortable de 18 heures et une puissance de 240 W. Pour la trouver à prix réduit, direction Amazon qui la fait passer sous les 300 euros avec une…",
-          "published": "2026-08-05T10:36:27+00:00"
+          "summary": "Le portage Switch 2 de Monster Hunter Wilds se fait encore discret, mais une fuite semble déjà annoncer la couleur sur le rendu et les performances du jeu sur la console portable de Nintendo.",
+          "published": "2026-08-05T13:30:12+00:00"
         },
         {
-          "title": "Ce clavier Logitech passe sous les 70€ chez Cdiscount avant la rentrée !",
-          "link": "https://www.clubic.com/bons-plans-624175-ce-clavier-logitech-passe-sous-les-70-chez-cdiscount-avant-la-rentree.html",
-          "source": "Clubic",
-          "summary": "Repéré à 76 € chez Amazon début août, le Logitech MX Keys S retombe encore un peu plus bas chez Cdiscount, à 69,99 € au lieu de 119,99 €. Voici ce qu'il faut savoir sur ce clavier bureautique avant de valider la…",
-          "published": "2026-08-05T10:32:00+00:00"
-        },
-        {
-          "title": "Ted Lasso est de retour : 6 bonnes raisons de s’y remettre",
-          "link": "https://www.numerama.com/pop-culture/2306241-ted-lasso-est-de-retour-6-bonnes-raisons-de-sy-remettre.html",
+          "title": "Avec 300 Go et 26 Go pour l’étranger, on tient l’un des forfaits de l’été",
+          "link": "https://www.numerama.com/tech/2306577-avec-300-go-et-26-go-pour-letranger-on-tient-lun-des-forfaits-de-lete.html",
           "source": "Numerama",
-          "summary": "Le coach le plus moustachu et le plus bienveillant du petit écran est de retour pour une saison 4 de Ted Lasso, à compter du 5 août sur Apple TV . Numerama est là pour vous aider à rechausser vos crampons !",
-          "published": "2026-08-05T10:30:00+00:00"
+          "summary": "[Deal du jour] Le Forfait Voyage 300 Go de YouPrice propose une (très) grosse enveloppe de data en France et 26 Go pour plus de 50 destinations à travers le monde, le tout pour moins de 15 € par mois.",
+          "published": "2026-08-05T13:15:00+00:00"
+        },
+        {
+          "title": "Appareils photo pas chers : les meilleurs boîtiers testés entre 600 et 1000 euros",
+          "link": "https://www.frandroid.com/guide-dachat/1634231_quel-appareil-photo-pas-cher-choisir",
+          "source": "Frandroid",
+          "summary": "Vous êtes à la recherche d'un boîtier photo à prix honnête ? Il s'agit souvent d'un investissement pécuniaire important. Voici notre sélection, après tests, des appareils photo qui proposent les meilleures rapports…",
+          "published": "2026-08-05T13:10:19+00:00"
+        },
+        {
+          "title": "Renault R5 : la gamme s’allège aujourd’hui pour préparer une mise à jour majeure cet automne",
+          "link": "https://www.frandroid.com/marques/renault/3204107_renault-r5-la-gamme-sallege-aujourdhui-pour-preparer-une-mise-a-jour-majeure-cet-automne",
+          "source": "Frandroid",
+          "summary": "Renault fait le ménage dans les options de sa R5 électrique, mais aussi sur ses Trafic et Kangoo, quelques semaines avant une mise à jour attendue à l'automne des R5 et R4.",
+          "published": "2026-08-05T12:50:15+00:00"
+        },
+        {
+          "title": "Crash à 8 700 km/h : quand un accident sur la Lune devient une aubaine scientifique et questionne le droit",
+          "link": "https://www.numerama.com/sciences/2306887-crash-a-8-700-km-h-quand-un-accident-sur-la-lune-devient-une-aubaine-scientifique-et-questionne-le-droit.html",
+          "source": "Numerama",
+          "summary": "Un étage de fusée SpaceX va s’écraser sur la Lune, offrant aux scientifiques une occasion rare d’étudier la formation des cratères. Il n’existe pratiquement aucun cadre international pour coordonner les activités…",
+          "published": "2026-08-05T12:48:50+00:00"
+        },
+        {
+          "title": "Climatiseur TCL 12000 BTU à 445,90€ chez JoyBuy : une option pendant la pénurie liée à la canicule",
+          "link": "https://www.clubic.com/bons-plans-624199-climatiseur-tcl-12-000-btu-a-445-90-chez-joybuy-une-option-pendant-la-penurie-liee-a-la-canicule.html",
+          "source": "Clubic",
+          "summary": "Alors qu'une nouvelle vague de chaleur s'annonce et que les climatiseurs mobiles se raréfient chez la plupart des marchands, le climatiseur TCL P12F3CW1FR de 12 000 BTU reste disponible chez JoyBuy à 445,90 € au lieu de…",
+          "published": "2026-08-05T12:46:00+00:00"
+        },
+        {
+          "title": "Le jeu FIFA de Netflix est un carton… et son studio licencie 85 % des effectifs",
+          "link": "https://www.frandroid.com/produits-android/console/3204121_le-jeu-fifa-de-netflix-est-un-carton-et-son-studio-licencie-85-des-effectifs",
+          "source": "Frandroid",
+          "summary": "Le studio derrière le jeu FIFA de Netflix vient d'être vidé de ses effectifs, sept semaines à peine après la sortie. Environ 80 personnes licenciées, alors que le jeu était vendu comme un succès.",
+          "published": "2026-08-05T12:44:50+00:00"
         }
       ]
     }
