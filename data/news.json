@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-08-05T22:11:55.270001+00:00",
+  "generated_at": "2026-08-06T02:27:42.649236+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Moyen-Orient en direct : un pétrolier signale des explosions dans le détroit d'Ormuz",
+          "link": "https://www.france24.com/fr/moyen-orient/20260806-en-direct-moyen-orient-iran-detroit-d-ormuz-petrolier-explosions-accord-oman-etats-unis",
+          "source": "France 24",
+          "summary": "Un pétrolier a signalé avoir entendu des explosions alors qu'il transitait par le détroit d'Ormuz, près d'Oman, a indiqué jeudi une agence maritime britannique, au moment où Téhéran et Mascate mènent des discussions…",
+          "published": "2026-08-06T02:00:40+00:00"
+        },
+        {
+          "title": "Au Guatemala, l'éruption du volcan de Fuego est terminée, les évacués rentrent chez eux",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260805-guatemala-fin-eruption-volcan-fuego-evacues-rentrent-chez-eux",
+          "source": "France 24",
+          "summary": "Le volcan Fuego, au Guatemala, est revenu à des niveaux d'activité normaux mercredi, après une éruption ayant contraint plus de 1 700 habitants à évacuer. Aucune victime n'a été recensée et le retour des familles dans…",
+          "published": "2026-08-05T23:49:40+00:00"
+        },
+        {
+          "title": "La Fifa reconnaît des \"erreurs\" et présente des \"excuses\" mais soutient Gianni Infantino",
+          "link": "https://www.france24.com/fr/sports/20260805-fifa-reconnait-erreurs-presente-excuses-soutient-gianni-infantino-reunion-crise-maroc",
+          "source": "France 24",
+          "summary": "Après le retrait d'un projet vivement critiqué d'ouverture à des investisseurs privés, la Fifa a tenu une réunion de crise, mercredi. La direction a reconnu des \"erreurs\" et présenté des \"excuses\" tout en réaffirmant…",
+          "published": "2026-08-05T23:38:36+00:00"
+        },
+        {
+          "title": "Détroit d'Ormuz : l'Iran dit s'être accordé avec Oman sur un nouvel itinéraire de transit",
+          "link": "https://www.france24.com/fr/moyen-orient/20260805-moyen-orient-iran-detroit-ormuz-accord-oman-nouvel-itineraire-transit-etats-unis",
+          "source": "France 24",
+          "summary": "Téhéran a affirmé mercredi s'être mis d'accord avec Oman sur un nouvel itinéraire de transit des navires dans le détroit d'Ormuz. La réouverture de cette voie maritime dépendra cependant des actions de Washington qui a…",
+          "published": "2026-08-05T23:23:30+00:00"
+        },
+        {
+          "title": "Droits de douane : l’administration Trump a remboursé près de 100 milliards de dollars aux entreprises après la décision de la Cour suprême",
+          "link": "https://www.lemonde.fr/international/article/2026/08/06/droits-de-douane-l-administration-trump-a-rembourse-pres-de-100-milliards-de-dollars-aux-entreprises-apres-la-decision-de-la-cour-supreme_6739503_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon des documents judiciaires mis en ligne mardi, l’administration des douanes a évalué à plus de 128 milliards de dollars les demandes de remboursement en cours de traitement ou déjà réalisées.",
+          "published": "2026-08-05T23:20:07+00:00"
+        },
+        {
+          "title": "Au Nigeria, plus de 300 victimes d'enlèvement ont été libérées",
+          "link": "https://www.france24.com/fr/afrique/20260805-afrique-nigeria-liberation-308-victimes-enlevement-boko-haram-jnim",
+          "source": "France 24",
+          "summary": "Un total de 308 personnes qui avaient été enlevées lors de différentes attaques dans les États du Niger et de Kwara, au Nigeria, ont été libérées, a annoncé le gouvernement nigérian mercredi.",
+          "published": "2026-08-05T23:11:42+00:00"
+        },
+        {
           "title": "Entente sur les prix aux Etats-Unis : des producteurs vont devoir payer 3,3 millions de dollars et donner 53 millions d’œufs",
           "link": "https://www.lemonde.fr/planete/article/2026/08/05/entente-sur-les-prix-aux-etats-unis-des-producteurs-vont-devoir-payer-3-3-millions-de-dollars-et-donner-53-millions-d-ufs_6739468_3244.html",
           "source": "Le Monde",
           "summary": "Trois géants du secteur ont conclu un accord avec la justice américaine pour s’être entendus sur les prix pendant plusieurs années. Ils devront remettre ces œufs à des banques alimentaires et à des ONG.",
-          "published": "2026-08-05T21:56:49+00:00"
+          "published": "2026-08-05T21:56:45+00:00"
         },
         {
           "title": "Ebola : le directeur général de l'OMS en visite en RDC",
@@ -23,56 +65,14 @@
           "link": "https://www.lemonde.fr/planete/article/2026/08/05/au-guatemala-l-eruption-du-volcan-fuego-a-pris-fin_6739467_3244.html",
           "source": "Le Monde",
           "summary": "Aucune victime ni aucun dégât matériel n’ont été enregistrés, alors que son activité s’est amplifiée dans la nuit de lundi à mardi.",
-          "published": "2026-08-05T20:24:36+00:00"
+          "published": "2026-08-05T20:24:35+00:00"
         },
         {
           "title": "Au Nigeria, plus de 300 victimes d’enlèvements ont été libérées",
           "link": "https://www.lemonde.fr/afrique/article/2026/08/05/au-nigeria-plus-de-300-victimes-d-enlevements-ont-ete-liberees_6739466_3212.html",
           "source": "Le Monde",
           "summary": "Les victimes ont été libérées d’un lieu situé dans la forêt du parc national du lac Kainji.",
-          "published": "2026-08-05T20:22:50+00:00"
-        },
-        {
-          "title": "La communication avec le Guide suprême iranien est « très difficile en ce moment », affirme le président iranien",
-          "link": "https://www.lemonde.fr/international/article/2026/08/05/la-communication-avec-le-guide-supreme-iranien-est-tres-difficile-en-ce-moment-affirme-le-president-iranien_6739465_3210.html",
-          "source": "Le Monde",
-          "summary": "Blessé lors des attaques dans lesquelles son père a été tué au premier jour de la guerre, Mojtaba Khamenei n’est pas apparu en public depuis sa nomination, en mars.",
-          "published": "2026-08-05T20:11:10+00:00"
-        },
-        {
-          "title": "Iran : la communication avec Mojtaba Khamenei est \"très difficile en ce moment\", déclare Pezeshkian",
-          "link": "https://www.france24.com/fr/moyen-orient/20260805-iran-communication-avec-mojtaba-khamenei-tr%C3%A8s-difficile-en-ce-moment-d%C3%A9clare-pezeshkian",
-          "source": "France 24",
-          "summary": "Le président iranien Massoud Pezeshkian a déclaré, dans une allocution diffusée mercredi par la télévision d'État, que la communication avec le guide suprême Mojtaba Khamenei était actuellement \"très difficile\". Ce…",
-          "published": "2026-08-05T19:55:06+00:00"
-        },
-        {
-          "title": "Les houthistes revendiquent l’attaque en mer Rouge d’un deuxième pétrolier saoudien en une journée",
-          "link": "https://www.lemonde.fr/international/article/2026/08/05/les-houthistes-revendiquent-l-attaque-en-mer-rouge-d-un-deuxieme-petrolier-saoudien-en-une-journee_6739464_3210.html",
-          "source": "Le Monde",
-          "summary": "Le porte-parole militaire des rebelles yéménites a affirmé avoir frappé un tanker au large d’Aden après en avoir visé un autre plus tôt dans la journée près de Yanbu, dans le cadre du blocus décrété contre la flotte…",
-          "published": "2026-08-05T19:26:42+00:00"
-        },
-        {
-          "title": "Soudan : des combattants des FSR désertent au profit de l'armée",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-soudan-des-combattants-des-fsr-d%C3%A9sertent-au-profit-de-l-arm%C3%A9e",
-          "source": "France 24",
-          "summary": "Au Soudan, 45 combattants ont quitté les rangs des Forces de soutien rapide (FSR) avec leurs armes lourdes. Que révèle cette défection sur l'évolution du conflit ? Décryptage avec Youssif Abdelrahman, invité du Journal…",
-          "published": "2026-08-05T19:13:56+00:00"
-        },
-        {
-          "title": "Le tourisme français impacté par les incendies, les campings sont les plus touchés",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260805-le-tourisme-fran%C3%A7ais-impact%C3%A9-par-les-incendies-les-campings-sont-les-plus-touch%C3%A9s",
-          "source": "France 24",
-          "summary": "La France est régulièrement la première destination touristique au monde et le tourisme est l'un des piliers de son économie. Avec les emplois indirects, le secteur représente jusqu'à 7,5% du PIB et 109 milliards €.…",
-          "published": "2026-08-05T19:01:04+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : plus de 120 000 foyers privés d’électricité dans l’oblast de Dnipropetrovsk après des attaques russes",
-          "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-plus-de-120-000-foyers-prives-d-electricite-dans-l-oblast-de-dnipropetrovsk-apres-des-attaques-russes_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Plusieurs bombardements russes contre les installations électriques du principal opérateur énergétique ukrainien, DTEK, ont entraîné des coupures de courant dans 126 000 foyers, principalement dans les localités de…",
-          "published": "2026-08-05T18:53:10+00:00"
+          "published": "2026-08-05T20:22:48+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Omnium Banque Nationale | Le tournoi perd ses deux premières têtes de série",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-05/omnium-banque-nationale/le-tournoi-perd-ses-deux-premieres-tetes-de-serie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Omnium Banque Nationale | Daniil Medvedev s’en va lui aussi",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-05/omnium-banque-nationale/daniil-medvedev-s-en-va-lui-aussi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Moins de 90 minutes après que Félix Auger-Aliassime a annoncé qu’il se retirait de l’Omnium Banque Natioanle, Alexander Zverev s’est incliné en trois manches éreintantes contre le Néerlandais Tallon Griekspoor, mercredi…",
-          "published": "2026-08-05T22:09:11+00:00"
+          "summary": "Daniil Medvedev n’a jamais pu revenir de l’arrière et il s’est incliné 3,6 et 6-7 devant Botic Van De Zandschulp mercredi soir. L’Omnium Banque Nationale a perdu une autre tête de série après Félix Auger-Aliassime et…",
+          "published": "2026-08-06T01:06:04+00:00"
         },
         {
-          "title": "Crime organisé chez les Autochtones | Québec « va s’attaquer » aux réseaux criminels",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-05/crime-organise-chez-les-autochtones/quebec-va-s-attaquer-aux-reseaux-criminels.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La hausse de la violence et de la consommation dans les communautés autochtones liées aux réseaux criminels était « hautement prévisible », se désole le ministre Ian Lafrenière. Du travail en prévention et en…",
-          "published": "2026-08-05T22:04:55+00:00"
-        },
-        {
-          "title": "Deux personnes sont décédées en tentant de fuir la police à Laval",
-          "link": "https://www.ledevoir.com/actualites/1000013/deux-personnes-sont-decedees-tentant-fuir-police-laval",
+          "title": "Une enquête menée auprès d’étudiants juifs révèle un antisémitisme généralisé",
+          "link": "https://www.ledevoir.com/actualites/education/1000064/enquete-menee-aupres-etudiants-juifs-revele-antisemitisme-generalise",
           "source": "Le Devoir",
-          "summary": "Le véhicule s’est encastré dans la façade d’un centre de conditionnement physique.",
-          "published": "2026-08-05T21:42:00+00:00"
+          "summary": "Le groupe Independent Jewish Voices a cependant critiqué ce rapport publié par le ministère du Patrimoine.",
+          "published": "2026-08-06T01:05:43+00:00"
         },
         {
-          "title": "Glissement de terrain à l’Ascension | La vie reprend son cours dans les Hautes-Laurentides",
-          "link": "https://www.lapresse.ca/actualites/regional/2026-08-05/glissement-de-terrain-a-l-ascension/la-vie-reprend-son-cours-dans-les-hautes-laurentides.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Deux jours après un lessivage qui a creusé un énorme cratère à L’Ascension, la municipalité a réussi à relier tous ses habitants à des chemins carrossables et se met déjà au boulot pour remplir l’immense trou. Une…",
-          "published": "2026-08-05T21:37:17+00:00"
-        },
-        {
-          "title": "Tous les droits de douane doivent tomber, réaffirme Mark Carney",
-          "link": "https://www.ledevoir.com/politique/canada/999998/tous-droits-douane-doivent-tomber-reaffirme-mark-carney",
+          "title": "Les dégâts causés par les feux de forêt s’aggravent en Colombie-Britannique",
+          "link": "https://www.ledevoir.com/actualites/environnement/1000061/degats-causes-feux-foret-aggravent-colombie-britannique",
           "source": "Le Devoir",
-          "summary": "Les négociations commerciales avec Washington ont repris de la vigueur, notamment sur l’acier et l’aluminium.",
-          "published": "2026-08-05T20:57:00+00:00"
+          "summary": "De nouveaux bâtiments ont été détruits à Clinton, s’ajoutant aux quelque 230 habitations rasées près du lac Okanagan.",
+          "published": "2026-08-06T00:50:00+00:00"
         },
         {
-          "title": "Félix Auger-Aliassime se retire de l’Omnium Banque Nationale",
-          "link": "https://www.ledevoir.com/sports/999995/felix-auger-aliassime-omnium-banque-nationale",
+          "title": "Le gouvernement américain a remboursé 100 milliards de dollars de droits de douane",
+          "link": "https://www.ledevoir.com/economie/1000055/gouvernement-americain-rembourse-100-milliards-dollars-droits-douane",
           "source": "Le Devoir",
-          "summary": "Le Québécois s’est blessé durant un entraînement.",
-          "published": "2026-08-05T20:51:00+00:00"
+          "summary": "Une nouvelle surtaxe imposée par Donald Trump fait d’ailleurs l’objet d’un autre recours judiciaire.",
+          "published": "2026-08-06T00:34:07+00:00"
         },
         {
-          "title": "Blessure au dos | Félix Auger-Aliassime se retire de l’Omnium Banque Nationale",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-05/blessure-au-dos/felix-auger-aliassime-se-retire-de-l-omnium-banque-nationale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Avec sa « grotte mobile » | Un ex-détenu montre la vie en prison pour « choquer les jeunes »",
+          "link": "https://www.lapresse.ca/international/europe/2026-08-05/avec-sa-grotte-mobile/un-ex-detenu-montre-la-vie-en-prison-pour-choquer-les-jeunes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Sans même avoir disputé un match, Félix Auger-Aliassime se retire de l’Omnium Banque Nationale.",
-          "published": "2026-08-05T20:50:02+00:00"
+          "summary": "La chaleur est intense. Les murs semblent se rapprocher à mesure que les minutes passent. Et la porte est verrouillée à double tour.",
+          "published": "2026-08-05T23:45:00+00:00"
         },
         {
-          "title": "Meurtre en Beauce en 2022: un suspect arrêté quatre ans plus tard",
-          "link": "https://www.journaldemontreal.com/2026/08/05/meurtre-en-beauce-en-2022-un-suspect-arrete-quatre-ans-plus-tard",
-          "source": "Journal de Montreal",
-          "summary": "Un homme de 29 ans a été arrêté mercredi dans le cadre de l’enquête sur le meurtre de Nicolas Audet, assassiné il y a quatre ans, à Saint-Isidore.",
-          "published": "2026-08-05T20:29:52+00:00"
+          "title": "Tendance web | Une touche de fantaisie dans votre décor grâce au whimsy-maxxing",
+          "link": "https://www.lapresse.ca/maison/2026-08-05/tendance-web/une-touche-de-fantaisie-dans-votre-decor-grace-au-whimsy-maxxing.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Dans la foulée du mouvement maxxing qui envahit les réseaux sociaux, le whimsy-maxxing vise à ajouter une touche de fantaisie à votre quotidien avec des accessoires ou de la décoration.",
+          "published": "2026-08-05T23:30:00+00:00"
         },
         {
-          "title": "Fragilisé, Infantino tient une réunion de crise au Maroc",
-          "link": "https://www.journaldemontreal.com/2026/08/05/fragilise-infantino-tient-une-reunion-de-crise-au-maroc",
-          "source": "Journal de Montreal",
-          "summary": "Le président de la FIFA a été assailli de critiques après un projet avorté d'ouverture de l'instance mondiale aux investisseurs privés.",
-          "published": "2026-08-05T20:29:15+00:00"
+          "title": "Fillette tuée durant un voyage à New York | La mère de la victime a envoyé de nombreux messages au père cette nuit-là",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-05/fillette-tuee-durant-un-voyage-a-new-york/la-mere-de-la-victime-a-envoye-de-nombreux-messages-au-pere-cette-nuit-la.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La mère de Melina Frattolin a envoyé de nombreux messages au père de sa fillette la nuit où sa disparition, à neuf ans, a été signalée, a appris un jury new-yorkais mercredi.",
+          "published": "2026-08-05T23:11:45+00:00"
         },
         {
-          "title": "Minecraft : une version Nintendo Switch 2 du jeu annoncée pour l'automne",
-          "link": "https://www.journaldemontreal.com/2026/08/05/minecraft--une-version-nintendo-switch-2-du-jeu-annoncee-pour-lautomne",
-          "source": "Journal de Montreal",
-          "summary": "Une version Nintendo Switch 2 de Minecraft s’en vient.",
-          "published": "2026-08-05T20:28:20+00:00"
+          "title": "Qui sauvera la gibelotte de Sorel ?",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-05/qui-sauvera-la-gibelotte-de-sorel.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Au restaurant Chez Marc Beauchemin, on sert la fameuse gibelotte des îles de Sorel depuis 86 ans. Or, l’endroit est aujourd’hui menacé de fermeture. Pour sa propriétaire et ses fidèles clients, c’est bien plus qu’un…",
+          "published": "2026-08-05T23:00:00+00:00"
+        },
+        {
+          "title": "Cinq propositions pour donner suite aux allégations de racisme au poste 39",
+          "link": "https://www.ledevoir.com/politique/montreal/1000034/cinq-propositions-donner-suite-allegations-racisme-poste-39",
+          "source": "Le Devoir",
+          "summary": "Le Regroupement des intervenants et intervenantes d’origine haïtienne a présenté mercredi ses pistes de solution.",
+          "published": "2026-08-05T22:31:00+00:00"
+        },
+        {
+          "title": "Le commerce entre le Canada et les États-Unis a reculé de près de 2G$ depuis 2024",
+          "link": "https://www.ledevoir.com/economie/1000037/commerce-entre-canada-etats-unis-recule-pres-2g-depuis-2024",
+          "source": "Le Devoir",
+          "summary": "Le plus fort recul a été enregistré pour les véhicules automobiles et leurs pièces détachées.",
+          "published": "2026-08-05T22:30:00+00:00"
         }
       ]
     },
@@ -159,25 +159,67 @@
       "label": "France",
       "items": [
         {
+          "title": "Masters 1000 de Montréal : Zverev éliminé lors de son premier match, Auger-Aliassime forfait",
+          "link": "https://www.lefigaro.fr/sports/tennis/tennis-alexander-zverev-elimine-lors-de-son-premier-match-au-masters-1000-de-montreal-20260806",
+          "source": "Le Figaro",
+          "summary": "Le récent champion de Roland-Garros a été battu 6-7 (3/7), 6-2, 6-4 par le Néerlandais Tallon Griekspoor mercredi lors de son entrée en lice au Masters 1000 de Montréal.",
+          "published": "2026-08-06T01:33:47+00:00"
+        },
+        {
+          "title": "Devant la Maison-Blanche, Donald Trump se taille un nouvel héliport en granit",
+          "link": "https://www.lefigaro.fr/international/devant-la-maison-blanche-donald-trump-se-taille-un-nouvel-heliport-en-granit-20260806",
+          "source": "Le Figaro",
+          "summary": "Non satisfait de l’inclinaison de la plateforme, le président américain aurait demandé aux ouvriers de tout refaire.",
+          "published": "2026-08-06T01:12:56+00:00"
+        },
+        {
+          "title": "Chez Google, le grand ménage à la tête de l’intelligence artificielle",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/chez-google-le-grand-menage-a-la-tete-de-l-intelligence-artificielle-20260806",
+          "source": "Le Figaro",
+          "summary": "Le géant de Mountain View a annoncé mercredi une réorganisation majeure de sa division d’intelligence artificielle. Demis Hassabis quitte la direction opérationnelle tandis que plusieurs chercheurs de renom s’en vont.",
+          "published": "2026-08-05T23:51:58+00:00"
+        },
+        {
+          "title": "Droits de douane : l’administration Trump a remboursé près de 100 milliards de dollars aux entreprises après la décision de la Cour suprême",
+          "link": "https://www.lemonde.fr/international/article/2026/08/06/droits-de-douane-l-administration-trump-a-rembourse-pres-de-100-milliards-de-dollars-aux-entreprises-apres-la-decision-de-la-cour-supreme_6739503_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon des documents judiciaires mis en ligne mardi, l’administration des douanes a évalué à plus de 128 milliards de dollars les demandes de remboursement en cours de traitement ou déjà réalisées.",
+          "published": "2026-08-05T23:20:07+00:00"
+        },
+        {
+          "title": "Gianni Infantino s’accroche à son trône à la FIFA après le scandale et l’abandon du projet d’ouverture aux investisseurs privés",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/06/gianni-infantino-s-accroche-a-son-trone-a-la-fifa-apres-le-scandale-et-l-abandon-du-projet-d-ouverture-aux-investisseurs-prives_6739502_3242.html",
+          "source": "Le Monde",
+          "summary": "Dans un communiqué, diffusé mercredi 5 août au soir, la Fédération internationale de football a présenté ses excuses pour le projet de création d’une société commerciale, et déclaré que l’administration de l’instance «…",
+          "published": "2026-08-05T23:15:09+00:00"
+        },
+        {
+          "title": "Des avions hybrides ou électriques pourraient effectuer une partie des vols de moins de 500 kilomètres en Europe à partir de 2030",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/06/des-avions-hybrides-ou-electriques-pourraient-effectuer-une-partie-des-vols-de-moins-de-500-kilometres-en-europe-a-partir-de-2030_6739501_3234.html",
+          "source": "Le Monde",
+          "summary": "L’association Transport & Environment et trois constructeurs, dont le français Aura Aero, affirment que l’industrie européenne sera prête dans les prochaines années à produire des avions à batteries capables de…",
+          "published": "2026-08-05T23:00:04+00:00"
+        },
+        {
           "title": "La Fifa «présente des excuses» après le projet controversé de s’ouvrir à des investisseurs privés",
           "link": "https://www.lefigaro.fr/sports/football/la-fifa-presente-des-excuses-apres-le-projet-controverse-de-s-ouvrir-a-des-investisseurs-prives-20260806",
           "source": "Le Figaro",
           "summary": "La direction de la Fifa a toutefois réaffirmé son «plein soutien» à son président Gianni Infantino.",
-          "published": "2026-08-05T22:04:57+00:00"
+          "published": "2026-08-05T22:54:42+00:00"
         },
         {
           "title": "«À quoi bon ce show?», «quels problèmes concrets avez-vous réglés?»... Gabriel Attal et Jean-Luc Mélenchon s’écharpent sur les gens du voyage",
           "link": "https://www.lefigaro.fr/elections/presidentielles/a-quoi-bon-ce-show-quels-problemes-concrets-avez-vous-regles-gabriel-attal-et-jean-luc-melenchon-s-echarpent-sur-les-gens-du-voyage-20260805",
           "source": "Le Figaro",
           "summary": "En déplacement en Vendée mardi sur la question des installations illégales, l’ancien premier ministre s’est attiré les foudres du leader insoumis, qui lui reproche d’être davantage venu «envenimer un problème» plutôt…",
-          "published": "2026-08-05T22:01:28+00:00"
+          "published": "2026-08-05T22:37:03+00:00"
         },
         {
-          "title": "L'étage supérieur d'une fusée SpaceX s'est bien écrasé sur la Lune",
-          "link": "https://www.lefigaro.fr/sciences/l-etage-superieur-d-une-fusee-spacex-s-est-bien-ecrase-sur-la-lune-20260805",
-          "source": "Le Figaro",
-          "summary": "La collision devrait permettre d’étudier les panaches de poussière et de mieux évaluer les risques liés aux débris spatiaux artificiels.",
-          "published": "2026-08-05T21:58:52+00:00"
+          "title": "Entente sur les prix aux Etats-Unis : des producteurs vont devoir payer 3,3 millions de dollars et donner 53 millions d’œufs",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/05/entente-sur-les-prix-aux-etats-unis-des-producteurs-vont-devoir-payer-3-3-millions-de-dollars-et-donner-53-millions-d-ufs_6739468_3244.html",
+          "source": "Le Monde",
+          "summary": "Trois géants du secteur ont conclu un accord avec la justice américaine pour s’être entendus sur les prix pendant plusieurs années. Ils devront remettre ces œufs à des banques alimentaires et à des ONG.",
+          "published": "2026-08-05T21:56:45+00:00"
         },
         {
           "title": "Ingérences étrangères : Matignon veut poursuivre à la rentrée «un travail commun» avec les formations politiques",
@@ -185,48 +227,6 @@
           "source": "Le Figaro",
           "summary": "Depuis fin juillet, trois prétendants déclarés ou pressentis à l’Élysée, Édouard Philippe, Gabriel Attal et Raphaël Glucksmann, ont été ciblés par la Russie à travers des campagnes de désinformation en ligne.",
           "published": "2026-08-05T21:55:24+00:00"
-        },
-        {
-          "title": "Un plaisancier meurt dans un naufrage en rade de Brest",
-          "link": "https://www.lefigaro.fr/actualite-france/un-plaisancier-meurt-dans-un-naufrage-en-rade-de-brest-20260805",
-          "source": "Le Figaro",
-          "summary": "La victime était restée «coincée à l’intérieur de la cabine de la vedette». Trois autres passagers sont sortis indemnes, secourus par un plaisancier.",
-          "published": "2026-08-05T21:51:25+00:00"
-        },
-        {
-          "title": "La communication avec l'invisible guide suprême est \"très difficile en ce moment\", déclare le président iranien Massoud Pezeshkian",
-          "link": "https://www.franceinfo.fr/monde/iran/la-communication-avec-le-guide-supreme-est-tres-difficile-en-ce-moment-declare-le-president-iranien-massoud-pezeshkian_8136440.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Mojtaba Khamenei n'est toujours pas apparu en public depuis sa nomination en mars, ce qui nourrit les spéculations sur son état de santé.",
-          "published": "2026-08-05T21:44:26+00:00"
-        },
-        {
-          "title": "Jules Bouyer décroche l'argent sur le plongeon à 3 mètres et offre à la France sa première médaille aux championnats d'Europe de natation",
-          "link": "https://www.franceinfo.fr/sports/natation/jules-bouyer-decroche-l-argent-sur-le-plongeon-a-3-metres-et-offre-a-la-france-sa-premiere-medaille-aux-championnats-d-europe-de-natation_8136431.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Il n'avait pris que la dixième place des qualifications, avant de repartir de l'avant en finale.",
-          "published": "2026-08-05T21:19:50+00:00"
-        },
-        {
-          "title": "Chikungunya, dengue, West Nile… De nouveaux cas autochtones identifiés dans le sud de la France",
-          "link": "https://www.liberation.fr/societe/sante/chikungunya-dengue-west-nile-de-nouveaux-cas-autochtones-identifies-dans-le-sud-de-la-france-20260805_VFDFJOOTXZBN5IVKTUQNOTWWAE/",
-          "source": "Liberation",
-          "summary": "Santé publique France a recensé plusieurs cas de maladies transmises par des moustiques sur le territoire français. Jusqu’à présent, les cas étaient importés par des personnes ayant voyagé dans des régions où ces virus…",
-          "published": "2026-08-05T21:19:41+00:00"
-        },
-        {
-          "title": "Au Guatemala, l'éruption du volcan de Fuego est désormais terminée, annoncent les experts",
-          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/eruptions-volcaniques/au-guatemala-l-eruption-du-volcan-de-fuego-est-desormais-terminee-annoncent-les-experts_8136413.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Son réveil avait déclenché une alerte maximale dans plusieurs secteurs et l'évacuation de 1 700 personnes dans les villages des alentours.",
-          "published": "2026-08-05T21:02:20+00:00"
-        },
-        {
-          "title": "Raphaël Glucksmann et Marine Tondelier pointent le rôle des plateformes sociales après des cas d'ingérences étrangères",
-          "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/raphael-glucksmann-et-marine-tondelier-pointent-le-role-des-plateformes-sociales-apres-des-cas-d-ingerences-etrangeres_8136401.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La patronne des écologistes propose même de menacer le réseau social X de fermeture pendant la présidentielle, s'il ne respectait pas le cadre légal européen.",
-          "published": "2026-08-05T20:53:40+00:00"
         }
       ]
     },
