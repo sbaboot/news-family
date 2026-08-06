@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-06T11:22:01.284063+00:00",
+  "generated_at": "2026-08-06T14:05:30.002758+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : la Suède va remettre à Kiev un navire de la flotte fantôme russe",
-          "link": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-la-suede-va-remettre-a-kiev-un-navire-de-la-flotte-fantome-russe_6737250_3210.html",
+          "title": "Royaume-Uni : hausse de 39 % des signalements pour radicalisation",
+          "link": "https://www.lemonde.fr/international/article/2026/08/06/royaume-uni-hausse-de-39-des-signalements-pour-radicalisation_6739953_3210.html",
           "source": "Le Monde",
-          "summary": "Le navire avait été arraisonné au début de mars et transportait, selon l’Ukraine, du blé ukrainien volé des territoires occupés. La Cour suprême de Suède a refusé d’examiner le recours déposé par l’armateur, confirmant…",
-          "published": "2026-08-06T11:13:41+00:00"
+          "summary": "Entre octobre 2024 et septembre 2025, une alerte sur cinq (20 %) concernait une personne avec des opinions d’extrême droite, contre 8 % de cas liés à la mouvance islamiste, selon le rapport.",
+          "published": "2026-08-06T14:00:48+00:00"
         },
         {
-          "title": "Trump et Milei ciblent Lula à deux mois de l’élection présidentielle brésilienne",
-          "link": "https://www.lemonde.fr/international/article/2026/08/06/trump-et-milei-ciblent-lula-a-deux-mois-de-l-election-presidentielle-bresilienne_6739941_3210.html",
+          "title": "L'île des lépreux : au Japon, la sombre histoire de Nagashima",
+          "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260806-%C3%AEle-des-l%C3%A9preux-japon-histoire-sombre-nagashima",
+          "source": "France 24",
+          "summary": "C'est un épisode de l’histoire japonaise encore largement méconnu, y compris par les habitants de l’archipel eux-mêmes. Dans les années 1930, le pays lutte contre la propagation de la lèpre. Face à cette maladie…",
+          "published": "2026-08-06T13:41:45+00:00"
+        },
+        {
+          "title": "Londres : une femme a été mise en examen pour avoir poignardé quatre hommes à Covent Garden",
+          "link": "https://www.lemonde.fr/international/article/2026/08/06/londres-une-femme-a-ete-mise-en-examen-pour-avoir-poignarde-quatre-hommes-a-covent-garden_6739950_3210.html",
           "source": "Le Monde",
-          "summary": "Les Etats-Unis et l’Argentine font pression sur le président brésilien dans l’espoir d’une victoire de leur allié d’extrême droite, Flavio Bolsonaro, lors du scrutin des 4 et 25 octobre.",
-          "published": "2026-08-06T11:00:11+00:00"
+          "summary": "Selon les premières investigations de la police britannique, cette agression au couteau serait un « incident isolé lié à des problèmes de santé mentale ».",
+          "published": "2026-08-06T13:35:05+00:00"
         },
         {
-          "title": "Sheikh Hasina, la dirigeante déchue du Bangladesh, annonce depuis l’Inde son retour au pays",
-          "link": "https://www.lemonde.fr/international/article/2026/08/06/sheikh-hasina-la-dirigeante-dechue-du-bangladesh-annonce-depuis-l-inde-son-retour-au-pays_6739940_3210.html",
+          "title": "Le Bénin réclame à nouveau 35 œuvres et archives coloniales à la France",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-le-b%C3%A9nin-r%C3%A9clame-%C3%A0-nouveau-35-%C5%93uvres-et-archives-coloniales-%C3%A0-la-france",
+          "source": "France 24",
+          "summary": "Le Bénin réclame de nouveau à la France la restitution de 35 œuvres et archives coloniales, cinq ans après le retour de 26 objets des trésors royaux du Danxomè. Cette demande s'appuie sur une nouvelle loi-cadre…",
+          "published": "2026-08-06T13:11:12+00:00"
+        },
+        {
+          "title": "Football : après Liverpool, Mohamed Salah signe pour deux saisons avec le club turc de Trabzonspor",
+          "link": "https://www.france24.com/fr/sports/20260806-foot-apr%C3%A8s-liverpool-mohamed-salah-s-engage-pour-deux-saisons-avec-le-club-turc-de-trabzonspor",
+          "source": "France 24",
+          "summary": "Le club turc de Trabzonspor a annoncé, jeudi, la signature de la superstar égyptienne Mohamed Salah pour les deux prochaines saisons. Le joueur de 34 ans rejoindra l'équipe après neuf saisons et autant de trophées en…",
+          "published": "2026-08-06T12:41:11+00:00"
+        },
+        {
+          "title": "Ceuta : les exilés subsahariens bloqués dans une impasse",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-ceuta-les-exil%C3%A9s-subsahariens-bloqu%C3%A9s-dans-une-impasse",
+          "source": "France 24",
+          "summary": "Après avoir renvoyé la majorité des 72 000 migrants entrés à la nage dans l'enclave espagnole de Ceuta, les autorités font face à une situation toujours tendue. Près d'un millier de jeunes migrants regroupés sur la…",
+          "published": "2026-08-06T12:36:08+00:00"
+        },
+        {
+          "title": "Ukraine : évacuation à Kramatorsk, ville à 18km de la ligne de contact avec la Russie",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-ukraine-la-ville-de-kramatorsk-%C3%A9vacu%C3%A9e-est-%C3%A0-18km-de-la-ligne-de-contact-avec-la-russie",
+          "source": "France 24",
+          "summary": "Plus de quatre ans après le début de l'invasion russe à grande échelle de l'Ukraine, des centaines de familles avec enfants vivant à Kramatorsk, une ville de l'est de l'Ukraine, ont reçu l'ordre d'évacuer en raison de…",
+          "published": "2026-08-06T12:33:00+00:00"
+        },
+        {
+          "title": "Sud-Liban : deux soldats israéliens tués, une première depuis un mois",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-sud-liban-deux-soldats-isra%C3%A9liens-tu%C3%A9s-une-premi%C3%A8re-depuis-un-mois",
+          "source": "France 24",
+          "summary": "Israël a mené dans la nuit une série de frappes contre deux localités du sud du Liban, alors que l'armée israélienne a annoncé jeudi la mort de deux de ses soldats, parallèlement à la poursuite des négociations entre…",
+          "published": "2026-08-06T12:30:22+00:00"
+        },
+        {
+          "title": "Xenia Fedorova, propagandiste pro-Poutine : l’arrêté d’expulsion pris par la France est une « persécution politique », assure la diplomatie russe",
+          "link": "https://www.lemonde.fr/international/article/2026/08/06/xenia-fedorova-propagandiste-pro-poutine-l-arrete-d-expulsion-pris-par-la-france-est-une-persecution-politique-assure-la-diplomatie-russe_6739944_3210.html",
           "source": "Le Monde",
-          "summary": "Malgré sa condamnation à mort, l’ancienne première ministre en exil à New Delhi assure qu’elle regagnera le Bangladesh en décembre, pour le 55ᵉ anniversaire de l’indépendance du pays.",
-          "published": "2026-08-06T11:00:06+00:00"
+          "summary": "La chroniqueuse russe est accusée par la France d’être « un relais des campagnes de désinformation pilotées par les autorités russes » pour « déstabiliser l’ordre public » en France.",
+          "published": "2026-08-06T12:13:00+00:00"
         },
         {
-          "title": "L'effondrement de Cuba orchestré par Donald Trump ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-l-effondrement-de-cuba-orchestr%C3%A9-par-donald-trump",
-          "source": "France 24",
-          "summary": "🇨🇺 La situation à #Cuba est plus que jamais instable. Après des décennies de sanctions et de pénuries, l'île communiste est en train de sombrer dans le chaos. Une stratégie orchestrée par Donald #Trump ? 🇺🇸 Décryptage…",
-          "published": "2026-08-06T10:52:03+00:00"
-        },
-        {
-          "title": "Le Bénin réclame 35 œuvres et archives coloniales à la France",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-le-b%C3%A9nin-r%C3%A9clame-35-%C5%93uvres-et-archives-coloniales-%C3%A0-la-france",
-          "source": "France 24",
-          "summary": "Cinq ans après le retour de 26 objets au pays, le gouvernement béninois réclame 35 nouvelles œuvres ainsi que des archives coloniales à la France. Une demande qui s'appuie sur une loi-cadre inédite, en vigueur depuis le…",
-          "published": "2026-08-06T10:31:35+00:00"
-        },
-        {
-          "title": "Yonatan Touval, essayiste : « Dans chaque cas, la suspension du conflit entre Israël et ses voisins laisse sans réponse la cause qui l’a produit »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/06/yonatan-touval-essayiste-dans-chaque-cas-la-suspension-du-conflit-entre-israel-et-ses-voisins-laisse-sans-reponse-la-cause-qui-l-a-produit_6739907_3232.html",
+          "title": "En Argentine, Javier Milei contraint de renoncer à son projet facilitant l’achat de terres par des étrangers",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/06/en-argentine-javier-milei-contraint-de-renoncer-a-son-projet-facilitant-l-achat-de-terres-par-des-etrangers_6739943_3234.html",
           "source": "Le Monde",
-          "summary": "Au Liban, à Gaza et en Iran, l’Etat hébreu déploie sa force sans que ne soient jamais tranchées les questions politiques que ces conflits soulèvent. Ce choix de toujours les remettre à plus tard représente aujourd’hui…",
-          "published": "2026-08-06T10:30:08+00:00"
-        },
-        {
-          "title": "Tchad : la figure d'opposition, Max Kemkoye, adresse une lettre au président depuis sa cellule",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-tchad-la-figure-d-opposition-max-kemkoye-adresse-une-lettre-au-pr%C3%A9sident-depuis-sa-cellule",
-          "source": "France 24",
-          "summary": "Au Tchad, l’une des principales figures de l'opposition, Max Kemkoye, a adressé une lettre au président de la République depuis sa cellule. Il est incarcéré depuis 100 jours tout comme les principaux responsables de…",
-          "published": "2026-08-06T10:29:22+00:00"
-        },
-        {
-          "title": "Jeux vidéo : le \"RAMageddon\" fait flamber le prix des consoles",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260806-jeux-vid%C3%A9o-le-ramageddon-fait-flamber-le-prix-des-consoles",
-          "source": "France 24",
-          "summary": "PlayStation, Xbox, bientôt Switch 2… Les trois géants du jeu vidéo augmentent leurs prix. Une situation inédite, provoquée par l'explosion du coût des puces mémoire, désormais accaparées par le boom de l'intelligence…",
-          "published": "2026-08-06T10:24:14+00:00"
-        },
-        {
-          "title": "Attentat à Munich en 2025 : l’auteur condamné à la prison à perpétuité",
-          "link": "https://www.lemonde.fr/international/article/2026/08/06/attentat-a-la-voiture-belier-a-munich-en-2025-l-auteur-condamne-a-la-prison-a-perpetuite_6739905_3210.html",
-          "source": "Le Monde",
-          "summary": "Le tribunal de Munich a estimé que ce crime présentait une « gravité particulière », une qualification qui rendra beaucoup plus difficile pour cet homme de 25 ans d’obtenir un jour sa libération.",
-          "published": "2026-08-06T10:24:07+00:00"
-        },
-        {
-          "title": "Au Nigeria, cet artiste réinvente le portrait avec de l'argile comme peinture",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-au-nigeria-cet-artiste-r%C3%A9invente-le-portrait-avec-de-l-argile-comme-peinture",
-          "source": "France 24",
-          "summary": "Au Nigeria, à Lagos, Emmunuel Olatunde réinvente la technique du portrait en utilisant de l'argile comme peinture. Cet artiste fait le pari d'un mariage original entre science, tradition et création.",
-          "published": "2026-08-06T10:23:28+00:00"
+          "summary": "Le président argentin souhaitait éliminer les restrictions à l’acquisition de foncier rural par des investisseurs étrangers. Mais le projet a échoué sous la pression de l’opposition et de l’opinion publique.",
+          "published": "2026-08-06T12:00:11+00:00"
         }
       ]
     },
@@ -84,10 +84,45 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Conflit au Moyen-Orient | Trump récuse une pénurie d’armements et fustige les médias",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-06/conflit-au-moyen-orient/trump-recuse-une-penurie-d-armements-et-fustige-les-medias.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "La Corée du Nord a tiré un missile balistique vers la mer du Japon, selon l’armée sud-coréenne",
+          "link": "https://www.ledevoir.com/monde/asie/1000157/coree-nord-tire-missile-balistique-vers-mer-japon-selon-armee-sud-coreenne",
+          "source": "Le Devoir",
+          "summary": "Pyongyang accuse Tokyo de se muer en «État belliqueux» après avoir renforcé sa présence militaire dans le Pacifique.",
+          "published": "2026-08-06T13:23:24+00:00"
+        },
+        {
+          "title": "Crise migratoire à Ceuta | « La frontière est ouverte » : une fausse rumeur aux conséquences mortelles",
+          "link": "https://www.lapresse.ca/international/europe/2026-08-06/crise-migratoire-a-ceuta/la-frontiere-est-ouverte-une-fausse-rumeur-aux-consequences-mortelles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Donald Trump a assuré jeudi que les États-Unis conservaient des stocks « énormes » d’armements, vitupérant contre des informations de presse selon lesquelles une pénurie l’aurait incité à renoncer à de nouvelles frappes…",
+          "summary": "« La frontière à Ceuta est ouverte » : cette rumeur s’est propagée comme une traînée de poudre fin juillet sur les réseaux sociaux et a poussé quelque 72 000 migrants venus du Maroc à tenter de forcer l’entrée, parfois…",
+          "published": "2026-08-06T13:06:41+00:00"
+        },
+        {
+          "title": "Rendements exceptionnels | Au revoir les prix salés pour le maïs",
+          "link": "https://www.lapresse.ca/affaires/2026-08-06/rendements-exceptionnels/au-revoir-les-prix-sales-pour-le-mais.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Tel un invité coquet, le fameux blé d’Inde du Québec s’est laissé désirer cette saison. Le voilà qui débarque en quantité sur les étals, accompagné d’une chute de prix spectaculaire.",
+          "published": "2026-08-06T11:50:13+00:00"
+        },
+        {
+          "title": "Le changement climatique a rendu l’intense saison des feux au Canada deux fois plus probable",
+          "link": "https://www.ledevoir.com/actualites/environnement/1000130/changement-climatique-rendu-intense-saison-feux-canada-deux-fois-plus-probable",
+          "source": "Le Devoir",
+          "summary": "Une saison des incendies comme celle de 2026 « n’est plus rare avec le climat d’aujourd’hui », concluent des chercheurs.",
+          "published": "2026-08-06T11:32:02+00:00"
+        },
+        {
+          "title": "Le syndicat des agents de bord de WestJet lève le voile sur l’entente de principe",
+          "link": "https://www.ledevoir.com/economie/1000112/syndicat-agents-bord-westjet-leve-voile-entente-principe",
+          "source": "Le Devoir",
+          "summary": "Elle prévoit une hausse salariale de plus de 18 % sur trois ans, et une nouvelle rémunération pour le travail au sol.",
+          "published": "2026-08-06T10:57:00+00:00"
+        },
+        {
+          "title": "Conflit au Moyen-Orient | « Plonger le Golfe dans le noir », la menace iranienne qui a préludé à l’arrêt des hostilités",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-06/conflit-au-moyen-orient/plonger-le-golfe-dans-le-noir-la-menace-iranienne-qui-a-prelude-a-l-arret-des-hostilites.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’Iran a redoublé ses menaces la semaine dernière contre les installations énergétiques du Golfe et transmis une liste de cibles aux médiateurs, ensuite intervenus auprès de Donald Trump, ont indiqué à l’AFP deux…",
           "published": "2026-08-06T10:14:47+00:00"
         },
         {
@@ -112,46 +147,11 @@
           "published": "2026-08-06T09:00:00+00:00"
         },
         {
-          "title": "250 ans des États-Unis | Des règles pour encadrer la présidence",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-06/250-ans-des-etats-unis/des-regles-pour-encadrer-la-presidence.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "À l’occasion des 250 ans des États-Unis, La Presse revisite certains amendements de la Constitution, à la lumière des réalités contemporaines. Cette semaine : les 20e et 22e amendements",
-          "published": "2026-08-06T09:00:00+00:00"
-        },
-        {
           "title": "Campement propalestinien | La demande d’action collective déposée par un étudiant juif contre McGill autorisée",
           "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-06/campement-propalestinien/la-demande-d-action-collective-deposee-par-un-etudiant-juif-contre-mcgill-autorisee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Une demande d’action collective déposée par un étudiant juif contre l’Université McGill pourra aller de l’avant. La poursuite, qui allègue que l’établissement a laissé s’installer un climat antisémite sur le campus, a…",
           "published": "2026-08-06T09:00:00+00:00"
-        },
-        {
-          "title": "Élections provinciales | Les libéraux recrutent le PDG de la Mission Old Brewery",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-06/elections-provinciales/les-liberaux-recrutent-le-pdg-de-la-mission-old-brewery.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une figure bien connue de la lutte contre l’itinérance à Montréal se joint au Parti libéral du Québec (PLQ) : le président et chef de la direction de la Mission Old Brewery, James Hughes, sera candidat dans Vaudreuil, a…",
-          "published": "2026-08-06T09:00:00+00:00"
-        },
-        {
-          "title": "Les baisses d’impôt depuis 1999 ont profité aux riches, mais pas seulement",
-          "link": "https://www.ledevoir.com/economie/1000031/baisses-impot-depuis-1999-ont-profite-riches-mais-pas-seulement",
-          "source": "Le Devoir",
-          "summary": "Combinées à la bonification des prestations, elles ont repoussé le moment où les ménages deviennent contributeurs nets.",
-          "published": "2026-08-06T08:00:00+00:00"
-        },
-        {
-          "title": "Le lobby des énergies fossiles est très actif auprès du gouvernement Carney",
-          "link": "https://www.ledevoir.com/politique/canada/1000040/lobby-energies-fossiles-est-tres-actif-aupres-gouvernement-carney",
-          "source": "Le Devoir",
-          "summary": "L’industrie pétrolière et gazière a eu des centaines de rencontres avec des élus libéraux dans la dernière année.",
-          "published": "2026-08-06T07:00:00+00:00"
-        },
-        {
-          "title": "Prendre rendez-vous avec un artiste d’ici",
-          "link": "https://www.ledevoir.com/culture/arts-visuels/1000019/prendre-rendez-vous-artiste-ici",
-          "source": "Le Devoir",
-          "summary": "Lancée par une galerie montréalaise, la plateforme PickArt met en contact direct artistes locaux et clients potentiels.",
-          "published": "2026-08-06T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Météo : une nouvelle vague de chaleur en France dès samedi ?",
-          "link": "https://www.lefigaro.fr/meteo/meteo-une-nouvelle-vague-de-chaleur-en-france-des-samedi-20260806",
-          "source": "Le Figaro",
-          "summary": "L’association d’un puissant anticyclone sur l’Europe et d’une remontée d’air subtropical pourrait favoriser un nouvel épisode de chaleur durable jusqu’en fin de semaine prochaine, prévoit La Chaîne Météo.",
-          "published": "2026-08-06T11:18:14+00:00"
+          "title": "Royaume-Uni : hausse de 39 % des signalements pour radicalisation",
+          "link": "https://www.lemonde.fr/international/article/2026/08/06/royaume-uni-hausse-de-39-des-signalements-pour-radicalisation_6739953_3210.html",
+          "source": "Le Monde",
+          "summary": "Entre octobre 2024 et septembre 2025, une alerte sur cinq (20 %) concernait une personne avec des opinions d’extrême droite, contre 8 % de cas liés à la mouvance islamiste, selon le rapport.",
+          "published": "2026-08-06T14:00:48+00:00"
         },
         {
           "title": "EN DIRECT - «Nous n’avons jamais abandonné Le Porge», assure le patron des pompiers de Gironde",
           "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-8-departements-en-vigilance-orange-canicule-journee-a-tres-haut-risque-dans-le-var-20260806_O6EWLDOYLJCUXLJYRHFJUJBXA4/",
           "source": "Liberation",
           "summary": "Le chef du Sdis 33, Marc Vermeulen, nie avoir négligé la commune girondine, particulièrement touchée par l’incendie déclenché le 22 juillet dans le département, alors que certains de ses habitants affirment avoir été…",
-          "published": "2026-08-06T11:15:42+00:00"
+          "published": "2026-08-06T13:53:44+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : la Suède va remettre à Kiev un navire de la flotte fantôme russe",
-          "link": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-la-suede-va-remettre-a-kiev-un-navire-de-la-flotte-fantome-russe_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Le navire avait été arraisonné au début de mars et transportait, selon l’Ukraine, du blé ukrainien volé des territoires occupés. La Cour suprême de Suède a refusé d’examiner le recours déposé par l’armateur, confirmant…",
-          "published": "2026-08-06T11:13:41+00:00"
+          "title": "Droits télé : la Liga sera diffusée sur sur DAZN et Disney + en France",
+          "link": "https://www.liberation.fr/sports/football/droits-tele-la-liga-sera-diffusee-sur-sur-dazn-et-disney-en-france-20260806_OP2V4IXOHVDQPBICZKCHMQOVMQ/",
+          "source": "Liberation",
+          "summary": "A compter du début de la saison, le 15 août, tous les matchs du championnat espagnol de football, dont BeIN Sports, diffuseur historique, n’a pas conservé les droits, seront disponibles sur les deux plateformes.",
+          "published": "2026-08-06T13:44:21+00:00"
         },
         {
-          "title": "EN DIRECT - Incendie :  un départ de feu signalé aux portes d’Aix-en-Provence",
+          "title": "Mer, lac ou rivière… Se rendre au bord de l'eau réduit significativement le stress, selon une étude",
+          "link": "https://www.franceinfo.fr/sante/mer-lac-ou-riviere-se-rendre-au-bord-de-l-eau-reduit-significativement-le-stress-selon-une-etude_8137214.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Trois heures au bord d'un lac, d'une rivière ou de la mer suffiraient à ressentir des effets bénéfiques sur le moral. C'est ce que révèle une vaste étude internationale menée dans 19 pays, partagée par le média estonien…",
+          "published": "2026-08-06T13:39:52+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendie en France : Sébastien Lecornu attendu en Gironde le 17 août",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-canicule-levee-de-la-vigilance-orange-dans-le-rhone-et-l-isere-huit-departements-du-sud-est-toujours-concernes-20260806",
           "source": "Le Figaro",
-          "summary": "Trois hectares ont déjà été parcourus. Une soixantaine de pompiers sont mobilisés. Les moyens terrestres sont renforcés par les moyens aériens : 2 Canadair et 1 Dash sont engagés à leurs côtés.",
-          "published": "2026-08-06T11:13:03+00:00"
+          "summary": "Le premier ministre rencontrera les élus locaux et les acteurs de la reconstruction. Une table ronde avec les acteurs sociaux-économiques de la région doit également être organisée.",
+          "published": "2026-08-06T13:36:28+00:00"
         },
         {
-          "title": "« Nous vivons comme prisonniers d’une force étrangère » : en Iran, le peuple pris en étau entre la répression et l’effondrement économique",
-          "link": "https://www.lefigaro.fr/international/nous-vivons-comme-prisonniers-d-une-force-etrangere-en-iran-le-peuple-pris-en-etau-entre-la-repression-et-l-effondrement-economique-20260806",
+          "title": "Londres : une femme a été mise en examen pour avoir poignardé quatre hommes à Covent Garden",
+          "link": "https://www.lemonde.fr/international/article/2026/08/06/londres-une-femme-a-ete-mise-en-examen-pour-avoir-poignarde-quatre-hommes-a-covent-garden_6739950_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon les premières investigations de la police britannique, cette agression au couteau serait un « incident isolé lié à des problèmes de santé mentale ».",
+          "published": "2026-08-06T13:35:05+00:00"
+        },
+        {
+          "title": "Incendies : Sébastien Lecornu se rendra en Gironde le 17 août pour lancer la Mission reconstruction et adaptation des territoires",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-quatre-departements-en-risque-tres-eleve-de-feux-de-foret-situation-stable-dans-la-drome_8136779.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "A cette occasion, le Premier ministre s'entretiendra \"avec les élus locaux et les acteurs de la reconstruction\" et \"sera également accompagné des cinq membres de la mission reconstruction\", avant \"une table ronde avec…",
+          "published": "2026-08-06T13:34:42+00:00"
+        },
+        {
+          "title": "De « belles choses » et des « cauchemars » : George R. R. Martin, le créateur Game of Thrones, se confie sur sa dépression",
+          "link": "https://www.lefigaro.fr/culture/de-belles-choses-et-des-cauchemars-george-r-r-martin-le-createur-game-of-thrones-se-confie-sur-sa-depression-20260806",
           "source": "Le Figaro",
-          "summary": "TÉMOIGNAGES - Épuisés par la répression, la guerre et l’effondrement économique, des habitants de Téhéran et d’autres villes brisent le silence. Leurs récits révèlent un peuple prêt à tout pour faire tomber la…",
-          "published": "2026-08-06T11:10:37+00:00"
+          "summary": "Le créateur de la saga Game of Thrones explique avoir traversé une année « éprouvante » marquée par la perte de plusieurs amis. Il espère retrouver le sourire en remportant un prix aux Emmy Awards le 14 septembre.",
+          "published": "2026-08-06T13:33:30+00:00"
         },
         {
-          "title": "Attentat contre un cortège syndical à Munich : l’auteur condamné à la réclusion à perpétuité",
-          "link": "https://www.lefigaro.fr/international/attentat-contre-un-cortege-syndical-a-munich-l-auteur-condamne-a-la-reclusion-a-perpetuite-20260806",
+          "title": "Après le cheval mécanique des JO, l’atelier Blam planche sur un présentoir moderne pour la tapisserie de Bayeux",
+          "link": "https://www.lefigaro.fr/nantes/apres-le-cheval-mecanique-des-jo-l-atelier-blam-planche-sur-un-presentoir-moderne-pour-la-tapisserie-de-bayeux-20260806",
           "source": "Le Figaro",
-          "summary": "Le tribunal régional supérieur de Munich a retenu la «gravité particulière» du crime commis par un Afghan de 25 ans, identifié uniquement sous le nom de Fahrad N.",
-          "published": "2026-08-06T11:07:52+00:00"
+          "summary": "Les créateurs nantais mis en lumière il y a deux ans lors des Jeux olympiques de Paris travaillent à une table de 72 mètres de long pour présenter la broderie normande dans les meilleures conditions possibles, à son…",
+          "published": "2026-08-06T13:33:06+00:00"
         },
         {
-          "title": "«La décision la plus difficile de ma vie» : le maire RN de Montargis dans le Loiret annonce sa démission pour des raisons de santé",
-          "link": "https://www.lefigaro.fr/politique/la-decision-la-plus-difficile-de-ma-vie-le-maire-rn-de-montargis-dans-le-loiret-annonce-sa-demission-pour-des-raisons-de-sante-20260806",
+          "title": "Dati, Aulas, Estrosi, Knafo… Que deviennent les candidats médiatiques qui ont échoué aux municipales de 2026 ?",
+          "link": "https://www.lefigaro.fr/politique/dati-aulas-estrosi-knafo-que-deviennent-les-candidats-mediatiques-qui-ont-echoue-aux-municipales-de-2026-20260806",
           "source": "Le Figaro",
-          "summary": "L’élu du Gâtinais, qui avait remporté l’élection de justesse en mars dernier, évoque la décision «sans doute la plus difficile de sa vie».",
-          "published": "2026-08-06T11:06:31+00:00"
-        },
-        {
-          "title": "Accusation de violences conjugales contre Jean Imbert : que signifie le statut de témoin assisté ?",
-          "link": "https://www.lefigaro.fr/faits-divers/accusation-de-violences-conjugales-contre-jean-imbert-que-signifie-le-statut-de-temoin-assiste-20260806",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Sous le feu des accusations, le chef Jean Imbert a été placé sous le statut de témoin assisté, un entre-deux juridique qui le reconnaît comme soupçonné tout en le préservant d’une mise en examen et des…",
-          "published": "2026-08-06T11:01:38+00:00"
-        },
-        {
-          "title": "«Les escargots sèchent sur place» : entre canicules à répétition et manque d’eau, les mollusques en bavent",
-          "link": "https://www.liberation.fr/environnement/agriculture/les-escargots-sechent-sur-place-entre-canicules-a-repetition-et-manque-deau-les-mollusques-en-bavent-20260806_MPNXSDHLSREPVIDPFD47ETJI5M/",
-          "source": "Liberation",
-          "summary": "Dans les élevages de Bourgogne et de l’est du pays, les gastéropodes manquent de verdure pour se cacher et la chaleur leur coupe la faim. Les producteurs font déjà face à une mortalité record et craignent, pour…",
-          "published": "2026-08-06T10:48:25+00:00"
-        },
-        {
-          "title": "Oscars étudiants : deux courts-métrages d'animation français primés",
-          "link": "https://www.lefigaro.fr/cinema/ceremonie-oscars/oscars-etudiants-deux-courts-metrages-d-animation-francais-primes-20260806",
-          "source": "Le Figaro",
-          "summary": "La cérémonie de la 53e édition des Oscars étudiants se tiendra le 14 septembre lors du festival international du film de Toronto, au Canada.",
-          "published": "2026-08-06T10:47:14+00:00"
+          "summary": "DÉCRYPTAGE - Quatre mois après le second tour des élections municipales, aucun des prétendants défaits à Paris, Lyon et Nice n’a complètement quitté la vie politique.",
+          "published": "2026-08-06T13:32:52+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Un écran gamer QHD 180Hz à moins de 140€ : la bonne affaire Lenovo du moment",
-          "link": "https://www.clubic.com/bons-plans-624313-un-ecran-gamer-qhd-180-hz-a-moins-de-140-la-bonne-affaire-lenovo-du-moment.html",
+          "title": "IA : chez ByteDance, on dit non à la distillation",
+          "link": "https://www.clubic.com/actualite-624331-ia-chez-bytedance-on-dit-non-a-la-distillation.html",
           "source": "Clubic",
-          "summary": "Boulanger fait chuter le prix de l'écran PC gamer Lenovo LOQ 27Q-10, un moniteur QHD 180 Hz pensé pour les joueurs qui cherchent la fluidité sans exploser leur budget. À 139,99 €, cette référence mérite qu'on s'y…",
-          "published": "2026-08-06T11:20:00+00:00"
+          "summary": "Il est de bon ton d'accuser les géants chinois de l'IA de s'adonner à la distillation. Pourtant, l'un d'eux vient de s'élever contre la pratique, avec des arguments intéressants.",
+          "published": "2026-08-06T14:02:00+00:00"
         },
         {
-          "title": "À 20 milliards de kilomètres de la Terre, le coup de poker électrique de la NASA a payé",
-          "link": "https://www.numerama.com/sciences/2307289-a-20-milliards-de-kilometres-de-la-terre-le-coup-de-poker-electrique-de-la-nasa-a-paye.html",
+          "title": "La communication de GTA 6 méprise les fans de jeux vidéo",
+          "link": "https://www.numerama.com/pop-culture/2307471-la-communication-de-gta-6-meprise-les-fans-de-jeux-video.html",
           "source": "Numerama",
-          "summary": "Pari gagné à 21 milliards de kilomètres de la Terre. La manœuvre électrique « Big Bang » a fonctionné sur Voyager 2, sauvant l'un de ses derniers instruments et offrant au moins un an de répit à la sonde avant le tour…",
-          "published": "2026-08-06T11:00:00+00:00"
+          "summary": "Campagne de précommande sans avoir montré le jeu, trailer temporairement payant, fausse version physique, édition standard tronquée, grande première pendant la Gamescom… On attend GTA 6 avec impatience, mais sa…",
+          "published": "2026-08-06T14:00:44+00:00"
         },
         {
-          "title": "Ce qui se passe réellement quand la Renault Twingo électrique atteint 0 % de batterie",
-          "link": "https://www.frandroid.com/marques/renault/3205013_ce-qui-se-passe-reellement-quand-la-renault-twingo-electrique-atteint-0-de-batterie",
-          "source": "Frandroid",
-          "summary": "Deux essayeurs ont vidé une nouvelle Renault Twingo électrique jusqu'à la panne sèche pour voir ce qui se passe à 0&nbsp;%. Elle roule encore 16&nbsp;kilomètres, mais son vrai point faible se cache ailleurs.",
-          "published": "2026-08-06T10:50:47+00:00"
-        },
-        {
-          "title": "-70% sur le Lefant M210 : un robot aspirateur à moins de 90€ chez Amazon",
-          "link": "https://www.clubic.com/bons-plans-624304-sur-le-lefant-m210-un-robot-aspirateur-a-moins-de-90-chez-amazon.html",
-          "source": "Clubic",
-          "summary": "L'été s'annonce chargé entre les départs en vacances et l'envie de retrouver un intérieur propre au retour. Le robot aspirateur connecté Lefant M210 profite d'une remise de 70 % chez Amazon, de quoi automatiser…",
-          "published": "2026-08-06T10:49:00+00:00"
-        },
-        {
-          "title": "La scène de sexe la plus explicite de Baldur’s Gate 3 gêne encore YouTube",
-          "link": "https://www.numerama.com/pop-culture/2307109-la-scene-de-sexe-la-plus-explicite-de-baldurs-gate-3-gene-encore-youtube.html",
+          "title": "La Xbox va enfin avoir ses trophées platines",
+          "link": "https://www.numerama.com/tech/2307185-la-xbox-va-enfin-avoir-ses-trophees-platines.html",
           "source": "Numerama",
-          "summary": "Depuis son lancement, les scènes explicites de Baldur's Gate 3 lui ont valu quelques mésaventures sur les réseaux sociaux et YouTube, et le temps n'y change rien. Aujourd'hui encore, YouTube est allé jusqu'à supprimer…",
-          "published": "2026-08-06T10:31:00+00:00"
+          "summary": "Xbox va enfin mettre à jour son système de succès avec une fonctionnalité réclamée depuis longtemps. C'est la nouvelle PDG, Asha Sharma, qui l'annonce, sans toutefois préciser quand.",
+          "published": "2026-08-06T14:00:00+00:00"
         },
         {
-          "title": "Pourquoi monter son PC quand cette tour Lenovo avec RTX 5070 perd 300 € ?",
-          "link": "https://www.frandroid.com/bons-plans/3204813_pourquoi-monter-son-pc-quand-cette-tour-lenovo-avec-rtx-5070-perd-300-e",
-          "source": "Frandroid",
-          "summary": "La Lenovo LOQ Tower 26ADR10 est une tour gaming déjà montée qui intègre une carte graphique Nvidia GeForce RTX 5070. La bonne nouvelle, c'est que son prix passe de 1 999 euros à 1 699 euros chez Boulanger, soit 300…",
-          "published": "2026-08-06T10:24:00+00:00"
+          "title": "Mistral lance Shieldstral, son « petit » modèle local pour la modération de contenus",
+          "link": "https://next.ink/250391/mistral-lance-shieldstral-son-petit-modele-local-pour-la-moderation-de-contenus/",
+          "source": "Next",
+          "summary": "Mistral a lancé ce 4 aout un nouveau «&#160;petit&#160;» modèle. Nommé Shieldstral, il est dédié aux tâches de modération. Avec environ 4 milliards de paramètres, il est facilement installable sur un grand nombre de…",
+          "published": "2026-08-06T13:53:47+00:00"
         },
         {
-          "title": "Voici le premier Googlebook signé ASUS : ce que révèlent déjà ces premières images",
-          "link": "https://www.clubic.com/actualite-624274-voici-le-premier-googlebook-signe-asus-ce-que-revele-deja-ces-premieres-images.html",
+          "title": "GTA VI : le gameplay dévoilé le 27 août, d'abord en exclusivité sur Netflix",
+          "link": "https://www.clubic.com/actualite-624346-gta-vi-le-gameplay-devoile-le-27-aout-d-abord-en-exclusivite-sur-netflix.html",
           "source": "Clubic",
-          "summary": "Une nouvelle fuite nous permet de découvrir avant l'heure le design d'un des huit premiers Googlebook prévus pour cet automne. Après le modèle de Lenovo, c'est aujourd'hui celui d'ASUS qui se laisse observer… avec…",
-          "published": "2026-08-06T10:20:00+00:00"
+          "summary": "Rockstar a annoncé un « extended look » de GTA VI pour le 27 août, diffusé en exclusivité sur Netflix à 21h (heure française), six heures avant publication sur YouTube. Une première pour un studio.",
+          "published": "2026-08-06T13:50:00+00:00"
         },
         {
-          "title": "Audi Q6 e-tron vs Q5 thermique à 200 km/h : l’électrique consomme-t-elle vraiment plus ?",
-          "link": "https://www.frandroid.com/marques/audi/3204843_audi-q6-e-tron-vs-q5-thermique-a-200-km-h-lelectrique-consomme-t-elle-vraiment-plus",
-          "source": "Frandroid",
-          "summary": "Un YouTubeur a testé une Audi Q6 e-tron électrique poussée à 200 km/h sur l'autoroute allemande avec un compteur de consommation branché en direct. À cette vitesse, la batterie se vide presque trois fois plus vite qu'en…",
-          "published": "2026-08-06T10:19:26+00:00"
+          "title": "Smartphones haut de gamme : Apple écrase la concurrence, Samsung se défend, les autres partagent les miettes",
+          "link": "https://www.clubic.com/actualite-624328-smartphones-haut-de-gamme-apple-ecrase-la-concurrence-samsung-se-defend-les-autres-partagent-les-miettes.html",
+          "source": "Clubic",
+          "summary": "Sur le marché des smartphones haut de gamme, deux marques se distinguent particulièrement, Apple et Samsung. Les deux géants historiques du smartphone raflent à eux seuls 84% du marché, quand la marque à la pomme occupe…",
+          "published": "2026-08-06T13:40:00+00:00"
         },
         {
-          "title": "Google teste « Device Help », un mode Gemini pour dépanner votre smartphone Pixel sans ouvrir les réglages",
-          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3205021_google-teste-device-help-un-mode-gemini-pour-depanner-votre-smartphone-pixel-sans-ouvrir-les-reglages",
-          "source": "Frandroid",
-          "summary": "Gemini pourrait bientôt vous aider à dépanner et configurer votre téléphone Pixel en répondant à la moindre de vos questions.",
-          "published": "2026-08-06T10:00:10+00:00"
+          "title": "☕️ Les profits de Nintendo en forte hausse malgré le recul des ventes de Switch 2",
+          "link": "https://next.ink/brief-article/les-profits-de-nintendo-en-forte-hausse-malgre-le-recul-des-ventes-de-switch-2/",
+          "source": "Next",
+          "summary": "Des ventes de consoles et un chiffre d&#8217;affaires en baisse, mais des profits en forte hausse : c&#8217;est le bilan à grands traits du premier trimestre fiscal de Nintendo (le deuxième du calendrier). Le…",
+          "published": "2026-08-06T13:33:20+00:00"
         },
         {
-          "title": "Muse Code : Meta attaque Claude Code et Codex et part à la conquête des développeurs",
-          "link": "https://www.numerama.com/tech/2307117-muse-code-meta-attaque-claude-code-et-codex-et-part-a-la-conquete-des-developpeurs.html",
+          "title": "Google supprime la gestion des adresses tierces de la version web de Gmail pour 2027",
+          "link": "https://www.numerama.com/tech/2307475-gmail-cette-fois-cest-officiel-la-gestion-des-adresses-tierces-disparaitra-en-janvier-2027.html",
           "source": "Numerama",
-          "summary": "Le géant américain lance en bêta son propre agent de codage IA, misant sur des prix cassés pour bousculer un marché ultra-concurrentiel.",
-          "published": "2026-08-06T10:00:00+00:00"
+          "summary": "Google sabre plusieurs fonctionnalités de Gmail, pour sa version web.",
+          "published": "2026-08-06T13:31:00+00:00"
         },
         {
-          "title": "Après le Dual Mode, les écrans gaming passent au Triple Refresh Rate",
-          "link": "https://www.clubic.com/actualite-624310-apres-le-dual-mode-les-ecrans-gaming-passent-au-triple-refresh-rate.html",
-          "source": "Clubic",
-          "summary": "Les écrans Dual Refresh Rate (ou Dual Mode) ont commencé à résoudre un dilemme bien connu des joueurs : conserver une définition élevée pour les jeux immersifs ou la sacrifier afin d’atteindre une fréquence de…",
-          "published": "2026-08-06T09:55:00+00:00"
+          "title": "En promo à 575 €, ce laptop Asus avec un écran OLED de 16″, Ryzen 5 et 16+512 Go est une vraie pépite",
+          "link": "https://www.frandroid.com/bons-plans/3205233_en-promo-a-575-e-ce-laptop-asus-avec-un-ecran-oled-de-16-ryzen-5-et-16512-go-est-une-vraie-pepite",
+          "source": "Frandroid",
+          "summary": "L'Asus VivoBook 16 OLED M1605 est un portable grand format axé sur le confort, avec son écran OLED de 16\" comme argument principal, ainsi que son prix en baisse à 574,99 euros sur Cdiscount.",
+          "published": "2026-08-06T13:27:00+00:00"
         },
         {
-          "title": "La Pixel Watch 5 se dévoile avant l'heure et mise sur Gemini",
-          "link": "https://www.clubic.com/actualite-624301-la-pixel-watch-5-se-devoile-avant-l-heure-et-mise-sur-gemini.html",
+          "title": "Disney+ gratuit ? Disney confirme étudier une offre financée par la publicité",
+          "link": "https://www.clubic.com/actualite-624334-disney-gratuit-disney-confirme-etudier-une-offre-financee-par-la-publicite.html",
           "source": "Clubic",
-          "summary": "À six jours de sa présentation attendue, la prochaine montre connectée de Google apparaît dans une série de visuels promotionnels. Son apparence changerait à peine, mais la mémoire, les fonctions de santé et…",
-          "published": "2026-08-06T09:55:00+00:00"
+          "summary": "Disney réfléchit sérieusement à proposer une partie de Disney+ gratuitement, en échange de publicités. Le projet reste toutefois au stade de l’étude : aucun lancement, catalogue ni calendrier n’a encore été annoncé.",
+          "published": "2026-08-06T13:14:00+00:00"
+        },
+        {
+          "title": "Aperçu étendu de GTA 6 : est-il obligatoire de s’abonner à Netflix pour le regarder ?",
+          "link": "https://www.frandroid.com/produits-android/console/3205269_apercu-etendu-de-gta-6-est-il-obligatoire-de-sabonner-a-netflix-pour-le-regarder",
+          "source": "Frandroid",
+          "summary": "La première vidéo de gameplay de GTA VI sera disponible en avant-première sur Netflix le 27 août prochain. Mais faudra-t-il forcément être abonné au service pour la visionner ? On vous détaille le dispositif de Rockstar.",
+          "published": "2026-08-06T13:13:54+00:00"
+        },
+        {
+          "title": "Ces scènes de Spider-Man: Brand New Day prouvent qu’il a beaucoup copié les jeux PS5",
+          "link": "https://www.numerama.com/pop-culture/2307255-ces-scenes-de-spider-man-brand-new-day-prouvent-quil-a-beaucoup-copie-les-jeux-ps5.html",
+          "source": "Numerama",
+          "summary": "Ras-le-bol de la chorégraphie hollywoodienne générique ? Ça tombe bien, pour le quatrième opus des aventures de Tom Holland, l'équipe du film est allée chercher l'inspiration là où les bastons sont les plus…",
+          "published": "2026-08-06T13:00:00+00:00"
         }
       ]
     }
