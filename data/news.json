@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-07T02:52:38.283613+00:00",
+  "generated_at": "2026-08-07T04:53:32.745395+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En Colombie, le président d’extrême droite Abelardo de la Espriella prend ses fonctions sous le signe de la rupture",
+          "link": "https://www.lemonde.fr/international/article/2026/08/07/en-colombie-le-president-d-extreme-droite-abelardo-de-la-espriella-prend-ses-fonctions-sous-le-signe-de-la-rupture_6740462_3210.html",
+          "source": "Le Monde",
+          "summary": "Allié de Donald Trump, le nouveau chef de l’Etat, dont l’investiture est prévue vendredi 7 août, promet des coupes budgétaires, une « reconstruction morale » fondée sur le catholicisme et une « main de fer » contre les…",
+          "published": "2026-08-07T04:45:11+00:00"
+        },
+        {
+          "title": "Ceuta, bastion multiculturel fragile à l’épreuve d’une crise migratoire sans précédent",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/07/ceuta-bastion-multiculturel-fragile-a-l-epreuve-d-une-crise-migratoire-sans-precedent_6740461_3212.html",
+          "source": "Le Monde",
+          "summary": "L’irruption dans l’enclave espagnole de plus de 70 000 personnes venues du Maroc, entre le 30 et le 31 juillet, a mis en lumière les fêlures et les solidarités qui traversent cette ville où coexistent depuis toujours…",
+          "published": "2026-08-07T04:30:10+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+          "link": "https://www.lemonde.fr/international/live/2026/08/07/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le secrétaire général de l’ONU a demandé l’arrêt « immédiat » des frappes russes et ukrainiennes sur les zones civiles. Les deux pays ont intensifié leurs bombardements au cours des jours écoulés, qui « suivent un…",
+          "published": "2026-08-07T03:46:57+00:00"
+        },
+        {
+          "title": "Après les revers en Syrie et au Liban, le réseau des alliés de l’Iran se réorganise autour de l’Irak et du Yémen",
+          "link": "https://www.lemonde.fr/international/article/2026/08/07/apres-les-revers-en-syrie-et-au-liban-le-reseau-des-allies-de-l-iran-se-reorganise-autour-de-l-irak-et-du-yemen_6740450_3210.html",
+          "source": "Le Monde",
+          "summary": "Affaibli par la chute de Bachar Al-Assad et le recul du Hezbollah, l’« axe de la résistance » se recompose autour des milices irakiennes et des houthistes, qui offrent à la République islamique des relais de projection…",
+          "published": "2026-08-07T03:30:30+00:00"
+        },
+        {
+          "title": "Sadhguru, le gourou numérique qui assume d’« élever la conscience humaine » à travers d’autres voies",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/07/sadhguru-le-gourou-numerique-qui-assume-d-elever-la-conscience-humaine-a-travers-d-autres-voies_6740448_3451060.html",
+          "source": "Le Monde",
+          "summary": "« Gourous et ashrams, la ruée vers l’Ouest » (4/6). A la pointe sur les communications modernes, le maître indien Sadhguru a bâti un empire autour de la fondation qu’il a créée en 1992, Isha, engagée en particulier dans…",
+          "published": "2026-08-07T03:30:11+00:00"
+        },
+        {
+          "title": "Özgür Özel, opposant turc : « L’avenir de l’Europe dépend aussi de l’avenir de la démocratie turque »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/07/ozgur-ozel-opposant-turc-l-avenir-de-l-europe-depend-aussi-de-l-avenir-de-la-democratie-turque_6740447_3232.html",
+          "source": "Le Monde",
+          "summary": "Ankara est plus que jamais un acteur-clé de l’OTAN. L’Europe doit se soucier du risque que représente un retour de l’autoritarisme en Turquie, affirme le fondateur d’un nouveau parti d’opposition, dans une tribune au «…",
+          "published": "2026-08-07T03:30:10+00:00"
+        },
+        {
+          "title": "Moyen-Orient en direct : les dirigeants saoudien, turc et pakistanais en sommet à Jeddah",
+          "link": "https://www.france24.com/fr/moyen-orient/20260807-en-direct-moyen-orient-arabie-saoudite-turquie-pakistan-sommet-accord-defense-iran-ormuz-trump",
+          "source": "France 24",
+          "summary": "Le prince héritier saoudien, Mohamed ben Salmane, réunit vendredi à Jeddah les dirigeants turc et pakistanais pour sceller, avec un accord de défense, leur rapprochement opéré sur fond de guerre au Moyen-Orient. Donald…",
+          "published": "2026-08-07T02:38:28+00:00"
+        },
         {
           "title": "Au Nouveau-Mexique, Meta devra verser 567 millions de dollars pour protéger les mineurs",
           "link": "https://www.france24.com/fr/%C3%A9co-tech/20260807-au-nouveau-mexique-meta-devra-verser-567-millions-de-dollars-pour-prot%C3%A9ger-les-mineurs",
@@ -24,55 +73,6 @@
           "source": "France 24",
           "summary": "Le pouvoir et l'opposition vénézuéliens ont entamé jeudi à Caracas un dialogue supervisé par Washington, sept mois après la capture de Nicolas Maduro par l'armée américaine. Sans Maria Corina Machado, toujours en exil,…",
           "published": "2026-08-06T23:19:20+00:00"
-        },
-        {
-          "title": "Au Venezuela, début des pourparlers entre pouvoir et opposition, qui pourraient déboucher sur une transition politique et des élections",
-          "link": "https://www.lemonde.fr/international/article/2026/08/07/au-venezuela-debut-des-pourparlers-entre-pouvoir-et-opposition-qui-pourraient-deboucher-sur-une-transition-politique-et-des-elections_6740279_3210.html",
-          "source": "Le Monde",
-          "summary": "Sept mois après la capture du président Nicolas Maduro par les Etats-Unis, ces discussions se déroulent sous la houlette de Washington, mais sans la cheffe de l’opposition vénézuélienne Maria Corina Machado.",
-          "published": "2026-08-06T22:20:12+00:00"
-        },
-        {
-          "title": "\"Tourisme des naissances\" : Donald Trump tente à nouveau de contester le droit du sol",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260806-etats-unis-tourisme-des-naissances-donald-trump-tente-contester-droit-du-sol-nationalite-americaine",
-          "source": "France 24",
-          "summary": "Le président américain Donald Trump a signé jeudi un décret censé empêcher des étrangères d'accoucher aux États-Unis pour offrir la nationalité américaine à leur enfant. Une nouvelle offensive contre le droit du sol, un…",
-          "published": "2026-08-06T21:51:15+00:00"
-        },
-        {
-          "title": "Etats-Unis : Donald Trump prend un décret censé empêcher le « tourisme des naissances » et contester le droit du sol",
-          "link": "https://www.lemonde.fr/international/article/2026/08/06/etats-unis-donald-trump-prend-un-decret-cense-empecher-le-tourisme-des-naissances-et-contester-le-droit-du-sol_6740246_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président américain, dont une mesure sur le même thème a déjà été annulée par la Cour suprême, veut mettre un terme à la pratique consistant pour des étrangères à accoucher aux Etats-Unis afin que leur enfant soit…",
-          "published": "2026-08-06T21:37:31+00:00"
-        },
-        {
-          "title": "Ebola : un décès suspect sur un bateau en direction de Kinshasa",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260806-ebola-un-d%C3%A9c%C3%A8s-suspect-sur-un-bateau-en-direction-de-kinshasa",
-          "source": "France 24",
-          "summary": "\"Il faut intensifier la riposte contre Ebola\" selon le patron de l'Organisation mondiale de la santé. Il est en visite depuis mercredi en République démocratique du Congo. Depuis le 15 mai, plus de 3 900 cas ont été…",
-          "published": "2026-08-06T20:21:26+00:00"
-        },
-        {
-          "title": "Au Yémen, au moins 58 morts dans des attaques de rebelles houthis",
-          "link": "https://www.france24.com/fr/moyen-orient/20260806-y%C3%A9men-au-moins-58-morts-attaques-rebelles-houthis",
-          "source": "France 24",
-          "summary": "Les rebelles houthis du Yémen, soutenus par l'Iran, ont revendiqué jeudi des attaques contre les forces gouvernementales qui ont fait au moins 58 morts. Une réponse, selon eux, au récent renforcement des troupes…",
-          "published": "2026-08-06T19:55:27+00:00"
-        },
-        {
-          "title": "DZ Mafia : un nouveau cadre présumé du narcotrafic en France arrêté en Algérie",
-          "link": "https://www.france24.com/fr/france/20260806-dz-mafia-nouveau-cadre-pr%C3%A9sum%C3%A9-narcotrafic-france-arr%C3%AAt%C3%A9-alg%C3%A9rie-rachid-djeha",
-          "source": "France 24",
-          "summary": "Après l’interpellation en juillet en Algérie de Mehdi Laribi, alias \"Tic\", l’un des fondateurs de la DZ Mafia, les autorités algériennes ont procédé à une autre arrestation, début août, d’un trafiquant marseillais,…",
-          "published": "2026-08-06T19:42:59+00:00"
-        },
-        {
-          "title": "Syrie : deux morts dans l’explosion d’une bombe dans un bus près de Damas",
-          "link": "https://www.lemonde.fr/international/article/2026/08/06/syrie-deux-morts-dans-l-explosion-d-une-bombe-dans-un-bus-pres-de-damas_6740180_3210.html",
-          "source": "Le Monde",
-          "summary": "L’attaque est survenue à Jaramana, située dans la banlieue sud-est de la capitale, qui avait été touchée au printemps 2025 par des violences confessionnelles.",
-          "published": "2026-08-06T19:27:32+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Arrondissement de Saint-Laurent | Un bambin de 20 mois happé par un véhicule",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-06/arrondissement-de-saint-laurent/un-bambin-de-20-mois-happe-par-un-vehicule.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un véhicule a happé une poussette avec à son bord un enfant de 20 mois, sur le boulevard Montpellier dans l’arrondissement de Saint-Laurent. Le bambin a subi « d’importantes blessures au haut du corps ».",
-          "published": "2026-08-07T02:21:52+00:00"
-        },
-        {
-          "title": "Agression d’une adolescente « pro-Trump » | Une Canadienne sera déportée des États-Unis",
-          "link": "https://www.lapresse.ca/actualites/2026-08-06/agression-d-une-adolescente-pro-trump/une-canadienne-sera-deportee-des-etats-unis.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le département de la Sécurité intérieure des États-Unis a confirmé mercredi sur les réseaux sociaux qu’une Canadienne accusée d’avoir agressé une adolescente portant ce qui est qualifié de tenue « pro-Trump » allait…",
-          "published": "2026-08-07T00:29:35+00:00"
-        },
-        {
-          "title": "Mineurs sur les réseaux sociaux | Meta condamné à verser 567 millions de dollars au Nouveau-Mexique",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-06/mineurs-sur-les-reseaux-sociaux/meta-condamne-a-verser-567-millions-de-dollars-au-nouveau-mexique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un juge du Nouveau-Mexique a ordonné jeudi à Meta de financer à hauteur de 567 millions de dollars un fonds de réparation des dommages causés aux mineurs par ses plateformes, jugées responsables d’un « trouble à l’ordre…",
-          "published": "2026-08-07T00:19:58+00:00"
-        },
-        {
-          "title": "Trump tente à nouveau de contester le droit du sol, à la marge",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1000442/trump-tente-nouveau-contester-droit-sol-marge",
+          "title": "Nous ne devrions pas avoir à deviner où notre service mobile fonctionnera",
+          "link": "https://www.ledevoir.com/opinion/idees/1000292/nous-ne-devrions-pas-avoir-deviner-ou-notre-service-mobile-fonctionnera",
           "source": "Le Devoir",
-          "summary": "Le président avait déjà essayé l’an dernier de remettre en cause le 14e amendement de la Constitution américaine.",
-          "published": "2026-08-06T23:48:41+00:00"
+          "summary": "Savoir où une connexion risque de s’affaiblir ou de devenir indisponible fait partie de la prise de choix éclairé.",
+          "published": "2026-08-07T04:00:00+00:00"
         },
         {
-          "title": "À Ceuta, les enfants migrants risquent d’être victimes de maltraitance et d’exploitation",
-          "link": "https://www.ledevoir.com/monde/1000439/ceuta-enfants-migrants-risquent-etre-victimes-maltraitance-exploitation",
+          "title": "Partons en guerre contre les tiques",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/1000322/partons-guerre-contre-tiques",
           "source": "Le Devoir",
-          "summary": "Les autorités espagnoles peinent à prendre en charge les enfants restés sur ce territoire.",
-          "published": "2026-08-06T23:36:59+00:00"
+          "summary": "On est en présence d’un sérieux problème de santé publique, qui touchera de plus en plus de Québécois.",
+          "published": "2026-08-07T04:00:00+00:00"
         },
         {
-          "title": "Omnium Banque Nationale | Alexis Galarneau : un rayon de soleil dans un ciel sombre",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-06/omnium-banque-nationale/alexis-galarneau-un-rayon-de-soleil-dans-un-ciel-sombre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Qui aurait cru, au début de l’Omnium Banque Nationale, qu’Alexis Galarneau serait le dernier joueur québécois toujours en lice ? Et qui aurait cru qu’il se serait assuré d’un match supplémentaire en prenant la mesure…",
-          "published": "2026-08-06T23:05:49+00:00"
-        },
-        {
-          "title": "Le parfait été d’un ancien premier ministre",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-06/le-parfait-ete-d-un-ancien-premier-ministre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Avec la Coupe du monde de la FIFA, cet été a été déclaré « celui du sport » par le magazine Vogue, un peu à l’image du Maclean’s, qui avait comme titre en frontispice « L’été du soccer ». Pour The Economist, la…",
-          "published": "2026-08-06T23:00:00+00:00"
-        },
-        {
-          "title": "Mise en garde après le contact d’une visiteuse avec un macaque au Zoo de Granby",
-          "link": "https://www.ledevoir.com/actualites/sante/1000424/mise-garde-apres-contact-visiteuse-macaque-zoo-granby",
+          "title": "Qu’aurait dû contenir le PGIRE?",
+          "link": "https://www.ledevoir.com/opinion/idees/1000277/aurait-contenir-pgire",
           "source": "Le Devoir",
-          "summary": "Ces primates peuvent être porteurs du virus de l’herpès B.",
-          "published": "2026-08-06T22:51:58+00:00"
+          "summary": "Là où le bât blesse, c’est la place marginale réservée à la production distribuée.",
+          "published": "2026-08-07T04:00:00+00:00"
         },
         {
-          "title": "Affaire d’espionnage à l’OTAN | Carney doit fournir des explications, estime Poilievre",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-06/affaire-d-espionnage-a-l-otan/carney-doit-fournir-des-explications-estime-poilievre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le chef du Parti conservateur, Pierre Poilievre, a déclaré jeudi que le premier ministre Mark Carney « avait beaucoup d’explications à fournir » sur la manière dont le gouvernement avait failli à la vérification des…",
-          "published": "2026-08-06T22:44:04+00:00"
-        },
-        {
-          "title": "Au tour d’Alex de Minaur d’être éliminé à l’Omnium Banque Nationale",
-          "link": "https://www.ledevoir.com/sports/1000418/fils-darderi-atteignent-quatrieme-tour-obn-montreal",
+          "title": "Le leadership commence par le dialogue",
+          "link": "https://www.ledevoir.com/opinion/idees/1000280/leadership-commence-dialogue",
           "source": "Le Devoir",
-          "summary": "L’Australien était le joueur le mieux classé toujours en lice après les deux premiers tours.",
-          "published": "2026-08-06T22:39:00+00:00"
+          "summary": "Nos dirigeants politiques devraient saisir les occasions de s’adresser directement aux Québécois d’expression anglaise.",
+          "published": "2026-08-07T04:00:00+00:00"
+        },
+        {
+          "title": "Servir le pays, sans titre",
+          "link": "https://www.ledevoir.com/opinion/chroniques/1000271/servir-pays-titre",
+          "source": "Le Devoir",
+          "summary": "Les ex-premiers ministres ont presque tous reçu l’Ordre du Canada. On ne peut pas en dire autant de leurs partenaires, qu’il est temps de reconnaître.",
+          "published": "2026-08-07T04:00:00+00:00"
+        },
+        {
+          "title": "TDJ trace son chemin dans la trance",
+          "link": "https://www.ledevoir.com/culture/musique/1000316/tdj-trace-chemin-trance",
+          "source": "Le Devoir",
+          "summary": "La compositrice, DJ et remixeuse montréalaise Geneviève Ryan-Martel se produira samedi au festival ÎleSoniq.",
+          "published": "2026-08-07T04:00:00+00:00"
+        },
+        {
+          "title": "Le Château Beauce n’est plus classé comme bien patrimonial",
+          "link": "https://www.ledevoir.com/politique/quebec/1000274/chateau-beauce-est-plus-classe-comme-bien-patrimonial",
+          "source": "Le Devoir",
+          "summary": "L’organisme propriétaire souhaite le céder et lui trouver une nouvelle vocation d’ici la fin de l’année.",
+          "published": "2026-08-07T04:00:00+00:00"
+        },
+        {
+          "title": "«Le rire et le couteau»: recadrer le regard ethnographique",
+          "link": "https://www.ledevoir.com/culture/cinema/1000295/rire-couteau-recadrer-regard-ethnographique",
+          "source": "Le Devoir",
+          "summary": "Pedro Pinho dénonce les systèmes de violences coloniales dans ce film-fleuve primé au Festival du nouveau cinéma.",
+          "published": "2026-08-07T04:00:00+00:00"
+        },
+        {
+          "title": "«L’héritier des secrets»: hagiographie d’un fantôme",
+          "link": "https://www.ledevoir.com/culture/cinema/1000307/heritier-secrets-hagiographie-fantome",
+          "source": "Le Devoir",
+          "summary": "Le film de Mohamed Nadif s’articule autour d’un dispositif d’absence, mais n’en tire au final qu’une charge émotionnelle diffuse.",
+          "published": "2026-08-07T04:00:00+00:00"
+        },
+        {
+          "title": "Le retour de certains spiritueux américains à la SAQ ébranle des distilleries québécoises",
+          "link": "https://www.ledevoir.com/economie/consommation/1000262/retour-certains-spiritueux-americains-saq-ebranle-distilleries-quebecoises",
+          "source": "Le Devoir",
+          "summary": "Les producteurs du Sour Puss et du Kraken ont déplacé une partie de leur production ici pour revenir sur les tablettes.",
+          "published": "2026-08-07T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Meta condamné à verser 567 millions de dollars supplémentaires au Nouveau-Mexique pour protéger les mineurs sur Facebook et Instagram",
-          "link": "https://www.lemonde.fr/pixels/article/2026/08/07/meta-condamne-a-verser-567-millions-de-dollars-supplementaires-au-nouveau-mexique-pour-proteger-les-mineurs-sur-facebook-et-instagram_6740345_4408996.html",
-          "source": "Le Monde",
-          "summary": "La somme, qui doit financer sur cinq ans des programmes de santé mentale et de prévention pour les jeunes, s’ajoute aux 375 millions de dollars de pénalités civiles infligées en mars.",
-          "published": "2026-08-07T01:42:12+00:00"
-        },
-        {
-          "title": "EN DIRECT - Incendies en France : le feu dans l’Aude est désormais «fixé»",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-canicule-levee-de-la-vigilance-orange-dans-le-rhone-et-l-isere-huit-departements-du-sud-est-toujours-concernes-20260806",
-          "source": "Le Figaro",
-          "summary": "Un incendie provoqué jeudi par un accident de la route avait mobilisé d’importants moyens dont quatre Canadair et deux Dash dans les Corbières, près de Narbonne, non loin du secteur où 11.000 hectares avaient brûlé il y…",
-          "published": "2026-08-07T01:29:02+00:00"
-        },
-        {
-          "title": "EN DIRECT, incendies : dans l’Aude, le feu signalé à Montséret est « fixé »",
-          "link": "https://www.lemonde.fr/planete/live/2026/08/07/en-direct-incendies-dans-l-aude-le-feu-signale-a-montseret-est-fixe_6737310_3244.html",
-          "source": "Le Monde",
-          "summary": "Dans le Var, sept massifs forestiers seront interdits d’accès vendredi en raison de risques extrêmes et très sévères d’incendie, a fait savoir la préfecture.",
-          "published": "2026-08-06T23:33:03+00:00"
-        },
-        {
-          "title": "Arabie saoudite, Turquie et Pakistan annoncent signer un accord de défense vendredi à Jeddah",
-          "link": "https://www.lefigaro.fr/international/un-sommet-reunira-vendredi-a-jeddah-les-dirigeants-saoudien-turc-et-pakistanais-20260806",
-          "source": "Le Figaro",
-          "summary": "Le prince héritier saoudien Mohammed ben Salmane, le président turc Recep Tayyip Erdogan et le premier ministre pakistanais Shehbaz Sharif seront réunis dans la ville saoudienne pour un sommet entre les trois pays…",
-          "published": "2026-08-06T23:25:51+00:00"
-        },
-        {
-          "title": "Au Venezuela, début des pourparlers entre pouvoir et opposition, qui pourraient déboucher sur une transition politique et des élections",
-          "link": "https://www.lemonde.fr/international/article/2026/08/07/au-venezuela-debut-des-pourparlers-entre-pouvoir-et-opposition-qui-pourraient-deboucher-sur-une-transition-politique-et-des-elections_6740279_3210.html",
-          "source": "Le Monde",
-          "summary": "Sept mois après la capture du président Nicolas Maduro par les Etats-Unis, ces discussions se déroulent sous la houlette de Washington, mais sans la cheffe de l’opposition vénézuélienne Maria Corina Machado.",
-          "published": "2026-08-06T22:20:12+00:00"
-        },
-        {
-          "title": "Ingérences étrangères : après l’appel de Marine Tondelier à interdire X en France, Elon Musk veut la «réduire au silence» pour «trahison»",
-          "link": "https://www.lefigaro.fr/politique/ingerences-etrangeres-apres-l-appel-de-marine-tondelier-a-interdire-x-en-france-elon-musk-exige-qu-elle-soit-reduite-au-silence-pour-trahison-20260806",
-          "source": "Le Figaro",
-          "summary": "Sur fond de débats autour des ingérences dans la campagne présidentielle, la chef de file des Écologistes juge que l’algorithme de X exerce «un impact structurel, quotidien, de chaque minute» sur la désinformation.",
-          "published": "2026-08-06T21:58:21+00:00"
-        },
-        {
-          "title": "Au Venezuela, des délégations de l'opposition et du pouvoir initient un dialogue sous la houlette des Etats-Unis",
-          "link": "https://www.franceinfo.fr/monde/venezuela/au-venezuela-des-delegations-de-l-opposition-et-du-pouvoir-initient-un-dialogue-sous-la-houlette-des-etats-unis_8137751.html#xtor=RSS-3-[lestitres]",
+          "title": "Un cadavre retrouvé dans une maison détruite par un vaste incendie en Californie",
+          "link": "https://www.franceinfo.fr/monde/usa/incendies-en-californie/un-cadavre-retrouve-dans-une-maison-detruite-par-un-vaste-incendie-en-californie_8137985.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les deux délégations se sont rencontrées au centre des Conventions, sur la base militaire de La Carlota, sept mois après la capture du président Nicolas Maduro par l'armée américaine. Il n'y a pas eu de déclaration…",
-          "published": "2026-08-06T21:49:09+00:00"
+          "summary": "Les flammes ont parcouru plus de 4 200 hectares et forcé près de 1 500 personnes à évacuer.",
+          "published": "2026-08-07T04:45:44+00:00"
         },
         {
-          "title": "Le feu qui s'est déclaré dans l'Aude est désormais \"fixé\", après avoir brûlé 50 hectares dans le massif des Corbières",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-feu-qui-s-est-declare-dans-le-massif-des-corbieres-est-desormais-contenu-apres-avoir-parcouru-100-hectares_8137727.html#xtor=RSS-3-[lestitres]",
+          "title": "Tour de France femmes 2026 : l'heure de l'explication tant attendue entre les favorites dans les pentes du Ventoux est arrivée... La 7e étape en questions",
+          "link": "https://www.franceinfo.fr/tour-de-france/etape-du-jour/tour-de-france-femmes-2026-l-heure-de-l-explication-tant-attendue-entre-les-favorites-dans-les-pentes-du-ventoux-est-arrivee-la-7e-etape-en-questions_8135963.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "D'importants moyens ont rapidement été engagés après le départ de l'incendie, causé par un accident de la route. L'an passé, un mégafeu avait brûlé 11 000 hectares dans le secteur.",
-          "published": "2026-08-06T21:42:28+00:00"
+          "summary": "Les coureuses ont rendez-vous avec le mont Chauve, vendredi, pour l'un des gros temps forts de cette édition 2026.",
+          "published": "2026-08-07T04:45:01+00:00"
         },
         {
-          "title": "Etats-Unis : Donald Trump prend un décret censé empêcher le « tourisme des naissances » et contester le droit du sol",
-          "link": "https://www.lemonde.fr/international/article/2026/08/06/etats-unis-donald-trump-prend-un-decret-cense-empecher-le-tourisme-des-naissances-et-contester-le-droit-du-sol_6740246_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président américain, dont une mesure sur le même thème a déjà été annulée par la Cour suprême, veut mettre un terme à la pratique consistant pour des étrangères à accoucher aux Etats-Unis afin que leur enfant soit…",
-          "published": "2026-08-06T21:37:31+00:00"
+          "title": "\"Nous appelons au secours\" : à Ceuta, les autorités espagnoles n'ont pas suffisamment de ressources pour prendre en charge les mineurs isolés",
+          "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/nous-appelons-au-secours-a-ceuta-les-autorites-espagnoles-n-ont-pas-suffisamment-de-ressources-pour-prendre-en-charge-les-mineurs-isoles_8137511.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Du fait de leur minorité, les migrants de moins de 18 ans ne peuvent pas faire l'objet de renvois immédiats et doivent bénéficier d'un accueil.",
+          "published": "2026-08-07T04:37:12+00:00"
         },
         {
-          "title": "Affaire des étudiants disparus au Mexique : un ancien gouverneur arrêté",
-          "link": "https://www.lefigaro.fr/international/affaire-des-etudiants-disparus-au-mexique-un-ancien-gouverneur-arrete-20260806",
+          "title": "Comment Demi Vollering a corrigé ses failles mentales pour enfin conquérir un deuxième Tour de France femmes",
+          "link": "https://www.franceinfo.fr/tour-de-france/femmes/comment-demi-vollering-a-corrige-ses-failles-mentales-pour-enfin-conquerir-un-deuxieme-tour-de-france-femmes_8136926.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Vainqueure du Tour de France 2023, la Néerlandaise de 29 ans affiche une sérénité nouvelle, à l’heure de défier Pauline Ferrand-Prévôt sur le mont Ventoux.",
+          "published": "2026-08-07T04:30:02+00:00"
+        },
+        {
+          "title": "Le 3 km knock-out, ce nouveau format très \"show\" de l’eau libre dans la Seine",
+          "link": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/le-3-km-knock-out-ce-nouveau-format-tres-show-de-l-eau-libre-dans-la-seine_8134913.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Programmés vendredi, les deux courses femmes et hommes du 3 km knock-out promettent d'offrir aux Parisiens de belles luttes pour ouvrir le compteur français de médailles de l'eau libre.",
+          "published": "2026-08-07T04:30:01+00:00"
+        },
+        {
+          "title": "Paris, Lyon, Toulouse… Les prix des chambres en colocation diminuent dans plusieurs grandes villes françaises",
+          "link": "https://etudiant.lefigaro.fr/article/vie-etudiante/paris-lyon-toulouse-les-prix-des-chambres-en-colocation-diminuent-dans-plusieurs-grandes-villes-francaises-20260807/",
           "source": "Le Figaro",
-          "summary": "43 étudiants de l’école normale d’Ayotzinapa ont disparu le 26 septembre 2014 dans l’État de Guerrero, alors qu’ils se rendaient en autocar à Mexico pour participer à une manifestation.",
-          "published": "2026-08-06T21:36:51+00:00"
+          "summary": "Selon une nouvelle récente étude, le loyer moyen des chambres en colocation est en baisse dans plusieurs métropoles. En revanche, les tarifs des studios sont orientés à la hausse.",
+          "published": "2026-08-07T04:30:00+00:00"
+        },
+        {
+          "title": "Netflix et les salles de cinéma : hier, le mépris, aujourd’hui, love story",
+          "link": "https://www.liberation.fr/culture/cinema/de-concept-depasse-a-manne-financiere-le-grand-retour-de-netflix-vers-la-salle-de-cinema-20260807_PN5BVFLVPNHI5OVINLKVIBARDI/",
+          "source": "Liberation",
+          "summary": "La plateforme américaine s’est longtemps vendue en opposition à la salle de cinéma, jugée ringarde, mais son programme de rentrée démontre que la projection publique sert désormais ses intérêts.",
+          "published": "2026-08-07T04:30:00+00:00"
+        },
+        {
+          "title": "Thaïlande : deux morts, dont le tireur, et des blessés lors d’une fusillade dans une école près de Bangkok",
+          "link": "https://www.lefigaro.fr/international/thailande-au-moins-10-eleves-blesses-lors-d-une-fusillade-dans-une-ecole-pres-de-bangkok-20260807",
+          "source": "Le Figaro",
+          "summary": "Un enseignant a été tué et quatre autres personnes ont été blessées lors d’une fusillade dans une école en Thaïlande. Le tireur, un élève, s’est donné la mort.",
+          "published": "2026-08-07T04:27:09+00:00"
+        },
+        {
+          "title": "Huit départements du sud-est maintenus en vigilance orange canicule",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/huit-departements-du-sud-est-maintenus-en-vigilance-orange-canicule_8137973.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Météo-France anticipe des températures maximales proches de celles de jeudi, avec des pointes autour de 40 degrés.",
+          "published": "2026-08-07T04:26:49+00:00"
+        },
+        {
+          "title": "\"Alley Cats\" : la nouvelle série du \"roi de l'humour britannique\" Ricky Gervais met en piste une bande de chats grossiers, hilarants et terriblement humains",
+          "link": "https://www.franceinfo.fr/culture/series/alley-cats-la-nouvelle-serie-du-roi-de-l-humour-britannique-ricky-gervais-met-en-piste-une-bande-de-chats-grossiers-hilarants-et-terriblement-humains_8137211.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Pour la première fois, l'humoriste réalise une série animée dont les dialogues ont été écrits avant d'être mis en images. Avec son humour corrosif qui demeure dans la droite ligne de ses provocations passées, il devrait…",
+          "published": "2026-08-07T04:05:01+00:00"
         }
       ]
     },
