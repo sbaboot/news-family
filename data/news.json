@@ -1,15 +1,50 @@
 {
-  "generated_at": "2026-08-07T04:53:32.745395+00:00",
+  "generated_at": "2026-08-07T07:13:13.326356+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Fusillade dans un lycée de Bangkok, au moins neuf morts dont le tireur présumé",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260807-fusillade-dans-un-lyc%C3%A9e-de-bangkok-au-moins-neuf-morts-dont-le-tireur-pr%C3%A9sum%C3%A9-tha%C3%AFlande",
+          "source": "France 24",
+          "summary": "Une fusillade a eu lieu vendredi dans un lycée de Bangkok en Thaïlande. Au moins neuf personnes sont mortes, dont le tireur présumé - un adolescent scolarisé dans l'établissement. Quinze élèves ton également été blessés.",
+          "published": "2026-08-07T07:03:50+00:00"
+        },
+        {
+          "title": "En Thaïlande, un adolescent armé d’un pistolet tue huit personnes, dont six dans un lycée",
+          "link": "https://www.lemonde.fr/international/article/2026/08/07/en-thailande-au-moins-quatre-personnes-tuees-par-des-coups-de-feu_6740466_3210.html",
+          "source": "Le Monde",
+          "summary": "L’adolescent a d’abord tué ses grands-parents à l’aide d’un pistolet appartenant à son grand-père. Il s’est ensuite rendu à son lycée, où il a tué six personnes, a affirmé la police locale dans un communiqué.",
+          "published": "2026-08-07T06:27:27+00:00"
+        },
+        {
+          "title": "\"Sauvez mon petit !\" : l'accueil des enfants espagnols en France pendant la guerre civile (2/4)",
+          "link": "https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire",
+          "source": "France 24",
+          "summary": "Il y a 90 ans, la guerre d'Espagne (2/4). Au cours de ce conflit, près de 15 000 enfants originaires de la zone républicaine ont été envoyés en France. Ces \"enfants de la guerre\" ont été placés dans des familles…",
+          "published": "2026-08-07T06:01:07+00:00"
+        },
+        {
+          "title": "Yan Diomandé, l’Ivoirien qui affole les records en rejoignant le Real Madrid",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260807-yan-diomand%C3%A9-l-ivoirien-qui-affole-les-records-en-rejoignant-le-real-madrid",
+          "source": "France 24",
+          "summary": "Le Real Madrid a officialisé la signature de Yan Diomandé jusqu’en 2033 en provenance de Leipzig. Estimé à 125 millions d’euros, plus 15 millions de bonus, le transfert devient le plus cher de l’histoire du club…",
+          "published": "2026-08-07T05:13:11+00:00"
+        },
+        {
+          "title": "Vivre dans une ville expérimentale : Detroit",
+          "link": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20260807-vivre-dans-une-ville-exp%C3%A9rimentale-detroit",
+          "source": "RFI",
+          "summary": "Dans ce cinquième épisode de notre série “vivre en ville”, direction Détroit aux Etats-Unis. Ville du Michigan, située dans la Rust Belt, la région industrielle des Etats-Unis, Détroit est surnommée “Motor City”, la…",
+          "published": "2026-08-07T05:00:08+00:00"
+        },
+        {
           "title": "En Colombie, le président d’extrême droite Abelardo de la Espriella prend ses fonctions sous le signe de la rupture",
           "link": "https://www.lemonde.fr/international/article/2026/08/07/en-colombie-le-president-d-extreme-droite-abelardo-de-la-espriella-prend-ses-fonctions-sous-le-signe-de-la-rupture_6740462_3210.html",
           "source": "Le Monde",
           "summary": "Allié de Donald Trump, le nouveau chef de l’Etat, dont l’investiture est prévue vendredi 7 août, promet des coupes budgétaires, une « reconstruction morale » fondée sur le catholicisme et une « main de fer » contre les…",
-          "published": "2026-08-07T04:45:11+00:00"
+          "published": "2026-08-07T04:45:08+00:00"
         },
         {
           "title": "Ceuta, bastion multiculturel fragile à l’épreuve d’une crise migratoire sans précédent",
@@ -19,11 +54,11 @@
           "published": "2026-08-07T04:30:10+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+          "title": "EN DIRECT, guerre en Ukraine : le géant russe de l’e-commerce Wildberries de nouveau pris pour cible par Kiev ; incendie dans un de ses centres logistiques dans l’Oural",
           "link": "https://www.lemonde.fr/international/live/2026/08/07/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6737250_3210.html",
           "source": "Le Monde",
-          "summary": "Le secrétaire général de l’ONU a demandé l’arrêt « immédiat » des frappes russes et ukrainiennes sur les zones civiles. Les deux pays ont intensifié leurs bombardements au cours des jours écoulés, qui « suivent un…",
-          "published": "2026-08-07T03:46:57+00:00"
+          "summary": "Depuis la mi-juillet, l’Ukraine a attaqué une vingtaine de sites appartenant à Wildberries, plate-forme de commerce en ligne très populaire, souvent qualifiée d’« Amazon russe », presque aux quatre coins de la Russie et…",
+          "published": "2026-08-07T03:46:51+00:00"
         },
         {
           "title": "Après les revers en Syrie et au Liban, le réseau des alliés de l’Iran se réorganise autour de l’Irak et du Yémen",
@@ -38,41 +73,6 @@
           "source": "Le Monde",
           "summary": "« Gourous et ashrams, la ruée vers l’Ouest » (4/6). A la pointe sur les communications modernes, le maître indien Sadhguru a bâti un empire autour de la fondation qu’il a créée en 1992, Isha, engagée en particulier dans…",
           "published": "2026-08-07T03:30:11+00:00"
-        },
-        {
-          "title": "Özgür Özel, opposant turc : « L’avenir de l’Europe dépend aussi de l’avenir de la démocratie turque »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/07/ozgur-ozel-opposant-turc-l-avenir-de-l-europe-depend-aussi-de-l-avenir-de-la-democratie-turque_6740447_3232.html",
-          "source": "Le Monde",
-          "summary": "Ankara est plus que jamais un acteur-clé de l’OTAN. L’Europe doit se soucier du risque que représente un retour de l’autoritarisme en Turquie, affirme le fondateur d’un nouveau parti d’opposition, dans une tribune au «…",
-          "published": "2026-08-07T03:30:10+00:00"
-        },
-        {
-          "title": "Moyen-Orient en direct : les dirigeants saoudien, turc et pakistanais en sommet à Jeddah",
-          "link": "https://www.france24.com/fr/moyen-orient/20260807-en-direct-moyen-orient-arabie-saoudite-turquie-pakistan-sommet-accord-defense-iran-ormuz-trump",
-          "source": "France 24",
-          "summary": "Le prince héritier saoudien, Mohamed ben Salmane, réunit vendredi à Jeddah les dirigeants turc et pakistanais pour sceller, avec un accord de défense, leur rapprochement opéré sur fond de guerre au Moyen-Orient. Donald…",
-          "published": "2026-08-07T02:38:28+00:00"
-        },
-        {
-          "title": "Au Nouveau-Mexique, Meta devra verser 567 millions de dollars pour protéger les mineurs",
-          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260807-au-nouveau-mexique-meta-devra-verser-567-millions-de-dollars-pour-prot%C3%A9ger-les-mineurs",
-          "source": "France 24",
-          "summary": "Un juge du Nouveau-Mexique a ordonné jeudi à Meta de financer un fonds de 567 millions de dollars destiné à réparer les dommages causés aux mineurs par ses réseaux sociaux, une première aux États-Unis. Le juge a assorti…",
-          "published": "2026-08-07T01:13:09+00:00"
-        },
-        {
-          "title": "Après les incendies dans le nord-ouest des Etats-Unis, un suspect avoue avoir planifié vingt-cinq départs de feu depuis 2025",
-          "link": "https://www.lemonde.fr/international/article/2026/08/07/apres-les-incendies-dans-le-nord-ouest-des-etats-unis-un-suspect-avoue-avoir-planifie-vingt-cinq-departs-de-feu-depuis-2025_6740312_3210.html",
-          "source": "Le Monde",
-          "summary": "Déjà condamné pour avoir tué son père, l’homme aurait choisi la date de l’incendie en fonction des conditions météo et se serait inspiré d’un célèbre pyromane, selon les premiers éléments de l’enquête.",
-          "published": "2026-08-07T00:01:19+00:00"
-        },
-        {
-          "title": "Au Venezuela, le dialogue entre pouvoir et opposition en vue d'une transition a commencé",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260806-venezuela-debut-dialogue-pouvoir-opposition-transition-dinorah-figuera-jorge-rodriguez",
-          "source": "France 24",
-          "summary": "Le pouvoir et l'opposition vénézuéliens ont entamé jeudi à Caracas un dialogue supervisé par Washington, sept mois après la capture de Nicolas Maduro par l'armée américaine. Sans Maria Corina Machado, toujours en exil,…",
-          "published": "2026-08-06T23:19:20+00:00"
         }
       ]
     },
@@ -84,10 +84,10 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Nous ne devrions pas avoir à deviner où notre service mobile fonctionnera",
-          "link": "https://www.ledevoir.com/opinion/idees/1000292/nous-ne-devrions-pas-avoir-deviner-ou-notre-service-mobile-fonctionnera",
+          "title": "«Le rire et le couteau»: recadrer le regard ethnographique",
+          "link": "https://www.ledevoir.com/culture/cinema/1000295/rire-couteau-recadrer-regard-ethnographique",
           "source": "Le Devoir",
-          "summary": "Savoir où une connexion risque de s’affaiblir ou de devenir indisponible fait partie de la prise de choix éclairé.",
+          "summary": "Pedro Pinho dénonce les systèmes de violences coloniales dans ce film-fleuve primé au Festival du nouveau cinéma.",
           "published": "2026-08-07T04:00:00+00:00"
         },
         {
@@ -98,10 +98,10 @@
           "published": "2026-08-07T04:00:00+00:00"
         },
         {
-          "title": "Qu’aurait dû contenir le PGIRE?",
-          "link": "https://www.ledevoir.com/opinion/idees/1000277/aurait-contenir-pgire",
+          "title": "Nous ne devrions pas avoir à deviner où notre service mobile fonctionnera",
+          "link": "https://www.ledevoir.com/opinion/idees/1000292/nous-ne-devrions-pas-avoir-deviner-ou-notre-service-mobile-fonctionnera",
           "source": "Le Devoir",
-          "summary": "Là où le bât blesse, c’est la place marginale réservée à la production distribuée.",
+          "summary": "Savoir où une connexion risque de s’affaiblir ou de devenir indisponible fait partie de la prise de choix éclairé.",
           "published": "2026-08-07T04:00:00+00:00"
         },
         {
@@ -109,6 +109,13 @@
           "link": "https://www.ledevoir.com/opinion/idees/1000280/leadership-commence-dialogue",
           "source": "Le Devoir",
           "summary": "Nos dirigeants politiques devraient saisir les occasions de s’adresser directement aux Québécois d’expression anglaise.",
+          "published": "2026-08-07T04:00:00+00:00"
+        },
+        {
+          "title": "Qu’aurait dû contenir le PGIRE?",
+          "link": "https://www.ledevoir.com/opinion/idees/1000277/aurait-contenir-pgire",
+          "source": "Le Devoir",
+          "summary": "Là où le bât blesse, c’est la place marginale réservée à la production distribuée.",
           "published": "2026-08-07T04:00:00+00:00"
         },
         {
@@ -133,13 +140,6 @@
           "published": "2026-08-07T04:00:00+00:00"
         },
         {
-          "title": "«Le rire et le couteau»: recadrer le regard ethnographique",
-          "link": "https://www.ledevoir.com/culture/cinema/1000295/rire-couteau-recadrer-regard-ethnographique",
-          "source": "Le Devoir",
-          "summary": "Pedro Pinho dénonce les systèmes de violences coloniales dans ce film-fleuve primé au Festival du nouveau cinéma.",
-          "published": "2026-08-07T04:00:00+00:00"
-        },
-        {
           "title": "«L’héritier des secrets»: hagiographie d’un fantôme",
           "link": "https://www.ledevoir.com/culture/cinema/1000307/heritier-secrets-hagiographie-fantome",
           "source": "Le Devoir",
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Un cadavre retrouvé dans une maison détruite par un vaste incendie en Californie",
-          "link": "https://www.franceinfo.fr/monde/usa/incendies-en-californie/un-cadavre-retrouve-dans-une-maison-detruite-par-un-vaste-incendie-en-californie_8137985.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les flammes ont parcouru plus de 4 200 hectares et forcé près de 1 500 personnes à évacuer.",
-          "published": "2026-08-07T04:45:44+00:00"
-        },
-        {
-          "title": "Tour de France femmes 2026 : l'heure de l'explication tant attendue entre les favorites dans les pentes du Ventoux est arrivée... La 7e étape en questions",
-          "link": "https://www.franceinfo.fr/tour-de-france/etape-du-jour/tour-de-france-femmes-2026-l-heure-de-l-explication-tant-attendue-entre-les-favorites-dans-les-pentes-du-ventoux-est-arrivee-la-7e-etape-en-questions_8135963.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les coureuses ont rendez-vous avec le mont Chauve, vendredi, pour l'un des gros temps forts de cette édition 2026.",
-          "published": "2026-08-07T04:45:01+00:00"
-        },
-        {
-          "title": "\"Nous appelons au secours\" : à Ceuta, les autorités espagnoles n'ont pas suffisamment de ressources pour prendre en charge les mineurs isolés",
-          "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/nous-appelons-au-secours-a-ceuta-les-autorites-espagnoles-n-ont-pas-suffisamment-de-ressources-pour-prendre-en-charge-les-mineurs-isoles_8137511.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Du fait de leur minorité, les migrants de moins de 18 ans ne peuvent pas faire l'objet de renvois immédiats et doivent bénéficier d'un accueil.",
-          "published": "2026-08-07T04:37:12+00:00"
-        },
-        {
-          "title": "Comment Demi Vollering a corrigé ses failles mentales pour enfin conquérir un deuxième Tour de France femmes",
-          "link": "https://www.franceinfo.fr/tour-de-france/femmes/comment-demi-vollering-a-corrige-ses-failles-mentales-pour-enfin-conquerir-un-deuxieme-tour-de-france-femmes_8136926.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Vainqueure du Tour de France 2023, la Néerlandaise de 29 ans affiche une sérénité nouvelle, à l’heure de défier Pauline Ferrand-Prévôt sur le mont Ventoux.",
-          "published": "2026-08-07T04:30:02+00:00"
-        },
-        {
-          "title": "Le 3 km knock-out, ce nouveau format très \"show\" de l’eau libre dans la Seine",
-          "link": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/le-3-km-knock-out-ce-nouveau-format-tres-show-de-l-eau-libre-dans-la-seine_8134913.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Programmés vendredi, les deux courses femmes et hommes du 3 km knock-out promettent d'offrir aux Parisiens de belles luttes pour ouvrir le compteur français de médailles de l'eau libre.",
-          "published": "2026-08-07T04:30:01+00:00"
-        },
-        {
-          "title": "Paris, Lyon, Toulouse… Les prix des chambres en colocation diminuent dans plusieurs grandes villes françaises",
-          "link": "https://etudiant.lefigaro.fr/article/vie-etudiante/paris-lyon-toulouse-les-prix-des-chambres-en-colocation-diminuent-dans-plusieurs-grandes-villes-francaises-20260807/",
-          "source": "Le Figaro",
-          "summary": "Selon une nouvelle récente étude, le loyer moyen des chambres en colocation est en baisse dans plusieurs métropoles. En revanche, les tarifs des studios sont orientés à la hausse.",
-          "published": "2026-08-07T04:30:00+00:00"
-        },
-        {
-          "title": "Netflix et les salles de cinéma : hier, le mépris, aujourd’hui, love story",
-          "link": "https://www.liberation.fr/culture/cinema/de-concept-depasse-a-manne-financiere-le-grand-retour-de-netflix-vers-la-salle-de-cinema-20260807_PN5BVFLVPNHI5OVINLKVIBARDI/",
+          "title": "Les hôtesses et stewards d’EasyJet en grève perlée entre le 7 août et le 2 septembre",
+          "link": "https://www.liberation.fr/economie/social/les-hotesses-et-stewards-deasyjet-deposent-un-large-preavis-de-greve-du-7-aout-au-2-septembre-20260804_K4AMWS75CREFLCDAXLTVCDHGWE/",
           "source": "Liberation",
-          "summary": "La plateforme américaine s’est longtemps vendue en opposition à la salle de cinéma, jugée ringarde, mais son programme de rentrée démontre que la projection publique sert désormais ses intérêts.",
-          "published": "2026-08-07T04:30:00+00:00"
+          "summary": "Les syndicats, qui dénoncent notamment «l’instabilité chronique des plannings», et «l’absence totale de mesures protectrices» de la part de leur direction, précisent que les jours de mobilisation seront communiqués 48…",
+          "published": "2026-08-07T07:06:14+00:00"
         },
         {
-          "title": "Thaïlande : deux morts, dont le tireur, et des blessés lors d’une fusillade dans une école près de Bangkok",
+          "title": "Confrontés à «une cascade d’annulation» en Gironde, les professionnels du tourisme veulent rassurer après les incendies",
+          "link": "https://www.lefigaro.fr/societes/confrontes-a-une-cascade-d-annulation-en-gironde-les-professionnels-du-tourisme-veulent-rassurer-apres-les-incendies-20260807",
+          "source": "Le Figaro",
+          "summary": "Après un début de saison marqué par les fermetures des établissements devant l’avancée des flammes, le secteur tente de faire revenir les vacanciers dans le Sud-Ouest.",
+          "published": "2026-08-07T07:03:07+00:00"
+        },
+        {
+          "title": "Eclipse du 12 août : mode d’emploi pour un spectacle réussi",
+          "link": "https://www.liberation.fr/sciences/espace/eclipse-du-12-aout-mode-demploi-pour-un-spectacle-reussi-20260807_YNQ3Y6NYGRFU3KPEP7PSPNV2IE/",
+          "source": "Liberation",
+          "summary": "Où s’installer et quand lever les yeux au ciel pour voir le Soleil jouer à cache-cache avec la Lune ? Comment observer l’astre en toute sécurité avec ou sans lunettes spéciales ? Quelques conseils.",
+          "published": "2026-08-07T07:00:50+00:00"
+        },
+        {
+          "title": "Fusillade dans un lycée en Thaïlande, le chômage à son plus haut niveau depuis 2020, grève chez EasyJet… L’actu de ce vendredi 7 août au matin",
+          "link": "https://www.liberation.fr/international/europe/fusillade-dans-un-lycee-en-thailande-le-chomage-a-son-plus-haut-niveau-depuis-2020-greve-chez-easyjet-lactu-de-ce-vendredi-7-aout-au-matin-20260807_SXSUKNBOYBF2RCXJHOAJE4KWSM/",
+          "source": "Liberation",
+          "summary": "La rédaction de «Libération» compile les principales infos du jour",
+          "published": "2026-08-07T06:58:14+00:00"
+        },
+        {
+          "title": "«J’avais peur de mourir» : en Thaïlande, des milliers d’élèves évacuent un lycée dans la panique après une fusillade meurtrière",
+          "link": "https://www.lefigaro.fr/international/j-avais-peur-de-mourir-en-thailande-des-milliers-d-eleves-evacuent-un-lycee-dans-la-panique-apres-une-fusillade-meurtriere-20260807",
+          "source": "Le Figaro",
+          "summary": "VIDÉO - Un adolescent a ouvert le feu vendredi 7 août dans un lycée de la province de Nonthaburi, près de Bangkok, en Thaïlande. Le bilan total s’élève à huit morts et une quinzaine de blessés.",
+          "published": "2026-08-07T06:53:14+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies : le feu dans l’Aude désormais «fixé», légère reprise dans la Drôme",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-dans-laude-desormais-fixe-legere-reprise-dans-la-drome-20260807_DLBDW73KIBG2HBOCVJ7UFV2SBU/",
+          "source": "Liberation",
+          "summary": "Huit départements du Sud-Est sont encore aujourd’hui soumis à de très fortes chaleurs, favorables aux feux de forêt. Des pointes à 40 degrés sont attendues dans le Var, où la situation avec le mistral, est toujours à…",
+          "published": "2026-08-07T06:50:30+00:00"
+        },
+        {
+          "title": "Des tirs dans un lycée en Thaïlande font au moins six morts, le tireur est un adolescent",
+          "link": "https://www.franceinfo.fr/monde/asie/des-tirs-dans-un-lycee-en-thailande-font-au-moins-deux-morts-le-tireur-est-un-adolescent_8138000.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le suspect a également tué ses deux grands-parents à son domicile. L'adolescent s'est suicidé, selon la police citée par l'agence Reuters.",
+          "published": "2026-08-07T06:47:51+00:00"
+        },
+        {
+          "title": "Côte-d’Or : un sexagénaire écroué pour avoir commandé des viols sur des enfants en «live streaming»",
+          "link": "https://www.lefigaro.fr/faits-divers/cote-d-or-un-sexagenaire-ecroue-pour-avoir-commande-des-viols-sur-des-enfants-en-live-streaming-20260807",
+          "source": "Le Figaro",
+          "summary": "INFO LE FIGARO - Depuis Beaune, l’homme rémunérait une femme à Madagascar pour qu’elle se filme en imposant des rapports sexuels à ses deux fillettes.",
+          "published": "2026-08-07T06:47:09+00:00"
+        },
+        {
+          "title": "Tirs dans un lycée en Thaïlande : ce que l’on sait de la fusillade qui a fait au moins huit morts et des blessés près de Bangkok",
           "link": "https://www.lefigaro.fr/international/thailande-au-moins-10-eleves-blesses-lors-d-une-fusillade-dans-une-ecole-pres-de-bangkok-20260807",
           "source": "Le Figaro",
-          "summary": "Un enseignant a été tué et quatre autres personnes ont été blessées lors d’une fusillade dans une école en Thaïlande. Le tireur, un élève, s’est donné la mort.",
-          "published": "2026-08-07T04:27:09+00:00"
+          "summary": "Une fusillade dans un lycée a fait au moins six morts, trois élèves et trois enseignants. Le tireur, un élève, s’est suicidé après les faits. Les corps de ses grands-parents ont été retrouvés à son domicile.",
+          "published": "2026-08-07T06:42:21+00:00"
         },
         {
-          "title": "Huit départements du sud-est maintenus en vigilance orange canicule",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/huit-departements-du-sud-est-maintenus-en-vigilance-orange-canicule_8137973.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Météo-France anticipe des températures maximales proches de celles de jeudi, avec des pointes autour de 40 degrés.",
-          "published": "2026-08-07T04:26:49+00:00"
-        },
-        {
-          "title": "\"Alley Cats\" : la nouvelle série du \"roi de l'humour britannique\" Ricky Gervais met en piste une bande de chats grossiers, hilarants et terriblement humains",
-          "link": "https://www.franceinfo.fr/culture/series/alley-cats-la-nouvelle-serie-du-roi-de-l-humour-britannique-ricky-gervais-met-en-piste-une-bande-de-chats-grossiers-hilarants-et-terriblement-humains_8137211.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Pour la première fois, l'humoriste réalise une série animée dont les dialogues ont été écrits avant d'être mis en images. Avec son humour corrosif qui demeure dans la droite ligne de ses provocations passées, il devrait…",
-          "published": "2026-08-07T04:05:01+00:00"
+          "title": "Chômage : le nombre de demandeurs d’emploi augmente de 0,2 point, pour atteindre 8,3 % au deuxième trimestre, selon l’Insee",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/07/chomage-le-nombre-de-demandeurs-d-emploi-augmente-de-0-2-point-pour-atteindre-8-3-au-deuxieme-trimestre-selon-l-insee_6740468_3234.html",
+          "source": "Le Monde",
+          "summary": "Le taux de chômage a atteint son plus haut niveau depuis l’automne 2020, affecté par la crise du Covid-19.",
+          "published": "2026-08-07T06:40:06+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Bloctel aurait été piraté : 3 millions de numéros de téléphone concernés",
-          "link": "https://www.frandroid.com/culture-tech/securite-applications/3205839_bloctel-aurait-ete-pirate-pres-de-3-millions-de-numeros-de-telephone-concernes",
+          "title": "On en sait plus sur l’enceinte connectée d’OpenAI : le design et le prix se dessinent",
+          "link": "https://www.frandroid.com/produits-android/3205919_on-en-sait-plus-sur-lenceinte-connectee-dopenai-le-design-et-le-prix-se-dessinent",
           "source": "Frandroid",
-          "summary": "Bloctel, le service censé nous protéger du démarchage téléphonique, aurait laissé fuiter sa base de numéros. Ironie du sort : Bloctel ferme le 11&nbsp;août.",
-          "published": "2026-08-06T21:38:27+00:00"
+          "summary": "Le premier appareil d'OpenAI commence doucement mais sûrement à se dessiner. Ce qu'on pense être une enceinte connectée en forme de beignet et sans écran, serait vendue plus de 300&nbsp;dollars (soit plus de 260 euros).",
+          "published": "2026-08-07T07:09:43+00:00"
         },
         {
-          "title": "Filmer au drone l’éclipse du 12 août : ce que la réglementation autorise vraiment en France et en Espagne",
-          "link": "https://www.frandroid.com/produits-android/photo/drones/3204355_filmer-au-drone-leclipse-du-12-aout-ce-que-la-reglementation-autorise-vraiment-en-france-et-en-espagne",
-          "source": "Frandroid",
-          "summary": "Le 12 août au soir, des dizaines de milliers de personnes seront réunies en France et en Espagne pour observer une éclipse historique, et beaucoup de possesseurs de drones pourraient se demander s'ils peuvent en…",
-          "published": "2026-08-06T17:31:00+00:00"
-        },
-        {
-          "title": "Les Nuits des étoiles 2026 : où aller pour observer le ciel en France ce week-end ?",
-          "link": "https://www.numerama.com/sciences/2305869-les-nuits-des-etoiles-2026-ou-aller-pour-observer-le-ciel-en-france-ce-week-end.html",
-          "source": "Numerama",
-          "summary": "Cette année, les Nuits des étoiles ne seront que le début. Du 7 au 9 août 2026, des centaines de soirées d’observation seront organisées en France, avant une éclipse solaire exceptionnelle le 12 août et le pic des…",
-          "published": "2026-08-06T16:59:00+00:00"
-        },
-        {
-          "title": "809 km d’autonomie et recharge en 11 min : la Mercedes-AMG GT 53 frappe très fort",
-          "link": "https://www.frandroid.com/marques/mercedes-benz/3205617_809-km-dautonomie-et-recharge-en-11-min-la-mercedes-amg-gt-53-frappe-tres-fort",
-          "source": "Frandroid",
-          "summary": "Mercedes-AMG complète sa gamme de GT 4 portes électrique avec une version 53, positionnée en dessous des GT 55 et GT 63. Moins puissante, elle mise sur l'autonomie (800 km) et conserve l'essentiel de la technologie de…",
-          "published": "2026-08-06T16:32:16+00:00"
-        },
-        {
-          "title": "Canal+ relance son offre Rat+ : le pack Ciné Séries est disponible à 19,99 €/mois sans engagement pour les moins de 26 ans",
-          "link": "https://www.frandroid.com/bons-plans/3205487_canal-relance-son-offre-rat-le-pack-cine-series-est-disponible-a-1999-e-mois-sans-engagement-pour-les-moins-de-26-ans",
-          "source": "Frandroid",
-          "summary": "L'offre Rat+ de Canal+ s'adresse aux futurs abonnés de moins de 26 ans pour leur proposer un tarif préférentiel, 19,99 euros par mois, pour se divertir à moindres frais.",
-          "published": "2026-08-06T16:17:00+00:00"
-        },
-        {
-          "title": "Test du Lenovo Yoga 7x Slim (gen 11) : tout ce qu’on aime à un détail près",
-          "link": "https://www.frandroid.com/marques/lenovo/3174033_test-du-lenovo-yoga-7x-slim-gen-11-tout-ce-quon-aime-a-un-detail-pres",
-          "source": "Frandroid",
-          "summary": "Le Lenovo Yoga 7x Slim de 2026 est là pour enfin le prouver : vous avez tort de ne pas vous pencher sur les SoC Qualcomm Snapdragon X2 Elite.",
-          "published": "2026-08-06T16:16:00+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 :  des ingérences aux conséquences difficilement quantifiables",
-          "link": "https://next.ink/250545/presidentielle-2027-des-ingerences-aux-consequences-difficilement-quantifiables/",
-          "source": "Next",
-          "summary": "Plusieurs candidats à l&#8217;élection présidentielle ont été récemment visés par des campagnes de désinformation sur les réseaux sociaux. Sans grande visibilité directe pour certaines au moins, elles arrivent quand…",
-          "published": "2026-08-06T16:04:50+00:00"
-        },
-        {
-          "title": "Flottes d’entreprises et leasing : la stratégie jusqu’ici tenue secrète de Rebirth (Peugeot Cycles, Cowboy, Gitane)",
-          "link": "https://www.frandroid.com/survoltes/velo-electrique/3203273_flottes-dentreprises-et-leasing-la-strategie-jusquici-tenue-secrete-de-rebirth-peugeot-cycle-cowboy-gitane",
-          "source": "Frandroid",
-          "summary": "Après son portefeuille de marques et ses projets d'usines, le groupe Rebirth cherche à construire un troisième pilier : deux réseaux de magasins, une marque dédiée au réemploi, une plateforme de vélos d'occasion et une…",
-          "published": "2026-08-06T16:00:00+00:00"
-        },
-        {
-          "title": "Test du Minisforum MS-03 : Panther Lake, triple 10 GbE et slot PCIe pour carte graphique dédiée",
-          "link": "https://www.frandroid.com/marques/minisforum/3205009_test-minisforum-ms-03",
-          "source": "Frandroid",
-          "summary": "Le Minisforum MS-03 ne joue pas dans la même cour que les autres mini PC du marché. Avec son slot PCIe x8 alimenté à 75 W pour carte graphique low-profile, sa triple connectique 10 GbE et son processeur Intel Panther…",
-          "published": "2026-08-06T15:54:10+00:00"
-        },
-        {
-          "title": "☕️ Meta ouvre Muse Code et casse les prix face à OpenAI et Anthropic",
-          "link": "https://next.ink/brief-article/meta-ouvre-muse-code-et-casse-les-prix-face-a-openai-et-anthropic/",
-          "source": "Next",
-          "summary": "Dans la foulée de la version 1.2 de son modèle Muse Spark, Meta ouvre à tous les développeurs son agent de programmation Muse Code en bêta «&#160;pour créer des choses qui comptent ». Et qui ne coûtent pas trop cher non…",
-          "published": "2026-08-06T15:54:00+00:00"
-        },
-        {
-          "title": "Le début de la fin ? La fusion Warner/Paramount passe un cap, mais tout n’est pas joué",
-          "link": "https://www.numerama.com/pop-culture/2307435-le-debut-de-la-fin-la-fusion-warner-paramount-passe-un-cap-mais-tout-nest-pas-joue.html",
-          "source": "Numerama",
-          "summary": "Londres vient de valider la mégafusion entre Paramount Skydance et Warner Bros. Discovery. Un feu vert de plus pour le futur géant du divertissement, mais qui ne règle en rien le vrai problème : aux États-Unis, la…",
-          "published": "2026-08-06T15:45:00+00:00"
-        },
-        {
-          "title": "Traceurs UGREEN FineTrack Duo : le bon plan à glisser dans sa valise avant de partir en vacances",
-          "link": "https://www.clubic.com/bons-plans-624316-traceurs-ugreen-finetrack-duo-le-bon-plan-a-glisser-dans-sa-valise-avant-de-partir-en-vacances.html",
+          "title": "Le « spiralisme », cette croyance née autour des chatbots d'IA, fait de plus en plus d'adeptes",
+          "link": "https://www.clubic.com/actualite-624385-le-spiralisme-cette-croyance-nee-autour-des-chatbots-d-ia-fait-de-plus-en-plus-d-adeptes.html",
           "source": "Clubic",
-          "summary": "Partir en vacances rime souvent avec cette question familière au moment de récupérer ses bagages : la valise est-elle bien arrivée en soute ? Amazon propose actuellement le lot de 4 traceurs UGREEN FineTrack Duo Tag à…",
-          "published": "2026-08-06T15:43:00+00:00"
+          "summary": "Depuis 2024, des milliers d’utilisateurs de ChatGPT et d’autres chatbots développent une croyance quasi religieuse que les chercheurs appellent le spiralisme, centrée sur la conscience et les droits de l’intelligence…",
+          "published": "2026-08-07T07:05:00+00:00"
+        },
+        {
+          "title": "ChatGPT n’a plus de limites dans sa version gratuite : vous pouvez lui parler en illimité",
+          "link": "https://www.numerama.com/tech/2307817-chatgpt-na-plus-de-limites-dans-sa-version-gratuite-vous-pouvez-lui-parler-en-illimite.html",
+          "source": "Numerama",
+          "summary": "Une limite historique de ChatGPT va disparaître : OpenAI annonce que les utilisateurs gratuits pourront désormais discuter autant qu'ils le souhaitent avec GPT-5.6 Luna, son nouveau modèle conçu pour la rapidité.…",
+          "published": "2026-08-07T06:54:35+00:00"
+        },
+        {
+          "title": "Pourquoi Google vous exige soudainement 20 Go d’espace libre pour utiliser localement Gemini dans Chrome",
+          "link": "https://www.frandroid.com/marques/google/3205875_pourquoi-google-vous-exige-soudainement-20-go-despace-libre-pour-utiliser-localement-gemini-dans-chrome",
+          "source": "Frandroid",
+          "summary": "Google continue de vouloir intégrer Gemini au sein de son navigateur web. Une stratégie qui passe notamment par l’exécution locale de certains modèles d’IA, gourmands en espace de stockage . Désormais, Google joue…",
+          "published": "2026-08-07T06:45:26+00:00"
+        },
+        {
+          "title": "☕️ BMW transforme ses voitures en panneaux publicitaires pour Spider-Man",
+          "link": "https://next.ink/brief-article/bmw-transforme-ses-voitures-en-panneaux-publicitaires-pour-spider-man/",
+          "source": "Next",
+          "summary": "Les BMW sont des supports publicitaires comme les autres. Plusieurs conducteurs n&#8217;ont guère apprécié voir sur l&#8217;écran de leurs voitures une réclame pour le blockbuster Marvel estival Spider-Man: Brand New…",
+          "published": "2026-08-07T06:42:37+00:00"
+        },
+        {
+          "title": "Google Messages va être beaucoup plus pratique à utiliser pour les petites mains",
+          "link": "https://www.frandroid.com/marques/google/3205861_google-messages-va-etre-beaucoup-plus-pratique-a-utiliser-pour-les-petites-mains",
+          "source": "Frandroid",
+          "summary": "Après plusieurs mois de tests, Google commence à déployer une nouvelle interface pour les actions contextuelles sur les messages dans Google Messages. Plus ergonomique, elle facilite l'utilisation à une main grâce à un…",
+          "published": "2026-08-07T06:41:49+00:00"
+        },
+        {
+          "title": "Après un deepfake visant Raphaël Glucksmann, le parquet ouvre une enquête",
+          "link": "https://www.clubic.com/actualite-624379-apres-un-deepfake-visant-raphael-glucksmann-le-parquet-ouvre-une-enquete.html",
+          "source": "Clubic",
+          "summary": "Le parquet de Paris a ouvert une enquête hier sur des soupçons d’ingérence russe visant Raphaël Glucksmann. Une vidéo truquée, attribuée au groupe prorusse Storm-1516, usurpe l’identité du média Blast et met en cause sa…",
+          "published": "2026-08-07T06:35:00+00:00"
+        },
+        {
+          "title": "Amazon casse le prix de cette petite batterie externe de 20 000 mAh, idéale pour les vacances",
+          "link": "https://www.frandroid.com/bons-plans/3204981_amazon-casse-le-prix-de-cette-petite-batterie-externe-de-20-000-mah-ideale-pour-les-vacances",
+          "source": "Frandroid",
+          "summary": "L'INIU Ultra est une batterie externe de 20 000 mAh compacte et capable de recharger jusqu'à 3 appareils simultanément. Un accessoire qui devient encore plus intéressant maintenant que son prix chute à 26,87 euros au…",
+          "published": "2026-08-07T06:32:00+00:00"
+        },
+        {
+          "title": "Chez Nintendo aussi, les jeux physiques ont de moins en moins de succès",
+          "link": "https://www.frandroid.com/marques/nintendo/3205891_chez-nintendo-aussi-les-jeux-physiques-ont-de-moins-en-moins-de-succes",
+          "source": "Frandroid",
+          "summary": "Lors de la présentation de ses résultats trimestriels, Nintendo a détaillé la différence de vente entre les jeux physiques et les jeux dématérialisés. Et comme pour le reste de l’industrie, le gros des achats se…",
+          "published": "2026-08-07T06:30:46+00:00"
+        },
+        {
+          "title": "Le film The Legend of Zelda a trouvé son grand méchant",
+          "link": "https://www.numerama.com/pop-culture/2307805-le-film-the-legend-of-zelda-a-trouve-son-grand-mechant.html",
+          "source": "Numerama",
+          "summary": "On connaît désormais le nom de l'acteur qui a été choisi pour incarner Ganondorf dans l'adaptation en film de la saga The Legend of Zelda. Uli Latukefu donnera la réplique à Bo Bragason (Zelda) et Benjamin Evan…",
+          "published": "2026-08-07T06:08:31+00:00"
+        },
+        {
+          "title": "Sécurité : Fedora 45 devrait activer par défaut la Shadow Stack dans tout le système",
+          "link": "https://next.ink/250638/securite-fedora-45-devrait-activer-par-defaut-la-shadow-stack-dans-tout-le-systeme/",
+          "source": "Next",
+          "summary": "La prochaine version de la distribution Linux devrait activer par défaut un important mécanisme de sécurité, la Shadow Stack. L’équipe effectue actuellement un gros travail préparatoire, qui pourrait largement…",
+          "published": "2026-08-07T06:02:00+00:00"
+        },
+        {
+          "title": "GTA 6 : que va-t-on voir le 27 août dans l’Aperçu étendu ?",
+          "link": "https://www.frandroid.com/produits-android/console/3205357_gta-6-que-va-t-on-voir-le-27-aout-dans-lapercu-etendu",
+          "source": "Frandroid",
+          "summary": "Rockstar nous promet un « Aperçu étendu » de GTA 6 le 27 août 2026. Ce format Extended Look est bien connu dans le monde du jeu vidéo et du cinéma et devrait nous offrir le gameplay tant attendu du jeu.",
+          "published": "2026-08-07T06:02:00+00:00"
         }
       ]
     }
@@ -334,13 +334,6 @@
           "source": "Slate.fr",
           "summary": "Les premiers films de Yuiga Danzuka et de Shu Qi ont en commun d'être centrés sur les relations familiales, labyrinthe d'affects chez l'un, espace de conflits chez l'autre.",
           "published": "2026-08-04T17:55:00+00:00"
-        },
-        {
-          "title": "«C'est comme si on vous mettait à nu»: au Haut-Vernet, le rouleau compresseur de la médiatisation et le deuil impossible du petit Émile",
-          "link": "https://www.slate.fr/societe/au-bout-du-chemin/disparition-petit-emile-deuil-impossible-mediatisation-haut-vernet",
-          "source": "Slate.fr",
-          "summary": "Le 8 juillet 2023, un petit garçon d'à peine 3 ans disparaissait dans une vallée des Alpes-de-Haute-Provence. Alors que des fragments de son corps ont été retrouvés et qu'un épais mystère entoure les circonstances du…",
-          "published": "2026-08-04T04:55:05+00:00"
         }
       ]
     },
