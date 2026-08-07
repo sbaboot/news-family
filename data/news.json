@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-08-06T23:57:32.696497+00:00",
+  "generated_at": "2026-08-07T02:52:38.283613+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Au Nouveau-Mexique, Meta devra verser 567 millions de dollars pour protéger les mineurs",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260807-au-nouveau-mexique-meta-devra-verser-567-millions-de-dollars-pour-prot%C3%A9ger-les-mineurs",
+          "source": "France 24",
+          "summary": "Un juge du Nouveau-Mexique a ordonné jeudi à Meta de financer un fonds de 567 millions de dollars destiné à réparer les dommages causés aux mineurs par ses réseaux sociaux, une première aux États-Unis. Le juge a assorti…",
+          "published": "2026-08-07T01:13:09+00:00"
+        },
+        {
+          "title": "Après les incendies dans le nord-ouest des Etats-Unis, un suspect avoue avoir planifié vingt-cinq départs de feu depuis 2025",
+          "link": "https://www.lemonde.fr/international/article/2026/08/07/apres-les-incendies-dans-le-nord-ouest-des-etats-unis-un-suspect-avoue-avoir-planifie-vingt-cinq-departs-de-feu-depuis-2025_6740312_3210.html",
+          "source": "Le Monde",
+          "summary": "Déjà condamné pour avoir tué son père, l’homme aurait choisi la date de l’incendie en fonction des conditions météo et se serait inspiré d’un célèbre pyromane, selon les premiers éléments de l’enquête.",
+          "published": "2026-08-07T00:01:19+00:00"
+        },
         {
           "title": "Au Venezuela, le dialogue entre pouvoir et opposition en vue d'une transition a commencé",
           "link": "https://www.france24.com/fr/am%C3%A9riques/20260806-venezuela-debut-dialogue-pouvoir-opposition-transition-dinorah-figuera-jorge-rodriguez",
@@ -59,20 +73,6 @@
           "source": "Le Monde",
           "summary": "L’attaque est survenue à Jaramana, située dans la banlieue sud-est de la capitale, qui avait été touchée au printemps 2025 par des violences confessionnelles.",
           "published": "2026-08-06T19:27:32+00:00"
-        },
-        {
-          "title": "Syrie : l'explosion d'une bombe dans un minibus fait deux morts près de Damas",
-          "link": "https://www.france24.com/fr/moyen-orient/20260806-syrie-l-explosion-d-une-bombe-dans-un-minibus-fait-deux-morts-pr%C3%A8s-de-damas",
-          "source": "France 24",
-          "summary": "Deux personnes ont perdu la vie jeudi à Jaramana, dans la banlieue sud-est de Damas, après l'explosion d'une bombe dans un minibus de transport public. La capitale syrienne a été le théâtre de plusieurs attentats…",
-          "published": "2026-08-06T19:19:11+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir abattu 281 drones ukrainiens jeudi ; le secrétaire général de l’ONU condamne les frappes russes et ukrainiennes sur les zones civiles",
-          "link": "https://www.lemonde.fr/international/live/2026/08/06/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-abattu-281-drones-ukrainiens-jeudi-le-secretaire-general-de-l-onu-condamne-les-frappes-russes-et-ukrainiennes-sur-les-zones-civiles_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Les deux pays ont intensifié leurs bombardements au cours des jours écoulés, qui « suivent un schéma alarmant d’escalade des frappes contre des zones peuplées », selon le porte-parole d’Antonio Guterres. « Les attaques…",
-          "published": "2026-08-06T19:03:38+00:00"
         }
       ]
     },
@@ -83,6 +83,41 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Arrondissement de Saint-Laurent | Un bambin de 20 mois happé par un véhicule",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-06/arrondissement-de-saint-laurent/un-bambin-de-20-mois-happe-par-un-vehicule.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un véhicule a happé une poussette avec à son bord un enfant de 20 mois, sur le boulevard Montpellier dans l’arrondissement de Saint-Laurent. Le bambin a subi « d’importantes blessures au haut du corps ».",
+          "published": "2026-08-07T02:21:52+00:00"
+        },
+        {
+          "title": "Agression d’une adolescente « pro-Trump » | Une Canadienne sera déportée des États-Unis",
+          "link": "https://www.lapresse.ca/actualites/2026-08-06/agression-d-une-adolescente-pro-trump/une-canadienne-sera-deportee-des-etats-unis.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le département de la Sécurité intérieure des États-Unis a confirmé mercredi sur les réseaux sociaux qu’une Canadienne accusée d’avoir agressé une adolescente portant ce qui est qualifié de tenue « pro-Trump » allait…",
+          "published": "2026-08-07T00:29:35+00:00"
+        },
+        {
+          "title": "Mineurs sur les réseaux sociaux | Meta condamné à verser 567 millions de dollars au Nouveau-Mexique",
+          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-06/mineurs-sur-les-reseaux-sociaux/meta-condamne-a-verser-567-millions-de-dollars-au-nouveau-mexique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un juge du Nouveau-Mexique a ordonné jeudi à Meta de financer à hauteur de 567 millions de dollars un fonds de réparation des dommages causés aux mineurs par ses plateformes, jugées responsables d’un « trouble à l’ordre…",
+          "published": "2026-08-07T00:19:58+00:00"
+        },
+        {
+          "title": "Trump tente à nouveau de contester le droit du sol, à la marge",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1000442/trump-tente-nouveau-contester-droit-sol-marge",
+          "source": "Le Devoir",
+          "summary": "Le président avait déjà essayé l’an dernier de remettre en cause le 14e amendement de la Constitution américaine.",
+          "published": "2026-08-06T23:48:41+00:00"
+        },
+        {
+          "title": "À Ceuta, les enfants migrants risquent d’être victimes de maltraitance et d’exploitation",
+          "link": "https://www.ledevoir.com/monde/1000439/ceuta-enfants-migrants-risquent-etre-victimes-maltraitance-exploitation",
+          "source": "Le Devoir",
+          "summary": "Les autorités espagnoles peinent à prendre en charge les enfants restés sur ce territoire.",
+          "published": "2026-08-06T23:36:59+00:00"
+        },
         {
           "title": "Omnium Banque Nationale | Alexis Galarneau : un rayon de soleil dans un ciel sombre",
           "link": "https://www.lapresse.ca/sports/tennis/2026-08-06/omnium-banque-nationale/alexis-galarneau-un-rayon-de-soleil-dans-un-ciel-sombre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
@@ -117,41 +152,6 @@
           "source": "Le Devoir",
           "summary": "L’Australien était le joueur le mieux classé toujours en lice après les deux premiers tours.",
           "published": "2026-08-06T22:39:00+00:00"
-        },
-        {
-          "title": "LeBlanc dit avoir eu une rencontre «constructive» avec son homologue américain",
-          "link": "https://www.ledevoir.com/sports/1000415/leblanc-dit-avoir-eu-rencontre-constructive-homologue-americain",
-          "source": "Le Devoir",
-          "summary": "Le Canada espère alléger les droits de douane sectoriels visant notamment l’acier et l’aluminium.",
-          "published": "2026-08-06T22:15:35+00:00"
-        },
-        {
-          "title": "L’odeur chimique de la fumée des incendies de forêt est naturelle",
-          "link": "https://www.ledevoir.com/actualites/environnement/1000406/odeur-chimique-fumee-incendies-foret-est-naturelle",
-          "source": "Le Devoir",
-          "summary": "Le ciel enfumé a suscité bon nombre de spéculations sur les réseaux sociaux.",
-          "published": "2026-08-06T21:24:24+00:00"
-        },
-        {
-          "title": "Zoo de Granby | La Santé publique met en garde contre l’herpès transmis par des macaques",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-06/zoo-de-granby/la-sante-publique-met-en-garde-contre-l-herpes-transmis-par-des-macaques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La Santé publique de l’Estrie met en garde les visiteurs du Zoo de Granby qui auraient pu être en contact avec un macaque japonais le 4 août. Ces animaux peuvent transmettre le virus de l’herpès B.",
-          "published": "2026-08-06T21:17:44+00:00"
-        },
-        {
-          "title": "«Un ciel pratiquement parfait», sur le plan astronomique pour les Perséides",
-          "link": "https://www.ledevoir.com/actualites/science/1000394/ciel-pratiquement-parfait-plan-astronomique-perseides",
-          "source": "Le Devoir",
-          "summary": "La nouvelle lune aura lieu le 12 août, au même moment que le pic de la pluie de météores.",
-          "published": "2026-08-06T21:08:00+00:00"
-        },
-        {
-          "title": "Le chef péquiste critique les dépenses de Christine Fréchette",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-06/le-chef-pequiste-critique-les-depenses-de-christine-frechette.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Tout juste sorti de vacances, le chef péquiste Paul St-Pierre Plamondon s’en prend à la première ministre caquiste Christine Fréchette et à son « tsunami d’annonces à saveur électorale » représentant des milliards en…",
-          "published": "2026-08-06T20:55:11+00:00"
         }
       ]
     },
@@ -159,11 +159,25 @@
       "label": "France",
       "items": [
         {
+          "title": "Meta condamné à verser 567 millions de dollars supplémentaires au Nouveau-Mexique pour protéger les mineurs sur Facebook et Instagram",
+          "link": "https://www.lemonde.fr/pixels/article/2026/08/07/meta-condamne-a-verser-567-millions-de-dollars-supplementaires-au-nouveau-mexique-pour-proteger-les-mineurs-sur-facebook-et-instagram_6740345_4408996.html",
+          "source": "Le Monde",
+          "summary": "La somme, qui doit financer sur cinq ans des programmes de santé mentale et de prévention pour les jeunes, s’ajoute aux 375 millions de dollars de pénalités civiles infligées en mars.",
+          "published": "2026-08-07T01:42:12+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies en France : le feu dans l’Aude est désormais «fixé»",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-canicule-levee-de-la-vigilance-orange-dans-le-rhone-et-l-isere-huit-departements-du-sud-est-toujours-concernes-20260806",
+          "source": "Le Figaro",
+          "summary": "Un incendie provoqué jeudi par un accident de la route avait mobilisé d’importants moyens dont quatre Canadair et deux Dash dans les Corbières, près de Narbonne, non loin du secteur où 11.000 hectares avaient brûlé il y…",
+          "published": "2026-08-07T01:29:02+00:00"
+        },
+        {
           "title": "EN DIRECT, incendies : dans l’Aude, le feu signalé à Montséret est « fixé »",
           "link": "https://www.lemonde.fr/planete/live/2026/08/07/en-direct-incendies-dans-l-aude-le-feu-signale-a-montseret-est-fixe_6737310_3244.html",
           "source": "Le Monde",
-          "summary": "En Haute-Corse, la foudre a déclenché deux départs de feu. Dans le Var, sept massifs forestiers seront interdits d’accès vendredi en raison de risques extrêmes et très sévères d’incendie, a fait savoir la préfecture.",
-          "published": "2026-08-06T23:33:13+00:00"
+          "summary": "Dans le Var, sept massifs forestiers seront interdits d’accès vendredi en raison de risques extrêmes et très sévères d’incendie, a fait savoir la préfecture.",
+          "published": "2026-08-06T23:33:03+00:00"
         },
         {
           "title": "Arabie saoudite, Turquie et Pakistan annoncent signer un accord de défense vendredi à Jeddah",
@@ -194,13 +208,6 @@
           "published": "2026-08-06T21:49:09+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies en France : le feu dans l’Aude est désormais «fixé»",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-canicule-levee-de-la-vigilance-orange-dans-le-rhone-et-l-isere-huit-departements-du-sud-est-toujours-concernes-20260806",
-          "source": "Le Figaro",
-          "summary": "Un incendie provoqué jeudi par un accident de la route avait mobilisé d’importants moyens dont quatre Canadair et deux Dash dans les Corbières, près de Narbonne, non loin du secteur où 11.000 hectares avaient brûlé il y…",
-          "published": "2026-08-06T21:46:29+00:00"
-        },
-        {
           "title": "Le feu qui s'est déclaré dans l'Aude est désormais \"fixé\", après avoir brûlé 50 hectares dans le massif des Corbières",
           "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-feu-qui-s-est-declare-dans-le-massif-des-corbieres-est-desormais-contenu-apres-avoir-parcouru-100-hectares_8137727.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
@@ -220,13 +227,6 @@
           "source": "Le Figaro",
           "summary": "43 étudiants de l’école normale d’Ayotzinapa ont disparu le 26 septembre 2014 dans l’État de Guerrero, alors qu’ils se rendaient en autocar à Mexico pour participer à une manifestation.",
           "published": "2026-08-06T21:36:51+00:00"
-        },
-        {
-          "title": "Espagne : l’un des plus importants laboratoires européens de méthamphétamine démantelé avec le concours de l’Ofast",
-          "link": "https://www.lefigaro.fr/international/espagne-l-un-des-plus-importants-laboratoires-europeens-de-methamphetamine-demantele-avec-le-concours-de-l-ofast-20260806",
-          "source": "Le Figaro",
-          "summary": "Au total, 2,4 tonnes de drogue ont été saisies et 13 personnes ont été interpellées. Le fruit d’une longue enquête commencée en France.",
-          "published": "2026-08-06T21:29:32+00:00"
         }
       ]
     },
