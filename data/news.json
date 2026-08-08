@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-08T06:50:20.755713+00:00",
+  "generated_at": "2026-08-08T09:35:59.898234+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Au Yémen, les rebelles houtistes engagés dans une spirale offensive",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/au-yemen-les-rebelles-houtistes-engages-dans-une-spirale-offensive_6740960_3210.html",
+          "title": "SpaceX, le rêve à l’épreuve des chiffres",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/08/spacex-le-reve-a-l-epreuve-des-chiffres_6741194_3232.html",
           "source": "Le Monde",
-          "summary": "Les rebelles, soutenus par l’Iran, ont attaqué les forces gouvernementales jeudi 6 août, blessant aussi des civils près de la frontière en Arabie saoudite. La logique du conflit leur permet de reléguer au second plan…",
-          "published": "2026-08-08T06:46:02+00:00"
+          "summary": "L’euphorie autour de l’entreprise spatiale n’est pas totalement retombée malgré une valorisation en forte baisse depuis l’introduction en Bourse, mi-juin. Si extraordinaires soient les ambitions, celles-ci ne doivent…",
+          "published": "2026-08-08T09:30:05+00:00"
         },
         {
-          "title": "Ukraine : au moins trois morts dans de nouvelles frappes russes sur la région de Kiev",
-          "link": "https://www.france24.com/fr/europe/20260808-ukraine-au-moins-trois-morts-dans-de-nouvelles-frappes-russes-sur-la-r%C3%A9gion-de-kiev",
+          "title": "EN DIRECT, guerre en Ukraine : de nouvelles frappes russes sur Kiev et sa région font quatre morts",
+          "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-de-nouvelles-frappes-russes-sur-kiev-et-sa-region-font-quatre-morts_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Mercredi, au moins 17 personnes ont été tuées dans des frappes nocturnes sur Kiev et sa région. Samedi, Volodymyr Zelensky a exhorté d’autres pays, notamment les Etats-Unis, à fournir davantage de munitions, devenues…",
+          "published": "2026-08-08T09:14:00+00:00"
+        },
+        {
+          "title": "Le Sénat américain approuve à une courte majorité la nomination de Todd Blanche, l’ancien avocat personnel de Donald Trump, comme ministre de la justice",
+          "link": "https://www.lemonde.fr/international/article/2026/08/08/le-senat-americain-approuve-de-justesse-la-nomination-de-todd-blanche-l-ancien-avocat-personnel-de-donald-trump-comme-ministre-de-la-justice_6741160_3210.html",
+          "source": "Le Monde",
+          "summary": "L’opposition démocrate, qui dénonce une utilisation politique de la justice, s’opposait fermement à cette nomination.",
+          "published": "2026-08-08T08:48:15+00:00"
+        },
+        {
+          "title": "Vietnam : face au dérèglement climatique, les Hmong en première ligne",
+          "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260808-vietnam-face-d%C3%A9r%C3%A8glement-climatique-hmong-premi%C3%A8re-ligne",
+          "source": "France 24",
+          "summary": "Dans les montagnes du nord du Vietnam, les Hmong, un peuple autochtone d'agriculteurs, vivent au rythme de la nature depuis des siècles. Augmentation des températures, pluies imprévisibles, glissements de terrain : ils…",
+          "published": "2026-08-08T08:41:17+00:00"
+        },
+        {
+          "title": "En Azerbaïdjan, les TikTokers font les frais de la répression, après les journalistes et les opposants",
+          "link": "https://www.lemonde.fr/international/article/2026/08/08/en-azerbaidjan-les-tiktokers-font-les-frais-de-la-repression-apres-les-journalistes-et-les-opposants_6741126_3210.html",
+          "source": "Le Monde",
+          "summary": "Une dizaine d’influenceurs populaires sur le réseau social chinois ont été interpellés et condamnés à des peines d’emprisonnement de deux semaines à un mois pour « manque de respect évident envers la société » et des…",
+          "published": "2026-08-08T08:30:04+00:00"
+        },
+        {
+          "title": "L'Arabie saoudite, le Pakistan et la Turquie concluent un pacte de défense",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260808-l-arabie-saoudite-le-pakistan-et-la-turquie-concluent-un-pacte-de-d%C3%A9fense",
+          "source": "France 24",
+          "summary": "Un pacte de défense a été signé vendredi par l'Arabie saoudite, le Pakistan et la Turquie, sur fond de tensions liées à la guerre au Moyen-Orient. Selon les experts, cette annonce envoie un message à l'Iran mais aussi…",
+          "published": "2026-08-08T08:14:42+00:00"
+        },
+        {
+          "title": "Washington scelle son soutien au président colombien avec $1Mrd d'aide",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260808-washington-scelle-son-soutien-au-pr%C3%A9sident-colombien-avec-un-milliard-de-dollars-d-aide",
+          "source": "France 24",
+          "summary": "Le millionnaire d'extrême droite Aberlardo de la Espriella, dont l'investiture avait lieu vendredi et qui a promis de combattre \"sans répit\" le narcotrafic, a obtenu une aide financière d'un milliard dollars de la part…",
+          "published": "2026-08-08T08:08:43+00:00"
+        },
+        {
+          "title": "Au moins 3 morts dans de nouvelles frappes russes sur la région de Kiev",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260808-ukraine-au-moins-trois-morts-dans-de-nouvelles-frappes-russes-sur-la-r%C3%A9gion-de-kiev",
           "source": "France 24",
           "summary": "De nouvelles frappes russes ont fait au moins trois morts et sept blessés dans la nuit de vendredi à samedi à Kiev et dans sa région, alors que la défense antiaérienne ukrainienne peine à intercepter les missiles russes…",
-          "published": "2026-08-08T06:25:29+00:00"
+          "published": "2026-08-08T08:00:16+00:00"
         },
         {
-          "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
-          "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html",
+          "title": "Carlos Echeverria Jesus, politiste : « La crise de Ceuta traduit les ambitions territoriales du Maroc »",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/08/carlos-echeverria-jesus-politiste-la-crise-de-ceuta-traduit-les-ambitions-territoriales-du-maroc_6741060_3212.html",
           "source": "Le Monde",
-          "summary": "La plainte, déposée vendredi soir, dénonce « des faits d’ingérence étrangère, de manipulation de l’information, de fabrication de contenus truqués, susceptibles de porter atteinte aux intérêts fondamentaux de la nation…",
-          "published": "2026-08-08T05:28:42+00:00"
+          "summary": "Après que 72 000 migrants venus de la ville marocaine de Fnideq ont atteint l’enclave espagnole de Ceuta les 30 et 31 juillet, le directeur de l’Observatoire de Ceuta et Melilla analyse, dans un entretien au « Monde »,…",
+          "published": "2026-08-08T08:00:11+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : de nouvelles frappes russes sur Kiev et sa région font au moins trois morts",
-          "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-de-nouvelles-frappes-russes-sur-kiev-et-sa-region-font-au-moins-trois-morts-dont-un-enfant_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Des dégâts ont été constatés en trois endroits de la localité de Brovary, au nord-est de la capitale ukrainienne, suite à cette attaque qui a également fait au moins sept blessés. Mercredi, au moins 17 personnes avaient…",
-          "published": "2026-08-08T04:52:36+00:00"
-        },
-        {
-          "title": "Pourquoi les nationalisations d’entreprises font leur grand retour dans le monde",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/08/pourquoi-les-nationalisations-d-entreprises-font-leur-grand-retour-dans-le-monde_6740787_3234.html",
-          "source": "Le Monde",
-          "summary": "L’essor des tensions géopolitiques autour de l’approvisionnement en matières premières et la concurrence chinoise conduisent nombre d’Etats à tenter de reprendre le contrôle d’entreprises jugées essentielles à leur…",
-          "published": "2026-08-08T04:01:02+00:00"
-        },
-        {
-          "title": "Au Venezuela, un dialogue sous tutelle américaine entre chavisme et opposition",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/au-venezuela-un-dialogue-sous-tutelle-americaine-entre-chavisme-et-opposition_6740788_3210.html",
-          "source": "Le Monde",
-          "summary": "Prix Nobel de la paix et cheffe de l’opposition, Maria Corina Machado a été exclue par Washington des pourparlers ouverts à Caracas, jeudi 6 août, en vue d’une transition politique.",
-          "published": "2026-08-08T04:00:44+00:00"
-        },
-        {
-          "title": "L’Arabie saoudite, la Turquie et le Pakistan scellent à La Mecque une alliance de défense inédite",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/l-arabie-saoudite-la-turquie-et-le-pakistan-scellent-a-la-mecque-une-alliance-de-defense-inedite_6740783_3210.html",
-          "source": "Le Monde",
-          "summary": "Riyad, Ankara et Islamabad ont signé, vendredi 7 août, un pacte prévoyant qu’une attaque contre l’un des trois Etats sera considérée comme une attaque contre les trois alliés. L’accord marque un tournant dans les…",
-          "published": "2026-08-08T04:00:20+00:00"
-        },
-        {
-          "title": "Election présidentielle au Brésil, pourquoi l’ombre de Jair Bolsonaro plane sur la candidature de son fils Flavio ?",
-          "link": "https://www.lemonde.fr/videos/video/2026/08/08/election-presidentielle-au-bresil-pourquoi-l-ombre-de-jair-bolsonaro-plane-sur-la-candidature-de-son-fils-flavio_6740779_1669088.html",
-          "source": "Le Monde",
-          "summary": "Flavio Bolsonaro, le fils de l’ancien président du Brésil, a été investi candidat par le Parti libéral et se mesurera au président sortant, Luiz Inacio Lula da Silva, lors de l’élection présidentielle d’octobre.",
-          "published": "2026-08-08T04:00:09+00:00"
-        },
-        {
-          "title": "Atmarupananda, le gourou missionnaire à la tête de la petite communauté de l’ashram de Gretz-Armainvilliers",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/08/atmarupananda-le-gourou-missionnaire-a-la-tete-de-la-petite-communaute-de-l-ashram-de-gretz-armainvilliers_6740746_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Gourous et ashrams, la ruée vers l’Ouest » (5/6). Situé en pleine campagne de la Seine-et-Marne, un ashram perpétue la philosophie hindoue auprès d’un public restreint, mais souvent très engagé, de personnes sans lien…",
-          "published": "2026-08-08T03:30:13+00:00"
-        },
-        {
-          "title": "Jeffrey Epstein et Saint-Tropez, l’autre lieu de prédation du financier américain en France",
-          "link": "https://www.lemonde.fr/societe/article/2026/08/08/jeffrey-epstein-et-saint-tropez-l-autre-lieu-de-predation-du-financier-americain-en-france_6740744_3224.html",
-          "source": "Le Monde",
-          "summary": "L’homme d’affaires se rendait presque chaque été dans la commune du Var, haut lieu saisonnier des industries de la mode et du luxe. Comme à Paris où il possédait un appartement, cette ville, fréquentée par les stars,…",
-          "published": "2026-08-08T03:30:00+00:00"
+          "title": "À Téhéran, le régime raconte sa guerre sur les murs de la ville (2/2)",
+          "link": "https://www.france24.com/fr/moyen-orient/20260808-%C3%A0-t%C3%A9h%C3%A9ran-le-r%C3%A9gime-raconte-sa-guerre-sur-les-murs-de-la-ville-2-2",
+          "source": "France 24",
+          "summary": "Téhéran dans la guerre (2/2). En Iran, la guerre passe aussi par les images. Dans la capitale, d'immenses affiches de propagande transforment les murs en vitrine du récit officiel, et sont conçues pour porter la voix du…",
+          "published": "2026-08-08T07:34:06+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Canicules en France | Les facteurs à la rescousse des aînés",
-          "link": "https://www.lapresse.ca/international/europe/2026-08-08/canicules-en-france/les-facteurs-a-la-rescousse-des-aines.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "La Presse à Miquelon | Un village entier déménage pour se mettre à l’abri de l’eau",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-08/la-presse-a-miquelon/un-village-entier-demenage-pour-se-mettre-a-l-abri-de-l-eau.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Quand Harmony Simon, une factrice d’Aix-les-Bains, sonne à la porte d’une retraitée en cette torride matinée de canicule, elle n’est pas là pour livrer le courrier.",
+          "summary": "Pendant que les forêts brûlent de l’autre côté de l’Atlantique, dans l’archipel français de Saint-Pierre-et-Miquelon, au large de Terre-Neuve, c’est la montée des eaux qui suscite l’inquiétude. Menacé par les…",
+          "published": "2026-08-08T09:00:00+00:00"
+        },
+        {
+          "title": "Prévention des noyades | Un coroner réclame un meilleur accès aux cours de natation",
+          "link": "https://www.lapresse.ca/actualites/2026-08-08/prevention-des-noyades/un-coroner-reclame-un-meilleur-acces-aux-cours-de-natation.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Depuis le début de l’année, il y aurait eu 51 noyades au Québec, comparativement à 46 à pareille date l’an dernier. Plusieurs victimes ne savaient pas nager. Après la mort d’une mère et de son bambin l’année dernière…",
+          "published": "2026-08-08T09:00:00+00:00"
+        },
+        {
+          "title": "Manquements pédagogiques | Québec sévit contre une école juive orthodoxe",
+          "link": "https://www.lapresse.ca/actualites/education/2026-08-08/manquements-pedagogiques/quebec-sevit-contre-une-ecole-juive-orthodoxe.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Québec retire le permis de trois installations de l’École communautaire Belz, à Montréal, pour divers manquements, surtout sur le plan de l’enseignement. Le ministère de l’Éducation s’inquiète depuis 2007 pour les…",
+          "published": "2026-08-08T09:00:00+00:00"
+        },
+        {
+          "title": "La mise en scène de la misère",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-08-08/la-mise-en-scene-de-la-misere.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Appelons-le Mathieu. Il a 32 ans et il perce l’écran, sur Instagram.",
+          "published": "2026-08-08T09:00:00+00:00"
+        },
+        {
+          "title": "Production maraîchère | Récoltes parfaites, prix en chute libre",
+          "link": "https://www.lapresse.ca/affaires/2026-08-08/production-maraichere/recoltes-parfaites-prix-en-chute-libre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Bas prix, bonnes nouvelles ? Pas nécessairement. Des maraîchers d’ici peinent à écouler leurs produits cette année en raison d’un surplus sur le marché couplé à l’éclosion de diarrhée explosive au sud de la frontière.",
+          "published": "2026-08-08T09:00:00+00:00"
+        },
+        {
+          "title": "Constat d’infraction impayé | Le véhicule de la mairesse de Montréal saisi",
+          "link": "https://www.lapresse.ca/actualites/2026-08-08/constat-d-infraction-impaye/le-vehicule-de-la-mairesse-de-montreal-saisi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La mairesse de Montréal, Soraya Martinez Ferranda, s’est fait saisir son véhicule après que son conjoint, qui se trouvait derrière le volant malgré une interdiction de mettre en circulation, eut été arrêté pour excès de…",
+          "published": "2026-08-08T09:00:00+00:00"
+        },
+        {
+          "title": "Les promesses électorales, même remplies, ne suffisent pas",
+          "link": "https://www.lapresse.ca/actualites/editoriaux/2026-08-08/les-promesses-electorales-meme-remplies-ne-suffisent-pas.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Ça y est ! La saison des promesses électorales est ouverte.",
+          "published": "2026-08-08T09:00:00+00:00"
+        },
+        {
+          "title": "Le mouvement MAGA se fracture-t-il ?",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-08/le-mouvement-maga-se-fracture-t-il.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "« Nous venons ici pour MAGA, pour nous battre, battre, battre et gagner, gagner, gagner », dit la voix hors champ d’une vidéo générée par l’intelligence artificielle. Une personne, debout devant la Maison-Blanche,…",
+          "published": "2026-08-08T09:00:00+00:00"
+        },
+        {
+          "title": "Une occupation transitoire fait perdurer la mission des Hospitalières",
+          "link": "https://www.ledevoir.com/culture/1000583/occupation-transitoire-fait-perdurer-mission-hospitalieres",
+          "source": "Le Devoir",
+          "summary": "Différents organismes se partagent les espaces de la Cité-des-Hospitalières; une cohabitation qui tombe à point.",
           "published": "2026-08-08T04:00:00+00:00"
         },
         {
-          "title": "Omnium Banque Nationale | João Fonseca élimine Casper Ruud",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-07/omnium-banque-nationale/joao-fonseca-elimine-casper-ruud.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Avec panache et fougue, le jeune Brésilien João Fonseca a éliminé Casper Ruud en deux manches de 7-6 et 6-3 vendredi soir à l’Omnium Banque Nationale. Si une énième tête de série est tombée, une étoile est née pour les…",
-          "published": "2026-08-08T01:46:49+00:00"
-        },
-        {
-          "title": "Enquêtes sur les incendies d’origine criminelle en Colombie-Britannique",
-          "link": "https://www.ledevoir.com/actualites/1000694/enquetes-incendies-origine-criminelle-colombie-britannique",
+          "title": "Le confort et l’enthousiasme",
+          "link": "https://www.ledevoir.com/opinion/chroniques/1000625/confort-enthousiasme",
           "source": "Le Devoir",
-          "summary": "Le sud de l’intérieur de la province est la région la plus touchée par la récente recrudescence des brasiers.",
-          "published": "2026-08-08T01:34:53+00:00"
-        },
-        {
-          "title": "Les avocats des frères Tate demandent leur libération conditionnelle",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1000691/avocats-freres-tate-demandent-liberation-conditionnelle",
-          "source": "Le Devoir",
-          "summary": "Accusés de viol et de trafic sexuel, les deux influenceurs sont incarcérés à Miami depuis deux semaines.",
-          "published": "2026-08-08T01:07:05+00:00"
-        },
-        {
-          "title": "Nouveau président allié de Donald Trump | Washington annonce une aide d’un milliard de dollars pour la Colombie",
-          "link": "https://www.lapresse.ca/international/amerique-latine/2026-08-07/nouveau-president-allie-de-donald-trump/washington-annonce-une-aide-d-un-milliard-de-dollars-pour-la-colombie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’avocat millionnaire Abelardo de la Espriella a promis vendredi, en prenant ses fonctions de président de la Colombie, qu’il affronterait « sans répit » le narcotrafic, dans un pays frappé par la violence des groupes…",
-          "published": "2026-08-08T00:11:05+00:00"
-        },
-        {
-          "title": "Plages désertes et «odeur insupportable», le Mexique lutte contre les sargasses",
-          "link": "https://www.ledevoir.com/monde/ameriques/1000688/plages-desertes-odeur-insupportable-mexique-lutte-contre-sargasses",
-          "source": "Le Devoir",
-          "summary": "Les algues sont omniprésentes sur les plages des Caraïbes et rares sont les touristes qui osent s’y prélasser au soleil.",
-          "published": "2026-08-08T00:04:09+00:00"
-        },
-        {
-          "title": "Construction d’un nouveau stade au parc Jarry | Tennis Canada souhaite calmer le jeu",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-07/construction-d-un-nouveau-stade-au-parc-jarry/tennis-canada-souhaite-calmer-le-jeu.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Drôle de semaine de tennis à Montréal. Les débats entourant la transformation du stade IGA, combinés aux déboires des athlètes canadiens sur le court, font en sorte qu’on parle presque autant de construction que de…",
-          "published": "2026-08-07T23:49:17+00:00"
-        },
-        {
-          "title": "Texas | Amazon fait construire une immense centrale à gaz pour ses centres de données",
-          "link": "https://www.lapresse.ca/affaires/techno/2026-08-07/texas/amazon-fait-construire-une-immense-centrale-a-gaz-pour-ses-centres-de-donnees.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Amazon fait construire au Texas une immense centrale à gaz qui pourrait devenir la plus importante source d’émission de gaz à effet de serre des États-Unis, a confirmé vendredi le géant technologique américain.",
-          "published": "2026-08-07T23:33:42+00:00"
-        },
-        {
-          "title": "Femmes célibataires involontaires | L’univers méconnu des femcels",
-          "link": "https://www.lapresse.ca/actualites/2026-08-07/femmes-celibataires-involontaires/l-univers-meconnu-des-femcels.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Dans l’ombre de la communauté déjà connue des hommes célibataires involontaires (incels), des femmes se considèrent aussi comme « célibataires involontaires ». Appelées femcels, elles se regroupent dans leurs propres…",
-          "published": "2026-08-07T23:30:00+00:00"
-        },
-        {
-          "title": "Deux jeunes de 18 ans sont accusés après les tirs meurtriers à Toronto",
-          "link": "https://www.ledevoir.com/actualites/1000673/deux-jeunes-18-ans-sont-accuses-apres-tirs-meurtriers-toronto",
-          "source": "Le Devoir",
-          "summary": "La fusillade du 11 juillet a coûté la vie à Shaquan Quashie, 25 ans, et à Cesar Vernaza, 20 ans.",
-          "published": "2026-08-07T23:29:00+00:00"
+          "summary": "Pour certains, une course à cinq (partis politiques), ça ajoute du piquant. Pas pour ceux qui en sont des cibles.",
+          "published": "2026-08-08T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Incendies : le feu est fixé dans le Var mais poursuit sa progression dans la Drôme",
+          "title": "EN DIRECT - Incendies : 34 départements classés en risque «élevé» de feu de forêt ce samedi",
           "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-est-fixe-dans-le-var-mais-poursuit-sa-progression-dans-la-drome-20260808_CLNZ3Y5XOZBVBAQUJGX7J4BODA/",
           "source": "Liberation",
-          "summary": "Le feu qui sévit depuis cinq jours dans le massif de Claps, dans la Drôme, a parcouru vendredi soir près de 300 hectares de forêt et la situation reste «complexe» au niveau de plusieurs points chauds, selon la…",
-          "published": "2026-08-08T06:41:47+00:00"
+          "summary": "La chaleur devrait faire un «retour en force» progressif dans les prochains jours, a annoncé Météo-France, qui a également placé 12 départements en vigilance orange canicule samedi. Jusqu’à 39 degrés sont attendus dans…",
+          "published": "2026-08-08T09:30:34+00:00"
         },
         {
-          "title": "\"En 5 minutes, c'est 50 ans qui partent\" : après les incendies en Gironde, des propriétaires forestiers se disent lésés par l'abattage de bois sains",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-5-minutes-c-est-50-ans-qui-partent-apres-les-incendies-en-gironde-des-proprietaires-forestiers-se-disent-leses-par-l-abattage-de-bois-sains_8139353.html#xtor=RSS-3-[lestitres]",
+          "title": "Rugby : un joueur fidjien d'un club japonais décède d'un «coup de chaleur sévère»",
+          "link": "https://www.lefigaro.fr/sports/rugby/rugby-un-joueur-fidjien-d-un-club-japonais-decede-d-un-coup-de-chaleur-severe-20260808",
+          "source": "Le Figaro",
+          "summary": "Saimoni Vunilagi est mort après une séance d’entraînement disputée sous une forte chaleur avec le club de Kyushu KV.",
+          "published": "2026-08-08T09:22:26+00:00"
+        },
+        {
+          "title": "Prairies à sec, fruits et légumes \"brûlés\", récoltes en berne… Les agriculteurs face à \"l'immensité de la crise\" climatique",
+          "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/prairies-a-sec-fruits-et-legumes-brules-recoltes-en-berne-les-agriculteurs-face-a-l-immensite-de-la-crise-climatique_8136905.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Un peu plus de 500 hectares d'arbres, pourtant non concernés par les \"coupes tactiques\" exigées par la préfecture, ont été coupés à la hâte pendant ou juste après l'incendie. De quoi susciter la colère de nombreux…",
-          "published": "2026-08-08T06:35:01+00:00"
+          "summary": "Maraîchers et éleveurs témoignent d'un été \"sans précédent\" dans les champs, marqué par une sécheresse record et des canicules sans fin. La production risque d'être affectée pour de longs mois.",
+          "published": "2026-08-08T09:20:17+00:00"
         },
         {
-          "title": "En Saône-et-Loire, 60 enfants évacués à cause des flammes",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-saone-et-loire-60-enfants-evacues-a-cause-des-flammes_8139491.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Un incendie a ravagé près de 9 hectares de végétation au Creusot, dans un contexte de sécheresse critique. 85 pompiers et plusieurs moyens aériens ont été mobilisés pour protéger les habitations, tandis que 60 enfants…",
-          "published": "2026-08-08T06:26:55+00:00"
+          "title": "McCourt qui «monte dans les tours», la «médiocrité» à l’OM, les joueurs «qui décident», ancien directeur football, Medhi Benatia vide son sac",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/mccourt-qui-monte-dans-les-tours-la-mediocrite-a-l-om-les-joueurs-qui-decident-ancien-directeur-football-medhi-benatia-vide-son-sac-20260808",
+          "source": "Le Figaro",
+          "summary": "Dans un entretien à France Football, l’ex-dirigeant phocéen règle ses comptes avec certains dirigeants et une grande partie des joueurs dont le pouvoir est trop large.",
+          "published": "2026-08-08T09:17:44+00:00"
         },
         {
-          "title": "Incendie dans le Var : après 18 jours de mobilisation des pompiers, le feu du Gros Bessillon est fixé",
+          "title": "États-Unis : le Sénat approuve la nomination de Todd Blanche comme ministre de la Justice",
+          "link": "https://www.lefigaro.fr/international/etats-unis-le-senat-approuve-la-nomination-de-todd-blanche-comme-ministre-de-la-justice-20260808",
+          "source": "Le Figaro",
+          "summary": "Cette validation par 50 voix contre 49 achève une procédure tortueuse pour le président américain, qui a vu une poignée de sénateurs de son camp républicain s’opposer à la prise de poste de son ancien avocat personnel.",
+          "published": "2026-08-08T09:16:53+00:00"
+        },
+        {
+          "title": "Incendie fixé dans le Var : \"Nous ne crions pas victoire trop vite\", prévient le Service départemental d'incendie et de secours",
           "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-dans-le-var-apres-18-jours-de-mobilisation-des-pompiers-le-feu-du-gros-bessillon-est-fixe_8139485.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "L'incendie a été fixé vendredi. Environ 6 000 personnes avaient dû être évacuées pour se protéger des flammes qui ont endommagé 70 maisons dont 41 ont été totalement détruites.",
-          "published": "2026-08-08T06:25:31+00:00"
+          "summary": "L'incendie du Gros Bessillon a été fixé vendredi. Environ 450 sapeurs-pompiers sont encore mobilisés sur le terrain.",
+          "published": "2026-08-08T09:15:31+00:00"
         },
         {
-          "title": "\"Si vous avez honte, si vraiment vous êtes indigné, dites-le\", demande une victime de Bétharram au pape Léon XIV à propos des violences sexuelles dans l'Église",
-          "link": "https://www.franceinfo.fr/societe/education/affaire-de-violences-sexuelles-a-notre-dame-de-betharram/si-vous-avez-honte-si-vraiment-vous-etes-indigne-dites-le-demande-une-victime-de-betharram-au-pape-leon-xiv-a-propos-des-violences-sexuelles-dans-l-eglise_8139488.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le principal collectif de victimes de l'établissement a demandé fin mai à rencontrer le souverain pontife qui serait \"très important pour tous les camarades de pouvoir rencontrer un tel personnage\", poursuit Pascal…",
-          "published": "2026-08-08T06:23:52+00:00"
+          "title": "EN DIRECT, guerre en Ukraine : de nouvelles frappes russes sur Kiev et sa région font quatre morts",
+          "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-de-nouvelles-frappes-russes-sur-kiev-et-sa-region-font-quatre-morts_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Mercredi, au moins 17 personnes ont été tuées dans des frappes nocturnes sur Kiev et sa région. Samedi, Volodymyr Zelensky a exhorté d’autres pays, notamment les Etats-Unis, à fournir davantage de munitions, devenues…",
+          "published": "2026-08-08T09:14:00+00:00"
         },
         {
-          "title": "Des communes confrontées à des pénuries d’eau à cause de la sécheresse",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/des-communes-confrontees-a-des-penuries-d-eau-a-cause-de-la-secheresse_8139473.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Dans plusieurs communes françaises, la sécheresse met les ressources en eau potable sous tension. Des habitants doivent composer avec des robinets presque à sec, tandis que les réserves s’épuisent également dans les…",
-          "published": "2026-08-08T06:16:06+00:00"
-        },
-        {
-          "title": "Ce que proposent les partis politiques pour lutter contre les ingérences étrangères",
-          "link": "https://www.liberation.fr/politique/ce-que-proposent-les-partis-politiques-pour-lutter-contre-les-ingerences-etrangeres-20260808_OF4PVSJ4PNFYBIXTIHKBDZPBHE/",
+          "title": "«Le soir où Bobby Fischer n’est pas venu jouer» de Mayra Montero : découvrez les premières pages du livre",
+          "link": "https://www.liberation.fr/culture/livres/le-soir-ou-bobby-fischer-nest-pas-venu-jouer-de-mayra-montero-decouvrez-les-premieres-pages-du-livre-20260808_WIGFKLN3ZNFXJJLQMU2TVTMHFU/",
           "source": "Liberation",
-          "summary": "Alors que 2027 verra se dérouler l’élection présidentielle, la multiplication des contenus visant certains candidats laisse craindre une campagne minée par ces opérations de désinformation. Le gouvernement a, par…",
-          "published": "2026-08-08T06:10:00+00:00"
+          "summary": "Dans son dernier roman à paraître en septembre, l’autrice cubaine base son histoire sur un moment particulier de sa vie : une nuit passée avec le maître des échecs.",
+          "published": "2026-08-08T09:08:00+00:00"
         },
         {
-          "title": "La Réunion : la famille de Quentin Dumontier, retrouvé mort le 5 août, lance une cagnotte pour rapatrier son corps",
-          "link": "https://www.lefigaro.fr/faits-divers/la-reunion-la-famille-de-quentin-dumontier-retrouve-mort-le-5-aout-lance-une-cagnotte-pour-rapatrier-son-corps-20260808",
-          "source": "Le Figaro",
-          "summary": "Ce Toulousain âgé de 31 ans habitait depuis trois ans avec sa compagne sur l’île de la Réunion. Il était porté disparu depuis le 8 juillet.",
-          "published": "2026-08-08T06:06:36+00:00"
-        },
-        {
-          "title": "Moha La Squale : le rappeur condamné à deux ans de prison dont un ferme pour des violences sur deux femmes",
-          "link": "https://www.liberation.fr/societe/police-justice/moha-la-squale-le-rappeur-condamne-a-deux-ans-de-prison-dont-un-ferme-pour-des-violences-sur-deux-femmes-20260808_753V643PTVEFRIR5G3T7ZW22SM/",
-          "source": "Liberation",
-          "summary": "Le rappeur du XXe arrondissement parisien a été condamné vendredi 7 août à deux années d’emprisonnement dont une avec sursis probatoire pour avoir frappé deux femmes lors d’une soirée à son domicile parisien en mai…",
-          "published": "2026-08-08T06:03:58+00:00"
-        },
-        {
-          "title": "Moha La Squale condamné à deux ans de prison dont un avec sursis pour des violences sur deux femmes",
-          "link": "https://www.franceinfo.fr/societe/justice/moha-la-squale-condamne-a-deux-ans-de-prison-dont-un-avec-sursis-pour-des-violences-sur-deux-femmes_8139470.html#xtor=RSS-3-[lestitres]",
+          "title": "Le Sénat américain approuve la nomination de l'ancien avocat de Donald Trump comme ministre de la Justice",
+          "link": "https://www.franceinfo.fr/monde/usa/le-senat-americain-approuve-la-nomination-de-l-ancien-avocat-de-donald-trump-comme-ministre-de-la-justice_8139599.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le rappeur a été condamné pour avoir frappé deux femmes en mai lors d'une soirée chez lui à Paris. Il avait déjà été condamné en 2024 pour violences sur conjoint",
-          "published": "2026-08-08T06:03:55+00:00"
+          "summary": "Todd Blanche était déjà ministre de la Justice par intérim depuis le moi d'avril. L'opposition démocrate, qui dénonce une utilisation politique de la justice, s'opposait fermement à sa nomination.",
+          "published": "2026-08-08T09:01:24+00:00"
+        },
+        {
+          "title": "L’artiste Camille Henrot s’interroge, dans une vidéo touchante, sur la manière d’élever son enfant en temps de crise écologique",
+          "link": "https://www.lemonde.fr/culture/article/2026/08/08/l-artiste-camille-henrot-s-interroge-dans-une-video-touchante-sur-la-maniere-d-elever-son-enfant-en-temps-de-crise-ecologique_6741161_3246.html",
+          "source": "Le Monde",
+          "summary": "La plasticienne a mis cinq ans à réaliser ce moyen-métrage, projeté à LUMA Arles, qui se veut à la fois intime et planétaire, militant et désenchanté.",
+          "published": "2026-08-08T09:00:07+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Microsoft répare Windows 11, puis gâche l’application Photos avec OneDrive",
-          "link": "https://www.frandroid.com/os/3207121_microsoft-repare-windows-11-puis-gache-lapplication-photos-avec-onedrive",
+          "title": "Après les sols et le jardin, Ecovacs s’attaque aux vitres avec ce robot laveur et sa station multifonction en promo sur Amazon",
+          "link": "https://www.frandroid.com/bons-plans/3203109_apres-les-sols-et-le-jardin-ecovacs-sattaque-aux-vitres-avec-ce-robot-laveur-et-sa-station-multifonction-en-promo-sur-amazon",
           "source": "Frandroid",
-          "summary": "Microsoft venait tout juste de redorer l'image de Windows 11 en corrigeant plusieurs bugs. Et voilà que l'application Photos, gavée de OneDrive, remet le bazar.",
-          "published": "2026-08-08T06:45:50+00:00"
+          "summary": "L'Ecovacs Winbot W2 Pro Omni est un robot laveur de vitres tout carré qui va s'occuper de nettoyer vos carreaux efficacement. Il est actuellement en promo à 396 euros au lieu de 449 euros sur Amazon.",
+          "published": "2026-08-08T09:35:00+00:00"
         },
         {
-          "title": "La souris gaming Logitech PRO X2 Superstrike passe sous les 150 € sur Amazon",
-          "link": "https://www.numerama.com/tech/2308159-la-souris-gaming-logitech-pro-x2-superstrike-passe-sous-les-150-e-sur-amazon.html",
+          "title": "Éclipse solaire du 12 août : y a-t-il des spots parfaits à Paris pour voir le phénomène ?",
+          "link": "https://www.numerama.com/sciences/2306461-eclipse-solaire-du-12-aout-y-a-t-il-des-spots-parfaits-a-paris-pour-voir-le-phenomene.html",
           "source": "Numerama",
-          "summary": "[Deal du jour] Logitech a bousculé le marché des souris gamer avec la PRO X2 Superstrike et sa technologie haptique inédite. Amazon propose le coloris Lunar Eclipse à 149,99 € au lieu de 179,99 €, soit 30 € d'économie…",
-          "published": "2026-08-08T06:30:00+00:00"
+          "summary": "Le 12 août 2026, l'Europe vivra l'événement astronomique de la décennie. La France profitera d'une éclipse partielle spectaculaire. À Paris, le Soleil sera masqué à plus de 92 % en fin de journée. Horaire, déroulement…",
+          "published": "2026-08-08T09:32:27+00:00"
         },
         {
-          "title": "Voyager à l'étranger : le guide pour limiter les frais bancaires et ne pas se faire piéger sur les taux de change",
-          "link": "https://www.clubic.com/actualite-623524-voyager-a-l-etranger-le-guide-pour-limiter-les-frais-bancaires-et-ne-pas-se-faire-pieger-sur-les-taux-de-change.html",
-          "source": "Clubic",
-          "summary": "Voyager hors zone euro implique souvent des frais lors des paiements. Entre le bureau de change, les retraits au distributeur ou le règlement par carte, comment s’en sortir le mieux et éviter les mauvaises surprises ?…",
-          "published": "2026-08-08T06:30:00+00:00"
-        },
-        {
-          "title": "Climatisation réversible ou pompe à chaleur air-air : y a-t-il vraiment une différence ?",
-          "link": "https://www.frandroid.com/produits-android/maison-connectee/climatiseur/3205279_climatisation-reversible-ou-pompe-a-chaleur-air-air-y-a-t-il-vraiment-une-difference",
-          "source": "Frandroid",
-          "summary": "Pompe à chaleur air-air et climatisation réversible, c'est le même appareil . La différence ne tient pas à la machine, mais au mot qu'on colle dessus, et ce mot décide de ce que vous pouvez toucher comme aides.",
-          "published": "2026-08-08T06:20:00+00:00"
-        },
-        {
-          "title": "Elon Musk veut lancer un Starship par jour et prépare une capture inédite de son vaisseau dès ce mois-ci",
-          "link": "https://www.clubic.com/actualite-624418-elon-musk-veut-lancer-un-starship-par-jour-et-prepare-une-capture-inedite-de-son-vaisseau-des-ce-mois-ci.html",
-          "source": "Clubic",
-          "summary": "À peine remis de son dernier essai, Starship doit repartir dans l'espace avant la fin du mois. SpaceX veut placer des satellites en orbite et attraper l'étage supérieur au retour, deux jalons décisifs pour fiabiliser…",
-          "published": "2026-08-08T06:08:00+00:00"
-        },
-        {
-          "title": "Ventes Flash : 10 offres Amazon pour s'équiper malin ce week-end",
-          "link": "https://www.clubic.com/bons-plans-624502-ventes-flash-10-offres-amazon-pour-s-equiper-malin-ce-week-end.html",
-          "source": "Clubic",
-          "summary": "Le mois d'août file à toute vitesse et les prix, eux, continuent de bouger sur Amazon. Pour ce week-end, dix Ventes Flash méritent le détour, du robot aspirateur au smartphone, pendant quelques heures seulement.",
-          "published": "2026-08-08T06:00:00+00:00"
-        },
-        {
-          "title": "Pourquoi acheter son iPhone chez Boulanger ? Les avantages d’un revendeur agréé Apple (Retrait 1h, Reprise, AppleCare+) [Sponso]",
-          "link": "https://www.frandroid.com/produits-android/smartphone/3188255_pourquoi-acheter-son-iphone-chez-boulanger-les-avantages-dun-revendeur-agree-apple-retrait-1h-reprise-applecare",
-          "source": "Frandroid",
-          "summary": "Quel est le meilleur endroit pour acheter un iPhone en France ? Les canaux de distribution sont multiples, mais ils ne se valent pas tous en termes de services. Pour acheter un iPhone neuf débloqué, profiter…",
-          "published": "2026-08-08T05:47:00+00:00"
-        },
-        {
-          "title": "L’Aurzen Zip, un vidéoprojecteur de poche qui se plie en trois, perd 100 €",
-          "link": "https://www.frandroid.com/bons-plans/3205169_laurzen-zip-un-videoprojecteur-de-poche-qui-se-plie-en-trois-perd-100-e",
-          "source": "Frandroid",
-          "summary": "L'Aurzen Zip est un vidéoprojecteur pas comme les autres : il se plie littéralement en trois pour tenir dans une poche. Ce pico-projecteur au design atypique voit son prix chuter à 399 euros au lieu de 499 euros.",
-          "published": "2026-08-08T05:44:00+00:00"
-        },
-        {
-          "title": "Le désastre Coldcard, un forum secret d’agents IA et les tireurs français encore exposés : on vous raconte la semaine Cyberguerre",
-          "link": "https://www.numerama.com/cyberguerre/2308115-le-desastre-coldcard-un-forum-secret-dagents-ia-et-les-tireurs-francais-encore-exposes-on-vous-raconte-la-semaine-cyberguerre.html",
+          "title": "Sauvetage du Starship : SpaceX publie des images inédites, mais le repêchage n’est pas gagné",
+          "link": "https://www.numerama.com/sciences/2308561-sauvetage-du-starship-spacex-publie-des-images-inedites-mais-le-repechage-nest-pas-gagne.html",
           "source": "Numerama",
-          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : le fabricant de portefeuilles Bitcoin Coinkite reconnaît l'ampleur d'un piratage massif dû à un bug vieux de 2021, OpenAI reconstitue comment ses agents…",
-          "published": "2026-08-08T05:30:00+00:00"
+          "summary": "SpaceX a partagé de saisissants clichés et une vidéo au crépuscule du Ship 40 dérivant dans l’océan Indien. Mais alors que les équipes déploient des trésors d'ingéniosité pour le sécuriser, la météo menaçante rend le…",
+          "published": "2026-08-08T09:22:35+00:00"
         },
         {
-          "title": "Lumineux et performant, le Honor 600 Pro perd 80 euros et il n’arrive pas seul : un vidéoprojecteur est offert",
-          "link": "https://www.frandroid.com/bons-plans/3206143_lumineux-et-performant-le-honor-600-pro-perd-80-euros-et-il-narrive-pas-seul-un-videoprojecteur-est-offert",
-          "source": "Frandroid",
-          "summary": "Le Honor 600 Pro est l'un des derniers smartphones haut de gamme de la marque. Solide, puissant et doté d'un écran vraiment lumineux, il figure parmi les références les plus intéressantes du moment. En ce moment, vous…",
-          "published": "2026-08-07T18:27:00+00:00"
-        },
-        {
-          "title": "CyberGhost VPN passe à 2,19 €/mois : une offre intéressante pour sécuriser vos vacances",
-          "link": "https://www.clubic.com/bons-plans-624517-cyberghost-vpn-passe-a-2-19-mois-une-offre-interessante-pour-securiser-ses-connexions-pendant-vos-vacances.html",
+          "title": "Après Chrome, Microsoft Edge s'attaque à son tour aux anciens bloqueurs de pub",
+          "link": "https://www.clubic.com/actualite-624532-apres-chrome-microsoft-edge-s-attaque-a-son-tour-aux-anciens-bloqueurs-de-pub.html",
           "source": "Clubic",
-          "summary": "Entre les Wi-Fi d’hôtel, les réseaux publics dans les gares ou les aéroports et les connexions partagées en vacances, l’été multiplie les occasions de se connecter loin de son réseau domestique.",
-          "published": "2026-08-07T17:58:00+00:00"
+          "summary": "Microsoft a annoncé la désactivation progressive des extensions Manifest V2 dans Edge, comme Google l’a fait sur Chrome. Les développeurs de uBlock Origin et les autres bloqueurs de publicités devront réduire les…",
+          "published": "2026-08-08T09:18:00+00:00"
         },
         {
-          "title": "Petit format et prix réduit pour cette batterie externe de 45 W compatible avec les smartphones et les consoles portables",
-          "link": "https://www.frandroid.com/bons-plans/3206709_petit-format-et-prix-reduit-pour-cette-batterie-externe-de-45-w-compatible-avec-les-smartphones-et-les-consoles-portables",
+          "title": "Test Xiaomi Curved Gaming Monitor G34WQi : l’ultrawide abordable progresse",
+          "link": "https://www.clubic.com/test-produit-619534-test-xiaomi-curved-gaming-monitor-g34wqi.html",
+          "source": "Clubic",
+          "summary": "Xiaomi se fait rare dans le domaine des écrans gamer. Cependant, le fabricant revient là où on ne l'attend pas. Avec le Curved Gaming Monitor G34WQi, Xiaomi renouvelle son écran gaming ultrawide de 34 pouces. Cette…",
+          "published": "2026-08-08T09:01:00+00:00"
+        },
+        {
+          "title": "-70% sur le Lefant M210 : un robot aspirateur à moins de 90€ chez Amazon",
+          "link": "https://www.clubic.com/bons-plans-624304-sur-le-lefant-m210-un-robot-aspirateur-a-moins-de-90-chez-amazon.html",
+          "source": "Clubic",
+          "summary": "L'été s'annonce chargé entre les départs en vacances et l'envie de retrouver un intérieur propre au retour. Le robot aspirateur connecté Lefant M210 profite d'une remise de 70 % chez Amazon, de quoi automatiser…",
+          "published": "2026-08-08T08:58:00+00:00"
+        },
+        {
+          "title": "Test du Framework Laptop 16 version 2026 : puissant, réparable et évolutif, mais à quel prix ?",
+          "link": "https://www.frandroid.com/marques/framework/3207065_test-framework-laptop-16-2026",
           "source": "Frandroid",
-          "summary": "La batterie externe 45 W d'Iniu embarque un câble USB-C intégré et une capacité de 10 000 mAh. Grâce à une offre Amazon, elle passe juste au-dessus de 25 euros.",
-          "published": "2026-08-07T17:35:00+00:00"
+          "summary": "Le Framework Laptop 16 revient en 2026 avec un Ryzen AI 9 HX 370, une GeForce RTX 5070 Laptop de 12 Go et toujours cette promesse unique sur le marché : un PC portable gaming entièrement démontable, évolutif et…",
+          "published": "2026-08-08T08:32:45+00:00"
+        },
+        {
+          "title": "Une version de GTA 6 sur disque ? Cela n’a « plus aucun sens » juge le patron de Take-Two",
+          "link": "https://www.numerama.com/pop-culture/2308479-une-version-de-gta-6-sur-disque-cela-na-plus-aucun-sens-juge-le-patron-de-take-two.html",
+          "source": "Numerama",
+          "summary": "Alors que l’édition physique de GTA 6 ne contiendra qu'un simple code de téléchargement, le PDG de Take-Two assume pleinement ce choix. Pour Strauss Zelnick, le disque est devenu un support obsolète, voué à devenir un…",
+          "published": "2026-08-08T08:26:36+00:00"
+        },
+        {
+          "title": "Il existe une carte française, Urba-Clim, qui suit en quasi temps réel les îlots de chaleur, en partie depuis l'espace",
+          "link": "https://www.clubic.com/actualite-624526-il-existe-une-carte-francaise-urba-clim-qui-suit-en-quasi-temps-reel-les-ilots-de-chaleur-en-partie-depuis-l-espace.html",
+          "source": "Clubic",
+          "summary": "À Rennes, on teste une carte thermique en quasi temps réel, pour traquer ses îlots de chaleur. L'outil utilisé, baptisé Urba-Clim, se sert de capteurs connectés et satellites pour aider les villes à mieux respirer l'été.",
+          "published": "2026-08-08T08:22:00+00:00"
+        },
+        {
+          "title": "Les robots de livraison autonomes vont bientôt pouvoir circuler sur les routes françaises",
+          "link": "https://www.clubic.com/actualite-624529-les-robots-de-livraison-autonomes-vont-bientot-pouvoir-circuler-sur-les-routes-francaises.html",
+          "source": "Clubic",
+          "summary": "Hier, le ministère des Transports a publié un arrêté pour classer les robots de livraison autonomes dans la catégorie L des véhicules à moteur. Les constructeurs pourront désormais faire homologuer ces robots et les…",
+          "published": "2026-08-08T08:05:00+00:00"
+        },
+        {
+          "title": "Quel smartphone Samsung Galaxy choisir en 2026 ? Tous les modèles testés, nos recommandations par budget",
+          "link": "https://www.frandroid.com/guide-dachat/386688_quels-smartphone-samsung-choisir-parmi-les-differentes-gammes-galaxy",
+          "source": "Frandroid",
+          "summary": "La firme coréenne propose l'une des gammes de smartphones les plus complètes sur le marché de la téléphonie. Quel est le téléphone Samsung qui est fait pour vous ? Nous les avons tous testés : voici notre avis sur la…",
+          "published": "2026-08-08T08:02:02+00:00"
+        },
+        {
+          "title": "Un dragon de retour dans House of the Dragon, Tom Bombadil débarque dans Les Anneaux de pouvoir, et Mario dévoile son secret : c’est le récap pop culture de la semaine",
+          "link": "https://www.numerama.com/pop-culture/2308321-un-dragon-de-retour-dans-house-of-the-dragon-tom-bombadil-debarque-dans-les-anneaux-de-pouvoir-et-mario-devoile-son-secret-cest-le-recap-pop-culture-de-la-semaine.html",
+          "source": "Numerama",
+          "summary": "Cette semaine fut placée sous le signe des grands retours héroïques : Feux-du-Soleil n’a pas dit son dernier mot dans la saison 3 de House of the Dragon, tandis que Tom Bombadil vient faire coucou dans la saison 3 des…",
+          "published": "2026-08-08T08:00:00+00:00"
         }
       ]
     }
