@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-08-08T15:27:47.234830+00:00",
+  "generated_at": "2026-08-08T18:35:02.727056+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Fusillade en Thaïlande : une enfant de 12 ans meurt des suites de ses blessures, le bilan passe à huit morts",
+          "link": "https://www.lemonde.fr/international/article/2026/08/08/fusillade-en-thailande-une-enfant-de-12-ans-meurt-des-suites-de-ses-blessures-le-bilan-passe-a-huit-morts_6741516_3210.html",
+          "source": "Le Monde",
+          "summary": "Un adolescent de 14 ans a tué ses grands-parents à leur domicile, vendredi, avant de perpétrer une fusillade dans son lycée, près de Bangkok. Il a fait sept morts et plus de 30 blessés, avant de se donner la mort.",
+          "published": "2026-08-08T17:43:10+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Kiev assure ne pas avoir visé « délibérément » la Bulgarie, après la chute d’un drone correspondant à ceux utilisés par l’armée ukrainienne",
+          "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-kiev-assure-ne-pas-avoir-vise-deliberement-la-bulgarie-apres-la-chute-d-un-drone-correspondant-a-ceux-utilises-par-l-armee-ukrainienne_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Ce drone a explosé ce matin près de la frontière avec la Roumanie et d’un gazoduc. « Nous sommes en contact étroit avec la partie bulgare afin de clarifier les circonstances » de l’incident, a affirmé en fin…",
+          "published": "2026-08-08T16:58:26+00:00"
+        },
+        {
+          "title": "Crise de Ceuta : en Espagne, début des contrôles aux frontières pour les voyageurs venant d’Italie, en réponse aux mesures similaires prises par Rome",
+          "link": "https://www.lemonde.fr/international/article/2026/08/08/crise-de-ceuta-en-espagne-debut-des-controles-aux-frontieres-pour-les-voyageurs-venant-d-italie-en-reponse-aux-mesures-similaires-prises-par-rome_6741510_3210.html",
+          "source": "Le Monde",
+          "summary": "Les autorités espagnoles effectueront des contrôles sur les liaisons aériennes et maritimes avec l’Italie « de manière aléatoire » jusqu’au 7 septembre, a précisé, samedi, le ministère de l’intérieur.",
+          "published": "2026-08-08T15:59:22+00:00"
+        },
+        {
+          "title": "Jorge Messi, le père et agent du Ballon d’or Lionel Messi, est mort à l’âge de 68 ans",
+          "link": "https://www.lemonde.fr/disparitions/article/2026/08/08/jorge-messi-le-pere-et-agent-du-ballon-d-or-lionel-messi-est-mort-a-l-age-de-68-ans_6741477_3382.html",
+          "source": "Le Monde",
+          "summary": "Figure tutélaire tout au long de la carrière de son fils, il avait été son premier entraîneur en Argentine, son unique compagnon dans les débuts difficiles à Barcelone, avant de devenir son agent et de négocier en son…",
+          "published": "2026-08-08T15:35:27+00:00"
+        },
+        {
+          "title": "Inde : des jeunes de la Gen Z menacés sur les réseaux sociaux",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260808-inde-des-jeunes-de-la-gen-z-menac%C3%A9s-sur-les-r%C3%A9seaux-sociaux",
+          "source": "France 24",
+          "summary": "Deux semaines après la démission du ministre de l'Education sous la pression de la rue, le gouvernement du Premier ministre indien Narendra Modi tente de gérer les conséquences de l'une des pires crises politiques de…",
+          "published": "2026-08-08T15:20:27+00:00"
+        },
+        {
+          "title": "Nouvelles frappes meurtrières à Kiev : au moins 4 morts et 7 blessés",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260808-nouvelles-frappes-meurtri%C3%A8res-%C3%A0-kiev-au-moins-4-morts-et-7-bless%C3%A9s",
+          "source": "France 24",
+          "summary": "De nouveaux bombardements russes sur Kiev et sa région ont fait au moins quatre morts et sept blessés dans la nuit de vendredi à samedi, au moment où l'Ukraine peine à faire face à l'intensification des frappes russes…",
+          "published": "2026-08-08T15:18:40+00:00"
+        },
         {
           "title": "Incursion israélienne dans un village du Liban malgré le déploiement de l'armée libanaise",
           "link": "https://www.france24.com/fr/moyen-orient/20260808-incursion-de-l-arm%C3%A9e-isra%C3%A9lienne-dans-un-village-du-liban-malgr%C3%A9-le-d%C3%A9ploiement-de-l-arm%C3%A9e-libanaise",
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "Marc-André Selosse, microbiologiste et professeur au Musée National d'Histoire Naturelle, est notre invité.",
           "published": "2026-08-08T13:37:17+00:00"
-        },
-        {
-          "title": "Détroit d’Ormuz : un pétrolier de la compagnie émiratie Adnoc a été ciblé par l’Iran, affirment les Emirats arabes unis",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/detroit-d-ormuz-un-petrolier-de-la-compagnie-nationale-adnoc-a-ete-cible-par-l-iran-affirment-les-emirats-arabes-unis_6741403_3210.html",
-          "source": "Le Monde",
-          "summary": "Un autre navire a été ciblé, samedi, par « un projectile » dans le détroit, a alerté l’agence maritime britannique UKMTO, sans en préciser l’origine.",
-          "published": "2026-08-08T13:29:04+00:00"
-        },
-        {
-          "title": "En Espagne, un incendie a touché plus de 4 000 hectares de forêt dans la province andalouse de Huelva",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/un-incendie-dans-le-sud-ouest-de-l-espagne-a-touche-plus-de-4-000-hectares-de-foret_6741402_3210.html",
-          "source": "Le Monde",
-          "summary": "L’incendie, qui s’est déclaré près de la localité de Niebla, à environ 70 kilomètres de la frontière sud avec le Portugal, a été attisé par des vents soufflant entre 40 et 50 kilomètres à l’heure.",
-          "published": "2026-08-08T13:20:32+00:00"
-        },
-        {
-          "title": "Bande de Gaza : le Hamas redit être prêt à mettre en œuvre le plan de paix soutenu par les Etats-Unis",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/bande-de-gaza-le-hamas-redit-etre-pret-a-mettre-en-uvre-le-plan-de-paix-soutenu-par-les-etats-unis_6741368_3210.html",
-          "source": "Le Monde",
-          "summary": "Le mouvement islamiste palestinien appelle en outre à faire pression sur Israël, qui n’a pas accepté la dernière feuille de route annoncée par Donald Trump.",
-          "published": "2026-08-08T12:51:50+00:00"
-        },
-        {
-          "title": "Au Liban, l’armée israélienne a pénétré dans un village malgré le déploiement de l’armée libanaise",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/au-liban-l-armee-israelienne-a-penetre-dans-un-village-malgre-le-deploiement-de-l-armee-libanaise_6741367_3210.html",
-          "source": "Le Monde",
-          "summary": "Des militaires de l’Etat hébreu ont érigé un remblai de terre à l’entrée de la localité de Zaoutar El-Gharbiyé, quelques jours après une session de négociations peu fructueuse entre les deux pays à Rome.",
-          "published": "2026-08-08T12:45:29+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : le drone qui s’est écrasé samedi en Bulgarie est de type « largement utilisé par les forces armées ukrainiennes », affirme le ministre de la défense bulgare",
-          "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-kiev-n-a-quasiment-aucune-centrale-thermique-intacte-a-cause-des-attaques-russes-selon-volodymyr-zelensky_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Ce drone a explosé, samedi matin, près de la frontière avec la Roumanie et du gazoduc transbalkanique qui relie la Turquie à l’Ukraine, selon le premier ministre bulgare, Roumen Radev.",
-          "published": "2026-08-08T12:30:04+00:00"
-        },
-        {
-          "title": "Liban : pourquoi le Festival de Baalbek reporte son édition 2026",
-          "link": "https://www.france24.com/fr/moyen-orient/20260808-liban-pourquoi-festival-baalbek-reporte-%C3%A9dition-2026-guerre-israel-nayla-de-freige",
-          "source": "France 24",
-          "summary": "Le Festival international de Baalbek a annoncé, le 12 juin, le report de son édition 2026 en raison de la situation sécuritaire et politique au Liban. Une décision qui intervient alors que les discussions entre Beyrouth…",
-          "published": "2026-08-08T12:03:33+00:00"
         }
       ]
     },
@@ -84,7 +84,49 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Élections provinciales 2026 | Pierre-Luc Brillant sera candidat du PQ dans Rosemont",
+          "title": "Le cancer de Joe Biden s’aggrave, révèle son fils Hunter",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-08/le-cancer-de-joe-biden-s-aggrave-revele-son-fils-hunter.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le cancer de la prostate de l’ancien président américain Joe Biden s’est propagé à d’autres parties de son corps et lui cause des douleurs, alors même qu’il continue de s’exprimer sur des questions d’intérêt public, a…",
+          "published": "2026-08-08T18:05:49+00:00"
+        },
+        {
+          "title": "Construction d’un nouveau stade au parc Jarry | Valérie Tétreault tente de rassurer le public",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-08/construction-d-un-nouveau-stade-au-parc-jarry/valerie-tetreault-tente-de-rassurer-le-public.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Il y a eu le forfait de joueurs étoiles, puis la pluie. Il y a eu l’hécatombe des joueurs canadiens et des têtes de série. Et voilà que la publication de concepts d’architectes du projet de construction d’un nouveau…",
+          "published": "2026-08-08T17:46:44+00:00"
+        },
+        {
+          "title": "Tétreault veut se faire rassurante sur la construction d’un stade au parc Jarry",
+          "link": "https://www.ledevoir.com/sports/1000724/tetreault-veut-faire-rassurante-construction-stade-parc-jarry",
+          "source": "Le Devoir",
+          "summary": "Des groupes de citoyens vont front commun face au projet de construction d’un stade «trois saisons».",
+          "published": "2026-08-08T17:20:00+00:00"
+        },
+        {
+          "title": "Vague «inquiétante» de haine en ligne contre les candidats LGBTQ+ au Québec",
+          "link": "https://www.ledevoir.com/politique/quebec/1000721/vague-inquietante-haine-ligne-contre-candidats-lgbtq-quebec",
+          "source": "Le Devoir",
+          "summary": "Certains candidats tirent la sonnette d’alarme face à une avalanche de messages haineux.",
+          "published": "2026-08-08T16:04:00+00:00"
+        },
+        {
+          "title": "Marchés de prédiction | Miser sur les incendies de forêt pour gagner de l’argent ?",
+          "link": "https://www.lapresse.ca/actualites/2026-08-08/marches-de-prediction/miser-sur-les-incendies-de-foret-pour-gagner-de-l-argent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des sénateurs américains s’alarment du fait que des entreprises comme Polymarket permettent à des individus de miser par l’entremise de « marchés de prédiction » sur les dommages causés par les incendies de forêt. Or la…",
+          "published": "2026-08-08T16:00:00+00:00"
+        },
+        {
+          "title": "Le comédien Pierre-Luc Brillant brigue à nouveau Rosemont pour le Parti québécois",
+          "link": "https://www.ledevoir.com/politique/quebec/1000718/comedien-pierre-luc-brillant-brigue-nouveau-rosemont-parti-quebecois",
+          "source": "Le Devoir",
+          "summary": "M. Brillant avait terminé troisième dans ce bastion solidaire lors des élections de 2022.",
+          "published": "2026-08-08T15:27:00+00:00"
+        },
+        {
+          "title": "Élections provinciales 2026 | Pierre-Luc Brillant sera candidat du PQ dans Rosemont",
           "link": "https://www.lapresse.ca/actualites/politique/2026-08-08/elections-provinciales-2026/pierre-luc-brillant-sera-candidat-du-pq-dans-rosemont.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Le comédien et musicien Pierre-Luc Brillant tentera à nouveau de se faire élire député du Parti québécois dans la circonscription montréalaise de Rosemont, lors des élections législatives provinciales prévues le 5…",
@@ -98,60 +140,18 @@
           "published": "2026-08-08T15:00:00+00:00"
         },
         {
-          "title": "Un projet d’Ottawa vise à recenser les «déserts médiatiques» au Canada",
-          "link": "https://www.ledevoir.com/culture/medias/1000712/projet-ottawa-vise-recenser-deserts-mediatiques-canada",
+          "title": "La surprise décontractée de l’OSM à Rosemère",
+          "link": "https://www.ledevoir.com/culture/musique/1000715/surprise-decontractee-osm-rosemere",
           "source": "Le Devoir",
-          "summary": "À certains endroits, les effectifs de rédaction ont tellement diminué qu’ils ne permettent plus une couverture locale.",
-          "published": "2026-08-08T14:22:00+00:00"
+          "summary": "Rosemère a été une étape heureuse et détendue dans les propositions musicales estivales.",
+          "published": "2026-08-08T14:46:00+00:00"
         },
         {
-          "title": "La championne en titre Pauline Ferrand-Prévôt se retire du Tour de France Femmes",
-          "link": "https://www.ledevoir.com/sports/1000706/championne-titre-pauline-ferrand-prevot-retire-tour-france-femmes",
-          "source": "Le Devoir",
-          "summary": "Son équipe explique qu’elle ne se sentait pas bien.",
-          "published": "2026-08-08T13:46:00+00:00"
-        },
-        {
-          "title": "Conflit au Moyen-Orient | Oman parle de discussions « positives », un nouveau pétrolier ciblé dans le détroit d’Ormuz",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-08/conflit-au-moyen-orient/oman-parle-de-discussions-positives-un-nouveau-petrolier-cible-dans-le-detroit-d-ormuz.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Élections provinciales | Vague de haine en ligne contre les candidats 2ELGBTQI+",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-08/elections-provinciales/vague-de-haine-en-ligne-contre-les-candidats-2elgbtqi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Oman a fait état samedi de discussions « positives » avec l’Iran sur la future gestion du détroit d’Ormuz, au cœur de la guerre au Moyen-Orient, tout en mettant en garde contre les attaques de navires alors qu’un…",
-          "published": "2026-08-08T13:19:21+00:00"
-        },
-        {
-          "title": "Un incendie de forêt cause l’évacuation de 20 000 personnes en Colombie-Britannique",
-          "link": "https://www.ledevoir.com/actualites/environnement/1000703/incendie-foret-cause-evacuation-district-summerland-colombie-britannique",
-          "source": "Le Devoir",
-          "summary": "Il s’agirait de l’un des feux de forêt « les plus rapides et les plus virulents » que le secteur ait jamais connus.",
-          "published": "2026-08-08T13:01:00+00:00"
-        },
-        {
-          "title": "Todd Blanche a été confirmé au poste de procureur général des États-Unis",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1000700/todd-blanche-ete-confirme-poste-procureur-general-etats-unis",
-          "source": "Le Devoir",
-          "summary": "Cela pourrait lui permettre de mener à bien le programme du gouvernement Trump de manière encore plus offensive.",
-          "published": "2026-08-08T12:10:00+00:00"
-        },
-        {
-          "title": "Amenez-en, des droits de douane !",
-          "link": "https://www.lapresse.ca/affaires/chroniques/2026-08-08/amenez-en-des-droits-de-douane.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La vigueur de l’économie canadienne n’a pas fini d’étonner. En dépit d’une incessante guerre des droits de douane qui dure depuis plus d’un an et demi et malgré les effets négatifs de la situation géopolitique…",
-          "published": "2026-08-08T10:30:00+00:00"
-        },
-        {
-          "title": "Le mouvement MAGA se fracture-t-il ?",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-08/le-mouvement-maga-se-fracture-t-il.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Nous venons ici pour MAGA, pour nous battre, battre, battre et gagner, gagner, gagner », dit la voix hors champ d’une vidéo générée par l’intelligence artificielle. Une personne, debout devant la Maison-Blanche,…",
-          "published": "2026-08-08T09:00:00+00:00"
-        },
-        {
-          "title": "La Presse à Miquelon | Un village entier déménage pour se mettre à l’abri de l’eau",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-08/la-presse-a-miquelon/un-village-entier-demenage-pour-se-mettre-a-l-abri-de-l-eau.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Pendant que les forêts brûlent de l’autre côté de l’Atlantique, dans l’archipel français de Saint-Pierre-et-Miquelon, au large de Terre-Neuve, c’est la montée des eaux qui suscite l’inquiétude. Menacé par les…",
-          "published": "2026-08-08T09:00:00+00:00"
+          "summary": "À quelques semaines des élections provinciales, et en pleines des célébrations du mois des Fiertés à travers la province, la violence en ligne inquiète et pousse certains candidats issus de la diversité sexuelle et de…",
+          "published": "2026-08-08T14:40:51+00:00"
         }
       ]
     },
@@ -159,80 +159,150 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - PSG-Manchester United : les Parisiens mènent mais souffrent face aux Red Devils",
-          "link": "https://www.lefigaro.fr/sports/football/en-direct-psg-manchester-united-les-parisiens-disputent-leur-deuxieme-et-dernier-match-de-preparation-20260808",
+          "title": "Tour de France femmes : «Pourquoi tu m’as tassée contre les barrières ?», Niewiadoma se fâche contre une Française après la perte du maillot jaune",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-pourquoi-tu-m-as-tassee-contre-les-barrieres-niewiadoma-se-fache-contre-une-francaise-apres-la-perte-du-maillot-jaune-20260808",
           "source": "Le Figaro",
-          "summary": "Avant de disputer la Supercoupe d’Europe puis le Trophée des champions la semaine prochaine, le Paris Saint-Germain affronte les Red Devils, ce samedi (17h), à Göteborg (Suède).",
-          "published": "2026-08-08T15:25:02+00:00"
+          "summary": "En colère à l’arrivée de la huitième étape à Nice, Kasia Niewiadoma s’est expliquée avec Celia Gery, coéquipière de Demi Vollering au sein de l’équipe FDJ United-Suez.",
+          "published": "2026-08-08T18:14:37+00:00"
         },
         {
-          "title": "En Bulgarie, un drone chargé d’explosifs s’écrase près d’un gazoduc",
-          "link": "https://www.liberation.fr/international/europe/un-drone-entre-en-bulgarie-a-explose-pres-dun-gazoduc-a-la-frontiere-roumaine-20260808_XGY73WLYINEGNC6BRKCGJ7WK2E/",
-          "source": "Liberation",
-          "summary": "Un drone a explosé samedi 8 août, près de la frontière roumaine et d’une installation gazière stratégique. Il pourrait s’agir d’un drone utilisé par l’armée ukrainienne, selon le ministère bulgare de la Défense.",
-          "published": "2026-08-08T15:24:31+00:00"
-        },
-        {
-          "title": "Modèle social et famille : irresponsabilité ou démagogie ? Ces décisions qui ont coulé la France depuis 50 ans",
-          "link": "https://www.lefigaro.fr/actualite-france/modele-social-et-famille-irresponsabilite-ou-demagogie-ces-decisions-qui-ont-coule-la-france-depuis-50-ans-20260808",
+          "title": "Mer de Chine : les États-Unis accusent la Chine d’utiliser une réserve naturelle pour imposer ses revendications territoriales",
+          "link": "https://www.lefigaro.fr/international/mer-de-chine-les-etats-unis-accusent-la-chine-d-utiliser-une-reserve-naturelle-pour-imposer-ses-revendications-territoriales-20260808",
           "source": "Le Figaro",
-          "summary": "De Valéry Giscard d’Estaing à Emmanuel Macron, l’institut Thomas More dresse l’inventaire des mesures qui ont contribué à ruiner le modèle social français et à saper les bases de la famille.",
-          "published": "2026-08-08T15:14:57+00:00"
+          "summary": "Pékin a récemment adopté de nouvelles règles pour encadrer une réserve naturelle créée autour du récif de Scarborough, dont la souveraineté est disputée avec les Philippines.",
+          "published": "2026-08-08T18:13:06+00:00"
         },
         {
-          "title": "La mort de William Orbit, compositeur électro de génie et producteur de l’album « Ray of Light » de Madonna",
-          "link": "https://www.lemonde.fr/disparitions/article/2026/08/08/la-mort-de-william-orbit-compositeur-electro-de-genie-et-producteur-de-l-album-ray-of-light-de-madonna_6741444_3382.html",
-          "source": "Le Monde",
-          "summary": "Le musicien britannique avait mis son talent au service de nombreux artistes ou groupes, comme Etienne Daho, Blur ou U2. Il s’est éteint le 23 juillet à 69 ans.",
-          "published": "2026-08-08T15:14:08+00:00"
-        },
-        {
-          "title": "Pourquoi le risque de traumatismes crâniens est-il plus élevé chez les conducteurs de trottinettes électriques que chez les motards ?",
-          "link": "https://sante.lefigaro.fr/social/sante-publique/pourquoi-le-risque-de-traumatismes-craniens-est-plus-eleve-chez-les-conducteurs-de-trottinettes-electriques-que-chez-les-motards-20260807",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Pour la première fois, une étude de grande taille établit l’ampleur des dangers liés à l’utilisation de ces engins, avec une hausse des blessures à la tête, mais aussi des lésions internes et des…",
-          "published": "2026-08-08T15:12:24+00:00"
-        },
-        {
-          "title": "Les Emirats arabes unis affirment qu'un pétrolier émirati a été ciblé par l'Iran dans le détroit d'Ormuz",
-          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-affirment-qu-un-petrolier-emirati-a-ete-cible-dans-le-detroit-d-ormuz-par-l-iran_8139770.html#xtor=RSS-3-[lestitres]",
+          "title": "Ce que l'on sait de l'explosion d'un drone en Bulgarie, près d'un gazoduc situé à la frontière avec la Roumanie",
+          "link": "https://www.franceinfo.fr/internet/drones/ce-que-l-on-sait-de-l-explosion-d-un-drone-en-bulgarie-pres-d-un-gazoduc-situe-a-la-frontiere-avec-la-roumanie_8139794.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Un navire a bien été ciblé samedi par \"un projectile\" dans le détroit d'Ormuz, a alerté l'agence maritime britannique UKMTO sans en préciser l'origine. Oman a par ailleurs estimé que les discussions avec Téhéran sur la…",
-          "published": "2026-08-08T15:10:04+00:00"
+          "summary": "Les incidents impliquant des drones se sont multipliés dans les pays d'Europe de l'Est, membres de l'Otan et proches de zones où drones russes et ukrainiens interviennent.",
+          "published": "2026-08-08T18:05:34+00:00"
+        },
+        {
+          "title": "La fin des aventures d’Ulysse cachée sous les cendres du Vésuve ? Ce que pourraient révéler ces papyrus miraculeusement sauvés d’Herculanum",
+          "link": "https://www.lefigaro.fr/sciences/la-fin-des-aventures-d-ulysse-cachee-sous-les-cendres-du-vesuve-ce-que-pourraient-reveler-ces-papyrus-miraculeusement-sauves-d-herculanum-20260808",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - Portées par son succès au cinéma, les ventes de l’Odyssée explosent en librairie. Pourtant, toute une partie du Cycle Troyen a aujourd’hui disparu. Mais de récents progrès scientifiques donnent l’espoir de…",
+          "published": "2026-08-08T18:00:00+00:00"
+        },
+        {
+          "title": "Allemagne : des drones répérés au-dessus d'un site de l'armée",
+          "link": "https://www.lefigaro.fr/international/allemagne-des-drones-reperes-au-dessus-d-un-site-de-l-armee-20260808",
+          "source": "Le Figaro",
+          "summary": "Le centre de sécurité du site militaire de Mechernich, dans l’ouest du pays, a repéré deux drones et l’a signalé jeudi soir à la police, qui s’est rendue sur place et a ouvert une enquête.",
+          "published": "2026-08-08T17:55:15+00:00"
+        },
+        {
+          "title": "La Bulgarie convoque l'ambassadrice ukrainienne après la chute d'un drone près d'un gazoduc",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-bulgarie-convoque-l-ambassadrice-ukrainienne-apres-la-chute-d-un-drone-pres-d-un-gazoduc_8140076.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "De son côté, l'Ukraine a assuré samedi n'avoir pas visé \"délibérément\" la Bulgarie et promis une enquête, sans confirmer formellement si le drone était bien ukrainien.",
+          "published": "2026-08-08T17:54:11+00:00"
+        },
+        {
+          "title": "Fusillade en Thaïlande : une enfant de 12 ans meurt des suites de ses blessures, le bilan passe à huit morts",
+          "link": "https://www.lemonde.fr/international/article/2026/08/08/fusillade-en-thailande-une-enfant-de-12-ans-meurt-des-suites-de-ses-blessures-le-bilan-passe-a-huit-morts_6741516_3210.html",
+          "source": "Le Monde",
+          "summary": "Un adolescent de 14 ans a tué ses grands-parents à leur domicile, vendredi, avant de perpétrer une fusillade dans son lycée, près de Bangkok. Il a fait sept morts et plus de 30 blessés, avant de se donner la mort.",
+          "published": "2026-08-08T17:43:10+00:00"
+        },
+        {
+          "title": "L’Ukraine dit n’avoir pas visé la Bulgarie «délibérément» après la chute d’un drone",
+          "link": "https://www.lefigaro.fr/flash-actu/bulgarie-un-drone-entre-depuis-la-roumanie-a-explose-pres-d-un-gazoduc-20260808",
+          "source": "Le Figaro",
+          "summary": "Un drone s’est écrasé ce samedi dans un champ bulgare près de la frontière avec la Roumanie et du gazoduc transbalkanique, qui relie la Turquie à l’Ukraine.",
+          "published": "2026-08-08T17:32:11+00:00"
         },
         {
           "title": "Un drone entré en Bulgarie a explosé près d'un gazoduc à la frontière roumaine, rapporte le Premier ministre bulgare",
           "link": "https://www.franceinfo.fr/monde/europe/un-drone-entre-en-bulgarie-a-explose-pres-d-un-gazoduc-a-la-frontiere-roumaine-selon-le-premier-ministre-bulgare_8139743.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "L'explosion a eu lieu dans un champ situé à un kilomètre du gazoduc transbalkanique, reliant la Turquie à l'Ukraine. Il s'agit d'un drone leurre de type Maya, un aéronef \"largement utilisé par les forces armées…",
-          "published": "2026-08-08T15:09:23+00:00"
+          "published": "2026-08-08T17:13:20+00:00"
         },
         {
-          "title": "Gary Hunt remporte la médaille de bronze en plongeon de haut-vol lors des championnats d'Europe de natation",
-          "link": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/gary-hunt-remporte-la-medaille-de-bronze-en-plongeon-de-haut-vol-lors-des-championnats-d-europe-de-natation_8139920.html#xtor=RSS-3-[lestitres]",
+          "title": "Le résumé du coup d'éclat de Demi Vollering sur la 8e étape du Tour de France femmes",
+          "link": "https://www.franceinfo.fr/tour-de-france/femmes/video-le-resume-du-coup-d-eclat-de-demi-vollering-sur-la-8e-etape-du-tour-de-france-femmes_8140061.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le Français a réalisé un magnifique dernier plongeon pour grimper sur le podium, samedi.",
-          "published": "2026-08-08T15:04:44+00:00"
-        },
-        {
-          "title": "«Il y aura un mouvement social très important» : les syndicats indignés après la décision de La Poste de faire rattraper les heures perdues à cause des incendies",
-          "link": "https://www.lefigaro.fr/social/il-y-aura-un-mouvement-social-tres-important-les-syndicats-indignes-apres-la-decision-de-la-poste-de-faire-rattraper-les-heures-perdues-a-cause-des-incendies-20260808",
-          "source": "Le Figaro",
-          "summary": "Alors que le centre de tri de Cestas a fermé ses portes pendant une semaine et que des salariés évacués n’ont pas pu se rendre au travail, La Poste a maintenu tous les salaires mais demande de rattraper les heures.",
-          "published": "2026-08-08T15:04:37+00:00"
-        },
-        {
-          "title": "\"On arrive sur la fin des réserves\" : à Limoges, la ville puise l'eau des fontaines pour tenter de sauver ses arbres de la sécheresse",
-          "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/on-arrive-sur-la-fin-des-reserves-a-limoges-la-ville-puise-l-eau-des-fontaines-pour-tenter-de-sauver-ses-arbres-de-la-secheresse-3398665.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Face à un épisode de sécheresse particulièrement marqué, la ville de Limoges redouble d'efforts pour préserver son patrimoine végétal. Pour maintenir en vie les arbres les plus fragiles, les services municipaux ont mis…",
-          "published": "2026-08-08T15:03:08+00:00"
+          "summary": "La Néerlandaise a fait coup double en gagnant sa deuxième étape et en prenant le maillot jaune, samedi à Nice.",
+          "published": "2026-08-08T17:07:08+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "La faillite du n°1 du vélo en Europe, l’usine de 29 000 m² de Rebirth et la R5 électrique qui se met à jour",
+          "link": "https://www.frandroid.com/survoltes/3206941_la-faillite-du-n1-du-velo-en-europe-lusine-de-29-000-m%c2%b2-de-rebirth-et-la-r5-electrique-qui-se-met-a-jour",
+          "source": "Frandroid",
+          "summary": "Cette semaine, l'actualité 100 % électrique était pour le moins Survoltée. Entre la faillite d'Accell Group (Lapierre), l'usine de 29 000 m2 de Rebirth (Peugeot Cycles, Solex, Gitane, Lejeune, Angell, Cowboy) et la…",
+          "published": "2026-08-08T18:00:00+00:00"
+        },
+        {
+          "title": "Cette manette Xbox alternative avec ses accessoires premium peut faire oublier l’Elite Series 2 à ce prix",
+          "link": "https://www.frandroid.com/bons-plans/3202805_cette-manette-xbox-alternative-avec-ses-accessoires-premium-peut-faire-oublier-lelite-series-2-a-ce-prix",
+          "source": "Frandroid",
+          "summary": "La GameSir G7 Pro est une manette Xbox, PC et Android complète, avec de nombreuses fonctions et options de personnalisation que vous retrouvez à 85,49 euros au lieu de 99,99 euros sur Amazon.",
+          "published": "2026-08-08T17:45:00+00:00"
+        },
+        {
+          "title": "Le XPeng G9L arrive en France, Mercedes arrête le tout-tactile et BMW met une pub dans ses voitures : le récap’ Vroom de la semaine",
+          "link": "https://www.numerama.com/tech/2308209-le-xpeng-g9l-arrive-en-france-mercedes-arrete-le-tout-tactile-et-bmw-met-une-pub-dans-ses-voitures-le-recap-vroom-de-la-semaine.html",
+          "source": "Numerama",
+          "summary": "À la une sur Vroom cette semaine : XPeng ajoute un nouveau SUV à sa gamme, Mercedes fait un retour en arrière et une pub pour Spider-Man dans les écrans de BMW.",
+          "published": "2026-08-08T17:09:00+00:00"
+        },
+        {
+          "title": "Éclipse solaire : comment vous assurer de la voir le 12 août, même en ville avec un soleil rasant ?",
+          "link": "https://www.frandroid.com/culture-tech/3202043_eclipse-solaire-comment-vous-assurer-de-la-voir-le-12-aout-meme-en-ville-avec-un-soleil-rasant",
+          "source": "Frandroid",
+          "summary": "Voici quelques astuces pour vous assurer de voir l'éclipse solaire du 12 août en France malgré l'heure tardive, le soleil rasant et les potentiels obstacles à l'horizon.",
+          "published": "2026-08-08T17:01:00+00:00"
+        },
+        {
+          "title": "Meilleurs PC portables étudiants : MacBook Air, Zenbook, Chromebook… les modèles recommandés pour la rentrée scolaire 2026",
+          "link": "https://www.frandroid.com/guide-dachat/1052471_comparatif-meilleurs-ordinateurs-pc-portables-pour-etudiants",
+          "source": "Frandroid",
+          "summary": "L’ordinateur portable est le compagnon indispensable de l’étudiant moderne. Que ce soit pour prendre des notes en cours ou suivre des cours en visio, un PC portable est indispensable pour accompagner des études…",
+          "published": "2026-08-08T17:00:09+00:00"
+        },
+        {
+          "title": "Une centaine de cartouches d’une édition inédite de Super Mario Bros. ont été découvertes",
+          "link": "https://www.numerama.com/pop-culture/2305527-une-centaine-de-cartouches-dune-edition-inedite-de-super-mario-bros-ont-ete-decouvertes.html",
+          "source": "Numerama",
+          "summary": "Super Mario Bros. est sans doute l’un des jeux vidéo les plus célèbres de tous les temps, et certaines cartouches originales peuvent aujourd’hui atteindre des sommes folles aux enchères. Alors, imaginez un peu mettre la…",
+          "published": "2026-08-08T16:32:00+00:00"
+        },
+        {
+          "title": "Le rover Perseverance roule désormais presque seul sur Mars",
+          "link": "https://www.clubic.com/actualite-624550-le-rover-perseverance-roule-desormais-presque-seul-sur-mars.html",
+          "source": "Clubic",
+          "summary": "Le rover Perseverance parcourt aujourd’hui la quasi-totalité de ses trajets martiens sans intervention humaine directe. Depuis février 2021, il est allé plus loin au cumulé que Curiosity. La NASA teste par ailleurs un…",
+          "published": "2026-08-08T16:29:00+00:00"
+        },
+        {
+          "title": "Pixel Watch 5 : Google tease sa montre et tacle Apple et Samsung avant le 12 août",
+          "link": "https://www.frandroid.com/marques/google/3207127_pixel-watch-5-google-tease-sa-montre-et-tacle-apple-et-samsung-avant-le-12-aout",
+          "source": "Frandroid",
+          "summary": "Google a lancé le teaser de sa Pixel Watch 5 avant la conférence Made by Google du 12 août. Et la marque en profite pour se moquer d'Apple et Samsung.",
+          "published": "2026-08-08T16:22:07+00:00"
+        },
+        {
+          "title": "Ryzen 7, RTX 5070, 32 Go de RAM : la configuration de ce PC Gamer Lenovo LOQ Tower fait plaisir à 1 699,99 €",
+          "link": "https://www.clubic.com/bons-plans-624421-ryzen-7-rtx-5070-32-go-de-ram-la-configuration-de-ce-pc-gamer-lenovo-loq-tower-fait-plaisir-a-1-699-99.html",
+          "source": "Clubic",
+          "summary": "Alors que les prix des cartes graphiques et de la mémoire vive s’envolent depuis plusieurs mois, une configuration gamer complète sous la barre des 1 700 euros a de quoi surprendre. Boulanger propose justement le PC…",
+          "published": "2026-08-08T16:00:00+00:00"
+        },
+        {
+          "title": "Pourquoi le Pass Ulys Télépéage est-il l'allié des familles sur la route des vacances ?",
+          "link": "https://www.clubic.com/bons-plans-622984-pourquoi-le-pass-ulys-telepeage-est-il-l-allie-des-familles-sur-la-route-des-vacances.html",
+          "source": "Clubic",
+          "summary": "Le Pass Télépéage Classic vous fait gagner du temps et de l’argent sur la route des vacances. L’offre en cours, avec le code ULYS2612, réduit son coût.",
+          "published": "2026-08-08T15:30:00+00:00"
+        },
         {
           "title": "Oubliez les TV classiques : ce vidéoprojecteur Laser 4K projette 100″ dans votre salon en courte focale, écran inclus, avec 1 100 € de remise",
           "link": "https://www.frandroid.com/bons-plans/3203009_oubliez-les-tv-classiques-ce-videoprojecteur-laser-4k-projette-100-dans-votre-salon-en-courte-focale-ecran-inclus-avec-1-100-e-de-remise",
@@ -246,76 +316,6 @@
           "source": "Numerama",
           "summary": "Une nouvelle commande de notification est arrivée dans l'application mobile WhatsApp, afin d'alerter tout le monde quand un message très important doit être transmis rapidement.",
           "published": "2026-08-08T15:02:00+00:00"
-        },
-        {
-          "title": "Amazon casse le prix de cette petite batterie externe qui recharge trois appareils en même temps",
-          "link": "https://www.numerama.com/tech/2308133-amazon-casse-le-prix-de-cette-petite-batterie-externe-qui-recharge-trois-appareils-en-meme-temps.html",
-          "source": "Numerama",
-          "summary": "[Deal du jour] Cette batterie externe INIU Ultra en promotion est l'alliée des voyages. Avec ses 20 000 mAh, elle permet de recharger jusqu'à trois appareils en simultané, dans un format compact qui se glisse dans un…",
-          "published": "2026-08-08T14:00:00+00:00"
-        },
-        {
-          "title": "Depuis quatre ans, je rentre chaque jour ces données de santé dans un tableur : voici ce que j’ai découvert",
-          "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/3199667_depuis-quatre-ans-je-rentre-chaque-jour-ces-donnees-de-sante-dans-un-tableur-voici-ce-que-jai-decouvert",
-          "source": "Frandroid",
-          "summary": "Face à l'usine à gaz des applications sportives, j'ai opté pour un bon vieux tableur. Depuis quatre ans, j'y rentre quotidiennement mes données de sport et santé pour suivre mon stress, mon cœur et mes performances.…",
-          "published": "2026-08-08T14:00:00+00:00"
-        },
-        {
-          "title": "GTA 6 sur disque ? Cela n’a « plus aucun sens » juge le patron de Take-Two",
-          "link": "https://www.numerama.com/pop-culture/2308479-gta-6-sur-disque-cela-na-plus-aucun-sens-juge-le-patron-de-take-two.html",
-          "source": "Numerama",
-          "summary": "Alors que l’édition physique de GTA 6 ne contiendra qu'un simple code de téléchargement, le PDG de Take-Two assume pleinement ce choix. Pour Strauss Zelnick, le disque est devenu un support obsolète, voué à devenir un…",
-          "published": "2026-08-08T13:41:54+00:00"
-        },
-        {
-          "title": "J’ai fini Beast of Reincarnation et c’est une grosse déception",
-          "link": "https://www.numerama.com/pop-culture/2308109-jai-fini-beast-of-reincarnation-et-cest-une-grosse-deception.html",
-          "source": "Numerama",
-          "summary": "Game Freak, studio qui se cache derrière la saga Pokémon, sort de sa zone de confort avec Beast of Reincarnation. Mais, en se frottant au genre exigeant du RPG orienté action, les développeurs se piquent. Les joueuses…",
-          "published": "2026-08-08T13:29:00+00:00"
-        },
-        {
-          "title": "Avec moins de 400 € en poche, faut-il craquer pour l’autonomie du Honor Magic 8 Lite ou l’équilibre du Samsung Galaxy A37 ?",
-          "link": "https://www.frandroid.com/bons-plans/3206589_avec-moins-de-400-e-en-poche-faut-il-craquer-pour-lautonomie-du-honor-magic-8-lite-ou-lequilibre-du-samsung-galaxy-a37",
-          "source": "Frandroid",
-          "summary": "En promotion sous la barre des 400 euros, le Honor Magic 8 Lite et le Samsung Galaxy A37 s’imposent comme deux références phares du milieu de gamme. Entre le marathonien hyper-résistant de Honor et le roi du suivi…",
-          "published": "2026-08-08T13:11:00+00:00"
-        },
-        {
-          "title": "Les IA deviennent autonomes, un ancien responsable américain ressort les lois d'Asimov",
-          "link": "https://www.clubic.com/actualite-624547-les-ia-deviennent-autonomes-un-ancien-responsable-americain-ressort-les-lois-d-asimov.html",
-          "source": "Clubic",
-          "summary": "Lors de la conférence Black Hat, Chris Inglis, ancien directeur national du cyber des États-Unis, a défendu les trois lois d’Asimov. Il reproche aux concepteurs de modèles d’intelligence artificielle de les appliquer…",
-          "published": "2026-08-08T12:39:00+00:00"
-        },
-        {
-          "title": "GTA 6 : comment Rockstar transforme chaque annonce en événement",
-          "link": "https://www.clubic.com/actualite-624538-gta-6-comment-rockstar-transforme-chaque-annonce-en-evenement.html",
-          "source": "Clubic",
-          "summary": "De longues périodes de silence, quelques images soigneusement distillées et des bandes-annonces capables de monopoliser l’attention mondiale : Rockstar Games ne communique pas sur GTA 6 comme un éditeur traditionnel.…",
-          "published": "2026-08-08T12:08:00+00:00"
-        },
-        {
-          "title": "On a testé le Cube Supreme Hybrid Deluxe SLX 600 : le vélo électrique urbain ultime doté d’un ABS et d’une boîte automatique",
-          "link": "https://www.frandroid.com/marques/cube/3189997_on-a-teste-le-cube-supreme-hybrid-deluxe-slx-600-le-velo-electrique-urbain-ultime-dote-dun-abs-et-dune-boite-automatique",
-          "source": "Frandroid",
-          "summary": "Ultra bien équipé avec un antivol et un ABS inclus, le Cube Supreme Hybrid Deluxe SLX 600 est un vélo électrique qui combine aussi de belles performances avec une transmission automatique. Nous l'avons testé, voici…",
-          "published": "2026-08-08T12:03:00+00:00"
-        },
-        {
-          "title": "Prime Video : les meilleurs films de la plateforme pour ne pas avoir à chercher",
-          "link": "https://www.numerama.com/pop-culture/2306885-prime-video-les-meilleurs-films-de-la-plateforme-pour-ne-pas-avoir-a-chercher.html",
-          "source": "Numerama",
-          "summary": "Entre les catalogues saturés de comédies vite oubliées et les productions algorithmiques sans âme, dégoter un vrai grand film sur les plateformes relève parfois du parcours du combattant. Pour vous éviter de passer…",
-          "published": "2026-08-08T12:02:00+00:00"
-        },
-        {
-          "title": "Metroid a 40 ans, et vous pouvez être sûr que Nintendo ne les fêtera pas",
-          "link": "https://www.numerama.com/pop-culture/2308095-metroid-a-40-ans-et-vous-pouvez-etre-sur-que-nintendo-ne-les-fetera-pas.html",
-          "source": "Numerama",
-          "summary": "Au cours de ces derniers mois, deux licences majeures du jeu vidéo (pour ne pas les limiter à Nintendo) ont fêté leur 40ème anniversaire, une preuve de plus que l'histoire de ce média commence à bien traverser les âges.…",
-          "published": "2026-08-08T12:01:00+00:00"
         }
       ]
     }
