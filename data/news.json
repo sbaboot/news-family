@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-08-09T18:37:54.576580+00:00",
+  "generated_at": "2026-08-09T21:30:20.388814+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Le Premier ministre israélien \"rejette\" le plan américain pour Gaza, accepté par le Hamas",
+          "link": "https://www.france24.com/fr/moyen-orient/20260809-premier-ministre-israelien-rejette-plan-americain-pour-gaza-accepte-par-hamas-donald-trump-benjamin-netanyahu",
+          "source": "France 24",
+          "summary": "En campagne électorale, le Premier ministre israélien a réaffirmé dimanche son rejet du dernier plan en 15 points de Donald Trump pour Gaza, alors même que l'armée israélienne a, de fait, suspendu ses attaques dans le…",
+          "published": "2026-08-09T19:43:40+00:00"
+        },
         {
           "title": "🔴 La Néerlandaise Demi Vollering remporte le Tour de France femmes et s'offre un deuxième sacre",
           "link": "http://france24.com/fr/sports/20260809-tour-de-france-neerlandaise-demi-vollering-offre-deuxieme-sacre",
@@ -66,13 +73,6 @@
           "source": "France 24",
           "summary": "Le président ukrainien Volodymyr Zelensky estime entre 30 000 et 50 000 le nombre de soldats nord-coréens déployés pour combattre aux côtés de la Russie, alliée de Pyongyang. Face à ce partenariat, il a exhorté Séoul à…",
           "published": "2026-08-09T14:35:17+00:00"
-        },
-        {
-          "title": "Moyen-Orient : Tel Aviv \"rejette\" le plan américain accepté par le Hamas",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260809-moyen-orient-tel-aviv-rejette-le-plan-am%C3%A9ricain-accept%C3%A9-par-le-hamas",
-          "source": "France 24",
-          "summary": "Noga Tarnopolsky, correspondant France 24, décrypte la situation.",
-          "published": "2026-08-09T14:33:07+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Des alertes de tornades plus ciblées",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-09/des-alertes-de-tornades-plus-ciblees.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Environnement Canada offrira à partir de mardi des alertes plus ciblées d’orages violents et de tornades. Au lieu de cibler une grande région, elles se limiteront au parcours prévu de la tempête.",
-          "published": "2026-08-09T17:54:19+00:00"
-        },
-        {
-          "title": "La Néerlandaise Demi Vollering gagne le Tour de France Femmes pour la deuxième fois",
-          "link": "https://www.ledevoir.com/sports/1000781/neerlandaise-demi-vollering-gagne-tour-france-femmes-deuxieme-fois",
+          "title": "Nagasaki commémore le 81e anniversaire du bombardement atomique",
+          "link": "https://www.ledevoir.com/monde/asie/1000793/nagasaki-commemore-81e-anniversaire-bombardement-atomique",
           "source": "Le Devoir",
-          "summary": "La championne de 2023 accroît son avance au classement général.",
-          "published": "2026-08-09T17:45:00+00:00"
+          "summary": "La ville a appelé le gouvernement japonais à respecter ses trois principes de non-nucléarisation.",
+          "published": "2026-08-09T20:45:00+00:00"
         },
         {
-          "title": "Des milliers des personnes attendues au défilé de la Fierté à Montréal",
-          "link": "https://www.ledevoir.com/actualites/societe/1000772/milliers-personnes-attendues-defile-fierte-montreal",
-          "source": "Le Devoir",
-          "summary": "Sous un soleil plombant, les festivités étaient bien entamées dimanche avant le début de la marche.",
-          "published": "2026-08-09T17:09:00+00:00"
+          "title": "Une célébration de but qui tourne mal au Brésil devient virale",
+          "link": "https://www.journaldemontreal.com/2026/08/09/une-celebration-de-but-qui-tourne-mal-au-bresil-devient-virale",
+          "source": "Journal de Montreal",
+          "summary": "Un joueur qui pensait avoir marqué un but pour son club de Coritiba, au Brésil, s’est fait une bonne frousse en célébrant de façon exagérée, samedi.",
+          "published": "2026-08-09T20:22:13+00:00"
         },
         {
-          "title": "Une épave remplie d’amphores découverte au large de la Sicile",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-09/une-epave-remplie-d-amphores-decouverte-au-large-de-la-sicile.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "L’humoriste Charles Brunet offre d’aider Soraya Martinez Ferrada à payer ses contraventions",
+          "link": "https://www.journaldemontreal.com/2026/08/09/lhumoriste-charles-brunet-offre-daider-soraya-martinez-ferrada-a-payer-ses-contraventions",
+          "source": "Journal de Montreal",
+          "summary": "La mairesse de Montréal, Soraya Martinez Ferrada, s’est fait saisir son véhicule en mars dernier en raison d’une contravention impayée.",
+          "published": "2026-08-09T20:11:22+00:00"
+        },
+        {
+          "title": "Nouveau stade de tennis : des résidents marchent pour sauver le parc Jarry",
+          "link": "https://www.journaldemontreal.com/2026/08/09/nouveau-stade-de-tennis--des-residents-marchent-pour-sauver-le-parc-jarry",
+          "source": "Journal de Montreal",
+          "summary": "Les opposants au projet de nouveau stade de tennis au parc Jarry sont passés de la parole aux actes en organisant dimanche une première mobilisation.",
+          "published": "2026-08-09T20:02:21+00:00"
+        },
+        {
+          "title": "Élodie Grenier retrouve le théâtre d'été avec la pièce «Mon jour de chance» après 10 ans d'absence",
+          "link": "https://www.journaldemontreal.com/2026/08/09/elodie-grenier-retrouve-le-theatre-dete-avec-la-piece-mon-jour-de-chance-apres-10-ans-dabsence",
+          "source": "Journal de Montreal",
+          "summary": "Élodie Grenier renoue avec les planches dans «Mon jour de chance», une comédie signée Michel Charette.",
+          "published": "2026-08-09T20:00:00+00:00"
+        },
+        {
+          "title": "Demande de permis de travail refusée | Le Québec forme une infirmière… qui ne peut plus travailler",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-08-09/demande-de-permis-de-travail-refusee/le-quebec-forme-une-infirmiere-qui-ne-peut-plus-travailler.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Des plongeurs italiens ont découvert l’épave d’un bateau romain au large de la Sicile, remplie à ras bord de centaines d’amphores en très bon état, probablement utilisées pour transporter du vin.",
-          "published": "2026-08-09T16:06:49+00:00"
+          "summary": "Le Québec manque d’infirmières auxiliaires. Pourtant, Lucie Cézar, une Française qui a repris deux ans d’études à Lévis, obtenu un diplôme québécois et décroché un emploi dans un CHSLD de Chaudière-Appalaches, a perdu…",
+          "published": "2026-08-09T20:00:00+00:00"
         },
         {
-          "title": "Difficultés financières de La Cordée | L’industrie du sport et du plein air est-elle en santé ?",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-09/difficultes-financieres-de-la-cordee/l-industrie-du-sport-et-du-plein-air-est-elle-en-sante.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Colombie-Britannique | Des images montrent les ravages causés par les incendies de forêt",
+          "link": "https://www.lapresse.ca/actualites/national/2026-08-09/colombie-britannique/des-images-montrent-les-ravages-causes-par-les-incendies-de-foret.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les difficultés financières que traverse actuellement La Cordée sont-elles le reflet d’une industrie en crise ? Pas nécessairement. Mais chose certaine, l’arrivée il y a quelques années du géant français Décathlon et…",
-          "published": "2026-08-09T16:00:00+00:00"
+          "summary": "Des vidéos tournées dans la petite localité de Faulder, en Colombie-Britannique, après le passage d’un incendie de forêt, montrent des fondations vides, des carcasses de véhicules et, ici et là, quelques parcelles de…",
+          "published": "2026-08-09T19:50:29+00:00"
         },
         {
-          "title": "Que peut-on attendre du pacte de défense scellé par Ryad, Ankara et Islamabad ?",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1000769/peut-on-attendre-pacte-defense-scelle-ryad-ankara-islamabad",
-          "source": "Le Devoir",
-          "summary": "S’unir face à un Iran belliqueux et prendre acte des failles américaines: des analystes se prononcent sur l’entente.",
-          "published": "2026-08-09T15:30:00+00:00"
+          "title": "Omnium Banque Nationale : la deuxième tête de série s’en sort de justesse",
+          "link": "https://www.journaldemontreal.com/2026/08/09/omnium-banque-nationale--la-deuxieme-tete-de-serie-sen-sort-de-justesse",
+          "source": "Journal de Montreal",
+          "summary": "L’Omnium Banque Nationale n’a pas été un long fleuve tranquille pour Elena Rybakina, qui s'approche du premier rang mondial.",
+          "published": "2026-08-09T19:47:37+00:00"
         },
         {
-          "title": "Trois collisions mortelles en une nuit sur les routes du Québec",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-09/trois-collisions-mortelles-en-une-nuit-sur-les-routes-du-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Chaleurs extrêmes, sécheresses et feux de forêt: les cuvées de vin pourraient être affectées",
+          "link": "https://www.journaldemontreal.com/2026/08/09/chaleurs-extremes-secheresses-et-feux-de-foret-les-cuvees-de-vin-pourraient-etre-affectees",
+          "source": "Journal de Montreal",
+          "summary": "Chaleurs extrêmes, sécheresses et feux de forêt: tous des phénomènes météorologiques qui pourraient impacter les cuvées de vin en 2026.",
+          "published": "2026-08-09T19:00:00+00:00"
+        },
+        {
+          "title": "Omnium Banque Nationale | Learner Tien et Daniel Merida en quarts de finale",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-09/omnium-banque-nationale/learner-tien-et-daniel-merida-en-quarts-de-finale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Trois accidents de la route se sont produits en quelques heures au Québec dans la nuit de samedi à dimanche. Les collisions ont coûté la vie à trois personnes, rapportent les autorités.",
-          "published": "2026-08-09T14:41:52+00:00"
-        },
-        {
-          "title": "Jodar se moque de Lehecka et enflamme Montréal à l’OBN",
-          "link": "https://www.ledevoir.com/sports/1000766/jodar-moque-lehecka-enflamme-montreal-obn",
-          "source": "Le Devoir",
-          "summary": "L’Espagnol n’a fait qu’une bouchée du Tchèque, samedi soir, à l’Omnium Banque Nationale.",
-          "published": "2026-08-09T14:20:00+00:00"
-        },
-        {
-          "title": "Fierté Montréal | Des milliers de personnes participent au défilé",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-09/fierte-montreal/des-milliers-de-personnes-participent-au-defile.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Des milliers de personnes marchent et célèbrent au centre-ville de Montréal pour le défilé de la 20e édition de Fierté Montréal qui se termine dimanche après-midi.",
-          "published": "2026-08-09T14:08:52+00:00"
-        },
-        {
-          "title": "Quoi lire cette semaine ?",
-          "link": "https://www.ledevoir.com/lire/1000763/quoi-lire-cette-semaine",
-          "source": "Le Devoir",
-          "summary": "Une sélection de nos critiques pour guider vos lectures de la semaine.",
-          "published": "2026-08-09T14:00:00+00:00"
+          "summary": "Learner Tien a accédé aux quarts de finale de l’Omnium Banque Nationale, dimanche après-midi, en signant une victoire de 6-4 et 6-4 contre Thiago Agustín Tirante. Il affrontera un autre jeune joueur, l’Espagnol Daniel…",
+          "published": "2026-08-09T18:25:48+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "L’Odyssée triomphale de Demi Vollering pour son deuxième sacre sur le Tour de France femmes, entre sérénité et coups de force",
-          "link": "https://www.franceinfo.fr/tour-de-france/femmes/recit-l-odyssee-triomphale-de-demi-vollering-pour-son-deuxieme-sacre-sur-le-tour-de-france-femmes-entre-serenite-et-coups-de-force_8140979.html#xtor=RSS-3-[lestitres]",
+          "title": "\"Le feu bouge incroyablement vite\" : un incendie dévaste 10 000 hectares au Canada",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-feu-bouge-incroyablement-vite-un-incendie-devaste-10-000-hectares-au-canada_8141162.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "La Néerlandaise de 29 ans est la première double lauréate du Tour de France femmes, après avoir remporté trois des neuf étapes de cette 5e édition.",
-          "published": "2026-08-09T18:27:27+00:00"
+          "summary": "Au Canada, l’État d’urgence a été décrété. Depuis le vendredi 7 août, un gigantesque incendie sévit en Colombie-Britannique, à l’ouest du pays. Plus de 10 000 hectares ont brûlé et 20 000 personnes ont dû être évacuées.",
+          "published": "2026-08-09T21:29:35+00:00"
         },
         {
-          "title": "Un blessé grave et 10 blessés légers après un incendie dans une chambre de l’hôpital du Mans",
-          "link": "https://www.liberation.fr/societe/sante/un-blesse-grave-et-10-blesses-legers-apres-un-incendie-dans-une-chambre-de-lhopital-du-mans-20260809_JUVPRZVSGVB6PMFXDSNUJHQXRU/",
-          "source": "Liberation",
-          "summary": "Un patient, âgé de 59 ans et qui était hospitalisé dans une chambre du service de pneumologie-infectiologie est en urgence absolue, avec un pronostic vital «très clairement engagé», rapporte le Centre hospitalier du…",
-          "published": "2026-08-09T18:22:32+00:00"
-        },
-        {
-          "title": "Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
-          "source": "Liberation",
-          "summary": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationale» lundi.",
-          "published": "2026-08-09T18:18:13+00:00"
-        },
-        {
-          "title": "Un incendie dans une chambre de l'hôpital du Mans fait un blessé grave et dix blessés légers",
-          "link": "https://www.franceinfo.fr/sante/un-incendie-dans-une-chambre-de-l-hopital-du-mans-fait-un-blesse-grave-et-dix-blesses-legers_8141117.html#xtor=RSS-3-[lestitres]",
+          "title": "La Gironde de nouveau frappée par les orages et les incendies",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/la-gironde-de-nouveau-frappee-par-les-orages-et-les-incendies_8141132.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le patient, un homme de 59 ans qui était hospitalisé dans cette chambre du service de pneumologie-infectiologie, est en urgence absolue, avec un pronostic vital \"très clairement engagé\", selon le directeur général du…",
-          "published": "2026-08-09T18:12:26+00:00"
+          "summary": "Après les fortes chaleurs des derniers jours dans le Sud et avant une nouvelle canicule partout en France, place aux orages. La foudre a provoqué plusieurs départs de feux en Gironde, samedi 8 août.",
+          "published": "2026-08-09T21:05:56+00:00"
         },
         {
-          "title": "Iran : rare rencontre entre le guide suprême Mojtaba Khamenei et le président iranien",
-          "link": "https://www.lefigaro.fr/international/iran-rare-rencontre-entre-le-guide-supreme-mojtaba-khamenei-et-le-president-iranien-20260809",
+          "title": "Tour de France femmes : Katarzyna Niewiadoma présente ses excuses à Célia Gery après la polémique",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-katarzyna-niewiadoma-presente-ses-excuses-a-celia-gery-apres-la-polemique-20260809",
           "source": "Le Figaro",
-          "summary": "Selon un général des Gardiens de la Révolution, de premières images du nouveau guide suprême parmi la population et lors de rencontres avec les chefs des forces armées «seront publiées à l’avenir», sans qu’une date ne…",
-          "published": "2026-08-09T18:07:33+00:00"
+          "summary": "Très touchée après avoir reçu des menaces de mort sur les réseaux sociaux, la coureuse française a reçu les excuses de la Polonaise qui l’avait accusée d’un geste antisportif samedi.",
+          "published": "2026-08-09T21:05:26+00:00"
         },
         {
-          "title": "«Pogacar» du peloton féminin, patinage de vitesse, fleuriste... Qui est Demi Vollering, la reine du Tour de France femmes ?",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/pogacar-du-peloton-feminin-patinage-de-vitesse-fleuriste-qui-est-demi-vollering-la-reine-du-tour-de-france-femmes-20260809",
+          "title": "Tour de France : la terrible statistique des Français(es) sur la Grande Boucle cette année",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-la-terrible-statistique-des-francais-es-sur-la-grande-boucle-cette-annee-20260809",
           "source": "Le Figaro",
-          "summary": "PORTRAIT - Sacrée sur le Tour de France femmes ce dimanche, Demi Vollering s’est affirmée en tant que meilleure coureuse de la planète. La Néerlandaise de 29 ans n’était pas forcément prédestinée à ce destin doré.",
-          "published": "2026-08-09T18:04:51+00:00"
+          "summary": "Cyclistes français et françaises ont parcouru 4 420 kilomètres, participé à 30 étapes en cumulé, mais aucun n’a réussi à s’imposer malgré une grosse délégation.",
+          "published": "2026-08-09T20:32:48+00:00"
         },
         {
-          "title": "Tour de France femmes : au bout du suspense, Demi Vollering sacrée pour la deuxième fois",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-au-bout-du-suspense-demi-vollering-sacree-pour-la-deuxieme-fois-20260809",
+          "title": "Tour de France femmes : «Un spectacle exceptionnel avec un suspense incroyable», se félicite la directrice Marion Rousse",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-un-spectacle-exceptionnel-avec-un-suspense-incroyable-se-felicite-la-directrice-marion-rousse-20260809",
           "source": "Le Figaro",
-          "summary": "Une nouvelle fois victorieuse à Nice, la Néerlandaise de l’équipe FDJ United-Suez remporte son deuxième Tour de France. La Polonaise Katarzyna Niewiadoma et l’Italienne Elisa Longo Borghini complètent le podium final.",
-          "published": "2026-08-09T18:04:19+00:00"
+          "summary": "Ravie du succès de la semaine, la patronne du Tour de France femmes a dressé le bilan à l’issue de l’ultime étape à Nice.",
+          "published": "2026-08-09T20:23:33+00:00"
         },
         {
-          "title": "11 blessés, dont 1 grave, dans l’incendie d’une chambre à l'hôpital du Mans",
-          "link": "https://www.lefigaro.fr/actualite-france/11-blesses-dont-1-grave-dans-l-incendie-d-une-chambre-a-l-hopital-du-mans-20260809",
+          "title": "Double meurtre et viol en liberté sous caution : accusée de laxisme, la police britannique de nouveau dans la tempête",
+          "link": "https://www.lefigaro.fr/international/double-meurtre-et-viol-en-liberte-sous-caution-accusee-de-laxisme-la-police-britannique-de-nouveau-dans-la-tempete-20260809",
           "source": "Le Figaro",
-          "summary": "Une enquête judiciaire a été ouverte «pour déterminer les causes du déclenchement de cet incendie», a indiqué le directeur de l’hôpital.",
-          "published": "2026-08-09T17:59:07+00:00"
+          "summary": "RÉCIT - Les manquements de la Metropolitan Police de Londres dans cette affaire où un homme à la dangerosité établie a été relâché, avant de commettre ses crimes, font l’objet d’une vive polémique en Grande-Bretagne .",
+          "published": "2026-08-09T20:11:19+00:00"
         },
         {
-          "title": "La météo du lundi 10 août : la vague de chaleur remonte progressivement vers le centre du pays",
-          "link": "https://www.lefigaro.fr/meteo/la-meteo-du-lundi-10-aout-la-vague-de-chaleur-remonte-progressivement-vers-le-centre-du-pays-20260809",
+          "title": "New York : une mère et sa fille de 5 mois décèdent dans le naufrage d’un navire près de la Statue de la Liberté",
+          "link": "https://www.lefigaro.fr/international/new-york-une-mere-et-sa-fille-de-5-mois-decedent-dans-le-naufrage-d-un-navire-pres-de-la-statue-de-la-liberte-20260809",
           "source": "Le Figaro",
-          "summary": "Un cinquième épisode de chaleur parcourt la France cette semaine, avec des pics de températures qui devraient atteindre les 38°C. Le Sud-Ouest sera secoué par des orages parfois violents.",
-          "published": "2026-08-09T17:48:48+00:00"
+          "summary": "Le propriétaire du bateau, âgé de 46 ans et originaire de New York, est pour l’heure introuvable. Il est inculpé pour 13 chefs d’accusation, dont la mise en danger de la vie d’autrui.",
+          "published": "2026-08-09T19:52:40+00:00"
         },
         {
-          "title": "Tour de France femmes : Vollering voulait «gagner avec honnêteté et humilité», après la polémique entre Niewiadoma et Géry",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-vollering-voulait-gagner-avec-honnetete-et-humilite-apres-la-polemique-entre-niewiadoma-et-gery-20260809",
+          "title": "Deux-Sèvres : un homme en détention provisoire après avoir provoqué plusieurs incendies",
+          "link": "https://www.lefigaro.fr/faits-divers/deux-sevres-un-homme-en-detention-provisoire-apres-avoir-provoque-plusieurs-incendies-20260809",
           "source": "Le Figaro",
-          "summary": "Au lendemain des critiques acerbes de Kasia Niewiadoma, la Néerlandaise s’est satisfaite de sa victoire «honnête», qui n’a pas été acquise à la suite d’un «fait de course».",
-          "published": "2026-08-09T17:45:49+00:00"
+          "summary": "L’homme de 45 ans a été interpellé vendredi par des gendarmes en patrouille après avoir été aperçu plusieurs fois à proximité de départs de feu, a indiqué dans un communiqué la procureure.",
+          "published": "2026-08-09T19:48:55+00:00"
+        },
+        {
+          "title": "«C’est comme une partie d’échecs» : face à l’Iran, Trump temporise et mise sur la pression économique",
+          "link": "https://www.lefigaro.fr/international/c-est-comme-une-partie-d-echecs-face-a-l-iran-trump-temporise-et-mise-sur-la-pression-economique-20260809",
+          "source": "Le Figaro",
+          "summary": "Après avoir multiplié les menaces de frappes contre Téhéran, le président américain adopte désormais un ton plus mesuré et semble miser sur l’affaiblissement économique de l’Iran.",
+          "published": "2026-08-09T19:36:59+00:00"
+        },
+        {
+          "title": "L’incendie dans la Drôme s’est étendu, un total de 370 hectares brûlés et quatre pompiers blessés",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/09/l-incendie-dans-la-drome-s-est-etendu-un-total-de-370-hectares-brules-et-quatre-pompiers-blesses_6742401_3245.html",
+          "source": "Le Monde",
+          "summary": "Parti lundi près de Bellegarde-en-Diois, dans le massif du Claps, le feu a connu deux reprises dans la matinée de dimanche. Un autre incendie, qui s’est déclaré dimanche midi en Lozère, avait déjà parcouru 153 hectares…",
+          "published": "2026-08-09T19:30:50+00:00"
         }
       ]
     },
@@ -283,6 +283,13 @@
           "published": "2026-08-09T16:00:00+00:00"
         },
         {
+          "title": "À peine redémarrée, la centrale nucléaire de Golfech doit déjà s'arrêter",
+          "link": "https://www.clubic.com/actualite-624574-a-peine-redemarree-la-centrale-nucleaire-de-golfech-doit-deja-s-arreter.html",
+          "source": "Clubic",
+          "summary": "EDF a de nouveau arrêté le seul réacteur en activité de la centrale nucléaire de Golfech (Tarn-et-Garonne), samedi 8 août au soir, quatre jours après son redémarrage. En cause, selon le fournisseur, la hausse de la…",
+          "published": "2026-08-09T15:54:00+00:00"
+        },
+        {
           "title": "Cette souris gaming révolutionnaire noté 9/10 chute sous les 150 € chez Boulanger",
           "link": "https://www.frandroid.com/bons-plans/3206575_cette-souris-gaming-revolutionnaire-note-9-10-chute-sous-les-150-e-chez-boulanger",
           "source": "Frandroid",
@@ -295,13 +302,6 @@
           "source": "Numerama",
           "summary": "Il y a encore trois ans, une IA qui citait ses sources tenait de l'exception. Aujourd'hui, c'est presque devenu la norme. Entre les deux, l'avènement d'une technique née dans un labo de recherche : le RAG.",
           "published": "2026-08-09T15:01:57+00:00"
-        },
-        {
-          "title": "À peine redémarrée, la centrale nucléaire de Golfech doit déjà s'arrêter",
-          "link": "https://www.clubic.com/actualite-624574-a-peine-redemarree-la-centrale-nucleaire-de-golfech-doit-deja-s-arreter.html",
-          "source": "Clubic",
-          "summary": "EDF a de nouveau arrêté le seul réacteur en activité de la centrale nucléaire de Golfech (Tarn-et-Garonne), samedi 8 août au soir, quatre jours après son redémarrage. En cause, selon le fournisseur, la hausse de la…",
-          "published": "2026-08-09T14:45:00+00:00"
         },
         {
           "title": "Une faille critique de BTCPay Server permet de voler des bitcoins",
