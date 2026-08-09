@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-08T21:28:29.174284+00:00",
+  "generated_at": "2026-08-09T01:38:33.685929+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "La FIFA dénonce « un effort concerté et continu » pour affaiblir son président, Gianni Infantino, sous le feu des critiques",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/09/la-fifa-denonce-un-effort-concerte-et-continu-pour-affaiblir-son-president-gianni-infantino-sous-le-feu-des-critiques_6741714_3242.html",
+          "source": "Le Monde",
+          "summary": "L’Italo-Suisse de 56 ans, candidat à sa succession à la tête de la fédération internationale, en mars prochain, traverse une séquence délicate, critiquée notamment pour son projet d’ouverture aux investisseurs privés,…",
+          "published": "2026-08-09T00:17:51+00:00"
+        },
+        {
+          "title": "Une violente collision entre deux bus au Niger fait au moins 22 morts dont 17 militaires",
+          "link": "https://www.lemonde.fr/international/article/2026/08/09/une-violente-collision-entre-deux-bus-au-niger-fait-au-moins-22-morts-dont-17-militaires_6741681_3210.html",
+          "source": "Le Monde",
+          "summary": "Le drame est survenu au moment où les autorités nigériennes tentent d’enrayer la hausse des accidents de la route, qui ont fait plus de 1 200 morts dans le pays en 2025, selon les chiffres officiels.",
+          "published": "2026-08-08T23:43:13+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le drone qui s’est écrasé samedi en Bulgarie est d’un type « largement utilisé par les forces armées ukrainiennes »",
+          "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-le-drone-qui-s-est-ecrase-samedi-en-bulgarie-est-d-un-type-largement-utilise-par-les-forces-armees-ukrainiennes_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le ministère de la défense bulgare a nuancé ses propos en précisant qu’« à l’heure actuelle, rien ne permet de penser qu’il s’agit d’un incident délibéré ». La diplomatie ukrainienne a assuré que l’Ukraine n’avait pas…",
+          "published": "2026-08-08T23:24:19+00:00"
+        },
         {
           "title": "Les autorités congolaises remettent 15 prisonniers aux rebelles de l’AFC/M23",
           "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260808-les-autorit%C3%A9s-congolaises-remettent-15-prisonniers-aux-rebelles-de-l-afc-m23",
@@ -33,13 +54,6 @@
           "published": "2026-08-08T17:43:10+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : Kiev assure ne pas avoir visé « délibérément » la Bulgarie, après la chute d’un drone correspondant à ceux utilisés par l’armée ukrainienne",
-          "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-kiev-assure-ne-pas-avoir-vise-deliberement-la-bulgarie-apres-la-chute-d-un-drone-correspondant-a-ceux-utilises-par-l-armee-ukrainienne_6737250_3210.html",
-          "source": "Le Monde",
-          "summary": "Ce drone a explosé ce matin près de la frontière avec la Roumanie et d’un gazoduc. « Nous sommes en contact étroit avec la partie bulgare afin de clarifier les circonstances » de l’incident, a affirmé en fin…",
-          "published": "2026-08-08T16:58:26+00:00"
-        },
-        {
           "title": "Crise de Ceuta : en Espagne, début des contrôles aux frontières pour les voyageurs venant d’Italie, en réponse aux mesures similaires prises par Rome",
           "link": "https://www.lemonde.fr/international/article/2026/08/08/crise-de-ceuta-en-espagne-debut-des-controles-aux-frontieres-pour-les-voyageurs-venant-d-italie-en-reponse-aux-mesures-similaires-prises-par-rome_6741510_3210.html",
           "source": "Le Monde",
@@ -59,20 +73,6 @@
           "source": "France 24",
           "summary": "Deux semaines après la démission du ministre de l'Education sous la pression de la rue, le gouvernement du Premier ministre indien Narendra Modi tente de gérer les conséquences de l'une des pires crises politiques de…",
           "published": "2026-08-08T15:20:27+00:00"
-        },
-        {
-          "title": "Nouvelles frappes meurtrières à Kiev : au moins 4 morts et 7 blessés",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260808-nouvelles-frappes-meurtri%C3%A8res-%C3%A0-kiev-au-moins-4-morts-et-7-bless%C3%A9s",
-          "source": "France 24",
-          "summary": "De nouveaux bombardements russes sur Kiev et sa région ont fait au moins quatre morts et sept blessés dans la nuit de vendredi à samedi, au moment où l'Ukraine peine à faire face à l'intensification des frappes russes…",
-          "published": "2026-08-08T15:18:40+00:00"
-        },
-        {
-          "title": "Incursion israélienne dans un village du Liban malgré le déploiement de l'armée libanaise",
-          "link": "https://www.france24.com/fr/moyen-orient/20260808-incursion-de-l-arm%C3%A9e-isra%C3%A9lienne-dans-un-village-du-liban-malgr%C3%A9-le-d%C3%A9ploiement-de-l-arm%C3%A9e-libanaise",
-          "source": "France 24",
-          "summary": "Des troupes israéliennes ont pénétré dans un village du sud du Liban récemment passé sous le contrôle de l'armée libanaise et y ont érigé un remblai de terre, ont affirmé samedi un média d'État libanais et le maire de…",
-          "published": "2026-08-08T14:51:17+00:00"
         }
       ]
     },
@@ -84,11 +84,46 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Un canard aide la chienne d’une famille à surmonter ses ennuis de santé",
-          "link": "https://www.journaldemontreal.com/2026/08/08/un-canard-aide-la-chienne-dune-famille-a-surmonter-ses-ennuis-de-sante",
+          "title": "Ruud n’en veut pas à celui qui « nous » a éliminés",
+          "link": "https://www.journaldemontreal.com/2026/08/09/ruud-nen-veut-pas-a-celui-qui--nous--a-elimines",
           "source": "Journal de Montreal",
-          "summary": "Une chienne qui était déprimée en raison de ses médicaments pour l’épilepsie a retrouvé le sourire grâce à son nouvel ami : un canard.",
-          "published": "2026-08-08T20:27:57+00:00"
+          "summary": "Casper Ruud avait des raisons d’en vouloir à Jakub Dobes, mais c’est à bras ouverts qu’il l’a accueilli sur un court de tennis le week-end dernier.",
+          "published": "2026-08-09T04:00:00+00:00"
+        },
+        {
+          "title": "L’IA pour parler aux animaux ?",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-08/l-ia-pour-parler-aux-animaux.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Depuis des décennies, les biologistes tentent de comprendre le sens des cris des animaux. L’intelligence artificielle (IA) pourrait-elle enfin leur révéler les secrets du règne animal ? Des chercheurs y travaillent,…",
+          "published": "2026-08-08T23:30:00+00:00"
+        },
+        {
+          "title": "Le Hamas redit être prêt à mettre en œuvre le plan américain pour Gaza",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1000739/hamas-redit-etre-pret-mettre-oeuvre-plan-americain-gaza",
+          "source": "Le Devoir",
+          "summary": "Le mouvement exhorte les États-Unis à exercer des pressions sur Israël pour l’obliger à respecter l’accord.",
+          "published": "2026-08-08T23:22:53+00:00"
+        },
+        {
+          "title": "Elks 30 – Alouettes 48 | À sens unique",
+          "link": "https://www.lapresse.ca/sports/football/2026-08-08/elks-30-alouettes-48/a-sens-unique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un duel au sommet, dites-vous ? Ah bon, où ça ?",
+          "published": "2026-08-08T22:18:58+00:00"
+        },
+        {
+          "title": "Attaque des FARC près du lieu d’investiture du président colombien",
+          "link": "https://www.ledevoir.com/monde/ameriques/1000736/attaque-farc-pres-lieu-investiture-president-colombien",
+          "source": "Le Devoir",
+          "summary": "Avec le soutien d’Israël et des États-Unis, Abelardo de la Espriella prévoit répondre rapidement au parti politique.",
+          "published": "2026-08-08T22:09:49+00:00"
+        },
+        {
+          "title": "L’Espagne commence les contrôles aux frontières aux voyageurs venant d’Italie",
+          "link": "https://www.ledevoir.com/monde/europe/1000733/espagne-commence-controles-frontieres-voyageurs-venant-italie",
+          "source": "Le Devoir",
+          "summary": "Les autorités espagnoles mettent en place de nouvelles mesures en réponse aux décisions de Rome.",
+          "published": "2026-08-08T20:36:00+00:00"
         },
         {
           "title": "Le Canada compte plus de cas de rougeole par habitant que les États-Unis",
@@ -98,46 +133,11 @@
           "published": "2026-08-08T20:02:06+00:00"
         },
         {
-          "title": "Cancer de la peau: 9 cas sur 10 pourraient être évités",
-          "link": "https://www.journaldemontreal.com/2026/08/08/cancer-de-la-peau-9-cas-sur-10-pourraient-etre-evites",
-          "source": "Journal de Montreal",
-          "summary": "Les cas de cancer de la peau continuent d’augmenter au Canada, pourtant, près de neuf cas sur 10 sont évitables.",
-          "published": "2026-08-08T20:01:55+00:00"
-        },
-        {
-          "title": "Éruption de l'Etna: reprise des vols à l'arrivée à l'aéroport de Catane en Italie",
-          "link": "https://www.journaldemontreal.com/2026/08/08/eruption-de-letna-reprise-des-vols-a-larrivee-a-laeroport-de-catane-en-italie",
-          "source": "Journal de Montreal",
-          "summary": "Les avions peuvent à nouveau atterrir samedi en fin d'après-midi à l'aéroport de Catane, en Sicile, qui avait suspendu les arrivées plus tôt.",
-          "published": "2026-08-08T19:37:42+00:00"
-        },
-        {
-          "title": "Un trentenaire meurt à moto sur la route 139 en Montérégie",
-          "link": "https://www.journaldemontreal.com/2026/08/08/un-trentenaire-meurt-a-moto-sur-la-route-139-en-monteregie",
-          "source": "Journal de Montreal",
-          "summary": "Un motocycliste a perdu la vie samedi matin dans une sortie de route sur la route 139, à Saint-Théodore-d’Acton, en Montérégie.",
-          "published": "2026-08-08T18:55:47+00:00"
-        },
-        {
-          "title": "Nuit mouvementée à Montréal: trois événements survenus pourraient être liés au crime organisé",
-          "link": "https://www.journaldemontreal.com/2026/08/08/nuit-mouvementee-a-montreal-trois-evenements-survenus-pourraient-etre-lies-au-crime-organise",
-          "source": "Journal de Montreal",
-          "summary": "La nuit dernière a été mouvementée à Montréal alors que trois évènements ont été perpétrés d'est en ouest de l'île.",
-          "published": "2026-08-08T18:18:49+00:00"
-        },
-        {
           "title": "Le cancer de Joe Biden s’aggrave, révèle son fils Hunter",
           "link": "https://www.lapresse.ca/international/etats-unis/2026-08-08/le-cancer-de-joe-biden-s-aggrave-revele-son-fils-hunter.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Le cancer de la prostate de l’ancien président américain Joe Biden s’est propagé à d’autres parties de son corps et lui cause des douleurs, alors même qu’il continue de s’exprimer sur des questions d’intérêt public, a…",
           "published": "2026-08-08T18:05:49+00:00"
-        },
-        {
-          "title": "«Il pleuvait des cendres ce matin»: plus de 20 000 citoyens forcés d’évacuer alors qu’un violent feu de forêt prend de l’ampleur en Colombie-Britannique",
-          "link": "https://www.journaldemontreal.com/2026/08/08/il-pleuvait-des-cendres-ce-matin-plus-de-20-000-citoyens-forces-devacuer-alors-quun-violent-feu-de-foret-prend-de-lampleur-en-colombie-britannique",
-          "source": "Journal de Montreal",
-          "summary": "Les feux de forêt continuent de gagner du terrain dans la vallée de l’Okanagan forçant plus de 20 000 citoyens à évacuer.",
-          "published": "2026-08-08T17:53:47+00:00"
         },
         {
           "title": "Construction d’un nouveau stade au parc Jarry | Valérie Tétreault tente de rassurer le public",
@@ -147,11 +147,11 @@
           "published": "2026-08-08T17:46:44+00:00"
         },
         {
-          "title": "Canada-États-Unis: une «négociation quasi permanente» jusqu'en 2028, prévient un ex-conseiller",
-          "link": "https://www.journaldemontreal.com/2026/08/08/canada-etats-unis-une-negociation-quasi-permanente-jusquen-2028-previent-un-ex-conseiller",
-          "source": "Journal de Montreal",
-          "summary": "Les négociations entre Ottawa et Washington entrent dans une phase critique, à moins de deux semaines de l'échéance du 19 août.",
-          "published": "2026-08-08T17:44:36+00:00"
+          "title": "Tétreault veut se faire rassurante sur la construction d’un stade au parc Jarry",
+          "link": "https://www.ledevoir.com/sports/1000724/tetreault-veut-faire-rassurante-construction-stade-parc-jarry",
+          "source": "Le Devoir",
+          "summary": "Des groupes de citoyens vont front commun face au projet de construction d’un stade «trois saisons».",
+          "published": "2026-08-08T17:20:00+00:00"
         }
       ]
     },
@@ -159,25 +159,60 @@
       "label": "France",
       "items": [
         {
+          "title": "La FIFA dénonce « un effort concerté et continu » pour affaiblir son président, Gianni Infantino, sous le feu des critiques",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/09/la-fifa-denonce-un-effort-concerte-et-continu-pour-affaiblir-son-president-gianni-infantino-sous-le-feu-des-critiques_6741714_3242.html",
+          "source": "Le Monde",
+          "summary": "L’Italo-Suisse de 56 ans, candidat à sa succession à la tête de la fédération internationale, en mars prochain, traverse une séquence délicate, critiquée notamment pour son projet d’ouverture aux investisseurs privés,…",
+          "published": "2026-08-09T00:17:51+00:00"
+        },
+        {
+          "title": "Canada: 20.000 évacués suite à un mégafeu de forêt, l’état d'urgence déclaré",
+          "link": "https://www.lefigaro.fr/international/canada-20-000-evacues-suite-a-un-megafeu-de-foret-l-etat-d-urgence-declare-20260809",
+          "source": "Le Figaro",
+          "summary": "Les trois dernières saisons des feux ont été parmi les plus destructrices jamais enregistrées au Canada, vaste pays qui se réchauffe deux fois plus rapidement que le reste de la planète.",
+          "published": "2026-08-09T00:05:51+00:00"
+        },
+        {
+          "title": "Une violente collision entre deux bus au Niger fait au moins 22 morts dont 17 militaires",
+          "link": "https://www.lemonde.fr/international/article/2026/08/09/une-violente-collision-entre-deux-bus-au-niger-fait-au-moins-22-morts-dont-17-militaires_6741681_3210.html",
+          "source": "Le Monde",
+          "summary": "Le drame est survenu au moment où les autorités nigériennes tentent d’enrayer la hausse des accidents de la route, qui ont fait plus de 1 200 morts dans le pays en 2025, selon les chiffres officiels.",
+          "published": "2026-08-08T23:43:13+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le drone qui s’est écrasé samedi en Bulgarie est d’un type « largement utilisé par les forces armées ukrainiennes »",
+          "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-le-drone-qui-s-est-ecrase-samedi-en-bulgarie-est-d-un-type-largement-utilise-par-les-forces-armees-ukrainiennes_6737250_3210.html",
+          "source": "Le Monde",
+          "summary": "Le ministère de la défense bulgare a nuancé ses propos en précisant qu’« à l’heure actuelle, rien ne permet de penser qu’il s’agit d’un incident délibéré ». La diplomatie ukrainienne a assuré que l’Ukraine n’avait pas…",
+          "published": "2026-08-08T23:24:19+00:00"
+        },
+        {
+          "title": "La Fifa dénonce «un effort concerté et continu» pour affaiblir Infantino",
+          "link": "https://www.lefigaro.fr/sports/la-fifa-denonce-un-effort-concerte-et-continu-pour-affaiblir-infantino-20260809",
+          "source": "Le Figaro",
+          "summary": "Selon The Telegraph, l’ancien secrétaire général de l’UEFA aurait usé de son pouvoir pour assurer la promotion d’une employée avec laquelle il entretenait une relation intime.",
+          "published": "2026-08-08T22:57:58+00:00"
+        },
+        {
+          "title": "Dans le Vaucluse, un ancien légionnaire placé en détention provisoire pour le meurtre de son ex-compagne",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/09/dans-le-vaucluse-un-ancien-legionnaire-place-en-detention-provisoire-pour-le-meurtre-de-son-ex-compagne_6741648_3224.html",
+          "source": "Le Monde",
+          "summary": "Selon le quotidien « La Provence », le quinquagénaire, déjà connu pour des faits de violence sur son ex-compagne, était colistier du candidat Rassemblement national dans la commune de Bollène, lors des municipales de…",
+          "published": "2026-08-08T22:01:40+00:00"
+        },
+        {
+          "title": "Accident d'hélicoptère à Rio : 4 morts, dont 3 touristes colombiennes",
+          "link": "https://www.lefigaro.fr/flash-actu/accident-d-helicoptere-a-rio-4-morts-dont-3-touristes-colombiennes-20260808",
+          "source": "Le Figaro",
+          "summary": "",
+          "published": "2026-08-08T21:25:36+00:00"
+        },
+        {
           "title": "Antibes n'a pas connu de températures en dessous de 30 degrés depuis deux mois",
           "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/antibes-n-a-pas-connu-de-temperatures-en-dessous-de-30-degres-depuis-deux-mois_8140124.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "À Antibes, dans les Alpes-Maritimes, les températures ne sont pas descendues en dessous des 30 degrés l’après-midi. Les habitants cherchent désespérément un peu de fraîcheur.",
           "published": "2026-08-08T21:10:21+00:00"
-        },
-        {
-          "title": "Ligue 2 : Saint-Étienne et Metz réussissent leurs débuts, Nantes passe au travers",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-2-saint-etienne-et-metz-reussissent-leurs-debuts-nantes-passe-au-travers-20260808",
-          "source": "Le Figaro",
-          "summary": "La première journée de Ligue 2 a été marquée par le large succès des Verts à Sochaux pendant que le FC Nantes s’est incliné face au Red Star dans un stade Beaujoire à huis clos.",
-          "published": "2026-08-08T21:01:40+00:00"
-        },
-        {
-          "title": "L'Algérie annonce avoir récupéré un Allemand enlevé au Niger par un «groupe criminel armé»",
-          "link": "https://www.lefigaro.fr/flash-actu/l-algerie-annonce-avoir-recupere-un-allemand-enleve-au-niger-par-un-groupe-criminel-arme-20260808",
-          "source": "Le Figaro",
-          "summary": "",
-          "published": "2026-08-08T20:18:49+00:00"
         },
         {
           "title": "«C’est très douloureux» : le cancer de Joe Biden «s’est propagé dans ses os et au-delà», s’inquiète son fils Hunter Biden",
@@ -192,41 +227,6 @@
           "source": "Le Figaro",
           "summary": "Selon le quotidien la Provence, l’homme est un ex-colistier du candidat Rassemblement national aux dernières municipales, Franck Marest, défait par le maire sortant. Il était sous contrôle judiciaire après de premiers…",
           "published": "2026-08-08T20:00:21+00:00"
-        },
-        {
-          "title": "Colombie : l’attaque d’un péage imputée aux dissidents des Farc au lendemain de l’investiture du nouveau président",
-          "link": "https://www.lemonde.fr/international/article/2026/08/08/colombie-l-attaque-d-un-peage-imputee-aux-dissidents-des-farc-au-lendemain-de-l-investiture-du-nouveau-president_6741582_3210.html",
-          "source": "Le Monde",
-          "summary": "Des explosifs ont détruit un péage en construction sur la route panaméricaine, près de Cali, selon l’armée. La veille, lors de son investiture, Abelardo de la Espriella a promis de combattre « sans répit le…",
-          "published": "2026-08-08T19:27:49+00:00"
-        },
-        {
-          "title": "Incendies : treize départements en vigilance orange canicule dimanche",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-est-fixe-dans-le-var-mais-poursuit-sa-progression-dans-la-drome-20260808_CLNZ3Y5XOZBVBAQUJGX7J4BODA/",
-          "source": "Liberation",
-          "summary": "La chaleur devrait faire un «retour en force» progressif dans les prochains jours, a annoncé Météo-France. Jusqu’à 39 degrés sont attendus dans le Sud-Ouest. Du côté des risques d’incendies, la Gironde est en vigilance…",
-          "published": "2026-08-08T19:26:56+00:00"
-        },
-        {
-          "title": "Erreurs, abus et «surveillance de masse»... La colère gronde aux États-Unis face aux caméras dopées à l’IA de Flock Safety",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/erreurs-abus-et-surveillance-de-masse-la-colere-gronde-aux-etats-unis-face-aux-cameras-dopees-a-l-ia-de-flock-safety-20260808",
-          "source": "Le Figaro",
-          "summary": "RÉCIT - Ces caméras intelligentes, qui prolifèrent dans le pays, enregistrent les trajets et l’aspect de tous les véhicules. Les dérives se multiplient, tout comme les destructions de ces appareils destinés à la police.",
-          "published": "2026-08-08T19:00:00+00:00"
-        },
-        {
-          "title": "En Italie, les fumées de l'Etna forcent l'aéroport de Catane à suspendre temporairement ses vols à l'arrivée",
-          "link": "https://www.franceinfo.fr/monde/italie/en-italie-les-fumees-de-l-etna-forcent-l-aeroport-de-catane-a-suspendre-ses-vols-a-l-arrivee_8139956.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Après une journée de perturbations, les avions pouvaient à nouveau atterrir samedi fin d'après-midi à l'aéroport de Catane.",
-          "published": "2026-08-08T18:54:41+00:00"
-        },
-        {
-          "title": "En Allemagne, plusieurs drones aperçus au-dessus d'un site de l'armée",
-          "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-plusieurs-drones-apercus-au-dessus-d-un-site-de-l-armee-allemande_8140127.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le site de la Bundeswehr stocke équipements et pièces de rechange dans un dépôt souterrain aménagé à 130 mètres de profondeur. Il abrite aussi des éléments du système américain de défense antiaérienne Patriot, destiné à…",
-          "published": "2026-08-08T18:40:06+00:00"
         }
       ]
     },
