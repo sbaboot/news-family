@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-09T12:46:44.075851+00:00",
+  "generated_at": "2026-08-09T15:30:22.094137+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Selon Volodymyr Zelensky, jusqu'à 50 000 soldats nord-coréens ont été déployés en Russie",
+          "link": "https://www.france24.com/fr/europe/20260809-selon-volodymyr-zelensky-30000-50000-soldats-nord-coreens-deployes-russie-guerre-partenariat-strategique-vladimir-poutine-kim-jon-un-defense-militaire-guerre",
+          "source": "France 24",
+          "summary": "Le président ukrainien Volodymyr Zelensky estime entre 30 000 et 50 000 le nombre de soldats nord-coréens déployés pour combattre aux côtés de la Russie, alliée de Pyongyang. Face à ce partenariat, il a exhorté Séoul à…",
+          "published": "2026-08-09T14:35:17+00:00"
+        },
+        {
+          "title": "Moyen-Orient : Tel Aviv \"rejette\" le plan américain accepté par le Hamas",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260809-moyen-orient-tel-aviv-rejette-le-plan-am%C3%A9ricain-accept%C3%A9-par-le-hamas",
+          "source": "France 24",
+          "summary": "Noga Tarnopolsky, correspondant France 24, décrypte la situation.",
+          "published": "2026-08-09T14:33:07+00:00"
+        },
+        {
+          "title": "Moyen-Orient : Téhéran pose ses conditions sur le détroit d'Ormuz",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260809-moyen-orient-t%C3%A9h%C3%A9ran-pose-ses-conditions-sur-le-d%C3%A9troit-d-ormuz",
+          "source": "France 24",
+          "summary": "Bruno Daroux, chroniqueur international France 24, analyse la situation.",
+          "published": "2026-08-09T14:30:41+00:00"
+        },
+        {
+          "title": "Des attaques des rebelles houthistes font onze morts au Yémen et ciblent une raffinerie saoudienne",
+          "link": "https://www.lemonde.fr/international/article/2026/08/09/des-attaques-des-rebelles-houthistes-font-onze-morts-au-yemen-et-ciblent-une-raffinerie-saoudienne_6742168_3211.html",
+          "source": "Le Monde",
+          "summary": "Les hostilités dans le conflit yéménite ont repris le mois dernier, nouvelle étape de l’embrasement régional consécutif à la guerre entre les Etats-Unis et l’Iran.",
+          "published": "2026-08-09T14:01:32+00:00"
+        },
+        {
+          "title": "En Espagne, l’incendie dans le sud-ouest du pays est toujours actif mais les autorités sont « un peu plus optimistes »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/09/en-espagne-l-incendie-dans-le-sud-ouest-du-pays-est-toujours-actif-mais-les-autorites-sont-un-peu-plus-optimistes_6742570_3244.html",
+          "source": "Le Monde",
+          "summary": "Plus de 500 personnes, dont 250 membres de l’Unité militaire d’urgence, sont mobilisées pour lutter contre ce feu qui a parcouru près de 8 000 hectares et provoqué l’évacuation préventive d’environ 470 personnes.",
+          "published": "2026-08-09T13:55:17+00:00"
+        },
+        {
+          "title": "Damas dit avoir trouvé un accord avec Moscou sur le sort des bases russes en Syrie",
+          "link": "https://www.lemonde.fr/international/article/2026/08/09/damas-dit-avoir-trouve-un-accord-avec-moscou-sur-le-sort-des-bases-russes-en-syrie_6742535_3210.html",
+          "source": "Le Monde",
+          "summary": "Les installations militaires du port de Tartous et la base aérienne de Hmeimim, sur la côte méditerranéenne, seront transformées « en centres conjoints de formation », a annoncé la diplomatie syrienne.",
+          "published": "2026-08-09T13:21:03+00:00"
+        },
+        {
+          "title": "Affaire des élèves disparus au Mexique : un ancien gouverneur arrêté",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260809-affaire-des-%C3%A9l%C3%A8ves-disparus-au-mexique-un-ancien-gouverneur-arr%C3%AAt%C3%A9",
+          "source": "France 24",
+          "summary": "Un ancien gouverneur accusé d'avoir dissimulé des preuves dans l'affaire des 43 étudiants disparus en 2014, qui a secoué le Mexique et reste non résolue, a été arrêté, a annoncé jeudi le bureau du procureur général. Les…",
+          "published": "2026-08-09T12:58:39+00:00"
+        },
         {
           "title": "Russie: face aux pénuries de carburant, Moscou contraint d'importer de l'essence depuis le Maroc",
           "link": "https://www.rfi.fr/fr/monde/20260809-russie-face-aux-p%C3%A9nuries-de-carburant-moscou-contraint-d-importer-de-l-essence-depuis-le-maroc",
@@ -23,56 +72,7 @@
           "link": "https://www.lemonde.fr/international/article/2026/08/09/le-pape-leon-xiv-appelle-a-l-ouverture-de-couloirs-humanitaires-au-soudan_6742502_3210.html",
           "source": "Le Monde",
           "summary": "« J’exhorte la communauté internationale à soutenir les efforts visant à instaurer un cessez-le-feu immédiat », a déclaré le souverain pontife, au sujet d’un conflit qui a fait des dizaines de milliers de morts et…",
-          "published": "2026-08-09T12:27:52+00:00"
-        },
-        {
-          "title": "Incendies dans le monde, fusillade en Thaïlande, guerre au Moyen-Orient : la semaine en images",
-          "link": "https://www.france24.com/fr/europe/20260809-incendies-dans-le-monde-fusillade-en-tha%C3%AFlande-guerre-au-moyen-orient-la-semaine-en-images",
-          "source": "France 24",
-          "summary": "Retour sur les temps forts de l'actualité de la semaine et les images les plus spectaculaires : les incendies persistent en Europe et en Amérique, bien que la majorité des feux de forêt en France soient stabilisés, une…",
-          "published": "2026-08-09T12:01:43+00:00"
-        },
-        {
-          "title": "Israël « rejette » le plan américain pour Gaza accepté par le Hamas, annonce Benyamin Nétanyahou",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/israel-rejette-le-plan-americain-pour-gaza-accepte-par-le-hamas-annonce-benyamin-netanyahou_6742436_3210.html",
-          "source": "Le Monde",
-          "summary": "L’Etat hébreu a rejeté le document présenté fin juillet par le Conseil de la paix de Donald Trump. Son armée « n’effectuera aucun retrait [du territoire palestinien] tant que le Hamas ne sera pas véritablement désarmé…",
-          "published": "2026-08-09T11:42:22+00:00"
-        },
-        {
-          "title": "Trente ans après le meurtre du rappeur Tupac Shakur, un procès pour résoudre une affaire jamais élucidée",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/trente-ans-apres-le-meurtre-du-rappeur-tupac-shakur-un-proces-pour-resoudre-une-affaire-jamais-elucidee_6742402_3210.html",
-          "source": "Le Monde",
-          "summary": "Le procès de Duane « Keefe D » Davis, accusé d’avoir organisé et participé au meurtre, en 1996, du rappeur Tupac Shakur, débute lundi 10 août à Las Vegas. Personne n’a jamais été condamné dans cette affaire, l’un des…",
-          "published": "2026-08-09T11:02:29+00:00"
-        },
-        {
-          "title": "Le typhon Dolphin a touché terre dans l’est de la Chine ; des fortes pluies et des vents violents sur de larges portions du littoral",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/le-typhon-dolphin-a-touche-terre-dans-l-est-de-la-chine-fortes-pluies-et-vents-violents-sur-de-larges-portions-du-littoral_6742099_3211.html",
-          "source": "Le Monde",
-          "summary": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé – prévoyant des « pluies torrentielles exceptionnelles » dans certaines zones du centre et de l’est…",
-          "published": "2026-08-09T10:23:46+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : des échanges de frappes font cinq morts et des dizaines de blessés en Ukraine et en Russie",
-          "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-des-echanges-de-frappes-font-cinq-morts-et-des-dizaines-de-blesses-en-ukraine-et-en-russie_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Des frappes russes ont fait deux morts dans les régions de Kharkiv et d’Odessa dans la nuit de samedi à dimanche, tandis qu’une attaque de drones ukrainienne a tué trois personnes dans la région russe de Belgorod.",
-          "published": "2026-08-09T10:21:57+00:00"
-        },
-        {
-          "title": "L’auteur de la tuerie en Thaïlande avait déjà apporté une carabine à air comprimé à l’école selon la police",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/l-auteur-de-la-tuerie-en-thailande-avait-deja-apporte-une-carabine-a-air-comprime-a-l-ecole-selon-la-police_6742368_3210.html",
-          "source": "Le Monde",
-          "summary": "L’adolescent a abattu ses grands-parents avec le pistolet de son grand-père, à leur domicile au nord de Bangkok, vendredi, avant de se lancer dans une tuerie dans son collège et de finalement retourner l’arme contre…",
-          "published": "2026-08-09T10:14:09+00:00"
-        },
-        {
-          "title": "En images, la Chine, en alerte rouge, se prépare à l’arrivée du typhon Dolphin",
-          "link": "https://www.lemonde.fr/videos/video/2026/08/09/en-images-la-chine-se-prepare-a-l-arrivee-du-typhon-dolphin_6742335_1669088.html",
-          "source": "Le Monde",
-          "summary": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé –, prévoyant des « pluies torrentielles exceptionnelles » dans certaines zones du centre et de l’est…",
-          "published": "2026-08-09T10:04:14+00:00"
+          "published": "2026-08-09T12:27:49+00:00"
         }
       ]
     },
@@ -84,6 +84,27 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Trois collisions mortelles en une nuit sur les routes du Québec",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-09/trois-collisions-mortelles-en-une-nuit-sur-les-routes-du-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Trois accidents de la route se sont produits en quelques heures au Québec dans la nuit de samedi à dimanche. Les collisions ont coûté la vie à trois personnes, rapportent les autorités.",
+          "published": "2026-08-09T14:41:52+00:00"
+        },
+        {
+          "title": "Le défilé de Fierté Montréal prévu dimanche après-midi",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-09/le-defile-de-fierte-montreal-prevu-dimanche-apres-midi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La 20e édition de Fierté Montréal se termine dimanche avec le traditionnel défilé. Des milliers de personnes marcheront et célébreront au centre-ville de Montréal en après-midi.",
+          "published": "2026-08-09T14:08:52+00:00"
+        },
+        {
+          "title": "Israël «rejette» le plan américain pour Gaza, accepté par le Hamas",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1000760/israel-rejette-plan-americain-gaza-accepte-hamas",
+          "source": "Le Devoir",
+          "summary": "Benjamin Nétanyahou dit conditionner tout retrait de ses troupes à un «véritable» désarmement du mouvement palestinien.",
+          "published": "2026-08-09T13:30:00+00:00"
+        },
+        {
           "title": "L’Iran exige pour rouvrir Ormuz que les États-Unis acceptent «toutes» ses conditions",
           "link": "https://www.ledevoir.com/monde/moyen-orient/1000757/iran-exige-rouvrir-ormuz-etats-unis-acceptent-toutes-conditions",
           "source": "Le Devoir",
@@ -91,39 +112,18 @@
           "published": "2026-08-09T12:25:00+00:00"
         },
         {
-          "title": "Tammara Thibeault devient championne du monde",
-          "link": "https://www.lapresse.ca/sports/sports-de-combat/2026-08-09/tammara-thibeault-devient-championne-du-monde.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Gaza | Israël rejette le plan américain accepté par le Hamas",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-09/gaza/israel-rejette-le-plan-americain-accepte-par-le-hamas.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Québécoise Tammara Thibeault a vaincu Desley Robinson par décision unanime, samedi, devenant championne du monde IBF, WBO et The Ring des poids moyens féminins.",
-          "published": "2026-08-09T11:30:45+00:00"
+          "summary": "Israël « rejette » la dernière feuille de route américaine, acceptée par le Hamas et censée lancer la deuxième étape du plan de paix à Gaza, a annoncé dimanche Benyamin Nétanyahou, conditionnant tout retrait de ses…",
+          "published": "2026-08-09T12:08:31+00:00"
         },
         {
-          "title": "L’éveil queer que permet la fiction",
-          "link": "https://www.lapresse.ca/societe/2026-08-09/l-eveil-queer-que-permet-la-fiction.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "L’argent et le bonheur | Un monde plus riche et moins malade",
+          "link": "https://www.lapresse.ca/affaires/finances-personnelles/2026-08-09/l-argent-et-le-bonheur/un-monde-plus-riche-et-moins-malade.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Dans une scène du récent film d’horreur Teenage Sex and Death at Camp Miasma, le personnage d’Hannah confie à celui de Billy que celle-ci a été le déclencheur de son éveil queer : adolescente, en voyant l’actrice à…",
-          "published": "2026-08-09T11:30:00+00:00"
-        },
-        {
-          "title": "Escouade de policiers et de psychiatres | Au secours des patients invisibles",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-09/escouade-de-policiers-et-de-psychiatres/au-secours-des-patients-invisibles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ils souffrent de problèmes de santé mentale, parfois très graves, mais passent sous le radar du réseau de la santé. Ils génèrent des tonnes d’appels au 911, des interventions policières, des séjours aux urgences. Une…",
-          "published": "2026-08-09T09:00:00+00:00"
-        },
-        {
-          "title": "Suivre la piste de l’argent",
-          "link": "https://www.lapresse.ca/actualites/analyses/2026-08-09/suivre-la-piste-de-l-argent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Dans son style coloré, l’ancien premier ministre Jean Chrétien soulignait d’une manière imagée la crainte des investisseurs face à l’instabilité politique. C’était à l’époque du référendum de 1995.",
-          "published": "2026-08-09T09:00:00+00:00"
-        },
-        {
-          "title": "La Presse en Arabie saoudite | Pourquoi Riyad se tient à l’écart de la guerre au Moyen-Orient",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-09/la-presse-en-arabie-saoudite/pourquoi-riyad-se-tient-a-l-ecart-de-la-guerre-au-moyen-orient.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Combien de temps l’Arabie saoudite pourra-t-elle encore se tenir à l’écart de l’engrenage guerrier qui consume le Moyen-Orient ? La question hante le royaume depuis que les houthis – puissante milice chiite alliée à…",
-          "published": "2026-08-09T09:00:00+00:00"
+          "summary": "Avez-vous remarqué à quel point les nouvelles sont fantastiques par les temps qui courent ? Non ? C’est dommage. Pour corriger ça, voici un résumé de ce qui va bien dans le monde cet été.",
+          "published": "2026-08-09T11:00:00+00:00"
         },
         {
           "title": "Achat de voitures | Plus de choix, et un peu moins chères",
@@ -133,25 +133,25 @@
           "published": "2026-08-09T09:00:00+00:00"
         },
         {
-          "title": "Démystifier la science | Quand les démangeaisons piquent la curiosité",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-09/demystifier-la-science/quand-les-demangeaisons-piquent-la-curiosite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Escouade de policiers et de psychiatres | Au secours des patients invisibles",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-08-09/escouade-de-policiers-et-de-psychiatres/au-secours-des-patients-invisibles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Chaque semaine, notre journaliste répond aux questions scientifiques de lecteurs.",
+          "summary": "Ils souffrent de problèmes de santé mentale, parfois très graves, mais passent sous le radar du réseau de la santé. Ils génèrent des tonnes d’appels au 911, des interventions policières, des séjours aux urgences. Une…",
           "published": "2026-08-09T09:00:00+00:00"
         },
         {
-          "title": "Réalité virtuelle | Une opération en 3D",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-09/realite-virtuelle/une-operation-en-3d.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "En terrasse avec Mai Duong | « Un don de cellules souches, c’est une deuxième vie »",
+          "link": "https://www.lapresse.ca/contexte/2026-08-09/en-terrasse-avec-mai-duong/un-don-de-cellules-souches-c-est-une-deuxieme-vie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’obstétricien-gynécologue ouvre l’utérus de la patiente pour sortir le bébé. Le nouveau-né lâche un cri. Rapidement, le médecin coupe la circulation sanguine dans l’utérus à l’aide d’un garrot. Il excise et extirpe le…",
+          "summary": "Cet été, nos journalistes passent un moment en terrasse pour une entrevue conviviale avec une personnalité. Louise Leduc a rencontré Mai Duong, qui fait du don de cellules souches le grand combat de sa vie après avoir…",
           "published": "2026-08-09T09:00:00+00:00"
         },
         {
-          "title": "Amazon fait construire au Texas une immense centrale à gaz pour ses centres de données",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1000754/amazon-fait-construire-texas-immense-centrale-gaz-centres-donnees",
-          "source": "Le Devoir",
-          "summary": "Celle-ci pourra émettre plus de 30 millions de tonnes de gaz à effet de serre par an.",
-          "published": "2026-08-09T02:44:36+00:00"
+          "title": "La Presse en Arabie saoudite | Pourquoi Riyad se tient à l’écart de la guerre au Moyen-Orient",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-09/la-presse-en-arabie-saoudite/pourquoi-riyad-se-tient-a-l-ecart-de-la-guerre-au-moyen-orient.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Combien de temps l’Arabie saoudite pourra-t-elle encore se tenir à l’écart de l’engrenage guerrier qui consume le Moyen-Orient ? La question hante le royaume depuis que les houthis – puissante milice chiite alliée à…",
+          "published": "2026-08-09T09:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,143 @@
       "label": "France",
       "items": [
         {
-          "title": "Mort de Christian Bernard, fondateur du Mamco de Genève",
-          "link": "https://www.liberation.fr/culture/arts/art-contemporain/mort-de-christian-bernard-fondateur-du-mamco-de-geneve-20260809_M5GGABFZT5C5ZCWMC5U6BUWYOA/",
-          "source": "Liberation",
-          "summary": "Le commissaire d’exposition et directeur de musée, qui a contribué à révéler toute une série d’artistes aujourd’hui sur le devant de la scène, est mort jeudi 6 août à 76 ans.",
-          "published": "2026-08-09T12:40:32+00:00"
+          "title": "Tour de France femmes : la Française Célia Gery victime de menaces de mort après la polémique avec Kasia Niewiadoma",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france-femmes-la-francaise-celia-gery-victime-de-menaces-de-mort-apres-la-polemique-avec-kasia-niewiadoma-20260809",
+          "source": "Le Figaro",
+          "summary": "Coéquipière de Demi Vollering, la Française a été accusée d’un mouvement antisportif par Kasia Niewiadoma lors de la huitième étape. Elle a ensuite reçu des menaces de mort sur les réseaux sociaux.",
+          "published": "2026-08-09T15:24:23+00:00"
         },
         {
-          "title": "Devant le manque de moyens et d'effectifs lors des incendies, la France a besoin \"d'un vrai ministre qui gère la sécurité civile\", estime le syndicat Sud Sdis de l'Yonne",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/devant-le-manque-de-moyens-et-d-effectifs-lors-des-incendies-la-france-a-besoin-d-un-vrai-ministre-qui-gere-la-securite-civile-estime-le-syndicat-sud-sdis-de-l-yonne_8140481.html#xtor=RSS-3-[lestitres]",
+          "title": "EN DIRECT - Tour de France femmes : suspense total avec huit secondes entre Vollering et Niewiadoma, suivez le final explosif à Nice",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-femmes-huit-secondes-entre-vollering-et-niewiadoma-suspense-total-avant-un-final-explosif-20260809",
+          "source": "Le Figaro",
+          "summary": "La victoire finale devrait se jouer entre Demi Vollering et Katarzyna Niewiadoma dans une étape courte qui sent la poudre : 99,2 km autour de Nice avec quatre ascensions.",
+          "published": "2026-08-09T15:23:02+00:00"
+        },
+        {
+          "title": "\"Chicas tristes\" : la réalisatrice mexicaine Fernanda Tovar signe un premier film sensible et éclairant sur le viol et le consentement",
+          "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/chicas-tristes-la-realisatrice-mexicaine-fernanda-tovar-signe-un-premier-film-sensible-et-eclairant-sur-le-viol-et-le-consentement_8110355.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "\"Laurent Nuñez est le premier flic de France, mais on ne peut pas dire qu'il soit le premier sapeur-pompier de France\", regrette le représentant syndical.",
-          "published": "2026-08-09T12:38:05+00:00"
+          "summary": "\"Chicas tristes\" décortique de l'intérieur un cas de viol subi par une jeune fille de la part d'un jeune garçon de son entourage.",
+          "published": "2026-08-09T15:21:58+00:00"
         },
         {
-          "title": "À Rennes, un jeune entre la vie et la mort après avoir percuté un fourgon de CRS",
-          "link": "https://www.lefigaro.fr/faits-divers/a-rennes-un-jeune-entre-la-vie-et-la-mort-apres-avoir-percute-un-fourgon-de-crs-20260809",
+          "title": "La météo du lundi 10 août : la vague de chaleur remonte progressivement vers le centre du pays",
+          "link": "https://www.lefigaro.fr/meteo/la-meteo-du-lundi-10-aout-la-vague-de-chaleur-remonte-progressivement-vers-le-centre-du-pays-20260809",
           "source": "Le Figaro",
-          "summary": "Le pronostic vital du jeune homme de 22 ans est toujours engagé ce dimanche. Une enquête a été ouverte.",
-          "published": "2026-08-09T12:37:21+00:00"
+          "summary": "Un cinquième épisode de chaleur parcourt la France cette semaine, avec des pics de températures qui devraient atteindre les 38°C. Le Sud-Ouest sera secoué par des orages parfois violents.",
+          "published": "2026-08-09T15:18:17+00:00"
         },
         {
-          "title": "Israël «rejette» le plan américain pour Gaza accepté par le Hamas, le groupe islamiste appelle les Américains à faire pression sur Netanyahou",
-          "link": "https://www.lefigaro.fr/flash-actu/israel-rejette-le-plan-americain-pour-gaza-accepte-par-le-hamas-20260809",
-          "source": "Le Figaro",
-          "summary": "Le premier ministre israélien conditionne tout retrait israélien à un «véritable» désarmement du mouvement islamiste.",
-          "published": "2026-08-09T12:35:33+00:00"
-        },
-        {
-          "title": "Canicules : peut-on boire sans risque l’eau «froide» du robinet devenue tiède ?",
-          "link": "https://www.lefigaro.fr/conso/canicules-peut-on-boire-sans-risque-l-eau-froide-du-robinet-devenue-tiede-20260809",
-          "source": "Le Figaro",
-          "summary": "Avec les fortes chaleurs de l’été, rares sont les Français qui ont encore de l’eau fraîche au robinet. Au-delà de l’inconfort, l’eau «froide» à 25°C représente-t-elle un risque pour la santé ?",
-          "published": "2026-08-09T12:27:24+00:00"
-        },
-        {
-          "title": "Nétanyahou «rejette» le plan américain pour Gaza accepté par le Hamas, conditionnant tout retrait israélien à un «véritable» désarmement",
-          "link": "https://www.liberation.fr/international/moyen-orient/netanyahou-rejette-le-plan-americain-pour-gaza-accepte-par-le-hamas-conditionnant-tout-retrait-israelien-a-un-veritable-desarmement-20260809_RK5ODSZHY5DY3P2RRTEDEKLJEA/",
+          "title": "Il fallait l’inventer (7/8) : Samuel Tomatis, vague à l’algue",
+          "link": "https://www.liberation.fr/portraits/il-fallait-linventer-78-samuel-tomatis-vague-a-lalgue-20260809_WHMWK4A25JEBVBLDVJ353RSWRI/",
           "source": "Liberation",
-          "summary": "«Israël rejette le document en 15 points» présenté fin juillet par le «Conseil de Paix» de Donald Trump, a annoncé le Premier ministre israélien ce dimanche 9 août.",
-          "published": "2026-08-09T12:22:37+00:00"
+          "summary": "Sensible au sort du vivant, le jeune designer industriel développe avec des scientifiques des biomatériaux à partir d’ulves ou de sargasses.",
+          "published": "2026-08-09T15:09:10+00:00"
         },
         {
-          "title": "Benyamin Nétanyahou \"rejette\" le plan américain pour Gaza et écarte tout retrait israélien tant que le Hamas n'est pas \"réellement désarmé\"",
-          "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/benyamin-netanyahou-rejette-le-plan-americain-pour-gaza-et-ecarte-tout-retrait-israelien-tant-que-le-hamas-n-est-pas-reellement-desarme_8140775.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'accord accepté par le Hamas liait notamment le désarmement du mouvement à un retrait progressif des troupes israéliennes du territoire palestinien.",
-          "published": "2026-08-09T12:09:58+00:00"
+          "title": "Michèle Pedinielli et le mystère du squelette de l’Institut",
+          "link": "https://www.liberation.fr/culture/livres/michele-pedinielli-le-mystere-du-squelette-de-linstitut-20260809_E4TSJPSMNBBRDFN6K25YFZLIRU/",
+          "source": "Liberation",
+          "summary": "Dans «les Flots rances de l’Arno», un épisode de la série «la Fille du Poulpe», l’autrice niçoise nous embarque en Toscane sur les traces d’une étrange disparition.",
+          "published": "2026-08-09T15:06:47+00:00"
         },
         {
-          "title": "EN DIRECT – Incendies : pas de progression pour le feu dans la Drôme mais «deux réactivations importantes»",
+          "title": "Espagne : les autorités se disent «optimistes» quant à l’incendie toujours actif en Andalousie",
+          "link": "https://www.lefigaro.fr/actualite-france/espagne-les-autorites-se-disent-optimistes-quant-a-l-incendie-toujours-actif-en-andalousie-20260809",
+          "source": "Le Figaro",
+          "summary": "Environ 470 personnes ont été évacuées à titre préventif près de la ville de Niebla, à 70 kilomètres de la frontière sud avec le Portugal. Le feu a parcouru quelque 8.000 hectares jusqu’à présent.",
+          "published": "2026-08-09T15:03:42+00:00"
+        },
+        {
+          "title": "EN DIRECT – Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
           "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
           "source": "Liberation",
-          "summary": "Treize départements du sud-est sont en vigilance orange canicule ce dimanche 9 août, tandis que le sud-ouest doit s’attendre à d’importants orages en fin d’après-midi. Le risque incendie reste particulièrement élevé…",
-          "published": "2026-08-09T12:05:12+00:00"
+          "summary": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationale» lundi.",
+          "published": "2026-08-09T15:03:15+00:00"
         },
         {
-          "title": "Ebola en RDC : «Une épidémie de cette ampleur, c’est du jamais-vu»",
-          "link": "https://www.liberation.fr/international/afrique/ebola-en-rdc-une-epidemie-de-cette-ampleur-cest-du-jamais-vu-20260809_6HDJWBKIUVE27I5XAC6U4NIZAI/",
-          "source": "Liberation",
-          "summary": "Spécialiste des épidémies à Médecins sans frontières, John Johnson décrypte, pour «Libération» , les raisons d’une virulence sans précédent au cœur de la région des Grands Lacs depuis l’identification de la maladie, il…",
-          "published": "2026-08-09T12:03:00+00:00"
-        },
-        {
-          "title": "Incendie dans la Drôme : \"Deux réactivations importantes\" ont été observées dimanche matin, annonce la préfecture",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-direct-incendie-dans-la-drome-deux-reactivations-importantes-observees-dimanche-matin_8140745.html#xtor=RSS-3-[lestitres]",
+          "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" pour la journée de lundi",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le feu déclenché lundi a brûlé 320 hectares. Un peu plus de 400 pompiers sont toujours mobilisés par la lutte contre l'incendie.",
-          "published": "2026-08-09T11:59:21+00:00"
+          "summary": "Huit départements du Sud-Ouest placés sont par ailleurs placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\".",
+          "published": "2026-08-09T15:01:58+00:00"
+        },
+        {
+          "title": "\"Tout ce qui peut être plus transparent est forcément une bonne nouvelle\", se félicite une association après un nouveau décret sur l'encadrement des Ehpad",
+          "link": "https://www.franceinfo.fr/sante/senior/maltraitance-dans-les-ehpad/tout-ce-qui-peut-etre-plus-transparent-est-forcement-une-bonne-nouvelle-se-felicite-une-association-apres-un-nouveau-decret-sur-l-encadrement-des-ehpad_8140889.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "D'après un décret paru dimanche au Journal officiel, les Ehpad devront désormais transmettre chaque année trois nouveaux indicateurs à la Caisse nationale de solidarité pour l'autonomie, qui les publiera à destination…",
+          "published": "2026-08-09T14:57:56+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "On vous explique le RAG : la mécanique invisible derrière chaque source citée par une IA",
+          "link": "https://www.numerama.com/tech/2308149-on-vous-explique-le-rag-la-mecanique-invisible-derriere-chaque-source-citee-par-une-ia.html",
+          "source": "Numerama",
+          "summary": "Il y a encore trois ans, une IA qui citait ses sources tenait de l'exception. Aujourd'hui, c'est presque devenu la norme. Entre les deux, l'avènement d'une technique née dans un labo de recherche : le RAG.",
+          "published": "2026-08-09T15:01:57+00:00"
+        },
+        {
+          "title": "À peine redémarrée, la centrale nucléaire de Golfech doit déjà s'arrêter",
+          "link": "https://www.clubic.com/actualite-624574-a-peine-redemarree-la-centrale-nucleaire-de-golfech-doit-deja-s-arreter.html",
+          "source": "Clubic",
+          "summary": "EDF a de nouveau arrêté le seul réacteur en activité de la centrale nucléaire de Golfech (Tarn-et-Garonne), samedi 8 août au soir, quatre jours après son redémarrage. En cause, selon le fournisseur, la hausse de la…",
+          "published": "2026-08-09T14:45:00+00:00"
+        },
+        {
+          "title": "Une faille critique de BTCPay Server permet de voler des bitcoins",
+          "link": "https://www.clubic.com/actualite-624577-une-faille-critique-de-btcpay-server-permet-de-voler-des-bitcoins.html",
+          "source": "Clubic",
+          "summary": "BTCPay Server, un processeur de paiement Bitcoin open source utilisé par des milliers de commerçants, a publié en urgence une version corrigée après la découverte d’une faille critique. Des attaquants ont exploité la…",
+          "published": "2026-08-09T14:42:00+00:00"
+        },
+        {
+          "title": "On a essayé le Leapmotor A10 (B03X) de Stellantis : le SUV électrique à 23 400 € armé d’un LiDAR",
+          "link": "https://www.frandroid.com/marques/leapmotor/3190547_on-a-essaye-le-leapmotor-a10-b03x-de-stellantis-le-suv-electrique-a-23-400-e-arme-dun-lidar",
+          "source": "Frandroid",
+          "summary": "Stellantis lance son arme anti-Renault 4 E-Tech. Conçu en Chine et importé en Europe, le Leapmotor A10 (baptisé B03X sur notre marché) débarque dès 23 400 euros avec une fiche technique survoltée. Équipé d'un LiDAR pour…",
+          "published": "2026-08-09T14:01:00+00:00"
+        },
+        {
+          "title": "La renaissance du jailbreak : iOS 26 tombe, mais qui en a encore besoin en 2026 ?",
+          "link": "https://www.clubic.com/actualite-624568-la-renaissance-du-jailbreak-ios-26-tombe-mais-qui-en-a-encore-besoin-en-2026.html",
+          "source": "Clubic",
+          "summary": "326 jours de coffre-fort, puis une brèche. Dopamine 3.0 offre à iOS 26 son premier jailbreak, réservé à une poignée d'anciens iPhone. Reste à savoir qui débride encore son téléphone quand Bruxelles a déjà entrouvert la…",
+          "published": "2026-08-09T13:41:00+00:00"
+        },
+        {
+          "title": "L’application Météo de Windows 11 consomme cinq fois plus de RAM que celle de macOS (et affiche des pubs)",
+          "link": "https://www.frandroid.com/marques/apple/3207185_lapplication-meteo-de-windows-11-consomme-cinq-fois-plus-de-ram-que-celle-de-macos-et-affiche-des-pubs",
+          "source": "Frandroid",
+          "summary": "L'application Météo de Windows 11 avale environ cinq fois plus de mémoire vive que son équivalent sur macOS. Et malgré ça, elle continue d'afficher des publicités.",
+          "published": "2026-08-09T13:33:48+00:00"
+        },
+        {
+          "title": "Quand la nuit tombe en plein jour : la folle histoire des éclipses qui ont révolutionné la science",
+          "link": "https://www.numerama.com/sciences/2307551-eclipse-solaire-du-12-aout-2026-fonctionnement-mythes-et-verites-dun-evenement-astronomique-rare.html",
+          "source": "Numerama",
+          "summary": "Une première depuis 1999, le 12 août 2026, une éclipse solaire totale sera visible en Europe. En France hexagonale, ce spectacle astronomique parmi les plus marquants sera observable jusqu’à 99 % selon les régions.…",
+          "published": "2026-08-09T13:31:00+00:00"
+        },
+        {
+          "title": "Totalement autonome et équipé d’un coupe-bordure physique, ce récent robot tondeuse Ecovacs avec LiDAR s’allège de 150 €",
+          "link": "https://www.frandroid.com/bons-plans/3206577_totalement-autonome-et-equipe-dun-coupe-bordure-physique-ce-recent-robot-tondeuse-ecovacs-avec-lidar-sallege-de-150-e",
+          "source": "Frandroid",
+          "summary": "L'Ecovacs Goat O1200 LiDAR Pro est un robot tondeuse qui ne nécessite pas de fil périmétrique, mais s'appuie sur une navigation LiDAR. Un appareil autonome, donc vraiment pratique, qu'Amazon affiche à 899 euros au lieu…",
+          "published": "2026-08-09T13:19:02+00:00"
+        },
+        {
+          "title": "En pleine saison record, l'Europe ajoute une vue incendies à son navigateur satellite",
+          "link": "https://www.clubic.com/actualite-624565-en-pleine-saison-record-l-europe-ajoute-une-vue-incendies-a-son-navigateur-satellite.html",
+          "source": "Clubic",
+          "summary": "Quarante-deux mille hectares envolés en France avant même la mi-juillet, et un navigateur satellite qui apprend enfin à montrer les flammes : l'Europe glisse une vue incendies dans Copernicus, au moment précis où tout…",
+          "published": "2026-08-09T12:56:00+00:00"
+        },
         {
           "title": "La liste des numéros d’urgence en France : les bons réflexes et détails techniques à connaître (fin de la 2G, VoLTE, satellite)",
           "link": "https://www.frandroid.com/telecom/3203405_la-liste-des-numeros-durgence-en-france-les-bons-reflexes-et-details-techniques-a-connaitre-fin-de-la-2g-volte-satellite",
@@ -253,69 +316,6 @@
           "source": "Frandroid",
           "summary": "La Garmin Venu 3 a beau avoir été remplacée par sa successeure, elle reste tout de même une bonne montre connectée de sport, efficace et précise. Boulanger la propose à 299,99 euros au lieu de 429,99 euros, prix affiché…",
           "published": "2026-08-09T11:32:00+00:00"
-        },
-        {
-          "title": "Ce Nissan Qashqai a parcouru 1 980 km avec un seul plein",
-          "link": "https://www.clubic.com/actualite-624562-ce-nissan-qashqai-a-parcouru-1-980-km-avec-un-seul-plein.html",
-          "source": "Clubic",
-          "summary": "Le Guinness World Records a validé une nouvelle performance pour le Nissan Qashqai e-Power. Entre Bogotá et la côte caraïbe colombienne, ce SUV hybride a parcouru 1 980 kilomètres avec un plein unique de 55 litres, sans…",
-          "published": "2026-08-09T11:26:00+00:00"
-        },
-        {
-          "title": "iPhone 17 : Apple pourrait augmenter ses prix dès lundi",
-          "link": "https://www.clubic.com/actualite-624559-iphone-17-apple-pourrait-augmenter-ses-prix-des-lundi.html",
-          "source": "Clubic",
-          "summary": "Et si l’iPhone 17 coûtait plus cher dès demain ? En effet, Apple pourrait réserver une mauvaise surprise aux futurs acheteurs : une mystérieuse rumeur venue de Chine évoque une hausse des tarifs dès le 10 août.",
-          "published": "2026-08-09T10:26:00+00:00"
-        },
-        {
-          "title": "Meilleurs mangas shônen : voici notre top 10 à lire de toute urgence",
-          "link": "https://www.numerama.com/pop-culture/2305865-meilleurs-mangas-shonen-voici-notre-top-10-a-lire-de-toute-urgence.html",
-          "source": "Numerama",
-          "summary": "Le monde du manga regorge de titres qui valent le coup pour découvrir le genre, mais on peut rapidement se sentir noyé face au nombre de séries présentes chez les libraires, au point de ne plus savoir quoi lire. Le…",
-          "published": "2026-08-09T10:02:00+00:00"
-        },
-        {
-          "title": "Clean Master a transformé plus d'un milliard de smartphones en outils d'espionnage",
-          "link": "https://www.clubic.com/actualite-624439-clean-master-a-transforme-plus-d-un-milliard-de-smartphones-en-outils-d-espionnage.html",
-          "source": "Clubic",
-          "summary": "Clean Master, Battery Doctor, Phone Cleaner : derrière ces applications censées optimiser votre smartphone se cache l’un des plus grands systèmes de collecte de données de l’histoire du Play Store. Plus d’un milliard de…",
-          "published": "2026-08-09T10:01:00+00:00"
-        },
-        {
-          "title": "Nouvel aperçu large de GTA 6, Disney+ gratuit, changement de Gmail et éclipse du 12 août – Le récap des actualités tech",
-          "link": "https://www.frandroid.com/actualites-generales/3206013_nouvel-apercu-large-de-gta-6-disney-gratuit-changement-de-gmail-et-eclipse-du-12-aout-le-recap-des-actualites-tech",
-          "source": "Frandroid",
-          "summary": "Rockstar va diffuser un aperçu large de GTA 6 sur Netflix, Samsung travaillerait sur une montre connectée bien plus autonome et moins chère, Disney+ envisage sérieusement un accès gratuit, Gmail ferme encore un peu plus…",
-          "published": "2026-08-09T10:00:00+00:00"
-        },
-        {
-          "title": "OpenAI ralentit le développement d'Astra après des tests de cybersécurité inquiétants",
-          "link": "https://www.clubic.com/actualite-624556-openai-ralentit-le-developpement-d-astra-apres-des-tests-de-cybersecurite-inquietants.html",
-          "source": "Clubic",
-          "summary": "C’est une première pour OpenAI, qui ne sait plus si son futur modèle Astra dépasse ou non le niveau de risque cybersécurité le plus élevé de son cadre de sécurité interne. L’entreprise suspend donc certains…",
-          "published": "2026-08-09T09:15:00+00:00"
-        },
-        {
-          "title": "Ce nouvel aspirateur laveur ultra-plat signé Dreame profite déjà d’une promo chez Boulanger",
-          "link": "https://www.frandroid.com/bons-plans/3204229_ce-nouvel-aspirateur-laveur-ultra-plat-signe-dreame-profite-deja-dune-promo-chez-boulanger",
-          "source": "Frandroid",
-          "summary": "Le Dreame T12 Pro est un aspirateur-balai laveur qui possède un excellent design avec un manche inclinable à 180° pour passer sous les meubles et un profil qui mesure moins de dix centimètres. Côté prix, il faut se…",
-          "published": "2026-08-09T09:12:00+00:00"
-        },
-        {
-          "title": "Test TP-Link M8550 : un routeur 5G très rapide, moins à l’aise dans le train",
-          "link": "https://www.clubic.com/test-produit-623962-test-du-tp-link-m8550-ce-routeur-5g-de-poche-va-tres-vite-tant-qu-il-ne-bouge-pas.html",
-          "source": "Clubic",
-          "summary": "Avec sa 5G, son Wi-Fi 6E et ses nombreuses connexions, le TP-Link M8550 promet une véritable box Internet de poche. Rapide et endurant, il révèle toutefois une faiblesse gênante dès que le voyageur se déplace à grande…",
-          "published": "2026-08-09T09:01:00+00:00"
-        },
-        {
-          "title": "Les meilleurs télescopes connectés pour regarder les étoiles avec son smartphone : le comparatif 2026",
-          "link": "https://www.frandroid.com/guide-dachat/3203937_les-meilleurs-telescopes-connectes-pour-regarder-les-etoiles-avec-son-smartphone-le-comparatif-2026",
-          "source": "Frandroid",
-          "summary": "Cela fait quelques années que les télescopes connectés ont permis de rendre l'astronomie amateur plus accessible au grand public. Les modèles commencent à se multiplier sur le marché, voici donc nos recommandations en…",
-          "published": "2026-08-09T09:00:00+00:00"
         }
       ]
     }
@@ -328,6 +328,13 @@
     "sejour_bien_etre": {
       "label": "Sejour bien-etre",
       "items": [
+        {
+          "title": "Pendant des années, des grillons vivaient dans le métro parisien: pourquoi ont-ils disparu?",
+          "link": "https://www.slate.fr/sciences/grillons-chant-stridulation-metro-paris-gauchers-combats",
+          "source": "Slate.fr",
+          "summary": "Où l'on vous apprend également que tous les grillons sont gauchers (ceci n'expliquant pas cela).",
+          "published": "2026-08-09T14:55:02+00:00"
+        },
         {
           "title": "La Russie est-elle en train de piller le patrimoine archéologique de la Crimée?",
           "link": "https://www.slate.fr/monde/crimee-fouilles-archeologie-russie-ukraine-guerre-vestiges-pillage-antiquites-patrimoine",
