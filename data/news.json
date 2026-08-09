@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-09T15:30:22.094137+00:00",
+  "generated_at": "2026-08-09T18:37:54.576580+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "🔴 La Néerlandaise Demi Vollering remporte le Tour de France femmes et s'offre un deuxième sacre",
+          "link": "http://france24.com/fr/sports/20260809-tour-de-france-neerlandaise-demi-vollering-offre-deuxieme-sacre",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-08-09T17:00:11+00:00"
+        },
+        {
+          "title": "Tour de France femmes : la Néerlandaise Demi Vollering s'offre une deuxième Grande Boucle",
+          "link": "https://www.france24.com/fr/sports/20260809-tour-de-france-neerlandaise-demi-vollering-offre-deuxieme-sacre",
+          "source": "France 24",
+          "summary": "Après une victoire en 2023, la Néerlandaise Demi Vollering a remporté dimanche son deuxième Tour de France femmes, devançant la Polonaise Kasia Niewiadoma au classement général. Elle était arrivée en deuxième position…",
+          "published": "2026-08-09T16:57:40+00:00"
+        },
+        {
+          "title": "En images, trente ans après le meurtre de Tupac Shakur, le procès s’ouvre",
+          "link": "https://www.lemonde.fr/videos/video/2026/08/09/en-images-trente-ans-apres-le-meurtre-de-tupac-shakur-le-proces-s-ouvre_6742706_1669088.html",
+          "source": "Le Monde",
+          "summary": "Le procès de l’ancien chef de gang Duane « Keefe D » Davis, accusé d’avoir organisé et participé au meurtre du célèbre rappeur, s’ouvre ce lundi.",
+          "published": "2026-08-09T16:46:11+00:00"
+        },
+        {
+          "title": "Népal : les corps de cinq alpinistes récupérés sur le mont Yalung Ri, huit mois après leur disparition dans une avalanche",
+          "link": "https://www.lemonde.fr/international/article/2026/08/09/nepal-les-corps-de-cinq-alpinistes-recuperes-sur-le-mont-yalung-ri-huit-mois-apres-leur-disparition-dans-une-avalanche_6742705_3210.html",
+          "source": "Le Monde",
+          "summary": "Deux Népalais, un Italo-Canadien, un Allemand et un Italien avaient été emportés par une avalanche en novembre 2025 sur les flancs de ce mont qui culmine à 5 630 mètres. Leurs corps ont été retrouvés jeudi.",
+          "published": "2026-08-09T16:46:07+00:00"
+        },
+        {
+          "title": "La Syrie annonce un accord sur le sort des bases russes situées sur la côte méditerranéenne",
+          "link": "https://www.france24.com/fr/moyen-orient/20260809-syrie-annonce-accord-sort-bases-russes-cote-mediterraneene-bachar-al-assad-tartous-hmeimim-installations-militaires-accord-vladimir-poutine",
+          "source": "France 24",
+          "summary": "Fruit d'un an et demi de négociations, un accord a été trouvé entre Damas et Moscou sur l'avenir de deux bases russes sur le territoire syrien, a annoncé le ministère syrien des Affaires étrangères, cité par Sana,…",
+          "published": "2026-08-09T16:20:43+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : un drone de combat explose en Moldavie, près de la frontière entre les deux pays",
+          "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Une « puissante explosion », qui serait due à un drone de combat, a été signalée dans le village de Crocmaz, dans le sud-est de la Moldavie. Les fragments sont analysés par des spécialistes.",
+          "published": "2026-08-09T16:10:59+00:00"
+        },
+        {
+          "title": "Thaïlande : après une fusillade mortelle dans un lycée, le débat sur les armes relancé",
+          "link": "https://www.lemonde.fr/international/article/2026/08/09/thailande-apres-une-fusillade-mortelle-dans-un-lycee-le-debat-sur-les-armes-relance_6742671_3210.html",
+          "source": "Le Monde",
+          "summary": "Le 7 août, un adolescent de 14 ans a tué huit personnes par arme à feu, dont six dans son collège-lycée. Malgré une législation relativement stricte, près de 10 millions d’armes sont en circulation dans le pays, où…",
+          "published": "2026-08-09T15:49:59+00:00"
+        },
+        {
+          "title": "Vingt-deux départements placés en vigilance orange canicule lundi, selon Météo-France",
+          "link": "https://www.france24.com/fr/france/20260809-vingt-deux-departements-places-vigilance-orange-canicule-meteo-france-chaleur-centre-sud-est",
+          "source": "France 24",
+          "summary": "Météo-France a placé, dimanche, 22 départements du centre et du sud-est du pays en vigilance orange \"canicule\", dont neuf nouveaux par rapport à dimanche. Un nouvel épisode caniculaire pourrait \"s'étendre à de…",
+          "published": "2026-08-09T15:24:55+00:00"
+        },
         {
           "title": "Selon Volodymyr Zelensky, jusqu'à 50 000 soldats nord-coréens ont été déployés en Russie",
           "link": "https://www.france24.com/fr/europe/20260809-selon-volodymyr-zelensky-30000-50000-soldats-nord-coreens-deployes-russie-guerre-partenariat-strategique-vladimir-poutine-kim-jon-un-defense-militaire-guerre",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "Noga Tarnopolsky, correspondant France 24, décrypte la situation.",
           "published": "2026-08-09T14:33:07+00:00"
-        },
-        {
-          "title": "Moyen-Orient : Téhéran pose ses conditions sur le détroit d'Ormuz",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260809-moyen-orient-t%C3%A9h%C3%A9ran-pose-ses-conditions-sur-le-d%C3%A9troit-d-ormuz",
-          "source": "France 24",
-          "summary": "Bruno Daroux, chroniqueur international France 24, analyse la situation.",
-          "published": "2026-08-09T14:30:41+00:00"
-        },
-        {
-          "title": "Des attaques des rebelles houthistes font onze morts au Yémen et ciblent une raffinerie saoudienne",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/des-attaques-des-rebelles-houthistes-font-onze-morts-au-yemen-et-ciblent-une-raffinerie-saoudienne_6742168_3211.html",
-          "source": "Le Monde",
-          "summary": "Les hostilités dans le conflit yéménite ont repris le mois dernier, nouvelle étape de l’embrasement régional consécutif à la guerre entre les Etats-Unis et l’Iran.",
-          "published": "2026-08-09T14:01:32+00:00"
-        },
-        {
-          "title": "En Espagne, l’incendie dans le sud-ouest du pays est toujours actif mais les autorités sont « un peu plus optimistes »",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/09/en-espagne-l-incendie-dans-le-sud-ouest-du-pays-est-toujours-actif-mais-les-autorites-sont-un-peu-plus-optimistes_6742570_3244.html",
-          "source": "Le Monde",
-          "summary": "Plus de 500 personnes, dont 250 membres de l’Unité militaire d’urgence, sont mobilisées pour lutter contre ce feu qui a parcouru près de 8 000 hectares et provoqué l’évacuation préventive d’environ 470 personnes.",
-          "published": "2026-08-09T13:55:17+00:00"
-        },
-        {
-          "title": "Damas dit avoir trouvé un accord avec Moscou sur le sort des bases russes en Syrie",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/damas-dit-avoir-trouve-un-accord-avec-moscou-sur-le-sort-des-bases-russes-en-syrie_6742535_3210.html",
-          "source": "Le Monde",
-          "summary": "Les installations militaires du port de Tartous et la base aérienne de Hmeimim, sur la côte méditerranéenne, seront transformées « en centres conjoints de formation », a annoncé la diplomatie syrienne.",
-          "published": "2026-08-09T13:21:03+00:00"
-        },
-        {
-          "title": "Affaire des élèves disparus au Mexique : un ancien gouverneur arrêté",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260809-affaire-des-%C3%A9l%C3%A8ves-disparus-au-mexique-un-ancien-gouverneur-arr%C3%AAt%C3%A9",
-          "source": "France 24",
-          "summary": "Un ancien gouverneur accusé d'avoir dissimulé des preuves dans l'affaire des 43 étudiants disparus en 2014, qui a secoué le Mexique et reste non résolue, a été arrêté, a annoncé jeudi le bureau du procureur général. Les…",
-          "published": "2026-08-09T12:58:39+00:00"
-        },
-        {
-          "title": "Russie: face aux pénuries de carburant, Moscou contraint d'importer de l'essence depuis le Maroc",
-          "link": "https://www.rfi.fr/fr/monde/20260809-russie-face-aux-p%C3%A9nuries-de-carburant-moscou-contraint-d-importer-de-l-essence-depuis-le-maroc",
-          "source": "RFI",
-          "summary": "Pour la toute première fois, la Russie a importé du pétrole marocain en juillet 2026. Une première cargaison d'essence est arrivée sur place, dans un contexte de pénuries de carburant à la suite d'attaques de drones…",
-          "published": "2026-08-09T12:38:48+00:00"
-        },
-        {
-          "title": "Rebecca Enonchong, entrepreneuse camerounaise dans les hautes sphères du commerce mondial (1/3)",
-          "link": "https://www.france24.com/fr/afrique/20260809-rebecca-enonchong-entrepreneuse-camerounaise-dans-les-hautes-sph%C3%A8res-du-commerce-mondial-1-3",
-          "source": "France 24",
-          "summary": "Innovation africaine (1/3). Pionnière de la tech en Afrique, entrepreneuse aux multiples casquettes, Rebecca Enonchong a été nommée en juin vice-présidente de la Chambre de commerce internationale, une première pour une…",
-          "published": "2026-08-09T12:36:30+00:00"
-        },
-        {
-          "title": "Le pape Léon XIV appelle à l’ouverture de couloirs humanitaires au Soudan",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/le-pape-leon-xiv-appelle-a-l-ouverture-de-couloirs-humanitaires-au-soudan_6742502_3210.html",
-          "source": "Le Monde",
-          "summary": "« J’exhorte la communauté internationale à soutenir les efforts visant à instaurer un cessez-le-feu immédiat », a déclaré le souverain pontife, au sujet d’un conflit qui a fait des dizaines de milliers de morts et…",
-          "published": "2026-08-09T12:27:49+00:00"
         }
       ]
     },
@@ -84,6 +84,48 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Des alertes de tornades plus ciblées",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-09/des-alertes-de-tornades-plus-ciblees.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Environnement Canada offrira à partir de mardi des alertes plus ciblées d’orages violents et de tornades. Au lieu de cibler une grande région, elles se limiteront au parcours prévu de la tempête.",
+          "published": "2026-08-09T17:54:19+00:00"
+        },
+        {
+          "title": "La Néerlandaise Demi Vollering gagne le Tour de France Femmes pour la deuxième fois",
+          "link": "https://www.ledevoir.com/sports/1000781/neerlandaise-demi-vollering-gagne-tour-france-femmes-deuxieme-fois",
+          "source": "Le Devoir",
+          "summary": "La championne de 2023 accroît son avance au classement général.",
+          "published": "2026-08-09T17:45:00+00:00"
+        },
+        {
+          "title": "Des milliers des personnes attendues au défilé de la Fierté à Montréal",
+          "link": "https://www.ledevoir.com/actualites/societe/1000772/milliers-personnes-attendues-defile-fierte-montreal",
+          "source": "Le Devoir",
+          "summary": "Sous un soleil plombant, les festivités étaient bien entamées dimanche avant le début de la marche.",
+          "published": "2026-08-09T17:09:00+00:00"
+        },
+        {
+          "title": "Une épave remplie d’amphores découverte au large de la Sicile",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-09/une-epave-remplie-d-amphores-decouverte-au-large-de-la-sicile.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des plongeurs italiens ont découvert l’épave d’un bateau romain au large de la Sicile, remplie à ras bord de centaines d’amphores en très bon état, probablement utilisées pour transporter du vin.",
+          "published": "2026-08-09T16:06:49+00:00"
+        },
+        {
+          "title": "Difficultés financières de La Cordée | L’industrie du sport et du plein air est-elle en santé ?",
+          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-09/difficultes-financieres-de-la-cordee/l-industrie-du-sport-et-du-plein-air-est-elle-en-sante.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les difficultés financières que traverse actuellement La Cordée sont-elles le reflet d’une industrie en crise ? Pas nécessairement. Mais chose certaine, l’arrivée il y a quelques années du géant français Décathlon et…",
+          "published": "2026-08-09T16:00:00+00:00"
+        },
+        {
+          "title": "Que peut-on attendre du pacte de défense scellé par Ryad, Ankara et Islamabad ?",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1000769/peut-on-attendre-pacte-defense-scelle-ryad-ankara-islamabad",
+          "source": "Le Devoir",
+          "summary": "S’unir face à un Iran belliqueux et prendre acte des failles américaines: des analystes se prononcent sur l’entente.",
+          "published": "2026-08-09T15:30:00+00:00"
+        },
+        {
           "title": "Trois collisions mortelles en une nuit sur les routes du Québec",
           "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-09/trois-collisions-mortelles-en-une-nuit-sur-les-routes-du-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -91,67 +133,25 @@
           "published": "2026-08-09T14:41:52+00:00"
         },
         {
-          "title": "Le défilé de Fierté Montréal prévu dimanche après-midi",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-09/le-defile-de-fierte-montreal-prevu-dimanche-apres-midi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Jodar se moque de Lehecka et enflamme Montréal à l’OBN",
+          "link": "https://www.ledevoir.com/sports/1000766/jodar-moque-lehecka-enflamme-montreal-obn",
+          "source": "Le Devoir",
+          "summary": "L’Espagnol n’a fait qu’une bouchée du Tchèque, samedi soir, à l’Omnium Banque Nationale.",
+          "published": "2026-08-09T14:20:00+00:00"
+        },
+        {
+          "title": "Fierté Montréal | Des milliers de personnes participent au défilé",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-09/fierte-montreal/des-milliers-de-personnes-participent-au-defile.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La 20e édition de Fierté Montréal se termine dimanche avec le traditionnel défilé. Des milliers de personnes marcheront et célébreront au centre-ville de Montréal en après-midi.",
+          "summary": "Des milliers de personnes marchent et célèbrent au centre-ville de Montréal pour le défilé de la 20e édition de Fierté Montréal qui se termine dimanche après-midi.",
           "published": "2026-08-09T14:08:52+00:00"
         },
         {
-          "title": "Israël «rejette» le plan américain pour Gaza, accepté par le Hamas",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1000760/israel-rejette-plan-americain-gaza-accepte-hamas",
+          "title": "Quoi lire cette semaine ?",
+          "link": "https://www.ledevoir.com/lire/1000763/quoi-lire-cette-semaine",
           "source": "Le Devoir",
-          "summary": "Benjamin Nétanyahou dit conditionner tout retrait de ses troupes à un «véritable» désarmement du mouvement palestinien.",
-          "published": "2026-08-09T13:30:00+00:00"
-        },
-        {
-          "title": "L’Iran exige pour rouvrir Ormuz que les États-Unis acceptent «toutes» ses conditions",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1000757/iran-exige-rouvrir-ormuz-etats-unis-acceptent-toutes-conditions",
-          "source": "Le Devoir",
-          "summary": "La réouverture de ce passage vital pour le commerce mondial est actuellement la priorité de Washington.",
-          "published": "2026-08-09T12:25:00+00:00"
-        },
-        {
-          "title": "Gaza | Israël rejette le plan américain accepté par le Hamas",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-09/gaza/israel-rejette-le-plan-americain-accepte-par-le-hamas.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Israël « rejette » la dernière feuille de route américaine, acceptée par le Hamas et censée lancer la deuxième étape du plan de paix à Gaza, a annoncé dimanche Benyamin Nétanyahou, conditionnant tout retrait de ses…",
-          "published": "2026-08-09T12:08:31+00:00"
-        },
-        {
-          "title": "L’argent et le bonheur | Un monde plus riche et moins malade",
-          "link": "https://www.lapresse.ca/affaires/finances-personnelles/2026-08-09/l-argent-et-le-bonheur/un-monde-plus-riche-et-moins-malade.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Avez-vous remarqué à quel point les nouvelles sont fantastiques par les temps qui courent ? Non ? C’est dommage. Pour corriger ça, voici un résumé de ce qui va bien dans le monde cet été.",
-          "published": "2026-08-09T11:00:00+00:00"
-        },
-        {
-          "title": "Achat de voitures | Plus de choix, et un peu moins chères",
-          "link": "https://www.lapresse.ca/affaires/finances-personnelles/2026-08-09/achat-de-voitures/plus-de-choix-et-un-peu-moins-cheres.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Vous attendiez le bon moment pour magasiner une voiture ? Le contexte actuel est probablement le plus favorable des dernières années, estiment des concessionnaires automobiles. Pendant que l’offre de véhicules neufs et…",
-          "published": "2026-08-09T09:00:00+00:00"
-        },
-        {
-          "title": "Escouade de policiers et de psychiatres | Au secours des patients invisibles",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-09/escouade-de-policiers-et-de-psychiatres/au-secours-des-patients-invisibles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ils souffrent de problèmes de santé mentale, parfois très graves, mais passent sous le radar du réseau de la santé. Ils génèrent des tonnes d’appels au 911, des interventions policières, des séjours aux urgences. Une…",
-          "published": "2026-08-09T09:00:00+00:00"
-        },
-        {
-          "title": "En terrasse avec Mai Duong | « Un don de cellules souches, c’est une deuxième vie »",
-          "link": "https://www.lapresse.ca/contexte/2026-08-09/en-terrasse-avec-mai-duong/un-don-de-cellules-souches-c-est-une-deuxieme-vie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Cet été, nos journalistes passent un moment en terrasse pour une entrevue conviviale avec une personnalité. Louise Leduc a rencontré Mai Duong, qui fait du don de cellules souches le grand combat de sa vie après avoir…",
-          "published": "2026-08-09T09:00:00+00:00"
-        },
-        {
-          "title": "La Presse en Arabie saoudite | Pourquoi Riyad se tient à l’écart de la guerre au Moyen-Orient",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-09/la-presse-en-arabie-saoudite/pourquoi-riyad-se-tient-a-l-ecart-de-la-guerre-au-moyen-orient.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Combien de temps l’Arabie saoudite pourra-t-elle encore se tenir à l’écart de l’engrenage guerrier qui consume le Moyen-Orient ? La question hante le royaume depuis que les houthis – puissante milice chiite alliée à…",
-          "published": "2026-08-09T09:00:00+00:00"
+          "summary": "Une sélection de nos critiques pour guider vos lectures de la semaine.",
+          "published": "2026-08-09T14:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,136 @@
       "label": "France",
       "items": [
         {
-          "title": "Tour de France femmes : la Française Célia Gery victime de menaces de mort après la polémique avec Kasia Niewiadoma",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france-femmes-la-francaise-celia-gery-victime-de-menaces-de-mort-apres-la-polemique-avec-kasia-niewiadoma-20260809",
-          "source": "Le Figaro",
-          "summary": "Coéquipière de Demi Vollering, la Française a été accusée d’un mouvement antisportif par Kasia Niewiadoma lors de la huitième étape. Elle a ensuite reçu des menaces de mort sur les réseaux sociaux.",
-          "published": "2026-08-09T15:24:23+00:00"
-        },
-        {
-          "title": "EN DIRECT - Tour de France femmes : suspense total avec huit secondes entre Vollering et Niewiadoma, suivez le final explosif à Nice",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-femmes-huit-secondes-entre-vollering-et-niewiadoma-suspense-total-avant-un-final-explosif-20260809",
-          "source": "Le Figaro",
-          "summary": "La victoire finale devrait se jouer entre Demi Vollering et Katarzyna Niewiadoma dans une étape courte qui sent la poudre : 99,2 km autour de Nice avec quatre ascensions.",
-          "published": "2026-08-09T15:23:02+00:00"
-        },
-        {
-          "title": "\"Chicas tristes\" : la réalisatrice mexicaine Fernanda Tovar signe un premier film sensible et éclairant sur le viol et le consentement",
-          "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/chicas-tristes-la-realisatrice-mexicaine-fernanda-tovar-signe-un-premier-film-sensible-et-eclairant-sur-le-viol-et-le-consentement_8110355.html#xtor=RSS-3-[lestitres]",
+          "title": "L’Odyssée triomphale de Demi Vollering pour son deuxième sacre sur le Tour de France femmes, entre sérénité et coups de force",
+          "link": "https://www.franceinfo.fr/tour-de-france/femmes/recit-l-odyssee-triomphale-de-demi-vollering-pour-son-deuxieme-sacre-sur-le-tour-de-france-femmes-entre-serenite-et-coups-de-force_8140979.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "\"Chicas tristes\" décortique de l'intérieur un cas de viol subi par une jeune fille de la part d'un jeune garçon de son entourage.",
-          "published": "2026-08-09T15:21:58+00:00"
+          "summary": "La Néerlandaise de 29 ans est la première double lauréate du Tour de France femmes, après avoir remporté trois des neuf étapes de cette 5e édition.",
+          "published": "2026-08-09T18:27:27+00:00"
+        },
+        {
+          "title": "Un blessé grave et 10 blessés légers après un incendie dans une chambre de l’hôpital du Mans",
+          "link": "https://www.liberation.fr/societe/sante/un-blesse-grave-et-10-blesses-legers-apres-un-incendie-dans-une-chambre-de-lhopital-du-mans-20260809_JUVPRZVSGVB6PMFXDSNUJHQXRU/",
+          "source": "Liberation",
+          "summary": "Un patient, âgé de 59 ans et qui était hospitalisé dans une chambre du service de pneumologie-infectiologie est en urgence absolue, avec un pronostic vital «très clairement engagé», rapporte le Centre hospitalier du…",
+          "published": "2026-08-09T18:22:32+00:00"
+        },
+        {
+          "title": "Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
+          "source": "Liberation",
+          "summary": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationale» lundi.",
+          "published": "2026-08-09T18:18:13+00:00"
+        },
+        {
+          "title": "Un incendie dans une chambre de l'hôpital du Mans fait un blessé grave et dix blessés légers",
+          "link": "https://www.franceinfo.fr/sante/un-incendie-dans-une-chambre-de-l-hopital-du-mans-fait-un-blesse-grave-et-dix-blesses-legers_8141117.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le patient, un homme de 59 ans qui était hospitalisé dans cette chambre du service de pneumologie-infectiologie, est en urgence absolue, avec un pronostic vital \"très clairement engagé\", selon le directeur général du…",
+          "published": "2026-08-09T18:12:26+00:00"
+        },
+        {
+          "title": "Iran : rare rencontre entre le guide suprême Mojtaba Khamenei et le président iranien",
+          "link": "https://www.lefigaro.fr/international/iran-rare-rencontre-entre-le-guide-supreme-mojtaba-khamenei-et-le-president-iranien-20260809",
+          "source": "Le Figaro",
+          "summary": "Selon un général des Gardiens de la Révolution, de premières images du nouveau guide suprême parmi la population et lors de rencontres avec les chefs des forces armées «seront publiées à l’avenir», sans qu’une date ne…",
+          "published": "2026-08-09T18:07:33+00:00"
+        },
+        {
+          "title": "«Pogacar» du peloton féminin, patinage de vitesse, fleuriste... Qui est Demi Vollering, la reine du Tour de France femmes ?",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/pogacar-du-peloton-feminin-patinage-de-vitesse-fleuriste-qui-est-demi-vollering-la-reine-du-tour-de-france-femmes-20260809",
+          "source": "Le Figaro",
+          "summary": "PORTRAIT - Sacrée sur le Tour de France femmes ce dimanche, Demi Vollering s’est affirmée en tant que meilleure coureuse de la planète. La Néerlandaise de 29 ans n’était pas forcément prédestinée à ce destin doré.",
+          "published": "2026-08-09T18:04:51+00:00"
+        },
+        {
+          "title": "Tour de France femmes : au bout du suspense, Demi Vollering sacrée pour la deuxième fois",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-au-bout-du-suspense-demi-vollering-sacree-pour-la-deuxieme-fois-20260809",
+          "source": "Le Figaro",
+          "summary": "Une nouvelle fois victorieuse à Nice, la Néerlandaise de l’équipe FDJ United-Suez remporte son deuxième Tour de France. La Polonaise Katarzyna Niewiadoma et l’Italienne Elisa Longo Borghini complètent le podium final.",
+          "published": "2026-08-09T18:04:19+00:00"
+        },
+        {
+          "title": "11 blessés, dont 1 grave, dans l’incendie d’une chambre à l'hôpital du Mans",
+          "link": "https://www.lefigaro.fr/actualite-france/11-blesses-dont-1-grave-dans-l-incendie-d-une-chambre-a-l-hopital-du-mans-20260809",
+          "source": "Le Figaro",
+          "summary": "Une enquête judiciaire a été ouverte «pour déterminer les causes du déclenchement de cet incendie», a indiqué le directeur de l’hôpital.",
+          "published": "2026-08-09T17:59:07+00:00"
         },
         {
           "title": "La météo du lundi 10 août : la vague de chaleur remonte progressivement vers le centre du pays",
           "link": "https://www.lefigaro.fr/meteo/la-meteo-du-lundi-10-aout-la-vague-de-chaleur-remonte-progressivement-vers-le-centre-du-pays-20260809",
           "source": "Le Figaro",
           "summary": "Un cinquième épisode de chaleur parcourt la France cette semaine, avec des pics de températures qui devraient atteindre les 38°C. Le Sud-Ouest sera secoué par des orages parfois violents.",
-          "published": "2026-08-09T15:18:17+00:00"
+          "published": "2026-08-09T17:48:48+00:00"
         },
         {
-          "title": "Il fallait l’inventer (7/8) : Samuel Tomatis, vague à l’algue",
-          "link": "https://www.liberation.fr/portraits/il-fallait-linventer-78-samuel-tomatis-vague-a-lalgue-20260809_WHMWK4A25JEBVBLDVJ353RSWRI/",
-          "source": "Liberation",
-          "summary": "Sensible au sort du vivant, le jeune designer industriel développe avec des scientifiques des biomatériaux à partir d’ulves ou de sargasses.",
-          "published": "2026-08-09T15:09:10+00:00"
-        },
-        {
-          "title": "Michèle Pedinielli et le mystère du squelette de l’Institut",
-          "link": "https://www.liberation.fr/culture/livres/michele-pedinielli-le-mystere-du-squelette-de-linstitut-20260809_E4TSJPSMNBBRDFN6K25YFZLIRU/",
-          "source": "Liberation",
-          "summary": "Dans «les Flots rances de l’Arno», un épisode de la série «la Fille du Poulpe», l’autrice niçoise nous embarque en Toscane sur les traces d’une étrange disparition.",
-          "published": "2026-08-09T15:06:47+00:00"
-        },
-        {
-          "title": "Espagne : les autorités se disent «optimistes» quant à l’incendie toujours actif en Andalousie",
-          "link": "https://www.lefigaro.fr/actualite-france/espagne-les-autorites-se-disent-optimistes-quant-a-l-incendie-toujours-actif-en-andalousie-20260809",
+          "title": "Tour de France femmes : Vollering voulait «gagner avec honnêteté et humilité», après la polémique entre Niewiadoma et Géry",
+          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-vollering-voulait-gagner-avec-honnetete-et-humilite-apres-la-polemique-entre-niewiadoma-et-gery-20260809",
           "source": "Le Figaro",
-          "summary": "Environ 470 personnes ont été évacuées à titre préventif près de la ville de Niebla, à 70 kilomètres de la frontière sud avec le Portugal. Le feu a parcouru quelque 8.000 hectares jusqu’à présent.",
-          "published": "2026-08-09T15:03:42+00:00"
-        },
-        {
-          "title": "EN DIRECT – Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
-          "source": "Liberation",
-          "summary": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationale» lundi.",
-          "published": "2026-08-09T15:03:15+00:00"
-        },
-        {
-          "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" pour la journée de lundi",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Huit départements du Sud-Ouest placés sont par ailleurs placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\".",
-          "published": "2026-08-09T15:01:58+00:00"
-        },
-        {
-          "title": "\"Tout ce qui peut être plus transparent est forcément une bonne nouvelle\", se félicite une association après un nouveau décret sur l'encadrement des Ehpad",
-          "link": "https://www.franceinfo.fr/sante/senior/maltraitance-dans-les-ehpad/tout-ce-qui-peut-etre-plus-transparent-est-forcement-une-bonne-nouvelle-se-felicite-une-association-apres-un-nouveau-decret-sur-l-encadrement-des-ehpad_8140889.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "D'après un décret paru dimanche au Journal officiel, les Ehpad devront désormais transmettre chaque année trois nouveaux indicateurs à la Caisse nationale de solidarité pour l'autonomie, qui les publiera à destination…",
-          "published": "2026-08-09T14:57:56+00:00"
+          "summary": "Au lendemain des critiques acerbes de Kasia Niewiadoma, la Néerlandaise s’est satisfaite de sa victoire «honnête», qui n’a pas été acquise à la suite d’un «fait de course».",
+          "published": "2026-08-09T17:45:49+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Le puissant Roborock H60 Ultra, avec son tube pliable, perd la moitié de son prix",
+          "link": "https://www.frandroid.com/bons-plans/3206301_le-puissant-roborock-h60-ultra-avec-son-tube-pliable-perd-la-moitie-de-son-prix",
+          "source": "Frandroid",
+          "summary": "Le Roborock H60 Ultra est un aspirateur-balai qui se démarque par son tube flexible bien pratique et par sa belle puissance d'aspiration de 210 AW. Actuellement, ce modèle est proposé à 179 euros au lieu de 349,99 euros…",
+          "published": "2026-08-09T17:44:00+00:00"
+        },
+        {
+          "title": "Découvrez Letter Up, notre jeu de société de la semaine, mélange de deux genres que tout oppose",
+          "link": "https://www.numerama.com/pop-culture/2308447-letter-up.html",
+          "source": "Numerama",
+          "summary": "Imaginez que le Scrabble et le Risk aient un bébé… Letter Up, c’est un peu ça. Un étonnant mélange entre jeu de lettres et conquête de territoires, le tout dans une version très, très légère. Un mariage des genres pour…",
+          "published": "2026-08-09T17:31:00+00:00"
+        },
+        {
+          "title": "Quels sont les meilleurs écrans PC bureautiques pour le travail et le multimédia en 2026 ?",
+          "link": "https://www.frandroid.com/guide-dachat/guides-dachat-ordinateurs/898135_quels-sont-les-meilleurs-ecrans-pc-pour-la-bureautique",
+          "source": "Frandroid",
+          "summary": "Souvent négligé, un bon écran d'ordinateur est indispensable pour travailler confortablement. Nous avons choisi pour vous les meilleurs moniteurs pour une utilisation bureautique, notamment pour le télétravail.",
+          "published": "2026-08-09T17:02:13+00:00"
+        },
+        {
+          "title": "82% de réduction chez CyberGhost : un budget VPN accessible pour les étudiants",
+          "link": "https://www.clubic.com/bons-plans-624355-de-reduction-chez-cyberghost-un-budget-vpn-accessible-pour-les-etudiants.html",
+          "source": "Clubic",
+          "summary": "À l'approche de la rentrée, les réseaux Wi-Fi partagés des résidences universitaires, des colocations et des bibliothèques exposent souvent les données personnelles des étudiants à des regards indiscrets. CyberGhost VPN…",
+          "published": "2026-08-09T16:45:00+00:00"
+        },
+        {
+          "title": "On a classé les vieux films X-Men, du pire au meilleur",
+          "link": "https://www.numerama.com/pop-culture/2305835-on-a-classe-les-vieux-films-x-men-du-pire-au-meilleur.html",
+          "source": "Numerama",
+          "summary": "Les X-Men s'apprêtent à revenir en force dans le Marvel Cinematic Universe. Les anciens feront une apparition remarquée dans Avengers: Doomsday, et une nouvelle génération est déjà prévue pour l'après Avengers: Secret…",
+          "published": "2026-08-09T16:30:00+00:00"
+        },
+        {
+          "title": "Test du Tecno MegaBook T14 Air : cet ultraportable aux airs de MacBook Neo vaut-il le coup ?",
+          "link": "https://www.frandroid.com/marques/tecno/3186103_test-du-tecno-megabook-t14-air-cet-ultraportable-aux-airs-de-macbook-neo-vaut-il-le-coup",
+          "source": "Frandroid",
+          "summary": "La marque chinoise Tecno investit peu à peu le marché PC français, cette fois avec un ultrabook à la fiche technique solide sur le papier, proposé à un tarif proche du MacBook Neo. Voyons ce qu'il a dans le ventre.",
+          "published": "2026-08-09T16:02:00+00:00"
+        },
+        {
+          "title": "Oppo Find X9 Ultra vs Samsung Galaxy S26 Ultra : quel smartphone choisir ?",
+          "link": "https://www.frandroid.com/versus/3124635_oppo-find-x9-ultra-vs-samsung-galaxy-s26-ultra-quel-smartphone-choisir",
+          "source": "Frandroid",
+          "summary": "Un duel de titans ! Oppo est définitivement de retour dans la course et signe avec son Find X9 Ultra un challenger terrifiant pour les maîtres de la photo sur smartphone. Comment se défend le Samsung Galaxy S26 Ultra…",
+          "published": "2026-08-09T16:00:00+00:00"
+        },
+        {
+          "title": "Cette souris gaming révolutionnaire noté 9/10 chute sous les 150 € chez Boulanger",
+          "link": "https://www.frandroid.com/bons-plans/3206575_cette-souris-gaming-revolutionnaire-note-9-10-chute-sous-les-150-e-chez-boulanger",
+          "source": "Frandroid",
+          "summary": "La Logitech G Pro X2 Superstrike offre un intéressant mélange entre continuité, avec un design déjà vu, et nouveauté grâce au système HITS. Chez Boulanger, elle est disponible avec une réduction de 12 %.",
+          "published": "2026-08-09T15:35:00+00:00"
+        },
         {
           "title": "On vous explique le RAG : la mécanique invisible derrière chaque source citée par une IA",
           "link": "https://www.numerama.com/tech/2308149-on-vous-explique-le-rag-la-mecanique-invisible-derriere-chaque-source-citee-par-une-ia.html",
@@ -260,62 +316,6 @@
           "source": "Frandroid",
           "summary": "Stellantis lance son arme anti-Renault 4 E-Tech. Conçu en Chine et importé en Europe, le Leapmotor A10 (baptisé B03X sur notre marché) débarque dès 23 400 euros avec une fiche technique survoltée. Équipé d'un LiDAR pour…",
           "published": "2026-08-09T14:01:00+00:00"
-        },
-        {
-          "title": "La renaissance du jailbreak : iOS 26 tombe, mais qui en a encore besoin en 2026 ?",
-          "link": "https://www.clubic.com/actualite-624568-la-renaissance-du-jailbreak-ios-26-tombe-mais-qui-en-a-encore-besoin-en-2026.html",
-          "source": "Clubic",
-          "summary": "326 jours de coffre-fort, puis une brèche. Dopamine 3.0 offre à iOS 26 son premier jailbreak, réservé à une poignée d'anciens iPhone. Reste à savoir qui débride encore son téléphone quand Bruxelles a déjà entrouvert la…",
-          "published": "2026-08-09T13:41:00+00:00"
-        },
-        {
-          "title": "L’application Météo de Windows 11 consomme cinq fois plus de RAM que celle de macOS (et affiche des pubs)",
-          "link": "https://www.frandroid.com/marques/apple/3207185_lapplication-meteo-de-windows-11-consomme-cinq-fois-plus-de-ram-que-celle-de-macos-et-affiche-des-pubs",
-          "source": "Frandroid",
-          "summary": "L'application Météo de Windows 11 avale environ cinq fois plus de mémoire vive que son équivalent sur macOS. Et malgré ça, elle continue d'afficher des publicités.",
-          "published": "2026-08-09T13:33:48+00:00"
-        },
-        {
-          "title": "Quand la nuit tombe en plein jour : la folle histoire des éclipses qui ont révolutionné la science",
-          "link": "https://www.numerama.com/sciences/2307551-eclipse-solaire-du-12-aout-2026-fonctionnement-mythes-et-verites-dun-evenement-astronomique-rare.html",
-          "source": "Numerama",
-          "summary": "Une première depuis 1999, le 12 août 2026, une éclipse solaire totale sera visible en Europe. En France hexagonale, ce spectacle astronomique parmi les plus marquants sera observable jusqu’à 99 % selon les régions.…",
-          "published": "2026-08-09T13:31:00+00:00"
-        },
-        {
-          "title": "Totalement autonome et équipé d’un coupe-bordure physique, ce récent robot tondeuse Ecovacs avec LiDAR s’allège de 150 €",
-          "link": "https://www.frandroid.com/bons-plans/3206577_totalement-autonome-et-equipe-dun-coupe-bordure-physique-ce-recent-robot-tondeuse-ecovacs-avec-lidar-sallege-de-150-e",
-          "source": "Frandroid",
-          "summary": "L'Ecovacs Goat O1200 LiDAR Pro est un robot tondeuse qui ne nécessite pas de fil périmétrique, mais s'appuie sur une navigation LiDAR. Un appareil autonome, donc vraiment pratique, qu'Amazon affiche à 899 euros au lieu…",
-          "published": "2026-08-09T13:19:02+00:00"
-        },
-        {
-          "title": "En pleine saison record, l'Europe ajoute une vue incendies à son navigateur satellite",
-          "link": "https://www.clubic.com/actualite-624565-en-pleine-saison-record-l-europe-ajoute-une-vue-incendies-a-son-navigateur-satellite.html",
-          "source": "Clubic",
-          "summary": "Quarante-deux mille hectares envolés en France avant même la mi-juillet, et un navigateur satellite qui apprend enfin à montrer les flammes : l'Europe glisse une vue incendies dans Copernicus, au moment précis où tout…",
-          "published": "2026-08-09T12:56:00+00:00"
-        },
-        {
-          "title": "La liste des numéros d’urgence en France : les bons réflexes et détails techniques à connaître (fin de la 2G, VoLTE, satellite)",
-          "link": "https://www.frandroid.com/telecom/3203405_la-liste-des-numeros-durgence-en-france-les-bons-reflexes-et-details-techniques-a-connaitre-fin-de-la-2g-volte-satellite",
-          "source": "Frandroid",
-          "summary": "Le 112, le 15, le 17, le 18&nbsp;: on croit tous les connaître. Mais entre la fin de la 2G, la VoLTE et la géolocalisation automatique, quelques réflexes valent mieux qu'un mauvais réseau au pire moment.",
-          "published": "2026-08-09T12:02:00+00:00"
-        },
-        {
-          "title": "J’ai essayé la Volkswagen ID.3 Neo et je peux assurer que cette fois, c’est la bonne",
-          "link": "https://www.numerama.com/vroom/2306439-jai-essaye-la-volkswagen-id-3-neo-et-je-peux-assurer-que-cette-fois-cest-la-bonne.html",
-          "source": "Numerama",
-          "summary": "Volkswagen a opéré une grosse refonte de sa compacte électrique ID.3. Nouvelles batteries, nouveau moteur, ergonomie corrigée ou encore info-divertissement plus moderne, elle change tout en 2026 pour séduire les foules.…",
-          "published": "2026-08-09T11:35:00+00:00"
-        },
-        {
-          "title": "Notée 9/10, l’excellente montre de sport Garmin Venu 3 devient encore plus compétitive à moins de 300 €",
-          "link": "https://www.frandroid.com/bons-plans/3206739_notee-9-10-lexcellente-montre-de-sport-garmin-venu-3-devient-encore-plus-competitive-a-moins-de-300-e",
-          "source": "Frandroid",
-          "summary": "La Garmin Venu 3 a beau avoir été remplacée par sa successeure, elle reste tout de même une bonne montre connectée de sport, efficace et précise. Boulanger la propose à 299,99 euros au lieu de 429,99 euros, prix affiché…",
-          "published": "2026-08-09T11:32:00+00:00"
         }
       ]
     }
