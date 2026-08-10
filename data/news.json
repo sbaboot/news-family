@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-10T13:04:06.077798+00:00",
+  "generated_at": "2026-08-10T15:58:36.065044+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Près de 70 % de la France sous restrictions d’eau, une réunion de crise prévue mercredi",
-          "link": "https://www.france24.com/fr/france/20260810-pr%C3%A8s-de-70-de-la-france-sous-restrictions-d-eau-une-r%C3%A9union-de-crise-pr%C3%A9vue-mercredi",
+          "title": "Groenland : derrière un projet pétrolier texan, l'appétit renouvelé de Donald Trump",
+          "link": "https://www.france24.com/fr/europe/20260810-groenland-derri%C3%A8re-projet-p%C3%A9trolier-texan-app%C3%A9tit-renouvel%C3%A9-donald-trump-greenland-energy",
           "source": "France 24",
-          "summary": "Près de 70 % du territoire français est soumis à des restrictions d’eau, sur fond de sécheresse intense aggravée par des vagues de chaleur répétées depuis trois mois, a annoncé, lundi, le gouvernement, qui réunira…",
-          "published": "2026-08-10T12:50:47+00:00"
+          "summary": "Le gouvernement du Groenland a lancé la semaine dernière un \"avertissement ferme\" à une compagnie texane proche de Donald Trump qui a fait débarquer du matériel de forage dans une région reculée de l’île arctique afin…",
+          "published": "2026-08-10T15:45:14+00:00"
         },
         {
-          "title": "Ebola en RD Congo : une épidémie hors de contrôle dans l'est du pays",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-ebola-en-rd-congo-une-%C3%A9pid%C3%A9mie-hors-de-contr%C3%B4le-dans-l-est-du-pays",
+          "title": "Colombie : un puissant séisme secoue le pays",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-colombie-un-puissant-s%C3%A9isme-secoue-le-pays",
           "source": "France 24",
-          "summary": "En République démocratique du Congo, l’épidémie d’Ebola continue de se propager rapidement dans l’est du pays. Plus de 4 000 cas confirmés et environ 1 850 décès ont été recensés. Pour en parler, France 24 reçoit Albert…",
-          "published": "2026-08-10T12:50:02+00:00"
+          "summary": "Un puissant séisme a secoué lundi la Colombie et a été ressenti dans de grandes villes comme la capitale Bogota (centre) et Cali (sud-ouest), faisant au moins 18 morts à Pereira et deux à Manizales. Le bilan provisoire…",
+          "published": "2026-08-10T15:42:20+00:00"
         },
         {
-          "title": "Ukraine - Russie : cinq morts dans la région de Kharkiv et au moins treize en Russie",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-ukraine-russie-cinq-morts-dans-la-r%C3%A9gion-de-kharkiv-et-au-moins-treize-en-russie",
+          "title": "🔴 Colombie : au moins 20 morts après un séisme de magnitude 7,4 dans l'Ouest ⤵️",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260810-colombie-frapp%C3%A9e-s%C3%A9isme-magnitude-7-4",
           "source": "France 24",
-          "summary": "De nouvelles frappes ont fait au moins cinq morts dans la région ukrainienne de Kharkiv, selon les autorités locales. Un bombardement russe a touché une zone résidentielle dans le district de Tchouhouïv, dans le…",
-          "published": "2026-08-10T12:48:22+00:00"
+          "summary": "",
+          "published": "2026-08-10T15:06:33+00:00"
         },
         {
-          "title": "Sicile : une épave romaine vieille de 2 100 ans découverte dans les profondeurs",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-sicile-une-%C3%A9pave-romaine-vieille-de-2-100-ans-d%C3%A9couverte-dans-les-profondeurs",
-          "source": "France 24",
-          "summary": "Une épave romaine chargée de centaines d’amphores a été découverte au large de Mazara del Vallo, dans l’ouest de la Sicile. Le navire repose à 46 mètres de profondeur, à environ cinq kilomètres des côtes. (France 2)",
-          "published": "2026-08-10T12:45:52+00:00"
-        },
-        {
-          "title": "Les Nigérians rapatriés d'Afrique du Sud témoignent de leur calvaire",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-les-nig%C3%A9rians-rapatri%C3%A9s-d-afrique-du-sud-t%C3%A9moignent-de-leur-calvaire",
-          "source": "France 24",
-          "summary": "Tensions au plus haut entre Abuja et Pretoria. Après le retour de ressortissants nigérians chassés d’Afrique du Sud, le Nigeria accuse Pretoria de xénophobie et de mauvais traitements. À Lagos et Enugu, des rapatriés…",
-          "published": "2026-08-10T12:35:12+00:00"
-        },
-        {
-          "title": "Aux Philippines, des pluies torrentielles font au moins treize morts",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/10/aux-philippines-des-pluies-torrentielles-font-au-moins-treize-morts_6743335_3244.html",
-          "source": "Le Monde",
-          "summary": "Ces pluies, renforcées par des tempêtes tropicales, ont contraint les autorités à fermer les écoles et les bâtiments publics dans l’île principale, Luçon. Les rues de la capitale, Manille, ont été inondées.",
-          "published": "2026-08-10T12:10:11+00:00"
-        },
-        {
-          "title": "Allemagne : le Rhin, à des niveaux historiquement bas, pourrait bientôt ne plus être navigable de manière continue",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/10/allemagne-le-rhin-a-des-niveaux-historiquement-bas-pourrait-bientot-ne-plus-etre-navigable-de-maniere-continue_6743334_3244.html",
-          "source": "Le Monde",
-          "summary": "En raison du manque de pluie, le niveau d’eau à Kaub, entre Coblence et Mayence, point de référence essentiel pour la navigation et l’économie, devrait tomber pour la première fois cette semaine sous les 10 centimètres…",
-          "published": "2026-08-10T12:03:14+00:00"
-        },
-        {
-          "title": "DZ Mafia : les deux narcotraficants interpellés ont été incarcérés en Algérie",
-          "link": "https://www.france24.com/fr/france/20260810-dz-mafia-les-deux-narcotraficants-interpell%C3%A9s-ont-%C3%A9t%C3%A9-incarc%C3%A9r%C3%A9s-en-alg%C3%A9rie",
-          "source": "France 24",
-          "summary": "Le ministre de l'Intérieur Gérald Darmanin a annoncé, lundi, que les narcotrafiquants Djamel Djeha et Mehdi Laribi, un des fondateurs présumés de l'organisation criminelle DZ Mafia, ont été placés en détention…",
-          "published": "2026-08-10T11:55:27+00:00"
-        },
-        {
-          "title": "Avant l'hiver, des stocks de gaz européens au plus bas",
-          "link": "https://www.france24.com/fr/europe/20260810-avant-l-hiver-des-stocks-de-gaz-europ%C3%A9ens-au-plus-bas",
-          "source": "France 24",
-          "summary": "Alors que l’été devait permettre de reconstituer les stocks européens en gaz, ceux-ci sont actuellement remplis à environ 57 % de leurs capacités, contre 74 % en moyenne à cette époque. L'Europe n’avait pas abordé un…",
-          "published": "2026-08-10T11:40:20+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Kiev revendique une attaque contre une raffinerie au Tatarstan ; la Russie fait état d’au moins 13 morts et de dizaines de blessés",
-          "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-une-attaque-contre-une-raffinerie-au-tatarstan-la-russie-fait-etat-d-au-moins-13-morts-et-des-dizaines-de-blesses_6741928_3210.html",
+          "title": "EN DIRECT, guerre en Ukraine : attaque ukrainienne d’une raffinerie au Tatarstan, frappes russes à Zaporijia et Kharkiv… Les dernières informations sur le conflit",
+          "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-attaque-ukrainienne-d-une-raffinerie-au-tatarstan-frappes-russes-a-zaporijia-et-kharkhiv-les-dernieres-informations-sur-le-conflit_6741928_3210.html",
           "source": "Le Monde",
           "summary": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres de la frontière ukrainienne, dans la République du Tatarstan, dans le centre-ouest de la Russie. L’armée ukrainienne dit y avoir frappé…",
-          "published": "2026-08-10T11:07:23+00:00"
+          "published": "2026-08-10T15:00:49+00:00"
+        },
+        {
+          "title": "La Guinée demande à la France la restitution du crâne de Bokar Biro, résistant à la colonisation française",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/10/la-guinee-demande-a-la-france-la-restitution-du-crane-de-bokar-biro-resistant-a-la-colonisation-francaise_6743415_3212.html",
+          "source": "Le Monde",
+          "summary": "Conakry entend récupérer les crânes du dernier souverain de l’Etat théocratique du Fouta-Djallon et de trois de ses proches, près de cent trente ans après leur assassinat par les troupes coloniales françaises.",
+          "published": "2026-08-10T15:00:14+00:00"
+        },
+        {
+          "title": "Bienvenue dans la capitale des infox pro-Trump, à Veles, petite ville des Balkans",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/10/bienvenue-dans-la-capitale-des-infox-pro-trump-a-veles-petite-ville-des-balkans_6743414_3451060.html",
+          "source": "Le Monde",
+          "summary": "« Dix ans de post-vérité » (1/5). En 2016, Donald Trump est élu président des Etats-Unis, porté par le soutien inattendu d’un trafic de clics issu de la ville macédonienne, devenue symbole de l’ère de la post-vérité.…",
+          "published": "2026-08-10T15:00:12+00:00"
+        },
+        {
+          "title": "Léon XIV en France : les inscriptions aux célébrations papales sont ouvertes",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-l%C3%A9on-xiv-en-france-les-inscriptions-aux-c%C3%A9l%C3%A9brations-papales-sont-ouvertes",
+          "source": "France 24",
+          "summary": "À l'occasion de la venue du pape Léon XIV en France fin septembre, les inscriptions pour assister aux célébrations sont ouvertes. Reportage France 2.",
+          "published": "2026-08-10T14:53:24+00:00"
+        },
+        {
+          "title": "Chine : le typhon Dolphin frappe la côte est du pays",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-chine-le-typhon-dolphin-frappe-la-c%C3%B4te-est-du-pays",
+          "source": "France 24",
+          "summary": "Le typhon Dolphin a provoqué de fortes pluies et engendré l'annulation de centaines de vols lundi dans l'est de la Chine, où plus d'un million de personnes ont été évacuées ces derniers jours selon les autorités.",
+          "published": "2026-08-10T14:49:35+00:00"
+        },
+        {
+          "title": "Canada : les feux de forêt restent hors de contrôle",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-canada-les-feux-de-for%C3%AAt-restent-hors-de-contr%C3%B4le",
+          "source": "France 24",
+          "summary": "Dans l’ouest du Canada, un vaste incendie continue de ravager le sud de la Colombie-Britannique. Le feu de Bald Range, près du lac Okanagan, a déjà détruit plus de 13 000 hectares et entraîné l’évacuation de plus de 20…",
+          "published": "2026-08-10T14:46:49+00:00"
+        },
+        {
+          "title": "En France, la chaleur engendre des vendanges records dans les vignobles",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-en-france-la-chaleur-engendre-des-vendanges-records-dans-les-vignobles",
+          "source": "France 24",
+          "summary": "En France, les fortes chaleurs et la sécheresse causent des vendanges records et accélèrent la maturation des raisins. Une précocité inédite. Reportage J.Bigard, O.Lebreton (France 2).",
+          "published": "2026-08-10T14:44:24+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "L’UEFA, la CONCACAF et l’AFC accusent la FIFA de «tromperie» et d’«abus de confiance»",
-          "link": "https://www.ledevoir.com/sports/1000877/uefa-concacaf-afc-accusent-fifa-tromperie-abus-confiance",
+          "title": "Finances fragiles | Laval réduira ses dépenses de 10 millions annuellement",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-10/finances-fragiles/laval-reduira-ses-depenses-de-10-millions-annuellement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Laval fait un premier pas pour redresser sa situation financière fragile. Après avoir terminé l’année 2025 avec un manque à gagner pour la première fois dans son histoire récente, la municipalité réduira ses dépenses…",
+          "published": "2026-08-10T15:27:19+00:00"
+        },
+        {
+          "title": "Au moins 18 morts en Colombie après un séisme de magnitude 7,4",
+          "link": "https://www.ledevoir.com/monde/ameriques/1000898/colombie-secouee-seisme-magnitude-7-4-ressenti-jusqu-bogota",
           "source": "Le Devoir",
-          "summary": "Les grandes organisations de soccer se révoltent contre le leadership de Gianni Infantino.",
-          "published": "2026-08-10T12:15:00+00:00"
+          "summary": "Le tremblement survenu lundi matin dans l’ouest du pays a été ressenti jusque dans la capitale, Bogotá.",
+          "published": "2026-08-10T14:42:00+00:00"
         },
         {
-          "title": "Le chef du SPVM s’est adressé à ses employés au sujet des comportements racistes à Montréal-Nord",
-          "link": "https://www.ledevoir.com/actualites/justice/1000868/chef-spvm-est-adresse-employes-sujet-comportements-racistes-montreal-nord",
+          "title": "Christine Fréchette présente les candidats de la CAQ en Mauricie",
+          "link": "https://www.ledevoir.com/politique/quebec/1000895/christine-frechette-presente-candidats-caq-mauricie",
           "source": "Le Devoir",
-          "summary": "Dans un vidéo enregistrée en juin, Fady Dagher est revenu sur la dissolution d’une unité de 16 policiers du poste 39.",
-          "published": "2026-08-10T11:02:00+00:00"
+          "summary": "Marie-Ève Myrand, ex-directrice générale de l’Association des microbrasseries du Québec, se présentera dans Champlain.",
+          "published": "2026-08-10T14:30:00+00:00"
         },
         {
-          "title": "Les Iraniens sont «des joueurs d’échecs professionnels», répond Téhéran à Trump",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1000865/iraniens-sont-joueurs-echecs-professionnels-repond-teheran-trump",
+          "title": "Sud du Québec | Orages violents et tornades en vue",
+          "link": "https://www.lapresse.ca/actualites/2026-08-10/sud-du-quebec/orages-violents-et-tornades-en-vue.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Une partie importante du sud du Québec, s’étendant de la frontière ontarienne jusqu’à Acton Vale en Montérégie, pourrait être frappée lundi après-midi par des orages violents, voire des tornades, selon une alerte…",
+          "published": "2026-08-10T14:16:30+00:00"
+        },
+        {
+          "title": "Ashton ouvre sa première succursale à Montréal",
+          "link": "https://www.ledevoir.com/economie/consommation/1000892/ashton-ouvre-premiere-succursale-montreal",
           "source": "Le Devoir",
-          "summary": "Le président américain peine à trouver une issue face aux revendications drastiques du pouvoir iranien.",
-          "published": "2026-08-10T10:35:00+00:00"
+          "summary": "La chaîne de restauration rapide s’installe au Complexe Desjardins, rue Sainte-Catherine Ouest.",
+          "published": "2026-08-10T14:10:00+00:00"
         },
         {
-          "title": "Guerre en Ukraine | Une attaque de drones ukrainiens fait 13 morts en Russie",
-          "link": "https://www.lapresse.ca/international/europe/2026-08-10/guerre-en-ukraine/une-attaque-de-drones-ukrainiens-fait-13-morts-en-russie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Treize personnes ont été tuées lundi dans une ville industrielle du centre de la Russie, dans l’une des attaques les plus meurtrières survenues sur le territoire russe depuis le début de l’offensive de Moscou contre…",
-          "published": "2026-08-10T10:13:38+00:00"
+          "title": "Une nouvelle vague de chaleur guette l’Europe de l’ouest",
+          "link": "https://www.ledevoir.com/actualites/environnement/1000889/nouvelle-vague-chaleur-guette-europe-ouest",
+          "source": "Le Devoir",
+          "summary": "L’année 2026 est en bonne voie pour devenir la plus chaude jamais enregistrée dans le continent, selon Copernicus.",
+          "published": "2026-08-10T14:05:20+00:00"
         },
         {
-          "title": "Centres de désintoxication | Un labyrinthe pour sortir de la dépendance",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-10/centres-de-desintoxication/un-labyrinthe-pour-sortir-de-la-dependance.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Mark Zuckerberg défend les bienfaits de l’intelligence artificielle",
+          "link": "https://www.lapresse.ca/affaires/techno/2026-08-10/mark-zuckerberg-defend-les-bienfaits-de-l-intelligence-artificielle.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Ils sont prêts à arrêter la drogue. Mais le système n’est pas toujours prêt à les accueillir. En pleine crise des surdoses, les personnes aux prises avec une dépendance se heurtent à des délais de plusieurs semaines et…",
-          "published": "2026-08-10T09:00:00+00:00"
+          "summary": "Le fondateur de Meta, Mark Zuckerberg, a publié lundi un long texte sur le site de son entreprise afin de défendre sa nouvelle stratégie, mêlant modèles d’intelligence artificielle (IA) ouverts et investissements dans…",
+          "published": "2026-08-10T14:04:46+00:00"
         },
         {
-          "title": "La Presse en Équateur | « Une bombe à retardement de contamination »",
-          "link": "https://www.lapresse.ca/international/2026-08-10/la-presse-en-equateur/une-bombe-a-retardement-de-contamination.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Christine Fréchette ouverte au retour des vins américains à la SAQ",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-10/christine-frechette-ouverte-au-retour-des-vins-americains-a-la-saq.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une société canadienne souhaite exploiter une mine d’or en plein cœur de montagnes andines, là où naissent des rivières qui alimentent en eau potable la troisième ville en population de l’Équateur, Cuenca. Si la minière…",
-          "published": "2026-08-10T09:00:00+00:00"
+          "summary": "La première ministre Christine Fréchette a ouvert la porte au retour des bouteilles de vin américain sur les tablettes de la SAQ, mais pas à n’importe quel prix. Des gains devront être obtenus pour le Québec avant d’en…",
+          "published": "2026-08-10T13:51:51+00:00"
         },
         {
-          "title": "Planète bleue, idées vertes | Une vie prolongée pour les fruits et légumes",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-10/planete-bleue-idees-vertes/une-vie-prolongee-pour-les-fruits-et-legumes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Un séisme de magnitude 7,4 secoue la Colombie",
+          "link": "https://www.lapresse.ca/international/amerique-latine/2026-08-10/un-seisme-de-magnitude-7-4-secoue-la-colombie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Récupérer des fruits et légumes destinés aux ordures pour en faire un panier antigaspillage de qualité, moins cher qu’à l’épicerie : c’est le pari que John Tassi a fait en fondant l’organisme à but non lucratif (OBNL)…",
-          "published": "2026-08-10T09:00:00+00:00"
+          "summary": "Un puissant séisme a secoué lundi la Colombie et a été ressenti dans de grandes villes comme la capitale Bogota (Centre) et Cali (Sud-Ouest), faisant un nombre indéterminé de victimes et de bâtiments endommagés dans…",
+          "published": "2026-08-10T13:17:52+00:00"
         },
         {
-          "title": "Les feux de l’amour",
-          "link": "https://www.lapresse.ca/actualites/chroniques/2026-08-10/les-feux-de-l-amour.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "C’est un peu rouillé que je reviens lentement au travail. Ces jours-ci à La Presse, lundi prochain à la radio. Rouillé ? Je me suis planté dans le quiz du dimanche de La Presse sur l’actualité.",
-          "published": "2026-08-10T09:00:00+00:00"
-        },
-        {
-          "title": "Décryptage | Le mystère Todd Blanche",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-10/decryptage/le-mystere-todd-blanche.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les anciens collègues de Todd Blanche à New York sont nombreux à se poser les mêmes questions à son sujet.",
-          "published": "2026-08-10T09:00:00+00:00"
-        },
-        {
-          "title": "Frédérique Chiasson | Une « dernière chance » qui la propulse sur l’équipe nationale",
-          "link": "https://www.lapresse.ca/sports/2026-08-10/frederique-chiasson/une-derniere-chance-qui-la-propulse-sur-l-equipe-nationale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Trois Québécoises faisaient partie de l’équipe nationale du relais 4 x 100 m qui a remporté l’argent aux Jeux du Commonwealth : Audrey Leduc, Marie-Éloïse Leclair et Frédérique Chiasson. Le nom des deux premières vous…",
-          "published": "2026-08-10T09:00:00+00:00"
+          "title": "La santé mentale des adolescentes se dégrade, prévient Tel-jeunes",
+          "link": "https://www.ledevoir.com/actualites/sante/1000886/sante-mentale-adolescentes-degrade-previent-tel-jeunes",
+          "source": "Le Devoir",
+          "summary": "Les jeunes filles et les membres des communautés LGBTQ + sont parmi les groupes qui vivent le plus de détresse.",
+          "published": "2026-08-10T13:10:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Canicule : 22 départements en vigilance orange ce lundi, près de 70% de la France sous des mesures de restrictions d’eau",
+          "title": "EN DIRECT - Canicule : 43 départements placés en vigilance orange mardi, un nouvel incendie perturbe la circulation sur l’A8 dans le Var",
           "link": "https://www.lefigaro.fr/sciences/en-direct-canicule-la-vague-de-chaleur-continue-de-gagner-du-terrain-20260810",
           "source": "Le Figaro",
-          "summary": "La Drôme est l’un des 17 départements placés lundi en niveau de danger élevé de feu de forêt par Météo-France, qui l’a mis également en vigilance orange pour la canicule, comme 21 autres départements.",
-          "published": "2026-08-10T13:00:04+00:00"
+          "summary": "Près de 70% de la France fait actuellement l’objet de mesures de restrictions des usages de l’eau, sous l’effet d’une sécheresse qui s’accentue en raison des vagues de chaleur à répétition qui affectent le pays depuis…",
+          "published": "2026-08-10T15:47:02+00:00"
+        },
+        {
+          "title": "Au moins 18 morts et des dégâts dans l'ouest de la Colombie après un séisme de magnitude 7,4",
+          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-4-en-colombie-fait-au-moins-18-morts-et-des-degats-dans-l-ouest-du-pays_8142011.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le président Abelardo de la Espriella, tout juste entré en fonctions, doit se rendre dans la région touchée.",
+          "published": "2026-08-10T15:46:08+00:00"
+        },
+        {
+          "title": "EN DIRECT - Canicule : 43 départements en vigilance orange mardi midi",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
+          "source": "Liberation",
+          "summary": "Concentrées sur le quart sud-est de la France ce lundi, les fortes chaleurs frapperont jusqu’au Finistère dès demain. «Entre mercredi et vendredi, les 35 °C concerneront une grande partie du pays», alerte Météo France.",
+          "published": "2026-08-10T15:46:00+00:00"
+        },
+        {
+          "title": "Un réfugié afghan suspecté de projets terroristes en France mis en examen et écroué",
+          "link": "https://www.lefigaro.fr/faits-divers/un-refugie-afghan-suspecte-de-projets-terroristes-en-france-mis-en-examen-et-ecroue-20260810",
+          "source": "Le Figaro",
+          "summary": "Interpellé à Lourdes (Hautes-Pyrénées), cet homme de 28 ans a été mis en examen le 3 juillet. Il est soupçonné d’association de malfaiteurs criminelle, d’apologie du terrorisme et de financement du terrorisme.",
+          "published": "2026-08-10T15:42:00+00:00"
+        },
+        {
+          "title": "Espace : l’Europe risque une pénurie de lanceurs pour mettre en orbite ses futurs satellites d’ici 2030, alerte l’ESA",
+          "link": "https://www.lefigaro.fr/conjoncture/espace-l-europe-risque-une-penurie-de-lanceurs-pour-mettre-en-orbite-ses-futurs-satellites-d-ici-2030-alerte-l-esa-20260810",
+          "source": "Le Figaro",
+          "summary": "«Nous constatons un pic des besoins de lancement autour de 2029, 2030 et 2031», a déclaré le directeur général de l’Agence spatiale européenne (ESA), Josef Aschbacher.",
+          "published": "2026-08-10T15:39:27+00:00"
+        },
+        {
+          "title": "«Il est important de normaliser ces expériences» : Alexandria Ocasio-Cortez, figure de la gauche américaine, chronique sa procédure de gel d’ovocytes sur les réseaux",
+          "link": "https://www.lefigaro.fr/international/il-est-important-de-normaliser-ces-experiences-alexandria-ocasio-cortez-figure-de-la-gauche-americaine-chronique-sa-procedure-de-gel-d-ovocytes-sur-les-reseaux-20260810",
+          "source": "Le Figaro",
+          "summary": "La congélation des ovocytes consiste à les prélever puis les conserver dans de l’azote liquide en vue d’une éventuelle grossesse future.",
+          "published": "2026-08-10T15:39:26+00:00"
+        },
+        {
+          "title": "\"Ce qui était peut-être acceptable à l'époque ne l'est plus\" : ce que l'on sait des accusations visant l'animateur Guillaume Pley",
+          "link": "https://www.franceinfo.fr/economie/medias/ce-qui-etait-peut-etre-acceptable-a-l-epoque-ne-l-est-plus-ce-que-l-on-sait-des-accusations-visant-l-animateur-guillaume-pley_8141597.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Une enquête publiée par \"Les Inrockuptibles\" met notamment en cause l'ancien animateur de radio, fondateur du podcast \"Legend\", évoquant des comportements inappropriés avec des mineures et une culture d'entreprise…",
+          "published": "2026-08-10T15:37:53+00:00"
         },
         {
           "title": "Piégée par des coyotes : la mort sidérante de la chanteuse Taylor Mitchell, dans un parc national canadien, en 2009",
           "link": "https://www.lefigaro.fr/animaux/piegee-par-des-coyotes-la-mort-siderante-de-la-chanteuse-taylor-mitchell-dans-un-parc-national-canadien-en-2009-20260810",
           "source": "Le Figaro",
           "summary": "La toute première attaque fatale jamais recensée d’un coyote contre un adulte humain a eu lieu contre une jeune chanteuse de folk country âgée de 19 ans. Même si aucun témoin n’a directement assisté à l’attaque, une…",
-          "published": "2026-08-10T12:59:03+00:00"
+          "published": "2026-08-10T15:32:34+00:00"
         },
         {
-          "title": "Sécheresse en France : près de 70% du territoire sous des mesures de restrictions d'eau",
-          "link": "https://www.lefigaro.fr/actualite-france/secheresse-en-france-pres-de-70-du-territoire-sous-des-mesures-de-restrictions-d-eau-20260810",
-          "source": "Le Figaro",
-          "summary": "Dans le détail, au 9 août, 99 départements, soit l’ensemble du territoire métropolitain, sont a minima en seuil de vigilance.",
-          "published": "2026-08-10T12:58:17+00:00"
-        },
-        {
-          "title": "Sécheresse : près de 70 % de la France fait l’objet de mesures de restriction de l’usage de l’eau",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/10/secheresse-pres-de-70-de-la-france-fait-l-objet-de-mesures-de-restriction-de-l-usage-de-l-eau_6743337_3244.html",
+          "title": "Le moustique-tigre pourrait se répandre dans presque tout l’Hexagone d’ici à un demi-siècle",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/10/le-moustique-tigre-pourrait-se-repandre-dans-presque-tout-l-hexagone-d-ici-a-un-demi-siecle_6743417_3244.html",
           "source": "Le Monde",
-          "summary": "Dimanche, 99 départements étaient au minimum au niveau « vigilance ». Parmi eux, 67 sont au niveau « crise », ce qui signifie que l’eau est réservée aux usages prioritaires : santé, sécurité civile, eau potable,…",
-          "published": "2026-08-10T12:53:47+00:00"
+          "summary": "Si plusieurs facteurs ont contribué à la propagation rapide du moustique-tigre depuis son arrivée en 2004, une étude estime que la quasi-totalité des changements à venir dans l’aire de répartition du moustique et dans…",
+          "published": "2026-08-10T15:25:51+00:00"
         },
         {
-          "title": "Colombie : un puissant séisme de magnitude 6,6 secoue la capitale Bogota",
-          "link": "https://www.lefigaro.fr/international/colombie-un-puissant-seisme-de-magnitude-6-6-secoue-la-capitale-bogota-20260810",
-          "source": "Le Figaro",
-          "summary": "Les secousses ont été ressenties jusqu’à la frontière avec le Venezuela, selon des témoins de Reuters.",
-          "published": "2026-08-10T12:53:38+00:00"
-        },
-        {
-          "title": "EN DIRECT - Sécheresse : en Allemagne, le Rhin en passe d’être coupé en deux",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
-          "source": "Liberation",
-          "summary": "Déjà à des niveaux historiquement bas faute de précipitations durables, le Rhin pourrait bientôt ne plus être navigable sur l’ensemble de son cours en Allemagne et se retrouver coupé en deux, a averti lundi la…",
-          "published": "2026-08-10T12:47:49+00:00"
-        },
-        {
-          "title": "Canicule : des températures maximales jusqu'à 39 degrés attendues dans le sud mardi, 22 départements en vigilance orange",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-quelque-22-departement-places-en-vigilance-orange-canicule-lundi-au-premier-jour-d-une-semaine-qui-s-annonce-particulierement-chaude_8141534.html#xtor=RSS-3-[lestitres]",
+          "title": "La Suède annonce avoir déjoué une opération du renseignement russe",
+          "link": "https://www.franceinfo.fr/monde/russie/la-suede-annonce-avoir-dejoue-une-operation-du-renseignement-russe_8141888.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Près de 70% du territoire métropolitain français font l'objet de mesures de restrictions de l'usage de l'eau, selon le ministère de la Transition écologique.",
-          "published": "2026-08-10T12:44:19+00:00"
-        },
-        {
-          "title": "«Il apporte un positionnement nouveau» : Daniel Cohn-Bendit soutient Raphaël Glucksmann pour la présidentielle 2027",
-          "link": "https://www.lefigaro.fr/politique/il-apporte-un-positionnement-nouveau-daniel-cohn-bendit-soutient-raphael-glucksmann-pour-la-presidentielle-2027-20260810",
-          "source": "Le Figaro",
-          "summary": "Interrogé sur le charisme du député européen, Daniel Cohn-Bendit dit qu’il faut plutôt parler de projet. «Il s’agit de construire un projet d’avenir pour se positionner de 2027 jusqu’à 2032», affirme-t-il.",
-          "published": "2026-08-10T12:41:03+00:00"
-        },
-        {
-          "title": "\"C'est n'importe quoi\" : la proposition de primaire \"du PS aux gaullistes\" de François Bayrou décriée à l'unanimité",
-          "link": "https://www.franceinfo.fr/elections/presidentielle/c-est-n-importe-quoi-la-proposition-de-primaire-du-ps-aux-gaullistes-de-francois-bayrou-decriee-a-l-unanimite_8141822.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'ex-Premier ministre centriste François Bayrou plaide pour une grande primaire de \"tous ceux qui rejettent les extrêmes\", afin de désigner un candidat unique à la présidentielle 2027, d'ici février.",
-          "published": "2026-08-10T12:36:03+00:00"
-        },
-        {
-          "title": "Indonésie : une voiture dérape lors d’une course de dragsters et percute des spectateurs, au moins huit morts",
-          "link": "https://www.lefigaro.fr/international/indonesie-une-voiture-derape-lors-d-une-course-de-dragsters-et-percute-des-spectateurs-au-moins-huit-morts-20260810",
-          "source": "Le Figaro",
-          "summary": "L’accident s’est produit dimanche soir lors d’une course organisée dans la ville de Kotamobagu, sur l’île de Sulawesi, à environ 180 kilomètres au sud-ouest de Manado, la capitale du Sulawesi du Nord.",
-          "published": "2026-08-10T12:29:08+00:00"
+          "summary": "L'opération a été planifiée par le renseignement russe, selon les services de sécurité suédois, qui explique que \"l'un des objectifs\" était de \"saper la prise de décision en Suède et de discréditer la Suède, l'Otan et…",
+          "published": "2026-08-10T15:24:59+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "YouTube teste l’ouverture automatique des Shorts : les utilisateurs déjà furieux",
-          "link": "https://www.clubic.com/actualite-624700-youtube-teste-l-ouverture-automatique-des-shorts-les-utilisateurs-deja-furieux.html",
-          "source": "Clubic",
-          "summary": "Imaginez, vous ouvrez YouTube et les Shorts s'ouvrent automatiquement. Mais ce n’est pas ce que vous vouliez. Cessez d’imaginer, c’est exactement ce qu’il est en train de se passer, au grand dam des utilisateurs.",
-          "published": "2026-08-10T12:52:00+00:00"
+          "title": "Renault 5 : une optimisation matérielle offre des kilomètres supplémentaires",
+          "link": "https://www.numerama.com/vroom/2309177-renault-5-une-optimisation-materielle-offre-des-kilometres-supplementaires.html",
+          "source": "Numerama",
+          "summary": "Renault a discrètement mis à jour son configurateur pour afficher des autonomies supérieures pour plusieurs déclinaisons de la star des ventes électriques de la marque&nbsp;: la R5.",
+          "published": "2026-08-10T15:56:57+00:00"
         },
         {
-          "title": "Snapdragon C : le prix de l'Acer Aspire Go 15 fuite... et les belles promesses de Qualcomm s'estompent",
-          "link": "https://www.clubic.com/actualite-624676-snapdragon-c-le-prix-de-l-acer-aspire-go-15-fuite-et-les-belles-promesses-de-qualcomm-s-estompent.html",
+          "title": "SwitchBot lance kata, un assistant IA capable de configurer et automatiser toute votre maison connectée",
+          "link": "https://www.clubic.com/actualite-624781-switchbot-lance-kata-un-assistant-ia-capable-de-configurer-et-automatiser-toute-votre-maison-connectee.html",
           "source": "Clubic",
-          "summary": "Annoncés en mai, les processeurs d'entrée de gamme Snapdragon C devaient permettre la commercialisation de PC portables à très bas prix pour la rentrée 2026, avec un positionnement dès 300 dollars évoqué alors par…",
-          "published": "2026-08-10T12:51:00+00:00"
+          "summary": "SwitchBot intègre kata, un assistant conversationnel propulsé par l’IA, directement dans son application. L’objectif : piloter, configurer et dépanner l’ensemble de son écosystème domotique en langage naturel, sans…",
+          "published": "2026-08-10T15:52:00+00:00"
         },
         {
-          "title": "Meta lance Muse Glimmer, son modèle d’IA agentique en open source",
-          "link": "https://www.frandroid.com/marques/meta/3207895_meta-lance-muse-glimmer-son-modele-dia-agentique-en-open-source",
+          "title": "Microsoft Edge abandonne Manifest V2 : mauvaise nouvelle pour uBlock Origin et les bloqueurs de pub",
+          "link": "https://www.frandroid.com/culture-tech/3208137_microsoft-edge-abandonne-manifest-v2-mauvaise-nouvelle-pour-ublock-origin-et-les-bloqueurs-de-pub",
           "source": "Frandroid",
-          "summary": "Meta dévoile Muse Glimmer, un modèle d'IA dit « agentique » et distribué en open source. Un nom de plus dans la course aux agents, avec un pari maison, l'ouverture.",
-          "published": "2026-08-10T12:50:02+00:00"
+          "summary": "Après Google Chrome, Microsoft Edge abandonne Manifest V2, le socle technique qui laissait les bloqueurs de publicité travailler sans entrave. Les extensions comme uBlock Origin vont y perdre des plumes.",
+          "published": "2026-08-10T15:51:04+00:00"
         },
         {
-          "title": "La Smart #2 dévoile de nouvelles caractéristiques et fait revivre l’esprit de la Fortwo",
-          "link": "https://www.numerama.com/vroom/2308969-la-smart-2-devoile-de-nouvelles-caracteristiques-et-fait-revivre-lesprit-de-la-fortwo.html",
+          "title": "Meta dévoile Muse Glimmer et Mark Zuckerberg en profite pour dérouler sa « philosophie » de l’IA",
+          "link": "https://www.numerama.com/tech/2309129-meta-devoile-muse-glimmer-et-mark-zuckerberg-en-profite-pour-derouler-sa-philosophie-de-lia.html",
           "source": "Numerama",
-          "summary": "Les fiches d’homologation publiées par les autorités chinoises donnent quelques informations supplémentaires concernant la remplaçante de la Fortwo : 2,75 mètres, un moteur de 80 ch et une vitesse de pointe à 140 km/h.…",
-          "published": "2026-08-10T12:49:08+00:00"
+          "summary": "Meta publie Muse Glimmer, un modèle d'agent de 30 milliards de paramètres conçu pour tourner en local, sous licence ouverte. L'occasion pour Mark Zuckerberg de publier un long texte définissant sa doctrine sur l'avenir…",
+          "published": "2026-08-10T15:46:00+00:00"
         },
         {
-          "title": "Canicule : ces climatiseurs sont encore en stock et livrés rapidement par Amazon",
-          "link": "https://www.clubic.com/bons-plans-624634-canicule-le-midea-portasplit-a-nouveau-disponible-chez-amazon.html",
+          "title": "Voitures électriques : la France compte désormais plus de 200 000 bornes de recharge publiques",
+          "link": "https://www.clubic.com/actualite-624778-voitures-electriques-la-france-compte-desormais-plus-de-200-000-bornes-de-recharge-publiques.html",
           "source": "Clubic",
-          "summary": "La cinquième canicule de l'année s'abat aujourd'hui sur la France, et les climatiseurs mobiles se font de plus en plus rares.Voici les modèles encore disponibles chez Amazon, livrables rapidement avant que les stocks ne…",
-          "published": "2026-08-10T12:49:00+00:00"
+          "summary": "Le projet d'électrification de la France continue de se matérialiser. On vient ainsi d'atteindre un nouveau record dans le pays au niveau des points de recharge électrique publics.",
+          "published": "2026-08-10T15:41:00+00:00"
         },
         {
-          "title": "Le vélo électrique pliant Nakamura Flexy Boost perd 300 euros chez Intersport",
-          "link": "https://www.frandroid.com/bons-plans/2898401_le-velo-electrique-pliant-nakamura-flexy-boost-perd-300-euros-chez-intersport",
+          "title": "Le Dolby Vision 2 est là et les TV Hisense de 2026 sont les premières servies",
+          "link": "https://www.frandroid.com/actualites-generales/3207901_le-dolby-vision-2-est-la-et-les-tv-hisense-de-2026-sont-les-premieres-servies",
           "source": "Frandroid",
-          "summary": "Le Nakamura Flexy Boost est un vélo pliant à assistance électrique principalement pensé pour les déplacements urbains, à retrouver en ce moment chez Intersport pour 1 099,99 euros au lieu de 1 399,99 euros.",
-          "published": "2026-08-10T12:46:01+00:00"
+          "summary": "Après le HDR10+ Advanced sur les téléviseurs Samsung, voici le Dolby Vision 2 sur certains modèles de la marque Hisense. Lui aussi veut rendre les images encore plus belles.",
+          "published": "2026-08-10T15:34:30+00:00"
         },
         {
-          "title": "Google pourrait retirer cette fonction gratuite de Gemini ... pour la remplacer par une fonction payante ?",
-          "link": "https://www.clubic.com/actualite-624685-google-retire-discretement-cette-fonction-gratuite-de-gemini-pour-la-remplacer-par-une-fonction-payante.html",
+          "title": "Éclipse solaire : comment vous assurer de la voir le 12 août, même en ville avec un soleil rasant ?",
+          "link": "https://www.frandroid.com/culture-tech/3202043_eclipse-solaire-comment-vous-assurer-de-la-voir-le-12-aout-meme-en-ville-avec-un-soleil-rasant",
+          "source": "Frandroid",
+          "summary": "Voici quelques astuces pour vous assurer de voir l'éclipse solaire du 12 août en France malgré l'heure tardive, le soleil rasant et les potentiels obstacles à l'horizon.",
+          "published": "2026-08-10T15:30:14+00:00"
+        },
+        {
+          "title": "Offre de rentrée à durée limitée : le Mini PC GEEKOM IT13 Max à ‑15 %",
+          "link": "https://www.clubic.com/bons-plans-624406-offre-de-rentree-a-duree-limitee-le-mini-pc-geekom-it13-max-a-15.html",
           "source": "Clubic",
-          "summary": "La fin d'une fonction gratuite dans Gemini au profit d'une fonction payante ? Dès le 20 octobre 2026, Google pourrait mettre un germe aux Gems, de son assistant Gemini. Toutefois, la fonction pourrait être facturée.",
-          "published": "2026-08-10T12:33:00+00:00"
+          "summary": "Un mini PC ne se juge pas à sa taille, mais à ce qu’il encaisse. Le GEEKOM IT13 Max embarque un Intel Core Ultra 9 185H, 24 Go de LPDDR5 et un double port 2,5G dans un châssis qui se glisse sous un écran. Avec le code…",
+          "published": "2026-08-10T15:30:00+00:00"
         },
         {
-          "title": "« Saturn V était meilleure » : le patron de la NASA flingue 20 ans de choix stratégiques",
-          "link": "https://www.numerama.com/sciences/2308885-saturn-v-etait-meilleure-le-patron-de-la-nasa-flingue-20-ans-de-choix-strategiques.html",
+          "title": "Quels sont les meilleurs smartphones en 2026 ? Voici ceux que nous achèterions vraiment",
+          "link": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
           "source": "Numerama",
-          "summary": "Dans un réquisitoire, Jared Isaacman a étrillé les choix passés de la NASA, du lanceur SLS à la station orbitale Gateway. L'objectif du patron de l'agence : mettre fin au saupoudrage pour reprendre la main face à la…",
-          "published": "2026-08-10T12:31:00+00:00"
+          "summary": "Après plusieurs mois à passer d’un iPhone à un Galaxy, puis d’un Pixel à un smartphone pliant, Numerama a fait le tri. Des modèles à 300 € aux appareils qui frôlent les 2 000 €, voici les smartphones qui méritent votre…",
+          "published": "2026-08-10T15:29:29+00:00"
         },
         {
-          "title": "La moitié des entreprises européennes ne survivrait pas un jour à un kill switch américain",
-          "link": "https://www.clubic.com/actualite-624649-des-entreprises-europeennes-craignent-un-kill-switch-americain.html",
+          "title": "On a vu Undertone : le film d’horreur A24 que vous n’aviez pas vu venir est une excellente surprise",
+          "link": "https://www.numerama.com/pop-culture/2308999-on-a-vu-undertone-le-film-dhorreur-a24-que-vous-naviez-pas-vu-venir-est-une-excellente-surprise.html",
+          "source": "Numerama",
+          "summary": "Faire peur avec des images, c’est la méthode classique du cinéma d’horreur, qui a déjà fait ses preuves maintes et maintes fois. Mais faire peur avec des sons, seulement des sons, c’est déjà une autre paire de manches.…",
+          "published": "2026-08-10T15:26:48+00:00"
+        },
+        {
+          "title": "Apple met à l'essai les composants mémoires de CXMT sur ses iPhone et MacBook",
+          "link": "https://www.clubic.com/actualite-624775-apple-met-a-l-essai-les-composants-memoires-de-cxmt-sur-ses-iphone-et-macbook.html",
           "source": "Clubic",
-          "summary": "Une étude menée auprès de 1500 entreprises britanniques, françaises et allemandes mesure le niveau d'inquiétude face à une coupure d'accès aux plateformes numériques américaines. Ce risque géopolitique est désormais mis…",
-          "published": "2026-08-10T12:16:00+00:00"
+          "summary": "Le géant chinois des composants mémoires apparaît de plus en plus comme un dernier recours dans cette période de pénurie de RAM. Et Apple commence à tester cette nouvelle possibilité.",
+          "published": "2026-08-10T15:17:00+00:00"
         },
         {
-          "title": "Decathlon baisse le prix de son récent VTT électrique conçu pour les randonnées",
-          "link": "https://www.numerama.com/vroom/2308863-decathlon-baisse-le-prix-de-son-recent-vtt-electrique-concu-pour-les-randonnees.html",
-          "source": "Numerama",
-          "summary": "[Deal du jour] Parmi les références de vélos électriques que Decathlon propose, le Stilus OffRoad+ est un VTT idéal pour les randonnées. Son prix en promotion baisse de 400 €.",
-          "published": "2026-08-10T12:05:31+00:00"
-        },
-        {
-          "title": "Il demande à son agent IA de réserver un cours de sport, il se retrouve à pirater la salle",
-          "link": "https://www.numerama.com/cyberguerre/2308783-il-demande-a-son-agent-ia-de-reserver-un-cours-de-sport-il-se-retrouve-a-pirater-la-salle.html",
-          "source": "Numerama",
-          "summary": "L'agent IA d'un australien, chargé de réserver un cours de sport, a exploité une faille du site de sa salle pour le faire grimper dans la liste d'attente.",
-          "published": "2026-08-10T12:00:00+00:00"
-        },
-        {
-          "title": "Et si la meilleure console portable était une tablette ? Découvrez le REDMAGIC Astra 2 et son offre Early Bird exclusive",
-          "link": "https://www.clubic.com/actualite-621838-et-si-la-meilleure-console-portable-etait-une-tablette-decouvrez-le-redmagic-astra-2-et-son-offre-early-bird-exclusive.html",
-          "source": "Clubic",
-          "summary": "Si vous souhaitez retrouver le plaisir des jeux portables, difficile de passer à côté de REDMAGIC. En quelques années, la marque s’est taillée une place de choix auprès des gamers en proposant des machines capables…",
-          "published": "2026-08-10T12:00:00+00:00"
+          "title": "Orange gâte les étudiants pour la rentrée avec un forfait 5G de 200 Go à seulement 15,99 euros",
+          "link": "https://www.frandroid.com/bons-plans/3207929_orange-gate-les-etudiants-pour-la-rentree-avec-un-forfait-5g-de-200-go-a-seulement-1599-euros",
+          "source": "Frandroid",
+          "summary": "À l'approche de la rentrée, Orange remet en avant sa Série Spéciale Cheat_Code pour les 18-26 ans. De quoi équiper un étudiant ou un jeune actif pour l'année, à condition de bien comprendre comment s'obtient ce tarif.",
+          "published": "2026-08-10T15:14:00+00:00"
         }
       ]
     }
