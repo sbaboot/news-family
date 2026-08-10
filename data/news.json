@@ -1,14 +1,63 @@
 {
-  "generated_at": "2026-08-10T04:28:16.839285+00:00",
+  "generated_at": "2026-08-10T07:38:11.081781+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "En Iran, la répression s’est intensifiée depuis le début de la guerre",
+          "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainienne fait au moins 12 morts et des dizaines de blessés au Tatarstan",
+          "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainienne-fait-au-moins-douze-morts-et-des-dizaines-de-blesses-au-tatarstan_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres de la frontière ukrainienne, au Tatarstan, en Russie. Moscou a affirmé lundi avoir abattu plus de 450 drones ukrainiens dans la nuit…",
+          "published": "2026-08-10T07:05:47+00:00"
+        },
+        {
+          "title": "La Russie annonce plusieurs morts après avoir abattu plus de 450 drones",
+          "link": "https://www.france24.com/fr/europe/20260810-la-russie-annonce-avoir-abattu-456-drones-dans-la-nuit-plusieurs-morts",
+          "source": "France 24",
+          "summary": "La Russie a affirmé, lundi, avoir abattu 456 drones ukrainiens dans la nuit. Des frappes ont notamment ciblé des infrastructures industrielles et civiles dans la région du Tatarstan, faisant plusieurs morts, selon les…",
+          "published": "2026-08-10T06:38:26+00:00"
+        },
+        {
+          "title": "Canicules : comment la chaleur redéfinit nos critères pour choisir un logement",
+          "link": "https://www.france24.com/fr/france/20260810-canicules-comment-la-chaleur-red%C3%A9finit-nos-crit%C3%A8res-pour-choisir-un-logement",
+          "source": "France 24",
+          "summary": "Climatisation, volets, exposition : les vagues de chaleur transforment les attentes des acheteurs et locataires. Le \"confort climatique\" s’impose désormais comme un critère primordial lors de l’achat d’un appartement ou…",
+          "published": "2026-08-10T06:02:56+00:00"
+        },
+        {
+          "title": "Tour de France Femmes : Demi Vollering remporte sa deuxième Grande Boucle",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260810-tour-de-france-femmes-demi-vollering-remporte-sa-deuxi%C3%A8me-grande-boucle",
+          "source": "France 24",
+          "summary": "Demi Vollering a remporté la dernière étape du Tour de France Femmes et conservé son maillot jaune. Elle remporte son deuxième Tour après 2023.",
+          "published": "2026-08-10T05:27:37+00:00"
+        },
+        {
+          "title": "Couronne solaire, comportement animal et humain... que peuvent nous apprendre les éclipses ? (2/4)",
+          "link": "https://www.france24.com/fr/europe/20260810-couronne-solaire-comportement-animal-et-humain-que-peuvent-nous-apprendre-les-%C3%A9clipses-2-4",
+          "source": "France 24",
+          "summary": "Éclipse totale de Soleil (2/4). Le 12 août, le nord de l'Espagne sera traversé par une éclipse totale, l'un des événements astronomiques les plus attendus de la décennie en Europe. De la couronne solaire au comportement…",
+          "published": "2026-08-10T05:08:06+00:00"
+        },
+        {
+          "title": "Nouvelle Biographie du Prophète",
+          "link": "https://www.rfi.fr/fr/podcasts/le-berceau-de-l-histoire/20260810-nouvelle-biographie-du-proph%C3%A8te",
+          "source": "RFI",
+          "summary": "Invitée : Héla Ouardi. Elle avait déjà bousculé les idées reçues avec Les Califes maudits et Les derniers jours de Muhammad, l’islamologue Héla Ouardi, professeure à l’Université de Tunis et à l’Université de Metz,…",
+          "published": "2026-08-10T05:00:09+00:00"
+        },
+        {
+          "title": "En Colombie, six membres de groupes armés tués lors des premières opérations militaires du nouveau président",
+          "link": "https://www.lemonde.fr/international/article/2026/08/10/en-colombie-six-membres-de-groupes-armes-tues-lors-des-premieres-operations-militaires-du-nouveau-president_6743087_3210.html",
+          "source": "Le Monde",
+          "summary": "Ces manœuvres envoient « un message clair et percutant pour tous les bandits », a déclaré Abelardo de la Espriella, qui a dit vouloir interrompre les négociations de paix engagées par son prédécesseur de gauche, Gustavo…",
+          "published": "2026-08-10T04:33:59+00:00"
+        },
+        {
+          "title": "En Iran, la répression écrase la société civile",
           "link": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html",
           "source": "Le Monde",
-          "summary": "Depuis le début du conflit avec les Etats-Unis et Israël, le régime durcit son contrôle sur la société civile. Condamnation de la photojournaliste Yalda Moaiery, multiplication des exécutions, convocations d’artistes et…",
+          "summary": "Les autorités intensifient la suppression des espaces de liberté. La photojournaliste Yalda Moaiery a été condamnée à quinze ans d’emprisonnement, les exécutions se multiplient, les artistes sont convoqués par les…",
           "published": "2026-08-10T04:00:27+00:00"
         },
         {
@@ -24,55 +73,6 @@
           "source": "Le Monde",
           "summary": "A trois mois des midterms, l’inflation persistante et les chiffres décevants de l’emploi contribuent aux sondages en berne le « Grand Old Party ». Des fissures apparaissent dans la sphère MAGA, qui reconstitue son unité…",
           "published": "2026-08-10T04:00:16+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : la ville de Soumy visée par des frappes russes dans la nuit, selon l’administration militaire régionale",
-          "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-la-ville-de-soumy-visee-par-des-frappes-russes-dans-la-nuit-selon-l-administration-militaire-regionale_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Au moins cinq personnes ont été blessées à la suite de cette offensive, selon Oleh Hryhorov, chef de l’administration militaire de l’oblast de Soumy, qui a précisé que les frappes avaient endommagé des habitations.",
-          "published": "2026-08-10T03:58:55+00:00"
-        },
-        {
-          "title": "En Europe occidentale, une sécheresse exceptionnelle qui pèse sur les activités humaines et les écosystèmes",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/10/en-europe-occidentale-une-secheresse-exceptionnelle-qui-pese-sur-les-activites-humaines-et-les-ecosystemes_6743010_3244.html",
-          "source": "Le Monde",
-          "summary": "L’ouest du continent est marqué par des niveaux d’humidité des sols très inférieurs à ceux de juillet 2022, le « dernier été marqué par une grave sécheresse dans toute l’Europe occidentale », selon l’observatoire…",
-          "published": "2026-08-10T03:30:19+00:00"
-        },
-        {
-          "title": "Dans l’ouest de l’Allemagne, la centrale nucléaire désaffectée de Biblis veut renaître par la fusion",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/10/dans-l-ouest-de-l-allemagne-la-centrale-nucleaire-desaffectee-de-biblis-veut-renaitre-par-la-fusion_6742977_3234.html",
-          "source": "Le Monde",
-          "summary": "Cofondée par un physicien, la start-up Focused Energy s’est installée sur le site fermé en 2011 pour y bâtir un réacteur à fusion. Un pari technologique et une petite révolution pour un pays qui s’était détourné du…",
-          "published": "2026-08-10T03:15:09+00:00"
-        },
-        {
-          "title": "Moyen-Orient en direct : les Houthis lancent une attaque meurtrière contre le port de Moka, au Yémen",
-          "link": "https://www.france24.com/fr/moyen-orient/20260810-en-direct-moyen-orient-iran-etats-unis-israel-hamas-gaza-yemen-houthis-ormuz",
-          "source": "France 24",
-          "summary": "Sept personnes, parmi lesquelles des membres de l'armée et des civils, ont été tuées et 30 autres blessées dimanche dans une attaque menée par les miliciens Houthis contre la ville portuaire de Moka, située sur la côte…",
-          "published": "2026-08-10T03:05:56+00:00"
-        },
-        {
-          "title": "L'Europe de l'Ouest a connu son début d'été le plus chaud jamais enregistré",
-          "link": "https://www.france24.com/fr/plan%C3%A8te/20260810-environnement-europe-de-l-ouest-debut-ete-le-plus-chaud-jamais-enregistre-rechauffement-secheresse-incendies-el-nino",
-          "source": "France 24",
-          "summary": "Selon l'observatoire européen du changement climatique, l'Europe occidentale a connu son été le plus chaud jamais enregistré entre juin et juillet, marqué par des vagues de chaleur à répétition, une sécheresse…",
-          "published": "2026-08-10T02:45:28+00:00"
-        },
-        {
-          "title": "Le chef présumé de la « mafia irlandaise », Daniel Kinahan, inculpé après son extradition de Dubaï",
-          "link": "https://www.lemonde.fr/international/article/2026/08/10/le-chef-presume-de-la-mafia-irlandaise-daniel-kinahan-inculpe-apres-son-extradition-de-dubai_6742908_3210.html",
-          "source": "Le Monde",
-          "summary": "L’homme de 49 ans, placé en détention provisoire, est accusé d’avoir dirigé entre 2015 et 2017 les activités du KOCG, considéré comme la plus puissante organisation criminelle d’Irlande.",
-          "published": "2026-08-09T22:31:44+00:00"
-        },
-        {
-          "title": "Incendies : 370 hectares sont partis en fumée dans la Drôme, un feu se déclare en Lozère",
-          "link": "https://www.france24.com/fr/france/20260809-incendie-feu-propagation-drome-370-hectares-partis-en-fumee-pompiers-massif-claps",
-          "source": "France 24",
-          "summary": "L'incendie dans le massif du Claps, dans la Drôme, a progressé, dimanche, d'une cinquantaine d'hectares, portant désormais le total à 370 hectares brûlés. Un autre incendie s'est déclaré en Lozère, parcourant 153…",
-          "published": "2026-08-09T20:38:26+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Les océans n'avaient jamais connu de mois de juillet aussi chaud qu'en 2026, annonce Copernicus",
-          "link": "https://www.franceinfo.fr/environnement/crise-climatique/les-oceans-n-avaient-jamais-connu-de-mois-de-juillet-aussi-chaud-qu-en-2026-annonce-copernicus_8139884.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Dans son dernier bulletin, l'observatoire européen revient notamment sur une situation \"exceptionnelle\" marquée par des températures records en Europe occidentale.",
-          "published": "2026-08-10T04:16:45+00:00"
+          "title": "Guerre en Ukraine : une attaque de drones ukrainienne fait au moins 12 morts en Russie qui réplique et tue 5 Ukrainiens",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-moscou-annonce-plusieurs-morts-apres-l-interception-de-456-drones-ukrainiens-20260810",
+          "source": "Le Figaro",
+          "summary": "Douze personnes ont été tuées et 39 autres ont été blessées lundi dans une attaque ukrainienne de drones au Tatarstan, dans le centre de la Russie. Moscou a répliqué et frappé la région de Kharkiv.",
+          "published": "2026-08-10T07:34:12+00:00"
         },
         {
-          "title": "Championnats d’Europe de natation à Saint-Denis : cinq moments à ne manquer sous aucun prétexte",
-          "link": "https://www.liberation.fr/sports/championnats-deurope-de-natation-a-saint-denis-cinq-moments-a-ne-manquer-sous-aucun-pretexte-20260810_OM6Y6MCBFBEVDM3GDICPTFW574/",
+          "title": "EN DIRECT - Canicule : 22 départements en vigilance orange, des incendies en cours dans la Drôme et en Lozère",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
           "source": "Liberation",
-          "summary": "Aux côtés des athlètes français, la multimédaillée Sarah Sjöström et l’imbattable David Popovici seront au casting de la compétition.",
-          "published": "2026-08-10T04:11:00+00:00"
+          "summary": "La vague de chaleur continue de gagner du terrain ce lundi. Le pic sera atteint entre mercredi et vendredi : les 35 °C concerneront une grande partie du pays, y compris le nord de la France, selon Météo France.",
+          "published": "2026-08-10T07:30:03+00:00"
         },
         {
-          "title": "Vingt-deux départements, du Cher à la Corse, placés lundi en vigilance orange \"canicule\"",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les zones concernées sont majoritairement concentrées dans le sud-est de la France, du Var au Doubs.",
-          "published": "2026-08-10T04:09:13+00:00"
-        },
-        {
-          "title": "En Iran, la répression s’est intensifiée depuis le début de la guerre",
-          "link": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html",
-          "source": "Le Monde",
-          "summary": "Depuis le début du conflit avec les Etats-Unis et Israël, le régime durcit son contrôle sur la société civile. Condamnation de la photojournaliste Yalda Moaiery, multiplication des exécutions, convocations d’artistes et…",
-          "published": "2026-08-10T04:00:27+00:00"
+          "title": "EN DIRECT - Canicule : la vague de chaleur continue de gagner du terrain",
+          "link": "https://www.lefigaro.fr/sciences/en-direct-canicule-la-vague-de-chaleur-continue-de-gagner-du-terrain-20260810",
+          "source": "Le Figaro",
+          "summary": "Elle remonte progressivement vers le centre du pays, avec des températures souvent comprises entre 33 et 36°C, selon la Chaîne météo. Vingt-deux départements du centre et du sud-est seront en vigilance orange canicule.",
+          "published": "2026-08-10T07:29:21+00:00"
         },
         {
           "title": "Demi Vollering reine du Tour, Arthur Fils brille à Montréal, Léon Marchand forfait sur le 4 nages... Le récap' sport du week-end",
           "link": "https://www.franceinfo.fr/sports/demi-vollering-reine-du-tour-arthur-fils-brille-a-montreal-leon-marchand-forfait-sur-le-4-nages-le-recap-sport-du-week-end_8140706.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "La Néerlandaise a remporté, dimanche, le deuxième Tour de France de sa carrière en résistant à la Polonaise Kasia Niewiadoma.",
-          "published": "2026-08-10T04:00:01+00:00"
+          "published": "2026-08-10T07:27:26+00:00"
         },
         {
-          "title": "Quiz : des vers plein de fruits",
-          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-des-vers-plein-de-fruits-20260810_ETWUTSYEHJELDDQLUZYODGYKRU/",
-          "source": "Liberation",
-          "summary": "(20/30) A base de pommes, poires ou prunes, saurez-vous déguster les titres de ces chansons?",
-          "published": "2026-08-10T04:00:00+00:00"
+          "title": "L'incendie déclaré dimanche à Massegros Causses Gorges, en Lozère, a parcouru 153 hectares et est désormais \"fixé\", annonce la préfecture",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-l-incendie-declare-dimanche-a-massegros-causses-gorges-en-lozere-a-parcouru-153-hectares-et-est-desormais-fixe-annonce-la-prefecture_8141315.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Deux hameaux avaient été évacués à titre préventif. La \"quinzaine d'habitants\" concernée a pu regagner leur domicile dès dimanche soir, \"vers 22 heures\".",
+          "published": "2026-08-10T07:21:35+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : la ville de Soumy visée par des frappes russes dans la nuit, selon l’administration militaire régionale",
-          "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-la-ville-de-soumy-visee-par-des-frappes-russes-dans-la-nuit-selon-l-administration-militaire-regionale_6741928_3210.html",
+          "title": "Présidentielle 2027 : François Bayrou souhaite une grande primaire entre « tous ceux qui rejettent les extrêmes », « du PS jusqu’aux gaullistes »",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/10/presidentielle-2027-francois-bayrou-souhaite-une-grande-primaire-entre-tous-ceux-qui-rejettent-les-extremes-du-ps-jusqu-aux-gaullistes_6743156_823448.html",
           "source": "Le Monde",
-          "summary": "Au moins cinq personnes ont été blessées à la suite de cette offensive, selon Oleh Hryhorov, chef de l’administration militaire de l’oblast de Soumy, qui a précisé que les frappes avaient endommagé des habitations.",
-          "published": "2026-08-10T03:58:55+00:00"
+          "summary": "« Le risque maximum, c’est un deuxième tour entre l’extrême droite et l’extrême gauche », affirme l’ex-premier ministre, qui estime que cette « catastrophe » se produira « si nous ne portons pas au deuxième tour un…",
+          "published": "2026-08-10T07:06:51+00:00"
         },
         {
-          "title": "\"J'ai réservé un logement il y a deux ans\" : comment les passionnés d'astronomie s'organisent pour voir l'éclipse solaire du 12 août dans les meilleures conditions",
-          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/temoignages-j-ai-reserve-un-logement-il-y-a-deux-ans-comment-les-passionnes-d-astronomie-s-organisent-pour-voir-l-eclipse-solaire-du-12-aout-dans-les-meilleures-conditions_8120324.html#xtor=RSS-3-[lestitres]",
+          "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainienne fait au moins 12 morts et des dizaines de blessés au Tatarstan",
+          "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainienne-fait-au-moins-douze-morts-et-des-dizaines-de-blesses-au-tatarstan_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Le raid a visé Nijnekamsk, une ville industrielle située à environ 1 600 kilomètres de la frontière ukrainienne, au Tatarstan, en Russie. Moscou a affirmé lundi avoir abattu plus de 450 drones ukrainiens dans la nuit…",
+          "published": "2026-08-10T07:05:47+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : François Bayrou appelle à organiser une grande primaire entre «tous ceux qui rejettent les extrêmes»",
+          "link": "https://www.liberation.fr/politique/presidentielle-2027-francois-bayrou-appelle-a-organiser-une-grande-primaire-entre-tous-ceux-qui-rejettent-les-extremes-20260810_HI6DN4CYPBHUTN3BUNV6GTL3M4/",
+          "source": "Liberation",
+          "summary": "L’ex-Premier ministre propose dans un entretien au «Figaro» un vote avant l’élection entre les candidats potentiels de la branche «sociale-démocrate» du Parti Socialiste, «jusqu’aux gaullistes», pour éviter son scénario…",
+          "published": "2026-08-10T07:05:47+00:00"
+        },
+        {
+          "title": "\"Ils viennent et prennent n'importe qui\" : aux Etats-Unis, la communauté haïtienne vit dans la peur depuis la fin de leur statut de protection",
+          "link": "https://www.franceinfo.fr/monde/usa/reportage-ils-viennent-et-prennent-n-importe-qui-aux-etats-unis-la-communaute-haitienne-vit-dans-la-peur-depuis-la-fin-de-leur-statut-de-protection_8140865.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "De la location d'un camping-car au repérage des zones les plus éloignées de la foule, les personnes interrogées par franceinfo ont pensé à tout pour assister à un spectacle qui s'annonce grandiose, notamment dans le…",
-          "published": "2026-08-10T03:48:22+00:00"
+          "summary": "Des centaines de milliers d'Haïtiens risquent de devoir quitter d'eux-mêmes les États-Unis ou d'être expulsés, depuis la révocation d'un statut de protection temporaire qui leur permettait depuis 2010 de vivre et de…",
+          "published": "2026-08-10T06:59:28+00:00"
         },
         {
-          "title": "Face au risque d'avoir des incendiaires dans leurs rangs, comment les sapeurs-pompiers évaluent-ils le profil psychiatrique de leurs recrues ?",
-          "link": "https://www.franceinfo.fr/faits-divers/incendie/face-au-risque-d-avoir-des-incendiaires-dans-leurs-rangs-comment-les-sapeurs-pompiers-evaluent-ils-le-profil-psychiatrique-de-leurs-recrues_8109911.html#xtor=RSS-3-[lestitres]",
+          "title": "L'hôpital privé d'Arès en Gironde a retrouvé un \"fonctionnement normal\", plus de deux semaines après avoir été évacué à cause du feu",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/l-hopital-prive-d-ares-en-gironde-a-retrouve-un-fonctionnement-normal-plus-de-deux-semaines-apres-avoir-ete-evacue-a-cause-du-feu_8141498.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Bien qu'aucun règlement ne l'impose explicitement aux médecins chargés d'évaluer l'aptitude des candidats, certains Services départementaux d'incendie et de secours organisent des entretiens psychologiques, voire des…",
-          "published": "2026-08-10T03:45:24+00:00"
-        },
-        {
-          "title": "Canada: une femme meurt dans un vaste feu de forêt",
-          "link": "https://www.lefigaro.fr/international/canada-une-femme-meurt-dans-un-vaste-feu-de-foret-20260810",
-          "source": "Le Figaro",
-          "summary": "Cet incendie, qui s’est déclaré vendredi après-midi près du lac Okanagan, dans le sud de cette province, et a très rapidement pris de l’ampleur, a entraîné l’évacuation de plus de 20.000 personnes.",
-          "published": "2026-08-10T03:39:49+00:00"
+          "summary": "Tous les services ont rouvert et l'Ehpad a récupéré l'ensemble de ses résidents, annonce le directeur de l'établissement. Le nettoyage a nécessité plus d'une semaine de travail. L'incendie s'est arrêté à un kilomètre de…",
+          "published": "2026-08-10T06:53:28+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Le puissant Roborock H60 Ultra, avec son tube pliable, perd la moitié de son prix",
-          "link": "https://www.frandroid.com/bons-plans/3206301_le-puissant-roborock-h60-ultra-avec-son-tube-pliable-perd-la-moitie-de-son-prix",
-          "source": "Frandroid",
-          "summary": "Le Roborock H60 Ultra est un aspirateur-balai qui se démarque par son tube flexible bien pratique et par sa belle puissance d'aspiration de 210 AW. Actuellement, ce modèle est proposé à 179 euros au lieu de 349,99 euros…",
-          "published": "2026-08-09T17:44:00+00:00"
-        },
-        {
-          "title": "Découvrez Letter Up, notre jeu de société de la semaine, mélange de deux genres que tout oppose",
-          "link": "https://www.numerama.com/pop-culture/2308447-letter-up.html",
-          "source": "Numerama",
-          "summary": "Imaginez que le Scrabble et le Risk aient un bébé… Letter Up, c’est un peu ça. Un étonnant mélange entre jeu de lettres et conquête de territoires, le tout dans une version très, très légère. Un mariage des genres pour…",
-          "published": "2026-08-09T17:31:00+00:00"
-        },
-        {
-          "title": "Quels sont les meilleurs écrans PC bureautiques pour le travail et le multimédia en 2026 ?",
-          "link": "https://www.frandroid.com/guide-dachat/guides-dachat-ordinateurs/898135_quels-sont-les-meilleurs-ecrans-pc-pour-la-bureautique",
-          "source": "Frandroid",
-          "summary": "Souvent négligé, un bon écran d'ordinateur est indispensable pour travailler confortablement. Nous avons choisi pour vous les meilleurs moniteurs pour une utilisation bureautique, notamment pour le télétravail.",
-          "published": "2026-08-09T17:02:13+00:00"
-        },
-        {
-          "title": "82% de réduction chez CyberGhost : un budget VPN accessible pour les étudiants",
-          "link": "https://www.clubic.com/bons-plans-624355-de-reduction-chez-cyberghost-un-budget-vpn-accessible-pour-les-etudiants.html",
+          "title": "SpaceX : la méga usine « Terafab » tournera au gaz naturel, exit le solaire de Tesla",
+          "link": "https://www.clubic.com/actualite-624586-spacex-son-usine-terafab-fonctionnera-au-gaz-naturel-pas-aux-panneaux-solaires-tesla.html",
           "source": "Clubic",
-          "summary": "À l'approche de la rentrée, les réseaux Wi-Fi partagés des résidences universitaires, des colocations et des bibliothèques exposent souvent les données personnelles des étudiants à des regards indiscrets. CyberGhost VPN…",
-          "published": "2026-08-09T16:45:00+00:00"
+          "summary": "SpaceX construit sa propre centrale à gaz naturel pour alimenter Terafab, sa méga usine de semi-conducteurs au Texas. Un choix qui interroge forcément alors que Tesla est un partenaire clé du projet.",
+          "published": "2026-08-10T07:33:00+00:00"
         },
         {
-          "title": "On a classé les vieux films X-Men, du pire au meilleur",
-          "link": "https://www.numerama.com/pop-culture/2305835-on-a-classe-les-vieux-films-x-men-du-pire-au-meilleur.html",
+          "title": "Le nouveau personnage d’Overwatch est D.Va 2.0, mais Blizzard assure que ce n’est pas D.Va 2.0",
+          "link": "https://www.numerama.com/pop-culture/2308687-le-nouveau-personnage-doverwatch-est-d-va-2-0-mais-blizzard-assure-que-ce-nest-pas-d-va-2-0.html",
           "source": "Numerama",
-          "summary": "Les X-Men s'apprêtent à revenir en force dans le Marvel Cinematic Universe. Les anciens feront une apparition remarquée dans Avengers: Doomsday, et une nouvelle génération est déjà prévue pour l'après Avengers: Secret…",
-          "published": "2026-08-09T16:30:00+00:00"
+          "summary": "Yuna « D.Mon » Lee sera le nouveau personnage qui rejoindra le casting très fourni d'Overwatch. Et si elle vous dit quelque chose, c'est normal : D.Mon&nbsp;est le deuxième héros pilotant un mécha après D.Va, et les…",
+          "published": "2026-08-10T07:32:39+00:00"
         },
         {
-          "title": "Test du Tecno MegaBook T14 Air : cet ultraportable aux airs de MacBook Neo vaut-il le coup ?",
-          "link": "https://www.frandroid.com/marques/tecno/3186103_test-du-tecno-megabook-t14-air-cet-ultraportable-aux-airs-de-macbook-neo-vaut-il-le-coup",
+          "title": "Faillite du n°1 du vélo en Europe : une fondation se mobilise pour protéger les propriétaires de vélos Babboe",
+          "link": "https://www.frandroid.com/survoltes/velo-electrique/3207327_faillite-du-n1-du-velo-en-europe-une-fondation-se-mobilise-pour-proteger-les-proprietaires-de-velos-babboe",
           "source": "Frandroid",
-          "summary": "La marque chinoise Tecno investit peu à peu le marché PC français, cette fois avec un ultrabook à la fiche technique solide sur le papier, proposé à un tarif proche du MacBook Neo. Voyons ce qu'il a dans le ventre.",
-          "published": "2026-08-09T16:02:00+00:00"
+          "summary": "Aux Pays-Bas, la fondation Safe Cargo Bike Foundation demande aux propriétaires de vélos cargo Babboe de lui donner procuration pour défendre leurs intérêts si Accell, la maison mère, venait à faire faillite.",
+          "published": "2026-08-10T07:24:49+00:00"
         },
         {
-          "title": "Oppo Find X9 Ultra vs Samsung Galaxy S26 Ultra : quel smartphone choisir ?",
-          "link": "https://www.frandroid.com/versus/3124635_oppo-find-x9-ultra-vs-samsung-galaxy-s26-ultra-quel-smartphone-choisir",
-          "source": "Frandroid",
-          "summary": "Un duel de titans ! Oppo est définitivement de retour dans la course et signe avec son Find X9 Ultra un challenger terrifiant pour les maîtres de la photo sur smartphone. Comment se défend le Samsung Galaxy S26 Ultra…",
-          "published": "2026-08-09T16:00:00+00:00"
-        },
-        {
-          "title": "À peine redémarrée, la centrale nucléaire de Golfech doit déjà s'arrêter",
-          "link": "https://www.clubic.com/actualite-624574-a-peine-redemarree-la-centrale-nucleaire-de-golfech-doit-deja-s-arreter.html",
+          "title": "Ventes Flash : voici les 10 meilleurs produits tech en promo chez Amazon ce lundi",
+          "link": "https://www.clubic.com/bons-plans-624502-ventes-flash-10-offres-amazon-pour-s-equiper-malin-ce-week-end.html",
           "source": "Clubic",
-          "summary": "EDF a de nouveau arrêté le seul réacteur en activité de la centrale nucléaire de Golfech (Tarn-et-Garonne), samedi 8 août au soir, quatre jours après son redémarrage. En cause, selon le fournisseur, la hausse de la…",
-          "published": "2026-08-09T15:54:00+00:00"
+          "summary": "La rentrée arrive dans trois semaines et les premières bonnes affaires ne se font pas attendre. Amazon déroule dix Ventes Flash ce lundi, du robot aspirateur au mini PC, pendant quelques heures seulement.",
+          "published": "2026-08-10T07:04:00+00:00"
         },
         {
-          "title": "Cette souris gaming révolutionnaire noté 9/10 chute sous les 150 € chez Boulanger",
-          "link": "https://www.frandroid.com/bons-plans/3206575_cette-souris-gaming-revolutionnaire-note-9-10-chute-sous-les-150-e-chez-boulanger",
+          "title": "Microsoft Edge enterre à son tour Manifest V2",
+          "link": "https://next.ink/250894/microsoft-edge-enterre-a-son-tour-manifest-v2/",
+          "source": "Next",
+          "summary": "Edge va marcher dans les pas de Chrome, en abandonnant Manifest V2 pour la version 3 du format technique des extensions de navigateur. La transition est programmée pour ce mois, ce qui signifie qu&#8217;uBlock Origin et…",
+          "published": "2026-08-10T06:56:00+00:00"
+        },
+        {
+          "title": "Faillite du n°1 du vélo en Europe : 370 salaires versés jusqu’à octobre 2026, la course contre la montre est lancée pour les filiales allemandes",
+          "link": "https://www.frandroid.com/marques/3207291_faillite-du-n1-du-velo-en-erope-370-salaires-verses-jusqua-octobre-2026-la-course-contre-la-montre-est-lancee-pour-les-filiales-allemandes",
           "source": "Frandroid",
-          "summary": "La Logitech G Pro X2 Superstrike offre un intéressant mélange entre continuité, avec un design déjà vu, et nouveauté grâce au système HITS. Chez Boulanger, elle est disponible avec une réduction de 12 %.",
-          "published": "2026-08-09T15:35:00+00:00"
+          "summary": "Après l'effondrement d'Accell, numéro un européen du vélo, ses filiales allemandes Haibike, Ghost et Winora se placent à leur tour sous protection judiciaire.",
+          "published": "2026-08-10T06:54:59+00:00"
         },
         {
-          "title": "On vous explique le RAG : la mécanique invisible derrière chaque source citée par une IA",
-          "link": "https://www.numerama.com/tech/2308149-on-vous-explique-le-rag-la-mecanique-invisible-derriere-chaque-source-citee-par-une-ia.html",
+          "title": "Proton aurait pu sauver Mozilla et Firefox, mais a plié devant Chromium",
+          "link": "https://www.clubic.com/dossier-624571-pourquoi-proton-construit-son-navigateur-sur-le-moteur-qu-il-critiquait.html",
+          "source": "Clubic",
+          "summary": "La semaine dernière, nous apprenions que Proton recrutait pour développer un navigateur basé sur Chromium, la technologie de Google. Pourtant, sur son propre blog, l'entreprise suisse explique que le déclin de Firefox…",
+          "published": "2026-08-10T06:47:00+00:00"
+        },
+        {
+          "title": "Bouygues Telecom dégaine la première box de la rentrée, et le tarif fait déjà mal à la concurrence",
+          "link": "https://www.frandroid.com/bons-plans/3206623_bouygues-telecom-degaine-la-premiere-box-de-la-rentree-et-le-tarif-fait-deja-mal-a-la-concurrence",
+          "source": "Frandroid",
+          "summary": "La rentrée n'a pas encore sonné que Bouygues Telecom sort déjà sa box promo. À 27,99 euros par mois, la Bbox rentrée réunit la fibre, un décodeur TV 4K HDR et la téléphonie fixe. Un triple play complet et bien tarifé, à…",
+          "published": "2026-08-10T06:34:00+00:00"
+        },
+        {
+          "title": "Calculez votre score de « souveraineté » mobile avec cette application",
+          "link": "https://www.frandroid.com/android/applications/3207271_calculez-votre-score-de-souverainete-mobile-avec-cette-application",
+          "source": "Frandroid",
+          "summary": "Reprendre le contrôle sur ses données personnelles est redevenu à la mode à la faveur des tensions américano-européennes. Une nouvelle application open source vous aide à voir à quel point vous avez réussi à vous…",
+          "published": "2026-08-10T06:30:12+00:00"
+        },
+        {
+          "title": "Mario et Pikachu utilisés par la Maison-Blanche : le Japon demande aux États-Unis d'arrêter",
+          "link": "https://www.clubic.com/actualite-624583-mario-et-pikachu-utilises-par-la-maison-blanche-le-japon-demande-aux-etats-unis-d-arreter.html",
+          "source": "Clubic",
+          "summary": "Depuis septembre 2025, l’administration américaine diffuse, sur des comptes officiels, des vidéos politiques et militaires reprenant Pokémon, Mario ou Naruto sans l’accord des ayants droit. Le ministère japonais des…",
+          "published": "2026-08-10T06:30:00+00:00"
+        },
+        {
+          "title": "Blizzard Entertainment est une lueur d’espoir dans la période morose traversée par Xbox",
+          "link": "https://www.numerama.com/pop-culture/2308677-blizzard-entertainment-est-une-lueur-despoir-dans-la-periode-morose-traversee-par-xbox.html",
           "source": "Numerama",
-          "summary": "Il y a encore trois ans, une IA qui citait ses sources tenait de l'exception. Aujourd'hui, c'est presque devenu la norme. Entre les deux, l'avènement d'une technique née dans un labo de recherche : le RAG.",
-          "published": "2026-08-09T15:01:57+00:00"
+          "summary": "En s'offrant Activision il y a quelques années, Microsoft s'est aussi payé Blizzard Entertainment. Et l'entreprise derrière Diablo, Warcraft ou encore Overwatch est désormais le studio numéro 1 de la multinationale.",
+          "published": "2026-08-10T06:11:26+00:00"
         },
         {
-          "title": "Une faille critique de BTCPay Server permet de voler des bitcoins",
-          "link": "https://www.clubic.com/actualite-624577-une-faille-critique-de-btcpay-server-permet-de-voler-des-bitcoins.html",
-          "source": "Clubic",
-          "summary": "BTCPay Server, un processeur de paiement Bitcoin open source utilisé par des milliers de commerçants, a publié en urgence une version corrigée après la découverte d’une faille critique. Des attaquants ont exploité la…",
-          "published": "2026-08-09T14:42:00+00:00"
-        },
-        {
-          "title": "On a essayé le Leapmotor A10 (B03X) de Stellantis : le SUV électrique à 23 400 € armé d’un LiDAR",
-          "link": "https://www.frandroid.com/marques/leapmotor/3190547_on-a-essaye-le-leapmotor-a10-b03x-de-stellantis-le-suv-electrique-a-23-400-e-arme-dun-lidar",
-          "source": "Frandroid",
-          "summary": "Stellantis lance son arme anti-Renault 4 E-Tech. Conçu en Chine et importé en Europe, le Leapmotor A10 (baptisé B03X sur notre marché) débarque dès 23 400 euros avec une fiche technique survoltée. Équipé d'un LiDAR pour…",
-          "published": "2026-08-09T14:01:00+00:00"
+          "title": "Modernisation et performances de Windows 11 : Microsoft a encore des choses à dire",
+          "link": "https://next.ink/250877/modernisation-et-performances-de-windows-11-microsoft-a-encore-des-choses-a-dire/",
+          "source": "Next",
+          "summary": "Plusieurs publications récentes montrent encore un peu plus la manière dont Microsoft négocie le virage actuel de Windows 11. Outre des explications sur la complexité d’une modernisation à marche forcée pour des raisons…",
+          "published": "2026-08-10T06:03:00+00:00"
         }
       ]
     }
