@@ -1,11 +1,67 @@
 {
-  "generated_at": "2026-08-10T01:41:49.108957+00:00",
+  "generated_at": "2026-08-10T04:28:16.839285+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Le chef présumé de la « mafia irlandaise », Daniel Kinahan, inculpé après son extradition de Dubäi",
+          "title": "En Iran, la répression s’est intensifiée depuis le début de la guerre",
+          "link": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html",
+          "source": "Le Monde",
+          "summary": "Depuis le début du conflit avec les Etats-Unis et Israël, le régime durcit son contrôle sur la société civile. Condamnation de la photojournaliste Yalda Moaiery, multiplication des exécutions, convocations d’artistes et…",
+          "published": "2026-08-10T04:00:27+00:00"
+        },
+        {
+          "title": "« La seule chance pour que le pays se relève » : au Venezuela, le rebond de l’activité pétrolière sous le contrôle « néocolonial » des Etats-Unis",
+          "link": "https://www.lemonde.fr/international/article/2026/08/10/la-seule-chance-pour-que-le-pays-se-releve-au-venezuela-le-rebond-de-l-activite-petroliere-sous-le-controle-neocolonial-des-etats-unis_6743081_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que Donald Trump affiche sa volonté de mettre sous tutelle l’exploitation du pétrole vénézuélien, les experts fustigent l’« opacité totale » de la gestion des revenus de cette activité. Les organisations…",
+          "published": "2026-08-10T04:00:21+00:00"
+        },
+        {
+          "title": "Aux Etats-Unis, le camp républicain face aux vents contraires avant les élections de mi-mandat",
+          "link": "https://www.lemonde.fr/international/article/2026/08/10/aux-etats-unis-le-camp-republicain-face-aux-vents-contraires-avant-les-elections-de-mi-mandat_6743085_3210.html",
+          "source": "Le Monde",
+          "summary": "A trois mois des midterms, l’inflation persistante et les chiffres décevants de l’emploi contribuent aux sondages en berne le « Grand Old Party ». Des fissures apparaissent dans la sphère MAGA, qui reconstitue son unité…",
+          "published": "2026-08-10T04:00:16+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : la ville de Soumy visée par des frappes russes dans la nuit, selon l’administration militaire régionale",
+          "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-la-ville-de-soumy-visee-par-des-frappes-russes-dans-la-nuit-selon-l-administration-militaire-regionale_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Au moins cinq personnes ont été blessées à la suite de cette offensive, selon Oleh Hryhorov, chef de l’administration militaire de l’oblast de Soumy, qui a précisé que les frappes avaient endommagé des habitations.",
+          "published": "2026-08-10T03:58:55+00:00"
+        },
+        {
+          "title": "En Europe occidentale, une sécheresse exceptionnelle qui pèse sur les activités humaines et les écosystèmes",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/10/en-europe-occidentale-une-secheresse-exceptionnelle-qui-pese-sur-les-activites-humaines-et-les-ecosystemes_6743010_3244.html",
+          "source": "Le Monde",
+          "summary": "L’ouest du continent est marqué par des niveaux d’humidité des sols très inférieurs à ceux de juillet 2022, le « dernier été marqué par une grave sécheresse dans toute l’Europe occidentale », selon l’observatoire…",
+          "published": "2026-08-10T03:30:19+00:00"
+        },
+        {
+          "title": "Dans l’ouest de l’Allemagne, la centrale nucléaire désaffectée de Biblis veut renaître par la fusion",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/10/dans-l-ouest-de-l-allemagne-la-centrale-nucleaire-desaffectee-de-biblis-veut-renaitre-par-la-fusion_6742977_3234.html",
+          "source": "Le Monde",
+          "summary": "Cofondée par un physicien, la start-up Focused Energy s’est installée sur le site fermé en 2011 pour y bâtir un réacteur à fusion. Un pari technologique et une petite révolution pour un pays qui s’était détourné du…",
+          "published": "2026-08-10T03:15:09+00:00"
+        },
+        {
+          "title": "Moyen-Orient en direct : les Houthis lancent une attaque meurtrière contre le port de Moka, au Yémen",
+          "link": "https://www.france24.com/fr/moyen-orient/20260810-en-direct-moyen-orient-iran-etats-unis-israel-hamas-gaza-yemen-houthis-ormuz",
+          "source": "France 24",
+          "summary": "Sept personnes, parmi lesquelles des membres de l'armée et des civils, ont été tuées et 30 autres blessées dimanche dans une attaque menée par les miliciens Houthis contre la ville portuaire de Moka, située sur la côte…",
+          "published": "2026-08-10T03:05:56+00:00"
+        },
+        {
+          "title": "L'Europe de l'Ouest a connu son début d'été le plus chaud jamais enregistré",
+          "link": "https://www.france24.com/fr/plan%C3%A8te/20260810-environnement-europe-de-l-ouest-debut-ete-le-plus-chaud-jamais-enregistre-rechauffement-secheresse-incendies-el-nino",
+          "source": "France 24",
+          "summary": "Selon l'observatoire européen du changement climatique, l'Europe occidentale a connu son été le plus chaud jamais enregistré entre juin et juillet, marqué par des vagues de chaleur à répétition, une sécheresse…",
+          "published": "2026-08-10T02:45:28+00:00"
+        },
+        {
+          "title": "Le chef présumé de la « mafia irlandaise », Daniel Kinahan, inculpé après son extradition de Dubaï",
           "link": "https://www.lemonde.fr/international/article/2026/08/10/le-chef-presume-de-la-mafia-irlandaise-daniel-kinahan-inculpe-apres-son-extradition-de-dubai_6742908_3210.html",
           "source": "Le Monde",
           "summary": "L’homme de 49 ans, placé en détention provisoire, est accusé d’avoir dirigé entre 2015 et 2017 les activités du KOCG, considéré comme la plus puissante organisation criminelle d’Irlande.",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "L'incendie dans le massif du Claps, dans la Drôme, a progressé, dimanche, d'une cinquantaine d'hectares, portant désormais le total à 370 hectares brûlés. Un autre incendie s'est déclaré en Lozère, parcourant 153…",
           "published": "2026-08-09T20:38:26+00:00"
-        },
-        {
-          "title": "Des relations dégradées entre Pretoria et Abuja après le retour des ressortissants Nigérians",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260809-des-relations-d%C3%A9grad%C3%A9es-entre-pretoria-et-abuja-apr%C3%A8s-le-retour-des-ressortissants-nig%C3%A9rians",
-          "source": "France 24",
-          "summary": "Nigeria et Afrique du Sud, deux puissances africaines, deux moteurs de la zone de libre-échange continentale. Mais aujourd’hui leurs relations sont au plus bas. Abuja accuse Pretoria de xénophobie et de mauvais…",
-          "published": "2026-08-09T20:32:04+00:00"
-        },
-        {
-          "title": "Israël : Benjamin Netanyahu \"rejette\" le plan américain pour Gaza, accepté par le Hamas",
-          "link": "https://www.france24.com/fr/moyen-orient/20260809-premier-ministre-israelien-rejette-plan-americain-pour-gaza-accepte-par-hamas-donald-trump-benjamin-netanyahu",
-          "source": "France 24",
-          "summary": "En campagne électorale, le Premier ministre israélien a réaffirmé dimanche son rejet du dernier plan en 15 points de Donald Trump pour Gaza, alors même que l'armée israélienne a, de fait, suspendu ses attaques dans le…",
-          "published": "2026-08-09T19:43:40+00:00"
-        },
-        {
-          "title": "🔴 La Néerlandaise Demi Vollering remporte le Tour de France femmes et s'offre un deuxième sacre",
-          "link": "http://france24.com/fr/sports/20260809-tour-de-france-neerlandaise-demi-vollering-offre-deuxieme-sacre",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-08-09T17:00:11+00:00"
-        },
-        {
-          "title": "Tour de France femmes : la Néerlandaise Demi Vollering s'offre une deuxième Grande Boucle",
-          "link": "https://www.france24.com/fr/sports/20260809-tour-de-france-neerlandaise-demi-vollering-offre-deuxieme-sacre",
-          "source": "France 24",
-          "summary": "Après une victoire en 2023, la Néerlandaise Demi Vollering a remporté dimanche son deuxième Tour de France femmes, devançant la Polonaise Kasia Niewiadoma au classement général. Elle était arrivée en deuxième position…",
-          "published": "2026-08-09T16:57:40+00:00"
-        },
-        {
-          "title": "En images, trente ans après le meurtre de Tupac Shakur, le procès s’ouvre",
-          "link": "https://www.lemonde.fr/videos/video/2026/08/09/en-images-trente-ans-apres-le-meurtre-de-tupac-shakur-le-proces-s-ouvre_6742706_1669088.html",
-          "source": "Le Monde",
-          "summary": "Le procès de l’ancien chef de gang Duane « Keefe D » Davis, accusé d’avoir organisé et participé au meurtre du célèbre rappeur, s’ouvre ce lundi.",
-          "published": "2026-08-09T16:46:11+00:00"
-        },
-        {
-          "title": "Népal : les corps de cinq alpinistes récupérés sur le mont Yalung Ri, huit mois après leur disparition dans une avalanche",
-          "link": "https://www.lemonde.fr/international/article/2026/08/09/nepal-les-corps-de-cinq-alpinistes-recuperes-sur-le-mont-yalung-ri-huit-mois-apres-leur-disparition-dans-une-avalanche_6742705_3210.html",
-          "source": "Le Monde",
-          "summary": "Deux Népalais, un Italo-Canadien, un Allemand et un Italien avaient été emportés par une avalanche en novembre 2025 sur les flancs de ce mont qui culmine à 5 630 mètres. Leurs corps ont été retrouvés jeudi.",
-          "published": "2026-08-09T16:46:07+00:00"
-        },
-        {
-          "title": "La Syrie annonce un accord sur le sort des bases russes situées sur la côte méditerranéenne",
-          "link": "https://www.france24.com/fr/moyen-orient/20260809-syrie-annonce-accord-sort-bases-russes-cote-mediterraneene-bachar-al-assad-tartous-hmeimim-installations-militaires-accord-vladimir-poutine",
-          "source": "France 24",
-          "summary": "Fruit d'un an et demi de négociations, un accord a été trouvé entre Damas et Moscou sur l'avenir de deux bases russes sur le territoire syrien, a annoncé le ministère syrien des Affaires étrangères dimanche. Les…",
-          "published": "2026-08-09T16:20:43+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : un drone de combat explose en Moldavie, près de la frontière entre les deux pays",
-          "link": "https://www.lemonde.fr/international/live/2026/08/09/en-direct-guerre-en-ukraine-un-drone-de-combat-explose-en-moldavie-pres-de-la-frontiere-entre-les-deux-pays_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Une « puissante explosion », qui serait due à un drone de combat, a été signalée dans le village de Crocmaz, dans le sud-est de la Moldavie. Les fragments sont analysés par des spécialistes.",
-          "published": "2026-08-09T16:10:59+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Omnium Banque Nationale | Ben Shelton défait Joao Fonseca",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-09/omnium-banque-nationale/ben-shelton-defait-joao-fonseca.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ben Shelton a révélé avant son premier duel à l’Omnium Banque Nationale qu’il souhaitait disputer le plus de matchs possible avant les Internationaux des États-Unis. Il pourra en jouer au moins un de plus en quart de…",
-          "published": "2026-08-10T00:14:04+00:00"
-        },
-        {
-          "title": "Quoi retenir de la fin de semaine?",
-          "link": "https://www.ledevoir.com/actualites/1000820/quoi-retenir-fin-semaine",
+          "title": "La Défense nationale nie avoir retiré le statut «bilingue» à certaines unités",
+          "link": "https://www.ledevoir.com/politique/canada/1000802/defense-nationale-nie-avoir-retire-statut-bilingue-certaines-unites",
           "source": "Le Devoir",
-          "summary": "L’actualité du week-end des 8 et 9 août en résumé.",
-          "published": "2026-08-09T23:00:00+00:00"
+          "summary": "Il s’agit d’une question «d’uniformisation», dit le directeur des langues officielles du ministère de la Défense.",
+          "published": "2026-08-10T04:00:00+00:00"
         },
         {
-          "title": "Propreté | La nature fait-elle sortir le meilleur de l’humain ?",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-09/proprete/la-nature-fait-elle-sortir-le-meilleur-de-l-humain.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Après avoir lu récemment les deux excellents textes de la chroniqueuse Nathalie Collard sur la propreté de Montréal⁠1, 2, j’ai continué d’être habité par une réflexion. Au-delà du nombre de poubelles ou de la fréquence…",
-          "published": "2026-08-09T23:00:00+00:00"
-        },
-        {
-          "title": "À surveiller dans le monde des affaires",
-          "link": "https://www.ledevoir.com/economie/1000817/surveiller-monde-affaires",
+          "title": "«Traumathys»: écrire la rue",
+          "link": "https://www.ledevoir.com/lire/1000661/traumathys-ecrire-rue",
           "source": "Le Devoir",
-          "summary": "Cinq éléments à surveiller dans le monde des affaires au Canada au cours de la semaine à venir.",
-          "published": "2026-08-09T22:55:59+00:00"
+          "summary": "David Goudreault explore l’itinérance dans un récit nourri par des mois de recherches et de rencontres sur le terrain.",
+          "published": "2026-08-10T04:00:00+00:00"
         },
         {
-          "title": "Condamné deux fois, Meta affrontera un nouveau procès périlleux en Californie",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1000814/condamne-deux-fois-meta-affrontera-nouveau-proces-perilleux-californie",
+          "title": "La renaissance du vélo à Pékin",
+          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1000646/renaissance-velo-pekin",
           "source": "Le Devoir",
-          "summary": "Quatre États veulent démontrer que le groupe a rendu Instagram et Facebook addictifs pour les mineurs.",
-          "published": "2026-08-09T22:47:00+00:00"
+          "summary": "La capitale chinoise s’inspire d’Amsterdam pour venir à bout de la congestion causée par l’explosion du nombre de voitures.",
+          "published": "2026-08-10T04:00:00+00:00"
         },
         {
-          "title": "Manifestation contre le réaménagement du stade IGA | « Ne touchez pas à notre parc »",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-09/manifestation-contre-le-reamenagement-du-stade-iga/ne-touchez-pas-a-notre-parc.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Le parc aux citoyens ! Pas un pouce de plus ! »",
-          "published": "2026-08-09T21:57:58+00:00"
-        },
-        {
-          "title": "Pierre Poilievre demande à Mark Carney de ne pas céder face aux États-Unis",
-          "link": "https://www.ledevoir.com/politique/canada/1000805/pierre-poilievre-demande-mark-carney-ne-pas-ceder-face-etats-unis",
+          "title": "Nouveau traitement prometteur pour les allergies alimentaires",
+          "link": "https://www.ledevoir.com/actualites/science/1000796/nouveau-traitement-prometteur-allergies-alimentaires",
           "source": "Le Devoir",
-          "summary": "Ils reprochent au gouvernement d’avoir trop cédé, notamment en supprimant la taxe sur les services numériques.",
-          "published": "2026-08-09T21:48:00+00:00"
+          "summary": "Une transplantation de microbiote fécal a été expérimentée avec succès sur un groupe fortement allergique aux arachides.",
+          "published": "2026-08-10T04:00:00+00:00"
         },
         {
-          "title": "Des images montrent les ravages causés par les feux de forêt en Colombie-Britannique",
-          "link": "https://www.ledevoir.com/actualites/environnement/1000799/images-montrent-ravages-causes-feux-foret-colombie-britannique",
+          "title": "Le privé coûte-t-il vraiment 35% plus cher ou Québec pose-t-il la mauvaise question?",
+          "link": "https://www.ledevoir.com/opinion/idees/1000787/prive-coute-il-vraiment-35-plus-cher-ou-quebec-pose-il-mauvaise-question",
           "source": "Le Devoir",
-          "summary": "Faulder, à l’ouest de Summerland, a été l’une des premières localités à être envahie par les flammes.",
-          "published": "2026-08-09T21:26:00+00:00"
+          "summary": "Le problème est dans la manière dont la CAQ achète ces services : dans l’urgence, avec des contrats mal structurés.",
+          "published": "2026-08-10T04:00:00+00:00"
         },
         {
-          "title": "Omnium Banque Nationale | Le parcours de Leylah Annie Fernandez s’arrête contre Naomi Osaka",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-09/omnium-banque-nationale/le-parcours-de-leylah-annie-fernandez-s-arrete-contre-naomi-osaka.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Leylah Annie Fernandez avait causé la surprise au troisième tour de l’Omnium Banque Nationale de Toronto en défaisant la cinquième raquette mondiale, Mirra Andreeva, mais elle n’a pas été en mesure de recréer cette…",
-          "published": "2026-08-09T21:24:10+00:00"
-        },
-        {
-          "title": "Nagasaki commémore le 81e anniversaire du bombardement atomique",
-          "link": "https://www.ledevoir.com/monde/asie/1000793/nagasaki-commemore-81e-anniversaire-bombardement-atomique",
+          "title": "Les métaux de la transition énergétique seront-ils les contaminants de demain?",
+          "link": "https://www.ledevoir.com/opinion/idees/1000679/metaux-transition-energetique-seront-ils-contaminants-demain",
           "source": "Le Devoir",
-          "summary": "La ville a appelé le gouvernement japonais à respecter ses trois principes de non-nucléarisation.",
-          "published": "2026-08-09T20:45:00+00:00"
+          "summary": "La science se trouve aujourd’hui dans un espace inconfortable sur la question.",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "La photo selon Michel Campeau",
+          "link": "https://www.ledevoir.com/culture/1000808/photo-selon-michel-campeau",
+          "source": "Le Devoir",
+          "summary": "En décrivant les lieux où la photographie s’est fabriquée, il réalise aussi, son propre autoportrait.",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Rendre justice à la neurodivergence sous-estimée",
+          "link": "https://www.ledevoir.com/opinion/idees/1000676/rendre-justice-neurodivergence-sous-estimee",
+          "source": "Le Devoir",
+          "summary": "Hommage à ma blonde qui a su déployer l’énergie dont j’ai besoin pour affronter le cancer.",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Les étudiants internationaux ne sont pas que des chiffres",
+          "link": "https://www.ledevoir.com/opinion/idees/1000790/etudiants-internationaux-ne-sont-pas-chiffres",
+          "source": "Le Devoir",
+          "summary": "Pour attirer les étudiants les plus brillants du monde, le Canada doit construire un système d’immigration stable.",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "Équiterre plaide pour la fin de la lune de miel entre le Québec et Mark Carney",
+          "link": "https://www.ledevoir.com/politique/canada/1000775/equiterre-plaide-fin-lune-miel-entre-quebec-mark-carney",
+          "source": "Le Devoir",
+          "summary": "Son nouveau d.g, Daniel Rotman, croit que les Québécois ont déchanté après la démission de Steven Guilbeault.",
+          "published": "2026-08-10T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Le chef présumé de la « mafia irlandaise », Daniel Kinahan, inculpé après son extradition de Dubäi",
-          "link": "https://www.lemonde.fr/international/article/2026/08/10/le-chef-presume-de-la-mafia-irlandaise-daniel-kinahan-inculpe-apres-son-extradition-de-dubai_6742908_3210.html",
-          "source": "Le Monde",
-          "summary": "L’homme de 49 ans, placé en détention provisoire, est accusé d’avoir dirigé entre 2015 et 2017 les activités du KOCG, considéré comme la plus puissante organisation criminelle d’Irlande.",
-          "published": "2026-08-09T22:31:44+00:00"
-        },
-        {
-          "title": "La victoire de Demi Vollering au Tour de France consacre le triomphe de « la meilleure cycliste au monde » et d’un collectif dévoué à la quête du maillot jaune",
-          "link": "https://www.lemonde.fr/sport/article/2026/08/10/la-victoire-de-demi-vollering-au-tour-de-france-consacre-le-triomphe-de-la-meilleure-cycliste-au-monde-et-d-un-collectif-devoue-a-la-quete-du-maillot-jaune_6742907_3242.html",
-          "source": "Le Monde",
-          "summary": "La Néerlandaise a remporté, dimanche, la deuxième Grande Boucle de sa carrière. Dans une épreuve longtemps indécise, elle a pu compter sur le soutien sans faille de ses coéquipières de la formation FDJ United-Suez.",
-          "published": "2026-08-09T22:31:28+00:00"
-        },
-        {
-          "title": "Aux Journées internationales de Corte, le jeu en miroir des indépendantistes avec le FLNC sur le peuple corse",
-          "link": "https://www.lemonde.fr/politique/article/2026/08/10/aux-journees-internationales-de-corte-le-jeu-en-miroir-des-independantistes-avec-le-flnc-sur-le-peuple-corse_6742874_823448.html",
-          "source": "Le Monde",
-          "summary": "Dans leur prise de parole, dimanche, les cadres du parti Nazione ont dressé un constat quasiment identique à celui des clandestins du FLNC, qui ont récemment menacé les « non-Corses » venant s’installer dans l’île.",
-          "published": "2026-08-09T22:05:00+00:00"
-        },
-        {
-          "title": "Don Nelson, légende de la NBA et des Boston Celtics, est mort à l’âge de 86 ans",
-          "link": "https://www.lemonde.fr/sport/article/2026/08/09/don-nelson-legende-de-la-nba-et-des-boston-celtics-est-mort-a-l-age-de-86-ans_6742873_3242.html",
-          "source": "Le Monde",
-          "summary": "Considéré comme l’un des entraîneurs les plus influents de la NBA, ce technicien a contribué à populariser un jeu plus rapide et offensif. Il a également participé à l’ascension de futurs MVP, comme Dirk Nowitzki et…",
-          "published": "2026-08-09T21:46:36+00:00"
-        },
-        {
-          "title": "\"Le feu bouge incroyablement vite\" : un incendie dévaste 10 000 hectares au Canada",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-feu-bouge-incroyablement-vite-un-incendie-devaste-10-000-hectares-au-canada_8141162.html#xtor=RSS-3-[lestitres]",
+          "title": "Les océans n'avaient jamais connu de mois de juillet aussi chaud qu'en 2026, annonce Copernicus",
+          "link": "https://www.franceinfo.fr/environnement/crise-climatique/les-oceans-n-avaient-jamais-connu-de-mois-de-juillet-aussi-chaud-qu-en-2026-annonce-copernicus_8139884.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Au Canada, l’État d’urgence a été décrété. Depuis le vendredi 7 août, un gigantesque incendie sévit en Colombie-Britannique, à l’ouest du pays. Plus de 10 000 hectares ont brûlé et 20 000 personnes ont dû être évacuées.",
-          "published": "2026-08-09T21:29:35+00:00"
+          "summary": "Dans son dernier bulletin, l'observatoire européen revient notamment sur une situation \"exceptionnelle\" marquée par des températures records en Europe occidentale.",
+          "published": "2026-08-10T04:16:45+00:00"
         },
         {
-          "title": "«Mafia irlandaise» : Daniel Kinahan, chef présumé d’un puissant cartel, inculpé après son extradition de Dubaï",
-          "link": "https://www.lefigaro.fr/international/mafia-irlandaise-daniel-kinahan-chef-presume-d-un-puissant-cartel-inculpe-apres-son-extradition-de-dubai-20260809",
-          "source": "Le Figaro",
-          "summary": "Considéré comme l’un des criminels les plus recherchés d’Irlande, Daniel Kinahan a été extradé de Dubaï dimanche. Il est accusé de trafic de drogue et de blanchiment d’argent à grande échelle.",
-          "published": "2026-08-09T21:26:49+00:00"
+          "title": "Championnats d’Europe de natation à Saint-Denis : cinq moments à ne manquer sous aucun prétexte",
+          "link": "https://www.liberation.fr/sports/championnats-deurope-de-natation-a-saint-denis-cinq-moments-a-ne-manquer-sous-aucun-pretexte-20260810_OM6Y6MCBFBEVDM3GDICPTFW574/",
+          "source": "Liberation",
+          "summary": "Aux côtés des athlètes français, la multimédaillée Sarah Sjöström et l’imbattable David Popovici seront au casting de la compétition.",
+          "published": "2026-08-10T04:11:00+00:00"
         },
         {
-          "title": "La Gironde de nouveau frappée par les orages et les incendies",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/la-gironde-de-nouveau-frappee-par-les-orages-et-les-incendies_8141132.html#xtor=RSS-3-[lestitres]",
+          "title": "Vingt-deux départements, du Cher à la Corse, placés lundi en vigilance orange \"canicule\"",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Après les fortes chaleurs des derniers jours dans le Sud et avant une nouvelle canicule partout en France, place aux orages. La foudre a provoqué plusieurs départs de feux en Gironde, samedi 8 août.",
-          "published": "2026-08-09T21:05:56+00:00"
+          "summary": "Les zones concernées sont majoritairement concentrées dans le sud-est de la France, du Var au Doubs.",
+          "published": "2026-08-10T04:09:13+00:00"
         },
         {
-          "title": "Tour de France femmes : Katarzyna Niewiadoma présente ses excuses à Célia Gery après la polémique",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-katarzyna-niewiadoma-presente-ses-excuses-a-celia-gery-apres-la-polemique-20260809",
-          "source": "Le Figaro",
-          "summary": "Très touchée après avoir reçu des menaces de mort sur les réseaux sociaux, la coureuse française a reçu les excuses de la Polonaise qui l’avait accusée d’un geste antisportif samedi.",
-          "published": "2026-08-09T21:05:26+00:00"
+          "title": "En Iran, la répression s’est intensifiée depuis le début de la guerre",
+          "link": "https://www.lemonde.fr/international/article/2026/08/10/en-iran-la-repression-s-est-intensifiee-depuis-le-debut-de-la-guerre_6743083_3210.html",
+          "source": "Le Monde",
+          "summary": "Depuis le début du conflit avec les Etats-Unis et Israël, le régime durcit son contrôle sur la société civile. Condamnation de la photojournaliste Yalda Moaiery, multiplication des exécutions, convocations d’artistes et…",
+          "published": "2026-08-10T04:00:27+00:00"
         },
         {
-          "title": "Tour de France : la terrible statistique des Français(es) sur la Grande Boucle cette année",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-la-terrible-statistique-des-francais-es-sur-la-grande-boucle-cette-annee-20260809",
-          "source": "Le Figaro",
-          "summary": "Cyclistes français et françaises ont parcouru 4 420 kilomètres, participé à 30 étapes en cumulé, mais aucun n’a réussi à s’imposer malgré une grosse délégation.",
-          "published": "2026-08-09T20:32:48+00:00"
+          "title": "Demi Vollering reine du Tour, Arthur Fils brille à Montréal, Léon Marchand forfait sur le 4 nages... Le récap' sport du week-end",
+          "link": "https://www.franceinfo.fr/sports/demi-vollering-reine-du-tour-arthur-fils-brille-a-montreal-leon-marchand-forfait-sur-le-4-nages-le-recap-sport-du-week-end_8140706.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La Néerlandaise a remporté, dimanche, le deuxième Tour de France de sa carrière en résistant à la Polonaise Kasia Niewiadoma.",
+          "published": "2026-08-10T04:00:01+00:00"
         },
         {
-          "title": "Tour de France femmes : «Un spectacle exceptionnel avec un suspense incroyable», se félicite la directrice Marion Rousse",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-femmes-un-spectacle-exceptionnel-avec-un-suspense-incroyable-se-felicite-la-directrice-marion-rousse-20260809",
+          "title": "Quiz : des vers plein de fruits",
+          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-des-vers-plein-de-fruits-20260810_ETWUTSYEHJELDDQLUZYODGYKRU/",
+          "source": "Liberation",
+          "summary": "(20/30) A base de pommes, poires ou prunes, saurez-vous déguster les titres de ces chansons?",
+          "published": "2026-08-10T04:00:00+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : la ville de Soumy visée par des frappes russes dans la nuit, selon l’administration militaire régionale",
+          "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-la-ville-de-soumy-visee-par-des-frappes-russes-dans-la-nuit-selon-l-administration-militaire-regionale_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Au moins cinq personnes ont été blessées à la suite de cette offensive, selon Oleh Hryhorov, chef de l’administration militaire de l’oblast de Soumy, qui a précisé que les frappes avaient endommagé des habitations.",
+          "published": "2026-08-10T03:58:55+00:00"
+        },
+        {
+          "title": "\"J'ai réservé un logement il y a deux ans\" : comment les passionnés d'astronomie s'organisent pour voir l'éclipse solaire du 12 août dans les meilleures conditions",
+          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/temoignages-j-ai-reserve-un-logement-il-y-a-deux-ans-comment-les-passionnes-d-astronomie-s-organisent-pour-voir-l-eclipse-solaire-du-12-aout-dans-les-meilleures-conditions_8120324.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "De la location d'un camping-car au repérage des zones les plus éloignées de la foule, les personnes interrogées par franceinfo ont pensé à tout pour assister à un spectacle qui s'annonce grandiose, notamment dans le…",
+          "published": "2026-08-10T03:48:22+00:00"
+        },
+        {
+          "title": "Face au risque d'avoir des incendiaires dans leurs rangs, comment les sapeurs-pompiers évaluent-ils le profil psychiatrique de leurs recrues ?",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/face-au-risque-d-avoir-des-incendiaires-dans-leurs-rangs-comment-les-sapeurs-pompiers-evaluent-ils-le-profil-psychiatrique-de-leurs-recrues_8109911.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Bien qu'aucun règlement ne l'impose explicitement aux médecins chargés d'évaluer l'aptitude des candidats, certains Services départementaux d'incendie et de secours organisent des entretiens psychologiques, voire des…",
+          "published": "2026-08-10T03:45:24+00:00"
+        },
+        {
+          "title": "Canada: une femme meurt dans un vaste feu de forêt",
+          "link": "https://www.lefigaro.fr/international/canada-une-femme-meurt-dans-un-vaste-feu-de-foret-20260810",
           "source": "Le Figaro",
-          "summary": "Ravie du succès de la semaine, la patronne du Tour de France femmes a dressé le bilan à l’issue de l’ultime étape à Nice.",
-          "published": "2026-08-09T20:23:33+00:00"
+          "summary": "Cet incendie, qui s’est déclaré vendredi après-midi près du lac Okanagan, dans le sud de cette province, et a très rapidement pris de l’ampleur, a entraîné l’évacuation de plus de 20.000 personnes.",
+          "published": "2026-08-10T03:39:49+00:00"
         }
       ]
     },
