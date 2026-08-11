@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-11T01:38:36.366480+00:00",
+  "generated_at": "2026-08-11T04:18:06.835425+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En Hongrie, premières interrogations sur la « désorbanisation » à marche forcée de Péter Magyar",
+          "link": "https://www.lemonde.fr/international/article/2026/08/11/en-hongrie-premieres-interrogations-sur-la-desorbanisation-a-marche-forcee-de-peter-magyar_6743756_3210.html",
+          "source": "Le Monde",
+          "summary": "Trois mois après son arrivée au pouvoir, le premier ministre s’apprête à faire élire, mardi, l’ancien juge constitutionnel Andras Baka à la présidence de la République. Sa nomination, décidée sans concertation, soulève…",
+          "published": "2026-08-11T04:00:42+00:00"
+        },
+        {
+          "title": "L’Allemagne s’inquiète de sa vulnérabilité face à des incursions de drones qui se multiplient sur son territoire",
+          "link": "https://www.lemonde.fr/international/article/2026/08/11/l-allemagne-s-inquiete-de-sa-vulnerabilite-face-a-des-incursions-de-drones-qui-se-multiplient-sur-son-territoire_6743745_3210.html",
+          "source": "Le Monde",
+          "summary": "Après la collision d’un engin portant de l’explosif et d’un avion ukrainien au sol à Leipzig, le 5 août, la Russie est montrée du doigt par de nombreux observateurs mais le chancelier Friedrich Merz reste, pour l’heure,…",
+          "published": "2026-08-11T03:31:11+00:00"
+        },
+        {
+          "title": "Donald Trump aurait quitté le sommet de l’OTAN en Turquie en juillet à bord d’un avion secret en raison des menaces de l’Iran",
+          "link": "https://www.lemonde.fr/international/article/2026/08/11/donald-trump-aurait-quitte-le-sommet-de-l-otan-en-turquie-en-juillet-a-bord-d-un-avion-secret-en-raison-des-menaces-de-l-iran_6743710_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon le « Washington Post », le président américain, après être monté à bord de l’avion présidentiel Air Force One sous l’œil des caméras, aurait été secrètement débarqué dans un camion de restauration aéroportuaire…",
+          "published": "2026-08-11T03:15:43+00:00"
+        },
         {
           "title": "Meta : face à la Chine, Mark Zuckerberg mise sur l'IA en libre accès",
           "link": "https://www.france24.com/fr/%C3%A9co-tech/20260811-ia-intelligence-artificielle-meta-mark-zuckerberg-libre-acces-modeles-ouverts-chine-muse-glimmer",
@@ -33,10 +54,10 @@
           "published": "2026-08-10T22:32:37+00:00"
         },
         {
-          "title": "Ukraine en direct : attaques nocturnes meurtrières à Kiev et Zaporijjia",
+          "title": "Ukraine en direct : cinq morts à Zaporijjia, explosions entendues à Kiev",
           "link": "https://www.france24.com/fr/europe/20260810-en-direct-ukraine-guerre-explosions-attaque-kiev-missiles-russie",
           "source": "France 24",
-          "summary": "Au moins une personne a été blessées à Kiev dans la nuit de lundi à mardi dans une attaque de missiles russes. À Zaporijjia, dans le sud-est du pays, une autre attaque russe nocturne a tué au moins cinq personnes.…",
+          "summary": "Une attaque russe nocturne sur Zaporijjia, dans le sud-est de l'Ukraine, a fait au moins cinq morts et 20 blessés tôt mardi, selon les autorités, tandis qu'à Kiev, des explosions ont retenti après l'émission d'une…",
           "published": "2026-08-10T22:19:54+00:00"
         },
         {
@@ -52,27 +73,6 @@
           "source": "France 24",
           "summary": "Le président américain Donald Trump a signé lundi un décret avec de nouvelles recommandations vaccinales pour les enfants. Il appelle en particulier à dissocier les vaccins contre la rougeole, la rubéole et les…",
           "published": "2026-08-10T21:50:42+00:00"
-        },
-        {
-          "title": "La Turquie adopte une loi historique visant à la réintégration des combattants du PKK",
-          "link": "https://www.france24.com/fr/moyen-orient/20260810-turquie-adopte-loi-historique-reint%C3%A9gration-combattants-pkk-abdullah-ocalan",
-          "source": "France 24",
-          "summary": "Les députés turcs ont adopté à une très large majorité, lundi, un texte encadrant le retour à la vie civile des combattants du PKK renonçant aux armes. Cette loi historique ne prévoit toutefois pas d'amnistie générale…",
-          "published": "2026-08-10T21:26:41+00:00"
-        },
-        {
-          "title": "Ebola en RDC : l'OMS appelle à organiser un essai clinique avec le vaccin Ervebo",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260810-ebola-en-rdc-l-oms-appelle-%C3%A0-organiser-un-essai-clinique-avec-le-vaccin-ervebo",
-          "source": "France 24",
-          "summary": "L’Organisation Mondiale de la Santé affirme que le bilan de l’épidémie d’Ebola ne cesse de s’alourdir, tout comme le nombre d’infections. \"La situation concernant Ebola, depuis trois mois maintenant, n'est pas bonne.…",
-          "published": "2026-08-10T20:27:20+00:00"
-        },
-        {
-          "title": "Yémen : une attaque des Houthis sur le port de Mokha fait sept morts",
-          "link": "https://www.france24.com/fr/moyen-orient/20260810-y%C3%A9men-attaque-houthis-port-mokha-fait-sept-morts",
-          "source": "France 24",
-          "summary": "Une attaque menée dimanche par les Houthis sur le port yéménite de Mokha a fait au moins sept morts et une trentaine de blessés, selon l'armée du Yémen.",
-          "published": "2026-08-10T20:06:03+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Omnium Banque Nationale | Le tournoi n’est pas menacé, mais les attentes de l’ATP sont élevées",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-10/omnium-banque-nationale/le-tournoi-n-est-pas-menace-mais-les-attentes-de-l-atp-sont-elevees.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Nouveau stade ou pas, et toit rétractable ou pas, le volet montréalais de l’Omnium Banque Nationale n’est pas menacé. Néanmoins, aux yeux de l’ATP, une cure de rajeunissement s’impose.",
-          "published": "2026-08-11T00:11:14+00:00"
-        },
-        {
-          "title": "Les premiers quarts de finale sont reportés à mardi à Montréal",
-          "link": "https://www.ledevoir.com/sports/1001045/pluie-retarde-encore-jeu-omnium-banque-nationale-montreal",
+          "title": "Trump défend Infantino face aux voix réclamant son départ de la FIFA",
+          "link": "https://www.ledevoir.com/sports/1001060/trump-defend-infantino-face-voix-reclamant-depart-fifa",
           "source": "Le Devoir",
-          "summary": "La pluie a commencé à s’abattre sur le stade IGA un peu avant 18h.",
-          "published": "2026-08-11T00:04:00+00:00"
+          "summary": "Il «vient de présider la Coupe du monde la plus réussie», soutient le président américain.",
+          "published": "2026-08-11T04:00:00+00:00"
         },
         {
-          "title": "Pluie de météores | Une bonne année pour les Perséides",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-10/pluie-de-meteores/une-bonne-annee-pour-les-perseides.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les étoiles filantes du mois d’août sont de retour. Et cette année, les conditions sont particulièrement bonnes, avec une lune très peu visible et peu de nuages prévus. Voici comment les observer.",
-          "published": "2026-08-10T23:37:14+00:00"
-        },
-        {
-          "title": "L’ATP appuie le projet d’agrandissement du stade IGA",
-          "link": "https://www.ledevoir.com/sports/1001042/atp-appuie-projet-modernisation-tennis-canada",
+          "title": "Les belles victoires de la gauche démocrate",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/1000982/belles-victoires-gauche-democrate",
           "source": "Le Devoir",
-          "summary": "Les standards augmentent et Montréal doit suivre, selon le p.-d.g. du circuit.",
-          "published": "2026-08-10T23:37:00+00:00"
+          "summary": "Les primaires du mardi 4 août en ont surpris plusieurs.",
+          "published": "2026-08-11T04:00:00+00:00"
         },
         {
-          "title": "Face aux incendies, des Québécois témoignent de l’entraide dans l’Okanagan",
-          "link": "https://www.ledevoir.com/actualites/1001036/face-incendies-quebecois-temoignent-entraide-okanagan",
+          "title": "Chicoutimi—Le Fjord, un pari de trop pour Mark Carney?",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/1000979/chicoutimi-fjord-pari-trop-mark-carney",
           "source": "Le Devoir",
-          "summary": "Ils expliquent au «Devoir» avoir été frappés par la rapidité avec laquelle la situation s’est détériorée.",
-          "published": "2026-08-10T23:31:00+00:00"
+          "summary": "Le premier ministre semble avoir tenu pour acquis que le gain reviendrait aux libéraux.",
+          "published": "2026-08-11T04:00:00+00:00"
         },
         {
-          "title": "Quel été !",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-10/quel-ete.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "",
-          "published": "2026-08-10T23:30:00+00:00"
-        },
-        {
-          "title": "Un deuxième chat atteint de la rage identifié au Québec",
-          "link": "https://www.ledevoir.com/actualites/sante/1001039/deuxieme-chat-atteint-rage-identifie-quebec",
+          "title": "Pourquoi choisir l’indépendance  en musique?",
+          "link": "https://www.ledevoir.com/culture/musique/1000955/pourquoi-choisir-independance-musique",
           "source": "Le Devoir",
-          "summary": "Celui-ci a été découvert à Saint-Anicet, sept jours après le premier chat identifié à Godmanchester.",
-          "published": "2026-08-10T23:13:24+00:00"
+          "summary": "Angine de Poitrine, Safia Nolin et Catherine Leduc ont pris la voie de la «liberté extrême».",
+          "published": "2026-08-11T04:00:00+00:00"
         },
         {
-          "title": "Le CF Montréal aurait fait l’acquisition d’Alexis Sánchez",
-          "link": "https://www.lapresse.ca/sports/soccer/2026-08-10/le-cf-montreal-aurait-fait-l-acquisition-d-alexis-sanchez.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les partisans du CF Montréal l’ont attendu, leur joueur vedette. Tout porte à croire qu’ils l’ont enfin. Alexis Sánchez, légendaire attaquant du Chili, du FC Barcelone et d’Arsenal, aurait été acquis par le…",
-          "published": "2026-08-10T22:27:27+00:00"
-        },
-        {
-          "title": "Nétanyahou tente de sécuriser sa réélection au détriment d’un accord à Gaza",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1001018/netanyahou-tente-securiser-reelection-detriment-accord-gaza",
+          "title": "L’avenir des enfants au cœur des projets d’immigration en famille",
+          "link": "https://www.ledevoir.com/opinion/idees/1000985/avenir-enfants-coeur-projets-immigration-famille",
           "source": "Le Devoir",
-          "summary": "Les Israéliens seront appelés aux urnes cet automne pour la première fois depuis l’attaque du Hamas le 7 octobre 2023.",
-          "published": "2026-08-10T21:49:00+00:00"
+          "summary": "Il faut offrir de réelles conditions de participation aux parents immigrants à l’école et dans la société d’accueil.",
+          "published": "2026-08-11T04:00:00+00:00"
         },
         {
-          "title": "Donald Trump continue son offensive contre les vaccins",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1001015/donald-trump-continue-offensive-contre-vaccins",
+          "title": "Les Canadiens choisissent des politiciens (un peu) plus jeunes que les Américains",
+          "link": "https://www.ledevoir.com/politique/1000973/canadiens-choisissent-politiciens-peu-plus-jeunes-americains",
           "source": "Le Devoir",
-          "summary": "Le président américain a parlé lundi d’injections «de la taille d’une bouteille de soda».",
-          "published": "2026-08-10T21:47:52+00:00"
+          "summary": "La classe politique se renouvelle plus rapidement de ce côté-ci de la frontière.",
+          "published": "2026-08-11T04:00:00+00:00"
+        },
+        {
+          "title": "Un été homérique grâce à «The Odyssey»",
+          "link": "https://www.ledevoir.com/culture/cinema/1000970/ete-homerique-grace-the-odyssey",
+          "source": "Le Devoir",
+          "summary": "Le film de Christopher Nolan stimule l’intérêt pour Homère et pour la Grèce antique.",
+          "published": "2026-08-11T04:00:00+00:00"
+        },
+        {
+          "title": "Shehaweh, martyre de son époque",
+          "link": "https://www.ledevoir.com/culture/ecrans/1000952/shehaweh-martyre-epoque",
+          "source": "Le Devoir",
+          "summary": "La télésérie réalisée par Jean Beaudin n’est plus diffusée aujourd’hui, contrairement aux «Filles de Caleb».",
+          "published": "2026-08-11T04:00:00+00:00"
+        },
+        {
+          "title": "L’avenir est un choix",
+          "link": "https://www.ledevoir.com/opinion/idees/1000988/avenir-est-choix",
+          "source": "Le Devoir",
+          "summary": "L’été 2026 est un autre de ces étés apocalyptiques qui sont devenus la norme.",
+          "published": "2026-08-11T04:00:00+00:00"
+        },
+        {
+          "title": "La fin d’ateliers de lecture en milieu carcéral dénoncée à Laval",
+          "link": "https://www.ledevoir.com/actualites/education/1000967/fin-ateliers-lecture-milieu-carceral-denoncee-laval",
+          "source": "Le Devoir",
+          "summary": "Les bibliothèques de la ville offraient depuis 2023 des ateliers de lecture et d’écriture dans deux prisons.",
+          "published": "2026-08-11T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Aux Etats-Unis, Donald Trump relance son offensive contre la vaccination",
-          "link": "https://www.lemonde.fr/international/article/2026/08/11/aux-etats-unis-donald-trump-relance-son-offensive-contre-la-vaccination_6743643_3210.html",
+          "title": "Mattias Grafström, le numéro deux de la FIFA qui n’a pas pu s’émanciper de Gianni Infantino",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/11/mattias-grafstrom-le-numero-deux-de-la-fifa-qui-n-a-pas-pu-s-emanciper-de-gianni-infantino_6743749_3242.html",
           "source": "Le Monde",
-          "summary": "Faisant un lien avec l’autisme, le président américain a signé un décret contenant de nouvelles recommandations en matière de vaccins ; il en limite notamment le nombre et demande à espacer leur administration aux…",
-          "published": "2026-08-10T23:45:09+00:00"
+          "summary": "Le secrétaire général de la Fédération internationale de football a affiché son soutien au président controversé de l’instance, malgré un courriel interne daté du 4 août, dans lequel il prenait ses distances avec le…",
+          "published": "2026-08-11T04:00:04+00:00"
         },
         {
-          "title": "La maison mère de Truth Social, le réseau de Donald Trump, affiche 240 millions de dollars de pertes au deuxième trimestre",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/11/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-affiche-240-millions-de-dollars-de-pertes-au-deuxieme-trimestre_6743610_3234.html",
+          "title": "\"C'est plus facile d'avoir mal aux Europe qu'aux départementaux\"... La résurrection de Margot Chevrier, deux ans après sa grave blessure à la cheville",
+          "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/c-est-plus-facile-d-avoir-mal-aux-europe-qu-aux-departementaux-la-resurrection-de-margot-chevrier-deux-ans-apres-sa-grave-blessure-a-la-cheville_8141936.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La sauteuse à la perche française s'était blessée aux Mondiaux de Glasgow, peu avant les JO de Paris. Alors que les médecins lui avaient dit qu'elle ne pourrait pas resauter, elle s'aligne mardi soir en qualification…",
+          "published": "2026-08-11T04:00:02+00:00"
+        },
+        {
+          "title": "Démarchage téléphonique : les nouvelles mesures qui entrent en vigueur le 11 août seront-elles efficaces ?",
+          "link": "https://www.lemonde.fr/pixels/article/2026/08/11/demarchage-telephonique-les-nouvelles-mesures-qui-entrent-en-vigueur-le-11-aout-seront-elles-efficaces_6743748_4408996.html",
           "source": "Le Monde",
-          "summary": "A l’issue des trois premiers mois de l’année, Trump Media & Technology Group – dont le milliardaire est le principal actionnaire – avait déjà fait état d’une perte de plus de 400 millions de dollars.",
-          "published": "2026-08-10T23:28:40+00:00"
+          "summary": "A partir de mardi, tout consommateur devra donner son accord explicite pour être démarché par téléphone. Un nouveau cadre très restrictif, mais qui pourrait malgré tout avoir un impact limité.",
+          "published": "2026-08-11T04:00:01+00:00"
         },
         {
-          "title": "Guerre en Ukraine : cinq morts dans une attaque russe sur Zaporijjia, des explosions à Kiev",
-          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-de-nombreuses-explosions-entendues-a-kiev-apres-une-alerte-aux-missiles-20260811",
-          "source": "Le Figaro",
-          "summary": "Ces attaques interviennent alors que le président ukrainien Volodymyr Zelensky a affirmé que la Russie se préparait à déployer davantage de soldats nord-coréens sur son territoire et avait reçu de nouveaux missiles…",
-          "published": "2026-08-10T23:27:42+00:00"
+          "title": "Quiz : les années en 6",
+          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-les-annees-en-6-20260811_AEIIX3Y6WVBPDCLIWPWGQWHQ34/",
+          "source": "Liberation",
+          "summary": "(21/30) Qu’a-t-on fêté en 2016 ? Enterré en 2006 ? Découvert en 1996 ?",
+          "published": "2026-08-11T04:00:00+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : nouvelles frappes russes dans la nuit, au moins cinq morts à Zaporijia",
-          "link": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-nouvelles-frappes-russes-sur-kiev_6741928_3210.html",
+          "title": "Pourquoi l'éclipse du 12 août inaugure une rare période de trois éclipses visibles en Europe en trois ans",
+          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/pourquoi-l-eclipse-du-12-aout-inaugure-une-rare-periode-de-trois-eclipses-visibles-en-europe-en-trois-ans_8132984.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'éclipse totale du 12 août, qui sera partiellement visible en France, correspond au début de la \"trilogie ibérique\", soit un cycle de trois éclipses majeures observables sur le continent d'ici à 2028.",
+          "published": "2026-08-11T03:54:34+00:00"
+        },
+        {
+          "title": "Que va changer la demande obligatoire de consentement au démarchage téléphonique, en vigueur dès mardi ?",
+          "link": "https://www.franceinfo.fr/internet/telephonie/que-va-changer-la-demande-obligatoire-de-consentement-au-demarchage-telephonique-en-vigueur-des-mardi_8138222.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les entreprises qui démarchent par téléphone ne pourront plus le faire si elles n'ont pas au préalable recueilli le consentement éclairé des consommateurs, selon un décret paru au Journal officiel.",
+          "published": "2026-08-11T03:54:01+00:00"
+        },
+        {
+          "title": "Quatre conseils pour faire de belles photos de l'éclipse solaire en toute sécurité",
+          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/quatre-conseils-pour-faire-de-belles-photos-de-l-eclipse-solaire-en-toute-securite_8134595.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Avant de se lancer dans la photographie de cet événement astronomique rare, il faut s'assurer de disposer d'un filtre solaire et d'avoir le bon équipement.",
+          "published": "2026-08-11T03:53:29+00:00"
+        },
+        {
+          "title": "L’Allemagne s’inquiète de sa vulnérabilité face à des incursions de drones qui se multiplient sur son territoire",
+          "link": "https://www.lemonde.fr/international/article/2026/08/11/l-allemagne-s-inquiete-de-sa-vulnerabilite-face-a-des-incursions-de-drones-qui-se-multiplient-sur-son-territoire_6743745_3210.html",
           "source": "Le Monde",
-          "summary": "Kiev et Zaporijia ont été les cibles de nouvelles frappes russes dans la nuit. Cette attaque intervient alors que le président ukrainien, Volodymyr Zelensky, avait affirmé la veille que la Russie se préparait à déployer…",
-          "published": "2026-08-10T22:32:37+00:00"
+          "summary": "Après la collision d’un engin portant de l’explosif et d’un avion ukrainien au sol à Leipzig, le 5 août, la Russie est montrée du doigt par de nombreux observateurs mais le chancelier Friedrich Merz reste, pour l’heure,…",
+          "published": "2026-08-11T03:31:11+00:00"
         },
         {
-          "title": "Libye : nouvelle attaque contre un important réservoir d’essence",
-          "link": "https://www.lefigaro.fr/international/libye-nouvelle-attaque-contre-un-important-reservoir-d-essence-20260811",
-          "source": "Le Figaro",
-          "summary": "Des attaques similaires ont eu lieu ces derniers jours, visant samedi un réservoir de diesel à Zawiya et une usine de dessalement d’eau dimanche.",
-          "published": "2026-08-10T22:01:18+00:00"
+          "title": "Meta sanctionné pour destruction de preuves dans une affaire de publicités frauduleuses",
+          "link": "https://www.lemonde.fr/pixels/article/2026/08/11/meta-sanctionne-pour-destruction-de-preuves-dans-une-affaire-de-publicites-frauduleuses_6743711_4408996.html",
+          "source": "Le Monde",
+          "summary": "Un juge fédéral californien a estimé que la société a bien détruit ou laissé s’effacer des données essentielles dans une affaire l’opposant au milliardaire australien, Andrew Forrest, qui accuse la maison mère de…",
+          "published": "2026-08-11T03:25:03+00:00"
         },
         {
-          "title": "Incendies : 42 départements placés en risque \"élevé\" de départs de feux de forêt pour la journée de mardi, contre 17 lundi",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-l-incendie-declare-dimanche-a-massegros-causses-gorges-en-lozere-a-parcouru-153-hectares-et-est-desormais-fixe-annonce-la-prefecture_8141315.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le retour des fortes chaleurs cette semaine à l'échelle nationale s'accompagne d'une vigilance particulière sur le front des incendies",
-          "published": "2026-08-10T21:55:33+00:00"
-        },
-        {
-          "title": "Canicule : 43 départements en vigilance orange mardi, des trains Intercités supprimés mercredi et jeudi entre Paris et Clermont",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-quelque-22-departement-places-en-vigilance-orange-canicule-lundi-au-premier-jour-d-une-semaine-qui-s-annonce-particulierement-chaude_8141534.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Près de 70% du territoire métropolitain français fait l'objet de mesures de restrictions de l'usage de l'eau, selon le ministère de la Transition écologique.",
-          "published": "2026-08-10T21:54:01+00:00"
-        },
-        {
-          "title": "Robots attrapeurs de moustiques, élevages en laboratoire, inspections à domicile... A Singapour, mobilisation générale contre les insectes vecteurs de la dengue",
-          "link": "https://www.franceinfo.fr/sante/c-est-quelque-chose-que-tout-le-monde-doit-avoir-en-tete-a-singapour-pas-de-pitie-pour-les-moustiques_8142326.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "À Singapour, où 10 000 personnes en moyenne contractent la dengue chaque année, les moustiques sont un enjeu de santé publique. La cité Etat leur mène une guerre sans relâche jusque chez les habitants.",
-          "published": "2026-08-10T21:49:14+00:00"
-        },
-        {
-          "title": "Canicule : 32 départements placés en alerte orange jusqu’à samedi",
-          "link": "https://www.lefigaro.fr/sciences/en-direct-canicule-la-vague-de-chaleur-continue-de-gagner-du-terrain-20260810",
-          "source": "Le Figaro",
-          "summary": "Près de 70% de la France fait actuellement l’objet de mesures de restrictions des usages de l’eau, sous l’effet d’une sécheresse qui s’accentue en raison des vagues de chaleur à répétition qui affectent le pays depuis…",
-          "published": "2026-08-10T21:48:58+00:00"
-        },
-        {
-          "title": "Visite du pape en France : le Stade de France \"affiche complet\", plus de 200 000 inscrits pour la messe aux Champs-Elysées en quelques heures",
-          "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-en-france-le-stade-de-france-affiche-complet-plus-de-200-000-inscrits-pour-la-messe-aux-champs-elysees-en-quelques-heures_8142470.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"Votre mobilisation est très forte en vue de la venue du pape à Paris\", s'est réjoui, lundi, le diocèse de la capitale.",
-          "published": "2026-08-10T21:35:41+00:00"
+          "title": "Donald Trump aurait quitté le sommet de l’OTAN en Turquie en juillet à bord d’un avion secret en raison des menaces de l’Iran",
+          "link": "https://www.lemonde.fr/international/article/2026/08/11/donald-trump-aurait-quitte-le-sommet-de-l-otan-en-turquie-en-juillet-a-bord-d-un-avion-secret-en-raison-des-menaces-de-l-iran_6743710_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon le « Washington Post », le président américain, après être monté à bord de l’avion présidentiel Air Force One sous l’œil des caméras, aurait été secrètement débarqué dans un camion de restauration aéroportuaire…",
+          "published": "2026-08-11T03:15:43+00:00"
         }
       ]
     },
