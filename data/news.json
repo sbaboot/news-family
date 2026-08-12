@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-12T04:45:54.683363+00:00",
+  "generated_at": "2026-08-12T07:22:43.919477+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En France, les fortes chaleurs s'étendent, la sécheresse gagne du terrain",
+          "link": "https://www.france24.com/fr/france/20260812-en-france-les-fortes-chaleurs-s-%C3%A9tendent-la-s%C3%A9cheresse-gagne-du-terrain",
+          "source": "France 24",
+          "summary": "La canicule a gagné mercredi la quasi-totalité du pays, avec des températures allant jusqu'à 40°C par endroits. En parallèle, la sécheresse en France ne cesse d'empirer atteignant des niveaux records à l'échelle…",
+          "published": "2026-08-12T07:19:02+00:00"
+        },
+        {
+          "title": "7. Medina virtuelle à Casablanca",
+          "link": "https://www.rfi.fr/fr/podcasts/jack-dans-les-rues-du-globe/20260812-7-medina-virtuelle-%C3%A0-casablanca",
+          "source": "RFI",
+          "summary": "Septième enveloppe, septième billet : Jack Souvant atterrit cette fois à Casablanca. Et le chauffeur de taxi lui souhaite la bienvenue dans l'année 2976... selon le calendrier amazigh. Comme à son habitude, Jack…",
+          "published": "2026-08-12T07:00:05+00:00"
+        },
+        {
+          "title": "Au Venezuela, la photographe Silvana Trevale saisit les instants de joie de ceux qui résistent au « tourbillon de l’effondrement »",
+          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/au-venezuela-la-photographe-silvana-trevale-saisit-les-instants-de-joie-de-ceux-qui-resistent-au-tourbillon-de-l-effondrement_6744708_3451060.html",
+          "source": "Le Monde",
+          "summary": "« Jeunesse en milieux hostiles » (5/7). Ayant fui le Venezuela en crise, comme des millions de ses compatriotes, Silvana Trevale y revient régulièrement pour photographier la jeunesse. Dans ses images, souvent…",
+          "published": "2026-08-12T07:00:03+00:00"
+        },
+        {
+          "title": "Éclipse : en Europe, la course contre la montre pour se procurer des lunettes",
+          "link": "https://www.france24.com/fr/europe/20260812-%C3%A9clipse-en-europe-la-course-contre-la-montre-pour-se-procurer-des-lunettes",
+          "source": "France 24",
+          "summary": "Depuis quelques jours, à l'approche de l'éclipse solaire du 12 août, trouver des lunettes adaptées relève presque du parcours du combattant. Les magasins et sites en ligne sont pris d’assaut. Sans protection certifiée,…",
+          "published": "2026-08-12T06:07:00+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 502 drones ukrainiens dans la nuit de mardi à mercredi",
+          "link": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-502-drones-ukrainiens-dans-la-nuit-de-mardi-a-mercredi_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Le ministère de la défense russe a précisé que ces attaques avaient visé les oblasts de Belgorod, Briansk, Kalouga, Koursk, Lipetsk, Oriol, Krasnodar, la Crimée et la mer Noire. Le gouverneur de la région de Krasnodar a…",
+          "published": "2026-08-12T05:44:20+00:00"
+        },
+        {
+          "title": "Journée internationale de la jeunesse: «Je pense que chacun peut contribuer au changement à son échelle»",
+          "link": "https://www.rfi.fr/fr/monde/20260812-journ%C3%A9e-internationale-de-la-jeunesse-je-pense-que-chacun-peut-contribuer-au-changement-%C3%A0-son-%C3%A9chelle",
+          "source": "RFI",
+          "summary": "Le 12 août, les Nations unies célèbrent la journée internationale de la jeunesse, placée cette année sous le signe d’un slogan : « Différentes réalités, aspirations communes ». Pour l’occasion, RFI a donné la parole à…",
+          "published": "2026-08-12T05:39:22+00:00"
+        },
+        {
+          "title": "Ligue des champions : l'OL renverse le Sparta Prague et rejoint Fenerbahçe",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260812-ligue-des-champions-l-ol-renverse-le-sparta-prague-et-rejoint-fenerbah%C3%A7e",
+          "source": "France 24",
+          "summary": "Battu (2-1) à l’aller, Lyon a renversé le Sparta Prague (3-0) en 3e tour préliminaire de Ligue des Champions. L'OL retrouvera Fenerbahçe en barrages pour gagner sa qualification.",
+          "published": "2026-08-12T05:31:48+00:00"
+        },
+        {
+          "title": "Omeyyades, Abbassides, Fatimides : l’Âge d’or de l’empire islamique",
+          "link": "https://www.rfi.fr/fr/podcasts/le-berceau-de-l-histoire/20260812-omeyyades-abbassides-fatimides-l-%C3%A2ge-d-or-de-l-empire-islamique",
+          "source": "RFI",
+          "summary": "Invité : Gabriel Martinez-Gros. L’Âge d’or de l’empire fondé par les successeurs du prophète Muhammad, s’étend su quatre siècles : du milieu du VIIème siècle au milieu du XIème siècle. Quatre siècles de prospérité, de…",
+          "published": "2026-08-12T05:00:07+00:00"
+        },
         {
           "title": "Au Venezuela, un chef indigène enlevé par des guérilleros colombiens retrouvé mort",
           "link": "https://www.lemonde.fr/international/article/2026/08/12/au-venezuela-un-chef-indigene-enleve-par-des-guerilleros-colombiens-retrouve-mort_6744638_3210.html",
@@ -12,67 +68,11 @@
           "published": "2026-08-12T04:36:13+00:00"
         },
         {
-          "title": "La condamnation d’ex-responsables du régime Al-Assad, un test pour la justice transitionnelle en Syrie",
+          "title": "Syrie : la condamnation d’ex-responsables du régime Al-Assad, un test pour la justice transitionnelle du pays",
           "link": "https://www.lemonde.fr/international/article/2026/08/12/la-condamnation-d-ex-responsables-du-regime-al-assad-un-test-pour-la-justice-transitionnelle-en-syrie_6744635_3210.html",
           "source": "Le Monde",
           "summary": "L’ancien général Atef Najib a été condamné, mardi, à la peine de mort pour « crimes contre l’humanité ». Si les victimes du régime se réjouissent, plusieurs ONG dénoncent un procès inique.",
           "published": "2026-08-12T04:13:17+00:00"
-        },
-        {
-          "title": "« Le français fait désormais partie du patrimoine intellectuel, scientifique et culturel de l’Algérie »",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/12/le-francais-fait-desormais-partie-du-patrimoine-intellectuel-scientifique-et-culturel-de-l-algerie_6744599_3232.html",
-          "source": "Le Monde",
-          "summary": "Un collectif d’intellectuels et de citoyens algériens ou issus de la diaspora s’inquiète, dans une tribune au « Monde », de la marginalisation progressive du français au profit de l’anglais, davantage pour répondre à…",
-          "published": "2026-08-12T04:00:14+00:00"
-        },
-        {
-          "title": "L’exfiltration secrète de Donald Trump à Ankara, symptôme d’un dispositif de sécurité marqué par la fébrilité et l’improvisation",
-          "link": "https://www.lemonde.fr/international/article/2026/08/12/l-exfiltration-secrete-de-donald-trump-a-ankara-symptome-d-un-dispositif-de-securite-marque-par-la-febrilite-et-l-improvisation_6744564_3210.html",
-          "source": "Le Monde",
-          "summary": "A l’issue du sommet de l’OTAN, le 8 juillet, la presse croyait voyager avec le président américain à bord de l’ancien Air Force One. En réalité, il avait été discrètement transféré dans un autre avion en raison de…",
-          "published": "2026-08-12T03:31:56+00:00"
-        },
-        {
-          "title": "En direct : l'armée américaine tire sur un navire qui violait son blocus des ports iraniens",
-          "link": "https://www.france24.com/fr/moyen-orient/20260812-en-direct-moyen-orient-iran-etats-unis-detroit-ormuz-donald-trump-houthis",
-          "source": "France 24",
-          "summary": "L'armée américaine a annoncé mardi avoir tiré sur un navire battant pavillon du Panama qui tentait de s'approcher d'un port iranien en violation du blocus instauré par Washington. Donald Trump a une nouvelle fois assuré…",
-          "published": "2026-08-12T02:58:43+00:00"
-        },
-        {
-          "title": "Corée du Nord : nouveau tir de missile balistique avant des manœuvres de Séoul et Washington",
-          "link": "https://www.france24.com/fr/asie-pacifique/20260812-coree-du-nord-nouveau-tir-missile-balistique-man%C5%93uvres-seoul-washington",
-          "source": "France 24",
-          "summary": "Pyongyang a tiré mercredi un missile balistique vers la mer du Japon, ont annoncé les forces sud-coréennes. Le projectile a parcouru plus de 700 km avant de s'abîmer en mer. Ce deuxième tir en une semaine intervient à…",
-          "published": "2026-08-12T01:59:14+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Moscou se prépare à une mobilisation massive d’ici la fin de l’année, affirme Volodymyr Zelensky",
-          "link": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-moscou-se-prepare-a-une-mobilisation-massive-d-ici-la-fin-de-l-annee-affirme-volodymyr-zelensky_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon le président ukrainien, qui cite des documents internes russes transmis par ses services de renseignement, « plusieurs centaines de milliers de Russes » seront mobilisés « pour l’automne, juste après une…",
-          "published": "2026-08-12T00:28:32+00:00"
-        },
-        {
-          "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul, son deuxième en une semaine",
-          "link": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html",
-          "source": "Le Monde",
-          "summary": "Cette démonstration de Pyongyang, mercredi 12 août, intervient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.",
-          "published": "2026-08-11T23:37:09+00:00"
-        },
-        {
-          "title": "Israël et le Venezuela rétablissent leurs liens diplomatiques rompus en 2009",
-          "link": "https://www.rfi.fr/fr/monde/20260811-isra%C3%ABl-et-le-venezuela-r%C3%A9tablissent-leurs-liens-diplomatiques-rompus-en-2009",
-          "source": "RFI",
-          "summary": "Israël et le Venezuela ont annoncé mardi 11 août le rétablissement de leurs relations consulaires, dix-sept ans après la rupture des liens diplomatiques entre les deux pays.",
-          "published": "2026-08-11T23:18:10+00:00"
-        },
-        {
-          "title": "Libye : l'assassinat du chef des renseignements de l'Est, un revers pour les Haftar",
-          "link": "https://www.france24.com/fr/afrique/20260811-libye-assassinat-chef-renseignements-est-revers-khalifa-haftar-al-mansouri",
-          "source": "France 24",
-          "summary": "Fauzi Al-Mansouri, le chef des services de renseignement de l'armée de l'Est en Libye, a été assassiné lundi dans un attentat à la voiture piégée à Benghazi. Il s'agit d'une des premières attaques visant un aussi haut…",
-          "published": "2026-08-11T23:00:50+00:00"
         }
       ]
     },
@@ -84,10 +84,10 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Les ressources d’aide de l’Ouest-de-l’Île débordées: «C’est une roue sans fin de survie»",
-          "link": "https://www.ledevoir.com/politique/montreal/1001198/ressources-aide-ouest-ile-debordes-c-est-roue-fin-survie",
+          "title": "Ces souverainistes pusillanimes",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/1001270/ces-souverainistes-pusillanimes",
           "source": "Le Devoir",
-          "summary": "Un nombre croissant de locataires font appel aux banques alimentaires et aux services d’aide du secteur.",
+          "summary": "La plus grande catastrophe pour le Québec serait qu’il reporte sans cesse le référendum.",
           "published": "2026-08-12T04:00:00+00:00"
         },
         {
@@ -95,6 +95,13 @@
           "link": "https://www.ledevoir.com/lire/1001228/douzou-petite-rentree-litteraire-avant-rentree",
           "source": "Le Devoir",
           "summary": "L’événement Le 12 août, j’achète un livre québécois! a chamboulé le calendrier des maisons d’édition du Québec.",
+          "published": "2026-08-12T04:00:00+00:00"
+        },
+        {
+          "title": "Les ressources d’aide de l’Ouest-de-l’Île débordées: «C’est une roue sans fin de survie»",
+          "link": "https://www.ledevoir.com/politique/montreal/1001198/ressources-aide-ouest-ile-debordes-c-est-roue-fin-survie",
+          "source": "Le Devoir",
+          "summary": "Un nombre croissant de locataires font appel aux banques alimentaires et aux services d’aide du secteur.",
           "published": "2026-08-12T04:00:00+00:00"
         },
         {
@@ -116,13 +123,6 @@
           "link": "https://www.ledevoir.com/culture/cinema/1001219/the-fly-art-horreur",
           "source": "Le Devoir",
           "summary": "Le Montréalais Stephan Dupuis se remémore la production, il y a 40 ans, des maquillages spéciaux pour le film oscarisé.",
-          "published": "2026-08-12T04:00:00+00:00"
-        },
-        {
-          "title": "Ces souverainistes pusillanimes",
-          "link": "https://www.ledevoir.com/opinion/libre-opinion/1001270/ces-souverainistes-pusillanimes",
-          "source": "Le Devoir",
-          "summary": "La plus grande catastrophe pour le Québec serait qu’il reporte sans cesse le référendum.",
           "published": "2026-08-12T04:00:00+00:00"
         },
         {
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "«Je suis l’objet de beaucoup de menaces» : Trump confirme sa rocambolesque exfiltration d’Air Force One",
-          "link": "https://www.lefigaro.fr/international/exfiltre-d-air-force-one-trump-affirme-avoir-finalement-couru-un-risque-plus-eleve-20260812",
-          "source": "Le Figaro",
-          "summary": "Le président américain a estimé mardi que l’avion dans lequel il avait finalement voyagé, après un changement discret d’appareil en Turquie, avait été «davantage exposé» à une éventuelle attaque iranienne.",
-          "published": "2026-08-12T04:44:24+00:00"
-        },
-        {
-          "title": "EN DIRECT -  Canicule :  les très fortes chaleurs s’étendent à la quasi-totalité du pays, surtout au Centre-Ouest",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-live-canicule-chaleur-incendies-meteo-temperatures-secheresse-20260812",
-          "source": "Le Figaro",
-          "summary": "Cette nouvelle vague de chaleur - la cinquième de l’année - se met véritablement en place à partir de ce mercredi. Les très fortes chaleurs vont s’étendre progressivement à la quasi-totalité du pays.",
-          "published": "2026-08-12T04:39:53+00:00"
-        },
-        {
-          "title": "Au moins 216 morts, 165 bâtiments effondrés, des survivants recherchés… Les dégâts du séisme en Colombie",
-          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-au-moins-132-morts-86-batiments-effondres-recherche-de-survivants-les-degats-du-seisme-en-colombie_8142965.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le pays a été frappé par un séisme de magnitude 7,4, lundi. Les recherches de survivants sont toujours en cours.",
-          "published": "2026-08-12T04:35:20+00:00"
-        },
-        {
-          "title": "Week-end du 15 août : Bison Futé prévoit une circulation difficile sur les routes, particulièrement samedi",
-          "link": "https://www.lefigaro.fr/conjoncture/week-end-du-15-aout-bison-fute-prevoit-une-circulation-difficile-sur-les-routes-particulierement-samedi-20260812",
-          "source": "Le Figaro",
-          "summary": "Dans le sens des départs comme des retours, de nombreux vacanciers sont attendus sur les principaux axes de l’Hexagone dès vendredi 14 et jusqu’à lundi 17, selon les prévisions de Bison Futé.",
-          "published": "2026-08-12T04:30:00+00:00"
-        },
-        {
-          "title": "Canicule : l'Aisne et l'Oise à leur tour placés en vigilance orange jeudi, 80 départements concernés au total",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-deux-departements-du-nord-de-la-france-places-a-leur-tour-en-vigilance-orange-jeudi-80-departements-concernes-au-total_8144045.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les températures maximales seront supérieures à 35°C jeudi dans les départements en vigilance orange \"canicule\", prévient Météo-France.",
-          "published": "2026-08-12T04:26:13+00:00"
-        },
-        {
-          "title": "Gang-bang «libertins», prostitution… Dignité «versus» liberté, est-ce bien le débat ?",
-          "link": "https://www.liberation.fr/idees-et-debats/tribunes/gang-bang-libertins-prostitution-dignite-versus-liberte-est-ce-bien-le-debat-20260812_JL7ITXFQEFAWLEZ5BANPIGNZVU/",
+          "title": "Séisme en Colombie : au moins 216 morts et plus de 1 600 blessés selon un dernier bilan, des rescapés secourus",
+          "link": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
           "source": "Liberation",
-          "summary": "En réponse au juriste Daniel Borrillo, qui a critiqué dans «Libération» l’interdiction de soirées gang-bang «libertines» au nom de la «dignité humaine», le politiste Alain Policar estime que nous devons admettre des…",
-          "published": "2026-08-12T04:26:00+00:00"
+          "summary": "Trois jours après la catastrophe, de nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays, tandis que les recherches de survivants se…",
+          "published": "2026-08-12T07:16:35+00:00"
         },
         {
-          "title": "Addiction des mineurs aux réseaux sociaux : Meta de retour au tribunal mercredi",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/addiction-des-mineurs-aux-reseaux-sociaux-meta-de-retour-au-tribunal-mercredi-20260812",
-          "source": "Le Figaro",
-          "summary": "Une coalition d’une trentaine d’États américains réclame jusqu’à 1400 milliards de dollars de pénalités et une profonde refonte des plateformes.",
-          "published": "2026-08-12T04:25:32+00:00"
+          "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+          "source": "Liberation",
+          "summary": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+          "published": "2026-08-12T07:03:16+00:00"
         },
         {
-          "title": "\"Je sais que ça va finir par le faire\"... Opportunité manquée aux championnats d'Europe après une saison de haute volée pour le lanceur de marteau Yann Chaussinand",
-          "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/je-sais-que-ca-va-finir-par-le-faire-opportunite-manquee-aux-championnats-d-europe-apres-une-saison-de-haute-volee-pour-le-lanceur-de-marteau-yann-chaussinand_8143706.html#xtor=RSS-3-[lestitres]",
+          "title": "Un représentant des maraîchers appelle à un \"grand plan pour accompagner les producteurs\" face à la sécheresse",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/un-representant-des-maraichers-appelle-a-un-grand-plan-pour-accompagner-les-producteurs-face-a-la-secheresse_8144228.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Après avoir récemment battu le record de France de la discipline, le Français est passé à travers sa finale, mardi soir, aux championnats d'Europe de Birmingham.",
-          "published": "2026-08-12T04:15:02+00:00"
+          "summary": "Il décrit une situation \"alarmante\" avec \"100% de pertes\" sur les brocolis, les artichauts ou encore les salades.",
+          "published": "2026-08-12T06:58:32+00:00"
         },
         {
-          "title": "EN DIRECT, canicule : la vigilance orange gagne la quasi-totalité du pays ; des températures allant jusqu’à 39 °C par endroits",
-          "link": "https://www.lemonde.fr/climat/live/2026/08/12/en-direct-canicule-la-vigilance-orange-gagne-la-quasi-totalite-du-pays-avec-des-temperatures-allant-jusqu-a-39-c-par-endroits_6744636_1652612.html",
-          "source": "Le Monde",
-          "summary": "Soixante-dix-huit départements sont classés mercredi en vigilance orange canicule par Météo-France, contre 43, mardi. Les fortes chaleurs s’accentueront jeudi, selon le prévisionniste, qui annonce que « les températures…",
-          "published": "2026-08-12T04:14:09+00:00"
+          "title": "Eclipse historique, la France face à la canicule, les Bleus brillent aux championnats d’Europe… L’actu de ce mercredi 12 août au matin",
+          "link": "https://www.liberation.fr/international/europe/eclipse-historique-la-france-face-a-la-canicule-les-bleus-brillent-aux-championnats-deurope-lactu-de-ce-mercredi-12-aout-au-matin-20260812_447XGRKCU5ERFA3L2MEPDHPASE/",
+          "source": "Liberation",
+          "summary": "La rédaction de «Libération» compile les principales infos du jour.",
+          "published": "2026-08-12T06:54:55+00:00"
         },
         {
-          "title": "La condamnation d’ex-responsables du régime Al-Assad, un test pour la justice transitionnelle en Syrie",
-          "link": "https://www.lemonde.fr/international/article/2026/08/12/la-condamnation-d-ex-responsables-du-regime-al-assad-un-test-pour-la-justice-transitionnelle-en-syrie_6744635_3210.html",
-          "source": "Le Monde",
-          "summary": "L’ancien général Atef Najib a été condamné, mardi, à la peine de mort pour « crimes contre l’humanité ». Si les victimes du régime se réjouissent, plusieurs ONG dénoncent un procès inique.",
-          "published": "2026-08-12T04:13:17+00:00"
+          "title": "Championnats d’Europe de natation : quels Bleus à suivre avec quelles chances de médailles ce mercredi ?",
+          "link": "https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-quels-bleus-a-suivre-avec-quelles-chances-de-medailles-ce-mercredi-20260812",
+          "source": "Le Figaro",
+          "summary": "Nouvelle journée des Championnats d’Europe avec plusieurs Tricolores au Centre aquatique olympique.",
+          "published": "2026-08-12T06:54:53+00:00"
+        },
+        {
+          "title": "Le fonds souverain norvégien a engrangé 160 milliards d’euros depuis le début de l’année",
+          "link": "https://www.lefigaro.fr/conjoncture/le-fonds-souverain-norvegien-a-engrange-160-milliards-d-euros-depuis-le-debut-de-l-annee-20260812",
+          "source": "Le Figaro",
+          "summary": "Le plus gros fonds souverain au monde a enregistré un gain record de 1753 milliards de couronnes, soit environ 160 milliards d’euros, au premier semestre.",
+          "published": "2026-08-12T06:44:10+00:00"
+        },
+        {
+          "title": "Un incendiaire condamné à de la prison ferme pour 11 départs de feu",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/un-incendiaire-condamne-a-de-la-prison-ferme-pour-11-departs-de-feu_8144213.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Un homme de 45 ans a été condamné mardi 11 août par le tribunal de Niort (Deux-Sèvres) à deux ans de prison ferme. Il avait provoqué 11 départs de feu à l’aide d’un chalumeau dans les Deux-Sèvres et dans le…",
+          "published": "2026-08-12T06:43:25+00:00"
+        },
+        {
+          "title": "Rivières à sec, restrictions d'eau, déficit de pluie... Visualisez la sécheresse historique que traverse la France en quatre graphiques",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/rivieres-a-sec-restrictions-d-eau-deficit-de-pluie-visualisez-la-secheresse-historique-que-traverse-la-france-en-quatre-graphiques_8142944.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La sécheresse frappe l'Hexagone et la Corse à des niveaux exceptionnels qui rappellent l'été 2022. Sans pluie significative depuis des mois et pour faire face à des cours d'eau asséchés et des nappes phréatiques qui se…",
+          "published": "2026-08-12T06:34:37+00:00"
+        },
+        {
+          "title": "\"Ça se vend comme des petits pains\" : où peut-on encore trouver des lunettes pour regarder l'éclipse solaire ?",
+          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/ca-se-vend-comme-des-petits-pains-ou-peut-on-encore-trouver-des-lunettes-pour-regarder-l-eclipse-solaire_8142905.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Alors que certains comptent les heures avant de pouvoir voir l'éclipse solaire, mercredi dans la soirée, d'autres sont toujours à la recherche de lunettes de protection avant l'événement. Mais l'indispensable outil…",
+          "published": "2026-08-12T06:34:00+00:00"
+        },
+        {
+          "title": "Oiseaux qui cessent de chanter, températures qui chutent… Que se passe-t-il dans la nature durant une éclipse solaire totale ?",
+          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/oiseaux-qui-cessent-de-chanter-temperatures-qui-chutent-que-se-passe-t-il-dans-la-nature-durant-une-eclipse-solaire-totale_8135903.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Mercredi, la bande de totalité de l'éclipse va passer par l'Atlantique Nord, l'Islande et le nord de l'Espagne avant de s'achever sur les Baléares. Dans cette zone, de curieux phénomènes devraient se produire durant…",
+          "published": "2026-08-12T06:33:26+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "« Compte tenu des dangers extrêmes » sur la Lune, les sorties d’astronautes seront très rares",
-          "link": "https://www.numerama.com/sciences/2309741-compte-tenu-des-dangers-extremes-sur-la-lune-les-sorties-dastronautes-seront-tres-rares.html",
+          "title": "Où suivre en direct la grande éclipse solaire totale du 12 août 2026 ?",
+          "link": "https://www.numerama.com/sciences/2301395-suivez-en-direct-la-grande-eclipse-solaire-totale-du-12-aout-2026.html",
           "source": "Numerama",
-          "summary": "Fini le temps des longues balades en scaphandre sur la Lune. Face aux « dangers extrêmes » de la surface, le patron de la NASA Jared Isaacman veut réduire au strict minimum les sorties en combinaison pour confier…",
-          "published": "2026-08-11T18:00:00+00:00"
+          "summary": "L'Europe est aux premières loges de l'éclipse solaire du mercredi 12 août 2026. Cette éclipse de Soleil est totale. Pour les Français, l'éclipse est partielle, avec jusqu'à 99 % d'occultation à certains endroits. Ce…",
+          "published": "2026-08-12T07:14:41+00:00"
         },
         {
-          "title": "26 mois après le ticket de métro, le passe Navigo Annuel est disponible sur iPhone",
-          "link": "https://www.numerama.com/vroom/2309693-26-mois-apres-le-ticket-de-metro-le-passe-navigo-annuel-est-disponible-sur-iphone.html",
-          "source": "Numerama",
-          "summary": "Île-de-France Mobilités a publié le 11 août la version 10.0.0 de son application iOS, qui permet enfin de transférer un passe Navigo Annuel sur son iPhone. La fonction était promise pour septembre, elle arrive avec…",
-          "published": "2026-08-11T17:01:00+00:00"
+          "title": "Le prochain casque Beats a été vu lors de la Coupe du Monde de foot, mais il ne sortirait pas tout de suite",
+          "link": "https://www.frandroid.com/marques/apple/3209493_le-prochain-casque-beats-a-ete-vu-lors-de-la-coupe-du-monde-de-foot-mais-il-ne-sortirait-pas-tout-de-suite",
+          "source": "Frandroid",
+          "summary": "Apple laisse planer le mystère sur son prochain casque Beats, aperçu sur plusieurs stars du football pendant la Coupe du Monde FIFA 2026, sans qu'aucune date officielle n'ait encore été communiquée.",
+          "published": "2026-08-12T07:12:46+00:00"
         },
         {
-          "title": "Piratages et arnaques en ligne : voici la solution radicale que Clubic recommande pour moins de 25€",
-          "link": "https://www.clubic.com/bons-plans-624841-piratages-et-arnaques-en-ligne-voici-la-solution-radicale-que-clubic-recommande-pour-moins-de-25.html",
+          "title": "Éclipse du 12 août : la production solaire va chuter, faut-il craindre des coupures de courant ? RTE prend la parole",
+          "link": "https://www.frandroid.com/actualites-generales/3209477_eclipse-du-12-aout-la-production-solaire-va-chuter-faut-il-craindre-des-coupures-de-courant-rte-prend-la-parole",
+          "source": "Frandroid",
+          "summary": "Malgré son apparition relativement tardive dans la journée, l’éclipse solaire de ce 12&nbsp;août aura bien des répercussions sur la production d’électricité photovoltaïque en France et ailleurs en Europe. Les…",
+          "published": "2026-08-12T07:12:23+00:00"
+        },
+        {
+          "title": "La NASA sauve Voyager 2 : la mise à jour cruciale qui prolonge sa mission historique dans l'espace interstellaire",
+          "link": "https://www.clubic.com/actualite-624966-la-nasa-sauve-voyager-2-une-mise-a-jour-cruciale-pour-prolonger-sa-mission-historique.html",
           "source": "Clubic",
-          "summary": "À la rentrée, ordinateurs, smartphones et tablettes reprennent du service à un rythme soutenu, souvent avec une protection à mettre à jour. Norton AntiVirus Plus, décliné pour 3 appareils, passe à 24,99 € la première…",
-          "published": "2026-08-11T16:46:00+00:00"
+          "summary": "Presque 50 ans après son lancement, la sonde Voyager 2 commence à sérieusement fatiguer. Mais une opération menée par les équipes de la NASA vient de lui offrir un nouveau sursis, pour le grand plaisir des amoureux…",
+          "published": "2026-08-12T07:08:00+00:00"
         },
         {
-          "title": "L’arme Fatale 5 : Mel Gibson donne enfin des détails sur la suite de la saga culte",
-          "link": "https://www.numerama.com/pop-culture/2309857-larme-fatale-5-mel-gibson-donne-enfin-des-details-sur-la-suite-de-la-saga-culte.html",
+          "title": "Pour le troisième film Mortal Kombat, ça sent le sapin",
+          "link": "https://www.numerama.com/pop-culture/2309915-pour-le-troisieme-film-mortal-kombat-ca-sent-le-sapin.html",
           "source": "Numerama",
-          "summary": "Presque trente ans après avoir rangé le flingue, Riggs et Murtaugh ont toujours du service à revendre. En direct du Fan Expo de Boston, Mel Gibson a balancé du lourd sur l'état réel de&nbsp;L'Arme Fatale 5&nbsp;: script…",
-          "published": "2026-08-11T16:30:00+00:00"
+          "summary": "Le réalisateur Simon McQuoid a déclaré que l'avenir des films Mortal Kombat est hautement incertain. Le deuxième opus, sorti en 2026, a fait un four au box-office mondial.",
+          "published": "2026-08-12T07:05:00+00:00"
         },
         {
-          "title": "Boulanger fait chuter le prix de ce PC Portable Lenovo à moins de 250€",
-          "link": "https://www.clubic.com/bons-plans-624910-boulanger-fait-chuter-le-prix-de-ce-pc-portable-lenovo-a-moins-de-250.html",
-          "source": "Clubic",
-          "summary": "À quelques semaines de la rentrée, trouver une machine fiable pour la bureautique et la prise de notes sans casser la tirelire devient une priorité pour beaucoup de foyers. Boulanger fait chuter le Chromebook Lenovo…",
-          "published": "2026-08-11T16:10:00+00:00"
-        },
-        {
-          "title": "Nouvelle barre de son Q95K : TCL monte en puissance pour mieux affronter Samsung",
-          "link": "https://www.frandroid.com/produits-android/audio/barre-de-son/3209255_nouvelle-barre-de-son-q95k-tcl-monte-en-puissance-pour-mieux-affronter-samsung",
+          "title": "Google Pixel 11 : comment suivre la conférence Made by Google ce soir",
+          "link": "https://www.frandroid.com/marques/google/3209447_google-pixel-11-comment-suivre-la-conference-made-by-google-ce-soir",
           "source": "Frandroid",
-          "summary": "Jusqu’ici, TCL proposait des barres de son abordables mais avec le modèle Q95K, la marque chinoise sort de sa zone de confort tarifaire, une barre de son 11.1.4 canaux de 22 haut-parleurs conçue avec Bang &amp; Olufsen.",
-          "published": "2026-08-11T16:05:41+00:00"
+          "summary": "Ce mercredi 12 août, ou plutôt jeudi 13 août en France, Google va dévoiler ses nouveaux smartphones Google Pixel 11 ainsi que la Pixel Watch 5.",
+          "published": "2026-08-12T07:00:00+00:00"
         },
         {
-          "title": "« 6 000 euros par an pour trois appareils et des lignes souvent hors service » : plus de 100 communes françaises piégées par des contrats téléphoniques aux prix exorbitants",
-          "link": "https://www.frandroid.com/telecom/3209043_6-000-euros-par-an-pour-trois-appareils-et-des-lignes-souvent-hors-service-plus-de-100-communes-francaises-piegees-par-des-contrats-telephoniques-aux-prix-exorbitants",
-          "source": "Frandroid",
-          "summary": "Elles pensaient se doter d'un système centralisant efficacement leurs lignes téléphoniques et se retrouvent avec quelques combinés qui ne fonctionnent pas. Le tout pour très cher.",
-          "published": "2026-08-11T16:03:30+00:00"
-        },
-        {
-          "title": "D23 2026 : films Marvel, séries Star Wars et parcs… Tout ce que Disney pourrait dévoiler ce week-end",
-          "link": "https://www.numerama.com/pop-culture/2309751-d23-2026-films-marvel-series-star-wars-et-parcs-tout-ce-que-disney-pourrait-devoiler-ce-week-end.html",
+          "title": "Comment suivre la conférence Google Pixel 11 avec Trevor Noah à l’animation",
+          "link": "https://www.numerama.com/tech/2309913-comment-suivre-la-conference-google-pixel-11-avec-trevor-noah-a-lanimation.html",
           "source": "Numerama",
-          "summary": "C'est le grand rituel biennal de la firme aux grandes oreilles : du 14 au 16 août 2026, la convention D23 pose ses valises à Anaheim pour une orgie d'annonces, de teasers et de promesses hollywoodiennes.&nbsp;",
-          "published": "2026-08-11T16:01:00+00:00"
+          "summary": "L'ex-animateur du Daily Show, qui s'était notamment fait connaître ici en attaquant l'Équipe de France en 2018, succède à Jimmy Fallon dans l'animation de la conférence Google Pixel. Le géant américain devrait dévoiler…",
+          "published": "2026-08-12T06:58:33+00:00"
         },
         {
-          "title": "50 Go à 7,99 euros sur le réseau d’Orange, le forfait qui suffit sans se ruiner",
-          "link": "https://www.frandroid.com/bons-plans/3209229_50-go-a-799-euros-sur-le-reseau-dorange-le-forfait-qui-suffit-sans-se-ruiner",
-          "source": "Frandroid",
-          "summary": "À 7,99 euros par mois, le forfait 50 Go de YouPrice donne accès au réseau d'Orange sans en payer le tarif habituel de l'opérateur historique en France.",
-          "published": "2026-08-11T15:58:00+00:00"
+          "title": "☕️ Apple prépare un système pour prouver qu’une photo vient bien d’un iPhone",
+          "link": "https://next.ink/brief-article/apple-prepare-un-systeme-pour-prouver-quune-photo-vient-bien-dun-iphone/",
+          "source": "Next",
+          "summary": "Progrès de l&#8217;IA générative aidant, il est bien difficile désormais de distinguer à coup sûr une photo réelle d&#8217;une image photoréaliste générée par intelligence artificielle. Et même le vieux truc de compter…",
+          "published": "2026-08-12T06:47:00+00:00"
         },
         {
-          "title": "N’achetez pas l’iPhone 17 Pro",
-          "link": "https://www.frandroid.com/marques/apple/3209077_nachetez-pas-liphone-17-pro",
-          "source": "Frandroid",
-          "summary": "Les technophiles le savent déjà, d'autres l'apprendront : nous sommes arrivés à la pire période pour acheter l'iPhone. En tout cas, l'iPhone 17 Pro.",
-          "published": "2026-08-11T15:53:48+00:00"
-        },
-        {
-          "title": "Mettre des glaçons dans le coffre avant d’une voiture électriques : la pire tendance TikTok à ne pas reproduire",
-          "link": "https://www.frandroid.com/survoltes/voitures-electriques/3208191_mettre-des-glacons-dans-le-coffre-avant-dune-voiture-electriques-la-pire-tendance-tiktok-a-ne-pas-reproduire",
-          "source": "Frandroid",
-          "summary": "Remplir le coffre avant de son électrique de glaçons et de canettes, la vidéo tourne en boucle. L'idée est tentante, mais elle ne tient la route que sur une poignée de modèles – et vraiment pas sur les autres.",
-          "published": "2026-08-11T15:47:23+00:00"
-        },
-        {
-          "title": "Étudiants, freelances : ce mini PC compact à moins de 250€ coche les bonnes cases",
-          "link": "https://www.clubic.com/bons-plans-624898-etudiants-freelances-ce-mini-pc-compact-a-moins-de-250-coche-les-bonnes-cases.html",
+          "title": "Rumeur de hausse tarifaire chez Apple : l'iPhone 17 256 Go tient bon à 889€ chez Amazon",
+          "link": "https://www.clubic.com/bons-plans-624925-rumeur-de-hausse-tarifaire-chez-apple-l-iphone-17-256-go-tient-bon-a-889-chez-amazon.html",
           "source": "Clubic",
-          "summary": "Entre un salon encombré et un bureau qui manque de place, le mini PC s’impose de plus en plus comme une alternative crédible à la tour classique ou au portable. Le NiPoGi P1 Mini PC, propulsé par un AMD Ryzen R2544,…",
-          "published": "2026-08-11T15:39:00+00:00"
+          "summary": "Une rumeur venue de Chine évoque une hausse des prix de la gamme iPhone 17 depuis le 10 août, sur fond de pénurie mondiale de puces mémoire. En attendant une confirmation d'Apple, l'iPhone 17 256 Go reste disponible à…",
+          "published": "2026-08-12T06:41:00+00:00"
+        },
+        {
+          "title": "« Il est temps de poursuivre Sony en justice » : Stop Killing Games soutient la plainte contre le monopole de Sony",
+          "link": "https://www.frandroid.com/marques/sony/3209435_il-est-temps-de-poursuivre-sony-en-justice-stop-killing-games-soutient-la-plainte-contre-le-monopole-de-sony",
+          "source": "Frandroid",
+          "summary": "Stop Killing Games, l’initiative militante en faveur de la préservation des jeux vidéo, s’associe à une action en justice portée par une association néerlandaise de défense des consommateurs contre la nouvelle politique…",
+          "published": "2026-08-12T06:32:35+00:00"
+        },
+        {
+          "title": "Windows 1.1a : ce développeur vient de porter Microsoft Word de 1990 sur les systèmes x64",
+          "link": "https://www.clubic.com/actualite-624868-windows-1-1a-ce-developpeur-vient-de-porter-microsoft-word-de-1990-sur-les-systemes-x64.html",
+          "source": "Clubic",
+          "summary": "Le développeur Justin Marshall a publié un portage natif de Word pour Windows 1.1a, une version du traitement de texte Microsoft sortie en 1990 sous le nom de code Opus. Le projet s'appuie sur le code source original et…",
+          "published": "2026-08-12T06:32:00+00:00"
+        },
+        {
+          "title": "Un mystérieux prototype de Surface Phone de 2014 se montre en photo",
+          "link": "https://www.frandroid.com/marques/microsoft/3209473_un-mysterieux-prototype-de-surface-phone-de-2014-se-montre-en-photo",
+          "source": "Frandroid",
+          "summary": "Avant son rachat de Nokia il y a maintenant plus de dix ans, Microsoft a longtemps envisagé de sortir un « Surface Phone » qui ne verra finalement jamais le jour. Mais des photos nous montrent ce à quoi l’appareil…",
+          "published": "2026-08-12T06:26:21+00:00"
         }
       ]
     }
@@ -328,6 +328,13 @@
     "sejour_bien_etre": {
       "label": "Sejour bien-etre",
       "items": [
+        {
+          "title": "Les éclipses solaires ont un effet psychologique extraordinaire et inattendu",
+          "link": "https://www.slate.fr/sciences/effet-psychologique-innatendu-eclipses-solaire-phenomene-emerveillement-curiosite-recherche-soleil-lune",
+          "source": "Slate.fr",
+          "summary": "Le soleil qui disparaît derrière la lune pendant quelques minutes provoque une forme d'émerveillement intense chez de nombreuses personnes. Les scientifiques ont étudié le phénomène.",
+          "published": "2026-08-12T05:55:03+00:00"
+        },
         {
           "title": "Il y a 3.000 ans, les Grecs portaient des bijoux venus de l'espace",
           "link": "https://www.slate.fr/sciences/artefacts-bijoux-decouverte-archeologie-metal-fer-espace-meteorite-grece-antique",
@@ -346,7 +353,15 @@
     },
     "retraite_spirituelle": {
       "label": "Retraite spirituelle",
-      "items": []
+      "items": [
+        {
+          "title": "En Russie, l'art contemporain subit pression et censure",
+          "link": "https://www.slate.fr/monde/russie-art-contemporain-culture-censure-repression-guerre-ukraine-artiste",
+          "source": "Slate.fr",
+          "summary": "Alors que la censure sévit davantage en Russie, les artistes contemporains sont forcés de réinventer leurs pratiques et de passer sous silence la guerre en Ukraine.",
+          "published": "2026-08-12T06:25:04+00:00"
+        }
+      ]
     },
     "retraite_yoga": {
       "label": "Retraite yoga",
