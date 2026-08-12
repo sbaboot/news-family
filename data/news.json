@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-08-12T01:49:32.094191+00:00",
+  "generated_at": "2026-08-12T04:45:54.683363+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Au Venezuela, un chef indigène enlevé par des guérilleros colombiens retrouvé mort",
+          "link": "https://www.lemonde.fr/international/article/2026/08/12/au-venezuela-un-chef-indigene-enleve-par-des-guerilleros-colombiens-retrouve-mort_6744638_3210.html",
+          "source": "Le Monde",
+          "summary": "Le leader autochtone Julio Rodriguez avait été kidnappé, le 2 août, dans une localité minière du sud du pays, près de la Colombie. Le territoire de son peuple, les Jivi Ekunay, abrite une partie des richesses…",
+          "published": "2026-08-12T04:36:13+00:00"
+        },
+        {
+          "title": "La condamnation d’ex-responsables du régime Al-Assad, un test pour la justice transitionnelle en Syrie",
+          "link": "https://www.lemonde.fr/international/article/2026/08/12/la-condamnation-d-ex-responsables-du-regime-al-assad-un-test-pour-la-justice-transitionnelle-en-syrie_6744635_3210.html",
+          "source": "Le Monde",
+          "summary": "L’ancien général Atef Najib a été condamné, mardi, à la peine de mort pour « crimes contre l’humanité ». Si les victimes du régime se réjouissent, plusieurs ONG dénoncent un procès inique.",
+          "published": "2026-08-12T04:13:17+00:00"
+        },
+        {
+          "title": "« Le français fait désormais partie du patrimoine intellectuel, scientifique et culturel de l’Algérie »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/12/le-francais-fait-desormais-partie-du-patrimoine-intellectuel-scientifique-et-culturel-de-l-algerie_6744599_3232.html",
+          "source": "Le Monde",
+          "summary": "Un collectif d’intellectuels et de citoyens algériens ou issus de la diaspora s’inquiète, dans une tribune au « Monde », de la marginalisation progressive du français au profit de l’anglais, davantage pour répondre à…",
+          "published": "2026-08-12T04:00:14+00:00"
+        },
+        {
+          "title": "L’exfiltration secrète de Donald Trump à Ankara, symptôme d’un dispositif de sécurité marqué par la fébrilité et l’improvisation",
+          "link": "https://www.lemonde.fr/international/article/2026/08/12/l-exfiltration-secrete-de-donald-trump-a-ankara-symptome-d-un-dispositif-de-securite-marque-par-la-febrilite-et-l-improvisation_6744564_3210.html",
+          "source": "Le Monde",
+          "summary": "A l’issue du sommet de l’OTAN, le 8 juillet, la presse croyait voyager avec le président américain à bord de l’ancien Air Force One. En réalité, il avait été discrètement transféré dans un autre avion en raison de…",
+          "published": "2026-08-12T03:31:56+00:00"
+        },
+        {
+          "title": "En direct : l'armée américaine tire sur un navire qui violait son blocus des ports iraniens",
+          "link": "https://www.france24.com/fr/moyen-orient/20260812-en-direct-moyen-orient-iran-etats-unis-detroit-ormuz-donald-trump-houthis",
+          "source": "France 24",
+          "summary": "L'armée américaine a annoncé mardi avoir tiré sur un navire battant pavillon du Panama qui tentait de s'approcher d'un port iranien en violation du blocus instauré par Washington. Donald Trump a une nouvelle fois assuré…",
+          "published": "2026-08-12T02:58:43+00:00"
+        },
+        {
+          "title": "Corée du Nord : nouveau tir de missile balistique avant des manœuvres de Séoul et Washington",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260812-coree-du-nord-nouveau-tir-missile-balistique-man%C5%93uvres-seoul-washington",
+          "source": "France 24",
+          "summary": "Pyongyang a tiré mercredi un missile balistique vers la mer du Japon, ont annoncé les forces sud-coréennes. Le projectile a parcouru plus de 700 km avant de s'abîmer en mer. Ce deuxième tir en une semaine intervient à…",
+          "published": "2026-08-12T01:59:14+00:00"
+        },
+        {
           "title": "EN DIRECT, guerre en Ukraine : Moscou se prépare à une mobilisation massive d’ici la fin de l’année, affirme Volodymyr Zelensky",
           "link": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-moscou-se-prepare-a-une-mobilisation-massive-d-ici-la-fin-de-l-annee-affirme-volodymyr-zelensky_6741928_3210.html",
           "source": "Le Monde",
           "summary": "Selon le président ukrainien, qui cite des documents internes russes transmis par ses services de renseignement, « plusieurs centaines de milliers de Russes » seront mobilisés « pour l’automne, juste après une…",
-          "published": "2026-08-12T00:28:38+00:00"
+          "published": "2026-08-12T00:28:32+00:00"
         },
         {
           "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul, son deuxième en une semaine",
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "Fauzi Al-Mansouri, le chef des services de renseignement de l'armée de l'Est en Libye, a été assassiné lundi dans un attentat à la voiture piégée à Benghazi. Il s'agit d'une des premières attaques visant un aussi haut…",
           "published": "2026-08-11T23:00:50+00:00"
-        },
-        {
-          "title": "Ligue des champions : Lyon qualifié pour les barrages après sa victoire face au Sparta Prague",
-          "link": "https://www.france24.com/fr/sports/20260811-football-ligue-des-champions-lyon-qualifie-barrages-victoire-sparta-prague",
-          "source": "France 24",
-          "summary": "Les Lyonnais ont vaincu le Sparta Prague 3-0, mardi, et se sont qualifiés pour les barrages de la Ligue des champions. Ils vont désormais affronter le club turc de Fenerbahçe (aller à Istanbul le 18 août - retour à…",
-          "published": "2026-08-11T21:04:36+00:00"
-        },
-        {
-          "title": "Après une saisie record, le Liberia veut intensifier la lutte anti-drogue",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260811-apr%C3%A8s-une-saisie-record-le-liberia-veut-intensifier-la-lutte-anti-drogue",
-          "source": "France 24",
-          "summary": "Le président libérien Joseph Nyuma Boakai a désigné un nouveau directeur de l'Agence libérienne de lutte contre la drogue, affichant sa volonté d'\"intensifier\" le combat contre le trafic après la plus grande saisie de…",
-          "published": "2026-08-11T20:37:29+00:00"
-        },
-        {
-          "title": "Au Liban, une double frappe israélienne fait un mort et endommage une ambulance",
-          "link": "https://www.lemonde.fr/international/article/2026/08/11/au-liban-une-double-frappe-israelienne-fait-un-mort-et-endommage-une-ambulance_6744330_3210.html",
-          "source": "Le Monde",
-          "summary": "Ces bombardements sont les dernières en date dans le conflit entre Israël et le Hezbollah pro-iranien malgré la trêve en cours.",
-          "published": "2026-08-11T19:56:24+00:00"
-        },
-        {
-          "title": "L’armée américaine dit avoir tiré sur un navire qui violait son blocus des ports iraniens",
-          "link": "https://www.lemonde.fr/international/article/2026/08/11/l-armee-americaine-dit-avoir-tire-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens_6744297_3210.html",
-          "source": "Le Monde",
-          "summary": "C’est la troisième fois que l’armée américaine utilise la force pour faire respecter son blocus des ports iraniens. Depuis sa remise en place, le 14 juillet, les forces américaines affirment avoir redirigé 55 navires…",
-          "published": "2026-08-11T19:38:59+00:00"
-        },
-        {
-          "title": "Libye : un important réservoir d'essence en feu après une attaque de drone",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-libye-un-important-r%C3%A9servoir-d-essence-en-feu-apr%C3%A8s-une-attaque-de-drone",
-          "source": "France 24",
-          "summary": "🇱🇾 En Libye, une frappe de drone provoque un important incendie dans une raffinerie. Les pompiers de l’ouest de la Libye luttent mardi pour éteindre les derniers foyers de l'incendie à Zawiya, à environ 47 km à l’ouest…",
-          "published": "2026-08-11T19:02:51+00:00"
-        },
-        {
-          "title": "Films radio, masque de soudeur… Pourquoi bricoler une protection pour regarder l’éclipse est dangereux",
-          "link": "https://www.france24.com/fr/france/20260811-films-radio-masque-soudeur-pourquoi-bricoler-protection-regarder-%C3%A9clipse-dangereux",
-          "source": "France 24",
-          "summary": "Pour observer l’éclipse solaire de mercredi 12 août, des internautes partagent sur les réseaux des alternatives artisanales aux lunettes de protection et aux filtres solaires pour les appareils photo. Réutilisant des…",
-          "published": "2026-08-11T18:57:39+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Les propos misogynes d’un influenceur québécois font des vagues",
-          "link": "https://www.lapresse.ca/arts/2026-08-11/les-propos-misogynes-d-un-influenceur-quebecois-font-des-vagues.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Des propos misogynes, ce n’est pas anodin, c’est grave ; des femmes meurent à cause de cette ligne de pensée. » La mère d’un garçon de 12 ans a dénoncé mardi les propos « dégradants » à l’égard des femmes tenus par…",
-          "published": "2026-08-12T01:25:40+00:00"
-        },
-        {
-          "title": "Rosemont | Un groupe anarchiste fracasse une porte d’entrée par erreur",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-11/rosemont/un-groupe-anarchiste-fracasse-une-porte-d-entree-par-erreur.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Pascale Nadeau dormait à poings fermés, très tôt jeudi dernier, lorsque la porte d’entrée de son appartement de Rosemont a été défoncée et la vitre, brisée. Le vacarme a réveillé la jeune femme, qui s’est infligé une…",
-          "published": "2026-08-11T23:45:00+00:00"
-        },
-        {
-          "title": "Allégations de racisme à Montréal-Nord | « Le changement sera long et difficile », prévient Fady Dagher",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-11/allegations-de-racisme-a-montreal-nord/le-changement-sera-long-et-difficile-previent-fady-dagher.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les citoyens demeurent méfiants face au discours du chef du Service de police de la Ville de Montréal (SPVM), Fady Dagher, qui prévient que le changement de culture « sera long et difficile » au sein de son…",
-          "published": "2026-08-11T23:08:09+00:00"
-        },
-        {
-          "title": "Achète un livre québécois… et sauve notre civilisation !",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-11/achete-un-livre-quebecois-et-sauve-notre-civilisation.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Et si, en lisant un livre québécois cette semaine, vous empêchiez (un peu) le monde de s’effondrer ?",
-          "published": "2026-08-11T23:00:00+00:00"
-        },
-        {
-          "title": "L’eau manque à Porto Rico, encore une fois",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-11/l-eau-manque-a-porto-rico-encore-une-fois.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le mois de juillet le plus sec en 120 ans. Des infrastructures vétustes. Une chaleur record. Des incendies de forêt. Les conditions ont précipité Porto Rico dans une nouvelle crise de l’eau cet été. La gouverneure du…",
-          "published": "2026-08-11T23:00:00+00:00"
-        },
-        {
-          "title": "À vos lunettes, une éclipse solaire partielle sera visible du Québec",
-          "link": "https://www.ledevoir.com/actualites/science/1001273/lunettes-eclipse-solaire-partielle-sera-visible-quebec",
+          "title": "Les ressources d’aide de l’Ouest-de-l’Île débordées: «C’est une roue sans fin de survie»",
+          "link": "https://www.ledevoir.com/politique/montreal/1001198/ressources-aide-ouest-ile-debordes-c-est-roue-fin-survie",
           "source": "Le Devoir",
-          "summary": "Les passionnés d’astronomie pourront voir un petit croissant noir apparaître sur la surface du Soleil.",
-          "published": "2026-08-11T22:39:17+00:00"
+          "summary": "Un nombre croissant de locataires font appel aux banques alimentaires et aux services d’aide du secteur.",
+          "published": "2026-08-12T04:00:00+00:00"
         },
         {
-          "title": "Une pétition demande l’expulsion de l’ambassadeur américain au Canada",
-          "link": "https://www.ledevoir.com/actualites/1001264/petition-demande-expulsion-ambassadeur-americain-canada",
+          "title": "Le «Douzou», une petite rentrée littéraire avant la rentrée",
+          "link": "https://www.ledevoir.com/lire/1001228/douzou-petite-rentree-litteraire-avant-rentree",
           "source": "Le Devoir",
-          "summary": "La pétition sera présentée au Parlement par la présidente du Parti vert, Elizabeth May.",
-          "published": "2026-08-11T22:06:29+00:00"
+          "summary": "L’événement Le 12 août, j’achète un livre québécois! a chamboulé le calendrier des maisons d’édition du Québec.",
+          "published": "2026-08-12T04:00:00+00:00"
         },
         {
-          "title": "Une pétition virale demande l’expulsion de l’ambassadeur des États-Unis au Canada",
-          "link": "https://www.lapresse.ca/actualites/national/2026-08-11/une-petition-virale-demande-l-expulsion-de-l-ambassadeur-des-etats-unis-au-canada.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Près de 30 000 Canadiens ont signé une pétition demandant que le représentant du président américain Donald Trump à Ottawa soit expulsé du pays.",
-          "published": "2026-08-11T21:38:01+00:00"
-        },
-        {
-          "title": "Un homme est inculpé à Halifax pour menace d’attentat au consulat américain",
-          "link": "https://www.ledevoir.com/actualites/justice/1001252/homme-est-inculpe-halifax-menace-attentat-consulat-americain",
+          "title": "Le duo Ghostly Kisses a l’émotion comme matière première",
+          "link": "https://www.ledevoir.com/culture/musique/1001225/duo-ghostly-kisses-emotion-comme-matiere-premiere",
           "source": "Le Devoir",
-          "summary": "Ils s’agit du deuxième incident de ce type survenu dans ce bâtiment cette année.",
-          "published": "2026-08-11T21:32:17+00:00"
+          "summary": "Le duo de pop atmosphérique est de retour avec «Across The Pond», un album sensoriel et enveloppant.",
+          "published": "2026-08-12T04:00:00+00:00"
         },
         {
-          "title": "Un nouveau système d’alerte aux tempêtes pour contrer la «fatigue des alertes»",
-          "link": "https://www.ledevoir.com/actualites/environnement/1001249/nouveau-systeme-alerte-tempetes-contrer-fatigue-alertes",
+          "title": "Un nouveau festival pour les artistes locaux R&B et soul de la relève",
+          "link": "https://www.ledevoir.com/culture/musique/1001222/nouveau-festival-artistes-locaux-r-b-soul-releve",
           "source": "Le Devoir",
-          "summary": "Le nouveau système ciblera spécifiquement les zones que les prévisions estiment susceptibles d’être touchées.",
-          "published": "2026-08-11T21:30:50+00:00"
+          "summary": "Soul de la ville mettra en vedette les prestations de Sankya, Rose Adam, Zïbuwa, Coco Rose et plusieurs autres artistes.",
+          "published": "2026-08-12T04:00:00+00:00"
+        },
+        {
+          "title": "«The Fly»: l’art de l’horreur",
+          "link": "https://www.ledevoir.com/culture/cinema/1001219/the-fly-art-horreur",
+          "source": "Le Devoir",
+          "summary": "Le Montréalais Stephan Dupuis se remémore la production, il y a 40 ans, des maquillages spéciaux pour le film oscarisé.",
+          "published": "2026-08-12T04:00:00+00:00"
+        },
+        {
+          "title": "Ces souverainistes pusillanimes",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/1001270/ces-souverainistes-pusillanimes",
+          "source": "Le Devoir",
+          "summary": "La plus grande catastrophe pour le Québec serait qu’il reporte sans cesse le référendum.",
+          "published": "2026-08-12T04:00:00+00:00"
+        },
+        {
+          "title": "Le vent dans leurs cheveux",
+          "link": "https://www.ledevoir.com/opinion/chroniques/1001234/vent-cheveux",
+          "source": "Le Devoir",
+          "summary": "Je sais pertinemment que cet été est l’un des derniers en famille.",
+          "published": "2026-08-12T04:00:00+00:00"
+        },
+        {
+          "title": "La capitulation sans frontière",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/1001267/capitulation-frontiere",
+          "source": "Le Devoir",
+          "summary": "Carney devrait s’en tenir à marchander sa propre abdication, pas celle des provinces.",
+          "published": "2026-08-12T04:00:00+00:00"
+        },
+        {
+          "title": "À qui appartiendra le numérique québécois?",
+          "link": "https://www.ledevoir.com/opinion/idees/1001216/appartiendra-numerique-quebecois",
+          "source": "Le Devoir",
+          "summary": "Le Québec a besoin d’entreprises collectives dynamiques.",
+          "published": "2026-08-12T04:00:00+00:00"
+        },
+        {
+          "title": "Crise du savoir à l’ère de l’IA",
+          "link": "https://www.ledevoir.com/opinion/idees/1001174/crise-savoir-ere-ia",
+          "source": "Le Devoir",
+          "summary": "L’humanité risque de devenir la main-d’œuvre cognitive qui forme ses propres substituts.",
+          "published": "2026-08-12T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Jake Whisenant, l’Américain qui avait gravi El Capitan en moins de trois heures, se tue dans une chute en Californie",
-          "link": "https://www.lefigaro.fr/sports/autres-sports/jake-whisenant-l-americain-qui-avait-gravi-el-capitan-en-moins-de-trois-heures-se-tue-dans-une-chute-en-californie-20260812",
+          "title": "«Je suis l’objet de beaucoup de menaces» : Trump confirme sa rocambolesque exfiltration d’Air Force One",
+          "link": "https://www.lefigaro.fr/international/exfiltre-d-air-force-one-trump-affirme-avoir-finalement-couru-un-risque-plus-eleve-20260812",
           "source": "Le Figaro",
-          "summary": "Jacob «Jake» Whisenant, 30 ans, a fait une chute mortelle début août dans les parcs nationaux de Sequoia et Kings Canyon, en Californie.",
-          "published": "2026-08-12T01:04:34+00:00"
+          "summary": "Le président américain a estimé mardi que l’avion dans lequel il avait finalement voyagé, après un changement discret d’appareil en Turquie, avait été «davantage exposé» à une éventuelle attaque iranienne.",
+          "published": "2026-08-12T04:44:24+00:00"
         },
         {
-          "title": "Avec «Undertone», Ian Tuason nous donne mal au casque",
-          "link": "https://www.liberation.fr/culture/cinema/avec-undertone-ian-tuason-nous-donne-mal-au-casque-20260812_KTCXY7HWQVFLFK2S67XPYOZYX4/",
+          "title": "EN DIRECT -  Canicule :  les très fortes chaleurs s’étendent à la quasi-totalité du pays, surtout au Centre-Ouest",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-live-canicule-chaleur-incendies-meteo-temperatures-secheresse-20260812",
+          "source": "Le Figaro",
+          "summary": "Cette nouvelle vague de chaleur - la cinquième de l’année - se met véritablement en place à partir de ce mercredi. Les très fortes chaleurs vont s’étendre progressivement à la quasi-totalité du pays.",
+          "published": "2026-08-12T04:39:53+00:00"
+        },
+        {
+          "title": "Au moins 216 morts, 165 bâtiments effondrés, des survivants recherchés… Les dégâts du séisme en Colombie",
+          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-au-moins-132-morts-86-batiments-effondres-recherche-de-survivants-les-degats-du-seisme-en-colombie_8142965.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le pays a été frappé par un séisme de magnitude 7,4, lundi. Les recherches de survivants sont toujours en cours.",
+          "published": "2026-08-12T04:35:20+00:00"
+        },
+        {
+          "title": "Week-end du 15 août : Bison Futé prévoit une circulation difficile sur les routes, particulièrement samedi",
+          "link": "https://www.lefigaro.fr/conjoncture/week-end-du-15-aout-bison-fute-prevoit-une-circulation-difficile-sur-les-routes-particulierement-samedi-20260812",
+          "source": "Le Figaro",
+          "summary": "Dans le sens des départs comme des retours, de nombreux vacanciers sont attendus sur les principaux axes de l’Hexagone dès vendredi 14 et jusqu’à lundi 17, selon les prévisions de Bison Futé.",
+          "published": "2026-08-12T04:30:00+00:00"
+        },
+        {
+          "title": "Canicule : l'Aisne et l'Oise à leur tour placés en vigilance orange jeudi, 80 départements concernés au total",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-deux-departements-du-nord-de-la-france-places-a-leur-tour-en-vigilance-orange-jeudi-80-departements-concernes-au-total_8144045.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les températures maximales seront supérieures à 35°C jeudi dans les départements en vigilance orange \"canicule\", prévient Météo-France.",
+          "published": "2026-08-12T04:26:13+00:00"
+        },
+        {
+          "title": "Gang-bang «libertins», prostitution… Dignité «versus» liberté, est-ce bien le débat ?",
+          "link": "https://www.liberation.fr/idees-et-debats/tribunes/gang-bang-libertins-prostitution-dignite-versus-liberte-est-ce-bien-le-debat-20260812_JL7ITXFQEFAWLEZ5BANPIGNZVU/",
           "source": "Liberation",
-          "summary": "Le premier long métrage du cinéaste canadien promet une horreur sèche passant par le son, avant de noyer son idée dans une surenchère de thèmes et d’effets.",
-          "published": "2026-08-12T01:02:00+00:00"
+          "summary": "En réponse au juriste Daniel Borrillo, qui a critiqué dans «Libération» l’interdiction de soirées gang-bang «libertines» au nom de la «dignité humaine», le politiste Alain Policar estime que nous devons admettre des…",
+          "published": "2026-08-12T04:26:00+00:00"
         },
         {
-          "title": "L’Olympique lyonnais renverse le Sparta Prague et se qualifie pour les barrages de la Ligue des champions",
-          "link": "https://www.lemonde.fr/football/article/2026/08/12/l-olympique-lyonnais-renverse-le-sparta-prague-et-se-qualifie-pour-les-barrages-de-la-ligue-des-champions_6744429_1616938.html",
-          "source": "Le Monde",
-          "summary": "Revenu avec une composition plus offensive qu’au match aller, le club rhodanien s’est imposé face à l’équipe tchèque (3-0), mardi, à domicile.",
-          "published": "2026-08-12T00:40:10+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Moscou se prépare à une mobilisation massive d’ici la fin de l’année, affirme Volodymyr Zelensky",
-          "link": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-moscou-se-prepare-a-une-mobilisation-massive-d-ici-la-fin-de-l-annee-affirme-volodymyr-zelensky_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon le président ukrainien, qui cite des documents internes russes transmis par ses services de renseignement, « plusieurs centaines de milliers de Russes » seront mobilisés « pour l’automne, juste après une…",
-          "published": "2026-08-12T00:28:38+00:00"
-        },
-        {
-          "title": "Tennis : Coco Gauff file en demie du WTA 1000 de Toronto après le forfait de Bencic",
-          "link": "https://www.lefigaro.fr/sports/tennis/tennis-coco-gauff-file-en-demie-du-wta-1000-de-toronto-apres-le-forfait-de-bencic-20260812",
+          "title": "Addiction des mineurs aux réseaux sociaux : Meta de retour au tribunal mercredi",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/addiction-des-mineurs-aux-reseaux-sociaux-meta-de-retour-au-tribunal-mercredi-20260812",
           "source": "Le Figaro",
-          "summary": "La Suissesse Belinda Bencic, touchée à la hanche, a également déclaré forfait pour l’US Open, ultime tournoi du Grand Chelem de la saison, qui commence fin août.",
-          "published": "2026-08-12T00:15:24+00:00"
+          "summary": "Une coalition d’une trentaine d’États américains réclame jusqu’à 1400 milliards de dollars de pénalités et une profonde refonte des plateformes.",
+          "published": "2026-08-12T04:25:32+00:00"
         },
         {
-          "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul, son deuxième en une semaine",
-          "link": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html",
-          "source": "Le Monde",
-          "summary": "Cette démonstration de Pyongyang, mercredi 12 août, intervient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.",
-          "published": "2026-08-11T23:37:09+00:00"
-        },
-        {
-          "title": "La Corée du Nord tire un missile balistique dans la mer du Japon",
-          "link": "https://www.lefigaro.fr/international/la-coree-du-nord-tire-un-missile-balistique-dans-la-mer-du-japon-20260812",
-          "source": "Le Figaro",
-          "summary": "D’après l’armée sud-coréenne, le voisin nord-coréen a tiré un missile balistique depuis sa côte Est vers la mer du Japon tôt mercredi.",
-          "published": "2026-08-11T22:41:08+00:00"
-        },
-        {
-          "title": "Canicule : l'épisode de fortes chaleurs s'étend encore, 78 départements en vigilance orange mercredi",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-direct-canicule-un-nouvel-episode-de-fortes-chaleurs-s-installe-en-france_8142731.html#xtor=RSS-3-[lestitres]",
+          "title": "\"Je sais que ça va finir par le faire\"... Opportunité manquée aux championnats d'Europe après une saison de haute volée pour le lanceur de marteau Yann Chaussinand",
+          "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/je-sais-que-ca-va-finir-par-le-faire-opportunite-manquee-aux-championnats-d-europe-apres-une-saison-de-haute-volee-pour-le-lanceur-de-marteau-yann-chaussinand_8143706.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Il a fait jusqu'à 39°C, mardi après-midi, à Cadenet (Vaucluse) et Joué-lès-Tours (Indre-et-Loire), selon Météo-France.",
-          "published": "2026-08-11T21:53:51+00:00"
+          "summary": "Après avoir récemment battu le record de France de la discipline, le Français est passé à travers sa finale, mardi soir, aux championnats d'Europe de Birmingham.",
+          "published": "2026-08-12T04:15:02+00:00"
         },
         {
-          "title": "Perséides : après l’éclipse, la nuit d’étoiles filantes la plus spectaculaire et la plus populaire de l’année",
-          "link": "https://www.lefigaro.fr/sciences/la-pluie-d-etoiles-filantes-des-perseides-doit-atteindre-son-apogee-ce-lundi-soir-20240812",
-          "source": "Le Figaro",
-          "summary": "La pluie de météores des Perséides atteint son apogée dans la nuit de mercredi à jeudi. Selon la NASA, on peut s’attendre à observer entre 50 et 100 météores par heure, résultat de la rencontre avec l'atmosphère…",
-          "published": "2026-08-11T21:48:59+00:00"
+          "title": "EN DIRECT, canicule : la vigilance orange gagne la quasi-totalité du pays ; des températures allant jusqu’à 39 °C par endroits",
+          "link": "https://www.lemonde.fr/climat/live/2026/08/12/en-direct-canicule-la-vigilance-orange-gagne-la-quasi-totalite-du-pays-avec-des-temperatures-allant-jusqu-a-39-c-par-endroits_6744636_1652612.html",
+          "source": "Le Monde",
+          "summary": "Soixante-dix-huit départements sont classés mercredi en vigilance orange canicule par Météo-France, contre 43, mardi. Les fortes chaleurs s’accentueront jeudi, selon le prévisionniste, qui annonce que « les températures…",
+          "published": "2026-08-12T04:14:09+00:00"
         },
         {
-          "title": "Un père et sa fille de neuf ans retrouvés morts dans le Pas-de-Calais, la piste d'un infanticide \"privilégiée\"",
-          "link": "https://www.franceinfo.fr/faits-divers/un-pere-et-sa-fille-de-neuf-ans-retrouves-morts-au-domicile-familial-dans-le-pas-de-calais_8143763.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La piste d'un infanticide suivi d'un suicide est \"privilégiée\" à ce stade, a affirmé le parquet d'Arras, mardi, au lendemain de la découverte des corps.",
-          "published": "2026-08-11T21:41:18+00:00"
+          "title": "La condamnation d’ex-responsables du régime Al-Assad, un test pour la justice transitionnelle en Syrie",
+          "link": "https://www.lemonde.fr/international/article/2026/08/12/la-condamnation-d-ex-responsables-du-regime-al-assad-un-test-pour-la-justice-transitionnelle-en-syrie_6744635_3210.html",
+          "source": "Le Monde",
+          "summary": "L’ancien général Atef Najib a été condamné, mardi, à la peine de mort pour « crimes contre l’humanité ». Si les victimes du régime se réjouissent, plusieurs ONG dénoncent un procès inique.",
+          "published": "2026-08-12T04:13:17+00:00"
         }
       ]
     },
