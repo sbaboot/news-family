@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-13T01:51:33.365829+00:00",
+  "generated_at": "2026-08-13T04:49:30.662390+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "La Chine veut traquer ses ultrariches qui vivent à l’étranger, pour mieux les taxer",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/13/la-chine-veut-traquer-ses-ultrariches-qui-vivent-a-l-etranger-pour-mieux-les-taxer_6745542_3234.html",
+          "source": "Le Monde",
+          "summary": "Pour combler son déficit budgétaire, Pékin durcit la réglementation sur les trusts basés hors de Chine utilisés par les grandes fortunes chinoises pour échapper à l’impôt.",
+          "published": "2026-08-13T04:30:05+00:00"
+        },
+        {
+          "title": "Comment Fidel Castro est-il devenu le père de la révolution cubaine ? Comprendre en trois minutes",
+          "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/13/comment-fidel-castro-est-il-devenu-le-pere-de-la-revolution-cubaine-comprendre-en-trois-minutes_6745541_6176282.html",
+          "source": "Le Monde",
+          "summary": "Né il y a cent ans, Fidel Casto échange sa robe d’avocat contre le treillis des guérilleros dans les années 1950 pour devenir le chef de l’une des plus importantes révolutions du XXᵉ siècle.",
+          "published": "2026-08-13T04:00:46+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine : face à Moscou, les alliés de Kiev sont entrés dans une phase accrue d’incertitude",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/guerre-en-ukraine-face-a-moscou-les-allies-de-kiev-sont-entres-dans-une-phase-accrue-d-incertitude_6745505_3210.html",
+          "source": "Le Monde",
+          "summary": "La Russie intensifie ses frappes en profondeur en Ukraine et poursuit sa guerre hybride contre l’Europe, au moment où le soutien des Etats-Unis s’essouffle. Washington alerte sur une possible agression russe pour tester…",
+          "published": "2026-08-13T04:00:18+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : selon Volodymyr Zelensky, Kiev a besoin d’au moins 5 % des missiles Patriot de Washington pour contrer les attaques balistiques russes",
+          "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-selon-volodymyr-zelensky-kiev-a-besoin-d-au-moins-5-des-missiles-patriot-de-washington-pour-contrer-les-attaques-balistiques-russes_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Avec un tel niveau d’achat de missiles intercepteurs, « nous passerons l’hiver et sauverons des vies », a déclaré, à CNN, le président ukrainien, précisant en recevoir actuellement 1 % seulement.",
+          "published": "2026-08-13T03:52:28+00:00"
+        },
+        {
+          "title": "« C’était soit l’exil soit la prison » : rencontre avec Boris Nadejdine, l’opposant au Kremlin poursuivi à Moscou et réfugié à Paris depuis début août",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/c-etait-soit-l-exil-soit-la-prison-rencontre-avec-boris-nadejdine-l-opposant-au-kremlin-poursuivi-a-moscou-et-refugie-a-paris-depuis-debut-aout_6745435_3210.html",
+          "source": "Le Monde",
+          "summary": "Le vétéran de la politique russe, âgé de 63 ans, a essayé de lutter contre le régime de Vladimir Poutine et sa guerre en Ukraine par les voies légales et électorales. En vain. Menacé d’arrestation, il s’est résolu à…",
+          "published": "2026-08-13T03:30:02+00:00"
+        },
+        {
+          "title": "Au Venezuela, le pouvoir et l’opposition annoncent des points d’accord autour d’une réforme judiciaire",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/au-venezuela-le-pouvoir-et-l-opposition-annoncent-des-points-d-accord-autour-d-une-reforme-judiciaire_6745434_3210.html",
+          "source": "Le Monde",
+          "summary": "A l’issue d’une semaine de pourparlers à Caracas, les deux parties ont aussi déclaré s’unir pour demander à récupérer des fonds gelés au Royaume-Uni en raison de sanctions contre le pays sous la présidence de Nicolas…",
+          "published": "2026-08-13T03:26:49+00:00"
+        },
+        {
+          "title": "Dialogue au Venezuela : pouvoir et opposition esquissent un accord sur une réforme de la justice",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260813-dialogue-venezuela-pouvoir-opposition-accord-reforme-justice-dinorah-figuera-jorge-rodriguez",
+          "source": "France 24",
+          "summary": "Le pouvoir et l'opposition vénézuélienne ont conclu mercredi leur premier cycle de dialogue, s'accordant sur un processus de réforme judiciaire et la récupération d'actifs gelés au Royaume-Uni. Même si les États-Unis ne…",
+          "published": "2026-08-13T02:37:56+00:00"
+        },
+        {
+          "title": "L’administration Trump annule un rapport de référence sur l’Arctique, une nouvelle atteinte à la science du climat aux Etats-Unis",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/13/l-administration-trump-annule-un-rapport-de-reference-sur-l-arctique-une-nouvelle-atteinte-a-la-science-du-climat-aux-etats-unis_6745334_3244.html",
+          "source": "Le Monde",
+          "summary": "Publié chaque année depuis 2006, ce document est très estimé par la communauté scientifique, qui subit l’offensive climatosceptique du gouvernement américain.",
+          "published": "2026-08-13T02:00:14+00:00"
+        },
         {
           "title": "Boeing condamné à verser 29 millions de dollars à la famille d’une victime du crash en 2019 du 737 MAX",
           "link": "https://www.lemonde.fr/economie/article/2026/08/13/boeing-condamne-a-verser-29-millions-de-dollars-a-la-famille-d-une-victime-du-crash-du-737-max-en-2019_6745301_3234.html",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "Les recherches de survivants en Colombie entrent dans leur phase critique jeudi, à l'approche du délai de 72 heures après le séisme de magnitude 7,4 qui a fait 265 morts et des centaines de disparus, selon un dernier…",
           "published": "2026-08-13T00:52:57+00:00"
-        },
-        {
-          "title": "En Zambie, des élections à valeur de test pour le bilan économique du président sortant \"HH\"",
-          "link": "https://www.france24.com/fr/afrique/20260812-zambie-elections-presidentielle-l%C3%A9gislatives-bilan-economique-president-sortant-hh-mundubile",
-          "source": "France 24",
-          "summary": "Près de 8,7 millions de Zambiens sont appelés aux urnes jeudi pour choisir leur président. Le sortant Hakainde Hichilema, salué pour son redressement économique, affronte l'opposant Brian Mundubile, qui accuse le…",
-          "published": "2026-08-12T23:50:53+00:00"
-        },
-        {
-          "title": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
-          "link": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
-          "source": "Le Monde",
-          "summary": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe.",
-          "published": "2026-08-12T23:45:58+00:00"
-        },
-        {
-          "title": "La Colombie autorise des opérations antidrogue conjointes avec les Etats-Unis",
-          "link": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html",
-          "source": "Le Monde",
-          "summary": "Elu sur la promesse d’éradiquer les groupes impliqués dans le narcotrafic, le nouveau président colombien, Abelardo de la Espriella, est un allié de son homologue américain, Donald Trump. Cet accord, annoncé mercredi 12…",
-          "published": "2026-08-12T22:41:37+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne va limiter la diffusion de données sur les frappes de missiles russes",
-          "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-l-armee-ukrainienne-va-limiter-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Les restrictions portent sur « le nombre des cibles lancées, abattues, neutralisées ou n’ayant pas atteint leurs objectifs », a expliqué le commandement militaire au moment où la Russie intensifie ses attaques avec des…",
-          "published": "2026-08-12T22:21:10+00:00"
-        },
-        {
-          "title": "Éclipse totale en Espagne : au sommet de la cathédrale de Ségovie, 59 secondes hors du temps (4/4)",
-          "link": "https://www.france24.com/fr/europe/20260812-eclipse-totale-soleil-espagne-segovie-sommet-cathedrale-reportage",
-          "source": "France 24",
-          "summary": "À Ségovie, en Espagne, l’éclipse totale de Soleil a plongé la ville dans l’obscurité pendant 59 secondes, mercredi soir. Depuis les rues comme du sommet de la cathédrale, habitants et visiteurs ont assisté, bouleversés,…",
-          "published": "2026-08-12T22:17:02+00:00"
-        },
-        {
-          "title": "Pétrolier échoué au large d'Oman : la marée noire a atteint les côtes",
-          "link": "https://www.france24.com/fr/moyen-orient/20260812-petrolier-echoue-large-oman-maree-noire-atteint-cotes-environnement-pollution",
-          "source": "France 24",
-          "summary": "Les fuites d'un pétrolier échoué au large d'Oman, soupçonné d'appartenir à la \"flotte fantôme\" russe, ont atteint les côtes omanaises, menaçant jusqu'à 40 kilomètres de rives. La mousson complique les opérations pour…",
-          "published": "2026-08-12T21:57:56+00:00"
-        },
-        {
-          "title": "Karoline Leavitt, porte-parole de la Maison Blanche et trumpiste convaincue, va quitter son poste",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260812-karoline-leavitt-porte-parole-maison-blanche-trumpiste-convaincue-demission-quitte-poste-maman",
-          "source": "France 24",
-          "summary": "Karoline Leavitt, porte-parole de la Maison Blanche, quittera ses fonctions à la fin du mois pour consacrer davantage de temps à son rôle de maman. La plus jeune \"Press Secretary\" de l'histoire américaine, âgée de 28…",
-          "published": "2026-08-12T21:32:33+00:00"
-        },
-        {
-          "title": "🔴 Le PSG conserve la Supercoupe d'Europe après sa victoire face à Aston Villa",
-          "link": "https://www.france24.com/fr/sports/20260812-psg-conserve-supercoupe-d-europe-victoire-aston-villa",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-08-12T21:14:25+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "J’achète un livre québécois | Le doux du 12 août",
-          "link": "https://www.lapresse.ca/arts/chroniques/2026-08-12/j-achete-un-livre-quebecois/le-doux-du-12-aout.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Guerre en Ukraine | Kyiv demande à Washington au moins 5 % de ses missiles Patriot",
+          "link": "https://www.lapresse.ca/international/europe/2026-08-13/guerre-en-ukraine/kyiv-demande-a-washington-au-moins-5-de-ses-missiles-patriot.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Savez-vous qui j’aime encore plus que les écrivains ? Les libraires. Ce sont les seuls avec qui je peux gentiment chialer sur la journée Le 12 août, j’achète un livre québécois. La popularité de l’évènement est telle…",
-          "published": "2026-08-13T01:00:00+00:00"
+          "summary": "Volodymyr Zelensky demande aux États-Unis de vendre à l’Ukraine au moins 5 % des missiles intercepteurs Patriot qu’ils possèdent pour contrer les attaques croissantes de missiles balistiques russes, dans une interview…",
+          "published": "2026-08-13T04:15:23+00:00"
         },
         {
-          "title": "Près d’un centre commercial | Un jeune de 16 ans atteint par balle à Laval",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-12/pres-d-un-centre-commercial/un-jeune-de-16-ans-atteint-par-balle-a-laval.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un jeune homme de 16 ans a été blessé après avoir été atteint par balle près d’un centre commercial du quartier Saint-François, à Laval, mercredi après-midi. Deux suspects ont été arrêtés.",
-          "published": "2026-08-13T00:21:55+00:00"
-        },
-        {
-          "title": "Réglementer la location de courte durée permettrait de freiner la hausse des loyers",
-          "link": "https://www.ledevoir.com/economie/1001525/reglementer-location-courte-duree-permet-freiner-hausse-loyers-selon-etude",
+          "title": "Remettre les boules dans un monde qui recule",
+          "link": "https://www.ledevoir.com/opinion/idees/1001498/remettre-boules-monde-recule",
           "source": "Le Devoir",
-          "summary": "C’est ce que constate une récente étude menée par des chercheurs de l’Université McGill.",
-          "published": "2026-08-13T00:16:00+00:00"
+          "summary": "Le symbole ne remplace pas le filet social. Il n’est pas non plus son ennemi.",
+          "published": "2026-08-13T04:00:00+00:00"
         },
         {
-          "title": "Chronique de Patrick Lagacé | Julien, médusé",
-          "link": "https://www.lapresse.ca/actualites/chroniques/2026-08-12/chronique-de-patrick-lagace/julien-meduse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Je méduse Tu méduses Il/elle méduse Nous médusons Vous médusez Ils/elles médusent",
-          "published": "2026-08-12T23:30:00+00:00"
-        },
-        {
-          "title": "«1913–1923 : L’esprit du temps»: la fin de la domination culturelle et économique?",
-          "link": "https://www.ledevoir.com/culture/arts-visuels/1001507/fin-domination-culturelle-economique",
+          "title": "Des nuances de camouflage au Symposium de Baie-Saint-Paul",
+          "link": "https://www.ledevoir.com/culture/arts-visuels/1001477/nuances-camouflage-symposium-baie-saint-paul",
           "source": "Le Devoir",
-          "summary": "Plusieurs expos ont retenu l’attention à Paris, au musée du quai Branly qui fête ses 20 ans. Un musée au rôle redéfini…",
-          "published": "2026-08-12T23:16:00+00:00"
+          "summary": "Le rendez-vous d’art actuel a doublé son achalandage depuis 2023 et mise cette année sur un thème porteur de réflexion.",
+          "published": "2026-08-13T04:00:00+00:00"
         },
         {
-          "title": "L’été de Mark Carney",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-12/l-ete-de-mark-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La popularité de Mark Carney ne s’estompe pas. Elle se manifeste autant dans les sondages que durant une rencontre fortuite à l’étranger, lorsqu’un interlocuteur apprend que vous êtes canadien. Alors qu’un grand nombre…",
-          "published": "2026-08-12T23:00:00+00:00"
-        },
-        {
-          "title": "Quatre joueurs acquittés d’agression sexuelle demeurent suspendus par Hockey Canada",
-          "link": "https://www.ledevoir.com/sports/1001504/quatre-joueurs-acquittes-agression-sexuelle-demeurent-suspendus-hockey-canada",
+          "title": "L’étalement urbain déguisé, une menace bien réelle",
+          "link": "https://www.ledevoir.com/opinion/idees/1001495/etalement-urbain-deguise-menace-bien-reelle",
           "source": "Le Devoir",
-          "summary": "Les hockeyeurs sanctionnés avaient tous joué dans la LNH avant que les accusations ne soient déposées.",
-          "published": "2026-08-12T22:01:14+00:00"
+          "summary": "Chaque nouveau développement sur une terre non urbanisée fragilise notre résilience collective.",
+          "published": "2026-08-13T04:00:00+00:00"
         },
         {
-          "title": "Engagements environnementaux | Le PQ mise sur les transports abordables",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-12/engagements-environnementaux/le-pq-mise-sur-les-transports-abordables.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le Parti québécois promet de prolonger le rabais à l’achat d’un véhicule électrique et une « passe mobilité » à 95 $ couvrant tous les réseaux de transports en commun du Québec. Son « Plan environnement », rendu public…",
-          "published": "2026-08-12T21:07:47+00:00"
-        },
-        {
-          "title": "La fermeture d’un autre pavillon au cégep de Saint-Laurent sème l’inquiétude",
-          "link": "https://www.ledevoir.com/actualites/education/1001459/fermeture-autre-pavillon-cegep-saint-laurent-seme-inquietude",
+          "title": "Sortir du piège identitaire",
+          "link": "https://www.ledevoir.com/opinion/idees/1001486/sortir-piege-identitaire",
           "source": "Le Devoir",
-          "summary": "Une situation qui survient au moment où Québec tarde à mettre à jour son bilan de l’état de vétusté des cégeps.",
-          "published": "2026-08-12T21:00:00+00:00"
+          "summary": "Notre nation est toujours plus forte lorsqu’elle est unie.",
+          "published": "2026-08-13T04:00:00+00:00"
         },
         {
-          "title": "Churchill Falls | Québec et Terre-Neuve s’entendent",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-12/churchill-falls/quebec-et-terre-neuve-s-entendent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une entente est intervenue entre le Québec et Terre-Neuve-et-Labrador dans l’épineux dossier du chantier hydroélectrique de Churchill Falls, a appris La Presse. Une annonce se profile en début de semaine prochaine, à…",
-          "published": "2026-08-12T20:41:01+00:00"
+          "title": "Tennis Canada ou la population?",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/1001492/tennis-canada-ou-population",
+          "source": "Le Devoir",
+          "summary": "Un parc vert sacrifié, un stade payé à 90% par les fonds publics : à qui appartient vraiment le parc Jarry?",
+          "published": "2026-08-13T04:00:00+00:00"
+        },
+        {
+          "title": "La logique de Dagher",
+          "link": "https://www.ledevoir.com/opinion/chroniques/1001474/logique-dagher",
+          "source": "Le Devoir",
+          "summary": "Le chef du SPVM m’a fait voir que sa logique se rapproche de l’argumentaire du lobby des armes à feu aux États-Unis.",
+          "published": "2026-08-13T04:00:00+00:00"
+        },
+        {
+          "title": "Fidel Castro, une icône révolutionnaire ou un dirigeant tyrannique?",
+          "link": "https://www.ledevoir.com/monde/ameriques/1001465/fidel-castro-icone-revolutionnaire-ou-dirigeant-tyrannique",
+          "source": "Le Devoir",
+          "summary": "Le 13 août marque le 100e anniversaire de naissance d’El Comandante.",
+          "published": "2026-08-13T04:00:00+00:00"
+        },
+        {
+          "title": "Le mieux-être des adolescents ne peut pas reposer sur leurs seules épaules",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/1001501/mieux-etre-adolescents-ne-peut-pas-reposer-seules-epaules",
+          "source": "Le Devoir",
+          "summary": "Les jeunes ont besoin d’être mieux compris, mais surtout mieux entourés.",
+          "published": "2026-08-13T04:00:00+00:00"
+        },
+        {
+          "title": "L’étrange voyage lunaire de Bruce Liu",
+          "link": "https://www.ledevoir.com/culture/musique/1001480/etrange-voyage-lunaire-bruce-liu",
+          "source": "Le Devoir",
+          "summary": "Difficile de suivre le pianiste Bruce Liu dans son dernier album, « Lunaris », qui se conforme à la dictature l’écoute en ligne.",
+          "published": "2026-08-13T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Éclipse solaire : revivez les moments forts de cet événement exceptionnel en France, en Espagne et à travers le monde",
-          "link": "https://www.lefigaro.fr/sciences/en-direct-eclipse-solaire-du-12-aout-horaires-lunettes-sites-d-observation-tout-savoir-sur-ce-phenomene-astronomique-rare-20260812",
+          "title": "EN DIRECT - Météo : nouvelle journée caniculaire avec 80 départements en vigilance orange, épisode de pollution à l’ozone pour l’Ile-de-France",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-live-meteo-canicule-vague-chaleur-soleil-incendies-feux-temperatures-vigilance-secheresse-20260813",
           "source": "Le Figaro",
-          "summary": "La Lune s’est interposée ce mercredi entre la Terre et le Soleil pour offrir une éclipse solaire totale. Elle était notamment visible entre 19h22 et 21h09 à Paris, entre 19h31 et 21h15 à Marseille ou encore 19h27 et…",
-          "published": "2026-08-13T01:02:41+00:00"
+          "summary": "Les chaleurs caniculaires continuent de gagner du terrain jeudi, s’étendant à quasiment toute la France. Cet épisode caniculaire atteint son pic pour les journées de jeudi et vendredi.",
+          "published": "2026-08-13T04:46:03+00:00"
         },
         {
-          "title": "A Montpellier, un adolescent mis en examen après la mort d’un mineur de 16 ans poignardé lors d’une rixe",
-          "link": "https://www.lemonde.fr/societe/article/2026/08/13/a-montpellier-un-adolescent-mis-en-examen-apres-la-mort-d-un-mineur-de-16-ans-poignarde-lors-d-une-rixe_6745268_3224.html",
-          "source": "Le Monde",
-          "summary": "L’auteur des coups de couteau, âgé de 17 ans, s’était rendu volontairement au commissariat, lundi 10 août, au lendemain de l’altercation.",
-          "published": "2026-08-13T00:21:31+00:00"
-        },
-        {
-          "title": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
-          "link": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
-          "source": "Le Monde",
-          "summary": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe.",
-          "published": "2026-08-12T23:45:58+00:00"
-        },
-        {
-          "title": "NBA : les Los Angeles Lakers vont être vendus pour 12,5 milliards de dollars",
-          "link": "https://www.lemonde.fr/sport/article/2026/08/13/nba-les-los-angeles-lakers-vendus-pour-12-5-milliards-de-dollars_6745202_3242.html",
-          "source": "Le Monde",
-          "summary": "Selon le média américain ESPN, la célèbre franchise de basket devrait être rachetée par Joshua Kushner, frère du gendre de Donald Trump, et par l’ancien patron de Disney, Bob Iger. L’équipe avait déjà changé de…",
-          "published": "2026-08-12T23:39:04+00:00"
-        },
-        {
-          "title": "La Colombie autorise des opérations antidrogue conjointes avec les Etats-Unis",
-          "link": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html",
-          "source": "Le Monde",
-          "summary": "Elu sur la promesse d’éradiquer les groupes impliqués dans le narcotrafic, le nouveau président colombien, Abelardo de la Espriella, est un allié de son homologue américain, Donald Trump. Cet accord, annoncé mercredi 12…",
-          "published": "2026-08-12T22:41:37+00:00"
-        },
-        {
-          "title": "PSG-Aston Villa : «On a remporté les deux dernières Ligues des champions, ça veut dire qu’on peut remporter la troisième», juge Luis Enrique",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-aston-villa-c-est-important-mais-on-ne-sera-pas-juges-sur-ce-trophee-juge-luis-enrique-toujours-plus-ambitieux-20260813",
+          "title": "Sud, ouest, est... avec les canicules, les orientations à fuir et celles qu’il faut privilégier pour votre futur logement",
+          "link": "https://immobilier.lefigaro.fr/article/sud-ouest-est-avec-les-canicules-les-orientations-a-fuir-et-celles-qu-il-faut-privilegier-pour-votre-futur-logement-20260813",
           "source": "Le Figaro",
-          "summary": "L’entraîneur parisien s’est exprimé en conférence de presse suite à la victoire du club de la capitale en Supercoupe d’Europe contre Aston Villa, mercredi, en Autriche.",
-          "published": "2026-08-12T22:30:57+00:00"
+          "summary": "Les fortes chaleurs rebattent les cartes de la recherche immobilière. Au-delà de la présence de volets et de l’étage, l’orientation du logement est vitale pour éviter l’effet bouilloire thermique. Visite guidée.",
+          "published": "2026-08-13T04:30:00+00:00"
         },
         {
-          "title": "«La lumière était presque mystique» : à Biarritz, meilleur point d’observation de France, la foule captivée par l’éclipse",
-          "link": "https://www.lefigaro.fr/actualite-france/la-lumiere-etait-presque-mystique-a-biarritz-meilleur-point-d-observation-de-france-la-foule-captivee-par-l-eclipse-20260813",
-          "source": "Le Figaro",
-          "summary": "REPORTAGE - Des milliers de touristes, locaux et passionnés d’astronomie ont afflué sur la côte basque pour assister, face à l’océan, à l’occultation presque totale du soleil.",
-          "published": "2026-08-12T22:30:53+00:00"
+          "title": "«Aust» d’Emilien Chesnot : forces de frictions poétiques",
+          "link": "https://www.liberation.fr/culture/livres/aust-demilien-chesnot-forces-de-frictions-poetiques-20260813_F57T4HLPHBB6LPJUR4W2JZMQ2I/",
+          "source": "Liberation",
+          "summary": "L’auteur se retourne sur une expérience, où il vit les mots se métamorphoser en mouches. Et met en relation ce délitement avec l’écriture d’actes d’état civil, son métier pendant un temps.",
+          "published": "2026-08-13T04:20:00+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne va limiter la diffusion de données sur les frappes de missiles russes",
-          "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-l-armee-ukrainienne-va-limiter-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Les restrictions portent sur « le nombre des cibles lancées, abattues, neutralisées ou n’ayant pas atteint leurs objectifs », a expliqué le commandement militaire au moment où la Russie intensifie ses attaques avec des…",
-          "published": "2026-08-12T22:21:10+00:00"
-        },
-        {
-          "title": "\"C'est comme un serre-tête qui brille\" : face à l'éclipse, petits et grands ont eu des étoiles plein les yeux",
-          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/c-est-un-petit-croissant-de-soleil-partout-en-france-des-etoiles-plein-les-yeux-face-a-l-eclipse_8145305.html#xtor=RSS-3-[lestitres]",
+          "title": "\"C'était quand même impressionnant !\" A La Corogne, une éclipse solaire un peu gâchée par les nuages pour des milliers de spectateurs",
+          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/reportage-c-etait-quand-meme-impressionnant-a-la-corogne-une-eclipse-solaire-un-peu-gachee-par-les-nuages-pour-des-milliers-de-spectateurs_8144789.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "De Paris à Biarritz, les spectateurs ont tenté à leur manière de décrire ce phénomène rare en France. \"C'est marrant, parce qu'on a l'habitude de voir un petit croissant de Lune. Et là, c'est un petit croissant de…",
-          "published": "2026-08-12T22:16:15+00:00"
+          "summary": "Environ 125 000 personnes se sont massées mercredi soir sur la plage de cette ville du nord-ouest de l'Espagne, selon la mairie. Le jour a laissé place à la nuit pendant une minute et 17 secondes, mais une couverture…",
+          "published": "2026-08-13T04:11:31+00:00"
         },
         {
-          "title": "En difficulté, l'Ukraine restreint la diffusion de ses données sur les frappes de missiles russes",
-          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-difficulte-l-ukraine-restreint-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_8145398.html#xtor=RSS-3-[lestitres]",
+          "title": "\"On est dans un système qu'il faut réviser\" : un sapeur-pompier explique pourquoi les soldats du feu sont appelés à la grève jeudi",
+          "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/on-est-dans-un-systeme-qu-il-faut-reviser-un-sapeur-pompier-explique-pourquoi-les-soldats-du-feu-sont-appeles-a-la-greve-jeudi_8144441.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Confrontée à un manque d'intercepteurs Patriot, l'armée de l'air ukrainienne peine de plus en plus à bloquer les missiles balistiques tirés par la Russie.",
-          "published": "2026-08-12T22:14:44+00:00"
+          "summary": "Alors que neuf organisations syndicales appellent les pompiers à la grève jeudi, Ludovic Goblet, lieutenant au Service départemental d'incendie et de secours de la Somme, réclame davantage de moyens et une meilleure…",
+          "published": "2026-08-13T04:10:00+00:00"
+        },
+        {
+          "title": "\"L'eau va devenir plus chère que le vin\" : en Côte-d'Or, la sécheresse contraint Quincy-le-Vicomte à se ravitailler par camion citerne",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-l-eau-va-devenir-plus-chere-que-le-vin-en-cote-d-or-la-secheresse-contraint-quincy-le-vicomte-a-se-ravitailler-par-camion-citerne_8141777.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La source des Prâles ne fournit pas suffisamment d'eau depuis le début de l'été. Pour avoir de l'eau au robinet, la population doit compter sur des livraisons par la route, qui restent coûteuses malgré le volontariat…",
+          "published": "2026-08-13T04:07:13+00:00"
+        },
+        {
+          "title": "Elections au Royaume-Uni : dans la ville paupérisée de Clacton-on-Sea, «grâce à Nigel Farage, on parle de nous»",
+          "link": "https://www.liberation.fr/international/europe/elections-au-royaume-uni-dans-la-ville-pauperisee-de-clacton-on-sea-grace-a-nigel-farage-on-parle-de-nous-20260813_BMVIXW4T3FGK7I2CXQUJYVUSAY/",
+          "source": "Liberation",
+          "summary": "Le leader britannique d’extrême droite a provoqué un scrutin partiel en démissionnant de son mandat de député, avant de se représenter aussitôt. Dans la station balnéaire pauvre à la population vieillissante, devenue…",
+          "published": "2026-08-13T04:05:00+00:00"
+        },
+        {
+          "title": "« On essaie de bousculer les habitudes » : pour la présidentielle 2027, les formations de jeunesse des partis politiques comptent bien jouer leur carte",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/13/on-essaie-de-bousculer-les-habitudes-pour-la-presidentielle-2027-les-formations-de-jeunesse-des-partis-politiques-comptent-bien-jouer-leur-carte_6745504_823448.html",
+          "source": "Le Monde",
+          "summary": "Sur le terrain tout l’été, les organisations de jeunes de LFI, d’Horizons, de LR ou du PS tentent d’exister dans la campagne présidentielle et sont particulièrement actives pour mobiliser les jeunes électeurs.",
+          "published": "2026-08-13T04:00:07+00:00"
+        },
+        {
+          "title": "Éclipse solaire : où et quand admirer les prochains phénomènes en France et en Europe ?",
+          "link": "https://www.lefigaro.fr/sciences/eclipse-solaire-ou-et-quand-admirer-les-prochains-phenomenes-en-france-et-en-europe-20260813",
+          "source": "Le Figaro",
+          "summary": "CARTE – Une trentaine d’éclipses de Soleil sont prévues avant la fin du siècle mais seules quelques-unes seront bien visibles sur le Vieux Continent.",
+          "published": "2026-08-13T04:00:00+00:00"
+        },
+        {
+          "title": "Malgré les quotas, à Malte, le «Blue Lagoon» croule sous l’afflux de touristes cet été",
+          "link": "https://www.lefigaro.fr/voyages/guides/malgre-les-quotas-a-malte-le-blue-lagoon-croule-sous-l-afflux-de-touristes-cet-ete-20260813",
+          "source": "Le Figaro",
+          "summary": "Malgré un système de quotas, la crique la plus photographiée de Méditerranée continue de crouler sous les touristes chaque été.",
+          "published": "2026-08-13T04:00:00+00:00"
         }
       ]
     },
