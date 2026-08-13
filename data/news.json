@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-13T15:57:38.037867+00:00",
+  "generated_at": "2026-08-13T19:00:45.114571+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Canicules et sécheresse records: un été catastrophique en France et en Europe",
+          "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260813-canicules-et-s%C3%A9cheresse-records-un-%C3%A9t%C3%A9-catastrophique-en-france-et-en-europe",
+          "source": "France 24",
+          "summary": "La vague de chaleur actuelle en France dure depuis 17 jours. Elle a dépassé en longueur celle de 2003. Cet été brûlant a aussi entraîné une sécheresse record en Europe. Au point que les fleuves européens sont à leur…",
+          "published": "2026-08-13T18:07:24+00:00"
+        },
+        {
+          "title": "Royaume-Uni : un train déraille près de Brighton, pas de blessés graves selon des médias",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/royaume-uni-un-train-deraille-pres-de-brighton-pas-de-blesses-graves-selon-des-medias_6745833_3210.html",
+          "source": "Le Monde",
+          "summary": "Sur des photos circulant sur les réseaux sociaux et diffusées par plusieurs médias, des personnes se trouvent debout sur les voitures renversées. La ministre des transports britannique, Heidi Alexander, a dit être «…",
+          "published": "2026-08-13T17:56:51+00:00"
+        },
+        {
+          "title": "Grèce : un nouvel incendie près de Thessalonique, des touristes évacués",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
+          "source": "Le Monde",
+          "summary": "Le feu, qui a commencé jeudi après-midi, se situe dans une zone boisée située à environ 90 kilomètres au sud de Thessalonique, deuxième ville de Grèce.",
+          "published": "2026-08-13T17:48:46+00:00"
+        },
+        {
+          "title": "Ebola en RDC : l’épidémie s’étend à une sixième province et menace le Soudan du Sud",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/13/ebola-en-rdc-l-epidemie-s-etend-a-une-sixieme-province-et-menace-le-soudan-du-sud_6745827_3212.html",
+          "source": "Le Monde",
+          "summary": "Une personne est morte de la maladie dans la province du Bas-Uele (nord), frontalière de la République centrafricaine et jusqu’à présent épargnée.",
+          "published": "2026-08-13T16:50:40+00:00"
+        },
+        {
+          "title": "Thierry Burkhard, l’ex-chef d’état-major des armées françaises, n’a jamais prononcé ces phrases",
+          "link": "https://www.france24.com/fr/france/20260813-thierry-burkhard-ancien-chef-%C3%A9tat-major-arm%C3%A9es-fran%C3%A7aises-jamais-prononc%C3%A9-phrases",
+          "source": "France 24",
+          "summary": "Des internautes attribuent à tort des propos contre l’Ukraine ou critiques envers Emmanuel Macron à l’ancien chef d’état-major des armées françaises, le général Thierry Burkhard. Ces citations ont été inventées de…",
+          "published": "2026-08-13T16:40:32+00:00"
+        },
+        {
+          "title": "Maisons assiégées en Cisjordanie occupée : Israël envoie des troupes après les critiques inhabituelles de l’ambassadeur américain",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/maisons-assiegees-en-cisjordanie-occupee-israel-renvoie-des-troupes-apres-les-critiques-inhabituelles-de-l-ambassadeur-americain_6745825_3210.html",
+          "source": "Le Monde",
+          "summary": "Les habitants de ce village assiégé par des colons israéliens affirment être coupés de tout approvisionnement en nourriture et autres services essentiels.",
+          "published": "2026-08-13T16:34:26+00:00"
+        },
+        {
+          "title": "Soudan : Khartoum visée par des frappes de drones des paramilitaires pour le deuxième jour de suite",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/13/soudan-khartoum-visee-par-des-frappes-de-drones-des-paramilitaires-pour-le-deuxieme-jour-de-suite_6745824_3212.html",
+          "source": "Le Monde",
+          "summary": "Les paramilitaires des Forces de soutien rapide ont lancé mercredi une vaste attaque coordonnée de drones, visant la capitale et d’autres villes contrôlées par l’armée, distantes de plusieurs centaines de kilomètres.",
+          "published": "2026-08-13T16:28:23+00:00"
+        },
+        {
+          "title": "En Roumanie, particuliers et entreprises appelés à économiser l’électricité, après l’arrêt de la centrale nucléaire du pays faute d’eau dans le Danube",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/13/en-roumanie-particuliers-et-entreprises-appeles-a-economiser-l-electricite-apres-l-arret-de-la-centrale-nucleaire-du-pays-faute-d-eau-dans-le-danube_6745823_3244.html",
+          "source": "Le Monde",
+          "summary": "C’est la deuxième fois en trente ans de fonctionnement que la seule centrale nucléaire de ce pays de 19 millions d’habitants, qui fournit près de 20 % de ses besoins en électricité, est mise à l’arrêt.",
+          "published": "2026-08-13T16:28:20+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : la Russie affirme ne pas avoir reçu de « proposition formelle » pour un moratoire sur les attaques en mer Noire",
+          "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-la-russie-affirme-n-avoir-pas-recu-de-proposition-formelle-pour-un-moratoire-sur-les-attaques-en-mer-noire_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "La semaine dernière, la Turquie avait réclamé à Moscou et à Kiev la mise en place d’un « moratoire » sur ces attaques en mer Noire, en réponse à la recrudescence de celles-ci. « Aucune paix ne peut être instaurée sans…",
+          "published": "2026-08-13T16:16:53+00:00"
+        },
         {
           "title": "La visite de Poutine aux îles Kouriles provoque la colère du Japon",
           "link": "https://www.france24.com/fr/vid%C3%A9o/20260813-la-visite-de-poutine-aux-%C3%AEles-kouriles-provoque-la-col%C3%A8re-du-japon",
           "source": "France 24",
           "summary": "Jeudi 13 août 2026, Vladimir Poutine s’est rendu pour la première fois aux îles Kouriles, un archipel disputé avec le Japon depuis 1945. Une visite qui ravive les tensions entre Moscou et Tokyo, le Japon a déclaré avoir…",
           "published": "2026-08-13T15:51:02+00:00"
-        },
-        {
-          "title": "Avec la sécheresse en France, 40 000 personnes face au risque de pénurie d'eau potable",
-          "link": "https://www.france24.com/fr/france/20260813-s%C3%A9cheresse-france-40-000-personnes-risque-p%C3%A9nurie-eau-potable",
-          "source": "France 24",
-          "summary": "Alors qu'une nouvelle canicule s'étend jeudi sur l'Hexagone, des dizaines de communes sont contraintes de se ravitailler en eau potable par camion-citerne ou dons de bouteille tandis que 70 % du territoire fait l'objet…",
-          "published": "2026-08-13T15:44:04+00:00"
-        },
-        {
-          "title": "L’agent de la DGSE Yann Vézilier, condamné au Mali à vingt ans de prison, a été gracié",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/13/l-agent-de-la-dgse-yann-vezilier-condamne-au-mali-a-vingt-ans-de-prison-a-ete-gracie_6745816_3212.html",
-          "source": "Le Monde",
-          "summary": "Après un an de détention, Yann Vézilier, qui était dûment accrédité comme officier de la direction générale de la sécurité extérieure auprès des autorités maliennes, a été gracié jeudi par le chef de la junte, le…",
-          "published": "2026-08-13T15:20:07+00:00"
-        },
-        {
-          "title": "Pologne : arrestation d'un ressortissant russe chargé d'\"exécuter\" un Américano-Ukrainien à Varsovie",
-          "link": "https://www.france24.com/fr/europe/20260813-pologne-arrestation-ressortissant-russe-charg%C3%A9-ex%C3%A9cuter-am%C3%A9ricano-ukrainien-varsovie",
-          "source": "France 24",
-          "summary": "Un ressortissant russe qui aurait reçu \"l'ordre\" de Moscou d'\"exécuter\" un citoyen américano-ukrainien à Varsovie a été interpellé, a annoncé jeudi le Premier ministre polonais, Donald Tusk. L'assassinat a été empêché…",
-          "published": "2026-08-13T15:09:05+00:00"
-        },
-        {
-          "title": "Cisjordanie : des colons israéliens maintiennent le siège de maisons palestiniennes",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260813-cisjordanie-des-colons-isra%C3%A9liens-maintiennent-le-si%C3%A8ge-de-maisons-palestiniennes",
-          "source": "France 24",
-          "summary": "Des colons israéliens maintiennent le blocus de plusieurs maisons palestiniennes dans le nord de la Cisjordanie occupée, malgré l'intervention de l'armée israélienne.",
-          "published": "2026-08-13T15:06:19+00:00"
-        },
-        {
-          "title": "Shein débouté face à Temu par la justice britannique dans un litige sur les droits d’auteur",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/13/shein-deboute-face-a-temu-par-la-justice-britannique-dans-un-litige-sur-les-droits-d-auteur_6745815_3234.html",
-          "source": "Le Monde",
-          "summary": "Le différend portait sur des fiches produits mises en ligne sur le site britannique de Temu par des vendeurs tiers, utilisant notamment des photos prises par des employés de Shein mais aussi des images de fournisseurs…",
-          "published": "2026-08-13T15:04:20+00:00"
-        },
-        {
-          "title": "Le Sénégal et la Gambie redéfinissent leurs frontières communes, héritées de la colonisation",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/13/le-senegal-et-la-gambie-redefinissent-leurs-frontieres-communes-heritees-de-la-colonisation_6745811_3212.html",
-          "source": "Le Monde",
-          "summary": "Le 29 juillet, un accord définitif a été finalisé pour clarifier le tracé des 749 kilomètres de frontière terrestre entre les deux pays, a annoncé le Secrétariat permanent sénégalo-gambien. Cette frontière avait été…",
-          "published": "2026-08-13T15:00:05+00:00"
-        },
-        {
-          "title": "🔴 Mali : \"grâce présidentielle\" accordée à Yann Vézilier, un agent de la DGSE condamné à 20 ans de prison",
-          "link": "https://www.france24.com/fr/afrique/20260813-mali-gr%C3%A2ce-pr%C3%A9sidentielle-accord%C3%A9e-agent-fran%C3%A7ais-dgse-condamn%C3%A9-20-ans-prison-yann-v%C3%A9zilier",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-08-13T14:56:31+00:00"
-        },
-        {
-          "title": "Nigéria : le pari des véhicules électriques face à la crise du carburant",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260813-nig%C3%A9ria-le-pari-des-v%C3%A9hicules-%C3%A9lectriques-face-%C3%A0-la-crise-du-carburant",
-          "source": "France 24",
-          "summary": "À Lagos, le vrombissement des embouteillages pourrait-il laisser place au silence des véhicules électriques ? Face à la flambée des prix du carburant, certains automobilistes nigérians se tournent vers l’électrique.…",
-          "published": "2026-08-13T14:49:45+00:00"
-        },
-        {
-          "title": "Affaire Epstein : des parties civiles dénoncent la « lenteur » de la justice française et assignent l’Etat pour « faute lourde »",
-          "link": "https://www.lemonde.fr/societe/article/2026/08/13/affaire-epstein-des-parties-civiles-denoncent-la-lenteur-de-la-justice-francaise-et-assignent-l-etat-pour-faute-lourde_6745807_3224.html",
-          "source": "Le Monde",
-          "summary": "L’association de protection de l’enfance Innocence en danger et la plaignante suédoise Ebba Karlsson soulignent les manquements de l’institution judiciaire, du fait des délais de traitement des accusations et des pistes…",
-          "published": "2026-08-13T13:57:38+00:00"
         }
       ]
     },
@@ -84,6 +84,62 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "La Défense réexaminera la langue de travail dans ses bureaux",
+          "link": "https://www.ledevoir.com/actualites/1001651/defense-reexaminera-langue-travail-bureaux",
+          "source": "Le Devoir",
+          "summary": "Le ministre David McGuinty en a fait l’annonce jeudi à la suite des révélations du «Devoir».",
+          "published": "2026-08-13T18:00:00+00:00"
+        },
+        {
+          "title": "La justice dominicaine lève le voile sur les meurtres de Daniel Langlois et de sa conjointe",
+          "link": "https://www.ledevoir.com/actualites/justice/1001633/justice-dominicaine-leve-voile-meurtres-daniel-langlois-conjointe",
+          "source": "Le Devoir",
+          "summary": "La condamnation des deux Américains est survenue au terme d’une vaste enquête internationale, explique un procureur.",
+          "published": "2026-08-13T17:24:32+00:00"
+        },
+        {
+          "title": "L’Iran rejette les «mensonges» de Trump sur un contrôle américain du détroit d’Ormuz",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1001615/iran-rejette-mensonges-trump-controle-americain-detroit-ormuz",
+          "source": "Le Devoir",
+          "summary": "Téhéran assure que le passage reste sous son «contrôle total». Les Houthis revendiquent une attaque en Arabie saoudite.",
+          "published": "2026-08-13T16:36:55+00:00"
+        },
+        {
+          "title": "Manifestations anti-Israël | Un juge rejette la plainte de Donald Trump contre Harvard",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-13/manifestations-anti-israel/un-juge-rejette-la-plainte-de-donald-trump-contre-harvard.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un juge fédéral américain a rejeté jeudi une plainte de l’administration Trump contre l’université de Harvard, accusée d’avoir toléré des comportements antisémites lors de manifestations pro-palestiniennes sur son…",
+          "published": "2026-08-13T16:30:50+00:00"
+        },
+        {
+          "title": "Courses cyclistes en septembre à Montréal | Les plus lourdes entraves routières de l’histoire récente, prévient la Ville",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-13/courses-cyclistes-en-septembre-a-montreal/les-plus-lourdes-entraves-routieres-de-l-histoire-recente-previent-la-ville.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les courses cyclistes qui se succéderont à Montréal au milieu du mois de septembre entraîneront les plus lourdes entraves routières de l’histoire récente, selon la Ville de Montréal.",
+          "published": "2026-08-13T16:06:45+00:00"
+        },
+        {
+          "title": "La police a d’abord cru qu’il y avait deux tireurs à l’école de Tumbler Ridge",
+          "link": "https://www.ledevoir.com/actualites/1001609/police-abord-cru-il-y-avait-deux-tireurs-ecole-tumbler-ridge",
+          "source": "Le Devoir",
+          "summary": "Des documents judiciaires lèvent le voile sur les débuts de l’enquête sur ce drame survenu le 10 février.",
+          "published": "2026-08-13T16:04:05+00:00"
+        },
+        {
+          "title": "Délais en pathologie | Atteinte d’un cancer du sein, elle veut des réponses",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-08-13/delais-en-pathologie/atteinte-d-un-cancer-du-sein-elle-veut-des-reponses.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Atteinte d’un cancer du sein agressif, Audrey Bouchard poursuit son combat pour savoir pourquoi elle a attendu près de sept semaines avant d’obtenir les résultats de pathologie de sa tumeur. Selon un rapport qu’elle a…",
+          "published": "2026-08-13T16:00:00+00:00"
+        },
+        {
+          "title": "Droits de douane | Christine Fréchette fait le point avec les grands acteurs économiques",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-08-13/droits-de-douane/christine-frechette-fait-le-point-avec-les-grands-acteurs-economiques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les ténors du gouvernement Fréchette et les principaux acteurs économiques du Québec sont réunis jeudi à Montréal pour faire le point sur les nouveaux droits de douane américains de 50 % qui pourraient entrer en vigueur…",
+          "published": "2026-08-13T15:50:16+00:00"
+        },
+        {
           "title": "REM | Les essais débutent sur la branche vers l’aéroport Montréal-Trudeau",
           "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-13/rem/les-essais-debutent-sur-la-branche-vers-l-aeroport-montreal-trudeau.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -91,67 +147,11 @@
           "published": "2026-08-13T15:38:49+00:00"
         },
         {
-          "title": "La Caisse présente un rendement sous son indice de référence pour la première moitié de 2026",
-          "link": "https://www.ledevoir.com/economie/1001594/rendement-caisse-premiere-moitie-2026-ete-sous-indice-reference",
+          "title": "La rage du raton laveur gagne le Centre-du-Québec",
+          "link": "https://www.ledevoir.com/actualites/sante/1001600/rage-raton-laveur-etend-centre-quebec",
           "source": "Le Devoir",
-          "summary": "Son portefeuille de placements privés a particulièrement souffert, au contraire des investissements en Bourse.",
-          "published": "2026-08-13T15:01:00+00:00"
-        },
-        {
-          "title": "Résultats semestriels | La Caisse à 5,1 %, largement sous les attentes",
-          "link": "https://www.lapresse.ca/affaires/2026-08-13/resultats-semestriels/la-caisse-a-5-1-largement-sous-les-attentes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "À la mi-année 2026, La Caisse affiche un rendement global de 5,1 %, une performance en deçà de son portefeuille de référence, qui s’établit à 7,5 %.",
-          "published": "2026-08-13T15:00:00+00:00"
-        },
-        {
-          "title": "Fréchette à la recherche de solutions avant l’entrée en vigueur des nouveaux tarifs américains",
-          "link": "https://www.ledevoir.com/politique/1001591/christine-frechette-recherche-solutions-avant-entree-vigueur-nouveaux-tarifs",
-          "source": "Le Devoir",
-          "summary": "Elle a réuni ministres et présidents d’industrie pour « trouver des solutions » avant la date butoir du 19 août.",
-          "published": "2026-08-13T14:56:00+00:00"
-        },
-        {
-          "title": "Entente de Churchill Falls | Les oppositions demandent à Christine Fréchette de révéler les détails",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-13/entente-de-churchill-falls/les-oppositions-demandent-a-christine-frechette-de-reveler-les-details.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Pressée par les oppositions de révéler les détails de l’entente entre Québec et Terre-Neuve-et-Labrador sur Churchill Falls, la première ministre Christine Fréchette martèle qu’elle attendra que « quelque chose soit…",
-          "published": "2026-08-13T14:52:05+00:00"
-        },
-        {
-          "title": "Roses de Montréal | L’entraîneur-chef Robert Rositoiu congédié",
-          "link": "https://www.lapresse.ca/sports/soccer/2026-08-13/roses-de-montreal/l-entraineur-chef-robert-rositoiu-congedie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Robert Rositoiu, l’entraîneur-chef des Roses de Montréal depuis les débuts du club, a été relevé de ses fonctions.",
-          "published": "2026-08-13T14:51:20+00:00"
-        },
-        {
-          "title": "Qub radio | Marwah Rizqy va remplacer Isabelle Maréchal",
-          "link": "https://www.lapresse.ca/arts/2026-08-13/qub-radio/marwah-rizqy-va-remplacer-isabelle-marechal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Isabelle Maréchal est écartée de la programmation de Qub (99,5 FM). La députée sortante Marwah Rizqy prendra la barre de l’émission d’après-midi dans quelques semaines.",
-          "published": "2026-08-13T14:43:09+00:00"
-        },
-        {
-          "title": "Épidémie de rage du raton laveur | Un premier cas dans le Centre-du-Québec",
-          "link": "https://www.lapresse.ca/actualites/2026-08-13/epidemie-de-rage-du-raton-laveur/un-premier-cas-dans-le-centre-du-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’épidémie de rage du raton laveur qui sévit en Estrie et en Montérégie s’étend à une troisième région avec la confirmation d’un premier cas dans le Centre-du-Québec.",
-          "published": "2026-08-13T14:30:00+00:00"
-        },
-        {
-          "title": "Les nouveaux droits de douane américains pourraient créer des tensions entre les provinces",
-          "link": "https://www.ledevoir.com/economie/1001585/nouveaux-droits-douane-americains-pourraient-creer-tensions-entre-provinces",
-          "source": "Le Devoir",
-          "summary": "Les États-Unis pourraient exploiter les griefs régionaux pour imposer des concessions commerciales, préviennent des experts.",
-          "published": "2026-08-13T14:15:36+00:00"
-        },
-        {
-          "title": "Dix enfants sont morts à cause des trottinettes et vélos électriques l’an dernier au Canada",
-          "link": "https://www.ledevoir.com/actualites/sante/1001588/dix-enfants-sont-morts-cause-trottinettes-velos-electriques-an-dernier-canada",
-          "source": "Le Devoir",
-          "summary": "«Le problème en ce moment, c’est qu’on a affaire à un engin commercialisé comme un jouet», déplore un urgentiste.",
-          "published": "2026-08-13T14:15:04+00:00"
+          "summary": "Avec un premier cas confirmé de rage, la région devient la troisième touchée, après la Montérégie et l’Estrie.",
+          "published": "2026-08-13T15:32:00+00:00"
         }
       ]
     },
@@ -159,80 +159,136 @@
       "label": "France",
       "items": [
         {
-          "title": "Des maisons palestiniennes assiégées par des colons israéliens en Cisjordanie, l'ambassadeur américain en Israël dénonce un \"acte de terreur\"",
-          "link": "https://www.franceinfo.fr/monde/palestine/des-maisons-palestiniennes-assiegees-par-des-colons-israeliens-depuis-dimanche-l-ambassadeur-americain-en-israel-denonce-un-acte-de-terreur_8146241.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "En parallèle, plusieurs responsables politiques israéliens ont célébré la réouverture de la colonie de Ganim, en Cisjordanie. Plus de 500 000 Israéliens vivent dans des colonies illégales au regard du droit…",
-          "published": "2026-08-13T15:51:31+00:00"
-        },
-        {
-          "title": "Mahamadou : «On faisait du sport avec la police de proximité»",
-          "link": "https://www.liberation.fr/societe/mahamadou-on-faisait-du-sport-avec-la-police-de-proximite-20260813_I775L6KMP5EVDCQDQT3DIWHWFM/",
-          "source": "Liberation",
-          "summary": "Quels souvenirs garde-t-on de ces «vacances» particulières ? Dans ce dernier épisode, Mahamadou, enseignant et créateur de contenus, raconte sa jeunesse dans le XXe arrondissement, «l’ambiance différente» de cette…",
-          "published": "2026-08-13T15:50:00+00:00"
-        },
-        {
-          "title": "Les pompiers, «très déçus» après leur rencontre avec Laurent Nuñez, appellent à une «mobilisation intensive» fin septembre",
-          "link": "https://www.lefigaro.fr/actualite-france/les-pompiers-tres-decus-apres-leur-rencontre-avec-laurent-nunez-appellent-a-la-mobilisation-le-29-septembre-20260813",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Reçus jeudi au ministère de l’Intérieur, ils sont ressortis « très déçus » et appellent à une « manifestation statique ». Un projet de loi de modernisation de la sécurité civile sera présenté début…",
-          "published": "2026-08-13T15:48:29+00:00"
-        },
-        {
-          "title": "Familles nombreuses, retraite, APL des étudiants... Les propositions chocs des services de Bercy",
-          "link": "https://www.lefigaro.fr/flash-eco/allocations-familiales-aides-au-logement-frais-de-scolarite-les-propositions-chocs-des-services-de-bercy-20260813",
-          "source": "Le Figaro",
-          "summary": "L’inspection générale des finances dresse une liste de mesures pour économiser 4,2 milliards sur ces budgets, notamment en mettant les plus aisés à contribution.",
-          "published": "2026-08-13T15:45:16+00:00"
-        },
-        {
-          "title": "Huit étudiants appartenant à l’ultragauche mis en examen après avoir testé des explosifs dans les tunnels parisiens",
-          "link": "https://www.lefigaro.fr/faits-divers/huit-etudiants-appartenant-a-l-ultragauche-mis-en-examen-apres-avoir-teste-des-explosifs-dans-les-tunnels-parisiens-20260813",
-          "source": "Le Figaro",
-          "summary": "Soupçonnés d’avoir préparé une action violente en marge d’une mobilisation contre le chantier ferroviaire Lyon-Turin, les suspects ont été libérés et placés sous contrôle judiciaire ce mercredi.",
-          "published": "2026-08-13T15:43:42+00:00"
-        },
-        {
-          "title": "Futur CRA de Nantes : l’État envisage de renaturer des parcelles de Notre-Dame-des-Landes, les opposants crient au « greenwashing »",
-          "link": "https://www.lefigaro.fr/nantes/futur-cra-de-nantes-l-etat-envisage-de-renaturer-des-parcelles-de-notre-dame-des-landes-les-opposants-crient-au-greenwashing-20260813",
-          "source": "Le Figaro",
-          "summary": "La préfecture a désigné trois terrains à sanctuariser en compensation du site naturel destiné au futur centre de rétention administrative. Deux d’entre eux se trouvent sur l’ancienne ZAD, où des habitants espéraient…",
-          "published": "2026-08-13T15:42:26+00:00"
-        },
-        {
-          "title": "Rentrée littéraire : la performance artistique hors norme d'Antoine Volodine qui publie onze romans chez onze éditeurs différents",
-          "link": "https://www.franceinfo.fr/culture/livres/rentree-litteraire-la-performance-artistique-hors-norme-d-antoine-volodine-qui-publie-onze-romans-chez-onze-editeurs-differents_8146193.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Cette production inédite dans l'histoire littéraire française vise à clore en \"feu d'artifice\" sa longue carrière d'écrivain.",
-          "published": "2026-08-13T15:35:23+00:00"
-        },
-        {
-          "title": "Lunettes introuvables, nuages, embouteillages… Les grands perdants de l’éclipse solaire",
-          "link": "https://www.liberation.fr/lifestyle/voyages/lunettes-introuvables-nuages-embouteillages-les-grands-perdants-de-leclipse-solaire-20260813_CF7R7LEMDRFZPEVP7CXI2HPEBM/",
-          "source": "Liberation",
-          "summary": "Mercredi 12 août, il y avait les victorieux, bien équipés et confortablement installés avec une vue dégagée. Et puis, il y avait tous les autres, sans paire ou gênés par la météo.",
-          "published": "2026-08-13T15:34:40+00:00"
-        },
-        {
-          "title": "Ancien officier de la Marine nationale et commandant du porte-avions Charles de Gaulle, Olivier Lebas, meurt dans une chute de montagne",
-          "link": "https://www.liberation.fr/societe/ancien-officier-de-la-marine-nationale-et-commandant-du-porte-avions-charles-de-gaulle-olivier-lebas-meurt-dans-une-chute-de-montagne-20260813_3YZVYTTBXJFMLCIP4QXIP5IFVI/",
-          "source": "Liberation",
-          "summary": "Le marin de 62 ans avait mené plusieurs opérations en Afghanistan, en Libye, en Irak ou encore au Kosovo. Après 36 ans de services, il avait rejoint Airbus en 2023 comme conseiller défense.",
-          "published": "2026-08-13T15:33:36+00:00"
-        },
-        {
-          "title": "Canicule : 40 degrés relevés à Rennes et Bordeaux, jusqu'à 28 degrés attendus dans la nuit",
+          "title": "Trois pompiers légèrement blessés dans les incendies dans le Pas-de-Calais, 2 000 campeurs évacués en Loire-Atlantique",
           "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-le-pic-de-chaleur-attendu-jeudi-avant-une-baisse-progressive-des-temperatures_8145581.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les températures ne baisseront pas avant les orages prévus samedi et dimanche, annonce Météo-France.",
-          "published": "2026-08-13T15:31:40+00:00"
+          "summary": "Dans les Landes, une soixantaine de touristes ont également dû quitter leur village de vacances en raison d'un feu de forêt qui a parcouru plus de 100 hectares, en pleine canicule dans le pays.",
+          "published": "2026-08-13T18:57:07+00:00"
+        },
+        {
+          "title": "EN DIRECT - Canicule : 81 départements maintenus en alerte orange vendredi, 2000 campeurs évacués à Guérande en Loire-Atlantique",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-live-meteo-canicule-vague-chaleur-soleil-incendies-feux-temperatures-vigilance-secheresse-20260813",
+          "source": "Le Figaro",
+          "summary": "La vague de chaleur actuelle, qui a connu deux pics d’intensité pour l’instant - le premier le 29 juillet et le second mercredi - n’est pour l’heure pas encore terminée.",
+          "published": "2026-08-13T18:49:02+00:00"
+        },
+        {
+          "title": "La Russie rejette les critiques «infondées» du Japon et dénonce son «révisionnisme» après la visite de Poutine aux îles Kouriles",
+          "link": "https://www.lefigaro.fr/international/la-russie-rejette-les-critiques-infondees-du-japon-et-denonce-son-revisionnisme-apres-la-visite-de-poutine-aux-iles-kouriles-20260813",
+          "source": "Le Figaro",
+          "summary": "Le président russe a visité l’île d’Itouroup, dans l’archipel des Kouriles, au cœur d’un différend territorial entre les deux pays depuis des décennies, ce jeudi.",
+          "published": "2026-08-13T18:48:28+00:00"
+        },
+        {
+          "title": "Nouvel incendie dans les Landes près de la commune de Luglon, 100 hectares déjà parcourus",
+          "link": "https://www.liberation.fr/environnement/climat/nouvel-incendie-dans-les-landes-pres-de-la-commune-de-luglon-100-hectares-deja-parcourus-20260813_HFLZ3YYJHBAORK4NJCRBOOCUXA/",
+          "source": "Liberation",
+          "summary": "Reprise d’un feu datant du mois de juin, l’incendie s’est déclaré ce jeudi 13 août à Luglon, à 25 km au nord-ouest de Mont-de-Marsan. En fin d’après-midi, la situation était jugée «défavorable», avec plusieurs «sautes…",
+          "published": "2026-08-13T18:45:49+00:00"
+        },
+        {
+          "title": "Données fiscales : le système d’information de la DGFiP victime d’un «accès illégitime» fin juin, annonce Bercy",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-d-information-de-la-dgfip-victime-d-un-acces-illegitime-fin-juin-annonce-bercy-20260813",
+          "source": "Le Figaro",
+          "summary": "Le système informatique de l’administration fiscale a été victime d’une intrusion fin juin, a annoncé Bercy. Un cybercriminel revendique le vol de centaines de milliers de données.",
+          "published": "2026-08-13T18:43:40+00:00"
+        },
+        {
+          "title": "Suisse : des baigneurs découvrent une grenade à main provenant de l’ex-Yougoslavie dans une rivière à Zurich",
+          "link": "https://www.lefigaro.fr/flash-actu/suisse-des-baigneurs-decouvrent-une-grenade-a-main-provenant-de-l-ex-yougoslavie-dans-une-riviere-a-zurich-20260813",
+          "source": "Le Figaro",
+          "summary": "L’engin a été désamorcé et personne n’a été blessé, précise la police municipale zurichoise. L’engin se trouvait à un mètre du rivage.",
+          "published": "2026-08-13T18:41:40+00:00"
+        },
+        {
+          "title": "« Ces discours politiques ne sont plus audibles dans les casernes et sur le terrain » : les pompiers expliquent les raisons de leur « déception » après leur rencontre avec Laurent Nuñez",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/13/ces-discours-politiques-ne-sont-plus-audibles-dans-les-casernes-et-sur-le-terrain-les-pompiers-expliquent-les-raisons-de-leur-deception-apres-leur-rencontre-avec-le-ministre-de-l-interieur_6745836_3224.html",
+          "source": "Le Monde",
+          "summary": "L’intersyndicale des sapeurs-pompiers, qui réclame des moyens supplémentaires pour une profession « à bout », promet une nouvelle mobilisation fin septembre.",
+          "published": "2026-08-13T18:33:22+00:00"
+        },
+        {
+          "title": "Un programme secret de la CIA serait à l’origine des mystérieuses attaques contre des bateaux de pêches au large des îles Galápagos",
+          "link": "https://www.lefigaro.fr/international/un-programme-secret-de-la-cia-serait-a-l-origine-des-mysterieuses-attaques-contre-des-bateaux-de-peches-au-large-des-iles-galapagos-20260813",
+          "source": "Le Figaro",
+          "summary": "Au moins trois bateaux de pêche équatoriens ont été attaqués en début d’année près des Galápagos. Huit ressortissants équatoriens sont toujours portés disparus, sept mois plus tard.",
+          "published": "2026-08-13T18:30:11+00:00"
+        },
+        {
+          "title": "Impôts : la Direction générale des Finances publiques piratée fin juin par un «acteur malveillant», près de 700 000 contribuables concernés",
+          "link": "https://www.liberation.fr/economie/la-direction-generale-des-finances-publiques-victime-dun-acces-illegitime-fin-juin-de-la-part-dun-acteur-malveillant-20260813_BGLBBKAFJVDJ3GYUCP2PKHR4UU/",
+          "source": "Liberation",
+          "summary": "Après une usurpation d’identité, un hacker a pu «consulter et extraire des données concernant des particuliers et des professionnels», a reconnu ce jeudi le ministère de l’économie.",
+          "published": "2026-08-13T18:26:59+00:00"
+        },
+        {
+          "title": "Pour la première fois, des IA liées à la Chine ont mené une cyberattaque massive contre un gouvernement, sans humain aux commandes",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/pour-la-premiere-fois-des-ia-liees-a-la-chine-ont-mene-une-cyberattaque-massive-contre-un-gouvernement-sans-humain-aux-commandes-20260813",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - Selon le rapport d’un cabinet de cybersécurité, des agents IA ont planifié une attaque de bout en bout, sans être guidés étape par étape par l’humain.",
+          "published": "2026-08-13T18:26:55+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Pixel 11 Pro vs Pixel 10 Pro : les différences importantes à retenir",
+          "link": "https://www.frandroid.com/marques/google/3211643_pixel-11-pro-vs-pixel-10-pro-les-differences-importantes-a-retenir",
+          "source": "Frandroid",
+          "summary": "Google a officialisé le Pixel 11 Pro le 12 août pendant la Made by Google. Nouvelle puce, évolution photo, meilleur écran et charge sans fil optimisée. Voici les différences avec son prédécesseur, le Pixel 10 Pro.",
+          "published": "2026-08-13T18:30:00+00:00"
+        },
+        {
+          "title": "Un pirate a accédé à la plateforme des impôts, des données fiscales compromises",
+          "link": "https://next.ink/251702/un-pirate-a-accede-a-la-plateforme-des-impots-des-donnees-fiscales-compromises/",
+          "source": "Next",
+          "summary": "La Direction générale des Finances publiques (DGFiP) a confirmé les bruits de couloir qui circulaient depuis plusieurs heures sur les réseaux sociaux. Des données concernant des particuliers et des professionnels sont…",
+          "published": "2026-08-13T17:44:22+00:00"
+        },
+        {
+          "title": "CyberGhost ou ExpressVPN : lequel des deux VPN premium mérite votre argent en 2026 ?",
+          "link": "https://www.clubic.com/bons-plans-625141-cyberghost-ou-expressvpn-lequel-des-deux-vpn-premium-merite-votre-argent-en-2026.html",
+          "source": "Clubic",
+          "summary": "Entre un VPN au tarif cassé et un service premium presque deux fois plus cher, difficile de savoir où placer son argent. CyberGhost et ExpressVPN incarnent justement ce dilemme, avec deux philosophies et deux budgets…",
+          "published": "2026-08-13T16:41:00+00:00"
+        },
+        {
+          "title": "+96 % en 2026 : comment le « reste du monde » est devenu le nouveau moteur de la voiture électrique",
+          "link": "https://www.numerama.com/vroom/2311309-96-en-2026-comment-le-reste-du-monde-est-devenu-le-nouveau-moteur-de-la-voiture-electrique.html",
+          "source": "Numerama",
+          "summary": "Alors que les regards restent braqués sur la Chine et les États-Unis, la véritable accélération des véhicules électriques se joue peut-être ailleurs. En 2026, la catégorie « reste du monde » enregistre une croissance…",
+          "published": "2026-08-13T16:30:00+00:00"
+        },
+        {
+          "title": "AirPods Pro 3 à 198 € : le meilleur prix jamais vu chez Amazon",
+          "link": "https://www.clubic.com/bons-plans-625222-airpods-pro-3-a-198-le-meilleur-prix-jamais-vu-chez-amazon.html",
+          "source": "Clubic",
+          "summary": "Amazon frappe fort sur l'audio Apple en plein cœur de l'été, avec un tarif inédit sur les AirPods Pro 3. Voici ce que vaut réellement cette offre, entre record de prix et concessions à connaître.",
+          "published": "2026-08-13T16:12:00+00:00"
+        },
+        {
+          "title": "Ce ventilateur de plafond Philips à moitié prix pourrait bien vous sauver pendant la canicule",
+          "link": "https://www.frandroid.com/bons-plans/3211655_ce-ventilateur-de-plafond-philips-a-moitie-prix-pourrait-bien-vous-sauver-pendant-la-canicule",
+          "source": "Frandroid",
+          "summary": "Le Philips Atlas est un ventilateur de plafond silencieux qui brasse l'air en été pour vous rafraîchir. Il propose même un mode hiver, afin de pouvoir être utilisé toute l'année. Actuellement, Cdiscount l'affiche à…",
+          "published": "2026-08-13T16:07:00+00:00"
+        },
+        {
+          "title": "Photos de l’éclipse au smartphone (Samsung, Oppo, Xiaomi, Google) : voici nos résultats et classement",
+          "link": "https://www.frandroid.com/produits-android/smartphone/3211011_photos-de-leclipse-au-smartphone-samsung-oppo-xiaomi-google-voici-nos-resultats-et-classement",
+          "source": "Frandroid",
+          "summary": "Après avoir pris en photo l'éclipse du 12 août avec quatre smartphones différents, voici les résultats et notre classement pour savoir lequel a été le meilleur entre le Samsung Galaxy S26 Ultra, l'Oppo Find X9 Ultra, le…",
+          "published": "2026-08-13T16:00:00+00:00"
+        },
+        {
+          "title": "Amazon frappe fort ce jeudi : 7 ventes Flash tech à ne surtout pas manquer",
+          "link": "https://www.clubic.com/bons-plans-625237-amazon-frappe-fort-ce-jeudi-7-ventes-flash-tech-a-ne-surtout-pas-manquer.html",
+          "source": "Clubic",
+          "summary": "Ce jeudi soir, Amazon dégaine une nouvelle salve de ventes flash sur la tech, du PC portable à l'aspirateur robot en passant par le smartphone et l'audio. Voici 7 offres du jour sélectionnées et vérifiées, à saisir…",
+          "published": "2026-08-13T16:00:00+00:00"
+        },
         {
           "title": "Voiture électrique : un nouveau bonus arrive en septembre, pour le marché de l'occasion",
           "link": "https://www.clubic.com/actualite-625225-voiture-electrique-un-nouveau-bonus-arrive-en-septembre-pour-le-marche-de-l-occasion.html",
@@ -260,62 +316,6 @@
           "source": "Clubic",
           "summary": "Boulanger propose actuellement la tablette Android XIAOMI Redmi Pad 2 9.7'' Gris 128 Go à 199,00 € au lieu de 269,99 €, soit une remise de 26 %. Voici ce que vaut réellement cette offre pour qui cherche une tablette…",
           "published": "2026-08-13T15:48:00+00:00"
-        },
-        {
-          "title": "Meilleur vidéoprojecteur pas cher en 2026 : notre comparatif (moins de 500 €)",
-          "link": "https://www.frandroid.com/guide-dachat/1978676_quels-sont-les-meilleurs-videoprojecteurs-pas-chers-en-2024",
-          "source": "Frandroid",
-          "summary": "Envie d'un vidéoprojecteur, mais vous constatez que les prix s'envolent vite ? Pas de souci, voici six modèles de vidéoprojecteurs pas chers, à moins de 500 euros, avec les meilleurs rapports qualité/prix actuellement.",
-          "published": "2026-08-13T15:43:27+00:00"
-        },
-        {
-          "title": "Santé publique France confirme une cyberattaque : 80 000 fiches de contact exposées",
-          "link": "https://www.frandroid.com/culture-tech/3211625_sante-publique-france-confirme-une-cyberattaque-80-000-fiches-de-contact-exposees",
-          "source": "Frandroid",
-          "summary": "Des pirates revendiquent le vol de près de 80&nbsp;000 fiches sur une plateforme liée à Santé publique France. Ces données concernent surtout des professionnels&nbsp;: les dossiers médicaux des Français ne sont pas en…",
-          "published": "2026-08-13T15:37:02+00:00"
-        },
-        {
-          "title": "Pendant que nous regardions le ciel, les satellites ont filmé l’ombre de la Lune glisser sur la Terre",
-          "link": "https://www.numerama.com/sciences/2311207-pendant-que-nous-regardions-le-ciel-les-satellites-ont-filme-lombre-de-la-lune-glisser-sur-la-terre.html",
-          "source": "Numerama",
-          "summary": "Depuis la Terre, l’éclipse solaire du 12 août 2026 a offert un spectacle grandiose. Mais vu de l’espace, le phénomène était tout aussi vertigineux. Les satellites météorologiques ont filmé l’immense ombre de la Lune…",
-          "published": "2026-08-13T15:35:36+00:00"
-        },
-        {
-          "title": "Combien coûte vraiment un PC gamer allumé toute l'année ? La réponse ne vient pas du boîtier",
-          "link": "https://www.clubic.com/actualite-624928-combien-coute-vraiment-un-pc-gamer-allume-toute-l-annee-la-reponse-ne-vient-pas-du-boitier.html",
-          "source": "Clubic",
-          "summary": "Un PC gamer laissé allumé toute l'année, ça pèse combien sur la facture ? Le calcul est plus simple qu'il n'y paraît, à condition de ne pas confondre la puissance annoncée de l'alimentation avec la consommation réelle…",
-          "published": "2026-08-13T15:30:00+00:00"
-        },
-        {
-          "title": "Instagram change un petit détail visuel qui n’avait pas bougé « depuis 10 ans »",
-          "link": "https://www.frandroid.com/marques/meta/3211659_instagram-change-un-petit-detail-visuel-qui-navait-pas-bouge-depuis-10-ans",
-          "source": "Frandroid",
-          "summary": "Instagram présente son nouveau logo typographique qui s'affiche tout en haut de l'application",
-          "published": "2026-08-13T15:09:14+00:00"
-        },
-        {
-          "title": "Les gains de productivité de l’IA provoquent une augmentation des émissions de CO2",
-          "link": "https://next.ink/251669/les-gains-de-productivite-de-lia-provoquent-une-augmentation-des-emissions-de-co2/",
-          "source": "Next",
-          "summary": "En s’appuyant sur l’estimation des gains de productivité dans le secteur de l’énergie, une étude constate que l’IA sert aussi bien le sous-domaine de l’énergie fossile que celui du renouvelable. À défaut d’action…",
-          "published": "2026-08-13T15:02:32+00:00"
-        },
-        {
-          "title": "Netflix : ça y est, les essais gratuits font leur retour en France !",
-          "link": "https://www.clubic.com/actualite-625213-netflix-ca-y-est-les-essais-gratuits-font-leur-retour-en-france.html",
-          "source": "Clubic",
-          "summary": "Le géant du streaming veut attirer de nouveaux clients. Et quoi de mieux que de proposer à nouveau un essai gratuit pour les hameçonner ?",
-          "published": "2026-08-13T15:02:00+00:00"
-        },
-        {
-          "title": "DJI Neo 2 : ce petit drone 4K avec son pack FPV et sa multitude d’accessoires vole sous les 500 €",
-          "link": "https://www.frandroid.com/bons-plans/3211537_dji-neo-2-ce-petit-drone-4k-avec-son-pack-fpv-et-sa-multitude-daccessoires-vole-sous-les-500-e",
-          "source": "Frandroid",
-          "summary": "Léger, capable de filmer en 4K 60p et idéal pour les débutants, le DJI Neo 2 est un drone intelligent et totalement autonome, qui surpasse clairement son prédécesseur. Actuellement, son pack Motion Fly More Combo, avec…",
-          "published": "2026-08-13T14:53:48+00:00"
         }
       ]
     }
