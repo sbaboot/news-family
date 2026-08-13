@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-12T21:43:00.601308+00:00",
+  "generated_at": "2026-08-13T01:51:33.365829+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Boeing condamné à verser 29 millions de dollars à la famille d’une victime du crash en 2019 du 737 MAX",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/13/boeing-condamne-a-verser-29-millions-de-dollars-a-la-famille-d-une-victime-du-crash-du-737-max-en-2019_6745301_3234.html",
+          "source": "Le Monde",
+          "summary": "Un jury américain a accordé cette indemnisation à la famille de Michael Ryan, ingénieur irlandais de l’ONU qui faisait partie des 157 personnes tuées dans l’accident du vol ET302 d’Ethiopian Airlines, le 10 mars 2019.",
+          "published": "2026-08-13T01:31:06+00:00"
+        },
+        {
+          "title": "En Colombie, la fenêtre de tir pour retrouver des survivants du séisme se referme",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260813-colombie-seisme-retrouver-survivants-cali-pereira-deuil",
+          "source": "France 24",
+          "summary": "Les recherches de survivants en Colombie entrent dans leur phase critique jeudi, à l'approche du délai de 72 heures après le séisme de magnitude 7,4 qui a fait 265 morts et des centaines de disparus, selon un dernier…",
+          "published": "2026-08-13T00:52:57+00:00"
+        },
+        {
+          "title": "En Zambie, des élections à valeur de test pour le bilan économique du président sortant \"HH\"",
+          "link": "https://www.france24.com/fr/afrique/20260812-zambie-elections-presidentielle-l%C3%A9gislatives-bilan-economique-president-sortant-hh-mundubile",
+          "source": "France 24",
+          "summary": "Près de 8,7 millions de Zambiens sont appelés aux urnes jeudi pour choisir leur président. Le sortant Hakainde Hichilema, salué pour son redressement économique, affronte l'opposant Brian Mundubile, qui accuse le…",
+          "published": "2026-08-12T23:50:53+00:00"
+        },
+        {
+          "title": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
+          "source": "Le Monde",
+          "summary": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe.",
+          "published": "2026-08-12T23:45:58+00:00"
+        },
+        {
+          "title": "La Colombie autorise des opérations antidrogue conjointes avec les Etats-Unis",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html",
+          "source": "Le Monde",
+          "summary": "Elu sur la promesse d’éradiquer les groupes impliqués dans le narcotrafic, le nouveau président colombien, Abelardo de la Espriella, est un allié de son homologue américain, Donald Trump. Cet accord, annoncé mercredi 12…",
+          "published": "2026-08-12T22:41:37+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne va limiter la diffusion de données sur les frappes de missiles russes",
+          "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-l-armee-ukrainienne-va-limiter-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Les restrictions portent sur « le nombre des cibles lancées, abattues, neutralisées ou n’ayant pas atteint leurs objectifs », a expliqué le commandement militaire au moment où la Russie intensifie ses attaques avec des…",
+          "published": "2026-08-12T22:21:10+00:00"
+        },
+        {
+          "title": "Éclipse totale en Espagne : au sommet de la cathédrale de Ségovie, 59 secondes hors du temps (4/4)",
+          "link": "https://www.france24.com/fr/europe/20260812-eclipse-totale-soleil-espagne-segovie-sommet-cathedrale-reportage",
+          "source": "France 24",
+          "summary": "À Ségovie, en Espagne, l’éclipse totale de Soleil a plongé la ville dans l’obscurité pendant 59 secondes, mercredi soir. Depuis les rues comme du sommet de la cathédrale, habitants et visiteurs ont assisté, bouleversés,…",
+          "published": "2026-08-12T22:17:02+00:00"
+        },
+        {
+          "title": "Pétrolier échoué au large d'Oman : la marée noire a atteint les côtes",
+          "link": "https://www.france24.com/fr/moyen-orient/20260812-petrolier-echoue-large-oman-maree-noire-atteint-cotes-environnement-pollution",
+          "source": "France 24",
+          "summary": "Les fuites d'un pétrolier échoué au large d'Oman, soupçonné d'appartenir à la \"flotte fantôme\" russe, ont atteint les côtes omanaises, menaçant jusqu'à 40 kilomètres de rives. La mousson complique les opérations pour…",
+          "published": "2026-08-12T21:57:56+00:00"
+        },
         {
           "title": "Karoline Leavitt, porte-parole de la Maison Blanche et trumpiste convaincue, va quitter son poste",
           "link": "https://www.france24.com/fr/am%C3%A9riques/20260812-karoline-leavitt-porte-parole-maison-blanche-trumpiste-convaincue-demission-quitte-poste-maman",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "",
           "published": "2026-08-12T21:14:25+00:00"
-        },
-        {
-          "title": "De Tunis à Dakar, la tête dans les nuages pour observer l'éclipse solaire",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260812-de-tunis-%C3%A0-dakar-la-t%C3%AAte-dans-les-nuages-pour-observer-l-%C3%A9clipse-solaire",
-          "source": "France 24",
-          "summary": "Une partie du monde a aujourd’hui eu la tête dans les nuages… L’éclipse a également été observée en Afrique. C'est à Tabarka, où le phénomène a été le plus marqué en Tunisie, 59,06 % du Soleil seront masqués. L’éclipse…",
-          "published": "2026-08-12T20:36:13+00:00"
-        },
-        {
-          "title": "En images : les photos les plus marquantes de l'éclipse solaire",
-          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260812-en-images-photos-les-plus-marquantes-%C3%A9clipse-solaire-12-ao%C3%BBt",
-          "source": "France 24",
-          "summary": "Une partie de l'Espagne a été plongée mercredi dans le noir en plein jour, lorsque la Lune a entièrement masqué le Soleil, sous le regard émerveillé d'une foule massée en plusieurs points du pays. Si le reste de…",
-          "published": "2026-08-12T20:29:43+00:00"
-        },
-        {
-          "title": "Donald Trump annonce le départ de sa porte-parole Karoline Leavitt",
-          "link": "https://www.lemonde.fr/international/article/2026/08/12/donald-trump-annonce-le-depart-de-sa-porte-parole-karoline-leavitt_6745099_3210.html",
-          "source": "Le Monde",
-          "summary": "Cette native du New Hampshire (nord-est) a piloté une stratégie de communication agressive, riche en attaques contre les médias traditionnels.",
-          "published": "2026-08-12T20:27:55+00:00"
-        },
-        {
-          "title": "\"On se sent tout petits\" : l'émotion des spectateurs après le passage de l'éclipse",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-on-se-sent-tout-petits-%C3%A9motion-spectateurs-apr%C3%A8s-passage-%C3%A9clipse",
-          "source": "France 24",
-          "summary": "Des milliers de personnes ont assisté au spectacle d'une éclipse solaire quasi-totale en France, mercredi 12 août. Tous disent leur émotion après avoir assisté à ce phénomène.",
-          "published": "2026-08-12T20:13:02+00:00"
-        },
-        {
-          "title": "Discord : le Brésil ordonne la suspension des directs sur la plateforme après le suicide d’une adolescente",
-          "link": "https://www.lemonde.fr/pixels/article/2026/08/12/discord-le-bresil-ordonne-la-suspension-des-directs-sur-la-plateforme-apres-le-suicide-d-une-adolescente_6745095_4408996.html",
-          "source": "Le Monde",
-          "summary": "Le commissaire Alessandro Barreto, coordinateur du service de lutte contre les crimes cybernétiques au ministère de la justice, a dénoncé de « terribles failles de modération » de la plateforme dans la transmission qui…",
-          "published": "2026-08-12T19:18:26+00:00"
-        },
-        {
-          "title": "Eclipse : l'électricité solaire en berne, l'astro-tourisme au firmament",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260812-eclipse-l-%C3%A9lectricit%C3%A9-solaire-en-berne-l-astro-tourisme-au-firmament",
-          "source": "France 24",
-          "summary": "La disparition du Soleil derrière la Lune : un spectacle fascinant aux effets économiques multiples. La baisse de temps d'ensoleillement le 12 août réduit la production d'énergie photovoltaïque dans plusieurs pays…",
-          "published": "2026-08-12T19:17:55+00:00"
-        },
-        {
-          "title": "Le moment de l'éclipse solaire totale en Espagne",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-moment-%C3%A9clipse-solaire-totale-en-espagne",
-          "source": "France 24",
-          "summary": "Voici le moment où la Lune a entièrement recouvert le Soleil lors d'une éclipse totale en Espagne ce mercredi.",
-          "published": "2026-08-12T19:03:59+00:00"
-        },
-        {
-          "title": "Séisme en Colombie : le secteur du cinéma se mobilise la nuit pour éclairer les décombres",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260812-seisme-colombie-travailleurs-secteur-cinema-audiovisuel-se-mobilisent-nuit-eclairer-decombres",
-          "source": "France 24",
-          "summary": "Armés de projecteurs habituellement utilisés en studio, des travailleurs du secteur du cinéma se mobilisent dans la ville de Cali depuis lundi, à la nuit tombée, pour éclairer les décombres et ainsi faciliter le travail…",
-          "published": "2026-08-12T18:59:35+00:00"
         }
       ]
     },
@@ -84,6 +84,55 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "J’achète un livre québécois | Le doux du 12 août",
+          "link": "https://www.lapresse.ca/arts/chroniques/2026-08-12/j-achete-un-livre-quebecois/le-doux-du-12-aout.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Savez-vous qui j’aime encore plus que les écrivains ? Les libraires. Ce sont les seuls avec qui je peux gentiment chialer sur la journée Le 12 août, j’achète un livre québécois. La popularité de l’évènement est telle…",
+          "published": "2026-08-13T01:00:00+00:00"
+        },
+        {
+          "title": "Près d’un centre commercial | Un jeune de 16 ans atteint par balle à Laval",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-12/pres-d-un-centre-commercial/un-jeune-de-16-ans-atteint-par-balle-a-laval.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un jeune homme de 16 ans a été blessé après avoir été atteint par balle près d’un centre commercial du quartier Saint-François, à Laval, mercredi après-midi. Deux suspects ont été arrêtés.",
+          "published": "2026-08-13T00:21:55+00:00"
+        },
+        {
+          "title": "Réglementer la location de courte durée permettrait de freiner la hausse des loyers",
+          "link": "https://www.ledevoir.com/economie/1001525/reglementer-location-courte-duree-permet-freiner-hausse-loyers-selon-etude",
+          "source": "Le Devoir",
+          "summary": "C’est ce que constate une récente étude menée par des chercheurs de l’Université McGill.",
+          "published": "2026-08-13T00:16:00+00:00"
+        },
+        {
+          "title": "Chronique de Patrick Lagacé | Julien, médusé",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-08-12/chronique-de-patrick-lagace/julien-meduse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Je méduse Tu méduses Il/elle méduse Nous médusons Vous médusez Ils/elles médusent",
+          "published": "2026-08-12T23:30:00+00:00"
+        },
+        {
+          "title": "«1913–1923 : L’esprit du temps»: la fin de la domination culturelle et économique?",
+          "link": "https://www.ledevoir.com/culture/arts-visuels/1001507/fin-domination-culturelle-economique",
+          "source": "Le Devoir",
+          "summary": "Plusieurs expos ont retenu l’attention à Paris, au musée du quai Branly qui fête ses 20 ans. Un musée au rôle redéfini…",
+          "published": "2026-08-12T23:16:00+00:00"
+        },
+        {
+          "title": "L’été de Mark Carney",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-12/l-ete-de-mark-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La popularité de Mark Carney ne s’estompe pas. Elle se manifeste autant dans les sondages que durant une rencontre fortuite à l’étranger, lorsqu’un interlocuteur apprend que vous êtes canadien. Alors qu’un grand nombre…",
+          "published": "2026-08-12T23:00:00+00:00"
+        },
+        {
+          "title": "Quatre joueurs acquittés d’agression sexuelle demeurent suspendus par Hockey Canada",
+          "link": "https://www.ledevoir.com/sports/1001504/quatre-joueurs-acquittes-agression-sexuelle-demeurent-suspendus-hockey-canada",
+          "source": "Le Devoir",
+          "summary": "Les hockeyeurs sanctionnés avaient tous joué dans la LNH avant que les accusations ne soient déposées.",
+          "published": "2026-08-12T22:01:14+00:00"
+        },
+        {
           "title": "Engagements environnementaux | Le PQ mise sur les transports abordables",
           "link": "https://www.lapresse.ca/actualites/politique/2026-08-12/engagements-environnementaux/le-pq-mise-sur-les-transports-abordables.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -91,67 +140,18 @@
           "published": "2026-08-12T21:07:47+00:00"
         },
         {
-          "title": "La fermeture d’un autre pavillon au Cégep de Saint-Laurent sème l’inquiétude",
+          "title": "La fermeture d’un autre pavillon au cégep de Saint-Laurent sème l’inquiétude",
           "link": "https://www.ledevoir.com/actualites/education/1001459/fermeture-autre-pavillon-cegep-saint-laurent-seme-inquietude",
           "source": "Le Devoir",
           "summary": "Une situation qui survient au moment où Québec tarde à mettre à jour son bilan de l’état de vétusté des cégeps.",
-          "published": "2026-08-12T21:00:26+00:00"
+          "published": "2026-08-12T21:00:00+00:00"
         },
         {
           "title": "Churchill Falls | Québec et Terre-Neuve s’entendent",
           "link": "https://www.lapresse.ca/actualites/politique/2026-08-12/churchill-falls/quebec-et-terre-neuve-s-entendent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une entente est intervenue entre Québec et Terre-Neuve-et-Labrador dans l’épineux dossier du chantier hydroélectrique de Churchill Falls, a appris La Presse. Une annonce se profile en début de semaine prochaine, à…",
+          "summary": "Une entente est intervenue entre le Québec et Terre-Neuve-et-Labrador dans l’épineux dossier du chantier hydroélectrique de Churchill Falls, a appris La Presse. Une annonce se profile en début de semaine prochaine, à…",
           "published": "2026-08-12T20:41:01+00:00"
-        },
-        {
-          "title": "«La pâte à dents est sortie du tube»: un artiste sonne l'alarme face à la musique générée par l'IA",
-          "link": "https://www.journaldemontreal.com/2026/08/12/la-pate-a-dents-est-sortie-du-tube-un-artiste-sonne-lalarme-face-a-la-musique-generee-par-lia",
-          "source": "Journal de Montreal",
-          "summary": "Spotify annonce l’étiquetage des contenus musicaux générés par intelligence artificielle dès septembre. Une mesure jugée insuffisante et tardive.",
-          "published": "2026-08-12T20:38:42+00:00"
-        },
-        {
-          "title": "Trump protégé par une batterie de missiles pendant qu’il joue au golf au New Jersey",
-          "link": "https://www.journaldemontreal.com/2026/08/12/trump-protege-par-une-batterie-antimissile-pendant-quil-joue-au-golf-au-new-jersey",
-          "source": "Journal de Montreal",
-          "summary": "Un système de défense antiaérien a été déployé sur le terrain de golf de Donald Trump au New Jersey pour protéger le président",
-          "published": "2026-08-12T20:37:22+00:00"
-        },
-        {
-          "title": "Meurtre du cinéaste Rob Reiner: les poursuites contre son fils alourdies",
-          "link": "https://www.journaldemontreal.com/2026/08/12/meurtre-du-cineaste-rob-reiner-les-poursuites-contre-son-fils-alourdies",
-          "source": "Journal de Montreal",
-          "summary": "Les poursuites contre le fils de Rob Reiner, Nick, soupçonné d'avoir tué ses parents, ont été alourdies, a annoncé le procureur de Los Angeles.",
-          "published": "2026-08-12T20:34:29+00:00"
-        },
-        {
-          "title": "Geneviève Cotnam prend la tête de la Cour d’appel et devient la juge en chef du Québec",
-          "link": "https://www.ledevoir.com/actualites/justice/1001450/genevieve-cotnam-prend-tete-cour-appel-devient-juge-chef-quebec",
-          "source": "Le Devoir",
-          "summary": "Déjà sur le banc de la Cour d’appel, elle succède à Manon Savard après cette nomination de Mark Carney.",
-          "published": "2026-08-12T20:32:23+00:00"
-        },
-        {
-          "title": "Un deuxième trou en un an sur la chaussé cause une congestion monstre sur l’Autoroute 40",
-          "link": "https://www.journaldemontreal.com/2026/08/12/un-deuxieme-trou-en-un-an-sur-la-chausse-cause-une-congestion-monstre-sur-lautoroute-40",
-          "source": "Journal de Montreal",
-          "summary": "Un trou dans la chaussée de l’autoroute 40, près de Saint-Cuthbert, dans Lanaudière, cause une congestion monstre durant l’heure de pointe.",
-          "published": "2026-08-12T20:29:51+00:00"
-        },
-        {
-          "title": "Travis Kelce décrit son mariage avec Taylor Swift comme la «meilleure soirée» de sa vie",
-          "link": "https://www.journaldemontreal.com/2026/08/12/travis-kelce-decrit-son-mariage-avec-taylor-swift-comme-la-meilleure-soiree-de-sa-vie",
-          "source": "Journal de Montreal",
-          "summary": "Le joueur de football américain Travis Kelce a décrit son mariage avec la chanteuse Taylor Swift début juillet comme «la meilleure soirée de (sa) vie»",
-          "published": "2026-08-12T20:29:09+00:00"
-        },
-        {
-          "title": "Lecture automatique de plaques | Une caméra controversée retirée à Montréal",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-12/lecture-automatique-de-plaques/une-camera-controversee-retiree-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le Service de police de la Ville de Montréal (SPVM) a retiré mercredi une caméra permettant la lecture automatisée des plaques d’immatriculation sur le boulevard Henri-Bourassa. L’appareil, qui avait été repéré en début…",
-          "published": "2026-08-12T20:23:26+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "PSG : «On travaille avec calme, on ne parle pas trop» , Nasser Al-Khelaïfi évoque le dossier Bradley Barcola",
-          "link": "https://www.lefigaro.fr/sports/football/transferts/mercato-on-travaille-avec-calme-on-ne-parle-pas-trop-nasser-al-khelaifi-evoque-le-dossier-bradley-barcola-20260812",
+          "title": "Éclipse solaire : revivez les moments forts de cet événement exceptionnel en France, en Espagne et à travers le monde",
+          "link": "https://www.lefigaro.fr/sciences/en-direct-eclipse-solaire-du-12-aout-horaires-lunettes-sites-d-observation-tout-savoir-sur-ce-phenomene-astronomique-rare-20260812",
           "source": "Le Figaro",
-          "summary": "Le président parisien s’est exprimé sur Canal+ mercredi, à Salzbourg, après la victoire 2-1 de ses joueurs sur Aston Villa en Supercoupe d’Europe. Il a notamment parlé de mercato.",
-          "published": "2026-08-12T21:41:36+00:00"
+          "summary": "La Lune s’est interposée ce mercredi entre la Terre et le Soleil pour offrir une éclipse solaire totale. Elle était notamment visible entre 19h22 et 21h09 à Paris, entre 19h31 et 21h15 à Marseille ou encore 19h27 et…",
+          "published": "2026-08-13T01:02:41+00:00"
         },
         {
-          "title": "Supercoupe d’Europe : la moisson de titres continue pour le PSG, tombeur d’Aston Villa",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/supercoupe-d-europe-la-moisson-de-titres-continue-pour-le-psg-tombeur-d-aston-villa-20260812",
-          "source": "Le Figaro",
-          "summary": "Les Parisiens ont disposé des Villans ce mercredi, à Salzbourg, et empoché leur premier trophée de la saison.",
-          "published": "2026-08-12T21:41:33+00:00"
-        },
-        {
-          "title": "PSG-Aston Villa : «Kvara» la ruée vers l’or, première sensationnelle pour Madjo, moins pour Akliouche... Les tops et flops de la Supercoupe d’Europe",
-          "link": "https://www.lefigaro.fr/sports/football/psg-aston-villa-kvara-la-ruee-vers-l-or-premiere-sensationnelle-pour-madjo-moins-pour-akliouche-les-tops-et-flops-de-la-supercoupe-d-europe-20260812",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE – Après la victoire du Paris Saint-Germain face à Aston Villa, mercredi soir, lors de la Supercoupe d’Europe à Salzbourg, découvrez ce qui a retenu l’attention de la rédaction du Figaro.",
-          "published": "2026-08-12T21:40:22+00:00"
-        },
-        {
-          "title": "«Il y avait une espèce de connexion cosmique !» : en Espagne, les observateurs émus par l’éclipse solaire totale",
-          "link": "https://www.lefigaro.fr/sciences/il-y-avait-une-espece-de-connexion-cosmique-a-segovie-les-contemplateurs-emus-par-l-eclipse-solaire-totale-20260812",
-          "source": "Le Figaro",
-          "summary": "De nombreuses personnes s’étaient donné rendez-vous mercredi à Ségovie, au nord de Madrid, pour voir l’Espagne plonger dans le noir en plein jour, lorsque la Lune a entièrement masqué le Soleil.",
-          "published": "2026-08-12T21:35:42+00:00"
-        },
-        {
-          "title": "Chez easyJet, la grève des personnels de cabine français en plein week-end du 15 août pourrait être très suivie",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/12/chez-easyjet-la-greve-des-personnels-de-cabine-francais-en-plein-week-end-du-15-aout-pourrait-etre-tres-suivie_6745136_3234.html",
+          "title": "A Montpellier, un adolescent mis en examen après la mort d’un mineur de 16 ans poignardé lors d’une rixe",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/13/a-montpellier-un-adolescent-mis-en-examen-apres-la-mort-d-un-mineur-de-16-ans-poignarde-lors-d-une-rixe_6745268_3224.html",
           "source": "Le Monde",
-          "summary": "Les syndicats des hôtesses et stewards de la compagnie à bas coût en France appellent à un arrêt de travail, samedi et dimanche, après l’échec de discussions, mercredi, avec la direction sur l’amélioration des…",
-          "published": "2026-08-12T21:30:08+00:00"
+          "summary": "L’auteur des coups de couteau, âgé de 17 ans, s’était rendu volontairement au commissariat, lundi 10 août, au lendemain de l’altercation.",
+          "published": "2026-08-13T00:21:31+00:00"
         },
         {
-          "title": "«C’était le meilleur spot de tout Paris, on se sent privilégié» : à bord du ballon Generali, au-dessus du parc Andre-Citroën, plein à craquer pour observer l’éclipse",
-          "link": "https://www.lefigaro.fr/sciences/c-etait-le-meilleur-spot-de-tout-paris-on-se-sent-privilegie-a-bord-du-ballon-generalli-au-dessus-du-parc-andre-citroen-plein-a-craquer-pour-observer-l-eclipse-20260812",
+          "title": "Les côtes d’Oman touchées par une marée noire qui menace une réserve naturelle",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/les-cotes-d-oman-touchees-par-une-maree-noire-qui-menace-une-reserve-naturelle_6745235_3210.html",
+          "source": "Le Monde",
+          "summary": "Les conditions météorologiques compliquent les opérations pour contenir une fuite de pétrole provoquée par l’échouement, en juin, d’un navire soupçonné de faire partie de la « flotte fantôme » russe.",
+          "published": "2026-08-12T23:45:58+00:00"
+        },
+        {
+          "title": "NBA : les Los Angeles Lakers vont être vendus pour 12,5 milliards de dollars",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/13/nba-les-los-angeles-lakers-vendus-pour-12-5-milliards-de-dollars_6745202_3242.html",
+          "source": "Le Monde",
+          "summary": "Selon le média américain ESPN, la célèbre franchise de basket devrait être rachetée par Joshua Kushner, frère du gendre de Donald Trump, et par l’ancien patron de Disney, Bob Iger. L’équipe avait déjà changé de…",
+          "published": "2026-08-12T23:39:04+00:00"
+        },
+        {
+          "title": "La Colombie autorise des opérations antidrogue conjointes avec les Etats-Unis",
+          "link": "https://www.lemonde.fr/international/article/2026/08/13/la-colombie-autorise-des-operations-antidrogue-conjointes-avec-les-etats-unis_6745169_3210.html",
+          "source": "Le Monde",
+          "summary": "Elu sur la promesse d’éradiquer les groupes impliqués dans le narcotrafic, le nouveau président colombien, Abelardo de la Espriella, est un allié de son homologue américain, Donald Trump. Cet accord, annoncé mercredi 12…",
+          "published": "2026-08-12T22:41:37+00:00"
+        },
+        {
+          "title": "PSG-Aston Villa : «On a remporté les deux dernières Ligues des champions, ça veut dire qu’on peut remporter la troisième», juge Luis Enrique",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-aston-villa-c-est-important-mais-on-ne-sera-pas-juges-sur-ce-trophee-juge-luis-enrique-toujours-plus-ambitieux-20260813",
           "source": "Le Figaro",
-          "summary": "REPORTAGE - Le rendez-vous astronomique de l’été a rassemblé des milliers de personnes au parc André-Citroën, à Paris. Certains passionnés ont pu prendre de la hauteur grâce au ballon Generali et profiter d’une vue…",
-          "published": "2026-08-12T21:19:57+00:00"
+          "summary": "L’entraîneur parisien s’est exprimé en conférence de presse suite à la victoire du club de la capitale en Supercoupe d’Europe contre Aston Villa, mercredi, en Autriche.",
+          "published": "2026-08-12T22:30:57+00:00"
         },
         {
-          "title": "Avec le retour de ses stars, le PSG domine Aston Villa et conserve la Supercoupe d'Europe",
-          "link": "https://www.franceinfo.fr/sports/foot/psg/avec-le-retour-de-ses-stars-le-psg-remporte-la-supercoupe-d-europe-face-a-aston-villa_8145368.html#xtor=RSS-3-[lestitres]",
+          "title": "«La lumière était presque mystique» : à Biarritz, meilleur point d’observation de France, la foule captivée par l’éclipse",
+          "link": "https://www.lefigaro.fr/actualite-france/la-lumiere-etait-presque-mystique-a-biarritz-meilleur-point-d-observation-de-france-la-foule-captivee-par-l-eclipse-20260813",
+          "source": "Le Figaro",
+          "summary": "REPORTAGE - Des milliers de touristes, locaux et passionnés d’astronomie ont afflué sur la côte basque pour assister, face à l’océan, à l’occultation presque totale du soleil.",
+          "published": "2026-08-12T22:30:53+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne va limiter la diffusion de données sur les frappes de missiles russes",
+          "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-l-armee-ukrainienne-va-limiter-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Les restrictions portent sur « le nombre des cibles lancées, abattues, neutralisées ou n’ayant pas atteint leurs objectifs », a expliqué le commandement militaire au moment où la Russie intensifie ses attaques avec des…",
+          "published": "2026-08-12T22:21:10+00:00"
+        },
+        {
+          "title": "\"C'est comme un serre-tête qui brille\" : face à l'éclipse, petits et grands ont eu des étoiles plein les yeux",
+          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/c-est-un-petit-croissant-de-soleil-partout-en-france-des-etoiles-plein-les-yeux-face-a-l-eclipse_8145305.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le PSG n’est que le troisième club de l'histoire à remporter deux fois la Supercoupe d’Europe consécutivement depuis sa création en 1973.",
-          "published": "2026-08-12T21:13:17+00:00"
+          "summary": "De Paris à Biarritz, les spectateurs ont tenté à leur manière de décrire ce phénomène rare en France. \"C'est marrant, parce qu'on a l'habitude de voir un petit croissant de Lune. Et là, c'est un petit croissant de…",
+          "published": "2026-08-12T22:16:15+00:00"
         },
         {
-          "title": "La production d'énergie solaire a diminué d'un tiers durant l'éclipse partielle en France, selon le gestionnaire RTE",
-          "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/direct-suivez-avec-nous-l-eclipse-solaire-partielle-la-premiere-aussi-visible-dans-l-hexagone-depuis-1999_8144207.html#xtor=RSS-3-[lestitres]",
+          "title": "En difficulté, l'Ukraine restreint la diffusion de ses données sur les frappes de missiles russes",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-difficulte-l-ukraine-restreint-la-diffusion-de-donnees-sur-les-frappes-de-missiles-russes_8145398.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Des millions d'Européens et de passionnés du monde entier ont contemplé mercredi le ciel avec émerveillement. Dans le nord de l'Espagne, une rare éclipse solaire totale a plongé très brièvement la Terre dans l'obscurité.",
-          "published": "2026-08-12T21:11:42+00:00"
-        },
-        {
-          "title": "Montpellier : un adolescent soupçonné d’avoir poignardé mortellement un mineur de 16 ans mis en examen",
-          "link": "https://www.lefigaro.fr/flash-actu/montpellier-un-adolescent-soupconne-d-avoir-poignarde-mortellement-un-mineur-de-16-ans-mis-en-examen-20260812",
-          "source": "Le Figaro",
-          "summary": "Le mis en cause, âgé de 17 ans, s’était présenté volontairement lundi au commissariat en se désignant comme l’auteur des coups de couteau. Il avait été immédiatement placé en garde à vue.",
-          "published": "2026-08-12T21:11:41+00:00"
-        },
-        {
-          "title": "EN DIRECT - Canicule : 8 départements en alerte rouge, 1200 vacanciers autorisés à réintégrer leur camping après des incendies dans le Pas-de-Calais",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-live-canicule-chaleur-incendies-meteo-temperatures-secheresse-20260812",
-          "source": "Le Figaro",
-          "summary": "Cette nouvelle vague de chaleur - la cinquième de l’année - se met véritablement en place à partir de ce mercredi. Les très fortes chaleurs vont s’étendre progressivement à la quasi-totalité du pays.",
-          "published": "2026-08-12T21:10:44+00:00"
+          "summary": "Confrontée à un manque d'intercepteurs Patriot, l'armée de l'air ukrainienne peine de plus en plus à bloquer les missiles balistiques tirés par la Russie.",
+          "published": "2026-08-12T22:14:44+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "On a pris en photo l’éclipse avec quatre smartphones différents : lequel est le meilleur ? (Samsung, Oppo, Xiaomi, Google)",
+          "link": "https://www.frandroid.com/produits-android/smartphone/3210529_on-a-pris-en-photo-leclipse-avec-quatre-smartphones-differents-lequel-est-le-meilleur-samsung-oppo-xiaomi-google",
+          "source": "Frandroid",
+          "summary": "Samsung Galaxy S26 Ultra, Google Pixel 10 Pro XL, Oppo Find X9 Ultra ou Xiaomi 17 Ultra ? Quel smartphone a pris la meilleure photo de l'éclipse du 12 août&nbsp;?",
+          "published": "2026-08-12T21:46:30+00:00"
+        },
         {
           "title": "Google Pixel 11 vs Pixel 11 Pro : les différences à connaître pour bien choisir",
           "link": "https://www.frandroid.com/marques/google/3210749_google-pixel-11-vs-pixel-11-pro-les-differences-a-connaitre-pour-bien-choisir",
@@ -309,13 +316,6 @@
           "source": "Frandroid",
           "summary": "L'ANYCUBIC Kobra 3 V2 Combo est un pack complet pour se lancer dans l'impression 3D multicolore, avec l'imprimante, le module ACE Pro et plusieurs accessoires dont du filament. Habituellement vendu 389 euros, ce pack…",
           "published": "2026-08-12T15:32:00+00:00"
-        },
-        {
-          "title": "Les données fiscales de plus de 678 000 français victimes d’une nouvelle cyberattaque ? La DGFIP n’a pas confirmé",
-          "link": "https://www.frandroid.com/culture-tech/3210609_les-donnees-fiscales-de-plus-de-678-000-francais-victimes-dune-nouvelle-cyberattaque-la-dgfip-na-pas-confirme",
-          "source": "Frandroid",
-          "summary": "Un site spécialisé dans le recensement des fuites affirme que les données fiscales de plus de 678&nbsp;000 personnes auraient été exposées. La DGFIP, elle, n’a rien confirmé.",
-          "published": "2026-08-12T15:31:27+00:00"
         }
       ]
     }
