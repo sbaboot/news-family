@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-08-13T21:42:42.751576+00:00",
+  "generated_at": "2026-08-14T01:49:02.452985+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Les Etats-Unis et le Mexique mènent des exercices à leur frontière commune, là où opère le cartel de Juarez",
+          "link": "https://www.lemonde.fr/international/article/2026/08/14/les-etats-unis-et-le-mexique-menent-des-exercices-a-leur-frontiere-commune-la-ou-opere-le-cartel-de-juarez_6745939_3210.html",
+          "source": "Le Monde",
+          "summary": "L’opération conjointe intervient quelques semaines après que Washington a inscrit le cartel de Juárez sur sa liste des « organisations terroristes étrangères », lui interdisant notamment l’accès au système financier…",
+          "published": "2026-08-14T01:43:40+00:00"
+        },
+        {
+          "title": "Donald Trump impose 100 % de droits de douane sur certains drones pour contrer les importations chinoises",
+          "link": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-impose-100-de-droits-de-douane-sur-certains-drones-pour-contrer-les-importations-chinoises_6745906_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon la Maison Blanche, le but est d’« encourager la production » de drones aux Etats-Unis, de « réduire la dépendance » à des fournisseurs étrangers et de protéger la sécurité nationale du pays.",
+          "published": "2026-08-13T23:12:59+00:00"
+        },
+        {
+          "title": "Les Emirats arabes unis accusent l’Iran d’avoir attaqué deux navires dans le détroit d’Ormuz",
+          "link": "https://www.lemonde.fr/international/article/2026/08/14/les-emirats-arabes-unis-accusent-l-iran-d-avoir-attaque-deux-navires-dans-le-detroit-d-ormuz_6745873_3210.html",
+          "source": "Le Monde",
+          "summary": "Abou Dhabi a dénoncé des « actes de piraterie » commis par les gardiens de la révolution iraniens, après cette attaque qui aurait eu lieu jeudi 13 août au soir, selon l’agence de presse officielle ​WAM.",
+          "published": "2026-08-13T22:49:12+00:00"
+        },
+        {
+          "title": "États-Unis : Donald Trump impose des droits de douane jusqu'à 100 % sur les drones importés",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260813-etats-unis-donald-trump-impose-droits-de-douane-100-drones-importes-chine",
+          "source": "France 24",
+          "summary": "Afin d'\"encourager la production\" aux États-Unis et de \"réduire la dépendance\" à des fournisseurs étrangers, le président américain Donald Trump a annoncé jeudi des droits de douane allant jusqu'à 100% sur les…",
+          "published": "2026-08-13T22:26:45+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : une frappe russe fait un mort et une quinzaine de blessés à Kramatorsk, dans le Donbass",
+          "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-une-frappe-russe-fait-deux-blesses-dans-la-region-de-zaporijia-selon-l-administration-militaire-locale_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "Le chef de l’administration militaire de l’oblast de Donetsk, Vadym Filachkine, a appelé les habitants locaux à « évacuer vers des régions d’Ukraine plus sûres » Par ailleurs, une femme de 25 ans et un enfant de 5 ans…",
+          "published": "2026-08-13T21:48:35+00:00"
+        },
         {
           "title": "Mali: le président de la Transition accorde une grâce à un agent français de la DGSE",
           "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260813-mali-le-pr%C3%A9sident-de-la-transition-accorde-une-gr%C3%A2ce-%C3%A0-un-agent-fran%C3%A7ais-de-la-dgse",
@@ -38,41 +73,6 @@
           "source": "France 24",
           "summary": "En Côte d’Ivoire, les cocoteraies reculent face à l’urbanisation et au recul du littoral. Une menace pour des milliers de familles qui en vivent, mais aussi pour la protection des côtes.",
           "published": "2026-08-13T18:47:43+00:00"
-        },
-        {
-          "title": "Canicules et sécheresse records: un été catastrophique en France et en Europe",
-          "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260813-canicules-et-s%C3%A9cheresse-records-un-%C3%A9t%C3%A9-catastrophique-en-france-et-en-europe",
-          "source": "France 24",
-          "summary": "La vague de chaleur actuelle en France dure depuis 17 jours. Elle a dépassé en longueur celle de 2003. Cet été brûlant a aussi entraîné une sécheresse record en Europe. Au point que les fleuves européens sont à leur…",
-          "published": "2026-08-13T18:07:24+00:00"
-        },
-        {
-          "title": "Royaume-Uni : un train déraille près de Brighton, pas de blessés graves selon des médias",
-          "link": "https://www.lemonde.fr/international/article/2026/08/13/royaume-uni-un-train-deraille-pres-de-brighton-pas-de-blesses-graves-selon-des-medias_6745833_3210.html",
-          "source": "Le Monde",
-          "summary": "Sur des photos circulant sur les réseaux sociaux et diffusées par plusieurs médias, des personnes se trouvent debout sur les voitures renversées. La ministre des transports britannique, Heidi Alexander, a dit être «…",
-          "published": "2026-08-13T17:56:49+00:00"
-        },
-        {
-          "title": "Grèce : un nouvel incendie près de Thessalonique, des touristes évacués",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/13/grece-un-nouvel-incendie-pres-de-thessalonique-des-touristes-evacues_6745832_3244.html",
-          "source": "Le Monde",
-          "summary": "Le feu, qui a commencé jeudi après-midi, se situe dans une zone boisée située à environ 90 kilomètres au sud de Thessalonique, deuxième ville de Grèce.",
-          "published": "2026-08-13T17:48:46+00:00"
-        },
-        {
-          "title": "À Cuba, Raul Castro réapparaît en public lors d'un hommage à son frère Fidel",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260813-%C3%A0-cuba-raul-castro-r%C3%A9appara%C3%AEt-en-public-lors-d-un-hommage-%C3%A0-son-fr%C3%A8re-fidel",
-          "source": "France 24",
-          "summary": "Après plusieurs mois d'absence, l'ex-président cubain Raul Castro, 95 ans, a fait son retour sur la scène publique jeudi à La Havane où il a été ovationné pour le centenaire de la naissance de son frère Fidel. Cet…",
-          "published": "2026-08-13T17:25:12+00:00"
-        },
-        {
-          "title": "Ebola en RDC : l’épidémie s’étend à une sixième province et menace le Soudan du Sud",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/13/ebola-en-rdc-l-epidemie-s-etend-a-une-sixieme-province-et-menace-le-soudan-du-sud_6745827_3212.html",
-          "source": "Le Monde",
-          "summary": "Une personne est morte de la maladie dans la province du Bas-Uele (nord), frontalière de la République centrafricaine et jusqu’à présent épargnée.",
-          "published": "2026-08-13T16:50:40+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Crimes sexuels sur trois mineurs | Un employé de camp de jour de 16 ans arrêté par le SPVM",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-13/crimes-sexuels-sur-trois-mineurs/un-employe-de-camp-de-jour-de-16-ans-arrete-par-le-spvm.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Omnium Banque Nationale | Ben Shelton remporte le tournoi et défend son titre",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-13/omnium-banque-nationale/ben-shelton-remporte-le-tournoi-et-defend-son-titre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Un employé de camp de jour âgé de 16 ans a été arrêté par la Section des agressions sexuelles du Service de police de la Ville de Montréal (SPVM), jeudi matin. Il est accusé d’avoir commis plusieurs crimes de nature…",
-          "published": "2026-08-13T20:30:41+00:00"
+          "summary": "C’était devenu comme une évidence. Presque parfait depuis le début du tournoi, Ben Shelton a remporté la finale de jeudi soir pour défendre à Montréal son titre de l’Omnium Banque Nationale acquis l’année dernière à…",
+          "published": "2026-08-14T01:42:26+00:00"
         },
         {
-          "title": "La police a d’abord cru qu’il y avait deux tireurs à l’école de Tumbler Ridge",
-          "link": "https://www.ledevoir.com/actualites/1001609/police-abord-cru-il-y-avait-deux-tireurs-ecole-tumbler-ridge",
+          "title": "Cisjordanie | Washington critique les violences des colons israéliens",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-13/cisjordanie/washington-critique-les-violences-des-colons-israeliens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Habituellement fervent défenseur de la colonisation, Mike Huckabee, ambassadeur des États-Unis en Israël, a étonnamment dénoncé vertement les « actions répugnantes » et « de terreur » de colons israéliens contre des…",
+          "published": "2026-08-14T01:30:00+00:00"
+        },
+        {
+          "title": "Saint-Constant | La police à la recherche d’un suspect de fraude de plus de 5000 $",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-13/saint-constant/la-police-a-la-recherche-d-un-suspect-de-fraude-de-plus-de-5000.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La Régie intermunicipale de police Roussillon demande l’aide du public pour trouver un possible fraudeur qui aurait sévi l’an dernier, à Saint-Constant.",
+          "published": "2026-08-14T01:20:00+00:00"
+        },
+        {
+          "title": "Omnium Banque Nationale | Świątek bat Rybakina et gagne le tournoi",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-13/omnium-banque-nationale/swiatek-bat-rybakina-et-gagne-le-tournoi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Iga Świątek a battu Elena Rybakina 6-2 et 6-3, jeudi soir, pour ainsi remporter le volet féminin de l’Omnium Banque Nationale.",
+          "published": "2026-08-13T23:43:56+00:00"
+        },
+        {
+          "title": "Mégaprocès de gangs de rue | Un rendez-vous mortel au studio de musique",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-13/megaproces-de-gangs-de-rue/un-rendez-vous-mortel-au-studio-de-musique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le 14 mai 2024. Un rappeur se rend à un rendez-vous dans un studio de musique de Montréal. Devant l’édifice, il est abattu par deux hommes cagoulés. Cette scène-choc du meurtre de Christopher-Shawn Jean Vilsaint a été…",
+          "published": "2026-08-13T23:30:00+00:00"
+        },
+        {
+          "title": "Caisse de dépôt et placement du Québec | Se battre contre les indices",
+          "link": "https://www.lapresse.ca/affaires/chroniques/2026-08-13/caisse-de-depot-et-placement-du-quebec/se-battre-contre-les-indices.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Longtemps, la Caisse de dépôt et placement du Québec a utilisé sa capacité à générer des rendements plus élevés que ses pairs et que son indice de référence pour mettre en lumière combien ses gestionnaires étaient des…",
+          "published": "2026-08-13T23:30:00+00:00"
+        },
+        {
+          "title": "Crise des surdoses | Urgences-santé en mission pour élargir l’accès à la naloxone",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-08-13/crise-des-surdoses/urgences-sante-en-mission-pour-elargir-l-acces-a-la-naloxone.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Urgences-santé a annoncé, jeudi, le déploiement d’un projet de distribution de naloxone pour prévenir les surdoses d’opioïdes. La mesure vise à mieux combattre la crise des surdoses, dont la quantité a explosé dans les…",
+          "published": "2026-08-13T22:59:40+00:00"
+        },
+        {
+          "title": "Plusieurs voix s’élèvent après le décès d’un enfant au Nunavik",
+          "link": "https://www.ledevoir.com/actualites/sante/1001792/plusieurs-voix-elevent-apres-deces-enfant-nunavik",
           "source": "Le Devoir",
-          "summary": "Des documents judiciaires lèvent le voile sur les débuts de l’enquête sur ce drame survenu le 10 février.",
-          "published": "2026-08-13T20:29:21+00:00"
+          "summary": "Jusi Padlayat serait décédé après une prise en charge inadéquate à l’hôpital.",
+          "published": "2026-08-13T22:53:00+00:00"
         },
         {
-          "title": "Duhaime préfère un 3e lien plus modeste vu l’état des finances publiques",
-          "link": "https://www.journaldemontreal.com/2026/08/13/duhaime-prefere-un-3e-lien-plus-modeste-vu-letat-des-finances-publiques",
-          "source": "Journal de Montreal",
-          "summary": "Éric Duhaime préférerait un troisième lien à haut débit, mais vu l’état actuel des finances publiques, mieux vaut s’en tenir à deux voies, selon lui.",
-          "published": "2026-08-13T20:24:12+00:00"
+          "title": "Conflit au Moyen-Orient | Washington menace l’Iran d’un « isolement économique comme le monde n’en a jamais vu »",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-13/conflit-au-moyen-orient/washington-menace-l-iran-d-un-isolement-economique-comme-le-monde-n-en-a-jamais-vu.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le secrétaire américain au Trésor Scott Bessent a menacé jeudi de soumettre l’Iran à un isolement économique « comme le monde n’en a jamais vu », avec de nouvelles mesures attendues « la semaine prochaine », en plus du…",
+          "published": "2026-08-13T22:41:13+00:00"
         },
         {
-          "title": "Les trois actus du 13 août",
-          "link": "https://www.ledevoir.com/actualites/1001723/trois-actus-13-aout",
+          "title": "Record d’assistance à l’Omnium Banque Nationale de Montréal",
+          "link": "https://www.ledevoir.com/sports/1001783/record-assistance-omnium-banque-nationale-montreal",
           "source": "Le Devoir",
-          "summary": "Fréchette se prépare aux tarifs, rendement de La Caisse et les finances publiques sous Duhaime: ce qu’il faut retenir.",
-          "published": "2026-08-13T20:24:03+00:00"
-        },
-        {
-          "title": "Doug Ford se dit ouvert à remettre l’alcool américain sur les tablettes",
-          "link": "https://www.ledevoir.com/politique/canada/1001720/doug-ford-dit-ouvert-remettre-alcool-americain-tablettes",
-          "source": "Le Devoir",
-          "summary": "Le premier ministre ontarien s’y opposait fortement tant que les tarifs seraient en vigueur.",
-          "published": "2026-08-13T20:16:33+00:00"
-        },
-        {
-          "title": "«Ça a fonctionné sur le tard»: Louis-José Houde comblé par son rôle de papa",
-          "link": "https://www.journaldemontreal.com/2026/08/13/ca-a-fonctionne-sur-le-tard-louis-jose-houde-comble-par-son-role-de-papa",
-          "source": "Journal de Montreal",
-          "summary": "Louis-José Houde sillonne actuellement les routes du Québec avec son nouveau spectacle.",
-          "published": "2026-08-13T20:09:04+00:00"
-        },
-        {
-          "title": "Un moniteur de camp de jour arrêté pour des agressions sexuelles sur des enfants",
-          "link": "https://www.journaldemontreal.com/2026/08/13/un-moniteur-de-camp-de-jour-arrete-pour-des-agressions-sexuelles-sur-des-enfants",
-          "source": "Journal de Montreal",
-          "summary": "Un moniteur de camp de jour de l’arrondissement d’Ahuntsic-Cartierville a été arrêté jeudi à Montréal pour des infractions sexuelles.",
-          "published": "2026-08-13T20:07:07+00:00"
-        },
-        {
-          "title": "Moins d'enfants, plus de choix: une «profonde» transition démographique au Maghreb",
-          "link": "https://www.journaldemontreal.com/2026/08/13/moins-denfants-plus-de-choix-une-profonde-transition-demographique-au-maghreb",
-          "source": "Journal de Montreal",
-          "summary": "Contraintes économiques, changements sociétaux: Maroc, Algérie et Tunisie connaissent une baisse historique de la fécondité.",
-          "published": "2026-08-13T20:00:42+00:00"
-        },
-        {
-          "title": "La Caisse veut une entente au plus vite avec les Américains",
-          "link": "https://www.journaldemontreal.com/2026/08/13/tarifs-la-caisse-veut-une-entente-au-plus-vite",
-          "source": "Journal de Montreal",
-          "summary": "Le PDG de la Caisse, Charles Emond, souhaite qu’Ottawa et Washington s’entendent aussitôt que possible au sujet du renouvellement du libre-échange.",
-          "published": "2026-08-13T19:59:09+00:00"
-        },
-        {
-          "title": "Propos controversés de Farnell Morisset sur la loi 101 : le dossier est clos, dit Charles Milliard",
-          "link": "https://www.journaldemontreal.com/2026/08/13/propos-controverses-de-farnell-morisset-sur-la-loi-101--le-dossier-est-clos-dit-charles-milliard",
-          "source": "Journal de Montreal",
-          "summary": "Les critiques du candidat libéral Farnell Morisset sur la loi 101 ont été vivement dénoncées par la CAQ et le PQ.",
-          "published": "2026-08-13T19:56:17+00:00"
+          "summary": "Plus de 309 000 personnes ont assisté au tournoi en 2026, malgré la pluie et l’absence de plusieurs vedettes.",
+          "published": "2026-08-13T22:41:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Pompiers morts dans un incendie à Mérignac : un mineur mis en examen",
-          "link": "https://www.lefigaro.fr/actualite-france/pompiers-morts-dans-un-incendie-a-merignac-un-mineur-mis-en-examen-20260813",
+          "title": "Guerre au Moyen-Orient : Washington menace l’Iran d’un «isolement économique comme le monde n’en a jamais vu»",
+          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-washington-menace-l-iran-d-un-isolement-economique-comme-le-monde-n-en-a-jamais-vu-20260814",
           "source": "Le Figaro",
-          "summary": "Le 21 juillet, près de l’aéroport de Bordeaux, un camion où se trouvaient deux sapeurs-pompiers avait été «piégé» par les flammes.",
-          "published": "2026-08-13T21:21:57+00:00"
+          "summary": "Le secrétaire américain au Trésor Scott Bessent a menacé jeudi de soumettre l’Iran à un isolement économique, avec de nouvelles mesures attendues «la semaine prochaine».",
+          "published": "2026-08-14T01:15:47+00:00"
         },
         {
-          "title": "EN DIRECT - Canicule : 81 départements maintenus en alerte orange vendredi, 400 hectares parcourus par un incendie dans les Landes",
+          "title": "Trump annonce des droits de douane allant jusqu'à 100% sur les drones importés",
+          "link": "https://www.lefigaro.fr/conjoncture/trump-annonce-des-droits-de-douane-allant-jusqu-a-100-sur-les-drones-importes-20260814",
+          "source": "Le Figaro",
+          "summary": "Le président américain a justifié cette décision par la protection de la sécurité nationale des États-Unis, dans ce texte publié par la Maison-Blanche.",
+          "published": "2026-08-14T01:09:43+00:00"
+        },
+        {
+          "title": "Au Brésil, la police retrouve des œuvres de Matisse dérobées en 2025 à São Paulo",
+          "link": "https://www.lefigaro.fr/culture/au-bresil-la-police-retrouve-des-oeuvres-de-matisse-derobees-en-2025-a-sao-paulo-20260814",
+          "source": "Le Figaro",
+          "summary": "Les treize œuvres d’art volées ont été retrouvées dans une habitation du centre de São Bernardo do Campo, au sud de São Paulo. La personne qui les détenait a été arrêtée.",
+          "published": "2026-08-14T01:02:18+00:00"
+        },
+        {
+          "title": "Forces spéciales, hélicoptères, blindés... États-Unis et Mexique mènent des exercices frontaliers, là où opère un cartel",
+          "link": "https://www.lefigaro.fr/international/forces-speciales-helicopteres-blindes-etats-unis-et-mexique-menent-des-exercices-frontaliers-la-ou-opere-un-cartel-20260814",
+          "source": "Le Figaro",
+          "summary": "Cette démonstration de force a été menée par la police de l’immigration (ICE) et la Patrouille frontalière, tandis que la partie mexicaine a fait intervenir l’armée et des gardes nationaux.",
+          "published": "2026-08-14T00:58:00+00:00"
+        },
+        {
+          "title": "EN DIRECT - Canicule : 81 départements maintenus en alerte orange vendredi, 4600 hectares parcourus par un incendie dans les Landes",
           "link": "https://www.lefigaro.fr/meteo/en-direct-live-meteo-canicule-vague-chaleur-soleil-incendies-feux-temperatures-vigilance-secheresse-20260813",
           "source": "Le Figaro",
           "summary": "La vague de chaleur actuelle, qui a connu deux pics d’intensité pour l’instant - le premier le 29 juillet et le second mercredi - n’est pour l’heure pas encore terminée.",
-          "published": "2026-08-13T21:15:02+00:00"
+          "published": "2026-08-13T23:24:59+00:00"
         },
         {
-          "title": "La Française Elena Colas médaillée de bronze au concours général de l'Euro de gymnastique",
-          "link": "https://www.franceinfo.fr/sports/gymnastique/la-francaise-elena-colas-medaillee-de-bronze-au-concours-general-de-l-euro-de-gymnastique_8146739.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "A 16 ans seulement, Elena Colas remporte une médaille continentale qui fuyait les gymnastes françaises depuis 2019.",
-          "published": "2026-08-13T21:00:14+00:00"
-        },
-        {
-          "title": "PEA : fiscalité, actions et ETF, ce qu’il faut savoir avant d’investir",
-          "link": "https://www.liberation.fr/libeplus/pea-fiscalite-actions-et-etf-ce-quil-faut-savoir-avant-dinvestir-20260814_RF22WQ2OCFES5APZVN7QFW2QKM/",
-          "source": "Liberation",
-          "summary": "Fin 2024, 7,2 millions de Plans d’épargne en actions (PEA) étaient ouverts en France (1). L’encours total atteignait 114 milliards d’euros. Ces chiffres reflètent à la fois un intérêt croissant et une méconnaissance…",
-          "published": "2026-08-13T21:00:06+00:00"
-        },
-        {
-          "title": "La question d'un gel partiel des retraites \"mérite d'être posée\" en vue du budget 2027, défend le ministre de l'Economie",
-          "link": "https://www.franceinfo.fr/economie/budget/la-question-d-un-gel-partiel-des-retraites-merite-d-etre-posee-en-vue-du-budget-2027-defend-le-ministre-de-l-economie_8146724.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "En quête d'économies pour le prochain exercice budgétaire, Roland Lescure a plaidé, jeudi, pour une revalorisation des retraites moindre que l'inflation, à condition de \"préserver les retraités les plus modestes\".",
-          "published": "2026-08-13T20:56:42+00:00"
-        },
-        {
-          "title": "Le patron du PS Olivier Faure fustige Emmanuel Macron qui «s'amuse en jet ski pendant la canicule» en une de Paris Match",
-          "link": "https://www.lefigaro.fr/politique/le-patron-du-ps-olivier-faure-fustige-emmanuel-macron-qui-s-amuse-en-jet-ski-pendant-la-canicule-en-une-de-paris-match-20260813",
-          "source": "Le Figaro",
-          "summary": "«Pendant la canicule, quand la France brûle, quand une partie des Français n’a pas pu partir en vacances, le président s’amuse en jet ski à Brégançon. C’est ça le message ? C’est très réussi», a écrit M. Faure en…",
-          "published": "2026-08-13T20:46:55+00:00"
-        },
-        {
-          "title": "Bloqué dans une cavité sans lumière du jour : l’incroyable histoire d’un pêcheur mexicain retrouvé vivant après 15 jours dans une grotte à 100 mètres de profondeur",
-          "link": "https://www.lefigaro.fr/international/bloque-dans-une-cavite-sans-lumiere-du-jour-l-incroyable-histoire-d-un-pecheur-mexicain-retrouve-vivant-apres-15-jours-dans-une-grotte-a-100-metres-de-profondeur-20260813",
-          "source": "Le Figaro",
-          "summary": "RÉCIT - Erasto Crisanto Valdez avait disparu le 23 juillet dernier après une sortie avec son père. Il a été retrouvé le 7 août dernier à l’issue d’une longue opération de secours.",
-          "published": "2026-08-13T20:40:46+00:00"
-        },
-        {
-          "title": "Grève à EasyJet : un syndicat annonce l'annulation de 40 vols samedi et \"probablement autant dimanche\"",
-          "link": "https://www.franceinfo.fr/economie/aeronautique/greve-chez-easyjet-un-syndicat-annonce-l-annulation-de-40-vols-samedi-et-probablement-autant-dimanche_8146712.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Une intersyndicale a appelé à la grève les 14 et 15 août, après l'échec de discussions mercredi avec la direction sur l'amélioration des conditions de travail.",
-          "published": "2026-08-13T20:31:59+00:00"
-        },
-        {
-          "title": "Le conseil d’administration du Kennedy Center, proche de Donald Trump, vote pour rétablir son nom sur la façade",
-          "link": "https://www.lefigaro.fr/flash-actu/le-conseil-d-administration-du-kennedy-center-proche-de-donald-trump-vote-pour-retablir-son-nom-sur-la-facade-20260813",
-          "source": "Le Figaro",
-          "summary": "Un juge fédéral avait ordonné en mai de retirer toute référence «au président Trump ou à tout individu autre que le président Kennedy» sur le bâtiment lui-même mais aussi sur le site internet de l’institution et sur…",
-          "published": "2026-08-13T20:25:22+00:00"
-        },
-        {
-          "title": "Euro d’athlétisme : la Française Alice Finot remporte la médaille d’argent sur 3 000 m steeple",
-          "link": "https://www.lemonde.fr/sport/article/2026/08/13/euro-d-athletisme-la-francaise-alice-finot-remporte-la-medaille-d-argent-sur-3-000-m-steeple_6745840_3242.html",
+          "title": "Donald Trump impose 100 % de droits de douane sur certains drones pour contrer les importations chinoises",
+          "link": "https://www.lemonde.fr/international/article/2026/08/14/donald-trump-impose-100-de-droits-de-douane-sur-certains-drones-pour-contrer-les-importations-chinoises_6745906_3210.html",
           "source": "Le Monde",
-          "summary": "Deux ans après son titre continental à Rome, la coureuse de 35 ans a terminé à la 2ᵉ place de la finale du 3 000 m steeple aux championnats d’Europe d’athlétisme de Birmingham, derrière l’Allemande Gesa Felicitas Krause.",
-          "published": "2026-08-13T20:11:56+00:00"
+          "summary": "Selon la Maison Blanche, le but est d’« encourager la production » de drones aux Etats-Unis, de « réduire la dépendance » à des fournisseurs étrangers et de protéger la sécurité nationale du pays.",
+          "published": "2026-08-13T23:12:59+00:00"
+        },
+        {
+          "title": "Les Emirats arabes unis accusent l’Iran d’avoir attaqué deux navires dans le détroit d’Ormuz",
+          "link": "https://www.lemonde.fr/international/article/2026/08/14/les-emirats-arabes-unis-accusent-l-iran-d-avoir-attaque-deux-navires-dans-le-detroit-d-ormuz_6745873_3210.html",
+          "source": "Le Monde",
+          "summary": "Abou Dhabi a dénoncé des « actes de piraterie » commis par les gardiens de la révolution iraniens, après cette attaque qui aurait eu lieu jeudi 13 août au soir, selon l’agence de presse officielle ​WAM.",
+          "published": "2026-08-13T22:49:12+00:00"
+        },
+        {
+          "title": "Les Émirats «condamnent fermement» une attaque iranienne contre deux navires dans le détroit d’Ormuz",
+          "link": "https://www.lefigaro.fr/international/les-emirats-condamnent-fermement-une-attaque-iranienne-contre-deux-navires-dans-le-detroit-d-ormuz-20260813",
+          "source": "Le Figaro",
+          "summary": "L’attaque a eu lieu jeudi soir, selon l’agence WAM, qui cite la compagnie pétrolière publique Abu Dhabi National Oil Company (ADNOC).",
+          "published": "2026-08-13T21:58:38+00:00"
+        },
+        {
+          "title": "Trois pompiers légèrement blessés dans les incendies dans le Pas-de-Calais, 2 000 campeurs évacués en Loire-Atlantique",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-le-pic-de-chaleur-attendu-jeudi-avant-une-baisse-progressive-des-temperatures_8145581.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Dans les Landes, environ 400 touristes et habitants étaient en cours d'évacuation de la commune de Luglon, jeudi soir, en raison d'un feu de forêt qui a parcouru 400 hectares, en pleine canicule dans le pays.",
+          "published": "2026-08-13T21:56:43+00:00"
+        },
+        {
+          "title": "Laurent Nuñez va \"contester\" une partie de la note de Gérald Darmanin sur les violences sexuelles sur mineurs",
+          "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/laurent-nunez-va-contester-une-partie-de-la-note-de-gerald-darmanin-sur-les-violences-sexuelles-sur-mineurs_8146778.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le ministre de l'Intérieur a annoncé, jeudi, qu'il entendait apporter des \"réponses argumentées\" au courrier du garde des Sceaux qui a suscité l'indignation de plusieurs syndicats policiers à la suite de l'affaire…",
+          "published": "2026-08-13T21:56:01+00:00"
         }
       ]
     },
