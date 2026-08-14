@@ -1,15 +1,50 @@
 {
-  "generated_at": "2026-08-14T04:46:39.639390+00:00",
+  "generated_at": "2026-08-14T07:22:15.066910+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : une frappe russe a fait un mort et une quinzaine de blessés à Kramatorsk, dans le Donbass",
+          "title": "Les Etats-Unis réaffirment la souveraineté du Japon sur les îles Kouriles visitées par Vladimir Poutine",
+          "link": "https://www.lemonde.fr/international/article/2026/08/14/les-etats-unis-reaffirment-la-souverainete-du-japon-sur-les-iles-kouriles-visitees-par-vladimir-poutine_6746219_3210.html",
+          "source": "Le Monde",
+          "summary": "« Nous nous opposons fermement à toute action susceptible de compromettre la paix et la stabilité » dans l’Extrême-Orient, a déclaré l’ambassadeur des Etats-Unis au Japon, réaffirmant le « soutien indéfectible » de…",
+          "published": "2026-08-14T06:12:17+00:00"
+        },
+        {
+          "title": "Nigel Farage réélu député à Clacton-on-Sea, au sud-est de l’Angleterre, face au candidat satirique Tête-de-Poubelle",
+          "link": "https://www.lemonde.fr/international/article/2026/08/14/nigel-farage-reelu-depute-a-clacton-on-sea-au-sud-est-de-l-angleterre-face-au-candidat-satirique-tete-de-poubelle_6746217_3210.html",
+          "source": "Le Monde",
+          "summary": "Le chef du parti anti-immigration Reform UK a recueilli 63 % des suffrages mais son adversaire fantasque a dépassé les estimations lors de cette législative partielle dans la station balnéaire.",
+          "published": "2026-08-14T05:55:21+00:00"
+        },
+        {
+          "title": "De Jean-Marie à Marine Le Pen : la métamorphose du Front national (1/3)",
+          "link": "https://www.france24.com/fr/france/20260814-france-serie-du-fn-au-rn-jean-marie-le-pen-marine-le-pen-metamorphose-dediabolisation-du-front-national",
+          "source": "France 24",
+          "summary": "De la dédiabolisation à la présidentialisation du RN (1/3). En prenant en 2011 la succession de son père Jean-Marie Le Pen à la tête du Front national, Marine Le Pen se retrouve aux commandes d’un parti englué dans les…",
+          "published": "2026-08-14T05:20:24+00:00"
+        },
+        {
+          "title": "Ferran Torres, héros de la finale de la Coupe du monde, va rejoindre le PSG",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260814-ferran-torres-h%C3%A9ros-de-la-finale-de-la-coupe-du-monde-va-rejoindre-le-psg",
+          "source": "France 24",
+          "summary": "Le Paris Saint-Germain a trouvé un accord avec le FC Barcelone pour l'arrivée de Ferran Torres, auteur du but de la victoire de l'Espagne en finale de la dernière Coupe du monde. L'attaquant de 26 ans devrait rejoindre…",
+          "published": "2026-08-14T05:07:04+00:00"
+        },
+        {
+          "title": "En Chine, derrière la vogue du robot humanoïde, l’enjeu de la robotique industrielle",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/14/en-chine-derriere-la-vogue-du-robot-humanoide-l-enjeu-de-la-robotique-industrielle_6746215_3234.html",
+          "source": "Le Monde",
+          "summary": "Le pays compte plus de 140 constructeurs de robots humanoïdes et entend en devenir le premier producteur et utilisateur mondial d’ici à 2030. Plus discrètement, il construit sa domination dans le secteur des bras…",
+          "published": "2026-08-14T04:45:03+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : les attaques russes causent la mort d’au moins trois personnes dans l’oblast de Soumy",
           "link": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-une-frappe-russe-a-fait-un-mort-et-une-quinzaine-de-blesses-a-kramatorsk-dans-le-donbass_6741928_3210.html",
           "source": "Le Monde",
-          "summary": "Le chef de l’administration militaire de l’oblast de Donetsk, Vadym Filachkine, a appelé les habitants locaux à « évacuer vers des régions d’Ukraine plus sûres ». Par ailleurs, une femme de 25 ans et un enfant de 5 ans…",
-          "published": "2026-08-14T04:22:32+00:00"
+          "summary": "Dans la nuit de jeudi à vendredi, la Russie a attaqué l’Ukraine avec 112 drones d’attaque selon l’armée de l’air ukrainienne. De son côté, Moscou comptabilise 553 drones ukrainiens lancés. La Lettonie, pays frontalier…",
+          "published": "2026-08-14T04:22:30+00:00"
         },
         {
           "title": "Au Brésil, la police remet la main sur des œuvres d’Henri Matisse volées en 2025 à Sao Paulo",
@@ -26,7 +61,7 @@
           "published": "2026-08-14T04:00:11+00:00"
         },
         {
-          "title": "Au Japon, des pluies diluviennes font au moins quatre morts à l’est de Tokyo",
+          "title": "Au Japon, des pluies diluviennes font au moins huit morts à l’est de Tokyo",
           "link": "https://www.lemonde.fr/international/article/2026/08/14/au-japon-des-pluies-diluviennes-font-au-moins-quatre-morts-a-l-est-de-tokyo_6746142_3210.html",
           "source": "Le Monde",
           "summary": "Les précipitations ont fortement perturbé les réseaux routier et ferroviaire et bloqué des milliers de personnes à l’aéroport international de Narita, qui dessert la capitale.",
@@ -38,41 +73,6 @@
           "source": "Le Monde",
           "summary": "Des élus démocrates réclament des explications après des signalements de pénuries, de problèmes sanitaires et d’une dégradation de la santé mentale à bord du navire. Le média spécialisé « Navy Times » rapporte que deux…",
           "published": "2026-08-14T03:30:41+00:00"
-        },
-        {
-          "title": "Le Japon sous le choc après une visite de Vladimir Poutine sur des territoires disputés du sud des îles Kouriles",
-          "link": "https://www.lemonde.fr/international/article/2026/08/14/le-japon-sous-le-choc-apres-une-visite-de-vladimir-poutine-sur-des-territoires-disputes-du-sud-des-iles-kouriles_6746073_3210.html",
-          "source": "Le Monde",
-          "summary": "Le déplacement du chef de l’Etat russe a été qualifié d’« inacceptable » par la première ministre nippone. Les quatre îles de l’archipel sont administrées par la Russie depuis 1946, mais toujours revendiquées par le…",
-          "published": "2026-08-14T03:30:03+00:00"
-        },
-        {
-          "title": "Au Chili, le destin contrarié de la maison de l’ancien président Salvador Allende",
-          "link": "https://www.lemonde.fr/international/article/2026/08/14/au-chili-le-destin-contrarie-de-la-maison-de-l-ancien-president-salvador-allende_6746039_3210.html",
-          "source": "Le Monde",
-          "summary": "L’ex-président chilien Gabriel Boric avait voulu en faire un musée et un lieu de mémoire. La demeure de son prédécesseur, qui s’est donné la mort lors du coup d’Etat du général Pinochet, en 1973, a finalement été…",
-          "published": "2026-08-14T03:15:12+00:00"
-        },
-        {
-          "title": "En Italie, l’extrême droite entraînée dans la surenchère par la radicalité d’un ex-général entré en politique",
-          "link": "https://www.lemonde.fr/international/article/2026/08/14/en-italie-l-extreme-droite-entrainee-dans-la-surenchere-par-la-radicalite-d-un-ex-general-entre-en-politique_6746038_3210.html",
-          "source": "Le Monde",
-          "summary": "Passé par la Ligue, Roberto Vannacci a créé son propre parti, Futuro nazionale (FN), qui porte une vision identitaire, masculiniste et prône un traitement différencié des étrangers sur une base ethnique. Sa montée dans…",
-          "published": "2026-08-14T03:15:11+00:00"
-        },
-        {
-          "title": "Législative partielle au Royaume-Uni : Nigel Farage revendique la victoire",
-          "link": "https://www.france24.com/fr/europe/20260814-l%C3%A9gislative-partielle-au-royaume-uni-nigel-farage-revendique-la-victoire",
-          "source": "France 24",
-          "summary": "Alors que le dépouillement était toujours en cours vendredi matin à l'aube, Nigel Farage, chef du parti anti-immigration Reform UK, a revendiqué sa victoire à la législative partielle de Clacton, un scrutin qu'il a…",
-          "published": "2026-08-14T02:53:12+00:00"
-        },
-        {
-          "title": "Landes, Grèce, Croatie... L'Europe continue de lutter contre les incendies",
-          "link": "https://www.france24.com/fr/europe/20260814-landes-grece-croatie-europe-continue-lutter-incendies-feux-de-foret",
-          "source": "France 24",
-          "summary": "Les Landes, dans le sud-ouest de la France, étaient le théâtre dans la nuit de jeudi à vendredi d'un nouvel incendie qui a déjà parcouru 600 hectares et provoqué 500 évacuations. En Croatie, un violent feu de forêt a…",
-          "published": "2026-08-14T02:22:35+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "En Lettonie, un drone abattu dans l'espace aérien, ciel et mer finlandais localement fermés",
-          "link": "https://www.lefigaro.fr/international/en-lettonie-un-drone-abattu-dans-l-espace-aerien-20260814",
+          "title": "«On est trois Mohicans» : le mois d’août est-il le plus démotivant de l’année pour venir au bureau ?",
+          "link": "https://www.lefigaro.fr/vie-professionnelle/on-est-trois-mohicans-le-mois-d-aout-est-il-le-plus-demotivant-de-l-annee-pour-venir-au-bureau-20260814",
           "source": "Le Figaro",
-          "summary": "Selon les forces armées lettones, l’appareil sans pilote aurait pénétré sur le territoire «à la suite d’une guerre électronique russe».",
-          "published": "2026-08-14T04:44:42+00:00"
+          "summary": "Certains salariés râlent contre les open spaces vides et le manque d’émulation dans les couloirs de l’entreprise, en ce mois d’été. Faut-il accorder davantage de télétravail en cette période particulière ?",
+          "published": "2026-08-14T07:13:56+00:00"
         },
         {
-          "title": "EN DIRECT - Incendie : le feu fait à nouveau des ravages dans les Landes, énième journée de canicule",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-meteo-incendies-feux-de-foret-canicule-chaleur-temperatures-20260814",
+          "title": "Budget: le ministre de l’Économie ouvre la porte à un gel partiel des retraites en 2027",
+          "link": "https://www.lefigaro.fr/conjoncture/budget-le-ministre-de-l-economie-ouvre-la-porte-a-un-gel-partiel-des-retraites-en-2027-20260814",
           "source": "Le Figaro",
-          "summary": "La canicule continue de progresser en France avec 81 départements placés en alerte orange, et huit en rouge.",
-          "published": "2026-08-14T04:41:02+00:00"
+          "summary": "Roland Lescure relance l’hypothèse d’une sous-indexation des pensions des retraités aisés pour réduire le déficit en 2027. Une mesure politiquement difficile alors que le gouvernement prépare un budget sous haute…",
+          "published": "2026-08-14T07:13:02+00:00"
         },
         {
-          "title": "Euro de natation : entre le retour de Marchand et la revanche de Ndoye-Brouard, un week-end riche en chances de médailles",
-          "link": "https://www.liberation.fr/sports/euro-de-natation-entre-le-retour-de-marchand-et-la-revanche-de-ndoye-brouard-un-week-end-riche-en-chances-de-medailles-20260814_FIXEQDFN5JD5XJZVM64IMXZGDI/",
+          "title": "Le porte-parole des syndicats de pompiers dénonce le bras de fer entre l'État et les départements sur le financement des Sdis",
+          "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/le-porte-parole-des-syndicats-de-pompiers-denonce-le-bras-de-fer-entre-l-etat-et-les-departements-sur-le-financement-des-sdis_8147150.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Au terme d'une journée de mobilisation, les représentants des syndicats de pompiers sont sortis \"déçus\" de leur réunion avec le ministre de l'Intérieur et dénoncent des blocages institutionnels.",
+          "published": "2026-08-14T07:11:01+00:00"
+        },
+        {
+          "title": "Législative partielle à Clacton-on-Sea : le Count Binface s’incline face au leader d’extrême droite Nigel Farage",
+          "link": "https://www.liberation.fr/international/europe/legislative-partielle-a-clacton-on-sea-le-count-binface-sincline-face-au-leader-dextreme-droite-nigel-farage-20260814_44QPCTD53BB4TOUIEUEEPAWEBE/",
           "source": "Liberation",
-          "summary": "Les derniers jours de compétition des championnats d’Europe de natation à Saint-Denis verront Léon Marchand s’aligner sur deux épreuves individuelles, et sans doute un relais. Tandis que Maxime Grousset et Mary-Ambre…",
-          "published": "2026-08-14T04:38:00+00:00"
+          "summary": "Le chef de Reform UK a été réélu député à près de 63 % des voix dans cette station balnéaire. Son principal adversaire, l’humoriste de la BBC surnommé Tête-de-Poubelle, a tout de même recueilli 27 % des suffrages.",
+          "published": "2026-08-14T07:09:59+00:00"
         },
         {
-          "title": "Pourquoi le 800 m féminin est-elle la course la plus attendue de ces championnats d'Europe d'athlétisme ?",
-          "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/pourquoi-le-800-m-feminin-est-elle-la-course-la-plus-attendue-de-ces-championnats-d-europe-d-athletisme_8144558.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La championne olympique britannique Keely Hodgkinson vise le triplé européen, vendredi soir. Avec la Suissesse Audrey Werro, qui s'est approchée du record du monde cette saison, et l'arrivée de Femke Broeders-Bol sur la…",
-          "published": "2026-08-14T04:30:01+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : une frappe russe a fait un mort et une quinzaine de blessés à Kramatorsk, dans le Donbass",
-          "link": "https://www.lemonde.fr/international/live/2026/08/14/en-direct-guerre-en-ukraine-une-frappe-russe-a-fait-un-mort-et-une-quinzaine-de-blesses-a-kramatorsk-dans-le-donbass_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Le chef de l’administration militaire de l’oblast de Donetsk, Vadym Filachkine, a appelé les habitants locaux à « évacuer vers des régions d’Ukraine plus sûres ». Par ailleurs, une femme de 25 ans et un enfant de 5 ans…",
-          "published": "2026-08-14T04:22:32+00:00"
-        },
-        {
-          "title": "Canicule : 81 départements maintenus en alerte orange vendredi, 4600 hectares parcourus par un incendie dans les Landes",
-          "link": "https://www.lefigaro.fr/meteo/en-direct-live-meteo-canicule-vague-chaleur-soleil-incendies-feux-temperatures-vigilance-secheresse-20260813",
+          "title": "«Les Russes testent partout» : l’inquiétude s’accroît au sein des états-majors européens face à une menace désinhibée du Kremlin",
+          "link": "https://www.lefigaro.fr/international/les-russes-testent-partout-l-inquietude-s-accroit-au-sein-des-etats-majors-europeens-face-a-une-menace-desinhibee-du-kremlin-20260813",
           "source": "Le Figaro",
-          "summary": "La vague de chaleur actuelle, qui a connu deux pics d’intensité pour l’instant - le premier le 29 juillet et le second mercredi - n’est pour l’heure pas encore terminée.",
-          "published": "2026-08-14T04:14:25+00:00"
+          "summary": "DÉCRYPTAGE - Après la découverte d’un drone chargé d’explosifs à l’aéroport de Leipzig en Allemagne et la multiplication d’incidents non revendiqués, les Européens s’interrogent sur les intentions de la Russie.",
+          "published": "2026-08-14T07:09:04+00:00"
         },
         {
-          "title": "On vous explique pourquoi la visite historique de Vladimir Poutine sur les îles Kouriles irrite le Japon",
-          "link": "https://www.franceinfo.fr/monde/russie/vladimir-poutine/on-vous-explique-pourquoi-la-visite-historique-de-vladimir-poutine-sur-les-iles-kouriles-irrite-le-japon_8146121.html#xtor=RSS-3-[lestitres]",
+          "title": "La Russie a bombardé des trains civils ukrainiens",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-a-bombarde-des-trains-civils-ukrainiens_8147138.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le président russe s'est rendu jeudi pour la première fois dans cet archipel contrôlé par Moscou depuis 1945 et revendiqué en partie par Tokyo. Un déplacement qui intervient sur fond de tensions croissantes entre les…",
-          "published": "2026-08-14T04:09:44+00:00"
+          "summary": "Avec plus de 430 civils tués et plus de 2000 blessés, le mois de juillet 2026 est l'un des plus meurtriers pour l'Ukraine depuis le début de l'invasion russe. Deux cheminots ont été tués ce jeudi 13 août dans une…",
+          "published": "2026-08-14T07:07:02+00:00"
         },
         {
-          "title": "Au Brésil, la police remet la main sur des œuvres d’Henri Matisse volées en 2025 à Sao Paulo",
-          "link": "https://www.lemonde.fr/international/article/2026/08/14/au-bresil-la-police-remet-la-main-sur-des-uvres-d-henri-matisse-volees-en-2025-a-sao-paulo_6746213_3210.html",
-          "source": "Le Monde",
-          "summary": "Les œuvres, estimées à environ 200 000 dollars par la police, faisaient partie d’un ensemble de treize illustrations dérobées en décembre dans la bibliothèque Mario de Andrade, au cœur de la plus grande ville du pays.",
-          "published": "2026-08-14T04:09:19+00:00"
+          "title": "Canicule : plusieurs records absolus de chaleur battus jeudi",
+          "link": "https://www.lefigaro.fr/meteo/canicule-plusieurs-records-absolus-de-chaleur-battus-jeudi-20260814",
+          "source": "Le Figaro",
+          "summary": "La journée du 13 août a été l’une des journées les plus chaudes de cette cinquième vague de canicule. Des températures maximales ont été enregistrées jeudi dans le Cher, à Châteaumeillant (42,5°C) et en Loire-Atlantique…",
+          "published": "2026-08-14T06:59:10+00:00"
         },
         {
-          "title": "Centrales à l'arrêt, récoltes menacées, navigation perturbée... Quelles sont les conséquences de la sécheresse en Europe ?",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/centrales-a-l-arret-recoltes-menacees-navigation-perturbee-quelles-sont-les-consequences-de-la-secheresse-en-europe_8145944.html#xtor=RSS-3-[lestitres]",
+          "title": "La vigilance orange canicule maintenue dans 75 départements samedi, annonce Météo-France",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vigilance-orange-canicule-maintenue-dans-75-departements-samedi-annonce-meteo-france_8147135.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "La France n'est pas la seule à manquer d'eau. Le Danube et le Rhin affichent notamment des niveaux préoccupants pour le secteur des transports et de l'énergie. Nos voisins européens subissent aussi les effets de la…",
-          "published": "2026-08-14T04:07:50+00:00"
+          "summary": "Vendredi, le nombre de départements concernés est passé de 80 à 75 à 6 heures. La situation s'améliore ainsi dans l'Ouest, où le Finistère, les Côtes-d'Armor, l'Ille-et-Vilaine, la Manche et le Calvados ont été…",
+          "published": "2026-08-14T06:57:11+00:00"
         },
         {
-          "title": "On vous explique les accusations de \"système d'emplois fictifs\" à la RATP qui visent des élus franciliens, dont Bally Bagayoko",
-          "link": "https://www.franceinfo.fr/politique/on-vous-explique-les-accusations-de-systeme-d-emplois-fictifs-a-la-ratp-qui-visent-des-elus-franciliens-dont-bally-bagayoko_8145950.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'association AC!! Anti-Corruption a adressé deux plaintes au Parquet national financier. Le maire de Saint-Denis est soupçonné de détournement de fonds publics et d'emploi fictif, après des révélations du \"Canard…",
-          "published": "2026-08-14T04:05:11+00:00"
+          "title": "Starlink contre Rassvet : entre la Russie et l’Ukraine, la bataille des satellites fait rage",
+          "link": "https://www.lefigaro.fr/international/starlink-contre-rassvet-entre-la-russie-et-l-ukraine-la-bataille-des-satellites-fait-rage-20260814",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - Privée d’accès à la constellation de communication sur le territoire ukrainien, la Russie accélère le développement d’une solution alternative.",
+          "published": "2026-08-14T06:56:20+00:00"
+        },
+        {
+          "title": "Canicule : Près de 30°C au bord de la Méditerranée, 24,2°C à Paris... Découvrez les températures relevées à 8 heures",
+          "link": "https://www.lefigaro.fr/meteo/canicule-decouvrez-les-temperatures-relevees-ce-mercredi-20260812",
+          "source": "Le Figaro",
+          "summary": "CARTE – À 8 heures ce vendredi, le mercure frôle la barre des 30°C en Corse et au bord de la Méditerranée. La nuit a également été chaude dans le centre du pays mais un rafraîchissement se dessine depuis les côtes de la…",
+          "published": "2026-08-14T06:55:42+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Pixel 11 Pro vs Pixel 10 Pro : les différences importantes à retenir",
-          "link": "https://www.frandroid.com/marques/google/3211643_pixel-11-pro-vs-pixel-10-pro-les-differences-importantes-a-retenir",
-          "source": "Frandroid",
-          "summary": "Google a officialisé le Pixel 11 Pro le 12 août pendant la Made by Google. Nouvelle puce, évolution photo, meilleur écran et charge sans fil optimisée. Voici les différences avec son prédécesseur, le Pixel 10 Pro.",
-          "published": "2026-08-13T18:30:00+00:00"
-        },
-        {
-          "title": "Un pirate a accédé à la plateforme des impôts, des données fiscales compromises",
-          "link": "https://next.ink/251702/un-pirate-a-accede-a-la-plateforme-des-impots-des-donnees-fiscales-compromises/",
-          "source": "Next",
-          "summary": "La Direction générale des Finances publiques (DGFiP) a confirmé les bruits de couloir qui circulaient depuis plusieurs heures sur les réseaux sociaux. Des données concernant des particuliers et des professionnels sont…",
-          "published": "2026-08-13T17:44:22+00:00"
-        },
-        {
-          "title": "CyberGhost ou ExpressVPN : lequel des deux VPN premium mérite votre argent en 2026 ?",
-          "link": "https://www.clubic.com/bons-plans-625141-cyberghost-ou-expressvpn-lequel-des-deux-vpn-premium-merite-votre-argent-en-2026.html",
-          "source": "Clubic",
-          "summary": "Entre un VPN au tarif cassé et un service premium presque deux fois plus cher, difficile de savoir où placer son argent. CyberGhost et ExpressVPN incarnent justement ce dilemme, avec deux philosophies et deux budgets…",
-          "published": "2026-08-13T16:41:00+00:00"
-        },
-        {
-          "title": "+96 % en 2026 : comment le « reste du monde » est devenu le nouveau moteur de la voiture électrique",
-          "link": "https://www.numerama.com/vroom/2311309-96-en-2026-comment-le-reste-du-monde-est-devenu-le-nouveau-moteur-de-la-voiture-electrique.html",
+          "title": "Alors que les disques PlayStation s’arrêtent, l’exclusivité Marvel’s Wolverine sera 100 % jouable sans rien télécharger",
+          "link": "https://www.numerama.com/pop-culture/2311439-alors-que-les-disques-playstation-sarretent-lexclusivite-marvels-wolverine-sera-100-jouable-sans-rien-telecharger.html",
           "source": "Numerama",
-          "summary": "Alors que les regards restent braqués sur la Chine et les États-Unis, la véritable accélération des véhicules électriques se joue peut-être ailleurs. En 2026, la catégorie « reste du monde » enregistre une croissance…",
-          "published": "2026-08-13T16:30:00+00:00"
+          "summary": "Insomniac Games a annoncé que la version physique de Marvel's Wolverine sera bien 100 % jouable. Ce qui signifie qu'aucun téléchargement ne sera nécessaire pour en profiter. Un comble quand on connaît la stratégie de…",
+          "published": "2026-08-14T07:14:52+00:00"
         },
         {
-          "title": "AirPods Pro 3 à 198 € : le meilleur prix jamais vu chez Amazon",
-          "link": "https://www.clubic.com/bons-plans-625222-airpods-pro-3-a-198-le-meilleur-prix-jamais-vu-chez-amazon.html",
+          "title": "WhatsApp teste des thèmes de chat avec fonds d’écran animés sur iPhone",
+          "link": "https://www.clubic.com/actualite-625258-whatsapp-teste-des-themes-de-chat-avec-fonds-d-ecran-animes-sur-iphone.html",
           "source": "Clubic",
-          "summary": "Amazon frappe fort sur l'audio Apple en plein cœur de l'été, avec un tarif inédit sur les AirPods Pro 3. Voici ce que vaut réellement cette offre, entre record de prix et concessions à connaître.",
-          "published": "2026-08-13T16:12:00+00:00"
+          "summary": "WhatsApp prépare une refonte de la personnalisation des conversations sur iPhone. Trois catégories de thèmes inédits, dont des fonds d'écran animés, ont été repérées dans la dernière version bêta de l'application.",
+          "published": "2026-08-14T07:02:00+00:00"
         },
         {
-          "title": "Ce ventilateur de plafond Philips à moitié prix pourrait bien vous sauver pendant la canicule",
-          "link": "https://www.frandroid.com/bons-plans/3211655_ce-ventilateur-de-plafond-philips-a-moitie-prix-pourrait-bien-vous-sauver-pendant-la-canicule",
+          "title": "Espace : la longue marche vers le réutilisable",
+          "link": "https://next.ink/251651/espace-la-longue-marche-vers-le-reutilisable/",
+          "source": "Next",
+          "summary": "Cet été, Américains, Européens, Chinois et Russes continuent leur longue marche vers le spatial réutilisable, chacun à son rythme. Alors que SpaceX a fait des avancées importantes vers le tout réutilisable mais…",
+          "published": "2026-08-14T06:39:00+00:00"
+        },
+        {
+          "title": "Microsoft commence ses travaux vers une app Copilot unifiée",
+          "link": "https://www.clubic.com/actualite-625228-microsoft-commence-ses-travaux-vers-une-app-copilot-unifiee.html",
+          "source": "Clubic",
+          "summary": "Microsoft a détaillé la fusion entre son application Copilot grand public et Microsoft 365 Copilot, réunies dans une seule interface qui reprend le nom \"Microsoft Copilot\". L'éditeur prépare le terrain pour sa superapp…",
+          "published": "2026-08-14T06:38:00+00:00"
+        },
+        {
+          "title": "iPhone Ultra : un lancement bien prévu en septembre… Mais pas chez nous ?",
+          "link": "https://www.frandroid.com/marques/apple/3211913_iphone-ultra-un-lancement-bien-prevu-en-septembre-mais-pas-chez-nous",
           "source": "Frandroid",
-          "summary": "Le Philips Atlas est un ventilateur de plafond silencieux qui brasse l'air en été pour vous rafraîchir. Il propose même un mode hiver, afin de pouvoir être utilisé toute l'année. Actuellement, Cdiscount l'affiche à…",
-          "published": "2026-08-13T16:07:00+00:00"
+          "summary": "Les dernières rumeurs entourant le lancement de l’iPhone pliable voudraient que l’appareil soit bel et bien dévoilé en septembre prochain, mais qu’il reste exclusif à son pays natal quelque temps au moins.",
+          "published": "2026-08-14T06:35:18+00:00"
         },
         {
-          "title": "Photos de l’éclipse au smartphone (Samsung, Oppo, Xiaomi, Google) : voici nos résultats et classement",
-          "link": "https://www.frandroid.com/produits-android/smartphone/3211011_photos-de-leclipse-au-smartphone-samsung-oppo-xiaomi-google-voici-nos-resultats-et-classement",
-          "source": "Frandroid",
-          "summary": "Après avoir pris en photo l'éclipse du 12 août avec quatre smartphones différents, voici les résultats et notre classement pour savoir lequel a été le meilleur entre le Samsung Galaxy S26 Ultra, l'Oppo Find X9 Ultra, le…",
-          "published": "2026-08-13T16:00:00+00:00"
+          "title": "Jusqu'à -70 % sur ces deux robots aspirateurs laveurs dès 299,99 €",
+          "link": "https://www.clubic.com/bons-plans-624448-jusqu-a--70-sur-ces-deux-robots-aspirateurs-laveurs-des-299-99.html",
+          "source": "Clubic",
+          "summary": "Lefant lance deux robots aspirateurs laveurs à rouleau qui nettoient leur serpillière en continu pendant le passage, puis la lavent à 75 °C dans leur base. Le M5 Pro tombe à 299,99 € et le M5 Max à 399,99 €, contre…",
+          "published": "2026-08-14T06:30:00+00:00"
         },
         {
-          "title": "Amazon frappe fort ce jeudi : 7 ventes Flash tech à ne surtout pas manquer",
+          "title": "Microsoft fait le ménage dans Copilot et range la mascotte Mico au placard",
+          "link": "https://next.ink/251713/microsoft-fait-le-menage-dans-copilot-et-range-la-mascotte-mico-au-placard/",
+          "source": "Next",
+          "summary": "Grand ménage en cours chez Microsoft. L&#8217;éditeur a annoncé un coup de balai pour Copilot, qui va perdre des fonctions jugées inutiles – comme la fameuse mascotte Mico oubliée de tous –, tout en se rapprochant du…",
+          "published": "2026-08-14T06:05:08+00:00"
+        },
+        {
+          "title": "Taxis : une nouvelle aide de 5 500€ pour passer à l’électrique en France",
+          "link": "https://www.clubic.com/actualite-625231-taxis-une-nouvelle-aide-de-5-500-pour-passer-a-l-electrique-en-france.html",
+          "source": "Clubic",
+          "summary": "Dès le 1er septembre 2026, les chauffeurs de taxi pourront bénéficier d'une aide allant jusqu'à 5 500 euros pour acheter ou louer une voiture électrique. Le guichet fermera toutefois dès la fin de l'année.",
+          "published": "2026-08-14T06:02:00+00:00"
+        },
+        {
+          "title": "Pourquoi cette star d’Hollywood n’a pas joué Joel dans The Last of Us",
+          "link": "https://www.numerama.com/tech/2311429-pourquoi-cette-star-dhollywood-na-pas-joue-joel-dans-the-last-of-us.html",
+          "source": "Numerama",
+          "summary": "Notamment connu pour ses rôles dans Interstellar et True Detective, Matthew McConaughey aurait pu être le Joel de la série The Last of Us. Il a préféré refuser le rôle.",
+          "published": "2026-08-14T06:01:01+00:00"
+        },
+        {
+          "title": "Jusqu'à -74% chez Amazon : ces 7 ventes Flash valent le détour ce vendredi",
           "link": "https://www.clubic.com/bons-plans-625237-amazon-frappe-fort-ce-jeudi-7-ventes-flash-tech-a-ne-surtout-pas-manquer.html",
           "source": "Clubic",
-          "summary": "Ce jeudi soir, Amazon dégaine une nouvelle salve de ventes flash sur la tech, du PC portable à l'aspirateur robot en passant par le smartphone et l'audio. Voici 7 offres du jour sélectionnées et vérifiées, à saisir…",
-          "published": "2026-08-13T16:00:00+00:00"
+          "summary": "Amazon dégaine une nouvelle salve de ventes flash sur la tech, du PC portable à l'aspirateur robot en passant par le smartphone et l'audio. Voici 7 offres du jour sélectionnées et vérifiées, à saisir avant qu'elles ne…",
+          "published": "2026-08-14T06:00:00+00:00"
         },
         {
-          "title": "Voiture électrique : un nouveau bonus arrive en septembre, pour le marché de l'occasion",
-          "link": "https://www.clubic.com/actualite-625225-voiture-electrique-un-nouveau-bonus-arrive-en-septembre-pour-le-marche-de-l-occasion.html",
+          "title": "Bercy confirme le piratage des impôts. Près de 700 000 personnes potentiellement concernées",
+          "link": "https://www.frandroid.com/culture-tech/3211873_bercy-confirme-le-piratage-des-impots-pres-de-700-000-personnes-potentiellement-concernees",
+          "source": "Frandroid",
+          "summary": "Revendiqué le 13&nbsp;août dernier, le piratage de la plateforme des impôts a été confirmé par l’administration fiscale. Cette dernière n’a cependant pas donné de chiffres précis.",
+          "published": "2026-08-14T05:39:03+00:00"
+        },
+        {
+          "title": "Confidentialité des IA : ExpressVPN lance ExpressAI, un chatbot qui ne conserve aucune donnée",
+          "link": "https://www.clubic.com/actualite-623971-confidentialite-des-ia-expressvpn-lance-expressai-un-chatbot-qui-ne-conserve-aucune-donnee.html",
           "source": "Clubic",
-          "summary": "Le gouvernement veut inciter à l'acquisition de voitures électriques, et ce, qu'elles soient neuves ou d'occasion. Et pour ce dernier marché, une nouvelle aide sera disponible dans un peu plus de deux semaines.",
-          "published": "2026-08-13T15:57:00+00:00"
-        },
-        {
-          "title": "Le nouveau logo Instagram se lit presque Instagzam, et les internautes ne sont pas tendres",
-          "link": "https://www.clubic.com/actualite-625246-le-nouveau-logo-instagram-se-lit-presque-instagzam-et-les-internautes-ne-sont-pas-tendres.html",
-          "source": "Clubic",
-          "summary": "Instagram dévoile un nouveau look pour son logo, abandonnant la typographie cursive qui accompagnait l’application depuis une décennie. Le résultat, à mi-chemin entre script et caractères d’imprimerie, divise déjà…",
-          "published": "2026-08-13T15:51:00+00:00"
-        },
-        {
-          "title": "Instagram modernise son logo après 10 ans, mais le nouveau design divise déjà",
-          "link": "https://www.numerama.com/tech/2311349-instagram-modernise-son-logo-apres-10-ans-mais-le-nouveau-design-divise-deja.html",
-          "source": "Numerama",
-          "summary": "Après dix ans sans changement, Instagram retouche son célèbre logo. Dévoilée ce 13 août 2026 par Adam Mosseri, le patron du service, cette nouvelle version se veut plus moderne, mais son mélange de styles ne convainc…",
-          "published": "2026-08-13T15:49:31+00:00"
-        },
-        {
-          "title": "Face aux iPad et Galaxy Tab, la XIAOMI Redmi Pad 2 9.7\" mise sur le rapport qualité-prix",
-          "link": "https://www.clubic.com/bons-plans-625216-face-aux-ipad-et-galaxy-tab-la-xiaomi-redmi-pad-2-9-7-mise-sur-le-rapport-qualite-prix.html",
-          "source": "Clubic",
-          "summary": "Boulanger propose actuellement la tablette Android XIAOMI Redmi Pad 2 9.7'' Gris 128 Go à 199,00 € au lieu de 269,99 €, soit une remise de 26 %. Voici ce que vaut réellement cette offre pour qui cherche une tablette…",
-          "published": "2026-08-13T15:48:00+00:00"
+          "summary": "Chaque conversation avec une IA laisse des traces : historique conservé, données exploitées, et parfois même des fuites accidentelles. Face à ces risques, ExpressAI mise sur le chiffrement et la confidentialité absolue…",
+          "published": "2026-08-14T05:30:00+00:00"
         }
       ]
     }
