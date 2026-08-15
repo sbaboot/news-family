@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-08-15T15:18:31.131234+00:00",
+  "generated_at": "2026-08-15T18:27:14.365130+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Zimbabwe : le bilan du naufrage d’un ferry sur le lac Kariba s’élève à 68 morts",
+          "link": "https://www.lemonde.fr/international/article/2026/08/15/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-eleve-a-68-morts_6746751_3210.html",
+          "source": "Le Monde",
+          "summary": "Les secours ont repêché 22 nouveaux corps, a annoncé la police, samedi. Celle-ci n’a fourni aucun détail sur ces nouvelles victimes, mais la plupart des passagers du navire étaient des villageois et des marchands de…",
+          "published": "2026-08-15T18:12:16+00:00"
+        },
+        {
+          "title": "«La face cachée de Kim Jong-un», de Cheong Seong-chang",
+          "link": "https://www.rfi.fr/fr/podcasts/livre-international/20260815-la-face-cach%C3%A9e-de-kim-jong-un-de-cheong-seong-chang",
+          "source": "RFI",
+          "summary": "Alors que la Corée du Nord a procédé à un nouveau tir de missile balistique en mer du Japon lundi 17 août peu avant le début de manœuvres conjointes américano-sud-coréennes baptisées « Ulchi Freedom Shield », Washington…",
+          "published": "2026-08-15T18:00:09+00:00"
+        },
+        {
+          "title": "Léon Marchand remporte son premier titre européen sur le 200 m papillon",
+          "link": "https://www.france24.com/fr/sports/20260815-l%C3%A9on-marchand-remporte-son-premier-titre-europ%C3%A9en-sur-le-200-m-papillon",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-08-15T16:52:42+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : un éventuel transfert de munitions d’Ankara à Kiev compromettrait « gravement » les relations entre la Russie et la Turquie, juge Moscou",
+          "link": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-un-eventuel-transfert-de-munitions-d-ankara-a-kiev-compromettrait-gravement-les-relations-entre-la-russie-et-la-turquie-juge-moscou_6741928_3210.html",
+          "source": "Le Monde",
+          "summary": "L’ONG Human Rights Watch avait rapporté, mardi, que la Turquie avait demandé l’autorisation des Etats-Unis pour transférer des armes vers l’Ukraine. Maria Zakharova, porte-parole du ministère de la défense russe, a…",
+          "published": "2026-08-15T16:13:07+00:00"
+        },
+        {
+          "title": "Israël appelle à des négociations « plus sérieuses » avec le Liban, après des bombardements qui ont fait au moins onze morts dans le sud du pays",
+          "link": "https://www.lemonde.fr/international/article/2026/08/15/israel-appelle-a-des-negociations-plus-serieuses-avec-le-liban-apres-des-bombardements-qui-ont-fait-neuf-morts-dans-le-sud-du-pays_6746618_3211.html",
+          "source": "Le Monde",
+          "summary": "Le président libanais, Joseph Aoun, a lui estimé que les frappes constituaient un « message clair » pour l’avenir des négociations entre Israël et le Liban, avant un nouveau cycle de pourparlers prévu en septembre. Le…",
+          "published": "2026-08-15T16:06:57+00:00"
+        },
+        {
+          "title": "Les images de la libération de prisonniers politiques au Venezuela",
+          "link": "https://www.lemonde.fr/international/video/2026/08/15/les-images-de-la-liberation-de-prisonniers-politiques-au-venezuela_6746711_3210.html",
+          "source": "Le Monde",
+          "summary": "Le gouvernement intérimaire vénézuelien, a libéré 131 prisonniers politiques, suite à des négociations avec l’opposition, supervisées par Washington.",
+          "published": "2026-08-15T15:57:36+00:00"
+        },
+        {
+          "title": "Après le piratage du fisc, le parquet de Paris ouvre une enquête",
+          "link": "https://www.france24.com/fr/france/20260815-apr%C3%A8s-piratage-fisc-parquet-paris-ouvre-enqu%C3%AAte",
+          "source": "France 24",
+          "summary": "Le parquet de Paris a annoncé samedi avoir ouvert une enquête après la cyberattaque ayant permis fin juin à des pirates de voler les données personnelles de près de 700 000 usagers de l'administration fiscale. Pour les…",
+          "published": "2026-08-15T15:51:00+00:00"
+        },
+        {
+          "title": "Le président sud-coréen propose des discussions à Pyongyang pour mettre fin à la guerre de Corée",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260815-pr%C3%A9sident-sud-cor%C3%A9en-propose-discussions-pyongyang-pour-mettre-fin-guerre-cor%C3%A9e",
+          "source": "France 24",
+          "summary": "À l'opposé de la ligne très dure adoptée par son prédécesseur vis-à-vis de Pyongyang, le président sud-coréen Lee Jae-myung a proposé samedi à la Corée du Nord d'entamer un dialogue pour mettre formellement fin à la…",
+          "published": "2026-08-15T15:25:37+00:00"
+        },
         {
           "title": "Incendie en Belgique : le feu dans un parc naturel dans l’est du pays a déjà parcouru 1 650 hectares",
           "link": "https://www.lemonde.fr/planete/article/2026/08/15/incendie-en-belgique-le-feu-dans-un-parc-naturel-a-l-est-du-pays-a-deja-parcouru-1-650-hectares_6746673_3244.html",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "Cinq ans après la reprise de Kaboul par les Taliban, quelle est la situation en Afghanistan ? Le retour à une sécurité relative qui exclut la moitié de la population. Plus d'une centaine de décrets ont été adoptés par…",
           "published": "2026-08-15T13:35:04+00:00"
-        },
-        {
-          "title": "Afghanistan : pourquoi la communauté internationale s'accommode des Taliban ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260815-afghanistan-pourquoi-la-communaut%C3%A9-internationale-s-accommode-des-taliban",
-          "source": "France 24",
-          "summary": "Cinq ans après la reprise de Kaboul par les Taliban, quelle est la situation en Afghanistan ? Le retour à une sécurité relative qui exclut la moitié de la population. Plus d'une centaine de décrets ont été adoptés par…",
-          "published": "2026-08-15T13:32:14+00:00"
-        },
-        {
-          "title": "Le Liechtenstein adopte l’égalité hommes-femmes pour la succession au trône",
-          "link": "https://www.lemonde.fr/international/article/2026/08/15/le-liechtenstein-adopte-l-egalite-hommes-femmes-pour-la-succession-au-trone_6746672_3210.html",
-          "source": "Le Monde",
-          "summary": "Le Liechtenstein est une monarchie constitutionnelle dirigée par le prince souverain Hans-Adam II depuis 1989, mais dont le fils, le prince héréditaire Aloïs, assure la régence et la gestion des affaires quotidiennes…",
-          "published": "2026-08-15T13:03:53+00:00"
-        },
-        {
-          "title": "Le modèle finlandais de réserves stratégiques alimentaires et énergétiques, pour « survivre à n’importe quel type de crise », fait école",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/15/le-modele-finlandais-de-reserves-strategiques-alimentaires-et-energetiques-pour-survivre-a-n-importe-quel-type-de-crise-fait-ecole_6746670_3244.html",
-          "source": "Le Monde",
-          "summary": "Eparpillées sur son territoire, les réserves constituées par le pays nordique, qui partage 1 340 kilomètres de frontières avec la Russie, couvrent neuf mois de sa consommation de céréales et cinq mois de ses besoins en…",
-          "published": "2026-08-15T13:00:03+00:00"
-        },
-        {
-          "title": "«Le fentanyl qui a fait des ravages énormes en Amérique du Nord, peut faire des dégâts en Afrique»",
-          "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260815-le-fentanyl-qui-a-fait-des-ravages-%C3%A9normes-en-am%C3%A9rique-du-nord-peut-faire-des-d%C3%A9g%C3%A2ts-en-afrique",
-          "source": "RFI",
-          "summary": "Au Mozambique, 1,4 tonne de fentanyl dissimulée dans des flacons de cosmétiques ont été saisis à l'aéroport de Maputo. Cette drogue de synthèse était partie de Campinas, dans l'État de Sao Paulo, au Brésil, et avait…",
-          "published": "2026-08-15T12:49:59+00:00"
-        },
-        {
-          "title": "Le triangle des Bermudes : un mystère pas si mystérieux que ça",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260815-triangle-des-bermudes-myst%C3%A8re-pas-si-myst%C3%A9rieux-mythe-l%C3%A9gende-culture-prime",
-          "source": "France 24",
-          "summary": "Disparitions mystérieuses, navires découverts abandonnés... Le triangle des Bermudes est considéré par certains comme la zone la plus dangereuse du monde. Mais mérite-t-elle vraiment cette réputation ?",
-          "published": "2026-08-15T12:45:19+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme qu’une entreprise du groupe Roscosmos a été touchée par des missiles ukrainiens dans l’oblast de Samara, en Russie",
-          "link": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-qu-une-entreprise-du-groupe-roscosmos-a-ete-touchee-par-des-missiles-ukrainiens-dans-l-oblast-de-samara-en-russie_6741928_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président ukrainien a revendiqué, samedi, une attaque avec des missiles Flamingo contre un centre de l’agence spatiale russe, « qui était notamment impliqué dans la production d’électronique », à 800 kilomètres de la…",
-          "published": "2026-08-15T12:14:04+00:00"
-        },
-        {
-          "title": "Loi sur l'interdiction des réseaux sociaux aux mineurs : le conseil constitutionnel censure",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260815-loi-sur-l-interdiction-des-r%C3%A9seaux-sociaux-aux-mineurs-le-conseil-consitutionnel-censure",
-          "source": "France 24",
-          "summary": "Emmanuel Macron a chargé Sébastien Lecornu de \"travailler\" à \"une rédaction juridiquement robuste\" de l'interdiction des réseaux sociaux aux moins de 15 ans dont la version adoptée au Parlement a été censurée jeudi par…",
-          "published": "2026-08-15T12:12:57+00:00"
-        },
-        {
-          "title": "🔴 L'Indonésie frappée par deux puissants séismes à quelques heures d'intervalle",
-          "link": "https://www.france24.com/fr/asie-pacifique/20260815-l-indon%C3%A9sie-touch%C3%A9e-par-un-puissant-s%C3%A9isme-au-moins-20-morts",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-08-15T11:46:12+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Fillette tuée durant un voyage à New York | Frattolin, reconnu coupable de meurtre, aurait souhaité témoigner lors de son procès",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-15/fillette-tuee-durant-un-voyage-a-new-york/frattolin-reconnu-coupable-de-meurtre-aurait-souhaite-temoigner-lors-de-son-proces.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Archidiocèse de Québec | Un règlement de 31,5 millions approuvé en faveur de victimes d’agressions sexuelles",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-15/archidiocese-de-quebec/un-reglement-de-31-5-millions-approuve-en-faveur-de-victimes-d-agressions-sexuelles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un cabinet d’avocats montréalais a annoncé samedi qu’une juge de la Cour supérieure avait approuvé un accord historique de 31,5 millions en faveur des plaignants victimes d’agressions sexuelles dans le cadre d’un…",
+          "published": "2026-08-15T17:56:46+00:00"
+        },
+        {
+          "title": "Manifestation à Blainville | Des citoyens font part de leur « ras le bol » contre Stablex",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-15/manifestation-a-blainville/des-citoyens-font-part-de-leur-ras-le-bol-contre-stablex.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des citoyens se rassemblent samedi après-midi afin de faire part de leur « ras-le-bol » face au manque d’écoute dans le dossier Stablex, qui prévoit d’aménager une sixième cellule d’enfouissement sur son site de…",
+          "published": "2026-08-15T17:42:10+00:00"
+        },
+        {
+          "title": "« Mettez un casque ! » | Les vélos électriques sont-ils plus dangereux ?",
+          "link": "https://www.lapresse.ca/actualites/2026-08-15/mettez-un-casque/les-velos-electriques-sont-ils-plus-dangereux.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Eva Radwanli est passée à deux doigts de mourir. À un doigt, plutôt. La femme de 46 ans a subi un sévère traumatisme craniocérébral en juillet après avoir fait une chute en vélo électrique en dévalant la pente abrupte…",
+          "published": "2026-08-15T17:00:00+00:00"
+        },
+        {
+          "title": "Danse traditionnelle et marée de drapeaux pour fêter cinq ans de pouvoir taliban en Afghanistan",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1002020/danse-traditionnelle-maree-drapeaux-feter-cinq-ans-pouvoir-taliban-afghanistan",
+          "source": "Le Devoir",
+          "summary": "« Nous sommes heureux et nous avons beaucoup d’espoir pour le futur de l’Afghanistan. »",
+          "published": "2026-08-15T16:39:00+00:00"
+        },
+        {
+          "title": "Péninsule d’Avalon | Cap sur Terre-Neuve",
+          "link": "https://www.lapresse.ca/voyage/quebec-et-canada/2026-08-15/peninsule-d-avalon/cap-sur-terre-neuve.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Du charme coloré de St. John’s au calme feutré du refuge The Cape Retreat, voici un itinéraire rêvé sur la péninsule d’Avalon de Terre-Neuve, entre falaises, océan et art de vivre.",
+          "published": "2026-08-15T15:30:00+00:00"
+        },
+        {
+          "title": "Les jeunes libéraux tiennent un congrès à quelques jours du début des élections",
+          "link": "https://www.ledevoir.com/politique/quebec/1002017/jeunes-liberaux-tiennent-congres-quelques-jours-debut-elections",
+          "source": "Le Devoir",
+          "summary": "Ils sont près de 400 jeunes et quelque 80 candidats réunis à Saint-Lambert pour la fin de semaine.",
+          "published": "2026-08-15T15:18:00+00:00"
+        },
+        {
+          "title": "Coupable du meurtre de sa fille  | Luciano Frattolin aurait souhaité témoigner lors de son procès",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-15/coupable-du-meurtre-de-sa-fille/luciano-frattolin-aurait-souhaite-temoigner-lors-de-son-proces.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Luciano Frattolin, condamné pour meurtre, a déclaré au juge lors de son procès qu’il souhaitait témoigner pour sa défense, mais que ses avocats lui avaient conseillé de ne pas le faire.",
           "published": "2026-08-15T15:14:38+00:00"
         },
         {
+          "title": "Congrès de l’aile jeunesse du PLQ | Charles Milliard courtise la jeunesse",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-15/congres-de-l-aile-jeunesse-du-plq/charles-milliard-courtise-la-jeunesse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Lancer les travaux en vue d’états généraux en éducation dans les 100 jours d’un gouvernement libéral et prendre les rênes d’un ministère de la Jeunesse : le chef libéral Charles Milliard y est allé d’un effeuillage…",
+          "published": "2026-08-15T15:03:49+00:00"
+        },
+        {
+          "title": "Trucs et conseils | Déshydrater ses récoltes",
+          "link": "https://www.lapresse.ca/gourmand/alimentation/2026-08-15/trucs-et-conseils/deshydrater-ses-recoltes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Quand le potager déborde, l’envie et l’occasion de faire des réserves se manifestent. Et si on déshydratait ses aliments pour faire changement ? Le processus est une solution de rechange à la congélation et au cannage,…",
+          "published": "2026-08-15T15:00:00+00:00"
+        },
+        {
           "title": "Nouveaux droits de douane | Un moyen de pression utilisé par Trump, selon un sénateur républicain",
           "link": "https://www.lapresse.ca/affaires/economie/2026-08-15/nouveaux-droits-de-douane/un-moyen-de-pression-utilise-par-trump-selon-un-senateur-republicain.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le sénateur de l’Iowa, Chuck Grassley, estime que la menace du président américain Donald Trump d’imposer de nouveaux droits de douane sur toute une série de produits canadiens devrait servir de signal d’alarme pour le…",
+          "summary": "Le sénateur de l’Iowa, Chuck Grassley, estime que la menace du président américain Donald Trump d’imposer de nouveaux droits de douane sur toute une série de produits canadiens devrait « servir de signal d’alarme pour…",
           "published": "2026-08-15T14:44:50+00:00"
-        },
-        {
-          "title": "L’Iran réaffirme que le détroit d’Ormuz restera iranien, réagissant aux propos de Trump",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1002014/iran-reaffirme-detroit-ormuz-restera-iranien-reagissant-propos-trump",
-          "source": "Le Devoir",
-          "summary": "De son côté, le président américain répète que les États-Unis ont le «contrôle» du détroit.",
-          "published": "2026-08-15T14:19:00+00:00"
-        },
-        {
-          "title": "Frattolin, reconnu coupable de meurtre de sa fille,  aurait voulu témoigner à son procès",
-          "link": "https://www.ledevoir.com/actualites/justice/1002011/frattolin-reconnu-coupable-meurtre-fille-aurait-voulu-temoigner-proces",
-          "source": "Le Devoir",
-          "summary": "Ses avocats lui ont recommandé de ne pas le faire.",
-          "published": "2026-08-15T13:16:00+00:00"
-        },
-        {
-          "title": "Pont Pierre-Laporte | Une collision provoque une vaste opération policière",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-15/pont-pierre-laporte/une-collision-provoque-une-vaste-operation-policiere.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une collision frontale à la sortie du pont Pierre-Laporte, à Lévis, a été à l’origine d’un important déploiement policier, dans la nuit de vendredi à samedi.",
-          "published": "2026-08-15T12:32:49+00:00"
-        },
-        {
-          "title": "Un séisme de magnitude 7,7 fait au moins 40 morts en Indonésie",
-          "link": "https://www.ledevoir.com/monde/asie/1002008/seisme-magnitude-7-7-fait-moins-38-morts-indonesie",
-          "source": "Le Devoir",
-          "summary": "Les autorités ont indiqué que plus d’une dizaine d’habitants avaient été blessés.",
-          "published": "2026-08-15T12:09:00+00:00"
-        },
-        {
-          "title": "Produits laitiers | La fin du cheddar doux de Maison Riviera",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-15/produits-laitiers/la-fin-du-cheddar-doux-de-maison-riviera.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Après son passage aux mains de la coopérative française Alsace Lait, que reste-t-il de la Laiterie Chalifoux, connue pour sa marque Maison Riviera ? L’an dernier, l’entreprise a cessé de produire son lait et son célèbre…",
-          "published": "2026-08-15T12:00:00+00:00"
-        },
-        {
-          "title": "Gatineau | La ville qui repense la lutte contre l’itinérance",
-          "link": "https://www.lapresse.ca/actualites/2026-08-15/gatineau/la-ville-qui-repense-la-lutte-contre-l-itinerance.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "À l’approche de la campagne électorale, La Presse visite des régions confrontées à des enjeux qui ont marqué les années au pouvoir de la CAQ et qui ne pourront être ignorés par le gouvernement qui sera élu le 5 octobre.…",
-          "published": "2026-08-15T09:00:00+00:00"
-        },
-        {
-          "title": "Immigration | L’ICE veut utiliser des gants à impulsion électrique",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-15/immigration/l-ice-veut-utiliser-des-gants-a-impulsion-electrique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les agents de l’immigration aux États-Unis devraient bientôt être équipés d’un nouvel outil : des gants permettant d’envoyer des décharges électriques. L’annonce a soulevé des inquiétudes, l’ICE étant redoutée pour ses…",
-          "published": "2026-08-15T09:00:00+00:00"
-        },
-        {
-          "title": "Terrain acheté pour une fraction du prix | Une municipalité dit s’être fait rouler dans la farine",
-          "link": "https://www.lapresse.ca/actualites/regional/2026-08-15/terrain-achete-pour-une-fraction-du-prix/une-municipalite-dit-s-etre-fait-rouler-dans-la-farine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un entrepreneur en camionnage de l’Outaouais a fait un coup fumant à l’automne 2025. Il a acheté d’une municipalité un terrain convoité au prix de 82 000 $, puis l’a revendu quatre fois plus cher seulement un mois plus…",
-          "published": "2026-08-15T09:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Le contrôle judiciaire de Patrick Bruel allégé, révèle «Mediapart»",
-          "link": "https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/",
-          "source": "Liberation",
-          "summary": "Interrogé par des lecteurs racontant avoir croisé le chanteur à l’étranger, le site d’investigation a découvert que le juge d’instruction avait levé l’interdiction de quitter le pays, mise en place il y a deux mois dans…",
-          "published": "2026-08-15T15:09:10+00:00"
-        },
-        {
-          "title": "État, fiscalité et finances publiques, navigation à vue : ces décisions qui ont coulé la France depuis 50 ans",
-          "link": "https://www.lefigaro.fr/conjoncture/etat-fiscalite-et-finances-publiques-navigation-a-vue-ces-decisions-qui-ont-coule-la-france-depuis-50-ans-20260815",
+          "title": "EN DIRECT - Championnats d’Europe de natation : Mary-Ambre Moluh médaillée d’or sur le 100m dos, Pauline Mahieu s’offre le bronze",
+          "link": "https://www.lefigaro.fr/sports/autres-sports/en-direct-championnats-d-europe-de-natation-leon-marchand-reve-d-une-premiere-couronne-europeenne-sur-200m-papillon-20260815",
           "source": "Le Figaro",
-          "summary": "De Valéry Giscard d’Estaing à Emmanuel Macron, l’institut Thomas More dresse l’inventaire des mesures qui ont contribué à ruiner les finances de l’État et à vider les poches des contribuables. Pour quels résultats ?",
-          "published": "2026-08-15T14:59:44+00:00"
+          "summary": "Engagé sur le 200m papillon, le quadruple champion olympique a remporté une première médaille d’or continentale, ce samedi au Centre aquatique olympique de Saint-Denis.",
+          "published": "2026-08-15T18:23:02+00:00"
         },
         {
-          "title": "EN DIRECT - La vigilance orange canicule levée dans 36 départements à partir de dimanche matin, des villages évacués en Belgique face aux flammes",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-reprise-de-feu-dans-la-nuit-1-580-hectares-brules-20260815_IQO2KVYGEZH5BAL5Z4XJURSBQY/",
+          "title": "Euro de natation : Mary-Ambre Moluh sacrée sur le 100 m dos après Léon Marchand, soirée dorée pour les Français",
+          "link": "https://www.liberation.fr/sports/euro-de-natation-leon-marchand-sacre-sur-le-200-m-papillon-20260815_DVCA6CIT6ZD5RN7A2PXA6N7IK4/",
           "source": "Liberation",
-          "summary": "Dans les Landes, le feu a repris samedi à l’aube à proximité de Garein. Une centaine de nouvelles évacuations a eu lieu, mais aucune habitation n’est touchée.",
-          "published": "2026-08-15T14:57:44+00:00"
+          "summary": "Dans la piscine chauffée à blanc de Saint-Denis, le quadruple champion olympique s’est emparé de son premier titre européen, ce samedi 15 août. La jeune pépite Mary-Ambre Moluh l’a imité dans sur le 100 m dos, où…",
+          "published": "2026-08-15T18:21:04+00:00"
         },
         {
-          "title": "Canicule : 28 départements maintenus en vigilance orange dimanche à partir de 6 heures",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]",
+          "title": "Sébastien Lecornu promet de nouvelles mesures pour l'agriculture dans le budget 2027",
+          "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/sebastien-lecornu-promet-de-nouvelles-mesures-pour-l-agriculture-dans-le-budget-2027_8149130.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Trente-six autres départements seront rétrogradés en vigilance jaune ou verte, a fait savoir Météo-France samedi après-midi.",
-          "published": "2026-08-15T14:45:39+00:00"
+          "summary": "Le Premier ministre prévoit des mesures pour \"soutenir les investissements hydrauliques, continuer d'adapter l'agriculture au changement climatique\" ou encore \"préserver la compétitivité de nos filières\".",
+          "published": "2026-08-15T18:20:24+00:00"
+        },
+        {
+          "title": "Championnats d’Europe de natation : «Le record du monde n’était pas possible ici», confie Léon Marchand après son premier titre européen",
+          "link": "https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-un-moment-dont-je-vais-me-souvenir-confie-leon-marchand-apres-son-premier-titre-europeen-20260815",
+          "source": "Le Figaro",
+          "summary": "Vainqueur impérial du 200m papillon ce samedi à Saint-Denis en 1’51’’72, le quadruple champion olympique ne cachait pas sa satisfaction après la course.",
+          "published": "2026-08-15T18:13:48+00:00"
+        },
+        {
+          "title": "Championnats d’Europe de natation : «Plus dense que je pensais»… La déception de Maxime Grousset sur le 50m nage libre",
+          "link": "https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-grousset-et-baez-s-arretent-en-demi-finales-du-50m-nage-libre-20260815",
+          "source": "Le Figaro",
+          "summary": "Avec le 9e temps des demi-finales du 50m nage libre, le Calédonien de 27 ans a été éliminé avant la finale programmée dimanche. Ce qui lui permettra de se concentrer sur le relais 4x100m 4 nages.",
+          "published": "2026-08-15T18:13:46+00:00"
+        },
+        {
+          "title": "Piratage des données du fisc : ces menaces qui pèsent désormais sur les particuliers et les entreprises",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/piratage-des-donnees-du-fisc-ces-menaces-qui-pesent-desormais-sur-les-particuliers-et-les-entreprises-20260815",
+          "source": "Le Figaro",
+          "summary": "678.000 personnes ont vu des données sensibles piratées puis mises en vente sur internet. L’administration fiscale appelle les personnes touchées à la prudence. Quelles sont les bonnes pratiques pour se protéger ?",
+          "published": "2026-08-15T18:02:47+00:00"
         },
         {
           "title": "Piratage de l’administration fiscale : le parquet de Paris ouvre une enquête",
           "link": "https://www.lefigaro.fr/secteur/high-tech/piratage-de-l-administration-fiscale-le-parquet-de-paris-ouvre-une-enquete-20260815",
           "source": "Le Figaro",
           "summary": "Près de 700.000 comptes ont vu leurs données volées. Les investigations sont confiées à l’Office anticybercriminalité (Ofac).",
-          "published": "2026-08-15T14:37:01+00:00"
+          "published": "2026-08-15T18:02:42+00:00"
         },
         {
-          "title": "Un poche pour la plage : «l’Homme qui aimait les îles», «le Trou», «les Eveillées»…",
-          "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/un-poche-pour-la-plage-lhomme-qui-aimait-les-iles-le-trou-les-eveillees-20260815_JLGCPAZ4Q5HXHGN432I4AHPLJA/",
-          "source": "Liberation",
-          "summary": "Chaque semaine de l’été, «Libé» vous conseille sept livres à glisser dans votre sac de voyage. Cette semaine, les aventures d’un insulaire, un mystérieux trou au Japon et un recueil de contes.",
-          "published": "2026-08-15T14:35:00+00:00"
+          "title": "A 19 ans, l'Allemand Johannes Liebmann pulvérise de plus de trois secondes le record du monde du 1 500 mètres lors des championnats d'Europe de natation",
+          "link": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/a-19-ans-l-allemand-johannes-liebmann-pulverise-de-plus-de-trois-secondes-le-record-du-monde-du-1-500-metres-lors-des-championnats-d-europe-de-natation_8149124.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le nageur de Magdeburg a créé la sensation, samedi, en s'imposant en 14'26''79 après avoir survolé la course de bout en bout.",
+          "published": "2026-08-15T17:55:52+00:00"
         },
         {
-          "title": "Sud du Liban : neuf morts, dont des enfants, dans des frappes israéliennes",
-          "link": "https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/",
-          "source": "Liberation",
-          "summary": "C’est le bilan le plus meurtrier depuis des accords conclus en juin, qui avaient vu une baisse des hostilités entre Israël et le Hezbollah. Le mouvement pro-iranien a promis une «riposte».",
-          "published": "2026-08-15T14:32:37+00:00"
+          "title": "Séisme en Colombie : sauvée après 37 heures sous les décombres, Daniela Largo est décédée",
+          "link": "https://www.lefigaro.fr/international/seisme-en-colombie-sauvee-apres-37-heures-sous-les-decombres-daniela-largo-est-decedee-20260815",
+          "source": "Le Figaro",
+          "summary": "Cette femme de 32 ans était devenue un symbole d’espoir après son évacuation mardi à Pereira. Le séisme de magnitude 7,4 a fait au moins 294 morts et près de 4.000 blessés, tandis que 320 personnes sont toujours portées…",
+          "published": "2026-08-15T17:54:01+00:00"
         },
         {
-          "title": "EN DIRECT, incendies et canicule : 64 départements restent en vigilance orange canicule jusqu’à dimanche matin ; 1 650 hectares ravagés par les flammes en Belgique",
-          "link": "https://www.lemonde.fr/climat/live/2026/08/15/en-direct-incendies-et-canicule-64-departements-resteront-en-vigilance-orange-canicule-dimanche-un-incendie-a-brule-1-650-hectares-de-foret-en-belgique_6744636_1652612.html",
-          "source": "Le Monde",
-          "summary": "Dans son bulletin de 16 heures, Météo-France relève qu’une dégradation orageuse se met en place et que de l’air océanique moins chaud progresse par l’ouest.",
-          "published": "2026-08-15T14:29:28+00:00"
-        },
-        {
-          "title": "Piratage du fisc : le parquet de Paris ouvre une enquête",
-          "link": "https://www.lemonde.fr/pixels/article/2026/08/15/piratage-du-fisc-le-parquet-de-paris-ouvre-une-enquete_6746676_4408996.html",
-          "source": "Le Monde",
-          "summary": "Cette cyberattaque contre le système d’information du fisc a permis d’extraire des données de contribuables et d’entreprises lors d’une opération « plus sophistiquée » que « par le passé », a déploré l’administration…",
-          "published": "2026-08-15T14:24:31+00:00"
-        },
-        {
-          "title": "«Je suis à 100% de pertes» : en Bretagne, les maraîchers frappés de plein fouet par la sécheresse",
-          "link": "https://www.liberation.fr/environnement/agriculture/je-suis-a-100-de-pertes-en-bretagne-les-maraichers-frappes-de-plein-fouet-par-la-secheresse-20260815_SYVPBD4WVJFGZAB7FRRI4DCBB4/",
-          "source": "Liberation",
-          "summary": "Dans une région d’ordinaire abondamment arrosée, les producteurs de fruits et légumes peinent à trouver de l’eau depuis plusieurs mois. Et doivent bricoler pour sauver ce qui peut encore l’être.",
-          "published": "2026-08-15T14:18:00+00:00"
+          "title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta",
+          "link": "https://www.lefigaro.fr/international/ceuta-de-nouveaux-appels-sur-les-reseaux-le-maroc-dit-avoir-pris-des-mesures-20260815",
+          "source": "Le Figaro",
+          "summary": "Les forces de sécurité marocaines ont interpellé samedi près de 300 candidats à l’émigration irrégulière près de Ceuta, alors que des appels à franchir la frontière le 15 août circulaient sur les réseaux sociaux.",
+          "published": "2026-08-15T17:47:49+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
+          "title": "L’autonomie de la nouvelle R5 électrique, la faillite des vélos Lapierre et les panneaux solaires chinois bannis aux USA – Le récap’ Survoltés",
+          "link": "https://www.frandroid.com/survoltes/3212939_lautonomie-de-la-nouvelle-r5-electrique-la-faillite-des-velos-lapierre-et-les-panneaux-solaires-chinois-bannis-aux-usa-le-recap-survoltes",
+          "source": "Frandroid",
+          "summary": "Cette semaine, l'actualité 100 % électrique était dense, entre les onduleurs solaires chinois interdits aux États-Unis, la faillite d'Accell Group (Lapierre et Babboe notamment), ou encore la nouvelle autonomie de la…",
+          "published": "2026-08-15T18:01:00+00:00"
+        },
+        {
+          "title": "Solide et puissante, la JBL Charge 5 reste une enceinte Bluetooth que l’on recommande, surtout quand elle est à moitié prix",
+          "link": "https://www.frandroid.com/bons-plans/3210433_solide-et-puissante-la-jbl-charge-5-reste-une-enceinte-bluetooth-que-lon-recommande-surtout-quand-elle-est-a-moitie-prix",
+          "source": "Frandroid",
+          "summary": "La JBL Charge 5 est certes un ancien modèle, remplacé par la Charge 6, mais cette enceinte Bluetooth performante et bien résistante est encore pertinente. Ce modèle noté 9/10 est en plus disponible à 99,99 euros au lieu…",
+          "published": "2026-08-15T17:23:00+00:00"
+        },
+        {
+          "title": "Quel est le meilleur smartphone à choisir pour un ado pour la rentrée 2026 ?",
+          "link": "https://www.frandroid.com/guide-dachat/smartphones/619811_quels-smartphone-et-forfait-choisir-pour-la-rentree-au-college",
+          "source": "Frandroid",
+          "summary": "Tous les ados veulent leur propre smartphone, c'est normal. Mais lequel choisir, notamment lorsqu'il s'agit du premier ? Nous avons sélectionné pour vous les meilleurs téléphones pour ado, simples, durables et surtout…",
+          "published": "2026-08-15T17:00:09+00:00"
+        },
+        {
+          "title": "500 Go gratuits et sécurisés pour vos photos : pCloud lance une offre à ne pas manquer",
+          "link": "https://www.clubic.com/bons-plans-625039-go-de-stockage-securise-offerts-par-pcloud-l-occasion-de-sauvegarder-vos-photos-sans-payer.html",
+          "source": "Clubic",
+          "summary": "Vos photos et vidéos occupent toute la mémoire de votre smartphone ? pCloud propose actuellement une offre particulièrement intéressante avec 500 Go de stockage sécurisé offerts, de quoi mettre vos souvenirs à l'abri…",
+          "published": "2026-08-15T17:00:00+00:00"
+        },
+        {
+          "title": "CyberGhost ou ExpressVPN : lequel des deux VPN premium mérite votre argent en 2026 ?",
+          "link": "https://www.clubic.com/bons-plans-625141-cyberghost-ou-expressvpn-lequel-des-deux-vpn-premium-merite-votre-argent-en-2026.html",
+          "source": "Clubic",
+          "summary": "Entre un VPN au tarif cassé et un service premium presque deux fois plus cher, difficile de savoir où placer son argent. CyberGhost et ExpressVPN incarnent justement ce dilemme, avec deux philosophies et deux budgets…",
+          "published": "2026-08-15T16:45:00+00:00"
+        },
+        {
+          "title": "Crise de la RAM : entretenir son Mac coûte moins cher que le remplacer et pour cela, Intego tombe à 2,03€/mois...",
+          "link": "https://www.clubic.com/bons-plans-625384-crise-de-la-ram-entretenir-son-mac-coute-moins-cher-que-le-remplacer-et-pour-cela-intego-tombe-a-2-03-mois.html",
+          "source": "Clubic",
+          "summary": "La pénurie mondiale de mémoire vive redessine les prix de l’informatique, et Apple a confirmé en juin que ses tarifs allaient suivre le mouvement. Dans ce contexte, entretenir le Mac que vous possédez déjà devient un…",
+          "published": "2026-08-15T16:29:00+00:00"
+        },
+        {
+          "title": "Ce RPG gratuit encore en pré-alpha m’a redonné envie de me perdre dans un monde ouvert",
+          "link": "https://www.numerama.com/pop-culture/2311465-ce-mmorpg-gratuit-encore-en-pre-alpha-ma-redonne-envie-de-me-perdre-dans-un-monde-ouvert.html",
+          "source": "Numerama",
+          "summary": "Je cherchais simplement un jeu capable de combler le vide laissé par Destiny 2. Je suis finalement tombé sur un monde ouvert que je n’avais plus envie de quitter. Son nom ? Soulframe.",
+          "published": "2026-08-15T16:01:00+00:00"
+        },
+        {
+          "title": "On a pris en photo et vidéo l’éclipse solaire avec des télescopes connectés, voici le résultat",
+          "link": "https://www.frandroid.com/culture-tech/espace/3211299_on-a-pris-en-photo-et-video-leclipse-solaire-avec-des-telescopes-connectes-voici-le-resultat",
+          "source": "Frandroid",
+          "summary": "Mercredi 12 août 2026 à partir de 19h17, c'était le début de l'éclipse solaire en France. Évidemment, des lunettes suffisaient pour apprécier le spectacle, mais nous avons également sorti les télescopes connectés pour…",
+          "published": "2026-08-15T16:00:00+00:00"
+        },
+        {
+          "title": "Piratage du fisc : le parquet de Paris ouvre une enquête après une cyberattaque majeure",
+          "link": "https://www.clubic.com/actualite-625465-piratage-du-fisc-le-parquet-de-paris-ouvre-une-enquete-apres-une-cyberattaque-majeure.html",
+          "source": "Clubic",
+          "summary": "La section cyber du parquet de Paris a ouvert une enquête après la cyberattaque ayant touché près de 700 000 usagers de l’administration fiscale. L’intrusion, révélée par le ministère de l’Économie, a permis d’extraire…",
+          "published": "2026-08-15T15:56:00+00:00"
+        },
+        {
+          "title": "Voici les jours à privilégier pour partir en vacances cet été avec le pass Ulys",
+          "link": "https://www.clubic.com/bons-plans-624697-voici-les-jours-a-privilegier-pour-partir-en-vacances-cet-ete-avec-le-pass-ulys.html",
+          "source": "Clubic",
+          "summary": "Vous n’êtes pas le seul à prendre la route, et l’été 2026 ne fait pas exception. Certains jours sont toutefois plus chargés que d’autres sur les autoroutes. Pour voyager plus sereinement, le Pass Ulys Télépéage vous…",
+          "published": "2026-08-15T15:30:00+00:00"
+        },
+        {
+          "title": "Cette batterie externe Anker 10 000 mAh et triple ports USB devient un accessoire indispensable de l’été avec cette promo sur Amazon",
+          "link": "https://www.frandroid.com/bons-plans/3208687_cette-batterie-externe-anker-10-000-mah-et-triple-ports-usb-devient-un-accessoire-indispensable-de-lete-avec-cette-promo-sur-amazon",
+          "source": "Frandroid",
+          "summary": "Compacte et puissante avec ses 10 000 mAh et sa charge rapide 30 W, l'Anker Zolo est la parfaite alliée pour cet été : glissez-la dans votre sac pour profiter de vos journées sans jamais risquer d'être à court de…",
+          "published": "2026-08-15T15:25:00+00:00"
+        },
+        {
           "title": "Piratage du fisc : 678 000 usagers touchés, enquête de l’Office anticybercriminalité",
           "link": "https://next.ink/251856/piratage-du-fisc-678-000-usagers-touches-enquete-de-loffice-anticybercriminalite/",
           "source": "Next",
           "summary": "Le piratage de la plateforme du fisc, confirmé par la DGFiP cette semaine, aboutit à l&#8217;ouverture d&#8217;une enquête de l&#8217;Office anticybercriminalité. Bercy a donné des détails supplémentaires sur cette…",
           "published": "2026-08-15T15:12:04+00:00"
-        },
-        {
-          "title": "Ce logiciel gratuit met tous vos systèmes d'exploitation sur une seule clé USB",
-          "link": "https://www.clubic.com/actualite-625459-ce-logiciel-gratuit-met-tous-vos-systemes-d-exploitation-sur-une-seule-cle-usb.html",
-          "source": "Clubic",
-          "summary": "Reformater sa clé USB à chaque nouvelle image système est un rituel dont personne n'a jamais réclamé le retour. Ventoy le supprime purement et simplement, et gratuitement.",
-          "published": "2026-08-15T15:09:00+00:00"
-        },
-        {
-          "title": "Compatible MagSafe et Qi2 : la batterie externe UGREEN Zapix chute à 26,59€ chez Amazon",
-          "link": "https://www.clubic.com/bons-plans-625336-compatible-magsafe-et-qi2-la-batterie-externe-ugreen-zapix-chute-a-26-59-chez-amazon.html",
-          "source": "Clubic",
-          "summary": "Après des vacances où votre iPhone a fini la journée à plat plus souvent qu'à son tour, l'idée d'une batterie de secours devient soudain moins accessoire. La UGREEN Zapix, compatible MagSafe et Qi2, passe sous les 27…",
-          "published": "2026-08-15T14:44:00+00:00"
-        },
-        {
-          "title": "James Webb détecte de l'eau et de la poussière autour d'une étoile mourante, à seulement 0,55 année-lumière du trou noir de la Voie lactée",
-          "link": "https://www.clubic.com/actualite-625456-james-webb-decouvre-de-l-eau-a-proximite-du-trou-noir-central-de-la-voie-lactee.html",
-          "source": "Clubic",
-          "summary": "James Webb a détecté de l’eau et de la poussière de silicate autour d’IRS 3, une étoile en fin de vie, à 0,55 année-lumière de Sagittarius A*, le trou noir supermassif de la Voie lactée. L’observation contredit…",
-          "published": "2026-08-15T14:20:00+00:00"
-        },
-        {
-          "title": "Les États-Unis abandonnent les catapultes du futur, la France assure que son porte-avions n'est pas menacé",
-          "link": "https://www.clubic.com/actualite-625453-les-etats-unis-abandonnent-les-catapultes-du-futur-la-france-assure-que-son-porte-avions-n-est-pas-menace.html",
-          "source": "Clubic",
-          "summary": "Le POTUS Donald Trump a ordonné, jeudi, l’abandon des catapultes électromagnétiques sur un futur porte-avions de l’US Navy, au profit d’un retour à la vapeur. Le ministère français des Armées a assuré, samedi, que cette…",
-          "published": "2026-08-15T14:02:00+00:00"
-        },
-        {
-          "title": "En 1989, deux chercheurs ont cru révolutionner l’énergie mondiale en bâclant une expérience",
-          "link": "https://www.numerama.com/sciences/2311889-en-1989-deux-chercheurs-ont-cru-revolutionner-lenergie-mondiale-en-baclant-une-experience.html",
-          "source": "Numerama",
-          "summary": "La fusion est la réaction qui a lieu à l’intérieur du Soleil et qui fournit une quantité d’énergie immense. Pour amorcer cette réaction, il faut atteindre des températures extrêmement élevées&nbsp;: 100&nbsp;millions de…",
-          "published": "2026-08-15T14:01:00+00:00"
-        },
-        {
-          "title": "J’ai testé les JBL Live Beam 4 : le grave gronde, l’aigu s’ouvre",
-          "link": "https://www.frandroid.com/marques/jbl/3194331_jai-teste-les-jbl-live-beam-4-le-grave-gronde-laigu-souvre",
-          "source": "Frandroid",
-          "summary": "Trois ans après avoir inventé l'étui d'écouteurs à écran tactile, JBL n'a toujours aucun concurrent sur ce terrain. Les Live Beam 4 poussent l'idée plus loin avec un écran OLED agrandi et un son plus ouvert que la…",
-          "published": "2026-08-15T14:00:00+00:00"
-        },
-        {
-          "title": "Attention, des fichiers identifiés comme malwares présents dans les pilotes des Mini-PC de Geekom",
-          "link": "https://www.clubic.com/actualite-625450-attention-des-fichiers-identifies-comme-malwares-presents-dans-les-pilotes-des-mini-pc-de-geekom.html",
-          "source": "Clubic",
-          "summary": "Un fichier présent dans l’archive officielle de pilotes de la marque Geekom est détecté comme « malveillant » par plusieurs services de sécurité. Plus gênant encore, à l'heure où nous écrivons ces lignes, les archives…",
-          "published": "2026-08-15T13:31:00+00:00"
-        },
-        {
-          "title": "Pour moins de 200 €, quelle est la meilleure affaire entre le nouveau Xiaomi Redmi 17 et le Samsung Galaxy A17 ?",
-          "link": "https://www.frandroid.com/bons-plans/3208943_pour-moins-de-200-e-quelle-est-la-meilleure-affaire-entre-le-nouveau-xiaomi-redmi-17-et-le-samsung-galaxy-a17",
-          "source": "Frandroid",
-          "summary": "On trouve aujourd'hui de très bons smartphones à moins de 200 euros, et c'est exactement le cas du nouveau Redmi 17 de Xiaomi et du Samsung Galaxy A17 4G. Deux modèles particulièrement solides pour vous accompagner au…",
-          "published": "2026-08-15T13:11:00+00:00"
-        },
-        {
-          "title": "9 ans plus tard, Tesla s’apprêterait à dévoiler un roadster volant révolutionnaire",
-          "link": "https://www.clubic.com/actualite-625441-ans-plus-tard-tesla-s-appreterait-a-devoiler-un-roadster-volant-revolutionnaire.html",
-          "source": "Clubic",
-          "summary": "9 ans après sa première présentation, le Roadster de Tesla n’a toujours pas montré le bout de son nez. Mais le constructeur s’apprêterait enfin à dévoiler sa supercar, avec une surprise dans son sac.",
-          "published": "2026-08-15T13:01:00+00:00"
-        },
-        {
-          "title": "Une « étoile trou noir ». Quel est ce mystérieux objet découvert par le télescope James Webb ?",
-          "link": "https://www.numerama.com/sciences/2311583-une-etoile-trou-noir-quel-est-ce-mysterieux-objet-decouvert-par-le-telescope-james-webb.html",
-          "source": "Numerama",
-          "summary": "Un astre jusqu'ici purement théorique vient d'être observé concrètement pour la première fois. Connu sous le nom de quasi-étoile, il s'agirait d'un élément clé pour comprendre certains phénomènes mystérieux qui se sont…",
-          "published": "2026-08-15T12:31:00+00:00"
-        },
-        {
-          "title": "Recharger sa voiture au solaire : gadget sur la carrosserie, vraie révolution à la maison",
-          "link": "https://www.frandroid.com/survoltes/voitures-electriques/3144735_recharger-sa-voiture-au-solaire-gadget-sur-la-carrosserie-vraie-revolution-a-la-maison",
-          "source": "Frandroid",
-          "summary": "L'idée de recharger sa voiture électrique à l'énergie solaire a quelque chose d'évident, presque de logique même par les temps qui courent : décarboner le véhicule et son carburant en même temps. Mais selon qu'on parle…",
-          "published": "2026-08-15T12:01:00+00:00"
         }
       ]
     }
