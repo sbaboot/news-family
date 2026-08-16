@@ -1,14 +1,21 @@
 {
-  "generated_at": "2026-08-16T01:12:28.850376+00:00",
+  "generated_at": "2026-08-16T03:46:28.400124+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : le maire de Kiev annonce une attaque de missiles alors que retentissent des explosions dans la capitale",
+          "title": "Le nouveau président colombien demande à son allié Donald Trump de suspendre les droits de douane après le séisme",
+          "link": "https://www.lemonde.fr/international/article/2026/08/16/le-nouveau-president-colombien-demande-a-son-allie-donald-trump-de-suspendre-les-droits-de-douane-apres-le-seisme_6747018_3210.html",
+          "source": "Le Monde",
+          "summary": "Abelardo de la Espriella a déclaré s’être entretenu avec son homologue américain, alors que les opérations de secours se poursuivent. A l’exception de certains produits, les droits de douane des Etats-Unis sur les…",
+          "published": "2026-08-16T02:42:59+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : un blessé à Kiev après l’annonce d’une attaque de missiles par le maire de la capitale",
           "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-le-maire-de-kiev-annonce-une-attaque-de-missiles-alors-que-retentissent-des-explosions-dans-la-capitale_6746952_3210.html",
           "source": "Le Monde",
-          "summary": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, peu avant 3 heures locales (2 heures à Paris). L’administration militaire de la capitale a fait état d’un incendie dans un bâtiment non…",
+          "summary": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, durant la nuit. Par ailleurs, à Kryvy Rih, dans le centre de l’Ukraine, une personne a été tuée et six autres blessées.",
           "published": "2026-08-16T00:47:40+00:00"
         },
         {
@@ -66,13 +73,6 @@
           "source": "Le Monde",
           "summary": "Le président libanais, Joseph Aoun, a lui estimé que les frappes constituaient un « message clair » pour l’avenir des négociations entre Israël et le Liban, avant un nouveau cycle de pourparlers prévu en septembre. Le…",
           "published": "2026-08-15T16:06:57+00:00"
-        },
-        {
-          "title": "Les images de la libération de prisonniers politiques au Venezuela",
-          "link": "https://www.lemonde.fr/international/video/2026/08/15/les-images-de-la-liberation-de-prisonniers-politiques-au-venezuela_6746711_3210.html",
-          "source": "Le Monde",
-          "summary": "Le gouvernement intérimaire vénézuelien, a libéré 131 prisonniers politiques, suite à des négociations avec l’opposition, supervisées par Washington.",
-          "published": "2026-08-15T15:57:36+00:00"
         }
       ]
     },
@@ -84,80 +84,101 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Kyiv | Des explosions entendues après une alerte aux missiles balistiques",
-          "link": "https://www.lapresse.ca/international/europe/2026-08-15/kyiv/des-explosions-entendues-apres-une-alerte-aux-missiles-balistiques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Hawaii | L’ouragan Lala provoque de fortes pluies et des coupures de courant",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-15/hawaii/l-ouragan-lala-provoque-de-fortes-pluies-et-des-coupures-de-courant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Des explosions ont retenti à Kyiv dans la nuit de samedi à dimanche après le déclenchement d’une alerte aux missiles balistiques dans la capitale ukrainienne, a constaté une journaliste de l’AFP.",
+          "summary": "L’ouragan Lala frappe la grande île d’Hawaii avec de fortes pluies et des vents violents samedi, les prévisionnistes mettant en garde contre des inondations potentiellement dangereuses dans l’ensemble de cet État…",
+          "published": "2026-08-16T03:01:23+00:00"
+        },
+        {
+          "title": "La Colombie demande l’aide de Trump pour se «reconstruire» après le séisme",
+          "link": "https://www.ledevoir.com/monde/ameriques/1002059/colombie-demande-aide-trump-reconstruire-apres-seisme",
+          "source": "Le Devoir",
+          "summary": "Jusqu’à présent, le président colombien n’a accepté que les équipes de secours envoyées par les gouvernements de droite.",
+          "published": "2026-08-16T02:36:00+00:00"
+        },
+        {
+          "title": "Festival LASSO | Cinq ans, déjà ?",
+          "link": "https://www.lapresse.ca/arts/musique/2026-08-15/festival-lasso/cinq-ans-deja.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Clignez des yeux, vous risquez de le manquer. Bébé des grands festivals d’evenko, le petit LASSO fête déjà son 5e anniversaire – et déjà, il s’impose comme un favori du public. Résumé en images de ce samedi country au…",
+          "published": "2026-08-16T02:26:43+00:00"
+        },
+        {
+          "title": "Malgré les efforts de Prince Owusu, le CF Montréal est limité à un match nul",
+          "link": "https://www.ledevoir.com/sports/1002056/malgre-efforts-prince-owusu-cf-montreal-est-limite-match-nul",
+          "source": "Le Devoir",
+          "summary": "L’attaquant a marqué l’unique filet de la formation montréalaise, tôt en deuxième demie.",
+          "published": "2026-08-16T01:58:46+00:00"
+        },
+        {
+          "title": "CF Montréal 1 – DC United 1 | Performance inspirée, problèmes offensifs répétés",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-08-15/cf-montreal-1-dc-united-1/performance-inspiree-problemes-offensifs-repetes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Philippe Eullaffroy a rassemblé ses joueurs au centre du terrain du stade Saputo, en rond. Il leur a parlé intensément, pendant de longs instants.",
+          "published": "2026-08-16T01:46:43+00:00"
+        },
+        {
+          "title": "Novak Djokovic s’incline à son premier match depuis Wimbledon",
+          "link": "https://www.ledevoir.com/sports/1002053/novak-djokovic-incline-premier-match-depuis-wimbledon",
+          "source": "Le Devoir",
+          "summary": "Le joueur de tennis serbe n’aura fait que passer à l’Omnium de Cincinnati.",
+          "published": "2026-08-16T01:25:00+00:00"
+        },
+        {
+          "title": "Important séisme | La Colombie demande l’aide de Trump pour « reconstruire »",
+          "link": "https://www.lapresse.ca/international/amerique-latine/2026-08-15/important-seisme/la-colombie-demande-l-aide-de-trump-pour-reconstruire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le nouveau président de la Colombie, Abelardo de la Espriella, a demandé samedi à Donald Trump une suspension des droits de douane pour aider la reconstruction, tâche qui s’annonce considérable après le tremblement de…",
+          "published": "2026-08-16T01:19:54+00:00"
+        },
+        {
+          "title": "Le SPVM enquête après la découverte d’une femme inanimée dans un appartement",
+          "link": "https://www.ledevoir.com/actualites/justice/1002050/spvm-enquete-apres-decouverte-femme-inanimee-appartement",
+          "source": "Le Devoir",
+          "summary": "Les patrouilleurs ont trouvé un homme dans un état jugé critique et une femme décédée, samedi après-midi à Montréal.",
+          "published": "2026-08-16T01:09:55+00:00"
+        },
+        {
+          "title": "Les personnes évacuées à cause des feux de forêt en Colombie-Britannique rentrent chez elles",
+          "link": "https://www.ledevoir.com/actualites/environnement/1002047/personnes-evacuees-cause-feux-foret-c-b-rentrent-elles",
+          "source": "Le Devoir",
+          "summary": "Beaucoup ont tout perdu et n’ont nulle part où se loger.",
+          "published": "2026-08-16T00:54:00+00:00"
+        },
+        {
+          "title": "Ukraine | Kyiv de nouveau la cible d’une attaque de missiles",
+          "link": "https://www.lapresse.ca/international/europe/2026-08-15/ukraine/kyiv-de-nouveau-la-cible-d-une-attaque-de-missiles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des explosions ont retenti à Kyiv dans la nuit de samedi à dimanche, sous l’effet d’une nouvelle attaque russe aux missiles balistiques qui selon les autorités a fait au moins un blessé.",
           "published": "2026-08-16T00:28:11+00:00"
-        },
-        {
-          "title": "En Ukraine, des chaînes Telegram traquent les missiles russes",
-          "link": "https://www.ledevoir.com/monde/europe/1002044/ukraine-chaines-telegram-traquent-missiles-russes",
-          "source": "Le Devoir",
-          "summary": "Elles publient entre autres des bulletins quotidiens avec la probabilité de différentes attaques.",
-          "published": "2026-08-16T00:22:50+00:00"
-        },
-        {
-          "title": "L’argent et le bonheur | 40 ans, pas d’argent",
-          "link": "https://www.lapresse.ca/affaires/finances-personnelles/2026-08-15/l-argent-et-le-bonheur/40-ans-pas-d-argent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Durant mes vacances cet été, j’ai vu un slogan écrit sur un véhicule récréatif. Ça disait : « A job fills your pocket. Adventure fills your soul. » (Un emploi remplit vos poches. L’aventure remplit votre âme.)",
-          "published": "2026-08-15T23:45:00+00:00"
-        },
-        {
-          "title": "Le BEI déclenche une enquête indépendante après une vaste opération policière à Lévis",
-          "link": "https://www.ledevoir.com/actualites/justice/1002041/bei-declenche-enquete-independante-apres-vaste-operation-policiere-levis",
-          "source": "Le Devoir",
-          "summary": "Une personne est morte après une collision et des coups de feu sur un pont à Québec, vendredi soir.",
-          "published": "2026-08-15T22:43:14+00:00"
-        },
-        {
-          "title": "Malaise sur la question de la disposition de dérogation au congrès des jeunes libéraux",
-          "link": "https://www.ledevoir.com/politique/quebec/1002038/malaise-question-disposition-derogation-congres-jeunes-liberaux",
-          "source": "Le Devoir",
-          "summary": "Un froid s’installait systématiquement lorsque la question était posée aux jeunes militants.",
-          "published": "2026-08-15T22:05:00+00:00"
-        },
-        {
-          "title": "Les flag footballeuses canadiennes décrochent leur billet pour les Jeux olympiques de 2028",
-          "link": "https://www.ledevoir.com/sports/1002035/flag-footballeuses-canadiennes-decrochent-billet-jeux-olympiques-2028",
-          "source": "Le Devoir",
-          "summary": "L’équipe a vaincu samedi le Mexique en demi-finale du Championnat du monde en Allemagne.",
-          "published": "2026-08-15T21:46:00+00:00"
-        },
-        {
-          "title": "Montréal | Le SPVM enquête sur un possible meurtre dans Saint-Michel",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-15/montreal/le-spvm-enquete-sur-un-possible-meurtre-dans-saint-michel.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une femme a perdu la vie et un homme a été retrouvé grièvement blessé samedi après-midi dans le quartier Saint-Michel. Il pourrait s’agir du 14e homicide à survenir à Montréal cette année.",
-          "published": "2026-08-15T21:41:52+00:00"
-        },
-        {
-          "title": "Une juge approuve un règlement de 31,5 millions dans une affaire visant un diocèse",
-          "link": "https://www.ledevoir.com/actualites/justice/1002032/juge-approuve-reglement-31-5-millions-affaire-visant-diocese",
-          "source": "Le Devoir",
-          "summary": "Celui-ci met fin à un recours collectif lié à des agressions sexuelles alléguées au sein de l’Église catholique.",
-          "published": "2026-08-15T21:15:48+00:00"
-        },
-        {
-          "title": "« Propos haineux antisémites » | Des partisans du CF Montréal sanctionnés",
-          "link": "https://www.lapresse.ca/sports/soccer/2026-08-15/propos-haineux-antisemites/des-partisans-du-cf-montreal-sanctionnes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les privilèges des groupes de supporters du CF Montréal seront suspendus, samedi soir, au Stade Saputo. Une enquête de la MLS a déterminé que des « propos haineux antisémites » ont été tenus par certains partisans, le…",
-          "published": "2026-08-15T19:53:16+00:00"
-        },
-        {
-          "title": "Le naufrage d’un ferry au Zimbabwe fait au minimum 72 morts",
-          "link": "https://www.ledevoir.com/monde/afrique/1002029/naufrage-ferry-zimbabwe-fait-minimum-68-morts",
-          "source": "Le Devoir",
-          "summary": "Selon les autorités, 114 adultes, cinq membres d’équipage et quelques enfants étaient à bord au moment du drame.",
-          "published": "2026-08-15T19:39:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "« Les questions que pose une famille qui veut s’installer, c’est : “Où est l’école et où peut-on se faire soigner ?” » : dans les Vosges, les maires essaient d’attirer les jeunes couples",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/16/les-questions-que-pose-une-famille-qui-veut-s-installer-c-est-ou-est-l-ecole-et-ou-peut-on-se-faire-soigner-dans-les-vosges-les-maires-essaient-d-attirer-les-jeunes-couples_6747052_823448.html",
+          "source": "Le Monde",
+          "summary": "Le département vosgien pourrait perdre un tiers de ses habitants d’ici à 2070. Un électrochoc pour les élus locaux, qui tentent de sauver leurs villages.",
+          "published": "2026-08-16T03:00:08+00:00"
+        },
+        {
+          "title": "Le nouveau président colombien demande à son allié Donald Trump de suspendre les droits de douane après le séisme",
+          "link": "https://www.lemonde.fr/international/article/2026/08/16/le-nouveau-president-colombien-demande-a-son-allie-donald-trump-de-suspendre-les-droits-de-douane-apres-le-seisme_6747018_3210.html",
+          "source": "Le Monde",
+          "summary": "Abelardo de la Espriella a déclaré s’être entretenu avec son homologue américain, alors que les opérations de secours se poursuivent. A l’exception de certains produits, les droits de douane des Etats-Unis sur les…",
+          "published": "2026-08-16T02:42:59+00:00"
+        },
+        {
+          "title": "« Et, au fait, qui sait où est la pompe du paddle ? » : l’été à un accessoire près",
+          "link": "https://www.lemonde.fr/m-perso/article/2026/08/16/et-au-fait-qui-sait-ou-est-la-pompe-du-paddle-l-ete-a-un-accessoire-pres_6746985_4497916.html",
+          "source": "Le Monde",
+          "summary": "« Les douleurs des vacances » (5/7). Tous les ans c’est la même histoire. Une roue de vélo dégonflée sans pompe, une tente sans sardines ou encore des raquettes sans balles. Et pourtant, ces objets restent dans les…",
+          "published": "2026-08-16T02:30:13+00:00"
+        },
         {
           "title": "Des explosions entendues à Kiev après une alerte aux missiles balistiques",
           "link": "https://www.lefigaro.fr/international/des-explosions-entendues-a-kiev-apres-une-alerte-aux-missiles-balistiques-20260816",
@@ -166,10 +187,10 @@
           "published": "2026-08-16T00:58:28+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : le maire de Kiev annonce une attaque de missiles alors que retentissent des explosions dans la capitale",
+          "title": "EN DIRECT, guerre en Ukraine : un blessé à Kiev après l’annonce d’une attaque de missiles par le maire de la capitale",
           "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-le-maire-de-kiev-annonce-une-attaque-de-missiles-alors-que-retentissent-des-explosions-dans-la-capitale_6746952_3210.html",
           "source": "Le Monde",
-          "summary": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, peu avant 3 heures locales (2 heures à Paris). L’administration militaire de la capitale a fait état d’un incendie dans un bâtiment non…",
+          "summary": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, durant la nuit. Par ailleurs, à Kryvy Rih, dans le centre de l’Ukraine, une personne a été tuée et six autres blessées.",
           "published": "2026-08-16T00:47:40+00:00"
         },
         {
@@ -206,27 +227,6 @@
           "source": "France Info",
           "summary": "Le champion du monde en titre de la distance a été devancé par le Suédois Andreas Almgren, auteur d'un véritable numéro, et par le Suisse Dominic Lobalu, samedi, à Birmingham.",
           "published": "2026-08-15T21:04:42+00:00"
-        },
-        {
-          "title": "Championnats d’Europe de natation : les larmes de Manaudou, l’or de Marchand et de Moluh… Une soirée folle en émotions",
-          "link": "https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-les-larmes-de-manaudou-l-or-de-marchand-et-de-moluh-une-soiree-folle-en-emotions-20260815",
-          "source": "Le Figaro",
-          "summary": "RÉCIT – Du jubilé de Florent Manaudou aux sacres du papillonneur et de la dossiste, le public du Centre aquatique olympique de Saint-Denis a vécu une soirée que personne n’oubliera.",
-          "published": "2026-08-15T21:00:03+00:00"
-        },
-        {
-          "title": "Mary-Ambre Moluh et Pauline Mahieu au sommet de l'Europe, la consécration ultime pour l'école française du dos",
-          "link": "https://www.franceinfo.fr/sports/natation/championnats-d-europe-de-natation/mary-ambre-moluh-et-pauline-mahieu-au-sommet-de-l-europe-la-consecration-ultime-pour-l-ecole-francaise-du-dos_8149199.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les deux dossistes tricolores ont remporté, samedi à Saint-Denis, les médailles d'or et de bronze sur 100 m dos aux championnats d'Europe de natation.",
-          "published": "2026-08-15T20:57:46+00:00"
-        },
-        {
-          "title": "« Ici, notre tournevis peut faire gagner ou perdre une fortune » : quand les avions valent plus cher en pièces détachées qu’en état de vol",
-          "link": "https://www.lefigaro.fr/societes/ici-notre-tournevis-peut-faire-gagner-ou-perdre-une-fortune-quand-les-avions-valent-plus-cher-en-pieces-detachees-qu-en-etat-de-vol-20260815",
-          "source": "Le Figaro",
-          "summary": "REPORTAGE - Aux États-Unis, sur l’ancienne base militaire de Victorville, les avions sont démantelés. Certains appareils presque neufs rapportent désormais davantage une fois désossés que s’ils étaient maintenus en…",
-          "published": "2026-08-15T20:52:52+00:00"
         }
       ]
     },
