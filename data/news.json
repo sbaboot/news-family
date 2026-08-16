@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-08-15T21:19:27.881734+00:00",
+  "generated_at": "2026-08-16T01:12:28.850376+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le maire de Kiev annonce une attaque de missiles alors que retentissent des explosions dans la capitale",
+          "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-le-maire-de-kiev-annonce-une-attaque-de-missiles-alors-que-retentissent-des-explosions-dans-la-capitale_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, peu avant 3 heures locales (2 heures à Paris). L’administration militaire de la capitale a fait état d’un incendie dans un bâtiment non…",
+          "published": "2026-08-16T00:47:40+00:00"
+        },
+        {
+          "title": "L’Iran dénonce la détention de trois pilotes de chasse par le Qatar qui dément les avoir capturés",
+          "link": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html",
+          "source": "Le Monde",
+          "summary": "Téhéran affirme que ses trois soldats ont été récupérés par Doha après le crash de leurs avions, en mars, lors d’une attaque visant la base américaine d’Al-Udeid. Des « déclarations trompeuses », a répondu la diplomatie…",
+          "published": "2026-08-15T22:48:14+00:00"
+        },
         {
           "title": "Son contrôle judiciaire assoupli, Patrick Bruel est autorisé à quitter le territoire français",
           "link": "https://www.france24.com/fr/france/20260815-son-contr%C3%B4le-judiciaire-assoupli-patrick-bruel-autoris%C3%A9-%C3%A0-quitter-le-territoire-fran%C3%A7ais",
@@ -12,11 +26,11 @@
           "published": "2026-08-15T21:13:20+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté et détruit 180 drones ukrainiens dans la journée",
+          "title": "Guerre en Ukraine : la Russie affirme avoir intercepté et détruit 180 drones ukrainiens dans la journée de samedi. Retrouvez nos informarions du 9 au 15 août.",
           "link": "https://www.lemonde.fr/international/live/2026/08/15/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-et-detruit-180-drones-ukrainiens-dans-la-journee_6741928_3210.html",
           "source": "Le Monde",
           "summary": "Les appareils ont été interceptés entre 8 heures et 20 heures au-dessus des territoires de Belgorod, Briansk, Kalouga, Koursk, Leningrad, Novgorod, Oriol, Rostov, Riazan, Toula, de la République de Crimée et des eaux de…",
-          "published": "2026-08-15T20:33:47+00:00"
+          "published": "2026-08-15T20:33:44+00:00"
         },
         {
           "title": "L'opposant Succès Masra s'exprime sur France 24 le lendemain de sa libération",
@@ -30,7 +44,7 @@
           "link": "https://www.lemonde.fr/international/article/2026/08/15/zimbabwe-le-bilan-du-naufrage-d-un-ferry-sur-le-lac-kariba-s-eleve-a-68-morts_6746751_3210.html",
           "source": "Le Monde",
           "summary": "Les secours ont repêché 22 nouveaux corps, a annoncé la police, samedi. Celle-ci n’a fourni aucun détail sur ces nouvelles victimes, mais la plupart des passagers du navire étaient des villageois et des marchands de…",
-          "published": "2026-08-15T18:12:16+00:00"
+          "published": "2026-08-15T18:12:13+00:00"
         },
         {
           "title": "«La face cachée de Kim Jong-un», de Cheong Seong-chang",
@@ -59,20 +73,6 @@
           "source": "Le Monde",
           "summary": "Le gouvernement intérimaire vénézuelien, a libéré 131 prisonniers politiques, suite à des négociations avec l’opposition, supervisées par Washington.",
           "published": "2026-08-15T15:57:36+00:00"
-        },
-        {
-          "title": "Après le piratage du fisc, le parquet de Paris ouvre une enquête",
-          "link": "https://www.france24.com/fr/france/20260815-apr%C3%A8s-piratage-fisc-parquet-paris-ouvre-enqu%C3%AAte",
-          "source": "France 24",
-          "summary": "Le parquet de Paris a annoncé samedi avoir ouvert une enquête après la cyberattaque ayant permis fin juin à des pirates de voler les données personnelles de près de 700 000 usagers de l'administration fiscale. Pour les…",
-          "published": "2026-08-15T15:51:00+00:00"
-        },
-        {
-          "title": "Le président sud-coréen propose des discussions à Pyongyang pour mettre fin à la guerre de Corée",
-          "link": "https://www.france24.com/fr/asie-pacifique/20260815-pr%C3%A9sident-sud-cor%C3%A9en-propose-discussions-pyongyang-pour-mettre-fin-guerre-cor%C3%A9e",
-          "source": "France 24",
-          "summary": "À l'opposé de la ligne très dure adoptée par son prédécesseur vis-à-vis de Pyongyang, le président sud-coréen Lee Jae-myung a proposé samedi à la Corée du Nord d'entamer un dialogue pour mettre formellement fin à la…",
-          "published": "2026-08-15T15:25:37+00:00"
         }
       ]
     },
@@ -84,6 +84,62 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Kyiv | Des explosions entendues après une alerte aux missiles balistiques",
+          "link": "https://www.lapresse.ca/international/europe/2026-08-15/kyiv/des-explosions-entendues-apres-une-alerte-aux-missiles-balistiques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des explosions ont retenti à Kyiv dans la nuit de samedi à dimanche après le déclenchement d’une alerte aux missiles balistiques dans la capitale ukrainienne, a constaté une journaliste de l’AFP.",
+          "published": "2026-08-16T00:28:11+00:00"
+        },
+        {
+          "title": "En Ukraine, des chaînes Telegram traquent les missiles russes",
+          "link": "https://www.ledevoir.com/monde/europe/1002044/ukraine-chaines-telegram-traquent-missiles-russes",
+          "source": "Le Devoir",
+          "summary": "Elles publient entre autres des bulletins quotidiens avec la probabilité de différentes attaques.",
+          "published": "2026-08-16T00:22:50+00:00"
+        },
+        {
+          "title": "L’argent et le bonheur | 40 ans, pas d’argent",
+          "link": "https://www.lapresse.ca/affaires/finances-personnelles/2026-08-15/l-argent-et-le-bonheur/40-ans-pas-d-argent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Durant mes vacances cet été, j’ai vu un slogan écrit sur un véhicule récréatif. Ça disait : « A job fills your pocket. Adventure fills your soul. » (Un emploi remplit vos poches. L’aventure remplit votre âme.)",
+          "published": "2026-08-15T23:45:00+00:00"
+        },
+        {
+          "title": "Le BEI déclenche une enquête indépendante après une vaste opération policière à Lévis",
+          "link": "https://www.ledevoir.com/actualites/justice/1002041/bei-declenche-enquete-independante-apres-vaste-operation-policiere-levis",
+          "source": "Le Devoir",
+          "summary": "Une personne est morte après une collision et des coups de feu sur un pont à Québec, vendredi soir.",
+          "published": "2026-08-15T22:43:14+00:00"
+        },
+        {
+          "title": "Malaise sur la question de la disposition de dérogation au congrès des jeunes libéraux",
+          "link": "https://www.ledevoir.com/politique/quebec/1002038/malaise-question-disposition-derogation-congres-jeunes-liberaux",
+          "source": "Le Devoir",
+          "summary": "Un froid s’installait systématiquement lorsque la question était posée aux jeunes militants.",
+          "published": "2026-08-15T22:05:00+00:00"
+        },
+        {
+          "title": "Les flag footballeuses canadiennes décrochent leur billet pour les Jeux olympiques de 2028",
+          "link": "https://www.ledevoir.com/sports/1002035/flag-footballeuses-canadiennes-decrochent-billet-jeux-olympiques-2028",
+          "source": "Le Devoir",
+          "summary": "L’équipe a vaincu samedi le Mexique en demi-finale du Championnat du monde en Allemagne.",
+          "published": "2026-08-15T21:46:00+00:00"
+        },
+        {
+          "title": "Montréal | Le SPVM enquête sur un possible meurtre dans Saint-Michel",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-15/montreal/le-spvm-enquete-sur-un-possible-meurtre-dans-saint-michel.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Une femme a perdu la vie et un homme a été retrouvé grièvement blessé samedi après-midi dans le quartier Saint-Michel. Il pourrait s’agir du 14e homicide à survenir à Montréal cette année.",
+          "published": "2026-08-15T21:41:52+00:00"
+        },
+        {
+          "title": "Une juge approuve un règlement de 31,5 millions dans une affaire visant un diocèse",
+          "link": "https://www.ledevoir.com/actualites/justice/1002032/juge-approuve-reglement-31-5-millions-affaire-visant-diocese",
+          "source": "Le Devoir",
+          "summary": "Celui-ci met fin à un recours collectif lié à des agressions sexuelles alléguées au sein de l’Église catholique.",
+          "published": "2026-08-15T21:15:48+00:00"
+        },
+        {
           "title": "« Propos haineux antisémites » | Des partisans du CF Montréal sanctionnés",
           "link": "https://www.lapresse.ca/sports/soccer/2026-08-15/propos-haineux-antisemites/des-partisans-du-cf-montreal-sanctionnes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -91,73 +147,59 @@
           "published": "2026-08-15T19:53:16+00:00"
         },
         {
-          "title": "Le naufrage d’un ferry au Zimbabwe fait au minimum 68 morts",
+          "title": "Le naufrage d’un ferry au Zimbabwe fait au minimum 72 morts",
           "link": "https://www.ledevoir.com/monde/afrique/1002029/naufrage-ferry-zimbabwe-fait-minimum-68-morts",
           "source": "Le Devoir",
           "summary": "Selon les autorités, 114 adultes, cinq membres d’équipage et quelques enfants étaient à bord au moment du drame.",
-          "published": "2026-08-15T19:39:17+00:00"
-        },
-        {
-          "title": "Marchand absent pour débuter la saison?",
-          "link": "https://www.journaldemontreal.com/2026/08/15/marchand-absent-pour-debuter-la-saison",
-          "source": "Journal de Montreal",
-          "summary": "Brad Marchand pourrait bien rater le début de la saison des Panthers de la Floride.",
-          "published": "2026-08-15T18:40:26+00:00"
-        },
-        {
-          "title": "Le retour du duo Trump-Musk? Le milliardaire s’apprête à investir 100 M$ pour les républicains",
-          "link": "https://www.journaldemontreal.com/2026/08/15/le-retour-du-duo-trump-musk-le-milliardaire-sapprete-a-investir-100-millions--pour-les-republicains",
-          "source": "Journal de Montreal",
-          "summary": "Après une spectaculaire rupture publique avec Donald Trump, Elon Musk semble avoir enterré la hache de guerre avec le président américain.",
-          "published": "2026-08-15T18:30:46+00:00"
-        },
-        {
-          "title": "La Belgique confrontée à l’un des pires incendies de son histoire",
-          "link": "https://www.ledevoir.com/monde/europe/1002026/belgique-confrontee-pires-incendies-histoire",
-          "source": "Le Devoir",
-          "summary": "Le feu, qui s’est déclaré vendredi, a brûlé jusqu’à maintenant plus de 2000 hectares.",
-          "published": "2026-08-15T18:10:00+00:00"
-        },
-        {
-          "title": "Archidiocèse de Québec | Un règlement de 31,5 millions approuvé en faveur de victimes d’agressions sexuelles",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-15/archidiocese-de-quebec/un-reglement-de-31-5-millions-approuve-en-faveur-de-victimes-d-agressions-sexuelles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un cabinet d’avocats montréalais a annoncé samedi qu’une juge de la Cour supérieure avait approuvé un accord historique de 31,5 millions en faveur des plaignants victimes d’agressions sexuelles dans le cadre d’un…",
-          "published": "2026-08-15T17:56:46+00:00"
-        },
-        {
-          "title": "Manifestation à Blainville | Des citoyens font part de leur « ras le bol » contre Stablex",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-15/manifestation-a-blainville/des-citoyens-font-part-de-leur-ras-le-bol-contre-stablex.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Des citoyens se rassemblent samedi après-midi afin de faire part de leur « ras-le-bol » face au manque d’écoute dans le dossier Stablex, qui prévoit d’aménager une sixième cellule d’enfouissement sur son site de…",
-          "published": "2026-08-15T17:42:10+00:00"
-        },
-        {
-          "title": "Des citoyens font part de leur « ras-le-bol » lors d’une manifestation contre Stablex",
-          "link": "https://www.ledevoir.com/actualites/environnement/1002023/citoyens-font-part-ras-bol-lors-manifestation-contre-stablex",
-          "source": "Le Devoir",
-          "summary": "Une centaine de citoyens sont attendus samedi à la manifestation qui se tiendra à la Place des Spectacles de Blainville.",
-          "published": "2026-08-15T17:40:00+00:00"
-        },
-        {
-          "title": "« Mettez un casque ! » | Les vélos électriques sont-ils plus dangereux ?",
-          "link": "https://www.lapresse.ca/actualites/2026-08-15/mettez-un-casque/les-velos-electriques-sont-ils-plus-dangereux.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Eva Radwanli est passée à deux doigts de mourir. À un doigt, plutôt. La femme de 46 ans a subi un sévère traumatisme craniocérébral en juillet après avoir fait une chute en vélo électrique en dévalant la pente abrupte…",
-          "published": "2026-08-15T17:00:00+00:00"
-        },
-        {
-          "title": "Le prix du poulet sur le point de s’envoler?",
-          "link": "https://www.journaldemontreal.com/2026/08/15/le-prix-du-poulet-sur-le-point-de-senvoler",
-          "source": "Journal de Montreal",
-          "summary": "Après le bœuf, préparez-vous à voir le poulet vous coûter plus cher au cours des prochaines semaines, avertit un expert.",
-          "published": "2026-08-15T16:55:49+00:00"
+          "published": "2026-08-15T19:39:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "Des explosions entendues à Kiev après une alerte aux missiles balistiques",
+          "link": "https://www.lefigaro.fr/international/des-explosions-entendues-a-kiev-apres-une-alerte-aux-missiles-balistiques-20260816",
+          "source": "Le Figaro",
+          "summary": "L’administration militaire de la capitale a fait état d’un incendie dans un bâtiment non résidentiel dans le quartier Obolonsky.",
+          "published": "2026-08-16T00:58:28+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le maire de Kiev annonce une attaque de missiles alors que retentissent des explosions dans la capitale",
+          "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-le-maire-de-kiev-annonce-une-attaque-de-missiles-alors-que-retentissent-des-explosions-dans-la-capitale_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "« Restez aux abris ! », a lancé aux habitants Vitali Klitschko, sur Telegram, peu avant 3 heures locales (2 heures à Paris). L’administration militaire de la capitale a fait état d’un incendie dans un bâtiment non…",
+          "published": "2026-08-16T00:47:40+00:00"
+        },
+        {
+          "title": "Brésil: ces scandales qui planent sur les campagnes de Lula et Flavio Bolsonaro",
+          "link": "https://www.lefigaro.fr/international/bresil-ces-scandales-qui-planent-sur-les-campagnes-de-lula-et-flavio-bolsonaro-20260816",
+          "source": "Le Figaro",
+          "summary": "Les deux candidats ont déjà eu des démêlés avec la justice, mais de manière fort différente.",
+          "published": "2026-08-15T23:10:19+00:00"
+        },
+        {
+          "title": "L’Iran dénonce la détention de trois pilotes de chasse par le Qatar qui dément les avoir capturés",
+          "link": "https://www.lemonde.fr/international/article/2026/08/16/l-iran-denonce-la-detention-de-trois-pilotes-de-chasse-par-le-qatar-qui-dement-les-avoir-captures_6746919_3210.html",
+          "source": "Le Monde",
+          "summary": "Téhéran affirme que ses trois soldats ont été récupérés par Doha après le crash de leurs avions, en mars, lors d’une attaque visant la base américaine d’Al-Udeid. Des « déclarations trompeuses », a répondu la diplomatie…",
+          "published": "2026-08-15T22:48:14+00:00"
+        },
+        {
+          "title": "EN DIRECT, incendies et canicule : plus de 2 700 hectares ravagés en Belgique ; dans les Landes, le feu ne progresse plus mais n’est « pas en voie » d’être fixé",
+          "link": "https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-plus-de-2-700-hectares-ravages-en-belgique-dans-les-landes-le-feu-ne-progresse-plus-mais-n-est-pas-en-voie-d-etre-fixe_6744636_1652612.html",
+          "source": "Le Monde",
+          "summary": "L’incendie qui s’est déclaré vendredi en milieu de journée dans les Hautes Fagnes, une grande zone boisée prisée des randonneurs et proche de l’Allemagne, est l’un des plus importants auquel a été confrontée la Belgique…",
+          "published": "2026-08-15T22:36:54+00:00"
+        },
+        {
+          "title": "Natation : Florent Manaudou «trop content de pouvoir dire au revoir ici»",
+          "link": "https://www.lefigaro.fr/sports/autres-sports/natation-florent-manaudou-trop-content-de-pouvoir-dire-au-revoir-ici-20260815",
+          "source": "Le Figaro",
+          "summary": "À l’issue de la cérémonie lui rendant hommage au Centre aquatique olympique de Saint-Denis, le retraité des bassins est revenu sur sa soirée riche en émotions.",
+          "published": "2026-08-15T21:19:22+00:00"
+        },
         {
           "title": "En bronze sur le 10 000 m, Jimmy Gressier décroche sa première médaille européenne",
           "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/en-bronze-sur-le-10-000-m-jimmy-gressier-decroche-sa-premiere-medaille-europeenne_8149211.html#xtor=RSS-3-[lestitres]",
@@ -180,53 +222,11 @@
           "published": "2026-08-15T20:57:46+00:00"
         },
         {
-          "title": "Présidentielle américaine de 2028 : la Caroline du Sud ouvrira le bal des primaires démocrates",
-          "link": "https://www.lefigaro.fr/international/presidentielle-americaine-de-2028-la-caroline-du-sud-ouvrira-le-bal-des-primaires-democrates-20260815",
-          "source": "Le Figaro",
-          "summary": "Le parti abandonne la traditionnelle ouverture dans l’Iowa et le New Hampshire afin de mieux représenter la diversité de son électorat. Mais le nouvel ordre pourrait être contesté par ces deux États, dont les…",
-          "published": "2026-08-15T20:57:13+00:00"
-        },
-        {
-          "title": "Gaza : le chef du Hamas au Caire avant la venue de l’émissaire de Donald Trump",
-          "link": "https://www.lefigaro.fr/international/gaza-le-chef-du-hamas-au-caire-avant-la-venue-de-jared-kushner-20260815",
-          "source": "Le Figaro",
-          "summary": "Khalil al-Hayya doit rencontrer dimanche le chef du renseignement égyptien pour son premier déplacement en Égypte depuis qu’il a pris la tête du mouvement islamiste. Jared Kushner est également attendu dans la région.",
-          "published": "2026-08-15T20:57:06+00:00"
-        },
-        {
           "title": "« Ici, notre tournevis peut faire gagner ou perdre une fortune » : quand les avions valent plus cher en pièces détachées qu’en état de vol",
           "link": "https://www.lefigaro.fr/societes/ici-notre-tournevis-peut-faire-gagner-ou-perdre-une-fortune-quand-les-avions-valent-plus-cher-en-pieces-detachees-qu-en-etat-de-vol-20260815",
           "source": "Le Figaro",
           "summary": "REPORTAGE - Aux États-Unis, sur l’ancienne base militaire de Victorville, les avions sont démantelés. Certains appareils presque neufs rapportent désormais davantage une fois désossés que s’ils étaient maintenus en…",
           "published": "2026-08-15T20:52:52+00:00"
-        },
-        {
-          "title": "Canicule : la vigilance orange se replie vers le Sud-Est, des orages attendus dans le Sud-Ouest",
-          "link": "https://www.lefigaro.fr/meteo/canicule-la-vigilance-orange-se-replie-vers-le-sud-est-des-orages-attendus-dans-le-sud-ouest-20260815",
-          "source": "Le Figaro",
-          "summary": "L’Ouest et l’Île-de-France repasseront en jaune ou en vert dimanche, tandis que les fortes chaleurs persisteront dans le quart sud-est. Des orages parfois violents, accompagnés de grêle et de rafales pouvant atteindre…",
-          "published": "2026-08-15T20:48:35+00:00"
-        },
-        {
-          "title": "Championnats d’Europe de natation : «Le record du monde n’était pas possible ici», confie Léon Marchand après son premier titre européen",
-          "link": "https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-un-moment-dont-je-vais-me-souvenir-confie-leon-marchand-apres-son-premier-titre-europeen-20260815",
-          "source": "Le Figaro",
-          "summary": "Vainqueur impérial du 200m papillon ce samedi à Saint-Denis en 1’51’’72, le quadruple champion olympique ne cachait pas sa satisfaction après la course.",
-          "published": "2026-08-15T20:47:36+00:00"
-        },
-        {
-          "title": "Abandon des catapultes électromagnétiques : la décision de Trump ne menace pas le futur porte-avions français, assure Paris",
-          "link": "https://www.lefigaro.fr/international/futur-porte-avions-francais-la-decision-de-trump-ne-menace-pas-ses-catapultes-electromagnetiques-assure-paris-20260815",
-          "source": "Le Figaro",
-          "summary": "Malgré la volonté de Donald Trump de rétablir les catapultes à vapeur sur les futurs porte-avions américains, Paris assure que la fourniture et la maintenance des systèmes électromagnétiques destinés au France Libre ne…",
-          "published": "2026-08-15T20:46:57+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : Marine Tondelier propose des « rencontres bilatérales » avec tous les partis de gauche",
-          "link": "https://www.lemonde.fr/politique/article/2026/08/15/presidentielle-2027-marine-tondelier-propose-des-rencontres-bilaterales-avec-tous-les-partis-de-gauche_6746886_823448.html",
-          "source": "Le Monde",
-          "summary": "La cheffe des Ecologistes, qui maintient à ce stade sa candidature à l’élection présidentielle, s’est dite prête à « rediscuter avec tout le monde à gauche, sans exclusive » pour dégager « un chemin de victoire ».",
-          "published": "2026-08-15T20:34:47+00:00"
         }
       ]
     },
