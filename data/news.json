@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-08-17T06:51:56.739173+00:00",
+  "generated_at": "2026-08-17T09:39:31.496528+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Le bilan désastreux de Donald Trump au Moyen-Orient",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/17/le-bilan-desastreux-de-donald-trump-au-moyen-orient_6748113_3232.html",
+          "source": "Le Monde",
+          "summary": "Depuis son retour à la Maison Blanche, le président américain accumule les échecs dans la région, que ce soit pour la guerre qu’il a déclenchée avec Israël contre l’Iran ou pour sa gestion du dossier palestinien,…",
+          "published": "2026-08-17T09:30:06+00:00"
+        },
+        {
+          "title": "Marchand magistral, premier sacre des Lionnes et Lens vainqueur du PSG : les infos sport du week-end",
+          "link": "https://www.france24.com/fr/sports/20260817-marchand-magistral-premier-sacre-des-lionnes-et-lens-vainqueur-du-psg-les-infos-sport-du-week-end",
+          "source": "France 24",
+          "summary": "Léon Marchand qui fait sensation aux Championnats d'Europe de natation, le Cameroun sacré pour la première fois de son histoire après sa victoire face au Malawi en finale de la CAN féminine, et le RC Lens qui remporte…",
+          "published": "2026-08-17T09:18:48+00:00"
+        },
+        {
+          "title": "L'épidémie d'Ebola devient la plus meurtrière de l'histoire de la RD Congo",
+          "link": "https://www.france24.com/fr/afrique/20260817-l-%C3%A9pid%C3%A9mie-d-ebola-devient-la-plus-meurtri%C3%A8re-de-l-histoire-de-la-rd-congo",
+          "source": "France 24",
+          "summary": "Le bilan de l'épidémie d'Ebola qui sévit en République démocratique du Congo vient de dépasser celui de la précédente flambée (2018-2020), avec plus de 2 300 morts, selon les autorités congolaises, lundi. Plusieurs…",
+          "published": "2026-08-17T08:32:19+00:00"
+        },
+        {
+          "title": "COP 17 sur la désertification: «La dégradation des terres est planétaire», dit Patrice Burger",
+          "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260817-cop-17-sur-la-d%C3%A9sertification-la-d%C3%A9gradation-des-terres-est-plan%C3%A9taire-dit-patrice-burger",
+          "source": "RFI",
+          "summary": "Patrice Burger, président de Cari (Centre d’Actions et de Réalisations Internationales), association de lutte contre la désertification, est l'invité de RFI ce 17 août 2026. À l'occasion de l'ouverture de la COP 17 sur…",
+          "published": "2026-08-17T08:10:18+00:00"
+        },
+        {
+          "title": "Les lieux de pouvoir: le palais présidentiel à Abidjan, un lieu chargé d’histoire",
+          "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260817-les-lieux-de-pouvoir-le-palais-pr%C3%A9sidentiel-%C3%A0-abidjan-un-lieu-charg%C3%A9-d-histoire",
+          "source": "RFI",
+          "summary": "Une nouvelle série commence ce matin sur RFI, consacrée aux lieux de pouvoir. Et pour son premier épisode, direction la Côte d’Ivoire. L’essentiel du pouvoir politique est concentré à Abidjan. Focus sur le palais de la…",
+          "published": "2026-08-17T07:37:09+00:00"
+        },
+        {
+          "title": "À la Une: notre planète dans le rouge",
+          "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260817-%C3%A0-la-une-notre-plan%C3%A8te-dans-le-rouge",
+          "source": "RFI",
+          "summary": "",
+          "published": "2026-08-17T07:34:19+00:00"
+        },
         {
           "title": "Alvin Junior Mak, étoile montante de la mode franco-congolaise propulsé par le Mondial",
           "link": "https://www.france24.com/fr/afrique/20260817-alvin-junior-mak-%C3%A9toile-montante-mode-franco-congolaise-propuls%C3%A9-mondial",
@@ -15,7 +57,7 @@
           "title": "Trophée des champions : à 10 contre 11, Lens fait tomber le PSG",
           "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260817-troph%C3%A9e-des-champions-%C3%A0-10-contre-11-lens-fait-tomber-le-psg",
           "source": "France 24",
-          "summary": "Le RC Lens a remporté le trophée des champions face au Paris Saint-Germain (1-0). Sous les yeux de Zinédine Zidane, les lensois ont tenu une heure en infériorité numérique.",
+          "summary": "Le RC Lens a remporté le Trophée des champions face au Paris Saint-Germain (1-0). Sous les yeux de Zinédine Zidane, les Lensois ont tenu une heure en infériorité numérique.",
           "published": "2026-08-17T05:50:59+00:00"
         },
         {
@@ -31,48 +73,6 @@
           "source": "RFI",
           "summary": "Invité : Pierre Briant. C’est le premier empire perse de l’Histoire. Fondé par Cyrus au VIè siècle avant J.-C. Certains disent que c’est le premier empire tout court. C’est l’histoire de cet empire qui s’étendait de…",
           "published": "2026-08-17T05:00:07+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : six morts dans l’ouest de la Russie après des frappes ukrainiennes",
-          "link": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-l-union-europeenne-veut-augmenter-d-un-tiers-le-nombre-d-entites-russes-sanctionnees_6746952_3210.html",
-          "source": "Le Monde",
-          "summary": "« Six civils ont été tués, et quatre blessés, dont un enfant », a annoncé le gouverneur de l’oblast russe de Belgorod, Alexandre Chouvaïev.",
-          "published": "2026-08-17T04:30:31+00:00"
-        },
-        {
-          "title": "Gaza : l’émissaire américain Jared Kushner attendu en Israël pour rencontrer Benyamin Nétanyahou et tenter de faire avancer le plan de paix",
-          "link": "https://www.lemonde.fr/international/article/2026/08/17/gaza-l-emissaire-americain-jared-kushner-en-israel-pour-rencontrer-benyamin-netanyahou-et-tenter-de-faire-avancer-le-plan-de-paix_6747971_3210.html",
-          "source": "Le Monde",
-          "summary": "Le représentant de Washington s’est entretenu, dimanche, avec des dirigeants du Hamas. Le mouvement palestinien avait donné son accord, fin juillet, à une feuille de route américaine prévoyant une transition à Gaza,…",
-          "published": "2026-08-17T04:17:28+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : au cœur de la nuit, avec le régiment de drones qui frappe durement Moscou",
-          "link": "https://www.lemonde.fr/international/article/2026/08/17/guerre-en-ukraine-au-c-ur-de-la-nuit-avec-le-regiment-de-drones-qui-frappe-durement-moscou_6747970_3210.html",
-          "source": "Le Monde",
-          "summary": "Le 413ᵉ régiment des forces sans pilote multiplie les attaques dans la grande profondeur depuis le territoire ukrainien. Kiev accélère ses efforts militaires pour porter le feu au cœur de l’appareil économique de son…",
-          "published": "2026-08-17T04:15:08+00:00"
-        },
-        {
-          "title": "Au Liban, des frappes israéliennes meurtrières fragilisent un peu plus le cessez-le-feu avec le Hezbollah",
-          "link": "https://www.lemonde.fr/international/article/2026/08/17/au-liban-des-frappes-israeliennes-meurtrieres-fragilisent-un-peu-plus-le-cessez-le-feu-avec-le-hezbollah_6747969_3210.html",
-          "source": "Le Monde",
-          "summary": "Alors que la mise en œuvre de l’accord-cadre signé avec Beyrouth est enlisée, l’armée israélienne a tué onze personnes dans des bombardements autour de la ville de Nabatiyé, le 15 août, en riposte à une attaque contre…",
-          "published": "2026-08-17T04:15:08+00:00"
-        },
-        {
-          "title": "Répression en Iran : les échanges culturels français dans le viseur du pouvoir",
-          "link": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-          "source": "Le Monde",
-          "summary": "L’interpellation de deux diplomates français et la détention de deux graphistes iraniens, le 19 juillet, marquent un nouveau seuil dans la dégradation des relations entre Paris et Téhéran. Au cœur de l’affaire, une…",
-          "published": "2026-08-17T03:35:33+00:00"
-        },
-        {
-          "title": "En direct : Jared Kushner va rencontrer Benjamin Netanyahu afin de relancer le plan de paix à Gaza",
-          "link": "https://www.france24.com/fr/moyen-orient/20260817-en-direct-jared-kushner-va-rencontrer-benjamin-netanyahu-relancer-plan-de-paix-gaza-israel-etats-unis-iran-liban-detroit-ormuz",
-          "source": "France 24",
-          "summary": "L'émissaire américain Jared Kushner doit rencontrer, lundi, en Israël, le Premier ministre Benjamin Netanyahu pour tenter de faire avancer le plan de paix américain à Gaza, auquel le dirigeant a opposé jusqu'à présent…",
-          "published": "2026-08-17T03:31:56+00:00"
         }
       ]
     },
@@ -84,53 +84,53 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Les immeubles négligés, un danger public",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-17/les-immeubles-negliges-un-danger-public.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "À Montréal, des bâtiments se détériorent durant des années, jusqu’à devenir instables et dangereux pour le voisinage, sans que la Ville utilise tous ses pouvoirs pour y remédier. Après l’effondrement d’un immeuble…",
+          "published": "2026-08-17T09:00:00+00:00"
+        },
+        {
+          "title": "Trouver l’amour, avant la fin",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-08-17/trouver-l-amour-avant-la-fin.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le diagnostic de Chantal Martel est sans appel. Son cancer du sein, elle en mourra. Avant de partir, elle veut savourer chaque seconde. Serrer ses proches. Faire de longues marches en forêt. Rire avec ses amies. Et, qui…",
+          "published": "2026-08-17T09:00:00+00:00"
+        },
+        {
+          "title": "Boutique éphémère | Un accueil mitigé attend Shein au centre-ville de Montréal",
+          "link": "https://www.lapresse.ca/affaires/2026-08-17/boutique-ephemere/un-accueil-mitige-attend-shein-au-centre-ville-de-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Pour le meilleur et pour le pire. Shein, géant chinois de la vente en ligne, s’installera pour quelques jours au centre-ville de Montréal à la fin du mois d’août. Cette présence provoque des réactions mitigées : si des…",
+          "published": "2026-08-17T09:00:00+00:00"
+        },
+        {
+          "title": "Sans convention depuis 2025 | Les cols bleus en grève pendant le Mondial de cyclisme ?",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-17/sans-convention-depuis-2025/les-cols-bleus-en-greve-pendant-le-mondial-de-cyclisme.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les cols bleus de Montréal menacent de tomber en grève durant les Championnats du monde UCI de cyclisme sur route, en septembre, a appris La Presse. Leur syndicat réclame plus de concessions, notamment salariales, à la…",
+          "published": "2026-08-17T09:00:00+00:00"
+        },
+        {
+          "title": "Planète bleue, idée verte | Algues : une ressource insoupçonnée à même nos lacs ?",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-17/planete-bleue-idee-verte/algues-une-ressource-insoupconnee-a-meme-nos-lacs.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Et si on récupérait les cyanobactéries et algues qui prolifèrent dans les plans d’eau pour en faire des bioplastiques, des biocarburants ou encore des biobatteries ? C’est le pari de Kimia Shafighi et de son entreprise,…",
+          "published": "2026-08-17T09:00:00+00:00"
+        },
+        {
+          "title": "Élections québécoises | Anomalies politiques",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-17/elections-quebecoises/anomalies-politiques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Bon, on est le 17 août et ça suffit, l’oisiveté estivale, faudrait penser à se concentrer un peu sur les élections du 5 octobre, les amis.",
+          "published": "2026-08-17T09:00:00+00:00"
+        },
+        {
           "title": "L’actrice Hayden Panettiere est décédée",
           "link": "https://www.ledevoir.com/culture/cinema/1002161/actrice-hayden-panettiere-est-decedee",
           "source": "Le Devoir",
           "summary": "Elle était âgée de 36 ans.",
           "published": "2026-08-17T04:40:06+00:00"
-        },
-        {
-          "title": "Devenir parent, c’est une transition que l’on soutient trop peu",
-          "link": "https://www.ledevoir.com/opinion/libre-opinion/1002125/devenir-parent-c-est-transition-on-soutient-trop-peu",
-          "source": "Le Devoir",
-          "summary": "Voir s’épanouir un enfant est le fruit d’un long travail que collectivement nous devons soutenir.",
-          "published": "2026-08-17T04:00:00+00:00"
-        },
-        {
-          "title": "Claire Beaugrand-Champagne, du côté des gens",
-          "link": "https://www.ledevoir.com/culture/arts-visuels/1002113/claire-beaugrand-champagne-cote-gens",
-          "source": "Le Devoir",
-          "summary": "Pour la photographe, l’appareil devient un outil d’enquête, d’observation et de compréhension du monde.",
-          "published": "2026-08-17T04:00:00+00:00"
-        },
-        {
-          "title": "Images de la décadence",
-          "link": "https://www.ledevoir.com/opinion/chroniques/1002122/images-decadence",
-          "source": "Le Devoir",
-          "summary": "Trump est-il «une banane en décomposition»?",
-          "published": "2026-08-17T04:00:00+00:00"
-        },
-        {
-          "title": "L’ADN de CN2i",
-          "link": "https://www.ledevoir.com/culture/medias/1002080/adn-cn2i",
-          "source": "Le Devoir",
-          "summary": "Jean-Hugues Roy raconte la transformation historique de six journaux en coopératives selon un modèle unique au monde.",
-          "published": "2026-08-17T04:00:00+00:00"
-        },
-        {
-          "title": "Paris en Gaspésie",
-          "link": "https://www.ledevoir.com/opinion/chroniques/1002107/paris-gaspesie",
-          "source": "Le Devoir",
-          "summary": "L’Histoire et les livres rapprochent parfois des lieux que l’on croirait infiniment éloignés.",
-          "published": "2026-08-17T04:00:00+00:00"
-        },
-        {
-          "title": "Une «lutte de tous les instants» contre une espèce envahissante, dix ans après un déversement de diesel",
-          "link": "https://www.ledevoir.com/actualites/environnement/1001918/lutte-tous-instants-contre-espece-envahissante-dix-ans-apres-deversement-diesel",
-          "source": "Le Devoir",
-          "summary": "Chez les Heiltsuks, la prolifération du crabe vert menace les palourdes, l’alimentation et des pratiques culturelles ancestrales.",
-          "published": "2026-08-17T04:00:00+00:00"
         },
         {
           "title": "À la radio, un nouvel affrontement pour le retour à la maison",
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Incendie : le feu dans les Landes est désormais «fixé», Sébastien Lecornu très attendu en Gironde ce lundi pour lancer la reconstruction",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-le-feu-dans-les-landes-est-desormais-fixe-sebastien-lecornu-tres-attendu-en-gironde-ce-lundi-pour-lancer-la-reconstruction-20260817",
-          "source": "Le Figaro",
-          "summary": "Le feu qui a ravagé en quelques jours 1700 hectares dans les Landes sans faire de victimes est «fixé» et quelque 250 habitants de la commune de Luglon vont pouvoir rentrer chez eux, a annoncé lundi la secrétaire…",
-          "published": "2026-08-17T06:48:03+00:00"
+          "title": "Ebola : l’épidémie devient la plus meurtrière de l’histoire de la république démocratique du Congo, avec plus de 2 000 morts",
+          "link": "https://www.liberation.fr/societe/sante/ebola-lepidemie-devient-la-plus-meurtriere-de-lhistoire-de-la-republique-democratique-du-congo-avec-plus-de-2-000-morts-20260817_MYQLYLSLDBDIRFHM2VH7PIZUQ4/",
+          "source": "Liberation",
+          "summary": "La crise sanitaire que subit la RDC depuis la déclaration officielle du virus le 15 mai bat des records de mortalité. Le pays souffre de l’absence de vaccin contre la souche Bundibugyo, mais les recherches continuent.",
+          "published": "2026-08-17T09:31:22+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies : Sébastien Lecornu en Gironde pour lancer la reconstruction après le mégafeu",
+          "title": "Piratage du fisc : l’administration doit commencer à contacter les victimes ce lundi",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/piratage-du-fisc-l-administration-doit-commencer-a-contacter-les-victimes-ce-lundi-20260817",
+          "source": "Le Figaro",
+          "summary": "«Les usagers concernés seront contactés individuellement à compter de lundi 17 août, avec le détail des données susceptibles d’avoir été exposées et les mesures de vigilance à adopter», indiquent les services du premier…",
+          "published": "2026-08-17T09:28:12+00:00"
+        },
+        {
+          "title": "«C’était à moi de le protéger» : 3 ans avant son décès, Hayden Panettiere perdait son jeune frère, Jansen",
+          "link": "https://madame.lefigaro.fr/celebrites/actu-people/c-etait-a-moi-de-le-proteger-3-ans-avant-son-deces-hayden-panettiere-perdait-son-jeune-frere-jansen-20260817",
+          "source": "Le Figaro",
+          "summary": "Ce lundi 17 août, Hayden Panettiere est décédée à l’âge de 36 ans. En 2023, la star de Heroes avait dû faire face à la mort de son frère de 28 ans, Jansen, lui aussi acteur.",
+          "published": "2026-08-17T09:25:07+00:00"
+        },
+        {
+          "title": "La gare de Laval évacuée après un départ de feu sur une batterie auxiliaire d'un TGV reliant Paris à Saint-Malo",
+          "link": "https://france3-regions.franceinfo.fr/pays-de-la-loire/mayenne/laval/la-gare-de-laval-evacuee-en-raison-d-une-avarie-materiel-sur-un-train-reliant-paris-a-saint-malo-3402415.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Ce lundi 17 août, les passagers du train reliant Paris à Saint-Malo ont été évacués en gare de Laval. La SNCF explique que l'arrêt du train est dû à une \"avarie matériel\". Selon le SDIS de la Mayenne, l'incident est…",
+          "published": "2026-08-17T09:22:30+00:00"
+        },
+        {
+          "title": "Landes : le feu qui a ravagé 1700 hectares est «fixé», la moitié des évacués vont pouvoir rentrer chez eux",
+          "link": "https://www.lefigaro.fr/actualite-france/landes-le-feu-qui-a-ravage-1700-hectares-est-fixe-la-moitie-des-evacues-vont-pouvoir-rentrer-chez-eux-20260817",
+          "source": "Le Figaro",
+          "summary": "Cette nuit, «la situation a évolué de façon plutôt très favorable. (...) le feu n’a pas progressé. (...) Néanmoins je le répète, feu fixé ne veut pas dire feu éteint», a affirmé à la presse la secrétaire générale de la…",
+          "published": "2026-08-17T09:22:09+00:00"
+        },
+        {
+          "title": "EN DIRECT, incendies et canicule : « Nous n’avons strictement rien à cacher », affirme Sébastien Lecornu en Gironde",
+          "link": "https://www.lemonde.fr/climat/live/2026/08/17/en-direct-incendies-et-canicule-nous-n-avons-strictement-rien-a-cacher-affirme-sebastien-lecornu-en-gironde_6744636_1652612.html",
+          "source": "Le Monde",
+          "summary": "Le chef du gouvernement a fustigé les « dérives complotistes » au sujet des incendies dans les Landes et en Gironde. Une conférence de presse est prévue à 13 heures.",
+          "published": "2026-08-17T09:20:18+00:00"
+        },
+        {
+          "title": "Sadie Sink, Inde Navarrette, Adam Driver... Marvel dévoile le jeune et séduisant casting du prochain X-Men",
+          "link": "https://www.lefigaro.fr/cinema/sadie-sink-inde-navarrette-adam-driver-marvel-devoile-le-jeune-et-seduisant-casting-du-prochain-x-men-20260817",
+          "source": "Le Figaro",
+          "summary": "Le studio américain a profité du coup de projecteur de la D23 de Disney à Los Angeles pour offrir aux fans un premier aperçu de la nouvelle bande de super-mutants, dont les nouvelles aventures sont prévues au cinéma en…",
+          "published": "2026-08-17T09:14:39+00:00"
+        },
+        {
+          "title": "Incendie en Gironde : \"Nous n'avons strictement rien à cacher\" sur le déroulement des opérations des pompiers, assure Sébastien Lecornu",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le chef du gouvernement et plusieurs ministres sont en déplacement en Gironde, lundi, afin d'y rencontrer des élus et représentants du département, et faire des annonces.",
+          "published": "2026-08-17T09:06:55+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies : «nous n’avons strictement rien à cacher», assure Sébastien Lecornu en Gironde",
           "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
           "source": "Liberation",
           "summary": "La visite du Premier ministre ce lundi sur le territoire ravagé par les flammes en juillet cristallise beaucoup d’espoirs et de colère. Il s’est déjà rendu au Porge dimanche soir, sans l’avoir mentionné dans son…",
-          "published": "2026-08-17T06:43:43+00:00"
+          "published": "2026-08-17T09:06:45+00:00"
         },
         {
-          "title": "Inde : une bousculade dans un temple hindou fait au moins sept morts et 19 blessés",
-          "link": "https://www.lefigaro.fr/international/inde-une-bousculade-dans-un-temple-hindou-fait-au-moins-sept-morts-et-19-blesses-20260817",
-          "source": "Le Figaro",
-          "summary": "L’accident s’est produit au temple Ashok Dham, dans le district de Lakhisarai, où une immense foule de fidèles était rassemblée pour honorer le dieu hindou Shiva.",
-          "published": "2026-08-17T06:37:40+00:00"
-        },
-        {
-          "title": "Incendie dans les Landes : le feu est \"fixé\", 250 évacués autorisés à rentrer chez eux, annonce la préfecture",
-          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Depuis jeudi, l'incendie a ravagé quelque 1 700 hectares de pinèdes, entraînant l'évacuation de 650 habitants.",
-          "published": "2026-08-17T06:35:53+00:00"
-        },
-        {
-          "title": "Lecornu en Gironde, piratage du fisc, Kushner à la rencontre de Nétanyahou… L’actu de ce 17 août au matin",
-          "link": "https://www.liberation.fr/international/europe/lecornu-en-gironde-piratage-du-fisc-kushner-a-la-rencontre-de-netanyahou-lactu-de-ce-17-aout-au-matin-20260817_FN7B7IW565BULHLQTGALICBUAY/",
-          "source": "Liberation",
-          "summary": "La rédaction de «Libération» compile les principales infos du jour.",
-          "published": "2026-08-17T06:35:36+00:00"
-        },
-        {
-          "title": "Après l’annonce de Donald Trump, la Corée du Sud affirme qu’elle va «se coordonner étroitement» avec les États-Unis pour les exercices militaires conjoints",
-          "link": "https://www.lefigaro.fr/international/seoul-affirme-que-les-exercices-militaires-avec-les-etats-unis-se-derouleront-comme-prevu-20260817",
-          "source": "Le Figaro",
-          "summary": "Donald Trump a déclaré dimanche «réduire considérablement» la participation des États-Unis à des exercices militaires conjoints avec son allié historique sud-coréen.",
-          "published": "2026-08-17T06:31:25+00:00"
-        },
-        {
-          "title": "«Cela montre que le Moyen-Orient se rassemble» : Donald Trump se dit «très content» du pacte de défense entre l’Arabie saoudite, la Turquie et le Pakistan",
-          "link": "https://www.lefigaro.fr/international/cela-montre-que-le-moyen-orient-se-rassemble-donald-trump-se-dit-tres-content-du-pacte-de-defense-entre-l-arabie-saoudite-la-turquie-et-le-pakistan-20260817",
-          "source": "Le Figaro",
-          "summary": "L’Arabie saoudite, où a été signé l’accord, entend ainsi renforcer ses alliances sécuritaires après avoir été ciblée par l’Iran en représailles aux bombardements américains.",
-          "published": "2026-08-17T06:30:01+00:00"
-        },
-        {
-          "title": "Réseau militant structuré, communication sur mesure... Rima Hassan, un essor politique fulgurant par la gauche de la gauche",
-          "link": "https://www.lefigaro.fr/politique/reseau-militant-structure-communication-sur-mesure-rima-hassan-un-essor-politique-fulgurant-par-la-gauche-de-la-gauche-20260817",
-          "source": "Le Figaro",
-          "summary": "L’ASCENSION D’UNE ÉGÉRIE SULFUREUSE (2/3) - La campagne des européennes de La France insoumise, qui l’a fait connaître en 2024, a été largement menée sur le thème palestinien.",
-          "published": "2026-08-17T06:19:24+00:00"
-        },
-        {
-          "title": "Le coût de la vie étudiante a augmenté de 1,66 % sur un an, et de plus de 35 % depuis l’élection d’Emmanuel Macron en 2017, alerte l’Unef",
-          "link": "https://www.lemonde.fr/campus/article/2026/08/17/le-cout-de-la-vie-etudiante-a-augmente-de-1-66-sur-un-an-et-de-plus-de-35-depuis-l-election-d-emmanuel-macron-en-2017-alerte-l-unef_6747977_4401467.html",
+          "title": "Olivier Nora annonce lancer sa propre maison d’édition, « indépendante », qui publiera ses premiers livres en octobre",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/17/olivier-nora-annonce-lancer-sa-propre-maison-d-edition-independante-qui-publiera-ses-premiers-livres-en-octobre_6748080_3234.html",
           "source": "Le Monde",
-          "summary": "Etudier coûte deux fois plus cher pour les étudiants étrangers extracommunautaires, « premières victimes des politiques austéritaires du gouvernement », pointe également l’enquête du syndicat étudiant, tandis que les…",
-          "published": "2026-08-17T06:19:12+00:00"
-        },
-        {
-          "title": "Mort à 36 ans de Hayden Panettiere, éternelle «cheerleader» de la série «Heroes»",
-          "link": "https://www.liberation.fr/culture/series/mort-a-36-ans-de-hayden-panettiere-eternelle-cheerleader-de-la-serie-heroes-20260817_OGBUR5A4AZCDHJWNQIFJZAJDY4/",
-          "source": "Liberation",
-          "summary": "L’actrice américaine, également connue pour «Nashville» et quelques «Scream», a perdu la vie ce week-end, dans des circonstances encore inconnues.",
-          "published": "2026-08-17T06:13:44+00:00"
+          "summary": "L’éditeur de 66 ans, limogé en avril de chez Grasset, maison du groupe Louis Hachette détenue par Vincent Bolloré, bénéficiera du soutien du groupe Editis.",
+          "published": "2026-08-17T09:05:35+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Google laisse retirer le filigrane des images générées par Gemini, mais garde une trace invisible",
-          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3213277_google-laisse-retirer-le-filigrane-des-images-generees-par-gemini-mais-garde-une-trace-invisible",
+          "title": "Voici 8 astuces macOS indispensables pour travailler plus vite et mieux utiliser votre Mac",
+          "link": "https://www.frandroid.com/video/3213571_voici-8-astuces-macos-indispensables-pour-travailler-plus-vite-et-mieux-utiliser-votre-mac",
           "source": "Frandroid",
-          "summary": "Google rend optionnel le filigrane visible qui marquait les images, vidéos et sons créés par Gemini. Le logo visible peut disparaître, mais le marquage invisible qui identifie l'IA reste gravé dans le fichier.",
-          "published": "2026-08-17T06:46:33+00:00"
+          "summary": "La système d'exploitation macOS regorge de fonctions cachées pour gagner en productivité au quotidien. Découvrez notre sélection d'astuces indispensables pour configurer et maîtriser votre machine comme un pro.",
+          "published": "2026-08-17T09:31:18+00:00"
         },
         {
-          "title": "Avec ChatGPT Computer History, OpenAI présente sa version de Windows Recall sur Mac",
-          "link": "https://www.clubic.com/actualite-625510-avec-chatgpt-computer-history-openai-presente-sa-version-de-windows-recall-sur-mac.htmlt",
+          "title": "Semi-conducteurs : 44 ans après, AMD pourrait devenir le client d'Intel",
+          "link": "https://www.clubic.com/actualite-625564-semi-conducteurs-44-ans-apres-amd-pourrait-devenir-le-client-d-intel.html",
           "source": "Clubic",
-          "summary": "OpenAI a commencé à déployer une fonction baptisée \"Computer History\" dans l'application ChatGPT pour macOS. Celle-ci construit une mémoire de l'activité de l'utilisateur à partir de ses clics, de sa frappe clavier et…",
-          "published": "2026-08-17T06:43:00+00:00"
+          "summary": "Selon le groupe bancaire suisse UBS, AMD pourrait adopter l'encapsulation EMIB-T d'Intel Foundry. Une alliance industrielle qui offrirait un savoureux retournement dans l'histoire des deux rivaux.",
+          "published": "2026-08-17T09:31:00+00:00"
         },
         {
-          "title": "ChatGPT ne pourra pas enregistrer le contenu de votre ordinateur et c’est probablement mieux comme ça",
-          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3213283_chatgpt-ne-pourra-pas-enregistrer-le-contenu-de-votre-ordinateur-et-cest-probablement-mieux-comme-ca",
+          "title": "JBL : voici à quoi pourraient ressembler ses prochaines enceintes stars",
+          "link": "https://www.frandroid.com/produits-android/audio/enceinte-bluetooth/3213541_on-a-peut-etre-decouvert-le-design-des-prochaines-enceintes-nomades-de-jbl-a-trois-semaines-de-lifa",
           "source": "Frandroid",
-          "summary": "Aux États-Unis, OpenAI a présenté la dernière fonctionnalité de son application Mac&nbsp;: Computer History. Cette dernière permet à l’IA conversationnelle d’enregistrer toute votre activité pour vous aider à vous…",
-          "published": "2026-08-17T06:21:15+00:00"
+          "summary": "Deux dessins déposés par Harman viennent d'être publiés au registre vietnamien des dessins et modèles, relayé par la base mondiale de l'OMPI. Aucun des deux ne correspond à un produit du catalogue actuel de JBL .",
+          "published": "2026-08-17T09:30:50+00:00"
         },
         {
-          "title": "Garmin Forerunner 165 : cette montre GPS running avec écran AMOLED chute à 111 € seulement",
-          "link": "https://www.frandroid.com/bons-plans/3212723_garmin-forerunner-165-cette-montre-gps-running-avec-ecran-amoled-chute-a-111-e-seulement",
+          "title": "125% plus chère : Valve fait tout pour que vous n’achetiez plus de batterie pour le Steam Deck LCD",
+          "link": "https://www.frandroid.com/marques/valve/3213313_125-plus-chere-valve-fait-tout-pour-que-vous-nachetiez-plus-de-batterie-pour-le-steam-deck-lcd",
           "source": "Frandroid",
-          "summary": "La Garmin Forerunner 165 est une montre GPS orientée running considérée comme un milieu de gamme pour la marque, avec tout de même un écran AMOLED, qui se retrouve à 111,11 euros sur AliExpress, au lieu de 279 euros.",
-          "published": "2026-08-17T06:19:00+00:00"
+          "summary": "À défaut d'être toujours en rupture de stock, les batteries de rechange vouées au Steam Deck LCD voient une nouvelle fois leur prix flamber. Fournies par Valve à la plateforme iFixit, pourvoyeur officiel des pièces…",
+          "published": "2026-08-17T09:30:35+00:00"
         },
         {
-          "title": "Piratage des impôts : Sébastien Lecornu réunit une cellule de crise après le vol des données de 678 000 contribuables",
-          "link": "https://www.frandroid.com/culture-tech/politique/3213273_piratage-des-impots-sebastien-lecornu-reunit-une-cellule-de-crise-apres-le-vol-des-donnees-de-678-000-contribuables",
+          "title": "Piratage des impôts : êtes-vous parmi les 678 000 personnes touchées ? Voici ce qu’il faut faire",
+          "link": "https://www.clubic.com/actualite-625570-piratage-des-impots-etes-vous-parmi-les-678-000-personnes-touchees-voici-ce-qu-il-faut-faire.html",
+          "source": "Clubic",
+          "summary": "Après la cyberattaque ayant visé le système d’information de la Direction générale des Finances publiques, 678 000 particuliers et professionnels sont désormais concernés par un vol de données. La DGFiP doit commencer à…",
+          "published": "2026-08-17T09:30:00+00:00"
+        },
+        {
+          "title": "BYD casse les prix face à la Model 3, mais prend un gros risque en interne avec la Qin Max",
+          "link": "https://www.frandroid.com/marques/byd/3213415_byd-casse-les-prix-face-a-la-model-3-mais-prend-un-gros-risque-en-interne-avec-la-qin-max",
           "source": "Frandroid",
-          "summary": "Les données fiscales de 678&nbsp;000 contribuables ont été volées à l'administration. Sébastien Lecornu réunit une cellule de crise ce lundi, au moment même où les premiers e-mails d'alerte partent vers les victimes.",
-          "published": "2026-08-17T06:18:34+00:00"
+          "summary": "Quelques jours seulement après sa Seal 06, le constructeur chinois BYD lève le voile sur une autre berline électrique. Il s’agit de la Qin Max, qui cannibaliserait presque sa cousine. Encore une voiture électrique aussi…",
+          "published": "2026-08-17T09:24:42+00:00"
         },
         {
-          "title": "Cet héritier de The Witcher 3 s’est aussi inspiré de Guitar Hero",
-          "link": "https://www.numerama.com/pop-culture/2312331-cet-heritier-de-the-witcher-3-sest-aussi-inspire-de-guitar-hero.html",
+          "title": "On a pris en main les Google Pixel 11 : de l’IA et de subtiles retouches de design (vidéo)",
+          "link": "https://www.frandroid.com/marques/google/3213567_on-a-pris-en-main-les-google-pixel-11-de-lia-et-de-subtiles-retouches-de-design-video",
+          "source": "Frandroid",
+          "summary": "Google revient sur le devant de la scène avec sa nouvelle gamme de smartphones Pixel. Pas de bouleversement majeur cette année, mais de petits ajustements esthétiques et une bonne dose d'intelligence artificielle qui…",
+          "published": "2026-08-17T09:22:59+00:00"
+        },
+        {
+          "title": "Acer Swift Air 14 : le rival du MacBook Neo est là, déjà 100 euros moins cher",
+          "link": "https://www.frandroid.com/marques/acer/3213421_acer-swift-air-14-le-rival-du-macbook-neo-est-la-deja-100-euros-moins-cher",
+          "source": "Frandroid",
+          "summary": "Acer commercialise en France le Swift Air 14, un ultraportable Windows pensé pour contrer le MacBook Neo d'Apple. Affiché 100 euros plus cher sur le papier, il coûte pourtant 100 euros de moins que le Mac chez Boulanger.",
+          "published": "2026-08-17T09:15:03+00:00"
+        },
+        {
+          "title": "Malgré la sortie des Buds 4 Pro, les Samsung Galaxy Buds 3 Pro valent toujours le coup, surtout quand ils chutent sous les 84 €",
+          "link": "https://www.frandroid.com/bons-plans/3213363_malgre-la-sortie-des-buds-4-pro-les-samsung-galaxy-buds-3-pro-valent-toujours-le-coup-surtout-quand-ils-chutent-sous-les-84-e",
+          "source": "Frandroid",
+          "summary": "Oui, les excellents Samsung Galaxy Buds 4 Pro ont récemment remplacé les Buds 3 Pro. Mais ces derniers, notés 9/10, restent toujours aussi pertinents aujourd'hui. Et la bonne nouvelle, c'est qu'ils sont actuellement…",
+          "published": "2026-08-17T09:03:19+00:00"
+        },
+        {
+          "title": "Ventes Flash : Amazon brade ses produits pour la rentrée (jusqu'à -50%)",
+          "link": "https://www.clubic.com/bons-plans-625549-ventes-flash-amazon-brade-ses-produits-pour-la-rentree-jusqu-a--50.html",
+          "source": "Clubic",
+          "summary": "C'est la rentrée, et Amazon sort de sa réserve avec une sélection inhabituelle en dehors de toute période de soldes. Voici 10 offres du jour à saisir sur les Fire TV Stick, les produits Ring et Blink, avec des remises…",
+          "published": "2026-08-17T09:03:00+00:00"
+        },
+        {
+          "title": "Faillite du n°1 du vélo en Europe : qui est le potentiel racheteur qui se dit intéressé pour reprendre tout le groupe ?",
+          "link": "https://www.frandroid.com/survoltes/3213489_faillite-du-n1-du-velo-en-europe-qui-est-le-potentiel-racheteur-qui-se-dit-interesse-pour-reprendre-tout-le-groupe",
+          "source": "Frandroid",
+          "summary": "Accell Group, n°1 européen du vélo, vient d'être placé en faillite. Un fonds d'investissement irlandais, Quanta Capital, se dit prêt à racheter l'ensemble du groupe, sans avoir encore déposé d'offre ferme. Frandroid…",
+          "published": "2026-08-17T09:01:29+00:00"
+        },
+        {
+          "title": "On reparle encore et encore d’un retour de Jack Sparrow dans Pirates des Caraïbes",
+          "link": "https://www.numerama.com/pop-culture/2312353-on-reparle-encore-et-encore-dun-retour-de-jack-sparrow-dans-pirates-des-caraibes.html",
           "source": "Numerama",
-          "summary": "Les combats de The Blood of Dawnwalker, RPG attendu pour début septembre, sont inspirés de Guitar Hero, a révélé le directeur du jeu. Vous allez comprendre pourquoi.",
-          "published": "2026-08-17T06:05:12+00:00"
-        },
-        {
-          "title": "Un adulte se fait passer pour une enfant sur Xooloo, la messagerie destinée aux enfants",
-          "link": "https://www.clubic.com/actualite-625504-un-adulte-se-fait-passer-pour-une-enfant-sur-xooloo-la-messagerie-destinee-aux-enfants.html",
-          "source": "Clubic",
-          "summary": "Une mère de famille de la Loire a porté plainte en février après avoir découvert qu’un homme adulte aurait usurpé l’identité d’une fillette de 10 ans sur Xooloo, une messagerie sécurisée pour les enfants. L’homme,…",
-          "published": "2026-08-17T06:05:00+00:00"
-        },
-        {
-          "title": "Amazon frappe fort en cette mi-août avec 15 ventes Flash à ne pas rater",
-          "link": "https://www.clubic.com/bons-plans-625405-ventes-flash-amazon-lance-15-promos-ephemeres-en-cette-mi-aout.html",
-          "source": "Clubic",
-          "summary": "La mi-août est une période calme pour le commerce, et c’est justement là que les prix du high-tech se relâchent, entre fin des vacances et préparation de la rentrée. Amazon aligne 15 ventes flash sur des téléviseurs,…",
-          "published": "2026-08-17T06:00:00+00:00"
-        },
-        {
-          "title": "Qualcomm détaille sa puce Snapdragon C pour PC Windows à 300 dollars",
-          "link": "https://next.ink/251835/qualcomm-detaille-sa-puce-snapdragon-c-pour-pc-windows-a-300-dollars/",
-          "source": "Next",
-          "summary": "Les premiers PC «&#160;à 300&#160;dollars » équipés de la puce Snapdragon C sortiront dans les prochains mois. Des ordinateurs auxquels il ne faudra pas demander la Lune compte tenu de leur prix. Qualcomm promet…",
-          "published": "2026-08-17T05:54:18+00:00"
-        },
-        {
-          "title": "Quel aspirateur robot pas cher choisir en 2026 ? Notre sélection",
-          "link": "https://www.frandroid.com/guide-dachat/2767881_les-meilleurs-aspirateurs-robots-pas-chers-notre-selection",
-          "source": "Frandroid",
-          "summary": "Un petit aspirateur robot vous ferait de l'œil, mais vous n'avez pas envie de dépenser des mille et des cents dans ce type d'appareil ? Bienvenue sur notre comparatif des meilleurs aspirateurs robots pas chers à acheter…",
-          "published": "2026-08-17T05:46:06+00:00"
-        },
-        {
-          "title": "ExpressVPN lance ExpressAI, un assistant IA qui supprime vos conversations après chaque réponse",
-          "link": "https://www.clubic.com/actualite-623971-expressvpn-lance-expressai-un-assistant-ia-qui-supprime-vos-conversations-apres-chaque-reponse.html",
-          "source": "Clubic",
-          "summary": "Chaque échange avec une IA peut laisser des traces : historique stocké, données exploitées et risques de fuites. Pour répondre à ces enjeux, ExpressAI mise sur le chiffrement et la confidentialité afin de se démarquer.",
-          "published": "2026-08-17T05:30:00+00:00"
-        },
-        {
-          "title": "App Lock : Android va enfin vous permettre de bloquer l’accès à certaines applications",
-          "link": "https://www.frandroid.com/marques/google/3213263_app-lock-android-va-enfin-vous-permettre-de-bloquer-lacces-a-certaines-applications",
-          "source": "Frandroid",
-          "summary": "S’il vous arrive de prêter votre téléphone à des yeux un peu trop indiscrets, sachez que Google va bientôt proposer une fonctionnalité permettant d’exiger un code ou une empreinte biométrique au moment de l’ouverture…",
-          "published": "2026-08-17T05:29:54+00:00"
+          "summary": "Grand producteur d'Hollywood, Jerry Bruckheimer s'est exprimé sur le sixième film Pirates des Caraïbes à l'occasion de la D23 de Disney. Le grand retour de Jack Sparrow se précise.",
+          "published": "2026-08-17T09:00:00+00:00"
         }
       ]
     }
