@@ -1,15 +1,43 @@
 {
-  "generated_at": "2026-08-16T21:18:10.285166+00:00",
+  "generated_at": "2026-08-17T01:10:11.319763+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un",
+          "link": "https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon le président américain, ces exercices, qui ont commencé lundi, sont « coûteux » et « envoient un signal totalement inapproprié et hostile » envers Pyongyang. Séoul a annoncé que ces manœuvres avec les Etats-Unis…",
+          "published": "2026-08-16T23:14:58+00:00"
+        },
+        {
+          "title": "Donald Trump va réduire \"considérablement\" les exercices militaires conjoints avec la Corée du Sud",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260816-donald-trump-va-reduire-considerablement-exercices-militaires-avec-coree-du-sud-etats-unis-coree-nord-kim-jong-un",
+          "source": "France 24",
+          "summary": "Le président américain a déclaré, dimanche via son réseau Truth Social, avoir demandé de réduire de manière significative les exercices militaires conjoints avec la Corée du Sud devant débuter lundi. Des exercices…",
+          "published": "2026-08-16T22:54:38+00:00"
+        },
+        {
+          "title": "Le ministre de la communication tchadien nous répond sur France 24",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260816-le-ministre-de-la-communication-tchadien-nous-r%C3%A9pond-sur-france-24",
+          "source": "France 24",
+          "summary": "Se dirige t-on vers un apaisement du climat politique au Tchad ? Une question légitime après la grâce accordée vendredi à 9 opposants par le président Déby. Le ministre de la communication tchadien Gassim Chérif est…",
+          "published": "2026-08-16T21:25:39+00:00"
+        },
+        {
           "title": "Football : le Racing ⁠Club de ​Lens remporte le Trophée des champions face au PSG",
           "link": "https://www.france24.com/fr/sports/20260816-football-le-racing-club-de-lens-remporte-le-troph%C3%A9e-des-champions-face-au-psg",
           "source": "France 24",
-          "summary": "Le Racing ⁠Club de ​Lens, pourtant réduit à dix, a remporté dimanche le Trophée des champions face au Paris Saint-Germain. Les doubles-champions d'Europe ont perdu 1 à 0 au stade de Bollaert-Delelis, à Lens.",
+          "summary": "Le Racing ⁠Club de ​Lens, pourtant réduit à dix, s'est offert dimanche son premier Trophée des champions en battant le Paris Saint-Germain (1 à 0). Vainqueurs ‌de la Coupe de France, les hommes ⁠de Dino Toppmöller ont…",
           "published": "2026-08-16T21:10:17+00:00"
+        },
+        {
+          "title": "Athlétisme : le perchiste Armand Duplantis à nouveau champion d’Europe, Baptiste Thiery en bronze",
+          "link": "https://www.france24.com/fr/sports/20260816-athl%C3%A9tisme-le-perchiste-armand-duplantis-%C3%A0-nouveau-champion-d-europe-baptiste-thiery-en-bronze",
+          "source": "France 24",
+          "summary": "Double champion olympique, Armand Duplantis a remporté son quatrième titre consécutif de champion d’Europe dimanche soir à Birmingham. Le perchiste suédois a assuré le titre en étant le seul à franchir 6,15 m, devançant…",
+          "published": "2026-08-16T21:09:11+00:00"
         },
         {
           "title": "🔴 CAN 2026 féminine : le Cameroun remporte la finale contre le Malawi",
@@ -45,34 +73,6 @@
           "source": "Le Monde",
           "summary": "Le Hamas a donné son accord fin juillet à une feuille de route américaine, censée lancer la deuxième étape du plan présenté par le président américain, prévoyant le désarmement du mouvement islamiste et le retrait…",
           "published": "2026-08-16T18:21:08+00:00"
-        },
-        {
-          "title": "Léon Marchand, champion d’Europe sur 400 mètres nage libre, nouvelle médaille d'or pour la France",
-          "link": "https://www.france24.com/fr/sports/20260816-l%C3%A9on-marchand-champion-europe-sur-400-m%C3%A8tres-nage-libre-nouvelle-m%C3%A9daille-or-pour-%C3%A9quipe-de-france-natation",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-08-16T17:58:01+00:00"
-        },
-        {
-          "title": "Hongrie : les images de l’accident de car qui a fait 12 morts et 10 blessés",
-          "link": "https://www.lemonde.fr/international/video/2026/08/16/hongrie-les-images-de-l-accident-de-car-qui-a-fait-au-moins-12-morts-et-10-blesses_6747648_3210.html",
-          "source": "Le Monde",
-          "summary": "Ce car, qui transportait 57 passagers et deux conducteurs, se dirigeait vers Mezokeresztes, à environ 140 kilomètres à l’est de Budapest, selon la police du comitat de Borsod-Abauj-Zemplen.",
-          "published": "2026-08-16T16:30:11+00:00"
-        },
-        {
-          "title": "Sénégal : les régates de pirogues, une tradition vieille de deux siècles à Saint-Louis",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9n%C3%A9gal-les-r%C3%A9gates-de-pirogues-une-tradition-vieille-de-deux-si%C3%A8cles-%C3%A0-saint-louis",
-          "source": "France 24",
-          "summary": "À Saint-Louis, au Sénégal, les traditionnelles régates de pirogues perpétuent une tradition vieille de près de deux siècles. Dans le quartier de pêcheurs de Guet Ndar, cette course de 3,5 km rassemble chaque année…",
-          "published": "2026-08-16T16:03:10+00:00"
-        },
-        {
-          "title": "Tchad : l'opposant Succès Masra s’exprime après sa libération",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-tchad-l-opposant-succ%C3%A8s-masra-s-exprime-apr%C3%A8s-sa-lib%C3%A9ration",
-          "source": "France 24",
-          "summary": "L’opposant tchadien et ancien Premier ministre Succès Masra, fondateur du parti Les Transformateurs et candidat face au président Mahamat Idriss Déby à la présidentielle de 2024, avait été condamné à 20 ans de prison en…",
-          "published": "2026-08-16T16:00:42+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Hochelaga | Des dessins éphémères sur la rue Ontario",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-16/hochelaga/des-dessins-ephemeres-sur-la-rue-ontario.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Gatineau | Un motocycliste dans un état critique après une embardée sur l’A-50",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-16/gatineau/un-motocycliste-dans-un-etat-critique-apres-une-embardee-sur-l-a-50.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un motocycliste âgé d’une trentaine d’années se trouvait dans un état critique, dimanche soir, après avoir fait une embardée sur l’autoroute 50, à Gatineau, en Outaouais.",
+          "published": "2026-08-17T00:06:41+00:00"
+        },
+        {
+          "title": "Adam Driver incarnera Mister Sinistre dans le prochain «X-Men»",
+          "link": "https://www.ledevoir.com/culture/cinema/1002146/adam-driver-incarnera-mister-sinistre-prochain-x-men",
+          "source": "Le Devoir",
+          "summary": "Inde Navarrette, connue pour son rôle dans le film «Obsession», jouera pour sa part le rôle de Rogue.",
+          "published": "2026-08-17T00:00:00+00:00"
+        },
+        {
+          "title": "Parti démocrate | Alexandria Ocasio-Cortez prend ses distances avec le « wokisme »",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-16/parti-democrate/alexandria-ocasio-cortez-prend-ses-distances-avec-le-wokisme.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Figure de la gauche américaine, Alexandria Ocasio-Cortez partage désormais au moins une opinion avec Donald Trump, Ron DeSantis et d’autres ténors de la droite : le wokisme a dépassé les bornes.",
+          "published": "2026-08-16T23:45:00+00:00"
+        },
+        {
+          "title": "L’ouragan Lala provoque d’importantes coupures d’électricité",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1002143/tempete-lala-provoque-importantes-coupures-electricite",
+          "source": "Le Devoir",
+          "summary": "Près de 220 000 foyers et commerces ont perdu le courant au cours de la soirée.",
+          "published": "2026-08-16T23:18:00+00:00"
+        },
+        {
+          "title": "Inondez-nous d’espoir…",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-16/inondez-nous-d-espoir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Cet été plus que jamais, on a l’impression que tout va mal quand on regarde les forêts flamber dans l’ouest du pays, quand on voit l’Europe suffoquer et brûler à son tour, quand on voit des sandales de migrants flotter…",
+          "published": "2026-08-16T23:00:00+00:00"
+        },
+        {
+          "title": "Le Nord du Canada fait face à une importante pénurie de logements",
+          "link": "https://www.ledevoir.com/actualites/societe/1002140/nord-canada-fait-face-importante-penurie-logements",
+          "source": "Le Devoir",
+          "summary": "Le nombre de mises en chantier par habitant est inférieur à celui du reste du pays.",
+          "published": "2026-08-16T22:28:42+00:00"
+        },
+        {
+          "title": "Nouvelle réglementation fédérale | Le recyclage des vieux poteaux de téléphone en péril",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-16/nouvelle-reglementation-federale/le-recyclage-des-vieux-poteaux-de-telephone-en-peril.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Ottawa veut rendre obligatoire d’incinérer ou d’enfouir les poteaux en fin de vie traités au PCP, un pesticide. En Estrie, la seule entreprise du pays qui les recycle risque la fermeture.",
+          "published": "2026-08-16T22:00:00+00:00"
+        },
+        {
+          "title": "Dix-neuf morts dans des frappes en Russie et en Ukraine",
+          "link": "https://www.ledevoir.com/monde/europe/1002137/dix-neuf-morts-frappes-russie-ukraine",
+          "source": "Le Devoir",
+          "summary": "Depuis des mois, les deux pays font monter en puissance leurs frappes à longue portée.",
+          "published": "2026-08-16T21:53:00+00:00"
+        },
+        {
+          "title": "Hochelaga-Maisonneuve | Des dessins éphémères dans la rue Ontario",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-16/hochelaga-maisonneuve/des-dessins-ephemeres-dans-la-rue-ontario.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Profitant de sa piétonnisation estivale, petits et grands se sont attelés à réaliser des dessins à la craie sur un tronçon de la rue Ontario pendant toute la fin de semaine, dans une ambiance festive et conviviale.",
           "published": "2026-08-16T21:11:20+00:00"
         },
         {
-          "title": "Quoi retenir de la fin de semaine?",
-          "link": "https://www.ledevoir.com/actualites/1002095/quoi-retenir-fin-semaine",
+          "title": "Félix Auger-Aliassime réussit sa rentrée à Cincinnati",
+          "link": "https://www.ledevoir.com/sports/1002098/felix-auger-aliassime-reussit-rentree-cincinnati",
           "source": "Le Devoir",
-          "summary": "L’actualité du week-end des 15 et 16 août en résumé.",
-          "published": "2026-08-16T20:30:00+00:00"
-        },
-        {
-          "title": "Après leur congrès, les jeunes libéraux prêts pour la campagne électorale",
-          "link": "https://www.ledevoir.com/politique/quebec/1002092/apres-congres-jeunes-liberaux-prets-campagne-electorale",
-          "source": "Le Devoir",
-          "summary": "Samedi et dimanche, les jeunes militants du PLQ ont été formés sur différents mécanismes de la campagne électorale.",
-          "published": "2026-08-16T19:04:07+00:00"
-        },
-        {
-          "title": "Tournoi de Cincinnati | Auger-Aliassime réussit sa rentrée",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-16/tournoi-de-cincinnati/auger-aliassime-reussit-sa-rentree.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Félix Auger-Aliassime a obtenu sa première victoire depuis le 5 juillet dernier, dimanche, au deuxième tour de l’Omnium de Cincinnati.",
-          "published": "2026-08-16T19:01:54+00:00"
-        },
-        {
-          "title": "Prévention des féminicides | Toute personne peut agir",
-          "link": "https://www.lapresse.ca/actualites/2026-08-16/prevention-des-feminicides/toute-personne-peut-agir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Au lendemain d’un énième présumé féminicide dans lequel une Québécoise aurait été tuée par un homme, les organismes d’intervention auprès des victimes de violences conjugales rappellent que toute personne – proche ou…",
-          "published": "2026-08-16T19:01:22+00:00"
-        },
-        {
-          "title": "Nouveaux droits de douane | LeBlanc doit discuter dimanche avec le représentant américain",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-08-16/nouveaux-droits-de-douane/leblanc-doit-discuter-dimanche-avec-le-representant-americain.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le ministre responsable du Commerce Canada–États-Unis, Dominic LeBlanc, et le représentant américain au Commerce, Jamieson Greer, doivent se rencontrer dimanche après-midi alors que la menace de droits de douane plane…",
-          "published": "2026-08-16T18:33:40+00:00"
-        },
-        {
-          "title": "Via Rail construira une gare multimodale à Dorval pour faciliter l'accès à l'aéroport Montréal-Trudeau",
-          "link": "https://www.journaldemontreal.com/2026/08/16/via-rail-construira-une-gare-multimodale-a-dorval-pour-faciliter-lacces-a-laeroport-montreal-trudeau",
-          "source": "Journal de Montreal",
-          "summary": "Via Rail Canada construira une gare multimodale à Dorval, où les voyageurs pourront emprunter de nombreuses options de transport en commun.",
-          "published": "2026-08-16T17:46:30+00:00"
-        },
-        {
-          "title": "Jared Kushner a rencontré une délégation du Hamas en Égypte, avant une visite en Israël",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1002086/emissaire-americain-jared-kushner-doit-rencontrer-hamas-egypte",
-          "source": "Le Devoir",
-          "summary": "Cette rencontre survient au moment où les États-Unis cherchent à faire avancer le plan de paix à Gaza.",
-          "published": "2026-08-16T17:15:00+00:00"
-        },
-        {
-          "title": "Un ministre israélien préconise de tuer de «30 à 40» personnes à Gaza chaque nuit",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1002077/ministre-israelien-preconise-tuer-30-40-personnes-gaza-chaque-nuit",
-          "source": "Le Devoir",
-          "summary": "Le ministre de la Sécurité nationale a tenu ces propos lors d’un entretien avec un ancien otage détenu à Gaza.",
-          "published": "2026-08-16T16:37:00+00:00"
-        },
-        {
-          "title": "Féminicide dans Saint-Michel: voici ce que l’on sait",
-          "link": "https://www.journaldemontreal.com/2026/08/16/femme-tuee-dans-saint-michel-voici-ce-que-lon-sait",
-          "source": "Journal de Montreal",
-          "summary": "Un homme de 51 ans est soupçonné d’avoir tué une femme dans l’arrondissement de Villeray–Saint-Michel–Parc-Extension, samedi après-midi.",
-          "published": "2026-08-16T16:20:07+00:00"
+          "summary": "Le Québécois décroche sa première victoire depuis le 5 juillet, après son récent retrait de l’Omnium Banque Nationale.",
+          "published": "2026-08-16T20:40:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Longtemps en infériorité numérique, le RC Lens résiste au PSG et remporte le premier Trophée des champions de son histoire",
-          "link": "https://www.franceinfo.fr/sports/foot/le-rc-lens-resiste-au-psg-et-remporte-le-premier-trophee-des-champions-de-son-histoire_8150309.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Réalistes puis solides, les Artésiens ont pris le meilleur sur les doubles champions d'Europe en titre, dimanche dans leur stade Bollaert-Delelis.",
-          "published": "2026-08-16T21:07:03+00:00"
-        },
-        {
-          "title": "Lens-PSG : «Vous avez le don de tuer un match», le coup de gueule du directeur sportif lensois contre les arbitres",
-          "link": "https://www.lefigaro.fr/sports/football/lens-psg-vous-avez-le-don-de-tuer-un-match-le-coup-de-gueule-du-directeur-sportif-lensois-contre-les-arbitres-20260816",
+          "title": "Séoul affirme que les exercices militaires avec les États-Unis «se dérouleront comme prévu»",
+          "link": "https://www.lefigaro.fr/international/seoul-affirme-que-les-exercices-militaires-avec-les-etats-unis-se-derouleront-comme-prevu-20260817",
           "source": "Le Figaro",
-          "summary": "Après le carton rouge reçu en première période par son joueur Kyllian Antonio, Jean-Louis Leca a exprimé son désaccord avec le corps arbitral dans les couloirs du stade Bollaert.",
-          "published": "2026-08-16T21:01:44+00:00"
-        },
-        {
-          "title": "Baptiste Thiery se pare de bronze à la perche derrière l'intouchable Armand Duplantis, la France termine les championnats d'Europe avec 11 médailles",
-          "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/baptiste-thiery-se-pare-de-bronze-a-la-perche-derriere-l-intouchable-armand-duplantis-la-france-termine-les-championnats-d-europe-avec-11-medailles_8150324.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le Français de 25 ans a effacé une barre à 5m85 au premier essai, dimanche, à Birmingham.",
-          "published": "2026-08-16T20:55:25+00:00"
-        },
-        {
-          "title": "Championnats d’Europe d'athlétisme : nouvelle médaille pour la France après le bronze d’Hilary Kpatcha à la longueur",
-          "link": "https://www.lefigaro.fr/sports/athletisme/championnats-d-europe-d-athletisme-nouvelle-medaille-pour-la-france-apres-le-bronze-d-hilary-kpatcha-a-la-longueur-20260816",
-          "source": "Le Figaro",
-          "summary": "La Tricolore Hilary Kpatcha s’est offert le bronze en saut en longueur ce dimanche à Birmingham, la dixième médaillede la délégation française.",
-          "published": "2026-08-16T20:51:53+00:00"
+          "summary": "Donald Trump a annoncé dimanche «réduire considérablement» la participation des États-Unis à des exercices militaires conjoints avec son allié historique sud-coréen.",
+          "published": "2026-08-16T23:24:40+00:00"
         },
         {
           "title": "Trophée des champions : longtemps à 10 contre 11, Lens crée l’exploit face au PSG",
           "link": "https://www.lefigaro.fr/sports/football/trophee-des-champions-lens-fait-tomber-le-psg-et-remporte-le-premier-trophee-de-la-saison-20260816",
           "source": "Le Figaro",
           "summary": "Les Sang et Or ont disposé du Paris-SG ce dimanche, à Bollaert, pour le gain du Trophée des champions.",
-          "published": "2026-08-16T20:50:03+00:00"
+          "published": "2026-08-16T23:19:48+00:00"
         },
         {
-          "title": "Mayotte : un migrant meurt dans le naufrage d’un «kwassa-kwassa»",
-          "link": "https://www.lefigaro.fr/faits-divers/mayotte-un-migrant-meurt-dans-le-naufrage-d-un-kwassa-kwassa-20260816",
-          "source": "Le Figaro",
-          "summary": "L’embarcation transportant onze Comoriens a chaviré dimanche après une tentative d’arraisonnement par les gardes-côtes comoriens, selon une source policière.",
-          "published": "2026-08-16T20:49:09+00:00"
-        },
-        {
-          "title": "Syrie : sept personnes arrêtées après la mort d’un jeune homme détenu dans un commissariat",
-          "link": "https://www.lefigaro.fr/international/syrie-sept-personnes-arretees-apres-la-mort-d-un-jeune-homme-detenu-dans-un-commissariat-20260816",
-          "source": "Le Figaro",
-          "summary": "Mohammed Ghumeira, un employé de l’État âgé d’une vingtaine d’années et atteint d’hémophilie, est mort de complications liées à ses blessures après avoir été détenu dans un commissariat de la province de Lattaquié. Les…",
-          "published": "2026-08-16T20:47:39+00:00"
-        },
-        {
-          "title": "Hilary Kpatcha s'offre le bronze au saut en longueur, 10e médaille pour la France aux championnats d'Europe d'athlétisme",
-          "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/hilary-kpatcha-s-offre-le-bronze-au-saut-en-longueur-10e-medaille-pour-la-france-aux-championnats-d-europe-d-athletisme_8150315.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Grâce à un saut à 6m98, l'athlète de 27 ans a pris la 3e place d'un concours dominé par l'Italienne Larissa Iapichino (7m00), dimanche, à Birmingham.",
-          "published": "2026-08-16T20:34:20+00:00"
-        },
-        {
-          "title": "Championnats d’Europe de natation : Léon Marchand transforme tout en or",
-          "link": "https://www.lefigaro.fr/sports/autres-sports/championnats-d-europe-de-natation-leon-marchand-transforme-tout-en-or-20260816",
-          "source": "Le Figaro",
-          "summary": "RÉCIT - En décrochant ce week-end ses deux premiers titres européens, le quadruple champion olympique a (une fois de plus) ébloui le monde.",
-          "published": "2026-08-16T19:53:23+00:00"
-        },
-        {
-          "title": "Appels à une enquête sur le « harcèlement » de Jason Arday, ancien professeur de Cambridge, retrouvé mort vendredi",
-          "link": "https://www.lemonde.fr/international/article/2026/08/16/appels-a-une-enquete-sur-le-harcelement-de-jason-arday-ancien-professeur-de-cambridge-retrouve-mort-vendredi_6747788_3210.html",
+          "title": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un",
+          "link": "https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html",
           "source": "Le Monde",
-          "summary": "Le groupe militant « Good Law Project » soutenait le plus jeune professeur noir de Cambridge depuis qu’il avait démissionné, début août, de l’université et de son poste de membre du Jesus College, après que ces deux…",
-          "published": "2026-08-16T19:47:11+00:00"
+          "summary": "Selon le président américain, ces exercices, qui ont commencé lundi, sont « coûteux » et « envoient un signal totalement inapproprié et hostile » envers Pyongyang. Séoul a annoncé que ces manœuvres avec les Etats-Unis…",
+          "published": "2026-08-16T23:14:58+00:00"
+        },
+        {
+          "title": "Lens-PSG : «Je suis content de ce que j’ai vu, pas du résultat», peste Luis Enrique",
+          "link": "https://www.lefigaro.fr/sports/football/lens-psg-je-suis-content-de-ce-que-j-ai-vu-pas-du-resultat-peste-luis-enrique-20260816",
+          "source": "Le Figaro",
+          "summary": "Le coach parisien a fait le point après le revers de son équipe contre Lens (1-0) dimanche, à Bollaert, lors du Trophée des champions.",
+          "published": "2026-08-16T23:13:41+00:00"
+        },
+        {
+          "title": "Lens-PSG : «On a joué avec le cœur», savoure Dino Toppmöller",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/lens-psg-on-a-joue-avec-le-coeur-savoure-dino-toppmoeller-20260817",
+          "source": "Le Figaro",
+          "summary": "Le technicien allemand a fait part de sa joie après la victoire de ses joueurs sur le PSG dimanche, à Bollaert, pour le gain du premier Trophée des champions de l’histoire lensoise.",
+          "published": "2026-08-16T23:11:25+00:00"
+        },
+        {
+          "title": "Orages : la foudre s'abat sur le clocher d'une église dans l’Aveyron, provoquant un incendie",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-la-foudre-s-abat-sur-le-clocher-d-une-eglise-dans-l-aveyron-provoquant-un-incendie_8150240.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Après la canicule, la moitié sud du pays est sous les orages, dimanche 16 août. Dans l’Aveyron, le clocher d’une église a pris feu dans la nuit, après avoir été touché par la foudre.",
+          "published": "2026-08-16T21:52:14+00:00"
+        },
+        {
+          "title": "Le RC Lens remporte le premier Trophée des champions de son histoire face au PSG",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/16/le-rc-lens-remporte-le-premier-trophee-des-champions-de-son-histoire-face-au-psg_6747855_3242.html",
+          "source": "Le Monde",
+          "summary": "Longtemps réduit à dix, les Sang et Or l’ont emporté contre le PSG (1-0), dimanche, à Lens. Trois mois après la Coupe de France, ils glanent un nouveau titre et privent les Parisiens d’un deuxième trophée après leur…",
+          "published": "2026-08-16T21:45:01+00:00"
+        },
+        {
+          "title": "EN DIRECT - Incendies : le feu dans les Landes «moins intense», des évacués autorisés à rentrer",
+          "link": "https://www.lefigaro.fr/meteo/en-direct-live-incendies-feu-france-europe-meteo-canicule-chaleur-temperatures-20260816",
+          "source": "Le Figaro",
+          "summary": "Depuis jeudi, l’incendie a ravagé quelque 1.700 hectares de pinèdes et provoqué l’évacuation de 650 habitants dans les villages de Luglon et Garein, sans victimes ni dégâts matériels",
+          "published": "2026-08-16T21:37:02+00:00"
+        },
+        {
+          "title": "Les notes de Lens-PSG : Thauvin capitaine exemplaire, Risser infranchissable, Digne rêveur",
+          "link": "https://www.lefigaro.fr/sports/football/les-notes-de-lens-psg-thauvin-capitaine-exemplaire-risser-infranchissable-digne-reveur-20260816",
+          "source": "Le Figaro",
+          "summary": "Qui a brillé, qui s’est raté ? Les notes attribuées aux acteurs du Trophée des champions, disputé dimanche soir, à Bollaert.",
+          "published": "2026-08-16T21:34:26+00:00"
+        },
+        {
+          "title": "Lens-PSG : «Vous avez le don de tuer un match», le coup de gueule du directeur sportif lensois contre les arbitres",
+          "link": "https://www.lefigaro.fr/sports/football/lens-psg-vous-avez-le-don-de-tuer-un-match-le-coup-de-gueule-du-directeur-sportif-lensois-contre-les-arbitres-20260816",
+          "source": "Le Figaro",
+          "summary": "Après le carton rouge reçu en première période par son joueur Kyllian Antonio, Jean-Louis Leca a exprimé son désaccord avec le corps arbitral dans les couloirs du stade Bollaert.",
+          "published": "2026-08-16T21:23:46+00:00"
         }
       ]
     },
