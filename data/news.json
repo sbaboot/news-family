@@ -1,15 +1,50 @@
 {
-  "generated_at": "2026-08-17T18:37:11.515158+00:00",
+  "generated_at": "2026-08-17T21:24:23.872534+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
           "title": "Gaza : Kushner rencontre Netanyahu pour tenter de sortir le plan Trump de l'impasse",
-          "link": "https://www.france24.com/fr/moyen-orient/20260817-gaza-kushner-rencontre-netanyahu-pour-tenter-de-sortir-le-plan-trump-de-l-impasse",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-gaza-kushner-rencontre-netanyahu-pour-tenter-de-sortir-le-plan-trump-de-l-impasse",
           "source": "France 24",
           "summary": "Jared Kushner, émissaire américain et gendre du Donald Trump, a clôturé lundi deux jours de rencontres avec les dirigeants israéliens et ceux du ​Hamas mais aucun signe d'une avancée imminente n'est apparu, les deux…",
-          "published": "2026-08-17T17:48:37+00:00"
+          "published": "2026-08-17T20:01:04+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : les autorités ukrainiennes font état d’attaques russes nocturnes, notamment dans le sud du pays",
+          "link": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-les-autorites-ukrainiennes-font-etat-d-attaques-russes-nocturnes-notamment-dans-le-sud-du-pays_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "Au moins deux personnes ont été tuées à la suite d’une frappe russe sur la ville de Zaporijia, dans le sud de l’Ukraine, a annoncé le chef de l’administration militaire de l’oblast de Zaporijia, Ivan Fedorov.",
+          "published": "2026-08-17T20:00:17+00:00"
+        },
+        {
+          "title": "Au Brésil, Discord suspend les directs sur la plateforme après le suicide d’une adolescente",
+          "link": "https://www.lemonde.fr/pixels/article/2026/08/17/au-bresil-discord-suspend-les-directs-sur-la-plateforme-apres-le-suicide-d-une-adolescente_6748481_4408996.html",
+          "source": "Le Monde",
+          "summary": "L’agence brésilienne de protection des données avait ordonné mercredi la suspension des directs sur le réseau social, à la suite de la mort d’une adolescente qui aurait été incitée au suicide sur cette plateforme.",
+          "published": "2026-08-17T19:30:25+00:00"
+        },
+        {
+          "title": "Piratage du Fisc : Lecornu demande un audit à l'ANSSI, 350 000 particuliers contactés",
+          "link": "https://www.france24.com/fr/france/20260817-piratage-du-fisc-lecornu-demande-un-audit-%C3%A0-l-anssi-350-000-particuliers-contact%C3%A9s",
+          "source": "France 24",
+          "summary": "Sébastien Lecornu a annoncé lundi avoir demandé un audit à l'Agence nationale de la sécurité des systèmes d'information (ANSSI) sur le vol de données ayant affecté la Direction générale des finances publiques (DGFiP).…",
+          "published": "2026-08-17T19:22:14+00:00"
+        },
+        {
+          "title": "Ebola en RDC : l'actuelle épidémie devient la plus meurtrière de l'histoire du pays",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-ebola-en-rdc-l-actuelle-%C3%A9pid%C3%A9mie-devient-la-plus-meurtri%C3%A8re-de-l-histoire-du-pays",
+          "source": "France 24",
+          "summary": "En RDC, l’épidémie d’Ebola a déjà fait plus de 2 300 morts, dépassant le bilan de la crise de 2018-2020, jusque-là la plus meurtrière. Face à l’urgence, les appels se multiplient pour accélérer la mise sur le marché des…",
+          "published": "2026-08-17T18:58:44+00:00"
+        },
+        {
+          "title": "Cette vidéo partagée par l'agence Reuters ne montre pas un nouvel afflux massif de migrants à Ceuta",
+          "link": "https://www.france24.com/fr/afrique/20260817-cette-vid%C3%A9o-partag%C3%A9e-par-l-agence-reuters-ne-montre-pas-un-nouvel-afflux-massif-de-migrants-%C3%A0-ceuta",
+          "source": "France 24",
+          "summary": "Alors qu'un deuxième afflux de migrants à Ceuta avait été anticipé le week-end dernier, une vidéo censée montrer une foule de personnes se rendant dans l'enclave espagnole dans la nuit du 15 août a été partagée sur les…",
+          "published": "2026-08-17T17:52:31+00:00"
         },
         {
           "title": "Incendie en Belgique : le feu dans les Hautes-Fagnes provoque un débat sur l’impréparation du pays au changement climatique",
@@ -33,46 +68,11 @@
           "published": "2026-08-17T17:05:18+00:00"
         },
         {
-          "title": "Gaza : Benyamin Nétanyahou demande qu’un général américain supervise le désarmement du Hamas avant tout retrait israélien",
+          "title": "Gaza : Benyamin Nétanyahou demande qu’un général américain supervise le désarmement du Hamas avant tout retrait israélien",
           "link": "https://www.lemonde.fr/international/article/2026/08/17/gaza-benyamin-netanyahou-demande-qu-un-general-americain-supervise-le-desarmement-du-hamas-avant-tout-retrait-israelien_6748405_3210.html",
           "source": "Le Monde",
-          "summary": "Le premier ministre israélien a rencontré l’émissaire américain Jared Kushner chargé de faire avancer le plan de paix américain. Dimanche, ce dernier était en visite en Egypte, notamment pour rencontrer une délégation…",
+          "summary": "Le premier ministre israélien a rencontré l’émissaire américain Jared Kushner chargé de faire avancer le plan de paix américain. Ce dernier a dit lundi espérer un début du désarmement du Hamas d’ici à « trente jours ».",
           "published": "2026-08-17T16:57:50+00:00"
-        },
-        {
-          "title": "La SAPE à l'honneur à la 6e édition de la DRC Fashion Week à Kinshasa",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-la-sape-%C3%A0-l-honneur-%C3%A0-la-6e-%C3%A9dition-de-la-drc-fashion-week-%C3%A0-kinshasa",
-          "source": "France 24",
-          "summary": "La mode congolaise à l’honneur à Kinshasa avec la 6e édition de la DRC Fashion Week. Jeunes créateurs de RDC et du Congo-Brazza y célèbrent notamment la SAPE, mouvement culturel et vestimentaire emblématique, né au…",
-          "published": "2026-08-17T16:32:53+00:00"
-        },
-        {
-          "title": "Mgr Etienne Guillet, évêque de Saint-Denis, un homme « qui crée de la maille là où il y a des déchirures »",
-          "link": "https://www.lemonde.fr/societe/article/2026/08/17/mgr-etienne-guillet-eveque-de-saint-denis-un-homme-qui-cree-de-la-maille-la-ou-il-y-a-des-dechirures_6748402_3224.html",
-          "source": "Le Monde",
-          "summary": "Dans son diocèse de Seine-Saint-Denis, un département où le catholicisme est minoritaire, le plus jeune évêque de France favorise le rapprochement entre les religions. Il prépare la venue du pape au Stade de France, le…",
-          "published": "2026-08-17T16:30:00+00:00"
-        },
-        {
-          "title": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti antiguerre",
-          "link": "https://www.france24.com/fr/europe/20260817-russie-vague-d-arrestations-lors-d-un-rassemblement-de-soutien-%C3%A0-un-parti-antiguerre",
-          "source": "France 24",
-          "summary": "Des dizaines de personnes ont été arrêtées lundi à Moscou en marge d'un rassemblement de soutien au seul parti antiguerre de Russie, Iabloko, exclu des prochaines législatives. Dans une procédure distincte, le vice…",
-          "published": "2026-08-17T16:04:27+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : la Moldavie annonce qu’un missile russe s’est écrasé sur son sol et accuse Moscou d’envoyer délibérément des drones dans son espace aérien",
-          "link": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-lev-shlossberg-vice-president-du-seul-parti-antiguerre-en-russie-a-ete-condamne-a-onze-ans-de-prison-pour-discredit-de-l-armee_6746952_3210.html",
-          "source": "Le Monde",
-          "summary": "Peu après qu’un missile S-8000 Banderol est entré dans l’espace aérien moldave, la présidente Maia Sandu a déclaré que, si certains drones russes pénétraient accidentellement dans le ciel de son pays, d’autres y étaient…",
-          "published": "2026-08-17T16:03:05+00:00"
-        },
-        {
-          "title": "« C’est le terme “apartheid de genre” qui définirait le mieux ce crime odieux commis contre les Afghanes » : les droits des femmes piétinés par les talibans depuis cinq ans",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/17/c-est-le-terme-apartheid-de-genre-qui-definirait-le-mieux-ce-crime-odieux-commis-contre-les-afghanes-les-droits-des-femmes-pietines-par-les-talibans-depuis-cinq-ans_6748400_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Paroles d’Afghanes » (2/6). De retour au pouvoir le 15 août 2021, les talibans ont démantelé, en seulement quelques jours, les institutions, les lois et les services relatifs aux droits des femmes, et expurgé…",
-          "published": "2026-08-17T16:00:09+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Parc-Extension | Le feu vert pour une nouvelle école devra attendre",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-17/parc-extension/le-feu-vert-pour-une-nouvelle-ecole-devra-attendre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Qui sort gagnant de l’entente sur Churchill Falls?",
+          "link": "https://www.ledevoir.com/economie/1002317/sort-gagnant-entente-churchill-falls",
+          "source": "Le Devoir",
+          "summary": "Une nouvelle mouture de l’entente a été annoncée. Est-ce que ce sera la bonne? «Le Devoir» fait le point.",
+          "published": "2026-08-17T20:33:09+00:00"
+        },
+        {
+          "title": "Les trois actus du 17 août",
+          "link": "https://www.ledevoir.com/actualites/1002314/trois-actus-17-aout",
+          "source": "Le Devoir",
+          "summary": "Entente sur Churchill Falls, trou dans les finances publiques et une école de Québec ferme: ce qu’il faut retenir.",
+          "published": "2026-08-17T20:25:00+00:00"
+        },
+        {
+          "title": "Trump menace de bombarder Oman s’il entrave un accord sur le détroit d’Ormuz",
+          "link": "https://www.ledevoir.com/monde/1002311/trump-menace-bombarder-oman-il-entrave-accord-detroit-ormuz",
+          "source": "Le Devoir",
+          "summary": "Mascate et Téhéran mènent depuis des semaines des discussions sans Washington à propos de ce passage stratégique.",
+          "published": "2026-08-17T20:17:57+00:00"
+        },
+        {
+          "title": "Polytechnique Montréal | Un laboratoire prépare le Canada à faire face aux futures pandémies",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-08-17/polytechnique-montreal/un-laboratoire-prepare-le-canada-a-faire-face-aux-futures-pandemies.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’administration Martinez Ferrada demeure défavorable à la construction d’une école supplémentaire dans Parc-Extension, et ce malgré de nouvelles analyses du Centre de services scolaire de Montréal (CSSDM). La Ville dit…",
-          "published": "2026-08-17T17:26:38+00:00"
+          "summary": "Dans un laboratoire de biomédecine de Polytechnique Montréal, des protéines animales se développent dans une solution orange bouillonnante, tandis que des chercheurs en blouse blanche prélèvent des échantillons à l’aide…",
+          "published": "2026-08-17T20:08:33+00:00"
         },
         {
-          "title": "Oliver Jones, figure emblématique du jazz montréalais, aura des funérailles publiques",
-          "link": "https://www.ledevoir.com/culture/musique/1002251/oliver-jones-figure-emblematique-jazz-montrealais-aura-funerailles-publiques",
+          "title": "Le président taïwanais veut proposer des dépenses de défense records en 2027",
+          "link": "https://www.ledevoir.com/monde/asie/1002290/president-taiwanais-veut-proposer-depenses-defense-records-2027",
           "source": "Le Devoir",
-          "summary": "Il sera honoré à l’Union United Church, où il a commencé à jouer du piano à l’âge de cinq ans seulement.",
-          "published": "2026-08-17T17:24:00+00:00"
+          "summary": "L’île se défend contre la Chine, qui menace de recourir à la force pour s’emparer du territoire.",
+          "published": "2026-08-17T19:37:08+00:00"
         },
         {
-          "title": "Négociations commerciales | Carney dira à Trump que les Canadiens sont maîtres chez eux",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-08-17/negociations-commerciales/carney-dira-a-trump-que-les-canadiens-sont-maitres-chez-eux.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "La CSQ appelle les partis politiques à avoir «du courage en éducation»",
+          "link": "https://www.ledevoir.com/politique/quebec/1002287/csq-appelle-partis-politiques-avoir-courage-education",
+          "source": "Le Devoir",
+          "summary": "Il faut être capable de se dire que «ça ne va pas bien», lance le président de la centrale à l’approche des élections.",
+          "published": "2026-08-17T19:31:00+00:00"
+        },
+        {
+          "title": "Les droits de douane pourraient affaiblir le Canada dans les négociations de l’ACEUM",
+          "link": "https://www.ledevoir.com/economie/1002281/droits-douane-pourraient-affaiblir-canada-negociations-aceum",
+          "source": "Le Devoir",
+          "summary": "Le produit intérieur brut à court terme risque de souffrir de ces mesures, estime un économiste.",
+          "published": "2026-08-17T19:01:00+00:00"
+        },
+        {
+          "title": "Rapport préélectoral: atteindre l’équilibre budgétaire sera tout un défi, avec près de 5 milliards $ à trouver",
+          "link": "https://www.journaldemontreal.com/2026/08/17/rapport-preelectoral-atteindre-lequilibre-budgetaire-sera-tout-un-defi-avec-pres-de-5-milliards--a-trouver",
+          "source": "Journal de Montreal",
+          "summary": "Même si le plan caquiste pour atteindre l’équilibre budgétaire est plausible, le défi pour y arriver sera important, selon la vérificatrice générale.",
+          "published": "2026-08-17T18:46:55+00:00"
+        },
+        {
+          "title": "Tendances web | Justin Trudeau et Katy Perry dansent dans une quincaillerie à Montréal",
+          "link": "https://www.lapresse.ca/arts/celebrites/2026-08-17/tendances-web/justin-trudeau-et-katy-perry-dansent-dans-une-quincaillerie-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le premier ministre Mark Carney entend s’entretenir avec le président américain, Donald Trump, d’ici mercredi au sujet des négociations commerciales entre les deux pays et compte lui livrer un message : « Nous sommes…",
-          "published": "2026-08-17T16:47:05+00:00"
+          "summary": "L’ancien premier ministre Justin Trudeau s’est mis à danser et à chanter lorsque la nouvelle chanson de son fils aîné, Xavier, s’est mise à jouer à la radio... à la quincaillerie.",
+          "published": "2026-08-17T18:38:49+00:00"
         },
         {
-          "title": "La Cour suprême américaine déboute à nouveau Trump pour l’agression sexuelle d’une écrivaine",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1002248/cour-supreme-americaine-deboute-nouveau-trump-agression-sexuelle-ecrivaine",
-          "source": "Le Devoir",
-          "summary": "Elle l’avait précédemment forcé à verser plusieurs millions de dollars à E. Jean Carroll.",
-          "published": "2026-08-17T16:35:17+00:00"
-        },
-        {
-          "title": "Québec a une nouvelle entente non définitive avec T.‑N.‑L. sur Churchill Falls",
-          "link": "https://www.ledevoir.com/politique/quebec/1002242/quebec-nouvelle-entente-non-definitive-terre-neuve-labrador-churchill-falls",
-          "source": "Le Devoir",
-          "summary": "Le Québec pourrait sécuriser environ 10 000 MW de puissance à 6,2 cents par kWh, si elle est ratifiée.",
-          "published": "2026-08-17T16:16:00+00:00"
-        },
-        {
-          "title": "Chantiers de Churchill Falls et Gull Island | Un projet énergétique de 70 milliards dont l’entente reste à être finalisée",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-17/chantiers-de-churchill-falls-et-gull-island/un-projet-energetique-de-70-milliards-dont-l-entente-reste-a-etre-finalisee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "C’est une étape majeure, mais ce n’est pas encore la fin des négociations entre le Québec et Terre-Neuve-et-Labrador. Ils ont convenu de lancer un plus gros chantier énergétique d’environ 70 milliards, avec un coup de…",
-          "published": "2026-08-17T16:15:50+00:00"
-        },
-        {
-          "title": "«Marvel Tōkon: Fighting Souls»: comme jouer avec des figurines",
-          "link": "https://www.ledevoir.com/culture/ecrans/1002218/marvel-tokon-fighting-souls-comme-jouer-figurines",
-          "source": "Le Devoir",
-          "summary": "Le jeu de combat signé Arc System Works parvient à offrir des affrontements à la fois spectaculaires et accessibles.",
-          "published": "2026-08-17T15:41:28+00:00"
-        },
-        {
-          "title": "Dix jours avant la rentrée | Une école primaire de Québec fermée d’urgence",
-          "link": "https://www.lapresse.ca/actualites/education/2026-08-17/dix-jours-avant-la-rentree/une-ecole-primaire-de-quebec-fermee-d-urgence.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "À une dizaine de jours de la rentrée, les parents et le personnel d’une école primaire de Québec apprennent que les élèves seront relocalisés, au moins pour la durée de l’année scolaire 2026-2027. En cause : la…",
-          "published": "2026-08-17T15:34:02+00:00"
-        },
-        {
-          "title": "Chahuté sur les lieux du mégafeu, le premier ministre français annonce 100 millions en aides",
-          "link": "https://www.ledevoir.com/monde/europe/1002209/chahute-lieux-megafeu-premier-ministre-francais-annonce-100-millions-aides",
-          "source": "Le Devoir",
-          "summary": "«Il est où?» Des habitants du Porge reprochent, entre autres, à Sébastien Lecornu de ne pas être venu les rencontrer.",
-          "published": "2026-08-17T15:23:49+00:00"
-        },
-        {
-          "title": "Au Nigeria, les habitants d’Ayetoro assistent à l’engloutissement de leur village par l’Atlantique",
-          "link": "https://www.ledevoir.com/actualites/environnement/1002206/nigeria-habitants-ayetoro-assistent-engloutissement-village-atlantique",
-          "source": "Le Devoir",
-          "summary": "«Parfois, l’eau atteint le niveau des fenêtres et nous devons continuer à travailler.»",
-          "published": "2026-08-17T14:49:00+00:00"
+          "title": "«On n'a aucun pouvoir»: les détaillants québécois sans défense face à «SHEIN»",
+          "link": "https://www.journaldemontreal.com/2026/08/17/on-na-aucun-pouvoir-les-detaillants-quebecois-sans-defense-face-a-shein",
+          "source": "Journal de Montreal",
+          "summary": "Le pop-up du 27 au 30 août de SHEIN s'ajoute à la compétition entre les commerçants qui n'ont «aucun pouvoir» face aux faibles coûts du géant chinois.",
+          "published": "2026-08-17T18:36:44+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Incendies : le Var bénéficiera des «mêmes dispositifs» que la Gironde et les Landes, annonce Emmanuel Macron",
-          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
-          "source": "Liberation",
-          "summary": "Comme dans les deux départements du Sud-Ouest, les particuliers et les entreprises sinistrés dans le territoire méditerranéen ravagé par les flammes seront soutenus par l’Etat, a déclaré le Président, ce lundi 17 août.",
-          "published": "2026-08-17T18:33:01+00:00"
-        },
-        {
-          "title": "Incendies : Emmanuel Macron déclare que \"les mêmes dispositifs\" annoncés pour venir en aide aux sinistrés en Gironde \"seront mis en place\" dans le Var",
-          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
+          "title": "Trois personnes mises en examen dans l'Oise après la mort d'un quadragénaire des suites de ses blessures",
+          "link": "https://www.franceinfo.fr/faits-divers/trois-personnes-mises-en-examen-dans-l-oise-apres-la-mort-d-un-quadragenaire-des-suites-de-ses-blessures_8151473.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Plus tôt dans la journée, Sébastien Lecornu a annoncé des mesures pour la Gironde et les Landes. Ce plan pourrait coûter plus de 100 millions d'euros, selon le Premier ministre.",
-          "published": "2026-08-17T18:32:26+00:00"
+          "summary": "Deux personnes ont été mises en examen pour \"meurtre commis par personne agissant en état d'ivresse manifeste\", une autre pour \"complicité de meurtre commis par personne agissant en état d'ivresse manifeste\".",
+          "published": "2026-08-17T21:19:33+00:00"
         },
         {
-          "title": "EN DIRECT - Incendies : Emmanuel Macron promet pour le Var «les mêmes dispositifs» d’aide qu’en Gironde",
+          "title": "Un voilier à la dérive au large de l'île d'Yeu, des opérations de recherches en cours",
+          "link": "https://www.franceinfo.fr/faits-divers/un-voilier-a-la-derive-au-large-de-l-ile-d-yeu-des-operations-de-recherches-en-cours_8151470.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'alerte est venue d'un passager d'un ferry qui a remarqué l'embarcation en mauvaise posture, lundi. Le nombre de ses occupants est encore inconnu.",
+          "published": "2026-08-17T21:10:15+00:00"
+        },
+        {
+          "title": "Les combattants africains de Poutine pris au piège en Ukraine : le récit de l’envoyée spéciale du Figaro",
+          "link": "https://www.lefigaro.fr/international/je-ne-sais-pas-ou-je-vais-finir-les-combattants-africains-de-moscou-pris-au-piege-en-ukraine-20260817",
+          "source": "Le Figaro",
+          "summary": "REPORTAGE - Ni réclamés par la Russie ni soutenus par leur pays d’origine, ces prisonniers de guerre redoutent de tomber dans l’oubli.",
+          "published": "2026-08-17T21:08:22+00:00"
+        },
+        {
+          "title": "L'émissaire américain Jared Kushner dit espérer un début du désarmement du Hamas à Gaza d'ici \"30 jours\"",
+          "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-emissaire-americain-jared-kushner-dit-esperer-un-debut-du-desarmement-du-hamas-a-gaza-d-ici-30-jours_8151446.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Jared Kushner, également gendre de Donald Trump, a rencontré dimanche des membres de la direction du Hamas, avant une entrevue lundi avec Benyamin Nétanyahou.",
+          "published": "2026-08-17T20:57:23+00:00"
+        },
+        {
+          "title": "Un voilier à la dérive au large de l'île d'Yeu, des opérations de recherche lancées",
+          "link": "https://www.lefigaro.fr/actualite-france/un-voilier-a-la-derive-au-large-de-l-ile-d-yeu-des-operations-de-recherches-lancees-20260817",
+          "source": "Le Figaro",
+          "summary": "L’alerte est venue d’un passager d’un ferry de la compagnie Brittany Ferries, lors d’un trajet entre Portsmouth et Bilbao, qui a remarqué l’embarcation en mauvaise posture.",
+          "published": "2026-08-17T20:57:21+00:00"
+        },
+        {
+          "title": "Meurtre d’un patron d’assurance à New York : le procès de Luigi Mangione reporté après ses aveux",
+          "link": "https://www.lefigaro.fr/international/meurtre-d-un-patron-d-assurance-a-new-york-le-proces-de-luigi-mangione-reporte-apres-ses-aveux-20260817",
+          "source": "Le Figaro",
+          "summary": "Ses avocats réclament l’abandon pur et simple des poursuites contre lui au niveau de l’État après qu’il a plaidé coupable la semaine dernière au niveau fédéral, arguant qu’il ne pouvait pas être jugé deux fois pour les…",
+          "published": "2026-08-17T20:56:13+00:00"
+        },
+        {
+          "title": "Un burger vendu chez Carrefour rappelé dans la France entière pour risque de listéria",
+          "link": "https://www.lefigaro.fr/flash-eco/un-burger-vendu-chez-carrefour-rappele-dans-la-france-entiere-pour-risque-de-listeria-20260817",
+          "source": "Le Figaro",
+          "summary": "La listériose «est une maladie qui peut être grave et dont le délai d’incubation peut aller jusqu’à huit semaines», souligne Rappel Conso. Elle est particulièrement dangereuse pour les femmes enceintes.",
+          "published": "2026-08-17T20:50:18+00:00"
+        },
+        {
+          "title": "Fifa : le Français Kevin Lamour quitte son poste de directeur des opérations après ses critiques envers Gianni Infantino",
+          "link": "https://www.lefigaro.fr/sports/football/fifa-le-francais-kevin-lamour-quitte-son-poste-de-directeur-des-operations-apres-ses-critiques-envers-gianni-infantino-20260817",
+          "source": "Le Figaro",
+          "summary": "L’ancien numéro 3 de la Fédération internationale de football avait publiquement critiqué la proposition du président de vendre des parts de la Coupe du monde.",
+          "published": "2026-08-17T20:45:32+00:00"
+        },
+        {
+          "title": "Oise : l’adjudant-chef de la brigade de gendarmerie de Breteuil retrouvé mort dans sa voiture",
+          "link": "https://www.lefigaro.fr/faits-divers/oise-l-adjudant-chef-de-la-brigade-de-gendarmerie-de-breteuil-retrouve-mort-dans-sa-voiture-20260817",
+          "source": "Le Figaro",
+          "summary": "Le corps du militaire a été retrouvé dimanche après-midi dans un bois de la commune de Rouvroy-les-Merles. Une enquête en recherche des causes de la mort a été ouverte par le parquet de Beauvais.",
+          "published": "2026-08-17T20:42:42+00:00"
+        },
+        {
+          "title": "Incendies : Emmanuel Macron promet pour le Var «les mêmes dispositifs» d’aide qu’en Gironde",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-le-feu-dans-les-landes-est-desormais-fixe-sebastien-lecornu-tres-attendu-en-gironde-ce-lundi-pour-lancer-la-reconstruction-20260817",
           "source": "Le Figaro",
           "summary": "Lors d’un point presse tenu en Gironde, département français fortement marqué par les incendies, le premier ministre a assumé de «sortir l’artillerie lourde» pour aider la région à se relever du sinistre.",
-          "published": "2026-08-17T18:30:09+00:00"
-        },
-        {
-          "title": "A Strasbourg, le transport des patients en hélicoptère vers l’hôpital stoppé par les drones survolant la prison",
-          "link": "https://www.liberation.fr/societe/sante/a-strasbourg-le-transport-des-patients-en-helicoptere-vers-lhopital-stoppe-par-les-drones-survolant-la-prison-20260817_AWZZMWCBLJGZND2SLG26MZZAWM/",
-          "source": "Liberation",
-          "summary": "Les vols de nuit vers l’établissement de santé de Hautepierre sont suspendus depuis trois semaines, selon une déclaration de la préfecture du Bas-Rhin, ce lundi 17 août, mais la prise en charge des urgences n’est pas…",
-          "published": "2026-08-17T18:28:14+00:00"
-        },
-        {
-          "title": "Audit sur l'incident, information des particuliers concernés, accélération du plan de sécurisation... Après le piratage du fisc, la cellule interministérielle de crise livre ses conclusions",
-          "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/audit-sur-l-incident-information-des-particuliers-concernes-acceleration-du-plan-de-securisation-apres-le-piratage-du-fisc-la-cellule-interministerielle-de-crise-livre-ses-conclusions_8151290.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les données d'au moins 678 000 particuliers et professionnels ont été volées, a confirmé la Direction générale des Finances publiques vendredi.",
-          "published": "2026-08-17T18:27:39+00:00"
-        },
-        {
-          "title": "La Cisjordanie livrée à la terreur des colons israéliens",
-          "link": "https://www.liberation.fr/idees-et-debats/editorial/la-cisjordanie-livree-a-la-terreur-des-colons-israeliens-20260817_XD7NZ7LYINCMRM3EX3KHJXRGGE/",
-          "source": "Liberation",
-          "summary": "Face à la multiplication des violences encouragées par plusieurs ministres israéliens, qui, au sein de la communauté internationale, aura le courage de bloquer le projet mortifère des colons ?",
-          "published": "2026-08-17T18:22:27+00:00"
-        },
-        {
-          "title": "Haute-Loire : un homme condamné à 15 mois de prison avec sursis probatoire pour avoir proféré des injures racistes envers des enfants",
-          "link": "https://www.lefigaro.fr/faits-divers/haute-loire-un-homme-condamne-a-15-mois-de-prison-avec-sursis-probatoire-pour-avoir-profere-des-injures-racistes-envers-des-enfants-20260817",
-          "source": "Le Figaro",
-          "summary": "L’homme, âgé de 65 ans, comparaissait lundi après-midi devant le tribunal correctionnel du Puy-en-Velay.",
-          "published": "2026-08-17T18:20:17+00:00"
-        },
-        {
-          "title": "Occupation illégale : la Cisjordanie se disloque sous les yeux d’une communauté internationale atone",
-          "link": "https://www.liberation.fr/international/moyen-orient/occupation-illegale-la-cisjordanie-se-disloque-sous-les-yeux-dune-communaute-internationale-atone-20260817_ON6M3ZQ66RGADIJYCBR6PPUCLE/",
-          "source": "Liberation",
-          "summary": "La colonisation du territoire progresse à un rythme sans précédent, tandis que les attaques contre les villages palestiniens se multiplient, en toute impunité.",
-          "published": "2026-08-17T18:18:51+00:00"
-        },
-        {
-          "title": "L’éditorial de Gaëtan de Capèle : « Taxation des “classes aisées”, un budget 2027 cousu de fil blanc »",
-          "link": "https://www.lefigaro.fr/vox/economie/l-editorial-de-gaetan-de-capele-taxation-des-classes-aisees-un-budget-2027-cousu-de-fil-blanc-20260817",
-          "source": "Le Figaro",
-          "summary": "Alors que les finances publiques nécessitent un effort de redressement considérable, le gouvernement nous prépare à une recette vieille comme le monde : ratiboiser les Français « aisés » et les entreprises.",
-          "published": "2026-08-17T18:14:45+00:00"
-        },
-        {
-          "title": "Retraites, niches fiscales : ce que prépare le gouvernement pour le budget 2027",
-          "link": "https://www.lefigaro.fr/conjoncture/retraites-niches-fiscales-ce-que-prepare-le-gouvernement-pour-le-budget-2027-20260817",
-          "source": "Le Figaro",
-          "summary": "ANALYSE - Dans la dernière ligne droite de la préparation du budget, avant les arbitrages de Matignon, Bercy examine des pistes d’économies qui visent surtout les « ménages aisés ».",
-          "published": "2026-08-17T18:07:35+00:00"
+          "published": "2026-08-17T20:40:17+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Cette batterie externe magnétique Xiaomi de 5 000 mAh aussi fine que l’iPhone Air passe sous les 50 €",
+          "link": "https://www.frandroid.com/bons-plans/3213927_cette-batterie-externe-magnetique-xiaomi-de-5-000-mah-aussi-fine-que-liphone-air-passe-sous-les-50-e",
+          "source": "Frandroid",
+          "summary": "Avec ses 6 mm d'épaisseur, la batterie externe Xiaomi UltraThin Magnetic Power Bank figure sans aucun doute parmi les plus pratiques du moment. En ce moment, Xiaomi l'affiche à 49,99 euros au lieu de 64,99 euros.",
+          "published": "2026-08-17T19:00:00+00:00"
+        },
         {
           "title": "Et s’il n’y avait pas un mais deux Dr Doom dans Avengers: Doomsday ? La folle théorie de certains fans",
           "link": "https://www.numerama.com/pop-culture/2312677-et-sil-ny-avait-pas-un-mais-deux-dr-doom-dans-avengers-doomsday-la-folle-theorie-de-certains-fans.html",
@@ -309,13 +316,6 @@
           "source": "Clubic",
           "summary": "La rentrée approche à grands pas, et c'est le moment idéal pour renouveler son équipement tech sans se ruiner. Amazon propose cette semaine 10 ventes flash sur des produits phares, à saisir avant la fin des stocks.",
           "published": "2026-08-17T16:00:00+00:00"
-        },
-        {
-          "title": "L’ère du ChatGPT gratuit et sans publicité touche officiellement à sa fin",
-          "link": "https://www.numerama.com/tech/2312843-lere-du-chatgpt-gratuit-et-sans-publicite-touche-officiellement-a-sa-fin.html",
-          "source": "Numerama",
-          "summary": "Six mois après de premiers tests aux États-Unis, OpenAI annonce le déploiement global des bannières publicitaires dans la version gratuite de ChatGPT. Face aux inquiétudes sur la vie privée, la startup a ajusté ses…",
-          "published": "2026-08-17T15:44:00+00:00"
         }
       ]
     }
