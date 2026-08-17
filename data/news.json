@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-17T03:48:44.273202+00:00",
+  "generated_at": "2026-08-17T06:51:56.739173+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Alvin Junior Mak, étoile montante de la mode franco-congolaise propulsé par le Mondial",
+          "link": "https://www.france24.com/fr/afrique/20260817-alvin-junior-mak-%C3%A9toile-montante-mode-franco-congolaise-propuls%C3%A9-mondial",
+          "source": "France 24",
+          "summary": "Innovation africaine (3/3). Styliste franco-congolais, Alvin Junior Mak a marqué de son empreinte le Mondial de football en concevant le très remarqué costume de l'équipe de la République du Congo. Un succès fulgurant…",
+          "published": "2026-08-17T05:58:28+00:00"
+        },
+        {
+          "title": "Trophée des champions : à 10 contre 11, Lens fait tomber le PSG",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260817-troph%C3%A9e-des-champions-%C3%A0-10-contre-11-lens-fait-tomber-le-psg",
+          "source": "France 24",
+          "summary": "Le RC Lens a remporté le trophée des champions face au Paris Saint-Germain (1-0). Sous les yeux de Zinédine Zidane, les lensois ont tenu une heure en infériorité numérique.",
+          "published": "2026-08-17T05:50:59+00:00"
+        },
+        {
+          "title": "L'actrice américaine Hayden Panettiere, star de \"Heroes\", meurt à l'âge de 36 ans",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260817-l-actrice-am%C3%A9ricaine-hayden-panettiere-ic%C3%B4ne-de-la-s%C3%A9rie-heroes-meurt-%C3%A0-l-%C3%A2ge-de-36-ans",
+          "source": "France 24",
+          "summary": "L'actrice américaine Hayden Panettiere, connue pour ses rôles dans les séries télévisées \"Heroes\" et \"Nashville\", est morte à l'âge de 36 ans. Son décès a été annoncé par des médias dans la nuit de dimanche à lundi.",
+          "published": "2026-08-17T05:39:08+00:00"
+        },
+        {
+          "title": "L’Empire achéménide",
+          "link": "https://www.rfi.fr/fr/podcasts/le-berceau-de-l-histoire/20260817-l-empire-ach%C3%A9m%C3%A9nide",
+          "source": "RFI",
+          "summary": "Invité : Pierre Briant. C’est le premier empire perse de l’Histoire. Fondé par Cyrus au VIè siècle avant J.-C. Certains disent que c’est le premier empire tout court. C’est l’histoire de cet empire qui s’étendait de…",
+          "published": "2026-08-17T05:00:07+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : six morts dans l’ouest de la Russie après des frappes ukrainiennes",
+          "link": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-l-union-europeenne-veut-augmenter-d-un-tiers-le-nombre-d-entites-russes-sanctionnees_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "« Six civils ont été tués, et quatre blessés, dont un enfant », a annoncé le gouverneur de l’oblast russe de Belgorod, Alexandre Chouvaïev.",
+          "published": "2026-08-17T04:30:31+00:00"
+        },
+        {
+          "title": "Gaza : l’émissaire américain Jared Kushner attendu en Israël pour rencontrer Benyamin Nétanyahou et tenter de faire avancer le plan de paix",
+          "link": "https://www.lemonde.fr/international/article/2026/08/17/gaza-l-emissaire-americain-jared-kushner-en-israel-pour-rencontrer-benyamin-netanyahou-et-tenter-de-faire-avancer-le-plan-de-paix_6747971_3210.html",
+          "source": "Le Monde",
+          "summary": "Le représentant de Washington s’est entretenu, dimanche, avec des dirigeants du Hamas. Le mouvement palestinien avait donné son accord, fin juillet, à une feuille de route américaine prévoyant une transition à Gaza,…",
+          "published": "2026-08-17T04:17:28+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine : au cœur de la nuit, avec le régiment de drones qui frappe durement Moscou",
+          "link": "https://www.lemonde.fr/international/article/2026/08/17/guerre-en-ukraine-au-c-ur-de-la-nuit-avec-le-regiment-de-drones-qui-frappe-durement-moscou_6747970_3210.html",
+          "source": "Le Monde",
+          "summary": "Le 413ᵉ régiment des forces sans pilote multiplie les attaques dans la grande profondeur depuis le territoire ukrainien. Kiev accélère ses efforts militaires pour porter le feu au cœur de l’appareil économique de son…",
+          "published": "2026-08-17T04:15:08+00:00"
+        },
+        {
+          "title": "Au Liban, des frappes israéliennes meurtrières fragilisent un peu plus le cessez-le-feu avec le Hezbollah",
+          "link": "https://www.lemonde.fr/international/article/2026/08/17/au-liban-des-frappes-israeliennes-meurtrieres-fragilisent-un-peu-plus-le-cessez-le-feu-avec-le-hezbollah_6747969_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que la mise en œuvre de l’accord-cadre signé avec Beyrouth est enlisée, l’armée israélienne a tué onze personnes dans des bombardements autour de la ville de Nabatiyé, le 15 août, en riposte à une attaque contre…",
+          "published": "2026-08-17T04:15:08+00:00"
+        },
+        {
           "title": "Répression en Iran : les échanges culturels français dans le viseur du pouvoir",
           "link": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
           "source": "Le Monde",
           "summary": "L’interpellation de deux diplomates français et la détention de deux graphistes iraniens, le 19 juillet, marquent un nouveau seuil dans la dégradation des relations entre Paris et Téhéran. Au cœur de l’affaire, une…",
-          "published": "2026-08-17T03:35:36+00:00"
+          "published": "2026-08-17T03:35:33+00:00"
         },
         {
           "title": "En direct : Jared Kushner va rencontrer Benjamin Netanyahu afin de relancer le plan de paix à Gaza",
           "link": "https://www.france24.com/fr/moyen-orient/20260817-en-direct-jared-kushner-va-rencontrer-benjamin-netanyahu-relancer-plan-de-paix-gaza-israel-etats-unis-iran-liban-detroit-ormuz",
           "source": "France 24",
-          "summary": "L'émissaire américain Jared Kushner doit rencontrer lundi en Israël le Premier ministre Benjamin Netanyahu pour tenter de faire avancer le plan de paix américain à Gaza, auquel le dirigeant a opposé jusqu'à présent une…",
+          "summary": "L'émissaire américain Jared Kushner doit rencontrer, lundi, en Israël, le Premier ministre Benjamin Netanyahu pour tenter de faire avancer le plan de paix américain à Gaza, auquel le dirigeant a opposé jusqu'à présent…",
           "published": "2026-08-17T03:31:56+00:00"
-        },
-        {
-          "title": "Dans le Pas-de-Calais, le feu et l’essor des « megaboats » créent des tensions autour des traversées de migrants dans la Manche",
-          "link": "https://www.lemonde.fr/societe/article/2026/08/17/dans-le-pas-de-calais-le-feu-et-l-essor-des-megaboats-creent-des-tensions-autour-des-traversees-de-migrants-dans-la-manche_6747961_3224.html",
-          "source": "Le Monde",
-          "summary": "Depuis début 2026, le nombre de tentatives de passages en Angleterre est en nette diminution. Mais des embarcations plus grosses posent d’importants problèmes de sécurité. En outre, un départ de feu, attribué par…",
-          "published": "2026-08-17T03:30:09+00:00"
-        },
-        {
-          "title": "Lula face à Flavio Bolsonaro : coup d'envoi de la campagne présidentielle au Brésil",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-lula-face-%C3%A0-flavio-bolsonaro-coup-d-envoi-de-la-campagne-pr%C3%A9sidentielle-au-br%C3%A9sil",
-          "source": "France 24",
-          "summary": "Le président brésilien de gauche Luiz Inacio Lula da Silva et son rival de droite Flavio Bolsonaro ont lancé dimanche leur campagne pour la présidentielle d'octobre. À 80 ans, Lula a donné un meeting à Sao Bernardo do…",
-          "published": "2026-08-17T03:22:24+00:00"
-        },
-        {
-          "title": "Attaque massive, des frappes ont fait au moins 19 morts en Russie et en Ukraine",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-attaque-massive-des-frappes-ont-fait-au-moins-19-morts-en-russie-et-en-ukraine",
-          "source": "France 24",
-          "summary": "Un immense nuage de fumée était perceptible à une cinquantaine de kilomètres de Moscou, dimanche matin. Une vague de centaines de drones ukrainiens a causé la mort de plusieurs personnes en Russie. Le gouverneur de la…",
-          "published": "2026-08-17T03:20:11+00:00"
-        },
-        {
-          "title": "En Australie, une raffinerie de terres rares se prépare à rivaliser avec la Chine",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/17/en-australie-une-raffinerie-de-terres-rares-se-prepare-a-rivaliser-avec-la-chine_6747923_3234.html",
-          "source": "Le Monde",
-          "summary": "Canberra ambitionne de jouer un rôle-clé dans l’établissement de chaînes d’approvisionnement en terres rares diversifiées, plus fiables et moins dépendantes de Pékin. L’Etat facilite le financement de projets et…",
-          "published": "2026-08-17T03:00:10+00:00"
-        },
-        {
-          "title": "Une semaine après le séisme, la Colombie poursuit les recherches de disparus, sans trop d'espoir",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260817-seisme-colombie-poursuit-recherches-disparus-sans-trop-espoir",
-          "source": "France 24",
-          "summary": "Au moins 140 personnes sont toujours portées disparues en Colombie après le séisme survenu le 10 août. Les recherches se poursuivent, le bruit des pelleteuses résonne dans les zones les plus touchées, mais les chances…",
-          "published": "2026-08-17T01:10:12+00:00"
-        },
-        {
-          "title": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un",
-          "link": "https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon le président américain, ces exercices, qui ont commencé lundi, sont « coûteux » et « envoient un signal totalement inapproprié et hostile » envers Pyongyang. Séoul a annoncé que ces manœuvres avec les Etats-Unis…",
-          "published": "2026-08-16T23:14:58+00:00"
-        },
-        {
-          "title": "Donald Trump va réduire \"considérablement\" les exercices militaires conjoints avec la Corée du Sud",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260816-donald-trump-va-reduire-considerablement-exercices-militaires-avec-coree-du-sud-etats-unis-coree-nord-kim-jong-un",
-          "source": "France 24",
-          "summary": "Le président américain a déclaré, dimanche via son réseau Truth Social, avoir demandé de réduire de manière significative les exercices militaires conjoints avec la Corée du Sud devant débuter lundi. Des exercices…",
-          "published": "2026-08-16T22:54:38+00:00"
-        },
-        {
-          "title": "Le ministre de la communication tchadien nous répond sur France 24",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260816-le-ministre-de-la-communication-tchadien-nous-r%C3%A9pond-sur-france-24",
-          "source": "France 24",
-          "summary": "Se dirige t-on vers un apaisement du climat politique au Tchad ? Une question légitime après la grâce accordée vendredi à 9 opposants par le président Déby. Le ministre de la communication tchadien Gassim Chérif est…",
-          "published": "2026-08-16T21:25:39+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Cinquième édition de LASSO | Un festival promis à un bel avenir",
-          "link": "https://www.lapresse.ca/arts/musique/2026-08-16/cinquieme-edition-de-lasso/un-festival-promis-a-un-bel-avenir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Attendez-vous à du jean et du cuir dans la métropole pendant encore bien des années. Pour ses cinq ans d’existence, le festival LASSO s’en promet au moins cinq de plus. Plus qu’un phénomène éphémère, le country est un…",
-          "published": "2026-08-17T03:43:40+00:00"
-        },
-        {
-          "title": "La Belgique face à un incendie historique qui menace désormais l’Allemagne",
-          "link": "https://www.ledevoir.com/monde/europe/1002152/belgique-face-incendie-historique-menace-desormais-allemagne",
+          "title": "L’actrice Hayden Panettiere est décédée",
+          "link": "https://www.ledevoir.com/culture/cinema/1002161/actrice-hayden-panettiere-est-decedee",
           "source": "Le Devoir",
-          "summary": "Les flammes qui ravagent les Hautes Fagnes depuis quelques jours gagnent du terrain.",
-          "published": "2026-08-17T01:09:00+00:00"
+          "summary": "Elle était âgée de 36 ans.",
+          "published": "2026-08-17T04:40:06+00:00"
         },
         {
-          "title": "Les Blue Jays s’inclinent face aux Yankees",
-          "link": "https://www.ledevoir.com/sports/1002149/blue-jays-inclinent-face-yankees",
+          "title": "Devenir parent, c’est une transition que l’on soutient trop peu",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/1002125/devenir-parent-c-est-transition-on-soutient-trop-peu",
           "source": "Le Devoir",
-          "summary": "Ben Rice a fait la différence pour l’équipe new-yorkaise en cognant un circuit en dixième manche.",
-          "published": "2026-08-17T00:55:00+00:00"
+          "summary": "Voir s’épanouir un enfant est le fruit d’un long travail que collectivement nous devons soutenir.",
+          "published": "2026-08-17T04:00:00+00:00"
         },
         {
-          "title": "Gatineau | Un motocycliste dans un état critique après une embardée sur l’A-50",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-16/gatineau/un-motocycliste-dans-un-etat-critique-apres-une-embardee-sur-l-a-50.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un motocycliste âgé d’une trentaine d’années se trouvait dans un état critique, dimanche soir, après avoir fait une embardée sur l’autoroute 50, à Gatineau, en Outaouais.",
-          "published": "2026-08-17T00:06:41+00:00"
-        },
-        {
-          "title": "Adam Driver incarnera Mister Sinistre dans le prochain «X-Men»",
-          "link": "https://www.ledevoir.com/culture/cinema/1002146/adam-driver-incarnera-mister-sinistre-prochain-x-men",
+          "title": "Claire Beaugrand-Champagne, du côté des gens",
+          "link": "https://www.ledevoir.com/culture/arts-visuels/1002113/claire-beaugrand-champagne-cote-gens",
           "source": "Le Devoir",
-          "summary": "Inde Navarrette, connue pour son rôle dans le film «Obsession», jouera pour sa part le rôle de Rogue.",
-          "published": "2026-08-17T00:00:00+00:00"
+          "summary": "Pour la photographe, l’appareil devient un outil d’enquête, d’observation et de compréhension du monde.",
+          "published": "2026-08-17T04:00:00+00:00"
         },
         {
-          "title": "Parti démocrate | Alexandria Ocasio-Cortez prend ses distances avec le « wokisme »",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-16/parti-democrate/alexandria-ocasio-cortez-prend-ses-distances-avec-le-wokisme.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Figure de la gauche américaine, Alexandria Ocasio-Cortez partage désormais au moins une opinion avec Donald Trump, Ron DeSantis et d’autres ténors de la droite : le wokisme a dépassé les bornes.",
-          "published": "2026-08-16T23:45:00+00:00"
-        },
-        {
-          "title": "L’ouragan Lala provoque d’importantes coupures d’électricité",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1002143/tempete-lala-provoque-importantes-coupures-electricite",
+          "title": "Images de la décadence",
+          "link": "https://www.ledevoir.com/opinion/chroniques/1002122/images-decadence",
           "source": "Le Devoir",
-          "summary": "Près de 220 000 foyers et commerces ont perdu le courant au cours de la soirée.",
-          "published": "2026-08-16T23:18:00+00:00"
+          "summary": "Trump est-il «une banane en décomposition»?",
+          "published": "2026-08-17T04:00:00+00:00"
         },
         {
-          "title": "Inondez-nous d’espoir…",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-16/inondez-nous-d-espoir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Cet été plus que jamais, on a l’impression que tout va mal quand on regarde les forêts flamber dans l’ouest du pays, quand on voit l’Europe suffoquer et brûler à son tour, quand on voit des sandales de migrants flotter…",
-          "published": "2026-08-16T23:00:00+00:00"
-        },
-        {
-          "title": "Le Nord du Canada fait face à une importante pénurie de logements",
-          "link": "https://www.ledevoir.com/actualites/societe/1002140/nord-canada-fait-face-importante-penurie-logements",
+          "title": "L’ADN de CN2i",
+          "link": "https://www.ledevoir.com/culture/medias/1002080/adn-cn2i",
           "source": "Le Devoir",
-          "summary": "Le nombre de mises en chantier par habitant est inférieur à celui du reste du pays.",
-          "published": "2026-08-16T22:28:42+00:00"
+          "summary": "Jean-Hugues Roy raconte la transformation historique de six journaux en coopératives selon un modèle unique au monde.",
+          "published": "2026-08-17T04:00:00+00:00"
         },
         {
-          "title": "Nouvelle réglementation fédérale | Le recyclage des vieux poteaux de téléphone en péril",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-16/nouvelle-reglementation-federale/le-recyclage-des-vieux-poteaux-de-telephone-en-peril.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ottawa veut rendre obligatoire d’incinérer ou d’enfouir les poteaux en fin de vie traités au PCP, un pesticide. En Estrie, la seule entreprise du pays qui les recycle risque la fermeture.",
-          "published": "2026-08-16T22:00:00+00:00"
+          "title": "Paris en Gaspésie",
+          "link": "https://www.ledevoir.com/opinion/chroniques/1002107/paris-gaspesie",
+          "source": "Le Devoir",
+          "summary": "L’Histoire et les livres rapprochent parfois des lieux que l’on croirait infiniment éloignés.",
+          "published": "2026-08-17T04:00:00+00:00"
+        },
+        {
+          "title": "Une «lutte de tous les instants» contre une espèce envahissante, dix ans après un déversement de diesel",
+          "link": "https://www.ledevoir.com/actualites/environnement/1001918/lutte-tous-instants-contre-espece-envahissante-dix-ans-apres-deversement-diesel",
+          "source": "Le Devoir",
+          "summary": "Chez les Heiltsuks, la prolifération du crabe vert menace les palourdes, l’alimentation et des pratiques culturelles ancestrales.",
+          "published": "2026-08-17T04:00:00+00:00"
+        },
+        {
+          "title": "À la radio, un nouvel affrontement pour le retour à la maison",
+          "link": "https://www.ledevoir.com/culture/medias/1002116/radio-nouvel-affrontement-retour-maison",
+          "source": "Le Devoir",
+          "summary": "«Votre retour», animée par Monic Néron, se mesurera à l’émission «Le Québec maintenant», avec Gino Chouinard.",
+          "published": "2026-08-17T04:00:00+00:00"
+        },
+        {
+          "title": "En Haute-Mauricie, un poste de contrôle autochtone bloque la circulation depuis un an",
+          "link": "https://www.ledevoir.com/actualites/societe/1002110/haute-mauricie-poste-controle-autochtone-bloque-circulation-depuis-an",
+          "source": "Le Devoir",
+          "summary": "La famille Echaquan revendique un droit de regard sur son territoire ancestral.",
+          "published": "2026-08-17T04:00:00+00:00"
+        },
+        {
+          "title": "Le Sud global, ce nouvel acteur qui bouscule l’ordre mondial",
+          "link": "https://www.ledevoir.com/lire/1002104/sud-global-ce-nouvel-acteur-bouscule-ordre-mondial",
+          "source": "Le Devoir",
+          "summary": "Jocelyn Coulon, Nabil Jaafari et Malik M’Silti analysent la montée de ces pays autrefois associés au «tiers-monde».",
+          "published": "2026-08-17T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Répression en Iran : les échanges culturels français dans le viseur du pouvoir",
-          "link": "https://www.lemonde.fr/international/article/2026/08/17/repression-en-iran-les-echanges-culturels-francais-dans-le-viseur-du-pouvoir_6747965_3210.html",
-          "source": "Le Monde",
-          "summary": "L’interpellation de deux diplomates français et la détention de deux graphistes iraniens, le 19 juillet, marquent un nouveau seuil dans la dégradation des relations entre Paris et Téhéran. Au cœur de l’affaire, une…",
-          "published": "2026-08-17T03:35:36+00:00"
+          "title": "EN DIRECT - Incendie : le feu dans les Landes est désormais «fixé», Sébastien Lecornu très attendu en Gironde ce lundi pour lancer la reconstruction",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-le-feu-dans-les-landes-est-desormais-fixe-sebastien-lecornu-tres-attendu-en-gironde-ce-lundi-pour-lancer-la-reconstruction-20260817",
+          "source": "Le Figaro",
+          "summary": "Le feu qui a ravagé en quelques jours 1700 hectares dans les Landes sans faire de victimes est «fixé» et quelque 250 habitants de la commune de Luglon vont pouvoir rentrer chez eux, a annoncé lundi la secrétaire…",
+          "published": "2026-08-17T06:48:03+00:00"
         },
         {
-          "title": "Cannibalisme : l’étrange maladie du kuru, rançon de festins mortuaires",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/17/cannibalisme-l-etrange-maladie-du-kuru-rancon-de-festins-mortuaires_6747962_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Sept nuances de cannibalisme » (6/7). Dans les années 1950, une épidémie d’origine inconnue décime une ethnie de Papouasie-Nouvelle-Guinée. Ethnologues et médecins finiront par établir le rôle de l’anthropophagie…",
-          "published": "2026-08-17T03:30:12+00:00"
+          "title": "EN DIRECT - Incendies : Sébastien Lecornu en Gironde pour lancer la reconstruction après le mégafeu",
+          "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
+          "source": "Liberation",
+          "summary": "La visite du Premier ministre ce lundi sur le territoire ravagé par les flammes en juillet cristallise beaucoup d’espoirs et de colère. Il s’est déjà rendu au Porge dimanche soir, sans l’avoir mentionné dans son…",
+          "published": "2026-08-17T06:43:43+00:00"
         },
         {
-          "title": "Mise à mal par une sécheresse historique, l’agriculture française souffre et s’inquiète pour son avenir",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/17/mise-a-mal-par-une-secheresse-historique-l-agriculture-francaise-souffre-et-s-inquiete-pour-son-avenir_6747960_3234.html",
-          "source": "Le Monde",
-          "summary": "Chute de production pour les légumes et les grandes cultures céréalières, manque de fourrage pour le bétail… L’ensemble des filières agricoles traversent un été catastrophique, dont les conséquences pourraient être sans…",
-          "published": "2026-08-17T03:00:31+00:00"
+          "title": "Inde : une bousculade dans un temple hindou fait au moins sept morts et 19 blessés",
+          "link": "https://www.lefigaro.fr/international/inde-une-bousculade-dans-un-temple-hindou-fait-au-moins-sept-morts-et-19-blesses-20260817",
+          "source": "Le Figaro",
+          "summary": "L’accident s’est produit au temple Ashok Dham, dans le district de Lakhisarai, où une immense foule de fidèles était rassemblée pour honorer le dieu hindou Shiva.",
+          "published": "2026-08-17T06:37:40+00:00"
         },
         {
-          "title": "« L’Arlésienne », le magazine qui porte un regard piquant sur le pays d’Arles",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/17/l-arlesienne-le-magazine-qui-porte-un-regard-piquant-sur-le-pays-d-arles_6747956_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Echos locaux » (6/7). Partout en France, des médias indépendants contribuent au lien social en misant sur l’information de proximité. Depuis 2017, ce trimestriel élégant et insolent témoigne des mutations sociales et…",
-          "published": "2026-08-17T03:00:21+00:00"
+          "title": "Incendie dans les Landes : le feu est \"fixé\", 250 évacués autorisés à rentrer chez eux, annonce la préfecture",
+          "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-premier-ministre-sebastien-lecornu-et-plusieurs-ministres-attendus-en-gironde-le-feu-contenu-mais-pas-fixe-dans-les-landes_8150471.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Depuis jeudi, l'incendie a ravagé quelque 1 700 hectares de pinèdes, entraînant l'évacuation de 650 habitants.",
+          "published": "2026-08-17T06:35:53+00:00"
         },
         {
-          "title": "En Australie, une raffinerie de terres rares se prépare à rivaliser avec la Chine",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/17/en-australie-une-raffinerie-de-terres-rares-se-prepare-a-rivaliser-avec-la-chine_6747923_3234.html",
-          "source": "Le Monde",
-          "summary": "Canberra ambitionne de jouer un rôle-clé dans l’établissement de chaînes d’approvisionnement en terres rares diversifiées, plus fiables et moins dépendantes de Pékin. L’Etat facilite le financement de projets et…",
-          "published": "2026-08-17T03:00:10+00:00"
+          "title": "Lecornu en Gironde, piratage du fisc, Kushner à la rencontre de Nétanyahou… L’actu de ce 17 août au matin",
+          "link": "https://www.liberation.fr/international/europe/lecornu-en-gironde-piratage-du-fisc-kushner-a-la-rencontre-de-netanyahou-lactu-de-ce-17-aout-au-matin-20260817_FN7B7IW565BULHLQTGALICBUAY/",
+          "source": "Liberation",
+          "summary": "La rédaction de «Libération» compile les principales infos du jour.",
+          "published": "2026-08-17T06:35:36+00:00"
         },
         {
-          "title": "Séoul affirme que les exercices militaires avec les États-Unis «se dérouleront comme prévu»",
+          "title": "Après l’annonce de Donald Trump, la Corée du Sud affirme qu’elle va «se coordonner étroitement» avec les États-Unis pour les exercices militaires conjoints",
           "link": "https://www.lefigaro.fr/international/seoul-affirme-que-les-exercices-militaires-avec-les-etats-unis-se-derouleront-comme-prevu-20260817",
           "source": "Le Figaro",
-          "summary": "Donald Trump a annoncé dimanche «réduire considérablement» la participation des États-Unis à des exercices militaires conjoints avec son allié historique sud-coréen.",
-          "published": "2026-08-16T23:24:40+00:00"
+          "summary": "Donald Trump a déclaré dimanche «réduire considérablement» la participation des États-Unis à des exercices militaires conjoints avec son allié historique sud-coréen.",
+          "published": "2026-08-17T06:31:25+00:00"
         },
         {
-          "title": "Trophée des champions : longtemps à 10 contre 11, Lens crée l’exploit face au PSG",
-          "link": "https://www.lefigaro.fr/sports/football/trophee-des-champions-lens-fait-tomber-le-psg-et-remporte-le-premier-trophee-de-la-saison-20260816",
+          "title": "«Cela montre que le Moyen-Orient se rassemble» : Donald Trump se dit «très content» du pacte de défense entre l’Arabie saoudite, la Turquie et le Pakistan",
+          "link": "https://www.lefigaro.fr/international/cela-montre-que-le-moyen-orient-se-rassemble-donald-trump-se-dit-tres-content-du-pacte-de-defense-entre-l-arabie-saoudite-la-turquie-et-le-pakistan-20260817",
           "source": "Le Figaro",
-          "summary": "Les Sang et Or ont disposé du Paris-SG ce dimanche, à Bollaert, pour le gain du Trophée des champions.",
-          "published": "2026-08-16T23:19:48+00:00"
+          "summary": "L’Arabie saoudite, où a été signé l’accord, entend ainsi renforcer ses alliances sécuritaires après avoir été ciblée par l’Iran en représailles aux bombardements américains.",
+          "published": "2026-08-17T06:30:01+00:00"
         },
         {
-          "title": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un",
-          "link": "https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html",
+          "title": "Réseau militant structuré, communication sur mesure... Rima Hassan, un essor politique fulgurant par la gauche de la gauche",
+          "link": "https://www.lefigaro.fr/politique/reseau-militant-structure-communication-sur-mesure-rima-hassan-un-essor-politique-fulgurant-par-la-gauche-de-la-gauche-20260817",
+          "source": "Le Figaro",
+          "summary": "L’ASCENSION D’UNE ÉGÉRIE SULFUREUSE (2/3) - La campagne des européennes de La France insoumise, qui l’a fait connaître en 2024, a été largement menée sur le thème palestinien.",
+          "published": "2026-08-17T06:19:24+00:00"
+        },
+        {
+          "title": "Le coût de la vie étudiante a augmenté de 1,66 % sur un an, et de plus de 35 % depuis l’élection d’Emmanuel Macron en 2017, alerte l’Unef",
+          "link": "https://www.lemonde.fr/campus/article/2026/08/17/le-cout-de-la-vie-etudiante-a-augmente-de-1-66-sur-un-an-et-de-plus-de-35-depuis-l-election-d-emmanuel-macron-en-2017-alerte-l-unef_6747977_4401467.html",
           "source": "Le Monde",
-          "summary": "Selon le président américain, ces exercices, qui ont commencé lundi, sont « coûteux » et « envoient un signal totalement inapproprié et hostile » envers Pyongyang. Séoul a annoncé que ces manœuvres avec les Etats-Unis…",
-          "published": "2026-08-16T23:14:58+00:00"
+          "summary": "Etudier coûte deux fois plus cher pour les étudiants étrangers extracommunautaires, « premières victimes des politiques austéritaires du gouvernement », pointe également l’enquête du syndicat étudiant, tandis que les…",
+          "published": "2026-08-17T06:19:12+00:00"
         },
         {
-          "title": "Lens-PSG : «Je suis content de ce que j’ai vu, pas du résultat», peste Luis Enrique",
-          "link": "https://www.lefigaro.fr/sports/football/lens-psg-je-suis-content-de-ce-que-j-ai-vu-pas-du-resultat-peste-luis-enrique-20260816",
-          "source": "Le Figaro",
-          "summary": "Le coach parisien a fait le point après le revers de son équipe contre Lens (1-0) dimanche, à Bollaert, lors du Trophée des champions.",
-          "published": "2026-08-16T23:13:41+00:00"
-        },
-        {
-          "title": "Lens-PSG : «On a joué avec le cœur», savoure Dino Toppmöller",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/lens-psg-on-a-joue-avec-le-coeur-savoure-dino-toppmoeller-20260817",
-          "source": "Le Figaro",
-          "summary": "Le technicien allemand a fait part de sa joie après la victoire de ses joueurs sur le PSG dimanche, à Bollaert, pour le gain du premier Trophée des champions de l’histoire lensoise.",
-          "published": "2026-08-16T23:11:25+00:00"
+          "title": "Mort à 36 ans de Hayden Panettiere, éternelle «cheerleader» de la série «Heroes»",
+          "link": "https://www.liberation.fr/culture/series/mort-a-36-ans-de-hayden-panettiere-eternelle-cheerleader-de-la-serie-heroes-20260817_OGBUR5A4AZCDHJWNQIFJZAJDY4/",
+          "source": "Liberation",
+          "summary": "L’actrice américaine, également connue pour «Nashville» et quelques «Scream», a perdu la vie ce week-end, dans des circonstances encore inconnues.",
+          "published": "2026-08-17T06:13:44+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Test du Sennheiser Momentum 5 : le meilleur casque nomade de la marque, et de loin",
-          "link": "https://www.frandroid.com/marques/sennheiser/3203499_test-du-sennheiser-momentum-5-le-meilleur-casque-nomade-de-la-marque-et-de-loin",
+          "title": "Google laisse retirer le filigrane des images générées par Gemini, mais garde une trace invisible",
+          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3213277_google-laisse-retirer-le-filigrane-des-images-generees-par-gemini-mais-garde-une-trace-invisible",
           "source": "Frandroid",
-          "summary": "Un son neutre, organique, d'une justesse rare, une scène sonore immense, et une courbe de réponse pensée au décibel près pour qu'on puisse écouter pendant des heures. Sennheiser signe son meilleur casque nomade.",
-          "published": "2026-08-16T18:00:00+00:00"
+          "summary": "Google rend optionnel le filigrane visible qui marquait les images, vidéos et sons créés par Gemini. Le logo visible peut disparaître, mais le marquage invisible qui identifie l'IA reste gravé dans le fichier.",
+          "published": "2026-08-17T06:46:33+00:00"
         },
         {
-          "title": "Passer à l’OLED pour jouer devient plus intéressant avec cet écran PC MSI 27″ en 1440p à 240 Hz à moins de 350 €",
-          "link": "https://www.frandroid.com/bons-plans/3212561_passer-a-loled-pour-jouer-devient-plus-interessant-avec-cet-ecran-pc-msi-27-en-1440p-a-240-hz-a-moins-de-350-e",
-          "source": "Frandroid",
-          "summary": "Le MSI MAG 274QP est un écran PC gaming qui a l'avantage de proposer une dalle OLED pour sublimer les couleurs, qui vient concurrencer un Samsung Odyssey OLED G6 ou Alienware AW2725DF avec un tarif agressif de 349,90…",
-          "published": "2026-08-16T17:46:00+00:00"
+          "title": "Avec ChatGPT Computer History, OpenAI présente sa version de Windows Recall sur Mac",
+          "link": "https://www.clubic.com/actualite-625510-avec-chatgpt-computer-history-openai-presente-sa-version-de-windows-recall-sur-mac.htmlt",
+          "source": "Clubic",
+          "summary": "OpenAI a commencé à déployer une fonction baptisée \"Computer History\" dans l'application ChatGPT pour macOS. Celle-ci construit une mémoire de l'activité de l'utilisateur à partir de ses clics, de sa frappe clavier et…",
+          "published": "2026-08-17T06:43:00+00:00"
         },
         {
-          "title": "Kindle 2026 : quelle liseuse Amazon choisir ? Notre comparatif complet",
-          "link": "https://www.frandroid.com/guide-dachat/711901_amazon-kindle-guide-choisir",
+          "title": "ChatGPT ne pourra pas enregistrer le contenu de votre ordinateur et c’est probablement mieux comme ça",
+          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3213283_chatgpt-ne-pourra-pas-enregistrer-le-contenu-de-votre-ordinateur-et-cest-probablement-mieux-comme-ca",
           "source": "Frandroid",
-          "summary": "Les Kindle d'Amazon sont les liseuses électroniques de référence. Quelle est celle qui vous correspondra le mieux pour lire vos e-books favoris ? Voici notre comparatif des différentes Kindle actuellement sur le marché.",
-          "published": "2026-08-16T17:00:12+00:00"
+          "summary": "Aux États-Unis, OpenAI a présenté la dernière fonctionnalité de son application Mac&nbsp;: Computer History. Cette dernière permet à l’IA conversationnelle d’enregistrer toute votre activité pour vous aider à vous…",
+          "published": "2026-08-17T06:21:15+00:00"
         },
         {
-          "title": "Le prix de la Nintendo Switch 2 chute de 100 € avant la hausse de prix de septembre",
-          "link": "https://www.numerama.com/tech/2312077-le-prix-de-la-nintendo-switch-2-chute-de-100-e-avant-la-hausse-de-prix-de-septembre.html",
+          "title": "Garmin Forerunner 165 : cette montre GPS running avec écran AMOLED chute à 111 € seulement",
+          "link": "https://www.frandroid.com/bons-plans/3212723_garmin-forerunner-165-cette-montre-gps-running-avec-ecran-amoled-chute-a-111-e-seulement",
+          "source": "Frandroid",
+          "summary": "La Garmin Forerunner 165 est une montre GPS orientée running considérée comme un milieu de gamme pour la marque, avec tout de même un écran AMOLED, qui se retrouve à 111,11 euros sur AliExpress, au lieu de 279 euros.",
+          "published": "2026-08-17T06:19:00+00:00"
+        },
+        {
+          "title": "Piratage des impôts : Sébastien Lecornu réunit une cellule de crise après le vol des données de 678 000 contribuables",
+          "link": "https://www.frandroid.com/culture-tech/politique/3213273_piratage-des-impots-sebastien-lecornu-reunit-une-cellule-de-crise-apres-le-vol-des-donnees-de-678-000-contribuables",
+          "source": "Frandroid",
+          "summary": "Les données fiscales de 678&nbsp;000 contribuables ont été volées à l'administration. Sébastien Lecornu réunit une cellule de crise ce lundi, au moment même où les premiers e-mails d'alerte partent vers les victimes.",
+          "published": "2026-08-17T06:18:34+00:00"
+        },
+        {
+          "title": "Cet héritier de The Witcher 3 s’est aussi inspiré de Guitar Hero",
+          "link": "https://www.numerama.com/pop-culture/2312331-cet-heritier-de-the-witcher-3-sest-aussi-inspire-de-guitar-hero.html",
           "source": "Numerama",
-          "summary": "[Deal du jour] Nintendo a confirmé que le prix de la Switch 2 passera de 469,99 € à 499,99 € le 1ᵉʳ septembre 2026. Sur Aliexpress, un code promo fait descendre la console à 367,79 €, soit plus de 100 € d'économies par…",
-          "published": "2026-08-16T17:00:00+00:00"
+          "summary": "Les combats de The Blood of Dawnwalker, RPG attendu pour début septembre, sont inspirés de Guitar Hero, a révélé le directeur du jeu. Vous allez comprendre pourquoi.",
+          "published": "2026-08-17T06:05:12+00:00"
         },
         {
-          "title": "La NASA finance de petits robots volants pour explorer les grottes de Titan",
-          "link": "https://www.clubic.com/actualite-625507-la-nasa-finance-de-petits-robots-volants-pour-explorer-les-grottes-de-titan.html",
+          "title": "Un adulte se fait passer pour une enfant sur Xooloo, la messagerie destinée aux enfants",
+          "link": "https://www.clubic.com/actualite-625504-un-adulte-se-fait-passer-pour-une-enfant-sur-xooloo-la-messagerie-destinee-aux-enfants.html",
           "source": "Clubic",
-          "summary": "Le programme de concepts avancés de la NASA a sélectionné un projet de petit robot sphérique à propulsion ionique, imaginé par un chercheur de l’université d’Hawaï. SPARK doit explorer les cavités souterraines de Titan,…",
-          "published": "2026-08-16T16:42:00+00:00"
+          "summary": "Une mère de famille de la Loire a porté plainte en février après avoir découvert qu’un homme adulte aurait usurpé l’identité d’une fillette de 10 ans sur Xooloo, une messagerie sécurisée pour les enfants. L’homme,…",
+          "published": "2026-08-17T06:05:00+00:00"
         },
         {
-          "title": "Pour la sortie de La fin d’Oak Street et ses dinosaures, on a classé les films Jurassic Park du pire au meilleur",
-          "link": "https://www.numerama.com/pop-culture/2309747-pour-la-sortie-de-la-fin-doak-street-et-ses-dinosaures-on-a-classe-les-films-jurassic-park-du-pire-au-meilleur.html",
-          "source": "Numerama",
-          "summary": "La fin d’Oak Street est sortie en salles ce 12 août 2026, et avec elle, le plaisir de voir des dinosaures ailleurs que dans un film Jurassic Park. C’était pour nous l’excuse parfaite pour revenir sur l’heptalogie…",
-          "published": "2026-08-16T16:30:00+00:00"
+          "title": "Amazon frappe fort en cette mi-août avec 15 ventes Flash à ne pas rater",
+          "link": "https://www.clubic.com/bons-plans-625405-ventes-flash-amazon-lance-15-promos-ephemeres-en-cette-mi-aout.html",
+          "source": "Clubic",
+          "summary": "La mi-août est une période calme pour le commerce, et c’est justement là que les prix du high-tech se relâchent, entre fin des vacances et préparation de la rentrée. Amazon aligne 15 ventes flash sur des téléviseurs,…",
+          "published": "2026-08-17T06:00:00+00:00"
         },
         {
-          "title": "Xiaomi 17T Pro vs Xiaomi 15T Pro : comment choisir le meilleur smartphone ?",
-          "link": "https://www.frandroid.com/versus/3184905_xiaomi-17t-pro-vs-xiaomi-15t-pro-comment-choisir-le-meilleur-smartphone",
+          "title": "Qualcomm détaille sa puce Snapdragon C pour PC Windows à 300 dollars",
+          "link": "https://next.ink/251835/qualcomm-detaille-sa-puce-snapdragon-c-pour-pc-windows-a-300-dollars/",
+          "source": "Next",
+          "summary": "Les premiers PC «&#160;à 300&#160;dollars » équipés de la puce Snapdragon C sortiront dans les prochains mois. Des ordinateurs auxquels il ne faudra pas demander la Lune compte tenu de leur prix. Qualcomm promet…",
+          "published": "2026-08-17T05:54:18+00:00"
+        },
+        {
+          "title": "Quel aspirateur robot pas cher choisir en 2026 ? Notre sélection",
+          "link": "https://www.frandroid.com/guide-dachat/2767881_les-meilleurs-aspirateurs-robots-pas-chers-notre-selection",
           "source": "Frandroid",
-          "summary": "Cette année, Xiaomi opère une méchante augmentation des prix sur sa gamme \"T\". Le 17T Pro reste-t-il compétitif, face au Xiaomi 15T Pro de l'an dernier ? On se pose la question dans ce nouveau versus !",
-          "published": "2026-08-16T16:00:00+00:00"
+          "summary": "Un petit aspirateur robot vous ferait de l'œil, mais vous n'avez pas envie de dépenser des mille et des cents dans ce type d'appareil ? Bienvenue sur notre comparatif des meilleurs aspirateurs robots pas chers à acheter…",
+          "published": "2026-08-17T05:46:06+00:00"
         },
         {
-          "title": "Le rapport performances-prix du robot aspirateur laveur Mova E40 Ultra s’améliore nettement quand il passe sous les 300 €",
-          "link": "https://www.frandroid.com/bons-plans/3212543_le-rapport-performances-prix-du-robot-aspirateur-laveur-mova-e40-ultra-sameliore-nettement-quand-il-passe-sous-les-300-e",
+          "title": "ExpressVPN lance ExpressAI, un assistant IA qui supprime vos conversations après chaque réponse",
+          "link": "https://www.clubic.com/actualite-623971-expressvpn-lance-expressai-un-assistant-ia-qui-supprime-vos-conversations-apres-chaque-reponse.html",
+          "source": "Clubic",
+          "summary": "Chaque échange avec une IA peut laisser des traces : historique stocké, données exploitées et risques de fuites. Pour répondre à ces enjeux, ExpressAI mise sur le chiffrement et la confidentialité afin de se démarquer.",
+          "published": "2026-08-17T05:30:00+00:00"
+        },
+        {
+          "title": "App Lock : Android va enfin vous permettre de bloquer l’accès à certaines applications",
+          "link": "https://www.frandroid.com/marques/google/3213263_app-lock-android-va-enfin-vous-permettre-de-bloquer-lacces-a-certaines-applications",
           "source": "Frandroid",
-          "summary": "Très complet mais accessible, le Mova E40 Ultra est un aspirateur robot laveur efficace qui devrait intéresser les maniaques fauchés. Ce modèle est même encore plus abordable que d'habitude : on le trouve à 299 euros au…",
-          "published": "2026-08-16T15:35:00+00:00"
-        },
-        {
-          "title": "Meta avait promis de supprimer ces vidéos, elles sont toujours partout sur Instagram",
-          "link": "https://www.clubic.com/actualite-625501-meta-avait-promis-de-supprimer-ces-videos-elles-sont-toujours-partout-sur-instagram.html",
-          "source": "Clubic",
-          "summary": "Mi-juillet, le patron d’Instagram avait promis de supprimer les vidéos de harcèlement filmées avec les lunettes connectées de Meta. Un mois plus tard, des dizaines de vidéos similaires sont toujours en ligne sur des…",
-          "published": "2026-08-16T15:16:00+00:00"
-        },
-        {
-          "title": "Ce logiciel gratuit fait ronronner le trackpad de votre MacBook comme un chat",
-          "link": "https://www.numerama.com/tech/2309089-ce-logiciel-gratuit-fait-ronronner-le-trackpad-de-votre-macbook-comme-un-chat.html",
-          "source": "Numerama",
-          "summary": "PurrPad détourne le retour haptique du trackpad des MacBook pour reproduire les vibrations d’un chat qui ronronne. Une expérience plutôt convaincante, mais qui peut devenir lassante.",
-          "published": "2026-08-16T15:01:00+00:00"
-        },
-        {
-          "title": "Cette IA s'attaque à 250 000 lignes de code pour faire entrer la météo dans l'ère des GPU",
-          "link": "https://www.clubic.com/actualite-625498-cette-ia-s-attaque-a-250-000-lignes-de-code-pour-faire-entrer-la-meteo-dans-l-ere-des-gpu.html",
-          "source": "Clubic",
-          "summary": "Une équipe de chercheurs japonais a porté sur GPU un logiciel météorologique hérité, écrit en 250 000 lignes de Fortran, avec l’aide de l’agent de codage Claude Code, pour une accélération de 5,1 fois sur une simulation…",
-          "published": "2026-08-16T14:47:00+00:00"
-        },
-        {
-          "title": "Rentrée : ces iPhone dernière génération passent à 20 € par mois sans un euro d'intérêt",
-          "link": "https://www.clubic.com/actualite-625357-rentree-ces-iphone-derniere-generation-passent-a-20-par-mois-sans-un-euro-d-interet.html",
-          "source": "Clubic",
-          "summary": "Renouveler son smartphone à la rentrée revient souvent à sortir plus de mille euros d’un coup. Bouygues Telecom prend le problème par un autre bout et découpe la facture sur trois ans, forfait 5G compris.",
-          "published": "2026-08-16T14:30:00+00:00"
+          "summary": "S’il vous arrive de prêter votre téléphone à des yeux un peu trop indiscrets, sachez que Google va bientôt proposer une fonctionnalité permettant d’exiger un code ou une empreinte biométrique au moment de l’ouverture…",
+          "published": "2026-08-17T05:29:54+00:00"
         }
       ]
     }
