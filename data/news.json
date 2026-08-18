@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-17T21:24:23.872534+00:00",
+  "generated_at": "2026-08-18T01:07:50.059291+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Brésil : Lula salue la découverte de pétrole au large de l’Amazonie, qu’il qualifie de « passeport pour l’avenir »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/18/bresil-lula-salue-la-decouverte-de-petrole-au-large-de-l-amazonie-qu-il-qualifie-de-passeport-pour-l-avenir_6748616_3244.html",
+          "source": "Le Monde",
+          "summary": "La compagnie publique Petrobras, qui a annoncé avoir détecté des indices de la présence d’hydrocarbures en eaux profondes, poursuit ses forages pour mesurer l’ampleur du gisement. Les défenseurs de l’environnement…",
+          "published": "2026-08-18T00:11:41+00:00"
+        },
+        {
+          "title": "Différend diplomatique sur les îles Kouriles : l’ambassadeur japonais convoqué au ministère russe des affaires étrangères",
+          "link": "https://www.lemonde.fr/international/article/2026/08/18/differend-diplomatique-sur-les-iles-kouriles-l-ambassadeur-japonais-convoque-au-ministere-russe-des-affaires-etrangeres_6748583_3210.html",
+          "source": "Le Monde",
+          "summary": "La visite de Vladimir Poutine, jeudi, dans le sud de l’archipel administré par la Russie, mais revendiqué par le Japon, a ravivé les tensions entre les deux pays.",
+          "published": "2026-08-17T23:49:31+00:00"
+        },
+        {
+          "title": "L'administration Trump met un coup de frein au projet de barrières anti-immigration au Texas",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260817-administration-trump-etats-unis-met-coup-frein-projet-barrieres-anti-immigration-texas-big-bend-critiques",
+          "source": "France 24",
+          "summary": "Le chef de la police aux frontières américaine a annoncé lundi suspendre le projet de sécurisation de la frontière avec le Mexique dans le parc national Big Bend au Texas afin de \"procéder à une évaluation personnelle\".…",
+          "published": "2026-08-17T23:34:38+00:00"
+        },
+        {
+          "title": "Paramount réclame une caution de 1,9 milliard de dollars aux douze Etats américains s’opposant à sa fusion avec Warner Bros",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/18/paramount-exige-une-caution-de-1-9-milliard-de-dollars-aux-12-etats-americains-s-opposant-a-sa-fusion-avec-warner-bros_6748550_3234.html",
+          "source": "Le Monde",
+          "summary": "Le rachat par le groupe de David Ellison de son concurrent est contesté en justice par des Etats démocrates, ainsi que par le syndicat des scénaristes. La fusion des deux studios hollywoodiens est suspendue jusqu’au…",
+          "published": "2026-08-17T22:56:43+00:00"
+        },
+        {
+          "title": "Au Texas, Donald Trump suspend un projet de sécurisation de la frontière avec le Mexique dans le parc national Big Bend",
+          "link": "https://www.lemonde.fr/international/article/2026/08/18/au-texas-donald-trump-suspend-un-projet-de-securisation-de-la-frontiere-avec-le-mexique_6748517_3210.html",
+          "source": "Le Monde",
+          "summary": "Très critiqué par les habitants et des élus locaux, le plan prévoyait d’installer des barrières, des dispositifs d’éclairage et des technologies de détection au sein de cet espace protégé.",
+          "published": "2026-08-17T22:35:29+00:00"
+        },
+        {
+          "title": "N.3 de la Fifa, le Français Kevin Lamour quitte son poste après s'être opposé à Gianni Infantino",
+          "link": "https://www.france24.com/fr/sports/20260817-football-fifa-kevin-lamour-quitte-poste-oppose-gianni-infantino-projet-investisseurs-prives-abandonne-directeur-general-operations",
+          "source": "France 24",
+          "summary": "La Fédération internationale de football a mis fin, lundi, au contrat de son directeur général des opérations, le Français Kevin Lamour. Il a été l'une des voix les plus haut placées à critiquer le projet de Gianni…",
+          "published": "2026-08-17T22:11:36+00:00"
+        },
+        {
+          "title": "Le Sénégal adopte une loi sur le patrimoine du chef de l'Etat et du président du Parlement",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260817-le-s%C3%A9n%C3%A9gal-adopte-une-loi-sur-le-patrimoine-du-chef-de-l-etat-et-du-pr%C3%A9sident-du-parlement",
+          "source": "France 24",
+          "summary": "Au Sénégal, la passe d'armes entre le pouvoir exécutif de Bassirou Diomaye Faye et le pouvoir législatif d'Ousmane Sonko s'est poursuivi à l'Assemblée nationale, avec une proposition de loi sur l'obligation d'une…",
+          "published": "2026-08-17T21:10:28+00:00"
+        },
         {
           "title": "Gaza : Kushner rencontre Netanyahu pour tenter de sortir le plan Trump de l'impasse",
           "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-gaza-kushner-rencontre-netanyahu-pour-tenter-de-sortir-le-plan-trump-de-l-impasse",
@@ -24,55 +73,6 @@
           "source": "Le Monde",
           "summary": "L’agence brésilienne de protection des données avait ordonné mercredi la suspension des directs sur le réseau social, à la suite de la mort d’une adolescente qui aurait été incitée au suicide sur cette plateforme.",
           "published": "2026-08-17T19:30:25+00:00"
-        },
-        {
-          "title": "Piratage du Fisc : Lecornu demande un audit à l'ANSSI, 350 000 particuliers contactés",
-          "link": "https://www.france24.com/fr/france/20260817-piratage-du-fisc-lecornu-demande-un-audit-%C3%A0-l-anssi-350-000-particuliers-contact%C3%A9s",
-          "source": "France 24",
-          "summary": "Sébastien Lecornu a annoncé lundi avoir demandé un audit à l'Agence nationale de la sécurité des systèmes d'information (ANSSI) sur le vol de données ayant affecté la Direction générale des finances publiques (DGFiP).…",
-          "published": "2026-08-17T19:22:14+00:00"
-        },
-        {
-          "title": "Ebola en RDC : l'actuelle épidémie devient la plus meurtrière de l'histoire du pays",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-ebola-en-rdc-l-actuelle-%C3%A9pid%C3%A9mie-devient-la-plus-meurtri%C3%A8re-de-l-histoire-du-pays",
-          "source": "France 24",
-          "summary": "En RDC, l’épidémie d’Ebola a déjà fait plus de 2 300 morts, dépassant le bilan de la crise de 2018-2020, jusque-là la plus meurtrière. Face à l’urgence, les appels se multiplient pour accélérer la mise sur le marché des…",
-          "published": "2026-08-17T18:58:44+00:00"
-        },
-        {
-          "title": "Cette vidéo partagée par l'agence Reuters ne montre pas un nouvel afflux massif de migrants à Ceuta",
-          "link": "https://www.france24.com/fr/afrique/20260817-cette-vid%C3%A9o-partag%C3%A9e-par-l-agence-reuters-ne-montre-pas-un-nouvel-afflux-massif-de-migrants-%C3%A0-ceuta",
-          "source": "France 24",
-          "summary": "Alors qu'un deuxième afflux de migrants à Ceuta avait été anticipé le week-end dernier, une vidéo censée montrer une foule de personnes se rendant dans l'enclave espagnole dans la nuit du 15 août a été partagée sur les…",
-          "published": "2026-08-17T17:52:31+00:00"
-        },
-        {
-          "title": "Incendie en Belgique : le feu dans les Hautes-Fagnes provoque un débat sur l’impréparation du pays au changement climatique",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/17/en-belgique-l-incendie-des-fagnes-provoque-un-debat-sur-l-impreparation-du-pays-au-changement-climatique_6748411_3244.html",
-          "source": "Le Monde",
-          "summary": "Le feu qui embrase depuis le 14 août le plateau des Hautes-Fagnes, dans l’est de la Belgique, continue de progresser.",
-          "published": "2026-08-17T17:33:47+00:00"
-        },
-        {
-          "title": "À Ceuta, des migrants bloqués aux portes de l'Europe attendent de connaître leur sort",
-          "link": "https://www.france24.com/fr/europe/20260817-ceuta-enclave-espagne-le-sort-des-migrants-suspendu-porte-europe-immigration-fronti%C3%A8re-maroc",
-          "source": "France 24",
-          "summary": "L'enclave espagnole située en Afrique du Nord a vu, fin juillet, des milliers de migrants arriver sur son territoire. Certains d'entre eux se sont installés sur la plage El Trampolin, à Ceuta. Ces personnes de…",
-          "published": "2026-08-17T17:15:16+00:00"
-        },
-        {
-          "title": "VIDEO Cisjordanie : l’histoire de la famille Ridi, assiégée par des colons israéliens depuis plusieurs jours",
-          "link": "https://www.lemonde.fr/international/video/2026/08/17/cisjordanie-l-histoire-de-la-famille-ridi-assiegee-par-des-colons-israeliens-depuis-plusieurs-jours_6748408_3210.html",
-          "source": "Le Monde",
-          "summary": "Depuis le 9 août 2026, quelques dizaines de colons bloquent l’accès à des maisons palestiniennes dans le village de Qusra, près de Naplouse.",
-          "published": "2026-08-17T17:05:18+00:00"
-        },
-        {
-          "title": "Gaza : Benyamin Nétanyahou demande qu’un général américain supervise le désarmement du Hamas avant tout retrait israélien",
-          "link": "https://www.lemonde.fr/international/article/2026/08/17/gaza-benyamin-netanyahou-demande-qu-un-general-americain-supervise-le-desarmement-du-hamas-avant-tout-retrait-israelien_6748405_3210.html",
-          "source": "Le Monde",
-          "summary": "Le premier ministre israélien a rencontré l’émissaire américain Jared Kushner chargé de faire avancer le plan de paix américain. Ce dernier a dit lundi espérer un début du désarmement du Hamas d’ici à « trente jours ».",
-          "published": "2026-08-17T16:57:50+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Qui sort gagnant de l’entente sur Churchill Falls?",
-          "link": "https://www.ledevoir.com/economie/1002317/sort-gagnant-entente-churchill-falls",
+          "title": "Le plus haut tribunal de l’Ontario autorise le gouvernement Ford à retirer des pistes cyclables",
+          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1002323/plus-haut-tribunal-ontario-autorise-gouvernement-ford-retirer-pistes-cyclables",
           "source": "Le Devoir",
-          "summary": "Une nouvelle mouture de l’entente a été annoncée. Est-ce que ce sera la bonne? «Le Devoir» fait le point.",
-          "published": "2026-08-17T20:33:09+00:00"
+          "summary": "Un tribunal de première instance avait auparavant donné raison à des cyclistes, jugeant la loi en contravention de la Charte.",
+          "published": "2026-08-18T04:00:00+00:00"
         },
         {
-          "title": "Les trois actus du 17 août",
-          "link": "https://www.ledevoir.com/actualites/1002314/trois-actus-17-aout",
+          "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques",
+          "link": "https://www.ledevoir.com/economie/1002350/ottawa-apprete-abroger-obligation-vente-vehicules-electriques",
           "source": "Le Devoir",
-          "summary": "Entente sur Churchill Falls, trou dans les finances publiques et une école de Québec ferme: ce qu’il faut retenir.",
-          "published": "2026-08-17T20:25:00+00:00"
+          "summary": "Ces véhicules devaient représenter au moins 20% des ventes automobiles au pays en 2026.",
+          "published": "2026-08-18T00:49:46+00:00"
         },
         {
-          "title": "Trump menace de bombarder Oman s’il entrave un accord sur le détroit d’Ormuz",
-          "link": "https://www.ledevoir.com/monde/1002311/trump-menace-bombarder-oman-il-entrave-accord-detroit-ormuz",
-          "source": "Le Devoir",
-          "summary": "Mascate et Téhéran mènent depuis des semaines des discussions sans Washington à propos de ce passage stratégique.",
-          "published": "2026-08-17T20:17:57+00:00"
-        },
-        {
-          "title": "Polytechnique Montréal | Un laboratoire prépare le Canada à faire face aux futures pandémies",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-17/polytechnique-montreal/un-laboratoire-prepare-le-canada-a-faire-face-aux-futures-pandemies.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Parti québécois | Une annonce « importante » mardi sur la tenue d’un référendum",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-17/parti-quebecois/une-annonce-importante-mardi-sur-la-tenue-d-un-referendum.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Dans un laboratoire de biomédecine de Polytechnique Montréal, des protéines animales se développent dans une solution orange bouillonnante, tandis que des chercheurs en blouse blanche prélèvent des échantillons à l’aide…",
-          "published": "2026-08-17T20:08:33+00:00"
+          "summary": "À l’aube du déclenchement des élections, Paul St-Pierre Plamondon tiendra une annonce « importante » sur la tenue d’un référendum, demain matin. Le chef péquiste laisse planer le suspense sur les réseaux sociaux.",
+          "published": "2026-08-18T00:01:14+00:00"
         },
         {
-          "title": "Le président taïwanais veut proposer des dépenses de défense records en 2027",
-          "link": "https://www.ledevoir.com/monde/asie/1002290/president-taiwanais-veut-proposer-depenses-defense-records-2027",
-          "source": "Le Devoir",
-          "summary": "L’île se défend contre la Chine, qui menace de recourir à la force pour s’emparer du territoire.",
-          "published": "2026-08-17T19:37:08+00:00"
-        },
-        {
-          "title": "La CSQ appelle les partis politiques à avoir «du courage en éducation»",
-          "link": "https://www.ledevoir.com/politique/quebec/1002287/csq-appelle-partis-politiques-avoir-courage-education",
-          "source": "Le Devoir",
-          "summary": "Il faut être capable de se dire que «ça ne va pas bien», lance le président de la centrale à l’approche des élections.",
-          "published": "2026-08-17T19:31:00+00:00"
-        },
-        {
-          "title": "Les droits de douane pourraient affaiblir le Canada dans les négociations de l’ACEUM",
-          "link": "https://www.ledevoir.com/economie/1002281/droits-douane-pourraient-affaiblir-canada-negociations-aceum",
-          "source": "Le Devoir",
-          "summary": "Le produit intérieur brut à court terme risque de souffrir de ces mesures, estime un économiste.",
-          "published": "2026-08-17T19:01:00+00:00"
-        },
-        {
-          "title": "Rapport préélectoral: atteindre l’équilibre budgétaire sera tout un défi, avec près de 5 milliards $ à trouver",
-          "link": "https://www.journaldemontreal.com/2026/08/17/rapport-preelectoral-atteindre-lequilibre-budgetaire-sera-tout-un-defi-avec-pres-de-5-milliards--a-trouver",
-          "source": "Journal de Montreal",
-          "summary": "Même si le plan caquiste pour atteindre l’équilibre budgétaire est plausible, le défi pour y arriver sera important, selon la vérificatrice générale.",
-          "published": "2026-08-17T18:46:55+00:00"
-        },
-        {
-          "title": "Tendances web | Justin Trudeau et Katy Perry dansent dans une quincaillerie à Montréal",
-          "link": "https://www.lapresse.ca/arts/celebrites/2026-08-17/tendances-web/justin-trudeau-et-katy-perry-dansent-dans-une-quincaillerie-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Victimes des conflits armés | Le 2e pire bilan annuel depuis le Rwanda",
+          "link": "https://www.lapresse.ca/international/2026-08-17/victimes-des-conflits-armes/le-2e-pire-bilan-annuel-depuis-le-rwanda.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’ancien premier ministre Justin Trudeau s’est mis à danser et à chanter lorsque la nouvelle chanson de son fils aîné, Xavier, s’est mise à jouer à la radio... à la quincaillerie.",
-          "published": "2026-08-17T18:38:49+00:00"
+          "summary": "En 2025, pour une troisième année consécutive, c’est la guerre entre la Russie et l’Ukraine qui a été la plus meurtrière dans le monde, suivie de Gaza et du Soudan.",
+          "published": "2026-08-18T00:00:00+00:00"
         },
         {
-          "title": "«On n'a aucun pouvoir»: les détaillants québécois sans défense face à «SHEIN»",
-          "link": "https://www.journaldemontreal.com/2026/08/17/on-na-aucun-pouvoir-les-detaillants-quebecois-sans-defense-face-a-shein",
-          "source": "Journal de Montreal",
-          "summary": "Le pop-up du 27 au 30 août de SHEIN s'ajoute à la compétition entre les commerçants qui n'ont «aucun pouvoir» face aux faibles coûts du géant chinois.",
-          "published": "2026-08-17T18:36:44+00:00"
+          "title": "La Maison-Blanche et Donald Trump s’emportent contre une journaliste de CNN",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1002347/maison-blanche-trump-emportent-contre-journaliste-cnn",
+          "source": "Le Devoir",
+          "summary": "Le président américain est connu pour attaquer les femmes journalistes avec une virulence particulière.",
+          "published": "2026-08-17T23:50:00+00:00"
+        },
+        {
+          "title": "Les Îles-de-la-Madeleine perdent leur unique Tim Hortons",
+          "link": "https://www.lapresse.ca/actualites/2026-08-17/les-iles-de-la-madeleine-perdent-leur-unique-tim-hortons.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’unique restaurant Tim Hortons des Îles-de-la-Madeleine va fermer ses portes dans moins d’un mois, faute de main-d’œuvre. Le propriétaire montre du doigt le resserrement des politiques d’immigration. Mais derrière…",
+          "published": "2026-08-17T23:00:00+00:00"
+        },
+        {
+          "title": "Un si puissant voisin | Quand Trump redore l’image de... la Chine",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-17/un-si-puissant-voisin/quand-trump-redore-l-image-de-la-chine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Parce que tout ce qui se passe au sud de la frontière finit par avoir des répercussions chez nous",
+          "published": "2026-08-17T23:00:00+00:00"
+        },
+        {
+          "title": "Aide à l’industrie forestière | Une majorité de petits acteurs exclus",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-08-17/aide-a-l-industrie-forestiere/une-majorite-de-petits-acteurs-exclus.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le nouveau programme fédéral d’aide à l’industrie forestière est mal ficelé, dénonce le Bloc québécois. Il exclut près de 80 % des entreprises au moment où les États-Unis refusent de réduire les droits de douane qui…",
+          "published": "2026-08-17T22:04:01+00:00"
+        },
+        {
+          "title": "700 personnalités de la culture demandent à Montréal de condamner Israël",
+          "link": "https://www.ledevoir.com/politique/montreal/1002329/700-personnalites-culture-demandent-montreal-condamner-israel",
+          "source": "Le Devoir",
+          "summary": "Elles appuient une motion de Projet Montréal qui dénonce le «génocide» contre les Palestiniens à Gaza.",
+          "published": "2026-08-17T21:38:00+00:00"
+        },
+        {
+          "title": "Faits et fiction s’opposent au cœur du procès du meurtre de Tupac Shakur",
+          "link": "https://www.ledevoir.com/culture/musique/1002332/fait-fiction-opposent-coeur-proces-meurtre-tupac-shakur",
+          "source": "Le Devoir",
+          "summary": "Duane Davis, accusé de meurtre avec une arme mortelle, a plaidé non coupable lundi.",
+          "published": "2026-08-17T21:29:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Trois personnes mises en examen dans l'Oise après la mort d'un quadragénaire des suites de ses blessures",
-          "link": "https://www.franceinfo.fr/faits-divers/trois-personnes-mises-en-examen-dans-l-oise-apres-la-mort-d-un-quadragenaire-des-suites-de-ses-blessures_8151473.html#xtor=RSS-3-[lestitres]",
+          "title": "Brésil : Lula salue la découverte de pétrole au large de l’Amazonie, qu’il qualifie de « passeport pour l’avenir »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/18/bresil-lula-salue-la-decouverte-de-petrole-au-large-de-l-amazonie-qu-il-qualifie-de-passeport-pour-l-avenir_6748616_3244.html",
+          "source": "Le Monde",
+          "summary": "La compagnie publique Petrobras, qui a annoncé avoir détecté des indices de la présence d’hydrocarbures en eaux profondes, poursuit ses forages pour mesurer l’ampleur du gisement. Les défenseurs de l’environnement…",
+          "published": "2026-08-18T00:11:41+00:00"
+        },
+        {
+          "title": "Dérèglement climatique : dans un monde à +1,5 °C, 22 % des plus de 60 ans feront face à une chaleur «incompensable»",
+          "link": "https://www.liberation.fr/environnement/climat/dereglement-climatique-dans-un-monde-a-15-c-22-des-plus-de-60-ans-feront-face-a-une-chaleur-incompensable-20260818_SCHGKFABFFGXFA2LNCHGNQNRJ4/",
+          "source": "Liberation",
+          "summary": "Une étude publiée ce mardi 18 août alerte sur les conséquences du réchauffement sur les personnes âgées. Vers 2030, alors que le seuil le plus ambitieux fixé par l’accord de Paris sera atteint, 290 millions d’entre…",
+          "published": "2026-08-17T23:30:00+00:00"
+        },
+        {
+          "title": "Paramount réclame une caution de 1,9 milliard de dollars aux douze Etats américains s’opposant à sa fusion avec Warner Bros",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/18/paramount-exige-une-caution-de-1-9-milliard-de-dollars-aux-12-etats-americains-s-opposant-a-sa-fusion-avec-warner-bros_6748550_3234.html",
+          "source": "Le Monde",
+          "summary": "Le rachat par le groupe de David Ellison de son concurrent est contesté en justice par des Etats démocrates, ainsi que par le syndicat des scénaristes. La fusion des deux studios hollywoodiens est suspendue jusqu’au…",
+          "published": "2026-08-17T22:56:43+00:00"
+        },
+        {
+          "title": "Au Texas, Donald Trump suspend un projet de sécurisation de la frontière avec le Mexique dans le parc national Big Bend",
+          "link": "https://www.lemonde.fr/international/article/2026/08/18/au-texas-donald-trump-suspend-un-projet-de-securisation-de-la-frontiere-avec-le-mexique_6748517_3210.html",
+          "source": "Le Monde",
+          "summary": "Très critiqué par les habitants et des élus locaux, le plan prévoyait d’installer des barrières, des dispositifs d’éclairage et des technologies de détection au sein de cet espace protégé.",
+          "published": "2026-08-17T22:35:29+00:00"
+        },
+        {
+          "title": "«Votre question dégoûtante et inhumaine» : la Maison-Blanche et Trump s'emportent contre une journaliste de CNN",
+          "link": "https://www.lefigaro.fr/international/votre-question-degoutante-et-inhumaine-la-maison-blanche-et-trump-s-emportent-contre-une-journaliste-de-cnn-20260818",
+          "source": "Le Figaro",
+          "summary": "Kristen Holmes a interrogé le président américain sur des propos tenus pendant un meeting par le sénateur démocrate de Géorgie Jon Ossoff, qui a reproché à Donald Trump de privilégier ses centres d’intérêt personnels à…",
+          "published": "2026-08-17T22:13:57+00:00"
+        },
+        {
+          "title": "\"Les mêmes dispositifs\" annoncés pour venir en aide aux sinistrés des incendies dans le Sud-Ouest \"seront mis en place\" dans le Var, déclare Emmanuel Macron",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-memes-dispositifs-annonces-pour-venir-en-aide-aux-sinistres-des-incendies-dans-le-sud-ouest-seront-mis-en-place-dans-le-var-declare-emmanuel-macron_8151491.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Deux personnes ont été mises en examen pour \"meurtre commis par personne agissant en état d'ivresse manifeste\", une autre pour \"complicité de meurtre commis par personne agissant en état d'ivresse manifeste\".",
-          "published": "2026-08-17T21:19:33+00:00"
+          "summary": "Plus tôt dans la journée lundi, Sébastien Lecornu a annoncé des mesures pour la Gironde et les Landes. Selon le Premier ministre, ce plan pourrait coûter plus de 100 millions d'euros.",
+          "published": "2026-08-17T21:57:22+00:00"
         },
         {
-          "title": "Un voilier à la dérive au large de l'île d'Yeu, des opérations de recherches en cours",
-          "link": "https://www.franceinfo.fr/faits-divers/un-voilier-a-la-derive-au-large-de-l-ile-d-yeu-des-operations-de-recherches-en-cours_8151470.html#xtor=RSS-3-[lestitres]",
+          "title": "Données susceptibles d'avoir été consultées, risques, mesures de précaution... Ce que contient le courriel envoyé aux victimes du piratage du fisc",
+          "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/donnees-susceptibles-d-avoir-ete-consultees-risques-mesures-de-precaution-ce-que-contient-le-courriel-envoye-aux-victimes-du-piratage-du-fisc_8151422.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "L'alerte est venue d'un passager d'un ferry qui a remarqué l'embarcation en mauvaise posture, lundi. Le nombre de ses occupants est encore inconnu.",
-          "published": "2026-08-17T21:10:15+00:00"
+          "summary": "Les envois de ce courriel commencent à partir de lundi soir, pour se poursuivre tout au long de la semaine.",
+          "published": "2026-08-17T21:45:03+00:00"
         },
         {
-          "title": "Les combattants africains de Poutine pris au piège en Ukraine : le récit de l’envoyée spéciale du Figaro",
-          "link": "https://www.lefigaro.fr/international/je-ne-sais-pas-ou-je-vais-finir-les-combattants-africains-de-moscou-pris-au-piege-en-ukraine-20260817",
+          "title": "Pourquoi Gérald Darmanin a préféré rallier Édouard Philippe plutôt que se lancer en 2027",
+          "link": "https://www.lefigaro.fr/politique/pourquoi-gerald-darmanin-a-prefere-rallier-edouard-philippe-plutot-que-se-lancer-en-2027-20260817",
           "source": "Le Figaro",
-          "summary": "REPORTAGE - Ni réclamés par la Russie ni soutenus par leur pays d’origine, ces prisonniers de guerre redoutent de tomber dans l’oubli.",
-          "published": "2026-08-17T21:08:22+00:00"
+          "summary": "RÉCIT - Le garde des Sceaux réunira ses proches le 30 août à Tourcoing. Il s’agit désormais pour lui de réussir à «peser» dans la campagne du maire du Havre après avoir été bousculé au gouvernement par l’affaire Lyhanna.",
+          "published": "2026-08-17T21:37:31+00:00"
         },
         {
-          "title": "L'émissaire américain Jared Kushner dit espérer un début du désarmement du Hamas à Gaza d'ici \"30 jours\"",
-          "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-emissaire-americain-jared-kushner-dit-esperer-un-debut-du-desarmement-du-hamas-a-gaza-d-ici-30-jours_8151446.html#xtor=RSS-3-[lestitres]",
+          "title": "Après une attaque de drones contre le bureau du Premier ministre du Kurdistan, l'Irak annonce l'ouverture d'une enquête",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/apres-une-attaque-de-drones-contre-le-bureau-du-premier-ministre-du-kurdistan-l-irak-annonce-l-ouverture-d-une-enquete_8151482.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Jared Kushner, également gendre de Donald Trump, a rencontré dimanche des membres de la direction du Hamas, avant une entrevue lundi avec Benyamin Nétanyahou.",
-          "published": "2026-08-17T20:57:23+00:00"
+          "summary": "Cette attaque n'a pas fait de victimes. Le Premier ministre de cette région autonome située dans le nord de l'Irak, a mis en cause des \"drones iraniens\".",
+          "published": "2026-08-17T21:36:42+00:00"
         },
         {
-          "title": "Un voilier à la dérive au large de l'île d'Yeu, des opérations de recherche lancées",
-          "link": "https://www.lefigaro.fr/actualite-france/un-voilier-a-la-derive-au-large-de-l-ile-d-yeu-des-operations-de-recherches-lancees-20260817",
+          "title": "L'administration Trump met sur pause un projet critiqué de sécurisation de la frontière au Texas",
+          "link": "https://www.lefigaro.fr/flash-actu/l-administration-trump-met-sur-pause-un-projet-critique-de-securisation-de-la-frontiere-au-texas-20260817",
           "source": "Le Figaro",
-          "summary": "L’alerte est venue d’un passager d’un ferry de la compagnie Brittany Ferries, lors d’un trajet entre Portsmouth et Bilbao, qui a remarqué l’embarcation en mauvaise posture.",
-          "published": "2026-08-17T20:57:21+00:00"
-        },
-        {
-          "title": "Meurtre d’un patron d’assurance à New York : le procès de Luigi Mangione reporté après ses aveux",
-          "link": "https://www.lefigaro.fr/international/meurtre-d-un-patron-d-assurance-a-new-york-le-proces-de-luigi-mangione-reporte-apres-ses-aveux-20260817",
-          "source": "Le Figaro",
-          "summary": "Ses avocats réclament l’abandon pur et simple des poursuites contre lui au niveau de l’État après qu’il a plaidé coupable la semaine dernière au niveau fédéral, arguant qu’il ne pouvait pas être jugé deux fois pour les…",
-          "published": "2026-08-17T20:56:13+00:00"
-        },
-        {
-          "title": "Un burger vendu chez Carrefour rappelé dans la France entière pour risque de listéria",
-          "link": "https://www.lefigaro.fr/flash-eco/un-burger-vendu-chez-carrefour-rappele-dans-la-france-entiere-pour-risque-de-listeria-20260817",
-          "source": "Le Figaro",
-          "summary": "La listériose «est une maladie qui peut être grave et dont le délai d’incubation peut aller jusqu’à huit semaines», souligne Rappel Conso. Elle est particulièrement dangereuse pour les femmes enceintes.",
-          "published": "2026-08-17T20:50:18+00:00"
-        },
-        {
-          "title": "Fifa : le Français Kevin Lamour quitte son poste de directeur des opérations après ses critiques envers Gianni Infantino",
-          "link": "https://www.lefigaro.fr/sports/football/fifa-le-francais-kevin-lamour-quitte-son-poste-de-directeur-des-operations-apres-ses-critiques-envers-gianni-infantino-20260817",
-          "source": "Le Figaro",
-          "summary": "L’ancien numéro 3 de la Fédération internationale de football avait publiquement critiqué la proposition du président de vendre des parts de la Coupe du monde.",
-          "published": "2026-08-17T20:45:32+00:00"
-        },
-        {
-          "title": "Oise : l’adjudant-chef de la brigade de gendarmerie de Breteuil retrouvé mort dans sa voiture",
-          "link": "https://www.lefigaro.fr/faits-divers/oise-l-adjudant-chef-de-la-brigade-de-gendarmerie-de-breteuil-retrouve-mort-dans-sa-voiture-20260817",
-          "source": "Le Figaro",
-          "summary": "Le corps du militaire a été retrouvé dimanche après-midi dans un bois de la commune de Rouvroy-les-Merles. Une enquête en recherche des causes de la mort a été ouverte par le parquet de Beauvais.",
-          "published": "2026-08-17T20:42:42+00:00"
-        },
-        {
-          "title": "Incendies : Emmanuel Macron promet pour le Var «les mêmes dispositifs» d’aide qu’en Gironde",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-le-feu-dans-les-landes-est-desormais-fixe-sebastien-lecornu-tres-attendu-en-gironde-ce-lundi-pour-lancer-la-reconstruction-20260817",
-          "source": "Le Figaro",
-          "summary": "Lors d’un point presse tenu en Gironde, département français fortement marqué par les incendies, le premier ministre a assumé de «sortir l’artillerie lourde» pour aider la région à se relever du sinistre.",
-          "published": "2026-08-17T20:40:17+00:00"
+          "summary": "Le ministère américain de la Sécurité intérieure (DHS) prévoyait d’installer des barrières, des dispositifs d’éclairage et des technologies de détection au sein du parc national Big Bend.",
+          "published": "2026-08-17T21:36:32+00:00"
         }
       ]
     },
