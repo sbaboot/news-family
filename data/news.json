@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-18T18:36:10.079332+00:00",
+  "generated_at": "2026-08-18T21:22:04.395627+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Ebola en RD Congo: l'épidémie est \"loin d'être maîtrisée\", alerte l'OMS",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260818-ebola-en-rd-congo-l-%C3%A9pid%C3%A9mie-est-loin-d-%C3%AAtre-ma%C3%AEtris%C3%A9e-alerte-l-oms",
+          "source": "France 24",
+          "summary": "L'épidémie d'Ebola en République démocratique du Congo est \"loin d'être maîtrisée\", a alerté l'OMS, mettant en garde contre un risque \"élevé\" de propagation internationale. \"L'épidémie s'est propagée rapidement et le…",
+          "published": "2026-08-18T20:40:28+00:00"
+        },
+        {
+          "title": "L'Europe impactée par la guerre au Moyen-Orient",
+          "link": "https://www.rfi.fr/fr/podcasts/accents-d-europe/20260818-l-europe-impact%C3%A9e-par-la-guerre-au-moyen-orient",
+          "source": "RFI",
+          "summary": "Elles sont devenues deux chaînes de télévision incontournables pour les Iraniens en quête d’une information indépendante du pouvoir... Depuis Londres, deux chaînes de télévision Iran International créée en 2017 et BBC…",
+          "published": "2026-08-18T20:05:05+00:00"
+        },
+        {
+          "title": "Les sanctions américaines contre la CPI \"sapent l'État de droit\", avertit la Cour",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260818-les-sanctions-am%C3%A9ricaines-contre-la-cpi-sapent-l-%C3%A9tat-de-droit-avertit-la-cour",
+          "source": "France 24",
+          "summary": "Les sanctions américaines contre de hauts responsables de la Cour pénale internationale \"sapent l'État de droit\", a déclaré mardi la Cour dans un communiqué. Cette communication de la justice internationale intervient…",
+          "published": "2026-08-18T20:02:31+00:00"
+        },
+        {
+          "title": "Paris va expulser deux diplomates iraniens en représailles à la décision de Téhéran",
+          "link": "https://www.france24.com/fr/france/20260818-paris-va-expulser-deux-diplomates-iraniens-en-repr%C3%A9sailles-%C3%A0-la-d%C3%A9cision-de-t%C3%A9h%C3%A9ran",
+          "source": "France 24",
+          "summary": "Le ministre français des Affaires étrangères a annoncé, mardi soir, que Paris va expulser deux diplomates iraniens en poste en France. Il s'agit d'une mesure de représailles à la décision de l'Iran de décréter persona…",
+          "published": "2026-08-18T19:38:39+00:00"
+        },
+        {
+          "title": "La France va expulser deux diplomates iraniens « dans les tout prochains jours »",
+          "link": "https://www.lemonde.fr/international/article/2026/08/18/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_6749089_3210.html",
+          "source": "Le Monde",
+          "summary": "Il s’agit d’une mesure en représailles à la décision iranienne de ne pas autoriser le retour en Iran de deux diplomates français qui avaient été brièvement arrêtés à Téhéran en juillet avant de quitter le pays.",
+          "published": "2026-08-18T19:05:32+00:00"
+        },
+        {
+          "title": "COP17 contre la désertification : la France n'échappe pas à la dégradation de ses sols",
+          "link": "https://www.france24.com/fr/france/20260818-cop17-contre-la-d%C3%A9sertification-la-france-n-%C3%A9chappe-pas-%C3%A0-la-d%C3%A9gradation-de-ses-sols",
+          "source": "France 24",
+          "summary": "La détérioration massive des sols est au cœur des discussions de la COP17 sur la lutte contre la désertification, qui a lieu jusqu'au 28 août en Mongolie. Alors que 70 % des terres françaises sont dégradées par des…",
+          "published": "2026-08-18T18:52:17+00:00"
+        },
+        {
+          "title": "\"Nous n’avons aucune envie de rentrer\" : à Ceuta, l'avenir en suspens des mineurs marocains",
+          "link": "https://www.france24.com/fr/afrique/20260818-maroc-espagne-ue-ceuta-avenir-en-suspens-des-mineurs-marocains",
+          "source": "France 24",
+          "summary": "France 24 a suivi pendant une nuit des migrants mineurs encore présents à Ceuta. Entre la peur, le froid et l’attente, de jeunes Marocains en quête d'une vie meilleure ont confié les détails poignants d'une histoire qui…",
+          "published": "2026-08-18T18:51:50+00:00"
+        },
+        {
+          "title": "Sénégal : la FSF nomme Vieira malgré le contentieux avec Pape Thiaw",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260818-s%C3%A9n%C3%A9gal-la-fsf-nomme-vieira-malgr%C3%A9-le-contentieux-avec-pape-thiaw",
+          "source": "France 24",
+          "summary": "Au Sénégal, Patrick Vieira est nommé sélectionneur des Lions de la Teranga. La nomination de Vieira intervient alors que l'ancien sélectionneur Pape Thiaw réclame à la FSF plus de 400 millions de francs CFA au titre de…",
+          "published": "2026-08-18T18:27:00+00:00"
+        },
+        {
+          "title": "Sénégal : adoption d'une loi sur la déclaration de patrimoine des plus hauts responsables",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260818-s%C3%A9n%C3%A9gal-adoption-d-une-loi-sur-la-d%C3%A9claration-de-patrimoine-des-plus-hauts-responsables",
+          "source": "France 24",
+          "summary": "🇸🇳 Au Sénégal, la modification de l’article 37 de la Constitution a été adoptée ce lundi. Le texte impose désormais au Premier Ministre et au président de l’Assemblée nationale, en plus du chef de l’État une seconde…",
+          "published": "2026-08-18T18:15:11+00:00"
+        },
+        {
           "title": "« Vous n’imaginez pas comme les Afghanes se battent et inventent des stratégies pour survivre » : une radio féminine et des écoles clandestines comme lueurs d’espoir",
           "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/vous-n-imaginez-pas-comme-les-afghanes-se-battent-et-inventent-des-strategies-pour-survivre-une-radio-feminine-et-des-ecoles-clandestines-comme-lueurs-d-espoir_6749086_3451060.html",
           "source": "Le Monde",
           "summary": "« Paroles d’Afghanes » (3/6). « Faite par des femmes pour les femmes », Radio Begum est pour nombre d’Afghanes leur unique lien avec l’extérieur. Parallèlement, les initiatives foisonnent pour assouvir la soif…",
-          "published": "2026-08-18T18:00:10+00:00"
-        },
-        {
-          "title": "Pakistan : Imran Khan, l’ancien premier ministre emprisonné depuis trois ans, obtient son transfert temporaire dans un hôpital d’Islamabad",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/au-pakistan-l-ancien-premier-ministre-imran-khan-emprisonne-depuis-trois-ans-obtient-son-transfert-temporaire-dans-un-hopital-d-islamabad_6749087_3210.html",
-          "source": "Le Monde",
-          "summary": "Le populaire ex-dirigeant de 74 ans, qui souffre de problèmes de santé, subit des conditions de détention particulièrement sévères et un isolement quasi complet depuis le début de son incarcération.",
           "published": "2026-08-18T18:00:07+00:00"
-        },
-        {
-          "title": "Les Etats-Unis sanctionnent Tomoko Akane, présidente de la CPI",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-tomoko-akane_6749085_3210.html",
-          "source": "Le Monde",
-          "summary": "Washington a lancé le mois dernier une offensive diplomatique majeure contre la CPI, l’accusant de « menacer » les Américains et appelant ses partenaires à s’en retirer.",
-          "published": "2026-08-18T17:47:19+00:00"
-        },
-        {
-          "title": "En Chine, l’hommage de Xi Jinping à l’ancien dirigeant Jiang Zemin, l’artisan de la reprise en main de la jeunesse après le massacre de Tiananmen",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/en-chine-l-hommage-de-xi-jinping-a-l-ancien-dirigeant-jiang-zemin-l-artisan-de-la-reprise-en-main-de-la-jeunesse-apres-le-massacre-de-tiananmen_6749084_3210.html",
-          "source": "Le Monde",
-          "summary": "Le dirigeant s’est saisi du centenaire de la naissance de l’ancien chef du Parti communiste pour saluer sa fermeté après la répression du mouvement étudiant de juin 1989 et se remémorer l’âge d’or de l’économie chinoise.",
-          "published": "2026-08-18T17:30:06+00:00"
-        },
-        {
-          "title": "Piratage du fisc : l'exécutif présente ses excuses, une autre fuite de données repérée et \"coupée\"",
-          "link": "https://www.france24.com/fr/france/20260818-piratage-du-fisc-l-ex%C3%A9cutif-pr%C3%A9sente-ses-excuses-une-autre-fuite-de-donn%C3%A9es-rep%C3%A9r%C3%A9e-et-coup%C3%A9e",
-          "source": "France 24",
-          "summary": "Le ministre des Comptes publics, David Amiel, a présenté mardi ses \"excuses\" face au piratage massif du fisc – au moins 678 000 particuliers et professionnels pour les données fiscales et 430 000 particuliers pour les…",
-          "published": "2026-08-18T17:27:42+00:00"
-        },
-        {
-          "title": "Les Emirats arabes unis accusent l’Iran d’avoir tiré deux missiles vers leur territoire pour la première fois en août",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_6749083_3210.html",
-          "source": "Le Monde",
-          "summary": "Les autorités émiraties avaient émis plus tôt une alerte appelant la population à se confiner face à des « menaces de missiles », une première depuis juillet.",
-          "published": "2026-08-18T17:19:32+00:00"
-        },
-        {
-          "title": "Gaza : un bombardement israélien sur un port tue six personnes, dont un enfant, et fait « un grand nombre de blessés », selon la défense civile",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/le-bombardement-israelien-du-port-de-la-ville-de-gaza-tue-six-personnes-dont-un-enfant_6749082_3210.html",
-          "source": "Le Monde",
-          "summary": "L’armée israélienne affirme avoir mené une « frappe aérienne précise » pour éliminer plusieurs commandants du Hamas sur la côte de Gaza.",
-          "published": "2026-08-18T17:17:09+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Andy Burnham, nouveau premier ministre britannique, réaffirme son soutien à Kiev après les menaces de la Russie",
-          "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-andy-burnham-nouveau-premier-ministre-britannique-reaffirme-son-soutien-a-kiev-apres-les-menaces-de-la-russie_6746952_3210.html",
-          "source": "Le Monde",
-          "summary": "Andy Burnham, chef du gouvernement britannique, a insisté sur le fait que le Royaume-Uni, qui a promis de fournir 150 000 drones à l’Ukraine d’ici à la fin de l’année, ne faisait que « ce qu’il a toujours dit qu’il…",
-          "published": "2026-08-18T17:06:11+00:00"
-        },
-        {
-          "title": "Au Québec, les indépendantistes excluent tout référendum avant 2029, date de fin du mandat de Donald Trump",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/au-quebec-les-independantistes-excluent-tout-referendum-avant-2029-date-de-fin-du-mandat-de-donald-trump_6749080_3210.html",
-          "source": "Le Monde",
-          "summary": "Le débat sur l’avenir politique de la province « ne doit pas être confisqué par les soubresauts de la politique américaine, ni par les coups d’éclat d’un président imprévisible, ni par des campagnes de peur », a…",
-          "published": "2026-08-18T17:05:16+00:00"
-        },
-        {
-          "title": "La France emprunte au plus haut depuis 2008 sur fond de guerre au Moyen-Orient",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260818-la-france-emprunte-au-plus-haut-depuis-2008-sur-fond-de-guerre-au-moyen-orient",
-          "source": "France 24",
-          "summary": "La France emprunte désormais à 4,10% sur les marchés obligataires à 10 ans, proche du niveau record de novembre 2008, en plein crise des subprimes, où le taux était de 4,20%. C’est le reflet d’une crainte de crise…",
-          "published": "2026-08-18T17:04:01+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Transport collectif | Montréal veut relancer le REM de l’Est",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-18/transport-collectif/montreal-veut-relancer-le-rem-de-l-est.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’administration Martinez Ferrada veut relancer le Réseau express métropolitain (REM) de l’Est, mort au feuilleton en mai 2022 en raison du manque d’acceptabilité sociale pour sa portion au centre-ville. La Ville plaide…",
-          "published": "2026-08-18T18:33:58+00:00"
-        },
-        {
-          "title": "Washington sanctionne la présidente de la Cour pénale internationale, Tomoko Akane",
-          "link": "https://www.ledevoir.com/monde/1002452/washington-sanctionne-presidente-cour-penale-internationale-tomoko-akane",
+          "title": "Les trois actus du 18 août",
+          "link": "https://www.ledevoir.com/actualites/1002509/trois-actus-18-aout",
           "source": "Le Devoir",
-          "summary": "Le substitut du procureur de la CPI, le magistrat sénégalais Abdoulaye Seye, est aussi visé.",
-          "published": "2026-08-18T17:53:00+00:00"
+          "summary": "Pas de référendum avec Trump au sud, tarifs américains en vue et 2 femmes tuées en 3 jours: ce qu’il faut retenir.",
+          "published": "2026-08-18T20:29:10+00:00"
         },
         {
-          "title": "Dix morts dans une frappe russe dans le nord-est de l’Ukraine",
-          "link": "https://www.ledevoir.com/monde/1002449/dix-morts-frappe-russe-nord-est-ukraine",
+          "title": "Que veulent dire les imminents nouveaux tarifs américains pour l’économie du Canada?",
+          "link": "https://www.ledevoir.com/economie/1002506/veulent-dire-imminents-nouveaux-tarifs-americains-economie-canada",
           "source": "Le Devoir",
-          "summary": "Le président Volodymyr Zelensky a promis de «répondre» à cette attaque.",
-          "published": "2026-08-18T17:48:24+00:00"
+          "summary": "Les deux pays jouent leurs dernières cartes. Sans accord, une surtaxe de 50% s’appliquera à minuit sur moult produits.",
+          "published": "2026-08-18T20:16:00+00:00"
         },
         {
-          "title": "Québec solidaire prend un pas de recul en environnement",
-          "link": "https://www.ledevoir.com/politique/quebec/1002446/quebec-solidaire-prend-pas-recul-environnement",
+          "title": "Malgré « l’instabilité » | Le commerce avec les Américains restera « central » pour Fréchette",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-18/malgre-l-instabilite/le-commerce-avec-les-americains-restera-central-pour-frechette.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La première ministre Christine Fréchette s’est positionnée en cheffe de file en matière de relations internationales dans un discours aux accents de précampagne devant le Conseil des relations internationales de…",
+          "published": "2026-08-18T19:45:54+00:00"
+        },
+        {
+          "title": "Marinvest Energy veut que des Premières Nations développent son projet de GNL de 30 milliards",
+          "link": "https://www.ledevoir.com/actualites/environnement/1002491/marinvest-energy-veut-premieres-nations-developpent-projet-gnl-30-milliards",
           "source": "Le Devoir",
-          "summary": "Le parti se dit coincé par «l’inaction» des gouvernements de la CAQ et reverra ses cibles.",
-          "published": "2026-08-18T17:25:00+00:00"
+          "summary": "Le gouvernement Carney et l’entreprise ont discuté du financement potentiel pour un projet impliquant les Autochtones.",
+          "published": "2026-08-18T19:36:00+00:00"
         },
         {
-          "title": "Libération conditionnelle | Un autre refus pour le Hells Angels Marvin Ouimet",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-18/liberation-conditionnelle/un-autre-refus-pour-le-hells-angels-marvin-ouimet.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Vous présentez un risque inacceptable, par la récidive, pour la société », concluent les commissaires des libérations conditionnelles du Canada après avoir entendu en audience le Hells Angels de Trois-Rivières, Marvin…",
-          "published": "2026-08-18T17:22:38+00:00"
-        },
-        {
-          "title": "100 premiers jours au gouvernement | Québec solidaire présente ses engagements",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-18/100-premiers-jours-au-gouvernement/quebec-solidaire-presente-ses-engagements.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Bien que malmené dans les sondages, Québec solidaire (QS) a tracé mardi matin sa « feuille de route » pour ses 100 premiers jours au gouvernement.",
-          "published": "2026-08-18T17:05:46+00:00"
-        },
-        {
-          "title": "Profilage et contraventions de son conjoint | « Attention à cet amalgame », lance Soraya Martinez Ferrada",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-18/profilage-et-contraventions-de-son-conjoint/attention-a-cet-amalgame-lance-soraya-martinez-ferrada.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La mairesse de Montréal, Soraya Martinez Ferrada, dénonce « l’amalgame qui a été fait » ces derniers jours entre les contraventions de son conjoint et le profilage racial, dans la foulée des allégations de racisme à…",
-          "published": "2026-08-18T16:54:05+00:00"
-        },
-        {
-          "title": "À peine 3% des terres agricoles de Gaza sont intactes et accessibles, selon l’ONU",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1002443/peine-3-terres-agricoles-gaza-sont-intactes-accessibles-selon-onu",
+          "title": "Pour sa vision internationale, Fréchette mise sur la continuité",
+          "link": "https://www.ledevoir.com/politique/quebec/1002488/vision-internationale-frechette-mise-continuite",
           "source": "Le Devoir",
-          "summary": "Cette situation critique est principalement due à l’extension des zones d’exclusion militaire israéliennes.",
-          "published": "2026-08-18T16:29:51+00:00"
+          "summary": "Alors qu’une nouvelle vague de droits de douane américains approche, elle estime pouvoir offrir de la prévisibilité.",
+          "published": "2026-08-18T19:34:00+00:00"
         },
         {
-          "title": "Des Rolls-Royce à 600 000 $ | Un réseau criminel ciblait les voitures de luxe",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-18/des-rolls-royce-a-600-000/un-reseau-criminel-ciblait-les-voitures-de-luxe.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Des Rolls-Royce à 600 000 $. De luxueuses Audi et Aston Martin. Toutes destinées à un conteneur au port de Montréal. Un réseau de fraudeurs a mis la main sur des voitures de luxe valant près de trois millions de dollars…",
-          "published": "2026-08-18T16:00:00+00:00"
-        },
-        {
-          "title": "Dialogue rompu entre Washington et Téhéran, les Émirats arabes unis en alerte",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1002431/trump-affirme-aucune-discussion-iran-lieu-ni-est-prevue",
+          "title": "Les ventes résidentielles ont baissé de 5,3% en juillet par rapport à l’an dernier",
+          "link": "https://www.ledevoir.com/economie/1002485/ventes-residentielles-ont-baisse-5-3-juillet-rapport-an-dernier",
           "source": "Le Devoir",
-          "summary": "En pleine impasse, le président américain publie une carte montrant le détroit d’Ormuz comme territoire américain.",
-          "published": "2026-08-18T15:42:00+00:00"
+          "summary": "L’ACI a fait savoir que les ventes de logements se sont élevées à 43 578 le mois dernier.",
+          "published": "2026-08-18T19:18:47+00:00"
+        },
+        {
+          "title": "Céline Dion en couverture du magazine Harper’s Bazaar",
+          "link": "https://www.lapresse.ca/arts/2026-08-18/celine-dion-en-couverture-du-magazine-harper-s-bazaar.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Céline Dion Goes On. C’est le titre qui apparaît en couverture du magazine Harper’s Bazaar, un numéro spécial consacré aux icônes. La chanteuse québécoise se confie sur son retour sur scène prévu à Paris le 12 septembre…",
+          "published": "2026-08-18T18:59:28+00:00"
+        },
+        {
+          "title": "Le NPD appelle à enquêter sur le gouvernement Carney pour écoblanchiment",
+          "link": "https://www.ledevoir.com/politique/canada/1002479/npd-appelle-enqueter-gouvernement-carney-ecoblanchiment",
+          "source": "Le Devoir",
+          "summary": "Les publicités disant que le Canada construit un «avenir plus propre» enfreindraient la loi, estime Don Davies.",
+          "published": "2026-08-18T18:54:00+00:00"
+        },
+        {
+          "title": "Meta accusé d’avoir «appâté» les enfants et «trompé» le public",
+          "link": "https://www.ledevoir.com/actualites/justice/1002473/meta-accuse-avoir-appate-enfants-trompe-public",
+          "source": "Le Devoir",
+          "summary": "L’entreprise affronte mardi les plaidoiries d’ouverture de son procès en Californie.",
+          "published": "2026-08-18T18:48:42+00:00"
+        },
+        {
+          "title": "Le taux d'emprunt à long terme des États-Unis au plus haut depuis 2007, inquiétudes sur le coût de la dette",
+          "link": "https://www.journaldemontreal.com/2026/08/18/le-taux-demprunt-a-long-terme-des-etats-unis-au-plus-haut-depuis-2007-inquietudes-sur-le-cout-de-la-dette",
+          "source": "Journal de Montreal",
+          "summary": "Le taux d'intérêt de la dette publique des États-Unis à long terme a atteint mardi son plus haut niveau depuis 2007.",
+          "published": "2026-08-18T18:44:01+00:00"
         }
       ]
     },
@@ -159,80 +159,101 @@
       "label": "France",
       "items": [
         {
-          "title": "Pourquoi l’État français et ses administrations sont si vulnérables aux cyberattaques et au piratage de données",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/pourquoi-l-etat-francais-et-ses-administrations-sont-si-vulnerables-aux-cyberattaques-et-au-piratage-de-donnees-20260818",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Fisc, Éducation nationale… L’accélération des intrusions dans les systèmes des services publics met à jour des faiblesses aux causes multiples.",
-          "published": "2026-08-18T18:31:57+00:00"
-        },
-        {
-          "title": "Piratage du fisc, l’autre incendie que le gouvernement peine à éteindre",
-          "link": "https://www.liberation.fr/economie/economie-numerique/piratage-du-fisc-lautre-incendie-que-le-gouvernement-peine-a-eteindre-20260818_RMVAMXGYVJFNPKJRA7OYBRRIHQ/",
-          "source": "Liberation",
-          "summary": "Fébrile à l’idée d’un procès en inertie après le vol de données fiscales, l’exécutif multiplie les communications et a présenté ses excuses aux contribuables concernés. Une troisième attaque détectée sur les fichiers de…",
-          "published": "2026-08-18T18:28:56+00:00"
-        },
-        {
-          "title": "La France va expulser deux diplomates iraniens «ans les tout prochains jours»",
-          "link": "https://www.liberation.fr/international/la-france-va-expulser-deux-diplomates-iraniens-ans-les-tout-prochains-jours-20260818_AJ5PSIM6QFAS3HBU265LPROVOU/",
-          "source": "Liberation",
-          "summary": "Le chef de la diplomatie française souligne que cette mesure intervient en représailles à l’agression de deux diplomates français en Iran courant juillet.",
-          "published": "2026-08-18T18:23:48+00:00"
-        },
-        {
-          "title": "En Espagne, la ville de Grenade à nouveau secouée par un séisme, trois personnes légèrement blessées",
-          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-espagne-la-ville-de-grenade-a-nouveau-secouee-par-un-seisme-trois-personnes-legerement-blessees_8152610.html#xtor=RSS-3-[lestitres]",
+          "title": "Les Emirats arabes unis accusent l'Iran d'avoir tiré deux missiles vers leur flotte et suspendent leurs relations économiques avec l'Iran",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_8152565.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Cette ville du sud de l'Espagne a déjà été touchée samedi par un tremblement de terre. L'une des personnes blessées lors du séisme survenu mardi a été hospitalisée.",
-          "published": "2026-08-18T18:22:29+00:00"
+          "summary": "Ces missiles balistiques sont tombés en mer. L'un à l'intérieur des eaux territoriales du pays, l'autre à l'extérieur, a déclaré le ministère de la Défense émirati.",
+          "published": "2026-08-18T21:16:06+00:00"
         },
         {
-          "title": "Deux diplomates iraniens en France seront expulsés «dans les tout prochains jours», annonce le ministre des Affaires étrangères",
-          "link": "https://www.lefigaro.fr/politique/deux-diplomates-iraniens-en-france-seront-expulses-dans-les-tout-prochains-jours-annonce-le-ministre-des-affaires-etrangeres-20260818",
-          "source": "Le Figaro",
-          "summary": "Jean-Noël Barrot a justifié sa décision en indiquant qu’elle était la conséquence de l’agression de deux diplomates français en Iran le 19 juillet dernier.",
-          "published": "2026-08-18T18:20:41+00:00"
-        },
-        {
-          "title": "L’éditorial d’Yves Thréard : « Monique Barbut, l’été brûlant de “Madame Transat” »",
-          "link": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-monique-barbut-l-ete-brulant-de-madame-transat-20260818",
-          "source": "Le Figaro",
-          "summary": "La ministre de la Transition écologique s’est fait un nom et un surnom en quelques semaines, en provoquant polémique sur polémique par ses sorties de route. La dernière en date : son éloge, ce lundi, de Jean-Luc…",
-          "published": "2026-08-18T18:18:23+00:00"
-        },
-        {
-          "title": "Piratage du fisc : comment l’Estonie, victime d’une cyberattaque russe à grande échelle, est devenue championne de la cyberdéfense",
-          "link": "https://www.lefigaro.fr/conjoncture/piratage-du-fisc-comment-l-estonie-victime-d-une-cyberattaque-russe-a-grande-echelle-est-devenue-championne-de-la-cyberdefense-20260818",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Alors que le piratage des données du fisc en France attire l’attention sur les enjeux de cybersécurité, le pays balte, dix-huit ans après une offensive numérique de Moscou, est devenu un pionnier de la…",
-          "published": "2026-08-18T18:15:00+00:00"
-        },
-        {
-          "title": "Le capitaine des champions du monde espagnols, Rodri, snobe le Real et signe au Barça",
-          "link": "https://www.liberation.fr/sports/football/le-capitaine-des-champions-du-monde-espagnols-rodri-snobe-le-real-et-signe-au-barca-20260818_X2BU2I3JZZDEJOKHXA4CGTOY4Y/",
-          "source": "Liberation",
-          "summary": "Après plusieurs jours de négociations avec Manchester City, le FC Barcelone a officialisé ce mardi 18 août la signature du Ballon d’or 2024, qui était pourtant espéré du côté des rivaux madrilènes.",
-          "published": "2026-08-18T18:14:24+00:00"
-        },
-        {
-          "title": "EN DIRECT - Sortie dans l’espace de Sophie Adenot : la mission ne pourra pas être terminée aujourd’hui en raison de retards liés à des problèmes techniques",
+          "title": "EN DIRECT - Sortie dans l’espace de Sophie Adenot : les deux astronautes de retour dans l’ISS après une mission de six heures",
           "link": "https://www.lefigaro.fr/sciences/en-direct-nasa-sophie-adenot-astronaute-iss-espace-20260818",
           "source": "Le Figaro",
           "summary": "Avec l’Américain Anil Menon, la spationaute de 44 ans devait remplacer une antenne à l’extérieur de la Station spatiale internationale (ISS) ce mardi. Mais les deux astronautes ont rencontré des problèmes avec leur…",
-          "published": "2026-08-18T18:13:14+00:00"
+          "published": "2026-08-18T21:15:03+00:00"
         },
         {
-          "title": "La présidente de la Cour pénale internationale Tomoko Akane sanctionnée par Washington",
-          "link": "https://www.lefigaro.fr/flash-actu/la-presidente-de-la-cour-penale-internationale-tomoko-akane-sanctionnee-par-washington-20260818",
+          "title": "Les images de la sortie dans l’espace de Sophie Adenot",
+          "link": "https://photo.lefigaro.fr/sciences/les-images-de-la-sortie-dans-l-espace-de-sophie-adenot-20260818",
           "source": "Le Figaro",
-          "summary": "L’actuel substitut du procureur de la CPI a également été condamné par les États-Unis dans le cadre de leur campagne contre cette institution accusée d’être «politisée».",
-          "published": "2026-08-18T18:03:01+00:00"
+          "summary": "Sophie Adenot est devenue mardi la première astronaute française à réaliser une sortie dans l’espace, passant plus de six heures hors de la Station spatiale internationale (ISS) en compagnie de l’Américain Anil Menon.",
+          "published": "2026-08-18T21:10:34+00:00"
+        },
+        {
+          "title": "Ligue des champions : l’OL tient tête au Fenerbahçe en barrage aller",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-l-ol-tient-tete-au-fenerbahce-en-barrage-aller-20260818",
+          "source": "Le Figaro",
+          "summary": "Malgré une chaude ambiance à Istanbul, l’Olympique Lyonnais a tenu bon face à N’Golo Kanté et ses coéquipiers. La qualification se jouera dans huit jours au Groupama Stadium.",
+          "published": "2026-08-18T21:06:51+00:00"
+        },
+        {
+          "title": "Incendies dans le Var : les feux du Gros Bessillon et de Ginasservis sont officiellement éteints, annonce la préfecture",
+          "link": "https://www.lefigaro.fr/actualite-france/incendies-dans-le-var-les-feux-du-gros-bessillon-et-de-ginasservis-sont-officiellement-eteints-annonce-la-prefecture-20260818",
+          "source": "Le Figaro",
+          "summary": "Au total, plus de 11.000 sapeurs-pompiers ont été mobilisés pendant près d’un mois, appuyés par d’importants moyens aériens.",
+          "published": "2026-08-18T21:05:51+00:00"
+        },
+        {
+          "title": "Deux ressortissants Français arrêtés et détenus au Togo depuis fin juillet",
+          "link": "https://www.franceinfo.fr/monde/afrique/togo/deux-francais-arretes-et-detenus-au-togo-depuis-fin-juillet_8152730.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Il s'agit de \"réalisateurs\" travaillant \"pour une société de production française\", selon le ministère des Affaires étrangères.",
+          "published": "2026-08-18T21:00:36+00:00"
+        },
+        {
+          "title": "La France va expulser deux diplomates iraniens \"dans les tout prochains jours\"",
+          "link": "https://www.franceinfo.fr/monde/iran/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_8152658.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Cette décision a été prise en représailles à la décision de l'Iran d'interdire le retour de deux diplomates de l'ambassade de France à Téhéran, a déclaré mardi le ministre des Affaires étrangères français.",
+          "published": "2026-08-18T20:55:42+00:00"
+        },
+        {
+          "title": "«Elle m’a dit : “là-bas, on fait ça à toutes les petites filles”» : ces jeunes Françaises victimes d’excision dans le pays d’origine de leurs parents",
+          "link": "https://www.lefigaro.fr/actualite-france/elle-m-a-dit-la-bas-on-fait-ca-a-toutes-les-petites-filles-ces-jeunes-francaises-victimes-d-excision-dans-le-pays-d-origine-de-leurs-parents-20260818",
+          "source": "Le Figaro",
+          "summary": "ENQUÊTE - Près de 139 000 femmes excisées vivraient aujourd’hui en France. Si aucune pratique active n’est recensée sur le territoire, certaines jeunes filles restent exposées lors de séjours à l'étranger. À l'heure des…",
+          "published": "2026-08-18T20:45:02+00:00"
+        },
+        {
+          "title": "Togo : deux réalisateurs français arrêtés et détenus depuis le 27 juillet",
+          "link": "https://www.lefigaro.fr/international/togo-deux-realisateurs-francais-arretes-et-detenus-depuis-le-27-juillet-20260818",
+          "source": "Le Figaro",
+          "summary": "«Ils font actuellement l’objet d’une information judiciaire conduite par un juge d’instruction», a indiqué le Quai d’Orsay ce mardi soir.",
+          "published": "2026-08-18T20:42:37+00:00"
+        },
+        {
+          "title": "En Belgique, les pompiers se battent pour \"encercler définitivement\" un incendie historique",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-belgique-les-pompiers-se-battent-pour-encercler-definitivement-un-incendie-historique_8152706.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Quelque 3 000 hectares de forêt ont déjà été ravagés par cet incendie survenu vendredi. Les pompiers tentent mardi d'encercler le feu, afin de le fixer, puis de l'éteindre.",
+          "published": "2026-08-18T20:36:44+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Framework Laptop 12 : Intel Core Series 3, Thunderbolt 4 et Linux préinstallé, moins cher qu’un MacBook Neo",
+          "link": "https://www.frandroid.com/marques/framework/3215463_framework-laptop-12-intel-core-series-3-thunderbolt-4-et-linux-preinstalle-moins-cher-quun-macbook-neo",
+          "source": "Frandroid",
+          "summary": "Framework a remis à jour son petit convertible 12,2 pouces avec les processeurs Intel Core Series 3, le Thunderbolt 4 et, pour la première fois chez la marque, une distribution Linux préinstallée.",
+          "published": "2026-08-18T19:37:59+00:00"
+        },
+        {
+          "title": "GTA 6 victime d’une fuite : plusieurs minutes de gameplay circulent sur les réseaux sociaux",
+          "link": "https://www.numerama.com/pop-culture/2313649-gta-6-victime-dune-fuite-plusieurs-minutes-de-gameplay-circulent-sur-les-reseaux-sociaux.html",
+          "source": "Numerama",
+          "summary": "Déjà victime d'une fuite massive en 2022, Rockstar Games est la cible d'une nouvelle attaque qui pourrait avoir divulgué plusieurs minutes du gameplay de GTA 6 sur les réseaux sociaux. On y découvre de nouvelles…",
+          "published": "2026-08-18T19:29:47+00:00"
+        },
+        {
+          "title": "À -41 %, l’Amazon Echo Show 5 est l’un des écrans connectés compacts les plus intéressants du moment (et il est proposé avec Alexa+)",
+          "link": "https://www.frandroid.com/bons-plans/3215213_a-41-lamazon-echo-show-5-est-lun-des-ecrans-connectes-compacts-les-plus-interessants-du-moment-et-il-est-propose-avec-alexa",
+          "source": "Frandroid",
+          "summary": "Renouvelé en 2023, l'Echo Show 5 est un écran connecté compact, simple et efficace, qui permet en prime de profiter d'Alexa+. Actuellement, Amazon le propose à 64,99 euros au lieu de 109,99 euros.",
+          "published": "2026-08-18T18:58:00+00:00"
+        },
         {
           "title": "On a découvert un poisson souterrain inconnu, et c’est grâce à une vidéo sur TikTok",
           "link": "https://www.numerama.com/sciences/2313411-on-a-decouvert-un-poisson-souterrain-inconnu-et-cest-grace-a-une-video-sur-tiktok.html",
@@ -295,27 +316,6 @@
           "source": "Clubic",
           "summary": "Le Ryzen 7 9800X3D, référence gaming saluée par la rédaction Clubic, redescend nettement en dessous des tarifs habituellement constatés ces derniers mois. Une offre AliExpress associant code promo et envoi depuis un…",
           "published": "2026-08-18T16:15:00+00:00"
-        },
-        {
-          "title": "Troisième fuite confirmée aux impôts, Bercy détaille sa réponse aux attaques",
-          "link": "https://next.ink/252117/troisieme-fuite-confirmee-aux-impots-bercy-detaille-sa-reponse-aux-attaques/",
-          "source": "Next",
-          "summary": "Quatre jours après la révélation d&#8217;un triple accès illégitime au système d&#8217;information des impôts et au lendemain d&#8217;un comité interministériel de crise, les représentants de l’État prennent la parole…",
-          "published": "2026-08-18T16:07:00+00:00"
-        },
-        {
-          "title": "Nvidia GeForce Now arrive enfin sur Firefox : le cloud gaming débarque sur le navigateur de Mozilla",
-          "link": "https://www.frandroid.com/produits-android/3215277_nvidia-geforce-now-arrive-enfin-sur-firefox-le-cloud-gaming-debarque-sur-le-navigateur-de-mozilla",
-          "source": "Frandroid",
-          "summary": "Nvidia rend enfin GeForce Now compatible avec Firefox sur Windows. Le service de cloud gaming manquait au navigateur de Mozilla depuis des années, les joueurs peuvent désormais streamer leurs jeux favoris depuis…",
-          "published": "2026-08-18T15:51:25+00:00"
-        },
-        {
-          "title": "Ce petit robot change d’humeur pendant qu’il recharge votre MacBook (et il tombe à 25 €)",
-          "link": "https://www.numerama.com/tech/2313403-ce-petit-robot-change-dhumeur-pendant-quil-recharge-votre-macbook-et-il-tombe-a-25-e.html",
-          "source": "Numerama",
-          "summary": "[Deal du jour] Il affiche une nouvelle expression à mesure que la batterie se remplit, mais ce n’est pas qu’un gadget de bureau. Avec ses trois ports et ses 65 W, le chargeur Ugreen Uno peut aussi alimenter un MacBook…",
-          "published": "2026-08-18T15:43:04+00:00"
         }
       ]
     }
