@@ -1,15 +1,64 @@
 {
-  "generated_at": "2026-08-18T03:42:45.044783+00:00",
+  "generated_at": "2026-08-18T06:40:05.631600+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Donald Trump maltraite la Corée du Sud et envisage à nouveau un dialogue avec Pyongyang",
+          "title": "Crise à la Fifa : le numéro 3 Kevin Lamour démis de ses fonctions",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260818-crise-%C3%A0-la-fifa-le-num%C3%A9ro-3-kevin-lamour-d%C3%A9mis-de-ses-fonctions",
+          "source": "France 24",
+          "summary": "Le directeur des opérations de la Fifa, Kevin Lamour, a été démis de ses fonctions. Il avait vivement critiqué Gianni Infantino et son projet de création d’une société commerciale.",
+          "published": "2026-08-18T06:28:37+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine : plus de 600 drones lancés contre la région de Moscou",
+          "link": "https://www.france24.com/fr/europe/20260818-guerre-en-ukraine-plus-de-600-drones-lanc%C3%A9s-contre-la-r%C3%A9gion-de-moscou",
+          "source": "France 24",
+          "summary": "Le maire de Moscou a déclaré, mardi, qu'au moins 620 drones ont été lancés, dans la nuit de lundi à mardi, vers la capitale moscovite, faisant trois blessés et entraînant une brève suspension de l'espace aérien…",
+          "published": "2026-08-18T06:02:01+00:00"
+        },
+        {
+          "title": "Le Zoroastrisme, religion d’empire",
+          "link": "https://www.rfi.fr/fr/podcasts/le-berceau-de-l-histoire/20260818-le-zoroastrisme-religion-d-empire",
+          "source": "RFI",
+          "summary": "Invitée : Samra Azarnouche. Déjà très fortement présent sous le premier Empire perse, l’Empire achéménide, le zoroastrisme est devenu religion officielle sous le second Empire perse, à savoir l’Empire sassanide qui a…",
+          "published": "2026-08-18T05:00:05+00:00"
+        },
+        {
+          "title": "Vincent Lemire, historien : « En Cisjordanie, c’est bien l’inaction des gouvernements occidentaux qui permet à la violence de se déchaîner »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/18/vincent-lemire-historien-en-cisjordanie-c-est-bien-l-inaction-des-gouvernements-occidentaux-qui-permet-a-la-violence-de-se-dechainer_6748726_3232.html",
+          "source": "Le Monde",
+          "summary": "Dans les territoires occupés, ces deux derniers mois, les scènes de pillage et de meurtre se sont multipliées. A l’approche des élections législatives en Israël, fin octobre, et en Palestine, fin novembre, l’historien…",
+          "published": "2026-08-18T04:30:07+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le maire de Moscou affirme que 620 drones ont été lancés vers la capitale russe dans la nuit",
+          "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-le-maire-de-moscou-affirme-que-620-drones-ont-ete-lances-vers-la-capitale-russe-dans-la-nuit_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "Sergueï Sobianine a fait état de 197 drones détruits. Le gouverneur local, Andreï Vorobiov, a dénombré trois blessés dans l’attaque.",
+          "published": "2026-08-18T04:26:02+00:00"
+        },
+        {
+          "title": "A Riyad, un réseau de transport public créé ex nihilo pour transformer la ville",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/18/a-riyad-un-reseau-de-transport-public-cree-ex-nihilo-pour-transformer-la-ville_6748722_3234.html",
+          "source": "Le Monde",
+          "summary": "Pour lutter contre les embouteillages, la capitale de l’Arabie saoudite a construit le plus grand réseau de métro automatique du monde. Un chantier colossal qui a fait appel à tout ce que la planète compte de champions…",
+          "published": "2026-08-18T04:00:15+00:00"
+        },
+        {
+          "title": "Shakira promet d’aider à la reconstruction de la Colombie, après le séisme",
+          "link": "https://www.lemonde.fr/international/article/2026/08/18/shakira-promet-d-aider-a-la-reconstruction-de-la-colombie-apres-le-seisme_6748719_3210.html",
+          "source": "Le Monde",
+          "summary": "La chanteuse colombienne a effectué une visite dans la province du Choco, à l’ouest du pays, une des régions les plus sinistrées, où elle s’est engagée en faveur de la réfection de plusieurs écoles.",
+          "published": "2026-08-18T03:43:11+00:00"
+        },
+        {
+          "title": "Donald Trump maltraite la Corée du Sud et envisage de nouveau un dialogue avec Kim Jong-un",
           "link": "https://www.lemonde.fr/international/article/2026/08/18/donald-trump-maltraite-la-coree-du-sud-et-envisage-a-nouveau-un-dialogue-avec-pyongyang_6748717_3210.html",
           "source": "Le Monde",
-          "summary": "Le président américain, qui met en avant sa « très bonne relation » avec le dictateur Kim Jong-un, a demandé à Pete Hegseth, le secrétaire à la défense, de « réduire substantiellement » les exercices militaires…",
-          "published": "2026-08-18T03:34:34+00:00"
+          "summary": "Le président américain, qui met en avant sa « très bonne relation » avec le dictateur nord-coréen, a demandé à Pete Hegseth, le secrétaire à la défense, de « réduire substantiellement » les exercices militaires…",
+          "published": "2026-08-18T03:34:31+00:00"
         },
         {
           "title": "Les plages touristiques du Mexique touchées par le fléau des sargasses, que le pays tente de contenir",
@@ -19,60 +68,11 @@
           "published": "2026-08-18T03:30:09+00:00"
         },
         {
-          "title": "En direct : Téhéran juge caduc le délai de négociation de 60 jours",
+          "title": "Moyen-Orient en direct : Téhéran juge caduc le délai de négociation de 60 jours avec Washington",
           "link": "https://www.france24.com/fr/moyen-orient/20260818-en-direct-iran-etats-unis-negociations-juge-caduc-delai-60-jours-netanyahu-kushner-gaza-liban-yemen-houthis",
           "source": "France 24",
-          "summary": "Le porte-parole du ministère des Affaires étrangères, Esmaïl Baghaï, a affirmé que le délai de négociation de 60 jours prévu en vue d'un règlement durable par le protocole d'accord irano-américain de juin était rendu…",
+          "summary": "Le ministère iranien des Affaires étrangères a déclaré que le délai de 60 jours prévu par le protocole d’accord de juin, pour parvenir à un compromis avec les États-Unis sur le nucléaire et les sanctions imposées à…",
           "published": "2026-08-18T03:25:06+00:00"
-        },
-        {
-          "title": "Procès sur la mort de Tupac Shakur : le rappeur a été tué par \"vengeance\", selon l'accusation",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260818-proces-mort-tupac-shakur-rappeur-tue-par-vengeance-accusation-las-vegas-etats-unis-duane-davis-rap",
-          "source": "France 24",
-          "summary": "Les débats ont débuté lundi au procès de l'ex-membre de gang accusé d'avoir orchestré le meurtre de Tupac Shakur à Las Vegas. L'accusation estime, lundi, que Duane \"Keffe D\" Davis, ex-figure des South Side Compton…",
-          "published": "2026-08-18T03:08:20+00:00"
-        },
-        {
-          "title": "Le président sortant Hakainde Hichilema réélu à la tête de la Zambie avec 60 % des voix",
-          "link": "https://www.france24.com/fr/afrique/20260818-president-sortant-hakainde-hichilema-reelu-tete-zambie-avec-60-des-voix-afrique-elections",
-          "source": "France 24",
-          "summary": "Le président sortant de Zambie, Hakainde Hichilema, reste au pouvoir. La commission électorale a annoncé, mardi, qu'il a recueilli 60 % des voix lors de l'élection présidentielle organisée la semaine dernière, contre 38…",
-          "published": "2026-08-18T01:34:28+00:00"
-        },
-        {
-          "title": "Brésil : Lula salue la découverte de pétrole au large de l’Amazonie, qu’il qualifie de « passeport pour l’avenir »",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/18/bresil-lula-salue-la-decouverte-de-petrole-au-large-de-l-amazonie-qu-il-qualifie-de-passeport-pour-l-avenir_6748616_3244.html",
-          "source": "Le Monde",
-          "summary": "La compagnie publique Petrobras, qui a annoncé avoir détecté des indices de la présence d’hydrocarbures en eaux profondes, poursuit ses forages pour mesurer l’ampleur du gisement. Les défenseurs de l’environnement…",
-          "published": "2026-08-18T00:11:41+00:00"
-        },
-        {
-          "title": "Différend diplomatique sur les îles Kouriles : l’ambassadeur japonais convoqué au ministère russe des affaires étrangères",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/differend-diplomatique-sur-les-iles-kouriles-l-ambassadeur-japonais-convoque-au-ministere-russe-des-affaires-etrangeres_6748583_3210.html",
-          "source": "Le Monde",
-          "summary": "La visite de Vladimir Poutine, jeudi, dans le sud de l’archipel administré par la Russie, mais revendiqué par le Japon, a ravivé les tensions entre les deux pays.",
-          "published": "2026-08-17T23:49:31+00:00"
-        },
-        {
-          "title": "L'administration Trump met un coup de frein au projet de barrières anti-immigration au Texas",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260817-administration-trump-etats-unis-met-coup-frein-projet-barrieres-anti-immigration-texas-big-bend-critiques",
-          "source": "France 24",
-          "summary": "Le chef de la police aux frontières américaine a annoncé lundi suspendre le projet de sécurisation de la frontière avec le Mexique dans le parc national Big Bend au Texas afin de \"procéder à une évaluation personnelle\".…",
-          "published": "2026-08-17T23:34:38+00:00"
-        },
-        {
-          "title": "Paramount réclame une caution de 1,9 milliard de dollars aux douze Etats américains s’opposant à sa fusion avec Warner Bros",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/18/paramount-exige-une-caution-de-1-9-milliard-de-dollars-aux-12-etats-americains-s-opposant-a-sa-fusion-avec-warner-bros_6748550_3234.html",
-          "source": "Le Monde",
-          "summary": "Le rachat par le groupe de David Ellison de son concurrent est contesté en justice par des Etats démocrates, ainsi que par le syndicat des scénaristes. La fusion des deux studios hollywoodiens est suspendue jusqu’au…",
-          "published": "2026-08-17T22:56:43+00:00"
-        },
-        {
-          "title": "Au Texas, Donald Trump suspend un projet de sécurisation de la frontière avec le Mexique dans le parc national Big Bend",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/au-texas-donald-trump-suspend-un-projet-de-securisation-de-la-frontiere-avec-le-mexique_6748517_3210.html",
-          "source": "Le Monde",
-          "summary": "Très critiqué par les habitants et des élus locaux, le plan prévoyait d’installer des barrières, des dispositifs d’éclairage et des technologies de détection au sein de cet espace protégé.",
-          "published": "2026-08-17T22:35:29+00:00"
         }
       ]
     },
@@ -84,6 +84,20 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Séoul rassure Pyongyang sur ses exercices militaires avec Washington",
+          "link": "https://www.ledevoir.com/monde/asie/1002359/seoul-rassure-pyongyang-exercices-militaires-washington",
+          "source": "Le Devoir",
+          "summary": "L’objectif est de «préserver les vies quotidiennes de la population», assure le président sud-coréen.",
+          "published": "2026-08-18T04:09:48+00:00"
+        },
+        {
+          "title": "SuperFrancoFête : L’été de mes chansons | Québécité, électricité et diversité",
+          "link": "https://www.lapresse.ca/arts/musique/2026-08-18/superfrancofete-l-ete-de-mes-chansons/quebecite-electricite-et-diversite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Jeune, actuelle, audacieuse, la musique québécoise est tout ça en même temps. La SuperFrancoFête 2026, qui a pris son envol lundi, l’a démontré avec une nouvelle mouture de son spectacle L’été de mes chansons. Après une…",
+          "published": "2026-08-18T04:00:26+00:00"
+        },
+        {
           "title": "Le plus haut tribunal de l’Ontario autorise le gouvernement Ford à retirer des pistes cyclables",
           "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1002323/plus-haut-tribunal-ontario-autorise-gouvernement-ford-retirer-pistes-cyclables",
           "source": "Le Devoir",
@@ -91,67 +105,53 @@
           "published": "2026-08-18T04:00:00+00:00"
         },
         {
-          "title": "PSPP pourrait attendre le départ de Trump avant de lancer un référendum",
-          "link": "https://www.ledevoir.com/politique/quebec/1002356/pspp-pourrait-attendre-depart-trump-avant-lancer-referendum",
+          "title": "Louis Bélanger, à 24 images/seconde",
+          "link": "https://www.ledevoir.com/culture/cinema/1002263/louis-belanger-24-images-seconde",
           "source": "Le Devoir",
-          "summary": "Le chef péquiste effectuera une «déclaration importante» sur le référendum mardi matin.",
-          "published": "2026-08-18T02:08:00+00:00"
+          "summary": "Le Festival du film de Knowlton propose une classe de maître et une petite rétrospective du cinéaste.",
+          "published": "2026-08-18T04:00:00+00:00"
         },
         {
-          "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques",
-          "link": "https://www.ledevoir.com/economie/1002350/ottawa-apprete-abroger-obligation-vente-vehicules-electriques",
+          "title": "Santé Québec, un nom à conquérir",
+          "link": "https://www.ledevoir.com/opinion/idees/1002299/sante-quebec-nom-conquerir",
           "source": "Le Devoir",
-          "summary": "Ces véhicules devaient représenter au moins 20% des ventes automobiles au pays en 2026.",
-          "published": "2026-08-18T00:49:46+00:00"
+          "summary": "Pour l’heure, l’exercice de «branding» semble omettre l’histoire de la constitution même du réseau.",
+          "published": "2026-08-18T04:00:00+00:00"
         },
         {
-          "title": "Parti québécois | Une annonce « importante » mardi sur la tenue d’un référendum",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-17/parti-quebecois/une-annonce-importante-mardi-sur-la-tenue-d-un-referendum.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "À l’aube du déclenchement des élections, Paul St-Pierre Plamondon tiendra une annonce « importante » sur la tenue d’un référendum, demain matin. Le chef péquiste laisse planer le suspense sur les réseaux sociaux.",
-          "published": "2026-08-18T00:01:14+00:00"
-        },
-        {
-          "title": "La Maison-Blanche et Donald Trump s’emportent contre une journaliste de CNN",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1002347/maison-blanche-trump-emportent-contre-journaliste-cnn",
+          "title": "Le déplorable abandon des Casques bleus canadiens",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/1002296/deplorable-abandon-casques-bleus-canadiens",
           "source": "Le Devoir",
-          "summary": "Le président américain est connu pour attaquer les femmes journalistes avec une virulence particulière.",
-          "published": "2026-08-17T23:50:00+00:00"
+          "summary": "La décision du Canada cache quelque chose de plus sombre.",
+          "published": "2026-08-18T04:00:00+00:00"
         },
         {
-          "title": "Les Îles-de-la-Madeleine perdent leur unique Tim Hortons",
-          "link": "https://www.lapresse.ca/actualites/2026-08-17/les-iles-de-la-madeleine-perdent-leur-unique-tim-hortons.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’unique restaurant Tim Hortons des Îles-de-la-Madeleine va fermer ses portes dans moins d’un mois, faute de main-d’œuvre. Le propriétaire montre du doigt le resserrement des politiques d’immigration. Mais derrière…",
-          "published": "2026-08-17T23:00:00+00:00"
-        },
-        {
-          "title": "Un si puissant voisin | Quand Trump redore l’image... de la Chine",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-17/un-si-puissant-voisin/quand-trump-redore-l-image-de-la-chine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Parce que tout ce qui se passe au sud de la frontière finit par avoir des répercussions chez nous",
-          "published": "2026-08-17T23:00:00+00:00"
-        },
-        {
-          "title": "Aide à l’industrie forestière | Une majorité de petits acteurs exclus",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-08-17/aide-a-l-industrie-forestiere/une-majorite-de-petits-acteurs-exclus.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le nouveau programme fédéral d’aide à l’industrie forestière est mal ficelé, dénonce le Bloc québécois. Il exclut près de 80 % des entreprises au moment où les États-Unis refusent de réduire les droits de douane qui…",
-          "published": "2026-08-17T22:04:01+00:00"
-        },
-        {
-          "title": "700 personnalités de la culture demandent à Montréal de condamner Israël",
-          "link": "https://www.ledevoir.com/politique/montreal/1002329/700-personnalites-culture-demandent-montreal-condamner-israel",
+          "title": "Le pouvoir des villes et le gouvernement du Québec",
+          "link": "https://www.ledevoir.com/opinion/idees/1002293/pouvoir-villes-gouvernement-quebec",
           "source": "Le Devoir",
-          "summary": "Elles appuient une motion de Projet Montréal qui dénonce le «génocide» contre les Palestiniens à Gaza.",
-          "published": "2026-08-17T21:38:00+00:00"
+          "summary": "Les municipalités demeurent, sur le plan juridique, des créatures des provinces.",
+          "published": "2026-08-18T04:00:00+00:00"
         },
         {
-          "title": "Faits et fiction s’opposent au cœur du procès du meurtre de Tupac Shakur",
-          "link": "https://www.ledevoir.com/culture/musique/1002332/fait-fiction-opposent-coeur-proces-meurtre-tupac-shakur",
+          "title": "Fabriquer au Québec, un choix de société",
+          "link": "https://www.ledevoir.com/opinion/libre-opinion/1002305/fabriquer-quebec-choix-societe",
           "source": "Le Devoir",
-          "summary": "Duane Davis, accusé de meurtre avec une arme mortelle, a plaidé non coupable lundi.",
-          "published": "2026-08-17T21:29:00+00:00"
+          "summary": "La politique industrielle n’est pas un chèque en blanc aux multinationales.",
+          "published": "2026-08-18T04:00:00+00:00"
+        },
+        {
+          "title": "«Cormoran», sous l’emprise des Chemises bleues",
+          "link": "https://www.ledevoir.com/culture/ecrans/1002278/cormoran-sous-emprise-chemises-bleues",
+          "source": "Le Devoir",
+          "summary": "L’œuvre de Pierre Gauvreau est la seule fiction télévisuelle à avoir osé représenter les chemises bleues d’Adrien Arcand.",
+          "published": "2026-08-18T04:00:00+00:00"
+        },
+        {
+          "title": "L’été dans l’œil de Guillaume Levasseur",
+          "link": "https://www.ledevoir.com/actualites/societe/1002284/ete-oeil-guillaume-levasseur",
+          "source": "Le Devoir",
+          "summary": "Entre festivals et rencontres originales, voici la sélection de notre photographe.",
+          "published": "2026-08-18T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Donald Trump maltraite la Corée du Sud et envisage à nouveau un dialogue avec Pyongyang",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/donald-trump-maltraite-la-coree-du-sud-et-envisage-a-nouveau-un-dialogue-avec-pyongyang_6748717_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président américain, qui met en avant sa « très bonne relation » avec le dictateur Kim Jong-un, a demandé à Pete Hegseth, le secrétaire à la défense, de « réduire substantiellement » les exercices militaires…",
-          "published": "2026-08-18T03:34:34+00:00"
-        },
-        {
-          "title": "Procès : ce que risque vraiment Meta, accusé d'avoir rendu les mineurs accros à Facebook et Instagram",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/proces-ce-que-risque-vraiment-meta-accuse-d-avoir-rendu-les-mineurs-accros-a-facebook-et-instagram-20260818",
-          "source": "Le Figaro",
-          "summary": "Accusé d’avoir rendu les adolescents accros à Facebook et Instagram, Meta affronte mardi en Californie un procès où plusieurs États américains lui réclament près de 200 milliards de dollars et une refonte de ses…",
-          "published": "2026-08-18T01:59:15+00:00"
-        },
-        {
-          "title": "NBA : désaccord dans la famille Buss, propriétaire historique des Los Angeles Lakers, pour vendre ses dernières parts",
-          "link": "https://www.lefigaro.fr/sports/basket/nba/nba-desaccord-dans-la-famille-buss-proprietaire-historique-des-los-angeles-lakers-pour-vendre-ses-dernieres-parts-20260818",
-          "source": "Le Figaro",
-          "summary": "Une partie des descendants de Jerry Buss, qui a racheté les Lakers en 1979 pour en faire l’une des marques les plus connues du sport, veulent vendre leur participation à hauteur de 17,8% du capital.",
-          "published": "2026-08-18T01:41:41+00:00"
-        },
-        {
-          "title": "Présidentielle en Zambie : Hakainde Hichilema réélu avec 60% des suffrages",
-          "link": "https://www.lefigaro.fr/international/presidentielle-en-zambie-hakainde-hichilema-reelu-avec-60-des-suffrages-20260818",
-          "source": "Le Figaro",
-          "summary": "Le scrutin, organisé la semaine dernière, a suscité des interrogations en raison de l’arrestation d’opposants.",
-          "published": "2026-08-18T01:39:51+00:00"
-        },
-        {
-          "title": "Brésil : Lula salue la découverte de pétrole au large de l’Amazonie, qu’il qualifie de « passeport pour l’avenir »",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/18/bresil-lula-salue-la-decouverte-de-petrole-au-large-de-l-amazonie-qu-il-qualifie-de-passeport-pour-l-avenir_6748616_3244.html",
-          "source": "Le Monde",
-          "summary": "La compagnie publique Petrobras, qui a annoncé avoir détecté des indices de la présence d’hydrocarbures en eaux profondes, poursuit ses forages pour mesurer l’ampleur du gisement. Les défenseurs de l’environnement…",
-          "published": "2026-08-18T00:11:41+00:00"
-        },
-        {
-          "title": "Différend diplomatique sur les îles Kouriles : l’ambassadeur japonais convoqué au ministère russe des affaires étrangères",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/differend-diplomatique-sur-les-iles-kouriles-l-ambassadeur-japonais-convoque-au-ministere-russe-des-affaires-etrangeres_6748583_3210.html",
-          "source": "Le Monde",
-          "summary": "La visite de Vladimir Poutine, jeudi, dans le sud de l’archipel administré par la Russie, mais revendiqué par le Japon, a ravivé les tensions entre les deux pays.",
-          "published": "2026-08-17T23:49:31+00:00"
-        },
-        {
-          "title": "Dérèglement climatique : dans un monde à +1,5 °C, 22 % des plus de 60 ans feront face à une chaleur «incompensable»",
-          "link": "https://www.liberation.fr/environnement/climat/dereglement-climatique-dans-un-monde-a-15-c-22-des-plus-de-60-ans-feront-face-a-une-chaleur-incompensable-20260818_SCHGKFABFFGXFA2LNCHGNQNRJ4/",
-          "source": "Liberation",
-          "summary": "Une étude publiée ce mardi 18 août alerte sur les conséquences du réchauffement sur les personnes âgées. Vers 2030, alors que le seuil le plus ambitieux fixé par l’accord de Paris sera atteint, 290 millions d’entre…",
-          "published": "2026-08-17T23:30:00+00:00"
-        },
-        {
-          "title": "Au Texas, Donald Trump suspend un projet de sécurisation de la frontière avec le Mexique dans le parc national Big Bend",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/au-texas-donald-trump-suspend-un-projet-de-securisation-de-la-frontiere-avec-le-mexique_6748517_3210.html",
-          "source": "Le Monde",
-          "summary": "Très critiqué par les habitants et des élus locaux, le plan prévoyait d’installer des barrières, des dispositifs d’éclairage et des technologies de détection au sein de cet espace protégé.",
-          "published": "2026-08-17T22:35:29+00:00"
-        },
-        {
-          "title": "«Votre question dégoûtante et inhumaine» : la Maison-Blanche et Trump s'emportent contre une journaliste de CNN",
-          "link": "https://www.lefigaro.fr/international/votre-question-degoutante-et-inhumaine-la-maison-blanche-et-trump-s-emportent-contre-une-journaliste-de-cnn-20260818",
-          "source": "Le Figaro",
-          "summary": "Kristen Holmes a interrogé le président américain sur des propos tenus pendant un meeting par le sénateur démocrate de Géorgie Jon Ossoff, qui a reproché à Donald Trump de privilégier ses centres d’intérêt personnels à…",
-          "published": "2026-08-17T22:13:57+00:00"
-        },
-        {
-          "title": "\"Les mêmes dispositifs\" annoncés pour venir en aide aux sinistrés des incendies dans le Sud-Ouest \"seront mis en place\" dans le Var, déclare Emmanuel Macron",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-memes-dispositifs-annonces-pour-venir-en-aide-aux-sinistres-des-incendies-dans-le-sud-ouest-seront-mis-en-place-dans-le-var-declare-emmanuel-macron_8151491.html#xtor=RSS-3-[lestitres]",
+          "title": "Piratage du fisc : \"Il n'y a pas de pilote dans l'avion\", dénonce un ancien secrétaire général du Conseil national du numérique",
+          "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-il-n-y-a-pas-de-pilote-dans-l-avion-denonce-un-ancien-secretaire-general-du-conseil-national-du-numerique_8151815.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Plus tôt dans la journée lundi, Sébastien Lecornu a annoncé des mesures pour la Gironde et les Landes. Selon le Premier ministre, ce plan pourrait coûter plus de 100 millions d'euros.",
-          "published": "2026-08-17T21:57:22+00:00"
+          "summary": "\"Vous imaginez bien à quel point ça rend risibles tous les discours sur la souveraineté\", estime Jean-Baptiste Soufron, mardi sur France Culture, après la cyberattaque contre le fisc, fin juin.",
+          "published": "2026-08-18T06:24:23+00:00"
+        },
+        {
+          "title": "Au Brésil, Discord suspend les directs après le suicide d'une adolescente",
+          "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/au-bresil-discord-suspend-les-directs-apres-le-suicide-d-une-adolescente_8151812.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La police avait annoncé en juillet qu'une mineure vivant avait été incitée, lors d'un direct de 45 minutes, à se mutiler puis à se donner la mort.",
+          "published": "2026-08-18T06:24:13+00:00"
+        },
+        {
+          "title": "\"Un lent déclin\" : à cause de la sécheresse, les porte-conteneurs ont disparu du port fluvial de Strasbourg",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-un-lent-declin-a-cause-de-la-secheresse-les-porte-conteneurs-ont-disparu-du-port-fluvial-de-strasbourg_8151731.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le Rhin est à un niveau historiquement bas. Dans le port fluvial de Strasbourg, une seule barge de conteneurs transite chaque semaine, contre 20 barges habituellement.",
+          "published": "2026-08-18T06:19:30+00:00"
+        },
+        {
+          "title": "Incendies en Gironde : \"C'est un premier pas\", réagit le maire de Lacanau, après les annonces du Premier ministre",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/incendies-en-gironde-c-est-un-premier-pas-reagit-le-maire-de-lacanau-apres-les-annonces-du-premier-ministre_8151803.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Ces mesures vont permettre aux professionnels \"de se projeter sur l'avenir\", notamment dans le secteur du tourisme en Gironde, estime Laurent Peyrondet, mardi sur franceinfo.",
+          "published": "2026-08-18T06:13:48+00:00"
+        },
+        {
+          "title": "\"Encore 8 à 10 ans de développement supplémentaire pour le stérilet masculin\" : le lent développement de la contraception masculine",
+          "link": "https://www.franceinfo.fr/sante/contraception/interview-encore-8-a-10-ans-de-developpement-supplementaire-pour-le-sterilet-masculin-le-lent-developpement-de-la-contraception-masculine_8147681.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'annonce d'un stérilet pour hommes, en cours de développement par une équipe de recherche lilloise, fait grand bruit. Sera-t-elle la première contraception masculine à être commercialisée en Europe ? Il faudra encore…",
+          "published": "2026-08-18T06:13:26+00:00"
+        },
+        {
+          "title": "«Fjord» de Cristian Mungiu, palme d’or à Cannes : l’ambiguïté jusqu’à la gêne",
+          "link": "https://www.liberation.fr/culture/cinema/fjord-de-cristian-mungiu-palme-dor-a-cannes-lambiguite-jusqua-la-gene-20260818_7SHIQT2KJZA2BLA3V4BFECSTIQ/",
+          "source": "Liberation",
+          "summary": "La palme d’or du Roumain Cristian Mungiu, à travers une affaire controversée de protection de l’enfance en Norvège dans une famille traditionaliste, charge lourdement le «progressisme» et paraît surtout confirmer les…",
+          "published": "2026-08-18T06:12:00+00:00"
+        },
+        {
+          "title": "Sophie Adenot va devenir la première Française à sortir dans l’espace",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/18/sophie-adenot-va-devenir-la-premiere-francaise-a-sortir-dans-l-espace_6748734_1650684.html",
+          "source": "Le Monde",
+          "summary": "Lors de la sortie extravéhiculaire, la Française et Anil Menon démonteront une antenne de l’ISS pour ensuite récupérer celle de rechange et l’installer sur la structure. Sophie Adenot est la deuxième Française à…",
+          "published": "2026-08-18T06:09:06+00:00"
+        },
+        {
+          "title": "Tennis : les sœurs Williams réunies, quatre ans après leur dernier match ensemble",
+          "link": "https://www.lefigaro.fr/sports/tennis/tennis-les-soeurs-williams-reunies-quatre-ans-apres-leur-dernier-match-ensemble-20260818",
+          "source": "Le Figaro",
+          "summary": "Serena et Vénus ont disputé le 1er tour du double féminin à Cincinnati. Pour une défaite, très courte, à l’arrivée.",
+          "published": "2026-08-18T06:07:47+00:00"
+        },
+        {
+          "title": "Etudiante en galère d’appartement : «Je regarde depuis juin, je suis sur tous les sites, j’ai candidaté à une vingtaine d’offres»",
+          "link": "https://www.liberation.fr/lifestyle/argent-boulot/etudiante-en-galere-dappartement-je-regarde-depuis-juin-je-suis-sur-tous-les-sites-jai-candidate-a-une-vingtaine-doffres-20260818_MTOI5M2G6BFKLMBNFMJHD7WYUQ/",
+          "source": "Liberation",
+          "summary": "Comment profiter de son été quand on ne sait pas où l’on vivra en septembre à la reprise des cours ? Dans notre deuxième épisode, Rose doit jongler entre recherche d’appartement à Marseille et alternance à…",
+          "published": "2026-08-18T06:01:00+00:00"
+        },
+        {
+          "title": "\"Ça servira à financer leurs activités\" : l'allocation de rentrée scolaire versée à partir de mardi",
+          "link": "https://www.franceinfo.fr/economie/menages/allocations-familiales/l-allocation-de-rentree-scolaire-versee-a-partir-de-mardi_8151719.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Alors que la rentrée approche, près de trois millions de foyers aux revenus les plus modestes reçoivent cette aide bienvenue mais pas forcément suffisante.",
+          "published": "2026-08-18T06:00:54+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Cette batterie externe magnétique Xiaomi de 5 000 mAh aussi fine que l’iPhone Air passe sous les 50 €",
-          "link": "https://www.frandroid.com/bons-plans/3213927_cette-batterie-externe-magnetique-xiaomi-de-5-000-mah-aussi-fine-que-liphone-air-passe-sous-les-50-e",
-          "source": "Frandroid",
-          "summary": "Avec ses 6 mm d'épaisseur, la batterie externe Xiaomi UltraThin Magnetic Power Bank figure sans aucun doute parmi les plus pratiques du moment. En ce moment, Xiaomi l'affiche à 49,99 euros au lieu de 64,99 euros.",
-          "published": "2026-08-17T19:00:00+00:00"
+          "title": "AirPods avec caméra : une vidéo cachée dans macOS Tahoe confirme leur existence",
+          "link": "https://www.clubic.com/actualite-625672-airpods-avec-camera-une-video-cachee-dans-macos-tahoe-confirme-leur-existence.html",
+          "source": "Clubic",
+          "summary": "Une vidéo découverte dans la Release Candidate de macOS Tahoe 26.7 confirme l’existence d’AirPods équipés de caméras. L’accessoire s’appuierait sur Visual Intelligence pour reconnaître l’environnement de son utilisateur…",
+          "published": "2026-08-18T06:35:00+00:00"
         },
         {
-          "title": "Et s’il n’y avait pas un mais deux Dr Doom dans Avengers: Doomsday ? La folle théorie de certains fans",
-          "link": "https://www.numerama.com/pop-culture/2312677-et-sil-ny-avait-pas-un-mais-deux-dr-doom-dans-avengers-doomsday-la-folle-theorie-de-certains-fans.html",
+          "title": "Voici les produits qui ne seront plus supportés par Apple cette année",
+          "link": "https://www.clubic.com/actualite-625618-voici-les-produits-qui-ne-seront-plus-supportes-par-apple-cette-annee.html",
+          "source": "Clubic",
+          "summary": "Apple laisse cette année tous les iPhone compatibles avec iOS 26 accéder à iOS 27, jusqu'à l'iPhone 11 sorti en 2019. En revanche, entre les iPad, Apple Watch, Mac et Apple TV, 16 appareils au total, perdent l'accès aux…",
+          "published": "2026-08-18T06:28:00+00:00"
+        },
+        {
+          "title": "☕️ Cursor (SpaceX) lance Origin, une alternative synchronisée à GitHub",
+          "link": "https://next.ink/brief-article/cursor-spacex-lance-origin-une-alternative-synchronisee-a-github/",
+          "source": "Next",
+          "summary": "Cursor, désormais officiellement intégré à SpaceX, a ouvert lundi 17 août les portes d&#8217;un nouveau service baptisé Origin et dédié à l&#8217;hébergement de code. S&#8217;il est clairement présenté comme une…",
+          "published": "2026-08-18T06:22:38+00:00"
+        },
+        {
+          "title": "macOS 26.7 : le code d’Apple confirme ses futurs iPhone, AirPods et HomePod avant les annonces",
+          "link": "https://www.frandroid.com/marques/apple/3214207_macos-26-7-le-code-dapple-confirme-ses-futurs-iphone-airpods-et-homepod-avant-les-annonces",
+          "source": "Frandroid",
+          "summary": "En glissant du code dans ses mises à jour, Apple continue de vendre la mèche toute seule. La dernière version de macOS contient des références à plusieurs appareils encore jamais commercialisés.",
+          "published": "2026-08-18T06:20:02+00:00"
+        },
+        {
+          "title": "Google change sa méthode de calcul et va faire exploser le compteur des vidéos YouTube",
+          "link": "https://www.frandroid.com/marques/google/3214231_google-change-sa-methode-de-calcul-et-va-faire-exploser-le-compteur-des-videos-youtube",
+          "source": "Frandroid",
+          "summary": "À partir de la fin du mois, le nombre de vues d’une vidéo YouTube sera calculé dès le lancement de la vidéo. Un changement dans la méthode de calcul qui va faire exploser les compteurs publics, mais qui ne va pas…",
+          "published": "2026-08-18T06:19:29+00:00"
+        },
+        {
+          "title": "GeForce RTX 2080 Ti moddée à 22 Go : le hack japonais qui défie les GPU IA à 1000$",
+          "link": "https://www.clubic.com/actualite-625639-rtx-2080-ti-portee-a-22-go-par-un-atelier-japonais-pour-282-dollars.html",
+          "source": "Clubic",
+          "summary": "Un atelier japonais propose de doubler la VRAM d’une GeForce RTX 2080 Ti pour 282 dollars. La carte atteint ainsi les 22 Go de mémoire vidéo, de quoi charger des modèles d’IA volumineux sans avoir à se ruiner avec un…",
+          "published": "2026-08-18T06:18:00+00:00"
+        },
+        {
+          "title": "Sony ne sait toujours pas quand la PS6 sera lancée",
+          "link": "https://www.numerama.com/tech/2312955-sony-ne-sait-toujours-pas-quand-la-ps6-sera-lancee.html",
           "source": "Numerama",
-          "summary": "Certains fans du MCU pensent que Marvel est en train de tromper tout le monde avec le retour de Robert Downey Jr. dans Avengers: Doomsday. Selon eux, ils seraient deux à incarner Dr Doom.",
-          "published": "2026-08-17T17:30:00+00:00"
+          "summary": "À l'occasion d'une interview accordée au Wall Street Journal, Hiroko Totoki, CEO de Sony, a révélé que la crise des composants avait logiquement un impact significatif sur ses activités. Le business PlayStation,…",
+          "published": "2026-08-18T06:05:57+00:00"
         },
         {
-          "title": "iPhone Ultra : stocks très limités, nom incertain… les dernières fuites se précisent",
-          "link": "https://www.clubic.com/actualite-625663-iphone-ultra-stocks-tres-limites-nom-incertain-les-dernieres-fuites-se-precisent.html",
+          "title": "YouTube change sa façon de compter les vues des vidéos",
+          "link": "https://www.clubic.com/actualite-625669-youtube-change-sa-facon-de-compter-les-vues-des-videos.html",
           "source": "Clubic",
-          "summary": "Apple préparerait bien le lancement de son premier iPhone pliant pour septembre, mais les premiers exemplaires pourraient particulièrement être difficiles à trouver. Et alors que les stocks s’annoncent déjà limités, son…",
-          "published": "2026-08-17T17:18:00+00:00"
+          "summary": "YouTube va modifier la manière dont il comptabilise les vues sur sa plateforme à partir du 24 août. Une vue sera désormais enregistrée dès le lancement de la lecture, et non plus après un certain temps de visionnage.",
+          "published": "2026-08-18T06:04:00+00:00"
         },
         {
-          "title": "Tatouage de Claude, Gemini et GPT : on a vérifié le code censé casser la protection, voici ce qu’on a trouvé",
-          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3213909_tatouage-de-claude-gemini-et-gpt-on-a-verifie-le-code-cense-casser-la-protection-voici-ce-quon-a-trouve",
+          "title": "Ferrari Luce électrique : le premier exemplaire vendu aux enchères à... 40 millions de dollars !",
+          "link": "https://www.clubic.com/actualite-625576-ferrari-luce-electrique-le-premier-exemplaire-vendu-aux-encheres-a-40-millions-de-dollars.html",
+          "source": "Clubic",
+          "summary": "Très largement moquée lors de sa présentation, la première Ferrari 100% électrique vient de rappeler qu’il ne faut peut-être jamais enterrer trop vite le cheval cabré. Son tout premier exemplaire vient de s’envoler aux…",
+          "published": "2026-08-18T05:57:00+00:00"
+        },
+        {
+          "title": "Piratage de l’Éducation nationale : une fuite de données expose 1,22 million d’élèves",
+          "link": "https://www.frandroid.com/culture-tech/3214203_education-nationale-la-troisieme-fuite-de-donnees-expose-122-million-deleves",
           "source": "Frandroid",
-          "summary": "Depuis quelques jours, X et Reddit répètent qu'Anthropic va « tatouer » les textes de Claude pour savoir qu'ils ont été écrits par une IA et qu'un développeur aurait déjà cassé la protection. On a fait lire son code...…",
-          "published": "2026-08-17T17:16:18+00:00"
+          "summary": "Troisième fuite de données à l'Éducation nationale en 2026, en plein feuilleton du piratage des impôts. Même scénario et même point d'entrée, un compte professionnel usurpé, par le même pirate que la DGFiP.",
+          "published": "2026-08-18T05:50:45+00:00"
         },
         {
-          "title": "AYN Thor : la console à double écran AMOLED et Snapdragon 8 Gen 2 passe à 400 €",
-          "link": "https://www.frandroid.com/bons-plans/3213869_ayn-thor-la-console-a-double-ecran-amoled-et-snapdragon-8-gen-2-passe-a-400-e",
-          "source": "Frandroid",
-          "summary": "L'AYN Thor est une console portable au format clapet à double écran AMOLED, propulsée par un Snapdragon 8 Gen 2. Elle est disponible pour 400 euros sur Aliexpress dans sa version 8 Go de RAM et 128 Go de stockage.",
-          "published": "2026-08-17T17:00:00+00:00"
-        },
-        {
-          "title": "Geekom s’excuse après la découverte d’un malware dans les pilotes de ses mini-PC",
-          "link": "https://www.clubic.com/actualite-625645-geekom-s-excuse-apres-la-decouverte-d-un-malware-dans-les-pilotes-de-ses-mini-pc.html",
+          "title": "Quel est le service de transfert de fichiers le plus sécurisé en 2026 ?",
+          "link": "https://www.clubic.com/actualite-624325-quel-est-le-service-de-transfert-de-fichiers-le-plus-securise-en-2026.html",
           "source": "Clubic",
-          "summary": "La firme chinoise réagit finalement vite à la nouvelle annoncée en toute fin de semaine dernière, mais sa réponse ne convainc pas totalement.",
-          "published": "2026-08-17T16:52:00+00:00"
+          "summary": "Choisir le service de transfert de fichiers le plus sécurisé ne se résume pas à comparer les technologies de chiffrement. La sécurité dépend aussi d’autres critères essentiels, comme l’emplacement des serveurs, les…",
+          "published": "2026-08-18T05:30:00+00:00"
         },
         {
-          "title": "Rentrée étudiante : ce VPN premium passe à 2,19 €/mois avec 82% de réduction",
-          "link": "https://www.clubic.com/bons-plans-624355-de-reduction-chez-cyberghost-un-budget-vpn-accessible-pour-les-etudiants.html",
-          "source": "Clubic",
-          "summary": "À l’approche de la rentrée, les étudiants vont retrouver les Wi-Fi des bibliothèques, résidences et campus. CyberGhost profite de l’occasion pour proposer son VPN à 2,19 €/mois pendant 26 mois, avec 82 % de réduction et…",
-          "published": "2026-08-17T16:48:00+00:00"
-        },
-        {
-          "title": "Moins cher qu'un café par mois pour protéger tous vos appareils : l'offre Surfshark détaillée",
-          "link": "https://www.clubic.com/bons-plans-624703-moins-cher-qu-un-cafe-par-mois-pour-proteger-tous-vos-appareils-l-offre-surfshark-detaillee.html",
-          "source": "Clubic",
-          "summary": "Du 17 août au 7 septembre 2026, renforcez votre cybersécurité avec Surfshark One. Dès 2,49 euros par mois, vous obtenez une suite bien plus complète que le seul VPN.",
-          "published": "2026-08-17T16:30:00+00:00"
-        },
-        {
-          "title": "Cartes Pokémon 30ᵉ anniversaire : tout savoir sur les précommandes (ETB et boosters)",
-          "link": "https://www.numerama.com/pop-culture/2293233-cartes-pokemon-30%e1%b5%89-anniversaire-tout-savoir-sur-les-precommandes-etb-et-boosters.html",
-          "source": "Numerama",
-          "summary": "Pour célébrer ses 30 ans, Pokémon prépare une collection de cartes qui s’annonce particulièrement convoitée. ETB, coffrets Ultra Premium, boosters… Numerama fait le point sur les différents produits annoncés et…",
-          "published": "2026-08-17T16:20:00+00:00"
-        },
-        {
-          "title": "« L’IA devrait être comme le Wi-Fi » : dans ce bar chinois, DeepSeek est à volonté",
-          "link": "https://www.numerama.com/tech/2312773-lia-devrait-etre-comme-le-wi-fi-dans-ce-bar-chinois-deepseek-est-a-volonte.html",
-          "source": "Numerama",
-          "summary": "À Pékin, un bar propose à ses clients d’utiliser gratuitement et sans limite le modèle d’intelligence artificielle DeepSeek, le tout autour d’une bière. Un concept repéré par Reuters, qui illustre la place prise par…",
-          "published": "2026-08-17T16:00:00+00:00"
-        },
-        {
-          "title": "AirPods Pro 3 : les meilleurs true wireless d’Apple sont enfin de retour à moins de 200 €",
-          "link": "https://www.frandroid.com/bons-plans/3213783_airpods-pro-3-les-meilleurs-true-wireless-dapple-sont-enfin-de-retour-a-moins-de-200-e",
-          "source": "Frandroid",
-          "summary": "Qualité audio précise, ANC bluffante, suivi de fréquence cardiaque... Les AirPods Pro 3 conservent leur statut de référence parmi les meilleurs écouteurs sans fil du moment. La bonne nouvelle, c'est qu'ils sont…",
-          "published": "2026-08-17T16:00:00+00:00"
-        },
-        {
-          "title": "Ventes Flash Amazon : jusqu'à -73 % sur ces 10 offres tech à saisir cette semaine",
+          "title": "Amazon frappe fort cette semaine avec 10 ventes Flash jusqu'à -73%",
           "link": "https://www.clubic.com/bons-plans-625633-ventes-flash-amazon-jusqu-a--73-sur-ces-10-offres-tech-a-saisir-cette-semaine.html",
           "source": "Clubic",
           "summary": "La rentrée approche à grands pas, et c'est le moment idéal pour renouveler son équipement tech sans se ruiner. Amazon propose cette semaine 10 ventes flash sur des produits phares, à saisir avant la fin des stocks.",
-          "published": "2026-08-17T16:00:00+00:00"
+          "published": "2026-08-18T05:30:00+00:00"
         }
       ]
     }
@@ -329,11 +329,11 @@
       "label": "Sejour bien-etre",
       "items": [
         {
-          "title": "Afghanistan: cinq ans après la prise du pouvoir par les talibans, les femmes ont disparu de la vie publique",
-          "link": "https://www.slate.fr/monde/afghanistan-talibans-pouvoir-femmes-droits-restrictions-repression-vie-publique-regime-autoritaire",
+          "title": "«Les gens ont eu peur de leurs voisins»: en Alsace, la longue cicatrice laissée par l'affaire Lina",
+          "link": "https://www.slate.fr/societe/au-bout-du-chemin/alsace-affaire-lina-disparition-meurtre-vallee-bruche",
           "source": "Slate.fr",
-          "summary": "En Afghanistan, les autorités ont multiplié les décrets restreignant les droits des femmes et des filles à étudier, à travailler et à agir de manière indépendante. La situation a atteint un point critique, selon…",
-          "published": "2026-08-14T19:55:01+00:00"
+          "summary": "Depuis la disparition puis la mort de Lina, adolescente de 15 ans tuée en 2023, la vallée de la Bruche vit avec une blessure ouverte. Psychose collective, emballement médiatique et battues citoyennes: dans ce territoire…",
+          "published": "2026-08-18T04:55:03+00:00"
         }
       ]
     },
