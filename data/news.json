@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-18T21:22:04.395627+00:00",
+  "generated_at": "2026-08-19T01:09:15.818313+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Dans le Var, l’incendie du Gros Bessillon est officiellement éteint après « un mois de combat »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/19/dans-le-var-l-incendie-du-gros-bessillon-est-officiellement-eteint-apres-un-mois-de-combat_6749256_3244.html",
+          "source": "Le Monde",
+          "summary": "« Inédit » par sa durée, ce feu, qui s’est déclaré une première fois le 21 juillet dans un champ du village de Pontevès, a parcouru en tout 6 300 hectares, touché des dizaines de maisons et provoqué l’évacuation de 6…",
+          "published": "2026-08-19T00:36:52+00:00"
+        },
+        {
+          "title": "Deux réalisateurs français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d'Orsay",
+          "link": "https://www.france24.com/fr/afrique/20260819-deux-realisateurs-fran%C3%A7ais-arretes-detenus-togo-quai-orsay-medias-affaires-etrangeres-rsf",
+          "source": "France 24",
+          "summary": "Arrêtés le 27 juillet au Togo, deux ressortissants français \"font actuellement l'objet d'une information judiciaire conduite par un juge d'instruction\", a indiqué mardi le ministère français des Affaires étrangères à…",
+          "published": "2026-08-19T00:19:46+00:00"
+        },
+        {
+          "title": "Meta : en ouverture de son procès en Californie, la maison mère de Facebook et d’Instagram accusée d’avoir « appâté » les enfants",
+          "link": "https://www.lemonde.fr/pixels/article/2026/08/19/meta-en-ouverture-de-son-proces-en-californie-la-maison-mere-de-facebook-et-d-instagram-accusee-d-avoir-appate-les-enfants_6749157_4408996.html",
+          "source": "Le Monde",
+          "summary": "Le géant de la tech est accusé par une trentaine d’Etats américains, devant la justice fédérale, d’avoir rendu ses réseaux sociaux addictifs pour les mineurs. Le groupe se voit réclamer quelque 193 milliards de dollars…",
+          "published": "2026-08-18T23:02:21+00:00"
+        },
+        {
+          "title": "Dialogue rompu entre les États-Unis et l'Iran, les Émirats suspendent le commerce avec Téhéran",
+          "link": "https://www.france24.com/fr/moyen-orient/20260818-dialogue-rompu-entre-etats-unis-iran-emirats-arabes-unis-suspendent-commerce-avec-teheran-donald-trump-negociations-detroit-ormuz-missiles-qatar-oman",
+          "source": "France 24",
+          "summary": "Le président américain Donald Trump a écrit mardi qu'\"aucune discussion n'a lieu en ce moment ni n'est programmée avec l'Iran\". De son côté, Téhéran maintient son verrou sur le détroit d'Ormuz, des positions qui…",
+          "published": "2026-08-18T22:44:47+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Mykhaïlo Fedorov, le populaire ex-ministre de la défense écarté par Volodymyr Zelensky, demande d’ouvrir la voie à des élections",
+          "link": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-mykhailo-fedorov-le-populaire-ex-ministre-de-la-defense-ecarte-par-volodymyr-zelensky-demande-d-ouvrir-la-voie-a-des-elections_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "Limogé en juillet, Mykhaïlo Fedorov a appelé mardi soir à créer les conditions pour pouvoir tenir des élections malgré l’invasion russe de l’Ukraine et « restaurer un processus démocratique complet ».",
+          "published": "2026-08-18T22:12:24+00:00"
+        },
+        {
+          "title": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d’Orsay",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/18/deux-francais-arretes-et-detenus-au-togo-depuis-le-27-juillet-selon-le-quai-d-orsay_6749091_3212.html",
+          "source": "Le Monde",
+          "summary": "Il s’agit de deux « réalisateurs » travaillant « pour une société de production française », selon le ministère des affaires étrangères français, dont la production devait être diffusée sur France Télévisions, d’après…",
+          "published": "2026-08-18T21:28:31+00:00"
+        },
+        {
+          "title": "L'Olympique Lyonnais ramène le nul de Fenerbahçe en barrage aller de la Ligue des champions",
+          "link": "https://www.france24.com/fr/sports/20260818-l-olympique-lyonnais-ram%C3%A8ne-le-nul-de-fenerbah%C3%A7e-en-barrage-aller-de-la-ligue-des-champions",
+          "source": "France 24",
+          "summary": "Lyon a préservé ses chances de se qualifier pour la Ligue des champions, après le match nul obtenu sur la pelouse du Fenerbahçe (1-1) en barrage aller, mardi à Istanbul. Le match retour est prévu mercredi à Lyon.",
+          "published": "2026-08-18T21:09:10+00:00"
+        },
         {
           "title": "Ebola en RD Congo: l'épidémie est \"loin d'être maîtrisée\", alerte l'OMS",
           "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260818-ebola-en-rd-congo-l-%C3%A9pid%C3%A9mie-est-loin-d-%C3%AAtre-ma%C3%AEtris%C3%A9e-alerte-l-oms",
@@ -24,55 +73,6 @@
           "source": "France 24",
           "summary": "Les sanctions américaines contre de hauts responsables de la Cour pénale internationale \"sapent l'État de droit\", a déclaré mardi la Cour dans un communiqué. Cette communication de la justice internationale intervient…",
           "published": "2026-08-18T20:02:31+00:00"
-        },
-        {
-          "title": "Paris va expulser deux diplomates iraniens en représailles à la décision de Téhéran",
-          "link": "https://www.france24.com/fr/france/20260818-paris-va-expulser-deux-diplomates-iraniens-en-repr%C3%A9sailles-%C3%A0-la-d%C3%A9cision-de-t%C3%A9h%C3%A9ran",
-          "source": "France 24",
-          "summary": "Le ministre français des Affaires étrangères a annoncé, mardi soir, que Paris va expulser deux diplomates iraniens en poste en France. Il s'agit d'une mesure de représailles à la décision de l'Iran de décréter persona…",
-          "published": "2026-08-18T19:38:39+00:00"
-        },
-        {
-          "title": "La France va expulser deux diplomates iraniens « dans les tout prochains jours »",
-          "link": "https://www.lemonde.fr/international/article/2026/08/18/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_6749089_3210.html",
-          "source": "Le Monde",
-          "summary": "Il s’agit d’une mesure en représailles à la décision iranienne de ne pas autoriser le retour en Iran de deux diplomates français qui avaient été brièvement arrêtés à Téhéran en juillet avant de quitter le pays.",
-          "published": "2026-08-18T19:05:32+00:00"
-        },
-        {
-          "title": "COP17 contre la désertification : la France n'échappe pas à la dégradation de ses sols",
-          "link": "https://www.france24.com/fr/france/20260818-cop17-contre-la-d%C3%A9sertification-la-france-n-%C3%A9chappe-pas-%C3%A0-la-d%C3%A9gradation-de-ses-sols",
-          "source": "France 24",
-          "summary": "La détérioration massive des sols est au cœur des discussions de la COP17 sur la lutte contre la désertification, qui a lieu jusqu'au 28 août en Mongolie. Alors que 70 % des terres françaises sont dégradées par des…",
-          "published": "2026-08-18T18:52:17+00:00"
-        },
-        {
-          "title": "\"Nous n’avons aucune envie de rentrer\" : à Ceuta, l'avenir en suspens des mineurs marocains",
-          "link": "https://www.france24.com/fr/afrique/20260818-maroc-espagne-ue-ceuta-avenir-en-suspens-des-mineurs-marocains",
-          "source": "France 24",
-          "summary": "France 24 a suivi pendant une nuit des migrants mineurs encore présents à Ceuta. Entre la peur, le froid et l’attente, de jeunes Marocains en quête d'une vie meilleure ont confié les détails poignants d'une histoire qui…",
-          "published": "2026-08-18T18:51:50+00:00"
-        },
-        {
-          "title": "Sénégal : la FSF nomme Vieira malgré le contentieux avec Pape Thiaw",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260818-s%C3%A9n%C3%A9gal-la-fsf-nomme-vieira-malgr%C3%A9-le-contentieux-avec-pape-thiaw",
-          "source": "France 24",
-          "summary": "Au Sénégal, Patrick Vieira est nommé sélectionneur des Lions de la Teranga. La nomination de Vieira intervient alors que l'ancien sélectionneur Pape Thiaw réclame à la FSF plus de 400 millions de francs CFA au titre de…",
-          "published": "2026-08-18T18:27:00+00:00"
-        },
-        {
-          "title": "Sénégal : adoption d'une loi sur la déclaration de patrimoine des plus hauts responsables",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260818-s%C3%A9n%C3%A9gal-adoption-d-une-loi-sur-la-d%C3%A9claration-de-patrimoine-des-plus-hauts-responsables",
-          "source": "France 24",
-          "summary": "🇸🇳 Au Sénégal, la modification de l’article 37 de la Constitution a été adoptée ce lundi. Le texte impose désormais au Premier Ministre et au président de l’Assemblée nationale, en plus du chef de l’État une seconde…",
-          "published": "2026-08-18T18:15:11+00:00"
-        },
-        {
-          "title": "« Vous n’imaginez pas comme les Afghanes se battent et inventent des stratégies pour survivre » : une radio féminine et des écoles clandestines comme lueurs d’espoir",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/vous-n-imaginez-pas-comme-les-afghanes-se-battent-et-inventent-des-strategies-pour-survivre-une-radio-feminine-et-des-ecoles-clandestines-comme-lueurs-d-espoir_6749086_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Paroles d’Afghanes » (3/6). « Faite par des femmes pour les femmes », Radio Begum est pour nombre d’Afghanes leur unique lien avec l’extérieur. Parallèlement, les initiatives foisonnent pour assouvir la soif…",
-          "published": "2026-08-18T18:00:07+00:00"
         }
       ]
     },
@@ -83,6 +83,62 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Un meurtre élucidé grâce à la ténacité d’une « héroïne »",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-18/un-meurtre-elucide-grace-a-la-tenacite-d-une-heroine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le meurtre d’une octogénaire dans une résidence pour personnes âgées (RPA) de Montréal en 2022 a bien failli être classé comme un simple accident, n’eût été la persévérance de sa nièce. Pourtant, Rolande Ducharme a été…",
+          "published": "2026-08-18T23:40:00+00:00"
+        },
+        {
+          "title": "Donald Trump et Mark Carney ont discuté des droits de douane",
+          "link": "https://www.ledevoir.com/economie/1002590/donald-trump-mark-carney-ont-discute-droits-douane",
+          "source": "Le Devoir",
+          "summary": "Il s’agit du deuxième entretien téléphonique entre les deux dirigeants au cours des deux derniers jours.",
+          "published": "2026-08-18T23:30:03+00:00"
+        },
+        {
+          "title": "Klaveness fustige Infantino pour avoir congédié un haut dirigeant réfractaire",
+          "link": "https://www.ledevoir.com/sports/1002587/klaveness-fustige-infantino-avoir-congedie-haut-dirigeant-refractaire",
+          "source": "Le Devoir",
+          "summary": "Le départ du directeur des opérations est survenu 17 jours après sa critique du projet d’investissement d’Infantino.",
+          "published": "2026-08-18T23:26:00+00:00"
+        },
+        {
+          "title": "Pénurie de places en garderie | Un frein à l’émancipation des femmes ?",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-18/penurie-de-places-en-garderie/un-frein-a-l-emancipation-des-femmes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’arrivée des places de garderie à 5 $ par jour a permis à des milliers de femmes de sortir de la pauvreté. Or, la pénurie de places en force aujourd’hui de nombreuses à rester à la maison. À l’approche des élections,…",
+          "published": "2026-08-18T23:00:00+00:00"
+        },
+        {
+          "title": "Le batteur de ZZ Top, Frank Beard, est décédé",
+          "link": "https://www.ledevoir.com/culture/musique/1002584/batteur-zz-top-frank-beard-est-decede",
+          "source": "Le Devoir",
+          "summary": "Le musicien avait récemment cessé de tourner avec sa formation.",
+          "published": "2026-08-18T22:59:44+00:00"
+        },
+        {
+          "title": "Trump a voté par correspondance en Floride, une pratique qu’il dénonce",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1002581/trump-vote-correspondance-floride-pratique-il-denonce",
+          "source": "Le Devoir",
+          "summary": "La Maison-Blanche n’y voit aucune contradiction, évoquant des exceptions prévues par la loi.",
+          "published": "2026-08-18T22:44:00+00:00"
+        },
+        {
+          "title": "Pour se régénérer, l’Amazonie compte sur une poignée d’espèces d’arbres",
+          "link": "https://www.ledevoir.com/actualites/environnement/1002572/regenerer-amazonie-compte-poignee-especes-arbres",
+          "source": "Le Devoir",
+          "summary": "Étudier la manière dont les forêts se régénèrent est utile pour comprendre comment restaurer les zones déboisées.",
+          "published": "2026-08-18T22:08:00+00:00"
+        },
+        {
+          "title": "La mairesse de Montréal veut un REM de l’Est",
+          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1002545/mairesse-montreal-veut-rem-est",
+          "source": "Le Devoir",
+          "summary": "Soraya Martinez Ferrada évoque un lien entre la pointe de l’île, la ligne verte du métro et le cégep Marie-Victorin.",
+          "published": "2026-08-18T21:50:00+00:00"
+        },
         {
           "title": "Les trois actus du 18 août",
           "link": "https://www.ledevoir.com/actualites/1002509/trois-actus-18-aout",
@@ -96,62 +152,6 @@
           "source": "Le Devoir",
           "summary": "Les deux pays jouent leurs dernières cartes. Sans accord, une surtaxe de 50% s’appliquera à minuit sur moult produits.",
           "published": "2026-08-18T20:16:00+00:00"
-        },
-        {
-          "title": "Malgré « l’instabilité » | Le commerce avec les Américains restera « central » pour Fréchette",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-18/malgre-l-instabilite/le-commerce-avec-les-americains-restera-central-pour-frechette.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La première ministre Christine Fréchette s’est positionnée en cheffe de file en matière de relations internationales dans un discours aux accents de précampagne devant le Conseil des relations internationales de…",
-          "published": "2026-08-18T19:45:54+00:00"
-        },
-        {
-          "title": "Marinvest Energy veut que des Premières Nations développent son projet de GNL de 30 milliards",
-          "link": "https://www.ledevoir.com/actualites/environnement/1002491/marinvest-energy-veut-premieres-nations-developpent-projet-gnl-30-milliards",
-          "source": "Le Devoir",
-          "summary": "Le gouvernement Carney et l’entreprise ont discuté du financement potentiel pour un projet impliquant les Autochtones.",
-          "published": "2026-08-18T19:36:00+00:00"
-        },
-        {
-          "title": "Pour sa vision internationale, Fréchette mise sur la continuité",
-          "link": "https://www.ledevoir.com/politique/quebec/1002488/vision-internationale-frechette-mise-continuite",
-          "source": "Le Devoir",
-          "summary": "Alors qu’une nouvelle vague de droits de douane américains approche, elle estime pouvoir offrir de la prévisibilité.",
-          "published": "2026-08-18T19:34:00+00:00"
-        },
-        {
-          "title": "Les ventes résidentielles ont baissé de 5,3% en juillet par rapport à l’an dernier",
-          "link": "https://www.ledevoir.com/economie/1002485/ventes-residentielles-ont-baisse-5-3-juillet-rapport-an-dernier",
-          "source": "Le Devoir",
-          "summary": "L’ACI a fait savoir que les ventes de logements se sont élevées à 43 578 le mois dernier.",
-          "published": "2026-08-18T19:18:47+00:00"
-        },
-        {
-          "title": "Céline Dion en couverture du magazine Harper’s Bazaar",
-          "link": "https://www.lapresse.ca/arts/2026-08-18/celine-dion-en-couverture-du-magazine-harper-s-bazaar.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Céline Dion Goes On. C’est le titre qui apparaît en couverture du magazine Harper’s Bazaar, un numéro spécial consacré aux icônes. La chanteuse québécoise se confie sur son retour sur scène prévu à Paris le 12 septembre…",
-          "published": "2026-08-18T18:59:28+00:00"
-        },
-        {
-          "title": "Le NPD appelle à enquêter sur le gouvernement Carney pour écoblanchiment",
-          "link": "https://www.ledevoir.com/politique/canada/1002479/npd-appelle-enqueter-gouvernement-carney-ecoblanchiment",
-          "source": "Le Devoir",
-          "summary": "Les publicités disant que le Canada construit un «avenir plus propre» enfreindraient la loi, estime Don Davies.",
-          "published": "2026-08-18T18:54:00+00:00"
-        },
-        {
-          "title": "Meta accusé d’avoir «appâté» les enfants et «trompé» le public",
-          "link": "https://www.ledevoir.com/actualites/justice/1002473/meta-accuse-avoir-appate-enfants-trompe-public",
-          "source": "Le Devoir",
-          "summary": "L’entreprise affronte mardi les plaidoiries d’ouverture de son procès en Californie.",
-          "published": "2026-08-18T18:48:42+00:00"
-        },
-        {
-          "title": "Le taux d'emprunt à long terme des États-Unis au plus haut depuis 2007, inquiétudes sur le coût de la dette",
-          "link": "https://www.journaldemontreal.com/2026/08/18/le-taux-demprunt-a-long-terme-des-etats-unis-au-plus-haut-depuis-2007-inquietudes-sur-le-cout-de-la-dette",
-          "source": "Journal de Montreal",
-          "summary": "Le taux d'intérêt de la dette publique des États-Unis à long terme a atteint mardi son plus haut niveau depuis 2007.",
-          "published": "2026-08-18T18:44:01+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Les Emirats arabes unis accusent l'Iran d'avoir tiré deux missiles vers leur flotte et suspendent leurs relations économiques avec l'Iran",
-          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_8152565.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Ces missiles balistiques sont tombés en mer. L'un à l'intérieur des eaux territoriales du pays, l'autre à l'extérieur, a déclaré le ministère de la Défense émirati.",
-          "published": "2026-08-18T21:16:06+00:00"
-        },
-        {
-          "title": "EN DIRECT - Sortie dans l’espace de Sophie Adenot : les deux astronautes de retour dans l’ISS après une mission de six heures",
-          "link": "https://www.lefigaro.fr/sciences/en-direct-nasa-sophie-adenot-astronaute-iss-espace-20260818",
+          "title": "Emmanuel Macron promulgue la loi sur l’aide à mourir",
+          "link": "https://www.lefigaro.fr/politique/emmanuel-macron-promulgue-la-loi-sur-l-aide-a-mourir-20260819",
           "source": "Le Figaro",
-          "summary": "Avec l’Américain Anil Menon, la spationaute de 44 ans devait remplacer une antenne à l’extérieur de la Station spatiale internationale (ISS) ce mardi. Mais les deux astronautes ont rencontré des problèmes avec leur…",
-          "published": "2026-08-18T21:15:03+00:00"
+          "summary": "Après plusieurs années de débats, ce texte crée un droit à l’aide à mourir, sous plusieurs conditions, pour certains patients, leur permettant de s’administrer un produit létal en présence d’un soignant.",
+          "published": "2026-08-19T00:19:41+00:00"
         },
         {
-          "title": "Les images de la sortie dans l’espace de Sophie Adenot",
-          "link": "https://photo.lefigaro.fr/sciences/les-images-de-la-sortie-dans-l-espace-de-sophie-adenot-20260818",
+          "title": "Trump veut rencontrer Kim Jong-un dès cet automne, selon le Wall Street Journal",
+          "link": "https://www.lefigaro.fr/international/trump-veut-rencontrer-kim-jong-un-des-cet-automne-selon-le-wall-street-journal-20260819",
           "source": "Le Figaro",
-          "summary": "Sophie Adenot est devenue mardi la première astronaute française à réaliser une sortie dans l’espace, passant plus de six heures hors de la Station spatiale internationale (ISS) en compagnie de l’Américain Anil Menon.",
-          "published": "2026-08-18T21:10:34+00:00"
+          "summary": "Le président américain presse ses collaborateurs d’organiser une entrevue avec le dirigeant nord-coréen, possiblement en marge du sommet de l’APEC en novembre, selon le Wall Street Journal.",
+          "published": "2026-08-18T23:38:54+00:00"
         },
         {
-          "title": "Ligue des champions : l’OL tient tête au Fenerbahçe en barrage aller",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-l-ol-tient-tete-au-fenerbahce-en-barrage-aller-20260818",
+          "title": "Frank Beard, batteur historique du groupe de rock ZZ Top, est mort à 77 ans",
+          "link": "https://www.lemonde.fr/disparitions/article/2026/08/19/frank-beard-batteur-historique-du-groupe-de-rock-zz-top-est-mort-a-77-ans_6749190_3382.html",
+          "source": "Le Monde",
+          "summary": "Seul membre du trio d’origine à ne pas avoir la barbe, Frank Beard avait dû quitter la tournée actuelle du groupe au début du mois d’août, en raison de problèmes de santé qui n’ont pas été précisés.",
+          "published": "2026-08-18T23:27:22+00:00"
+        },
+        {
+          "title": "Du golfe de Gascogne à la Méditerranée, les mers d’Europe plongent en «territoire inconnu» sous l’effet du réchauffement climatique",
+          "link": "https://www.liberation.fr/environnement/climat/du-golfe-de-gascogne-a-la-mediterranee-les-mers-deurope-plongent-en-territoire-inconnu-sous-leffet-du-rechauffement-climatique-20260819_6SWADHUKIRCYHIJDNBXWY2XQFY/",
+          "source": "Liberation",
+          "summary": "Certaines eaux européennes ont enregistré cet été des températures de surface supérieures de plus de 6 °C à la normale, pointe une étude du World Weather Attribution parue ce mercredi 19 août, qui met en cause les…",
+          "published": "2026-08-18T23:00:00+00:00"
+        },
+        {
+          "title": "Tennis : Nakashima piège Medvedev et rejoint les huitièmes des Masters 1000 de Cincinnati",
+          "link": "https://www.lefigaro.fr/sports/tennis/tennis-nakashima-piege-medvedev-et-rejoint-les-huitiemes-des-masters-1000-de-cincinnati-20260819",
           "source": "Le Figaro",
-          "summary": "Malgré une chaude ambiance à Istanbul, l’Olympique Lyonnais a tenu bon face à N’Golo Kanté et ses coéquipiers. La qualification se jouera dans huit jours au Groupama Stadium.",
-          "published": "2026-08-18T21:06:51+00:00"
+          "summary": "Avec cette victoire, Nakashima rallie les huitièmes de finale, où l’attend le Portugais Nuno Borges, tombeur plus tôt dans la journée du Russe Andrey Rublev.",
+          "published": "2026-08-18T22:57:20+00:00"
         },
         {
-          "title": "Incendies dans le Var : les feux du Gros Bessillon et de Ginasservis sont officiellement éteints, annonce la préfecture",
-          "link": "https://www.lefigaro.fr/actualite-france/incendies-dans-le-var-les-feux-du-gros-bessillon-et-de-ginasservis-sont-officiellement-eteints-annonce-la-prefecture-20260818",
-          "source": "Le Figaro",
-          "summary": "Au total, plus de 11.000 sapeurs-pompiers ont été mobilisés pendant près d’un mois, appuyés par d’importants moyens aériens.",
-          "published": "2026-08-18T21:05:51+00:00"
+          "title": "«La Providence et la Guitare» de João Nicolau, balourd et troubadours",
+          "link": "https://www.liberation.fr/culture/cinema/la-providence-et-la-guitare-de-joao-nicolau-balourd-et-troubadours-20260819_VCCOIBN7SNFPFGXEBQ4YOHSJ3M/",
+          "source": "Liberation",
+          "summary": "Dans un film d’époque portugais, infusé de fantastique et de musical, deux comédiens itinérants tentent tant bien que mal d’exercer leur art.",
+          "published": "2026-08-18T22:56:00+00:00"
         },
         {
-          "title": "Deux ressortissants Français arrêtés et détenus au Togo depuis fin juillet",
-          "link": "https://www.franceinfo.fr/monde/afrique/togo/deux-francais-arretes-et-detenus-au-togo-depuis-fin-juillet_8152730.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Il s'agit de \"réalisateurs\" travaillant \"pour une société de production française\", selon le ministère des Affaires étrangères.",
-          "published": "2026-08-18T21:00:36+00:00"
+          "title": "L’OL résiste au Fenerbahçe et maintient l’espoir d’une qualification pour la Ligue des champions",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/19/l-ol-resiste-au-fenerbahce-et-maintient-l-espoir-d-une-qualification-pour-la-ligue-des-champions_6749124_3242.html",
+          "source": "Le Monde",
+          "summary": "Absent du plateau de la prestigieuse Coupe d’Europe depuis la saison 2019-2020, l’Olympique lyonnais a ramené le nul (1-1) d’Istanbul en barrage aller, mardi soir. Il aura l’avantage de recevoir le match retour, le 26…",
+          "published": "2026-08-18T22:48:23+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Mykhaïlo Fedorov, le populaire ex-ministre de la défense écarté par Volodymyr Zelensky, demande d’ouvrir la voie à des élections",
+          "link": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-mykhailo-fedorov-le-populaire-ex-ministre-de-la-defense-ecarte-par-volodymyr-zelensky-demande-d-ouvrir-la-voie-a-des-elections_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "Limogé en juillet, Mykhaïlo Fedorov a appelé mardi soir à créer les conditions pour pouvoir tenir des élections malgré l’invasion russe de l’Ukraine et « restaurer un processus démocratique complet ».",
+          "published": "2026-08-18T22:12:24+00:00"
         },
         {
           "title": "La France va expulser deux diplomates iraniens \"dans les tout prochains jours\"",
           "link": "https://www.franceinfo.fr/monde/iran/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_8152658.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Cette décision a été prise en représailles à la décision de l'Iran d'interdire le retour de deux diplomates de l'ambassade de France à Téhéran, a déclaré mardi le ministre des Affaires étrangères français.",
-          "published": "2026-08-18T20:55:42+00:00"
+          "published": "2026-08-18T22:03:19+00:00"
         },
         {
-          "title": "«Elle m’a dit : “là-bas, on fait ça à toutes les petites filles”» : ces jeunes Françaises victimes d’excision dans le pays d’origine de leurs parents",
-          "link": "https://www.lefigaro.fr/actualite-france/elle-m-a-dit-la-bas-on-fait-ca-a-toutes-les-petites-filles-ces-jeunes-francaises-victimes-d-excision-dans-le-pays-d-origine-de-leurs-parents-20260818",
-          "source": "Le Figaro",
-          "summary": "ENQUÊTE - Près de 139 000 femmes excisées vivraient aujourd’hui en France. Si aucune pratique active n’est recensée sur le territoire, certaines jeunes filles restent exposées lors de séjours à l'étranger. À l'heure des…",
-          "published": "2026-08-18T20:45:02+00:00"
-        },
-        {
-          "title": "Togo : deux réalisateurs français arrêtés et détenus depuis le 27 juillet",
-          "link": "https://www.lefigaro.fr/international/togo-deux-realisateurs-francais-arretes-et-detenus-depuis-le-27-juillet-20260818",
-          "source": "Le Figaro",
-          "summary": "«Ils font actuellement l’objet d’une information judiciaire conduite par un juge d’instruction», a indiqué le Quai d’Orsay ce mardi soir.",
-          "published": "2026-08-18T20:42:37+00:00"
-        },
-        {
-          "title": "En Belgique, les pompiers se battent pour \"encercler définitivement\" un incendie historique",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-belgique-les-pompiers-se-battent-pour-encercler-definitivement-un-incendie-historique_8152706.html#xtor=RSS-3-[lestitres]",
+          "title": "Les Emirats arabes unis accusent l'Iran d'avoir tiré deux missiles vers leur flotte et suspendent leurs relations économiques avec le pays",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-emirats-arabes-unis-accusent-l-iran-d-avoir-tire-deux-missiles-vers-leur-territoire_8152565.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Quelque 3 000 hectares de forêt ont déjà été ravagés par cet incendie survenu vendredi. Les pompiers tentent mardi d'encercler le feu, afin de le fixer, puis de l'éteindre.",
-          "published": "2026-08-18T20:36:44+00:00"
+          "summary": "L'Iran a démenti ces accusations mardi. Selon les Emirats arabes unis, ces missiles balistiques sont tombés en mer. L'un à l'intérieur des eaux territoriales du pays, l'autre à l'extérieur.",
+          "published": "2026-08-18T22:00:29+00:00"
         }
       ]
     },
