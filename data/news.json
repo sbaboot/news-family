@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-20T21:26:03.931236+00:00",
+  "generated_at": "2026-08-21T01:11:53.454376+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "El Niño : le canal de Panama va réduire le nombre de traversées",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260820-el-ni%C3%B1o-le-canal-de-panama-va-r%C3%A9duire-le-nombre-de-travers%C3%A9es",
+          "source": "France 24",
+          "summary": "Le canal de Panama va réduire dès septembre le nombre de navires autorisés à y transiter, en raison d’une baisse des précipitations liée au phénomène El Niño qui affecte les réserves d’eau nécessaires à son…",
+          "published": "2026-08-20T22:29:28+00:00"
+        },
+        {
+          "title": "Syrie : l’administration kurde désormais intégrée dans celle de l’Etat",
+          "link": "https://www.lemonde.fr/international/article/2026/08/20/syrie-l-administration-kurde-desormais-integree-dans-celle-de-l-etat_6751362_3210.html",
+          "source": "Le Monde",
+          "summary": "Les Kurdes et le régime de Damas avaient conclu en janvier un accord en vertu duquel leurs forces et leurs administrations devaient être progressivement intégrées au sein de l’Etat syrien. « Notre lutte se poursuivra…",
+          "published": "2026-08-20T21:48:40+00:00"
+        },
+        {
+          "title": "États-Unis : une femme accusée d’avoir préparé un attentat pour l'EI",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260820-%C3%A9tats-unis-une-femme-accus%C3%A9e-d-avoir-pr%C3%A9par%C3%A9-un-attentat-pour-l-ei",
+          "source": "France 24",
+          "summary": "Une Américaine de 35 ans, accusée d’avoir planifié un attentat à la bombe contre le siège du Parlement de l'État de New York et ses élus pour le compte du groupe État islamique, a été arrêtée et inculpée jeudi.",
+          "published": "2026-08-20T21:31:18+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : deux personnes tuées dans de nouvelles frappes russes sur Kiev, après celles de la nuit qui ont fait au moins 15 morts",
           "link": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-deux-personnes-tuees-dans-de-nouvelles-frappes-russes-sur-kiev-apres-celles-de-la-nuit-qui-ont-fait-au-moins-15-morts_6746952_3210.html",
@@ -52,27 +73,6 @@
           "source": "Le Monde",
           "summary": "Dans leur déclaration conjointe, les quatre pays européens dénoncent le développement du projet East 1, pour lequel Israël souhaite construire 3 400 logements en territoire palestinien.",
           "published": "2026-08-20T17:32:40+00:00"
-        },
-        {
-          "title": "« Les talibans prêchent la pureté et la moralité, et ils se ruent pour déshabiller les femmes en prison » : les Afghanes au pays de la terreur",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/20/les-talibans-prechent-la-purete-et-la-moralite-et-ils-se-ruent-pour-deshabiller-les-femmes-en-prison-les-afghanes-au-pays-de-la-terreur_6751163_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Paroles d’Afghanes » (5/6). En Afghanistan, le droit est désormais contre les femmes et les filles. Deux nouveaux décrets émis par le régime des talibans légalisent même la violence conjugale et le mariage des enfants.",
-          "published": "2026-08-20T17:30:02+00:00"
-        },
-        {
-          "title": "Mort de Jason Arday : l’université de Gand suspend le chercheur ayant accusé de plagiat le jeune professeur de Cambridge",
-          "link": "https://www.lemonde.fr/international/article/2026/08/20/mort-de-jason-arday-l-universite-de-gand-suspend-le-chercheur-ayant-accuse-de-plagiat-le-jeune-professeur-de-cambridge_6751130_3210.html",
-          "source": "Le Monde",
-          "summary": "Jason Arday, plus jeune professeur noir de l’université de Cambridge avant sa démission, a été retrouvé mort à son domicile à la mi-août, après des accusations de plagiat, qui ont déchaîné les passions en…",
-          "published": "2026-08-20T17:15:22+00:00"
-        },
-        {
-          "title": "En Volhynie, dans l’ouest de l’Ukraine, la difficile réconciliation des mémoires polonaise et ukrainienne autour des charniers de la seconde guerre mondiale",
-          "link": "https://www.lemonde.fr/international/article/2026/08/20/en-volhynie-dans-l-ouest-de-l-ukraine-la-difficile-reconciliation-des-memoires-polonaise-et-ukrainienne-autour-des-charniers-de-la-seconde-guerre-mondiale_6751129_3210.html",
-          "source": "Le Monde",
-          "summary": "Dans les anciens villages de Wola Ostrowiecka et d’Ostrowki, dans l’ouest de l’Ukraine, archéologues et historiens exhument des corps de civils polonais massacrés par des nationalistes ukrainiens en 1943. Plus de…",
-          "published": "2026-08-20T17:00:13+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Deux féminicides à Montréal | Un suspect arrêté, l’autre meurt de ses blessures",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-20/deux-feminicides-a-montreal/un-suspect-arrete-l-autre-meurt-de-ses-blessures.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "L’apprentissage de l’art selon Maripier Morin",
+          "link": "https://www.lapresse.ca/arts/chroniques/2026-08-20/l-apprentissage-de-l-art-selon-maripier-morin.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’un des deux suspects dans les deux féminicides commis dans le quartier Saint-Michel entre samedi et lundi fera face à la justice. Le présumé assassin de Kerline Jean comparaîtra vendredi au palais de justice de…",
-          "published": "2026-08-20T21:11:57+00:00"
+          "summary": "Le problème avec les radios où ça placote beaucoup, c’est qu’on peut parfois entendre des sottises. Lors de la toute première émission de la rentrée, Maripier Morin, coanimatrice avec Marie-Eve Janvier de l’émission Les…",
+          "published": "2026-08-21T00:46:45+00:00"
         },
         {
-          "title": "Le champ de pratique des pharmaciens sera élargi à compter du 9 décembre",
-          "link": "https://www.ledevoir.com/actualites/sante/1003118/champ-pratique-pharmaciens-sera-elargi-compter-9-decembre",
+          "title": "Le CIJA appelle à rejeter la motion de Projet Montréal sur Israël",
+          "link": "https://www.ledevoir.com/politique/montreal/1003184/cija-appelle-rejeter-motion-projet-montreal-israel",
           "source": "Le Devoir",
-          "summary": "Ils pourront notamment renouveler une ordonnance sans limites.",
-          "published": "2026-08-20T20:49:26+00:00"
+          "summary": "Le parti d’opposition veut suspendre les relations de la Ville avec l’État hébreu.",
+          "published": "2026-08-21T00:21:18+00:00"
         },
         {
-          "title": "Nouvelle salve de sanctions américaines contre Cuba",
-          "link": "https://www.ledevoir.com/monde/ameriques/1003115/nouvelle-salve-sanctions-americaines-contre-cuba",
-          "source": "Le Devoir",
-          "summary": "Le gouvernement américain exerce une pression maximale sur cette île des Caraïbes.",
-          "published": "2026-08-20T20:44:37+00:00"
-        },
-        {
-          "title": "Québec-Toronto | Les billets du TGV d’Alto seront vendus avec la tarification dynamique",
-          "link": "https://www.lapresse.ca/affaires/2026-08-20/quebec-toronto/les-billets-du-tgv-d-alto-seront-vendus-avec-la-tarification-dynamique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Natalie Harp | L’assistante (très) spéciale de Donald Trump",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-20/natalie-harp/l-assistante-tres-speciale-de-donald-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Dépêchez-vous de réserver votre place. Les prix des billets du futur TGV Québec-Toronto pourraient varier en fonction du moment auquel les voyageurs les achèteront, a indiqué Alto, jeudi.",
-          "published": "2026-08-20T20:23:48+00:00"
+          "summary": "Le titre officiel de Natalie Harp ne donne qu’une vague idée de son rôle : assistante spéciale du président. De tous les membres du personnel de la Maison-Blanche, aucun ne semble plus proche de Donald Trump ou dévoué à…",
+          "published": "2026-08-20T23:45:00+00:00"
         },
         {
-          "title": "Quatre suggestions culturelles pour la fin de semaine",
-          "link": "https://www.ledevoir.com/culture/1003109/quatre-suggestions-culturelles-fin-semaine",
-          "source": "Le Devoir",
-          "summary": "«Le Devoir» vous propose quelques sorties pour le week-end du 21 au 23 août.",
-          "published": "2026-08-20T20:22:17+00:00"
-        },
-        {
-          "title": "Les trois actus du 20 août",
-          "link": "https://www.ledevoir.com/actualites/1003106/trois-actus-20-aout",
-          "source": "Le Devoir",
-          "summary": "Négociations commerciales, vaccin contre la grippe et remise en cause d’une technique du SPVM: ce qu’il faut retenir.",
-          "published": "2026-08-20T20:20:00+00:00"
-        },
-        {
-          "title": "Deux féminicides à Montréal: un homme est mort, l’autre a été arrêté",
-          "link": "https://www.ledevoir.com/actualites/justice/1003100/deux-feminicides-montreal-homme-est-mort-autre-ete-arrete",
-          "source": "Le Devoir",
-          "summary": "Deux femmes ont été tuées en trois jours dans le quartier Saint-Michel. Leurs deux conjoints étaient les suspects.",
-          "published": "2026-08-20T20:19:19+00:00"
-        },
-        {
-          "title": "Transport collectif | Une première ligne d’autobus « métropolitaine » voit le jour",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-20/transport-collectif/une-premiere-ligne-d-autobus-metropolitaine-voit-le-jour.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Dis-moi quel émoji tu préfères, je te dirai qui tu es",
+          "link": "https://www.lapresse.ca/societe/2026-08-20/dis-moi-quel-emoji-tu-preferes-je-te-dirai-qui-tu-es.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une toute première « ligne métropolitaine » d’autobus sera mise en service lundi prochain. Le circuit Taschereau, circulant sur le boulevard du même nom, fera le lien entre la ville de Delson et la ligne jaune du métro…",
-          "published": "2026-08-20T20:00:43+00:00"
+          "summary": "Signifiez-vous plutôt la tristesse avec la rose fanée ou avec le cœur brisé ? Utilisez-vous les mains en prière ou le pouce en l’air ? Et votre fou rire s’exprime-t-il par un visage qui pleure ou bien… une tête de mort…",
+          "published": "2026-08-20T23:30:00+00:00"
         },
         {
-          "title": "Négociations commerciales | L’alcool américain ne reviendra pas sur mes tablettes",
-          "link": "https://www.lapresse.ca/dialogue/temoignages/2026-08-20/negociations-commerciales/l-alcool-americain-ne-reviendra-pas-sur-mes-tablettes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Faux agent du SPVM | L’imposteur détenait tout l’arsenal d’un policier",
+          "link": "https://www.lapresse.ca/actualites/2026-08-20/faux-agent-du-spvm/l-imposteur-detenait-tout-l-arsenal-d-un-policier.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Pour le restaurateur David Ferguson, les derniers soubresauts des négociations avec les États-Unis ne changent rien, il continuera à servir l’alcool d’ici.",
-          "published": "2026-08-20T20:00:00+00:00"
+          "summary": "Un homme porte un ceinturon, un pistolet et conduit un véhicule de patrouille « fantôme ». Il a même un insigne du Service de police de la Ville de Montréal (SPVM). Il ressemble tant à un policier que les citoyens…",
+          "published": "2026-08-20T23:26:37+00:00"
         },
         {
-          "title": "Blessure aux cordes vocales | Charlotte Cardin annule sa participation à des festivals en France",
-          "link": "https://www.lapresse.ca/arts/musique/2026-08-20/blessure-aux-cordes-vocales/charlotte-cardin-annule-sa-participation-a-des-festivals-en-france.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le syndicat interpelle le ministre Marc Miller | Une grève cet automne à Radio-Canada « est une possibilité bien réelle »",
+          "link": "https://www.lapresse.ca/arts/television/2026-08-20/le-syndicat-interpelle-le-ministre-marc-miller/une-greve-cet-automne-a-radio-canada-est-une-possibilite-bien-reelle.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Charlotte Cardin est dans l’obligation d’annuler sa participation à quatre festivals en France en raison d’une blessure aux cordes vocales.",
-          "published": "2026-08-20T19:38:46+00:00"
+          "summary": "Les négociations de la prochaine convention collective à Radio-Canada se trouvent dans une « impasse », selon le syndicat. Pour éviter un conflit de travail, il se tourne aujourd’hui vers le gouvernement Carney et lui…",
+          "published": "2026-08-20T23:19:22+00:00"
+        },
+        {
+          "title": "«C’est possible», Québec solidaire affiche ses couleurs en vue des élections",
+          "link": "https://www.ledevoir.com/politique/quebec/1003178/c-est-possible-quebec-solidaire-affiche-couleurs-vue-elections",
+          "source": "Le Devoir",
+          "summary": "Ruba Ghazal et Sol Zanetti ont dévoilé l’identité visuelle et le slogan du parti pour la prochaine campagne électorale",
+          "published": "2026-08-20T23:14:29+00:00"
+        },
+        {
+          "title": "Ronaldinho est de retour sur le terrain à 46 ans",
+          "link": "https://www.ledevoir.com/sports/1003169/ronaldinho-est-retour-terrain-46-ans",
+          "source": "Le Devoir",
+          "summary": "La vedette brésilienne tentera de marquer son dernier but.",
+          "published": "2026-08-20T22:39:46+00:00"
+        },
+        {
+          "title": "Les concerts annoncés de Kanye West en Russie font des vagues",
+          "link": "https://www.ledevoir.com/culture/musique/1003166/concerts-annonces-kanye-west-russie-font-vagues",
+          "source": "Le Devoir",
+          "summary": "En raison de ses propos antisémites, plusieurs de ses représentations ont été interdites dans les salles européennes.",
+          "published": "2026-08-20T22:17:18+00:00"
+        },
+        {
+          "title": "Melania Trump de retour après un mois à l’écart du public",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-20/melania-trump-de-retour-apres-un-mois-a-l-ecart-du-public.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Melania Trump a plaisanté jeudi après un mois passé à l’écart du public et des médias américains, au moment où les rumeurs d’une soi-disant liaison entretenue par son mari et l’une de ses assistantes prennent de…",
+          "published": "2026-08-20T21:51:47+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
+          "title": "Le Var, les Alpes-Maritimes et la Corse en vigilance orange aux orages vendredi matin",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "\"Des orages pouvant être intenses (...) vont traverser la Corse d'Ouest en Est et des orages très pluvieux sont à attendre sur la Côte d'Azur.\", rapporte Météo-France.",
+          "published": "2026-08-20T22:21:50+00:00"
+        },
+        {
+          "title": "Un séisme de magnitude 6,7 a frappé le sud du Pérou",
+          "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-6-7-a-frappe-le-sud-du-perou_8155532.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les autorités locales n'ont pas fait état de victimes ni de dégâts matériels dans un premier temps.",
+          "published": "2026-08-20T22:03:52+00:00"
+        },
+        {
+          "title": "Pakistan : détenu depuis trois ans, l’ancien premier ministre Imran Khan transféré à l’hôpital",
+          "link": "https://www.lefigaro.fr/international/pakistan-detenu-depuis-trois-ans-l-ancien-premier-ministre-imran-khan-transfere-a-l-hopital-20260820",
+          "source": "Le Figaro",
+          "summary": "Imran Khan a été à la tête du gouvernement de 2018 à 2022 avant d’être évincé par un vote de défiance au cours d’une crise politique liée à des tensions avec la puissante hiérarchie militaire pakistanaise.",
+          "published": "2026-08-20T21:59:10+00:00"
+        },
+        {
+          "title": "Basket : Jokic dans un fauteuil, le duo Wembanyama/Gobert en échec… Les tops et flops après Serbie-France",
+          "link": "https://www.lefigaro.fr/sports/basket/basket-jokic-dans-un-fauteuil-le-duo-wembanyama-gobert-en-echec-les-tops-et-flops-apres-france-serbie-20260820",
+          "source": "Le Figaro",
+          "summary": "Les bons… et les mauvais points après la défaite française à Belgrade jeudi, en amical, contre la Serbie du «Joker».",
+          "published": "2026-08-20T21:58:13+00:00"
+        },
+        {
+          "title": "Le navire de Charles Ier, chargé de richesses d’une valeur de «centaines de millions» d’euros, aurait été retrouvé au large de l’Écosse",
+          "link": "https://www.lefigaro.fr/international/le-navire-de-charles-ier-charge-des-richesses-d-une-valeur-de-centaines-de-millions-d-euros-aurait-ete-retrouve-au-large-de-l-ecosse-20260820",
+          "source": "Le Figaro",
+          "summary": "Le Blessing of Burntisland, qui a sombré en 1633 avec sa cargaison royale, aurait été localisé par une équipe de chercheurs. Des analyses supplémentaires doivent encore être menées afin de confirmer son identification.",
+          "published": "2026-08-20T21:57:42+00:00"
+        },
+        {
+          "title": "Syrie : l’administration kurde désormais intégrée dans celle de l’Etat",
+          "link": "https://www.lemonde.fr/international/article/2026/08/20/syrie-l-administration-kurde-desormais-integree-dans-celle-de-l-etat_6751362_3210.html",
+          "source": "Le Monde",
+          "summary": "Les Kurdes et le régime de Damas avaient conclu en janvier un accord en vertu duquel leurs forces et leurs administrations devaient être progressivement intégrées au sein de l’Etat syrien. « Notre lutte se poursuivra…",
+          "published": "2026-08-20T21:48:40+00:00"
+        },
+        {
+          "title": "Emmanuel Macron recevra le prince héritier saoudien Mohammed ben Salmane dimanche et lundi",
+          "link": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi_8155523.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les \"enjeux régionaux\" sur fond de guerre au Moyen-Orient seront notamment évoqués, a annoncé l'Elysée jeudi.",
+          "published": "2026-08-20T21:47:00+00:00"
+        },
+        {
+          "title": "Les Etats-Unis menace les pays qui ne rejoindraient pas sa guerre économique contre l'Iran, censée faire \"chuter le régime\"",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-pressent-leurs-allies-de-soutenir-des-sanctions-economiques-contre-l-iran-censee-faire-chuter-le-regime_8155298.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le ministère iranien des Affaires étrangères a estimé jeudi que cette \"guerre économique\" constitue un cas de \"terrorisme économique\" et de \"crimes contre l'humanité\".",
+          "published": "2026-08-20T21:34:24+00:00"
+        },
+        {
+          "title": "Le président serbe donne raison aux manifestants antigouvernementaux en évoquant la tenue de législatives anticipées en octobre",
+          "link": "https://www.franceinfo.fr/monde/europe/le-president-serbe-donne-raison-aux-manifestants-antigouvernementaux-en-evoquant-la-tenue-de-legislatives-anticipees-en-octobre_8155487.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La Serbie est agitée depuis novembre 2024 par un vaste mouvement de protestation né d'effondrement mortel dans une gare, vu par les manifestants comme le résultat de la corruption qui gangrène le pays.",
+          "published": "2026-08-20T21:29:56+00:00"
+        },
+        {
           "title": "Une université belge suspend le chercheur ayant accusé de plagiat un ex-professeur de Cambridge retrouvé mort",
           "link": "https://www.franceinfo.fr/monde/royaume-uni/une-universite-belge-suspend-le-chercheur-ayant-accuse-de-plagiat-un-ex-professeur-de-cambridge-retrouve-mort_8155508.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Jason Arday, le plus jeune professeur noir de l'Université de Cambridge avant sa démission, a été retrouvé mort après des accusations de plagiat.",
           "published": "2026-08-20T21:18:47+00:00"
-        },
-        {
-          "title": "Basket : si près si loin, Wembanyama et les Bleus trop courts face à la Serbie d’un (très) grand Jokic",
-          "link": "https://www.lefigaro.fr/sports/basket/basket-si-pres-si-loin-wembanyama-et-les-bleus-trop-courts-face-a-la-serbie-d-un-tres-grand-jokic-20260820",
-          "source": "Le Figaro",
-          "summary": "L’équipe de France s’est inclinée face à la Serbie à Belgrade ce jeudi, en match amical, trois jours avant de retrouver Nikola Jokic et compagnie à Orléans, dimanche.",
-          "published": "2026-08-20T21:01:46+00:00"
-        },
-        {
-          "title": "Quatre jeunes âgés de 17 à 25 ans mis en examen après la mort d'une personne sans domicile fixe dans l'Orne",
-          "link": "https://www.franceinfo.fr/faits-divers/quatre-jeunes-ages-de-17-a-25-ans-mis-en-examen-apres-la-mort-d-une-personne-sans-domicile-fixe-dans-l-orne_8155496.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'un d'eux a été mis en examen pour meurtre, les trois autres pour \"non-assistance à personne en danger et/ou non-dénonciation de crime\", a annoncé le procureur de Caen.",
-          "published": "2026-08-20T20:55:49+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : deux personnes tuées dans de nouvelles frappes russes sur Kiev, après celles de la nuit qui ont fait au moins 15 morts",
-          "link": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-deux-personnes-tuees-dans-de-nouvelles-frappes-russes-sur-kiev-apres-celles-de-la-nuit-qui-ont-fait-au-moins-15-morts_6746952_3210.html",
-          "source": "Le Monde",
-          "summary": "Une nouvelle attaque russe dans la capitale ukrainienne a fait deux morts et trois blessés jeudi soir, a annoncé le maire de Kiev, Vitali Klitschko. En Crimée annexée, les autorités locales installées par la Russie ont…",
-          "published": "2026-08-20T20:40:29+00:00"
-        },
-        {
-          "title": "Cyclisme : Julian Alaphilippe met un terme à sa carrière à 34 ans",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/cyclisme-julian-alaphilippe-met-un-terme-a-sa-carriere-a-34-ans-20260820",
-          "source": "Le Figaro",
-          "summary": "Quelques semaines après le Tour de France 2026, le double champion du monde français a décidé de raccrocher le vélo.",
-          "published": "2026-08-20T20:36:00+00:00"
-        },
-        {
-          "title": "États-Unis : une femme arrêtée pour un présumé projet d'attentat à la bombe dans l'État de New York",
-          "link": "https://www.lefigaro.fr/flash-actu/etats-unis-une-femme-arretee-pour-un-presume-projet-d-attentat-a-la-bombe-dans-l-etat-de-new-york-20260820",
-          "source": "Le Figaro",
-          "summary": "Jessica Bowie aurait repéré les lieux à plusieurs reprises et confié ses intentions à un informateur du FBI. Elle est poursuivie pour tentative de soutien à une organisation terroriste.",
-          "published": "2026-08-20T20:28:59+00:00"
-        },
-        {
-          "title": "Les houthis du Yémen affirment avoir visé un aéroport saoudien et une installation pétrolière",
-          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-houthis-du-yemen-affirment-avoir-vise-un-aeroport-saoudien-et-une-installation-petroliere_8155466.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Jeudi matin, les Gardiens de la Révolution iraniens avaient mis en garde l'Arabie saoudite, considérant que Ryad n'était \"certainement pas en mesure de contenir le Yémen et (les houthis), ni de se prémunir contre leurs…",
-          "published": "2026-08-20T20:10:01+00:00"
-        },
-        {
-          "title": "Le maire d'Arcachon, Yves Foulon, condamné à 10 000 euros d'amende dont 5 000 avec sursis pour avoir insulté et menacé un rival EELV",
-          "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/le-maire-d-arcachon-yves-foulon-condamne-a-10-000-euros-d-amende-dont-5-000-avec-sursis-pour-avoir-insulte-et-menace-son-rival-eelv_8155424.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Un \"pétage de plombs\" sanctionné par la justice : ce sont les mots du maire d’Arcachon, Yves Foulon. Il vient d'être condamné à une amende de 5 000 euros pour avoir insulté et menacé son rival écologiste. L'altercation,…",
-          "published": "2026-08-20T19:59:56+00:00"
-        },
-        {
-          "title": "\"Pour répondre à la demande, il faudrait qu'on double la production\" : explosion de la consommation de poulet, les éleveurs français démunis face à la demande",
-          "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/pour-repondre-a-la-demande-il-faudrait-qu-on-double-la-production-explosion-de-la-consommation-de-poulet-les-eleveurs-francais-demunis-face-a-la-demande_8155418.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les Français n'ont jamais autant mangé de poulet, avec près de 6% d'augmentation sur un an. Mais les éleveurs français ne parviennent pas à suivre. Résultat : plus d’un poulet sur deux est désormais importé, notamment…",
-          "published": "2026-08-20T19:58:03+00:00"
-        },
-        {
-          "title": "Strasbourg : des hélicoptères de secours perturbés par des drones clandestins qui volent au-dessus de la prison",
-          "link": "https://www.franceinfo.fr/france/grand-est/bas-rhin/strasbourg/strasbourg-des-helicopteres-de-secours-perturbes-par-des-drones-clandestins-qui-volent-au-dessus-de-la-prison_8155421.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Depuis plusieurs semaines, les hélicoptères du Samu ne peuvent plus se poser la nuit à l'hôpital de Strasbourg. En cause : des survols répétés de drones au-dessus de la prison voisine, pour faire des livraisons…",
-          "published": "2026-08-20T19:54:16+00:00"
         }
       ]
     },
