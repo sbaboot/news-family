@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-21T01:11:53.454376+00:00",
+  "generated_at": "2026-08-21T03:49:05.805021+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Hongkong : deux militants reconnus coupables d’« incitation à la subversion » après des veillées commémorant la répression de Tiananmen",
+          "link": "https://www.lemonde.fr/international/article/2026/08/21/hongkong-deux-militants-reconnus-coupables-d-incitation-a-la-subversion-apres-des-veillees-commemorant-la-repression-de-tiananmen_6751535_3210.html",
+          "source": "Le Monde",
+          "summary": "Les activistes prodémocratie Lee Cheuk-yan et Chow Hang-tung organisaient des veillées annuelles. Les prévenus encourent une peine maximale de dix ans de prison.",
+          "published": "2026-08-21T03:35:02+00:00"
+        },
+        {
+          "title": "Au Liban sud, une « course entre la préservation de la mémoire et les destructions » menées par Israël",
+          "link": "https://www.lemonde.fr/international/article/2026/08/21/au-liban-sud-une-course-entre-la-preservation-de-la-memoire-et-les-destructions-menees-par-israel_6751530_3210.html",
+          "source": "Le Monde",
+          "summary": "Des Libanais, à titre personnel ou au sein d’associations, cherchent à collecter images et témoignages afin de conserver la mémoire de la région, en partie occupée par les Israéliens, et d’en faire connaître la richesse…",
+          "published": "2026-08-21T03:30:05+00:00"
+        },
+        {
+          "title": "En direct : négociations au point mort, le trafic dans le détroit d'Ormuz en baisse",
+          "link": "https://www.france24.com/fr/moyen-orient/20260821-en-direct-n%C3%A9gociations-au-point-mort-le-trafic-dans-le-d%C3%A9troid-d-ormuz-en-baisse",
+          "source": "France 24",
+          "summary": "Le nombre de passages de navires dans le détroit d'Ormuz a diminué jeudi par rapport à la veille, alors que les inquiétudes grandissent quant aux risques pesant sur le transport maritime au Moyen-Orient, les…",
+          "published": "2026-08-21T03:26:26+00:00"
+        },
+        {
+          "title": "Scott Bessent, le secrétaire américain au Trésor, se croit capable de défier la toute-puissance des marchés obligataires",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
+          "source": "Le Monde",
+          "summary": "En annonçant, mercredi 19 août, que le Trésor américain allait doubler ses rachats de dette américaine à long terme, Scott Bessent cherche à faire baisser les taux longs qui financent l’économie des Etats-Unis.",
+          "published": "2026-08-21T03:00:13+00:00"
+        },
+        {
+          "title": "Entre l’Iran et les Emirats arabes unis, la fragile désescalade vole en éclats",
+          "link": "https://www.lemonde.fr/international/article/2026/08/21/entre-l-iran-et-les-emirats-arabes-unis-la-fragile-desescalade-vole-en-eclats_6751494_3210.html",
+          "source": "Le Monde",
+          "summary": "Les Emirats ont suspendu leurs échanges commerciaux et financiers avec l’Iran, après l’avoir accusé d’avoir tiré deux missiles vers leur territoire. Cette crispation intervient sur fond de tensions autour du détroit…",
+          "published": "2026-08-21T03:00:07+00:00"
+        },
+        {
+          "title": "Trafic réduit dans le canal de Panama en raison d’une baisse des précipitations causée par El Niño",
+          "link": "https://www.lemonde.fr/international/article/2026/08/21/trafic-reduit-dans-le-canal-de-panama-en-raison-d-une-baisse-des-precipitations-causee-par-el-nino_6751461_3210.html",
+          "source": "Le Monde",
+          "summary": "La voie maritime dépend des réserves d’eau douce stockées dans les lacs artificiels de Gatun et d’Alajuela pour alimenter ses écluses. Le déficit de précipitations enregistré depuis plusieurs mois entraîne une baisse de…",
+          "published": "2026-08-21T02:48:12+00:00"
+        },
+        {
+          "title": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Iran",
+          "link": "https://www.france24.com/fr/moyen-orient/20260821-les-%C3%A9tats-unis-somment-leurs-alli%C3%A9s-et-la-chine-de-couper-leurs-liens-avec-l-iran",
+          "source": "France 24",
+          "summary": "Après près de six mois de guerre et faute de percée diplomatique, l'administration Trump veut mobiliser ses alliés et la Chine dans une campagne de pression économique maximale contre Téhéran, quitte à menacer de…",
+          "published": "2026-08-21T01:53:55+00:00"
+        },
         {
           "title": "El Niño : le canal de Panama va réduire le nombre de traversées",
           "link": "https://www.france24.com/fr/am%C3%A9riques/20260820-el-ni%C3%B1o-le-canal-de-panama-va-r%C3%A9duire-le-nombre-de-travers%C3%A9es",
@@ -24,55 +73,6 @@
           "source": "France 24",
           "summary": "Une Américaine de 35 ans, accusée d’avoir planifié un attentat à la bombe contre le siège du Parlement de l'État de New York et ses élus pour le compte du groupe État islamique, a été arrêtée et inculpée jeudi.",
           "published": "2026-08-20T21:31:18+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : deux personnes tuées dans de nouvelles frappes russes sur Kiev, après celles de la nuit qui ont fait au moins 15 morts",
-          "link": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-deux-personnes-tuees-dans-de-nouvelles-frappes-russes-sur-kiev-apres-celles-de-la-nuit-qui-ont-fait-au-moins-15-morts_6746952_3210.html",
-          "source": "Le Monde",
-          "summary": "Une nouvelle attaque russe dans la capitale ukrainienne a fait deux morts et trois blessés jeudi soir, a annoncé le maire de Kiev, Vitali Klitschko. En Crimée annexée, les autorités locales installées par la Russie ont…",
-          "published": "2026-08-20T20:40:29+00:00"
-        },
-        {
-          "title": "Les recherches se poursuivent pour retrouver les victimes de l'éboulement en Centrafrique",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260820-les-recherches-se-poursuivent-pour-retrouver-les-victimes-de-l-%C3%A9boulement-en-centrafrique",
-          "source": "France 24",
-          "summary": "Deux jours après l’effondrement meurtrier de cette mine d’or, les recherches se poursuivent pour retrouver les victimes. Selon le gouvernement centrafricain, au moins 49 personnes ont perdu la vie.",
-          "published": "2026-08-20T20:20:33+00:00"
-        },
-        {
-          "title": "Hind Rajab : la famille de la fillette, tuée à Gaza en 2024, dit ne pas faire confiance à la justice israélienne, après que l’armée a reconnu avoir ouvert le feu",
-          "link": "https://www.lemonde.fr/international/article/2026/08/20/hind-rajab-la-famille-de-la-fillette-tuee-a-gaza-en-2024-dit-ne-pas-faire-confiance-a-la-justice-israelienne-apres-que-l-armee-a-reconnu-avoir-ouvert-le-feu_6751329_3210.html",
-          "source": "Le Monde",
-          "summary": "« Nous réclamons que justice soit faite non seulement pour Hind, mais aussi pour les enfants de Gaza, dont les droits sont bafoués, qui sont privés de leur droit à la vie », a plaidé la grand-mère de la fillette.",
-          "published": "2026-08-20T20:06:38+00:00"
-        },
-        {
-          "title": "La dette des Etats-Unis dépasse le seuil des 40 000 milliards $",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260820-la-dette-des-etats-unis-d%C3%A9passe-le-seuil-des-40-000-milliards",
-          "source": "France 24",
-          "summary": "La dette américaine progresse à une vitesse fulgurante, avec même deux ans d'avance sur les prévisions du bureau du Congrès. L'une des raisons, c'est le poids des taux d'intérêts qui augmentent, reflet des craintes des…",
-          "published": "2026-08-20T19:00:34+00:00"
-        },
-        {
-          "title": "Cisjordanie occupée : quatre pays européens exhortent Israël à stopper les colonies",
-          "link": "https://www.france24.com/fr/moyen-orient/20260820-cisjordanie-occup%C3%A9e-quatre-pays-europ%C3%A9ens-exhortent-isra%C3%ABl-%C3%A0-stopper-les-colonies",
-          "source": "France 24",
-          "summary": "La France, l'Italie, le Royaume-Uni et l'Allemagne ont appelé, jeudi, Israël à \"mettre fin à l'expansion des colonies en Cisjordanie\" occupée. Ils ont aussi exhorté l'État hébreu de \"retirer immédiatement\" les appels…",
-          "published": "2026-08-20T18:59:00+00:00"
-        },
-        {
-          "title": "La Nouvelle-Zélande légifère pour protéger les entreprises des procès climatiques",
-          "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260820-la-nouvelle-z%C3%A9lande-l%C3%A9gif%C3%A8re-pour-prot%C3%A9ger-les-entreprises-des-proc%C3%A8s-climatiques",
-          "source": "France 24",
-          "summary": "Le gouvernement néo-zélandais a fait adopter une loi pour interdire les poursuites en justice contre les entreprises en raison de leur impact climatique. Une plainte avait été justement déposée par un représentant maori…",
-          "published": "2026-08-20T18:22:41+00:00"
-        },
-        {
-          "title": "Cisjordanie occupée : Londres, Paris, Rome et Berlin appellent Israël à « mettre fin à l’expansion des colonies »",
-          "link": "https://www.lemonde.fr/international/article/2026/08/20/cisjordanie-occupee-londres-paris-rome-et-berlin-appellent-israel-a-mettre-fin-a-l-expansion-des-colonies_6751197_3210.html",
-          "source": "Le Monde",
-          "summary": "Dans leur déclaration conjointe, les quatre pays européens dénoncent le développement du projet East 1, pour lequel Israël souhaite construire 3 400 logements en territoire palestinien.",
-          "published": "2026-08-20T17:32:40+00:00"
         }
       ]
     },
@@ -83,6 +83,34 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Rouge et Noir 16 – Alouettes 46 | Les Alouettes déclassent le Rouge et Noir",
+          "link": "https://www.lapresse.ca/sports/football/2026-08-20/rouge-et-noir-16-alouettes-46/les-alouettes-declassent-le-rouge-et-noir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les Alouettes de Montréal ont profité de trois revirements en début de rencontre pour inscrire autant de touchés, avant d’en ajouter trois autres en deuxième demie et déclasser le Rouge et Noir d’Ottawa 46-16.",
+          "published": "2026-08-21T02:47:49+00:00"
+        },
+        {
+          "title": "Côte-Nord | Des dizaines de Hells Angels aperçus, la police augmente sa présence",
+          "link": "https://www.lapresse.ca/actualites/regional/2026-08-20/cote-nord/des-dizaines-de-hells-angels-apercus-la-police-augmente-sa-presence.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des dizaines de Hells Angels ont roulé sur la Côte-Nord jeudi, alors que la région vit une « hausse récente de la violence armée ». Devant cette opération de visibilité des motards, les policiers augmentent leur…",
+          "published": "2026-08-21T02:41:25+00:00"
+        },
+        {
+          "title": "Identité et postulats au second concert de l’OSM en Écosse",
+          "link": "https://www.ledevoir.com/culture/musique/1003190/identite-postulats-second-concert-osm-ecosse",
+          "source": "Le Devoir",
+          "summary": "Le 2e concert de l’OSM en tournée, une carte blanche, apparaît comme un miroir opposé au 1er.",
+          "published": "2026-08-21T01:50:00+00:00"
+        },
+        {
+          "title": "J.D. Vance donne son avis sur l’accord commercial conclu avec le Canada",
+          "link": "https://www.ledevoir.com/economie/1003187/j-vance-donne-avis-accord-commercial-conclu-canada",
+          "source": "Le Devoir",
+          "summary": "Il juge que le député conservateur Jamil Jivani, son ami de longue date, a joué un rôle clé dans les négociations.",
+          "published": "2026-08-21T01:04:00+00:00"
+        },
         {
           "title": "L’apprentissage de l’art selon Maripier Morin",
           "link": "https://www.lapresse.ca/arts/chroniques/2026-08-20/l-apprentissage-de-l-art-selon-maripier-morin.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
@@ -119,45 +147,45 @@
           "published": "2026-08-20T23:26:37+00:00"
         },
         {
-          "title": "Le syndicat interpelle le ministre Marc Miller | Une grève cet automne à Radio-Canada « est une possibilité bien réelle »",
-          "link": "https://www.lapresse.ca/arts/television/2026-08-20/le-syndicat-interpelle-le-ministre-marc-miller/une-greve-cet-automne-a-radio-canada-est-une-possibilite-bien-reelle.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les négociations de la prochaine convention collective à Radio-Canada se trouvent dans une « impasse », selon le syndicat. Pour éviter un conflit de travail, il se tourne aujourd’hui vers le gouvernement Carney et lui…",
-          "published": "2026-08-20T23:19:22+00:00"
-        },
-        {
           "title": "«C’est possible», Québec solidaire affiche ses couleurs en vue des élections",
           "link": "https://www.ledevoir.com/politique/quebec/1003178/c-est-possible-quebec-solidaire-affiche-couleurs-vue-elections",
           "source": "Le Devoir",
-          "summary": "Ruba Ghazal et Sol Zanetti ont dévoilé l’identité visuelle et le slogan du parti pour la prochaine campagne électorale",
-          "published": "2026-08-20T23:14:29+00:00"
-        },
-        {
-          "title": "Ronaldinho est de retour sur le terrain à 46 ans",
-          "link": "https://www.ledevoir.com/sports/1003169/ronaldinho-est-retour-terrain-46-ans",
-          "source": "Le Devoir",
-          "summary": "La vedette brésilienne tentera de marquer son dernier but.",
-          "published": "2026-08-20T22:39:46+00:00"
-        },
-        {
-          "title": "Les concerts annoncés de Kanye West en Russie font des vagues",
-          "link": "https://www.ledevoir.com/culture/musique/1003166/concerts-annonces-kanye-west-russie-font-vagues",
-          "source": "Le Devoir",
-          "summary": "En raison de ses propos antisémites, plusieurs de ses représentations ont été interdites dans les salles européennes.",
-          "published": "2026-08-20T22:17:18+00:00"
-        },
-        {
-          "title": "Melania Trump de retour après un mois à l’écart du public",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-20/melania-trump-de-retour-apres-un-mois-a-l-ecart-du-public.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Melania Trump a plaisanté jeudi après un mois passé à l’écart du public et des médias américains, au moment où les rumeurs d’une soi-disant liaison entretenue par son mari et l’une de ses assistantes prennent de…",
-          "published": "2026-08-20T21:51:47+00:00"
+          "summary": "Ruba Ghazal et Sol Zanetti ont dévoilé l’identité visuelle et le slogan du parti pour la prochaine campagne électorale.",
+          "published": "2026-08-20T23:14:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "Malgré un été de tous les records, le refus d’obstacle de la classe politique face à l’urgence climatique",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
+          "source": "Le Monde",
+          "summary": "Alors que la France subit une série d’événements extrêmes, ni l’exécutif ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi posé par les canicules, la sécheresse ou les incendies…",
+          "published": "2026-08-21T03:30:31+00:00"
+        },
+        {
+          "title": "Politique étrangère des Etats-Unis : «Les décisions de Trump n’augurent rien de bon pour l’Asie»",
+          "link": "https://www.liberation.fr/international/asie-pacifique/politique-etrangere-des-etats-unis-les-decisions-de-trump-naugurent-rien-de-bon-pour-lasie-20260821_E7AZNRNNZBEXXE5IC7KL6QLLLM/",
+          "source": "Liberation",
+          "summary": "Professeur à l’université Temple au Japon, Benoit Hardy-Chartrand décrypte la volonté ­de la Maison Blanche de réduire les exercices militaires en Corée du Sud et son désintérêt pour la région comme pour ses alliés…",
+          "published": "2026-08-21T03:27:00+00:00"
+        },
+        {
+          "title": "Trafic réduit dans le canal de Panama en raison d’une baisse des précipitations causée par El Niño",
+          "link": "https://www.lemonde.fr/international/article/2026/08/21/trafic-reduit-dans-le-canal-de-panama-en-raison-d-une-baisse-des-precipitations-causee-par-el-nino_6751461_3210.html",
+          "source": "Le Monde",
+          "summary": "La voie maritime dépend des réserves d’eau douce stockées dans les lacs artificiels de Gatun et d’Alajuela pour alimenter ses écluses. Le déficit de précipitations enregistré depuis plusieurs mois entraîne une baisse de…",
+          "published": "2026-08-21T02:48:12+00:00"
+        },
+        {
+          "title": "Basket : Victor Wembanyama se remet doucement à flot, mais les Bleus coulent de peu en Serbie",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/21/basket-victor-wembanyama-se-remet-doucement-a-flot-mais-les-bleus-coulent-de-peu-en-serbie_6751395_3242.html",
+          "source": "Le Monde",
+          "summary": "Face à une équipe serbe emmenée par Nikola Jokic, auteur de 20 points, les Bleus ont cédé (90-87) au terme d’une rencontre disputée. Ils retrouveront leur adversaire dimanche, à Orléans, pour un second acte.",
+          "published": "2026-08-21T01:03:27+00:00"
+        },
         {
           "title": "Le Var, les Alpes-Maritimes et la Corse en vigilance orange aux orages vendredi matin",
           "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/l-ardeche-la-drome-et-l-isere-places-en-vigilance-orange-aux-orages-jeudi-apres-midi-la-corse-en-alerte-vendredi-matin_8154413.html#xtor=RSS-3-[lestitres]",
@@ -199,34 +227,6 @@
           "source": "Le Monde",
           "summary": "Les Kurdes et le régime de Damas avaient conclu en janvier un accord en vertu duquel leurs forces et leurs administrations devaient être progressivement intégrées au sein de l’Etat syrien. « Notre lutte se poursuivra…",
           "published": "2026-08-20T21:48:40+00:00"
-        },
-        {
-          "title": "Emmanuel Macron recevra le prince héritier saoudien Mohammed ben Salmane dimanche et lundi",
-          "link": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi_8155523.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les \"enjeux régionaux\" sur fond de guerre au Moyen-Orient seront notamment évoqués, a annoncé l'Elysée jeudi.",
-          "published": "2026-08-20T21:47:00+00:00"
-        },
-        {
-          "title": "Les Etats-Unis menace les pays qui ne rejoindraient pas sa guerre économique contre l'Iran, censée faire \"chuter le régime\"",
-          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-pressent-leurs-allies-de-soutenir-des-sanctions-economiques-contre-l-iran-censee-faire-chuter-le-regime_8155298.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le ministère iranien des Affaires étrangères a estimé jeudi que cette \"guerre économique\" constitue un cas de \"terrorisme économique\" et de \"crimes contre l'humanité\".",
-          "published": "2026-08-20T21:34:24+00:00"
-        },
-        {
-          "title": "Le président serbe donne raison aux manifestants antigouvernementaux en évoquant la tenue de législatives anticipées en octobre",
-          "link": "https://www.franceinfo.fr/monde/europe/le-president-serbe-donne-raison-aux-manifestants-antigouvernementaux-en-evoquant-la-tenue-de-legislatives-anticipees-en-octobre_8155487.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La Serbie est agitée depuis novembre 2024 par un vaste mouvement de protestation né d'effondrement mortel dans une gare, vu par les manifestants comme le résultat de la corruption qui gangrène le pays.",
-          "published": "2026-08-20T21:29:56+00:00"
-        },
-        {
-          "title": "Une université belge suspend le chercheur ayant accusé de plagiat un ex-professeur de Cambridge retrouvé mort",
-          "link": "https://www.franceinfo.fr/monde/royaume-uni/une-universite-belge-suspend-le-chercheur-ayant-accuse-de-plagiat-un-ex-professeur-de-cambridge-retrouve-mort_8155508.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Jason Arday, le plus jeune professeur noir de l'Université de Cambridge avant sa démission, a été retrouvé mort après des accusations de plagiat.",
-          "published": "2026-08-20T21:18:47+00:00"
         }
       ]
     },
