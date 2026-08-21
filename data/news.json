@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-21T06:42:48.018486+00:00",
+  "generated_at": "2026-08-21T09:34:27.688126+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Aux États-Unis, «les étrangers sont un peu l'oxygène de la recherche», selon Nourredine Melikechi",
+          "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260821-aux-%C3%A9tats-unis-les-%C3%A9trangers-sont-un-peu-l-oxyg%C3%A8ne-de-la-recherche-selon-nourredine-melikechi",
+          "source": "RFI",
+          "summary": "Nourredine Melikechi est une sommité du monde scientifique. Le chercheur algérien, qui s'est aussi bien penché sur notre voisine martienne que sur la lutte contre le cancer. Physicien, doyen du Kennedy College des…",
+          "published": "2026-08-21T09:32:07+00:00"
+        },
+        {
+          "title": "Angélique Kidjo à Hollywood, Paul Biya de retour au Cameroun, Ebola en RD Congo : l'hebdo afrique",
+          "link": "https://www.france24.com/fr/afrique/20260821-paul-biya-retour-cameroun-%C3%A9pidemie-ebola-rd-congo-chanteuse-ang%C3%A9lique-kidjo-walk-of-fame-l-hebdo-afrique",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-08-21T09:11:30+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky salue l’attaque contre une raffinerie de Lukoil à Perm, en Russie, à environ 1 500 km de la frontière ukrainienne",
+          "link": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-volodymyr-zelensky-salue-l-attaque-contre-une-raffinerie-de-lukoil-a-perm-en-russie-a-environ-1-500-km-de-la-frontiere-ukrainienne_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "La raffinerie Lukoil-Permnefteorgsintez a déjà été à plusieurs reprises la cible de drones ukrainiens ces dernières semaines. Selon le service de sécurité d’Ukraine, elle est l’une des plus importantes de Russie, avec…",
+          "published": "2026-08-21T09:05:18+00:00"
+        },
+        {
+          "title": "La spationaute Sophie Adenot va effectuer une nouvelle sortie dans l’espace mardi",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260821-spationaute-sophie-adenot-va-effectuer-nouvelle-sortie-dans-espace-mardi",
+          "source": "France 24",
+          "summary": "La Française Sophie Adenot va de nouveau sortir mardi de la Station spatiale internationale (ISS) en compagnie de l’Américain Anil Menon, annonce la Nasa. Elle va poursuivre le remplacement d'une antenne défectueuse,…",
+          "published": "2026-08-21T09:02:09+00:00"
+        },
+        {
+          "title": "Les Européens haussent le ton contre la colonisation en Cisjordanie et dénoncent « des niveaux sans précédent de violences » commises par des colons israéliens",
+          "link": "https://www.lemonde.fr/international/article/2026/08/21/les-europeens-haussent-le-ton-contre-la-colonisation-en-cisjordanie-et-denoncent-des-niveaux-sans-precedent-de-violences-commises-par-des-colons-israeliens_6751845_3210.html",
+          "source": "Le Monde",
+          "summary": "La France, l’Allemagne, le Royaume-Uni, l’Italie, la Norvège et les Pays-Bas jugent « inacceptable », dans un communiqué commun, la décision israélienne de publier des appels d’offres pour des constructions dans la zone…",
+          "published": "2026-08-21T09:00:04+00:00"
+        },
+        {
+          "title": "Le sud du Pérou touché par un séisme de magnitude 6,7",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260821-sud-p%C3%A9rou-touch%C3%A9-s%C3%A9isme-magnitude-6-7",
+          "source": "France 24",
+          "summary": "Un séisme de magnitude 6,7 – selon l'Institut d'études géologiques des États-Unis – a frappé jeudi le sud du Pérou. Les données préliminaires font état de trois personnes légèrement blessées, ainsi que de 22 bâtiments…",
+          "published": "2026-08-21T08:24:32+00:00"
+        },
+        {
+          "title": "Le Japon proteste contre des essais de missiles russes près des îles Kouriles, disputées",
+          "link": "https://www.lemonde.fr/international/article/2026/08/21/le-japon-proteste-contre-des-essais-de-missiles-russes-pres-des-iles-kouriles-disputees_6751777_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président russe s’est rendu pour la première fois, le 13 août, sur quatre de ces îles, dont s’est emparée l’armée soviétique en 1945, provoquant la colère du Japon.",
+          "published": "2026-08-21T08:03:32+00:00"
+        },
+        {
+          "title": "En Colombie, le séisme complique les premiers pas d’Abelardo de la Espriella, le nouveau président d’extrême droite",
+          "link": "https://www.lemonde.fr/international/article/2026/08/21/en-colombie-le-seisme-a-complique-les-premiers-pas-du-nouveau-president-d-extreme-droite_6751744_3210.html",
+          "source": "Le Monde",
+          "summary": "Aussitôt après son investiture, le nouveau chef d’Etat colombien a dû faire face aux conséquences du tremblement de terre qui a frappé le pays le 10 août. Il s’est aligné sur l’administration Trump en reconnaissant la…",
+          "published": "2026-08-21T07:00:08+00:00"
+        },
+        {
+          "title": "« Pourquoi le premier ministre britannique, Andy Burnham, doit aussi intéresser l’Europe »",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/21/pourquoi-le-premier-ministre-britannique-andy-burnham-doit-aussi-interesser-l-europe_6751743_3232.html",
+          "source": "Le Monde",
+          "summary": "Dans une offensive de reconquête de sa base populaire, le nouveau chef de gouvernement travailliste se concentre sur la politique intérieure. Mais ses ambitions de relance industrielle pourraient favoriser un…",
+          "published": "2026-08-21T06:50:27+00:00"
+        },
+        {
           "title": "Au Pakistan, Imran Khan, ancien premier ministre, a été reconduit en prison après son transfert à l’hôpital",
           "link": "https://www.lemonde.fr/international/article/2026/08/21/au-pakistan-imran-khan-ancien-premier-ministre-a-ete-reconduit-en-prison-apres-son-transfert-a-l-hopital_6751709_3210.html",
           "source": "Le Monde",
           "summary": "A la fin de 2025, M. Khan et son épouse, Bushra Bibi, ont été condamnés à dix-sept ans de prison pour des faits de corruption qu’ils contestent tous les deux, estimant que les poursuites sont motivées par des…",
-          "published": "2026-08-21T06:20:14+00:00"
-        },
-        {
-          "title": "Ligue Conférence : Monaco prend une option en Pologne",
-          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260821-ligue-conf%C3%A9rence-monaco-prend-option-pologne",
-          "source": "France 24",
-          "summary": "Monaco s’est imposé sur le terrain du Gornik Zabrze (3-2), en barrages aller de la Ligue Conférence. Mika Biereth a ouvert le score pour les Monégasques, avant que Lamine Camara ne double la mise après la pause. Paris…",
-          "published": "2026-08-21T05:13:34+00:00"
-        },
-        {
-          "title": "Désormais incontournable, le RN entre présidentialisation et refus de l’État de droit (3/3)",
-          "link": "https://www.france24.com/fr/france/20260821-france-rassemblement-national-entre-presidentialisation-refus-etat-de-droit-incontournable",
-          "source": "France 24",
-          "summary": "De la dédiabolisation à la présidentialisation du RN (3/3). Fort de nombreux députés élus à l’Assemblée nationale, le RN influence de plus en plus la vie politique française. Sa participation à la marche contre…",
-          "published": "2026-08-21T05:10:19+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "link": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html",
-          "source": "Le Monde",
-          "summary": "Deux femmes ont été tuées au cours de la nuit de jeudi à vendredi, dans le village de Lebiaje, dans le district ukrainien de Tchouhouïv, lors d’une attaque de drones, a annoncé le chef de l’administration militaire de…",
-          "published": "2026-08-21T04:46:53+00:00"
-        },
-        {
-          "title": "Dans le delta du Pô, l’invasion du crabe tueur de palourdes : « Sans “vongole”, plus d’économie. Tout le territoire meurt »",
-          "link": "https://www.lemonde.fr/m-le-mag/article/2026/08/21/dans-le-delta-du-po-l-invasion-du-crabe-tueur-de-palourdes-sans-vongole-plus-d-economie-tout-le-territoire-meurt_6751572_4500055.html",
-          "source": "Le Monde",
-          "summary": "Depuis la fin des années 1980, la palourde a fait la fortune de cette région pauvre du sud de la Vénétie. Elle est aujourd’hui décimée par un crabe bleu venu d’Amérique du Nord, dont la prolifération menace toute…",
-          "published": "2026-08-21T04:00:23+00:00"
-        },
-        {
-          "title": "En Israël, avant les élections législatives d’octobre, la sortie de la guerre est absente des esprits comme des programmes",
-          "link": "https://www.lemonde.fr/international/article/2026/08/21/en-israel-la-sortie-de-la-guerre-est-absente-des-esprits-comme-des-programmes-avant-les-elections-legislatives-d-octobre_6751571_3210.html",
-          "source": "Le Monde",
-          "summary": "Les enquêtes d’opinion dressent le portrait d’une société qui perd espoir dans son avenir sans voir d’alternative au recours à la force. Les candidats se gardent d’apparaître moins crédibles sur les enjeux de sécurité…",
-          "published": "2026-08-21T04:00:07+00:00"
-        },
-        {
-          "title": "Hong Kong : deux militants de la mémoire de Tiananmen reconnus coupables d'\"incitation à la subversion\"",
-          "link": "https://www.france24.com/fr/info-en-continu/20260821-hong-kong-deux-militants-de-la-m%C3%A9moire-de-tiananmen-reconnus-coupables-d-incitation-%C3%A0-la-subversion",
-          "source": "France 24",
-          "summary": "Deux militants prodémocratie et organisateurs de veillées en souvenir de Tiananmen ont été déclarés coupables d'\"incitation à la subversion\" vendredi à Hong Kong, à l'issue d'un procès critiqué par les défenseurs des…",
-          "published": "2026-08-21T03:39:11+00:00"
-        },
-        {
-          "title": "Hongkong : deux militants reconnus coupables d’« incitation à la subversion » après des veillées commémorant la répression de Tiananmen",
-          "link": "https://www.lemonde.fr/international/article/2026/08/21/hongkong-deux-militants-reconnus-coupables-d-incitation-a-la-subversion-apres-des-veillees-commemorant-la-repression-de-tiananmen_6751535_3210.html",
-          "source": "Le Monde",
-          "summary": "Les activistes prodémocratie Lee Cheuk-yan, 69 ans, et Chow Hang-tung, 41 ans, dirigeaient l’Alliance de Hongkong, un groupe aujourd’hui dissous qui organisait des veillées annuelles. Ils encourent jusqu’à dix ans de…",
-          "published": "2026-08-21T03:35:02+00:00"
-        },
-        {
-          "title": "Au Liban sud, une « course entre la préservation de la mémoire et les destructions » menées par Israël",
-          "link": "https://www.lemonde.fr/international/article/2026/08/21/au-liban-sud-une-course-entre-la-preservation-de-la-memoire-et-les-destructions-menees-par-israel_6751530_3210.html",
-          "source": "Le Monde",
-          "summary": "Des Libanais, à titre personnel ou au sein d’associations, cherchent à collecter images et témoignages afin de conserver la mémoire de la région, en partie occupée par les Israéliens, et d’en faire connaître la richesse…",
-          "published": "2026-08-21T03:30:05+00:00"
-        },
-        {
-          "title": "Moyen-Orient en direct : le trafic dans le détroit d'Ormuz baisse encore",
-          "link": "https://www.france24.com/fr/moyen-orient/20260821-en-direct-n%C3%A9gociations-au-point-mort-le-trafic-dans-le-d%C3%A9troid-d-ormuz-en-baisse",
-          "source": "France 24",
-          "summary": "Sept navires seulement ​ont traversé le ‌détroit d'Ormuz jeudi, moitié moins que la veille, ‌selon les données deKpler. Les armateurs continuent de craindre ⁠d'emprunter cet axe essentiel pour le commerce mondial,…",
-          "published": "2026-08-21T03:26:26+00:00"
+          "published": "2026-08-21T06:20:12+00:00"
         }
       ]
     },
@@ -83,6 +83,48 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Sondage Synopsis–La Presse | Triste bulletin pour nos écoles",
+          "link": "https://www.lapresse.ca/actualites/education/2026-08-21/sondage-synopsis-la-presse/triste-bulletin-pour-nos-ecoles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Près de la moitié des Québécois attribuent la note C au réseau scolaire. Et trois personnes sur cinq estiment que la qualité de l’enseignement primaire et secondaire se détériore. Dès demain, et jusqu’à lundi, La Presse…",
+          "published": "2026-08-21T09:00:00+00:00"
+        },
+        {
+          "title": "Ville de Montréal | Des réunions à 700 $ pour chaque maire d’arrondissement",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-21/ville-de-montreal/des-reunions-a-700-pour-chaque-maire-d-arrondissement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La grande majorité des maires d’arrondissement de Montréal pourraient bientôt toucher une rétribution de 700 $ par rencontre pour participer à la Table des maires, structure ayant pour but de renforcer leur…",
+          "published": "2026-08-21T09:00:00+00:00"
+        },
+        {
+          "title": "Mégaprocès de gangs de rue | Bagarre chez Simons et moqueries sur Instagram",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-21/megaproces-de-gangs-de-rue/bagarre-chez-simons-et-moqueries-sur-instagram.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Juillet 2023. Justice Tajudeen déambule dans les allées du magasin Simons, au Carrefour Laval. Le magasin est bondé. Il est suivi de près par Romuald Surin et Johnny Odiesse. Une bagarre éclate, blessant Tajudeen à la…",
+          "published": "2026-08-21T09:00:00+00:00"
+        },
+        {
+          "title": "Élections provinciales | Le retour de la droite économique",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-08-21/elections-provinciales/le-retour-de-la-droite-economique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La droite économique revient au cœur des priorités du Parti conservateur du Québec (PCQ). Elle se ressent aussi un peu chez son principal rival dans la Capitale-Nationale, le Parti québécois (PQ), et ce n’est pas une…",
+          "published": "2026-08-21T09:00:00+00:00"
+        },
+        {
+          "title": "SPVM | Des caméras d’intervention d’ici un an, promet Martinez Ferrada",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-21/spvm/des-cameras-d-intervention-d-ici-un-an-promet-martinez-ferrada.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des caméras d’intervention seront installées d’ici un an sur des milliers de policiers montréalais et des centaines de véhicules de patrouille, a appris La Presse. Du même coup, un règlement interdisant d’insulter les…",
+          "published": "2026-08-21T09:00:00+00:00"
+        },
+        {
+          "title": "Virage numérique à Québec | La CAQ misera sur l’IA pour équilibrer le budget",
+          "link": "https://www.lapresse.ca/affaires/techno/2026-08-21/virage-numerique-a-quebec/la-caq-misera-sur-l-ia-pour-equilibrer-le-budget.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Trois ministres à la tête du numérique. Plusieurs projets informatiques trop complexes ou inachevés. Des coûts qui explosent. Malgré tout, le gouvernement de la CAQ défend son bilan technologique des quatre dernières…",
+          "published": "2026-08-21T09:00:00+00:00"
+        },
         {
           "title": "Le pari de la realpolitik",
           "link": "https://www.ledevoir.com/opinion/idees/1003130/pari-realpolitik",
@@ -110,48 +152,6 @@
           "source": "Le Devoir",
           "summary": "Pourriez-vous acheter une maison sans en connaître le prix ou vous engager avec un colocataire sans savoir le loyer ?",
           "published": "2026-08-21T04:00:00+00:00"
-        },
-        {
-          "title": "«La consigne, c’est l’avenir»",
-          "link": "https://www.ledevoir.com/opinion/chroniques/1003061/consigne-c-est-avenir",
-          "source": "Le Devoir",
-          "summary": "Chacun trouve-t-il son compte dans les centres Consignaction? Sourires, ricanement sarcastique: bonne blague, Madame.",
-          "published": "2026-08-21T04:00:00+00:00"
-        },
-        {
-          "title": "Comment les chiens décodent-ils nos émotions?",
-          "link": "https://www.ledevoir.com/actualites/science/1003148/comment-chiens-decodent-ils-emotions",
-          "source": "Le Devoir",
-          "summary": "Ils peuvent différencier les expressions faciales joyeuses de celles affichant des expressions négatives.",
-          "published": "2026-08-21T04:00:00+00:00"
-        },
-        {
-          "title": "Des artistes de l’industrie de la mode se sentent menacés par l’intelligence artificielle",
-          "link": "https://www.ledevoir.com/culture/1003112/artistes-industrie-mode-sentent-menaces-intelligence-artificielle",
-          "source": "Le Devoir",
-          "summary": "L’industrie peine à réconcilier l’intégration de la technologie et la sécurité des emplois dans le milieu.",
-          "published": "2026-08-21T04:00:00+00:00"
-        },
-        {
-          "title": "La démocratie a besoin de conversations, pas seulement d’élections",
-          "link": "https://www.ledevoir.com/opinion/idees/1003064/democratie-besoin-conversations-pas-seulement-elections",
-          "source": "Le Devoir",
-          "summary": "La polarisation ne signifie pas simplement que les citoyens sont en désaccord.",
-          "published": "2026-08-21T04:00:00+00:00"
-        },
-        {
-          "title": "«Spa Weekend»: plus ennuyant que relaxant",
-          "link": "https://www.ledevoir.com/culture/cinema/1003103/spa-weekend-plus-ennuyant-relaxant",
-          "source": "Le Devoir",
-          "summary": "Les auteurs de «Bad Moms» et «The Hangover» donnent dans le pareil au même peu inspiré.",
-          "published": "2026-08-21T04:00:00+00:00"
-        },
-        {
-          "title": "Un thé avec la «femme libre» Hemela Pourafzal",
-          "link": "https://www.ledevoir.com/culture/cinema/1003160/the-femme-libre-hemela-pourafzal",
-          "source": "Le Devoir",
-          "summary": "Un documentaire dresse un portrait tendre et intime de la propriétaire du restaurant iranien Byblos Le petit café.",
-          "published": "2026-08-21T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Le Japon proteste contre des essais de missiles russes prévus au large des îles Kouriles, visitées par Vladimir Poutine",
-          "link": "https://www.lefigaro.fr/international/le-japon-proteste-contre-des-essais-de-missiles-russes-prevus-au-large-des-iles-kouriles-visitees-par-vladimir-poutine-20260821",
-          "source": "Le Figaro",
-          "summary": "Les relations russo-japonaises sont depuis longtemps marquées par les tensions autour des îles Kouriles, connues au Japon sous le nom de «Territoires du Nord» et considérées comme occupées par l’Union soviétique en 1945.",
-          "published": "2026-08-21T06:39:34+00:00"
-        },
-        {
-          "title": "Vigilance orange orages sur une partie de la France, le gouvernement renonce à doubler les franchises médicales, vote indicatif pour désigner le prochain chef de l’ONU… L’actu de ce vendredi 21 août au matin",
-          "link": "https://www.liberation.fr/international/europe/vigilance-orange-orages-sur-une-partie-de-la-france-le-gouvernement-renonce-a-doubler-les-franchises-medicales-vote-indicatif-pour-designer-le-prochain-chef-de-lonu-lactu-de-ce-vendredi-21-aout-au-matin-20260821_CEYY6F7FMNDW3MIB375GUS556I/",
+          "title": "Faune sauvage : après les incendies, la sécheresse et la canicule, «la chasse, c’est le coup de grâce»",
+          "link": "https://www.liberation.fr/environnement/animaux/faune-sauvage-apres-les-incendies-la-secheresse-et-la-canicule-la-chasse-cest-le-coup-de-grace-20260821_TQ2TH3XSFBEG5IOXEL5DLO2IRE/",
           "source": "Liberation",
-          "summary": "La rédaction de «Libération» compile les principales infos du jour",
-          "published": "2026-08-21T06:38:54+00:00"
+          "summary": "A quelques semaines de la réouverture de la saison, associations et citoyens réclament la suspension de l’activité dans les territoires sinistrés. Une mesure prévue par le code de l’environnement, qui relève des préfets…",
+          "published": "2026-08-21T09:32:24+00:00"
         },
         {
-          "title": "Les États-Unis annoncent une nouvelle salve de sanctions contre Cuba et maintiennent leur pression maximale sur l’île",
-          "link": "https://www.lefigaro.fr/international/les-etats-unis-annoncent-une-nouvelle-salve-de-sanctions-contre-cuba-et-maintiennent-leur-pression-maximale-sur-l-ile-20260821",
+          "title": "Présidentielle 2027 : la nécessité d’une alternative à gauche",
+          "link": "https://www.lemonde.fr/idees/article/2026/08/21/presidentielle-2027-la-necessite-d-une-alternative-a-gauche_6751911_3232.html",
+          "source": "Le Monde",
+          "summary": "Les sociaux-démocrates et les écologistes ne parviennent toujours pas à concurrencer la candidature de Jean-Luc Mélenchon. C’est pourtant indispensable : à défaut, l’élection pourrait se résumer à une opposition des…",
+          "published": "2026-08-21T09:30:07+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : Gabriel Attal de nouveau ciblé par des opérations de désinformation prorusses",
+          "link": "https://www.lefigaro.fr/politique/presidentielle-2027-gabriel-attal-de-nouveau-cible-par-des-operations-de-desinformation-prorusses-20260821",
           "source": "Le Figaro",
-          "summary": "Ces entités, principalement dans les secteurs minier et métallurgique, «soutiennent l’appareil répressif du régime en exerçant un contrôle sur des secteurs économiques clés», a indiqué le secrétaire d’État américain,…",
-          "published": "2026-08-21T06:37:46+00:00"
+          "summary": "Au total, depuis le début du mois d’août, quatre opérations de désinformation ont visé le candidat du parti Renaissance à la présidentielle, qui a déjà déposé plainte.",
+          "published": "2026-08-21T09:27:50+00:00"
         },
         {
-          "title": "Le Var et les Alpes-Maritimes toujours en vigilance orange \"orages\" et \"pluie-inondation\" vendredi matin",
-          "link": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/la-corse-le-var-et-les-alpes-maritimes-en-vigilance-orange-orages-vendredi-matin-les-deux-departements-du-sud-est-aussi-concernes-par-une-alerte-pluie-inondation_8155757.html#xtor=RSS-3-[lestitres]",
+          "title": "En Suisse, cinq personnes sont portées disparues et 19 blessées dans deux incendies d'immeubles",
+          "link": "https://www.franceinfo.fr/faits-divers/en-suisse-cinq-personnes-sont-portees-disparues-et-19-blessees-dans-deux-incendies-d-immeubles_8156045.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les deux départements de Corse, concernés jusqu'alors par une alerte orange aux orages violents, ont été rétrogradés en jaune par Météo-France dans son dernier bulletin.",
-          "published": "2026-08-21T06:36:27+00:00"
+          "summary": "A Thusis, dans l'est du pays, près de 100 pompiers ont été mobilisés pour éteindre l'incendie qui s'est déclaré dans la nuit de jeudi à vendredi, une opération qui n'est pas terminée.",
+          "published": "2026-08-21T09:26:16+00:00"
         },
         {
-          "title": "Six départements placés en alerte orange pour les orages, de «violentes rafales» attendues : découvrez la météo du vendredi 21 août",
-          "link": "https://www.lefigaro.fr/meteo/des-orages-dans-le-sud-est-des-temperatures-qui-baissent-decouvrez-la-meteo-du-vendredi-21-aout-20260820",
+          "title": "Espagne : démantèlement d’un réseau de passeurs de migrants clandestins à destination de la France",
+          "link": "https://www.lefigaro.fr/international/espagne-demantelement-d-un-reseau-de-passeurs-de-migrants-clandestins-a-destination-de-la-france-20260821",
           "source": "Le Figaro",
-          "summary": "La France retrouve des températures beaucoup plus respirables après les fortes chaleurs. Le temps reste néanmoins très agité dans le sud-est, avec de violents orages encore possibles.",
-          "published": "2026-08-21T06:27:56+00:00"
+          "summary": "L’enquête a été menée par la police espagnole à l’initiative des autorités françaises, qui avaient relevé de nombreux franchissements de frontière effectués par un véhicule lié au suspect.",
+          "published": "2026-08-21T09:22:13+00:00"
         },
         {
-          "title": "Jusqu’à 11h30 de retard : le trafic des TGV perturbé au sud de Bordeaux après un problème électrique",
-          "link": "https://www.lefigaro.fr/conjoncture/jusqu-a-11h30-de-retard-le-trafic-des-tgv-perturbe-au-sud-de-bordeaux-apres-un-probleme-electrique-20260821",
+          "title": "Les États-Unis «envisagent» de renommer un futur porte-avions qui devait rendre hommage au héros de guerre Afro-américain Doris Miller",
+          "link": "https://www.lefigaro.fr/international/les-etats-unis-envisagent-de-renommer-un-futur-porte-avions-qui-devait-rendre-hommage-au-heros-de-guerre-afro-americain-doris-miller-20260821",
           "source": "Le Figaro",
-          "summary": "Un «défaut d’alimentation électrique» perturbe la circulation des trains entre Dax et Bordeaux depuis jeudi soir. Des trains sont encore annulés ce vendredi matin.",
-          "published": "2026-08-21T06:23:00+00:00"
+          "summary": "En interne, selon CNN, le bâtiment qui doit être livré en 2024 n’est plus qu’appelé par son numéro de coque : CVN-81. Et pourrait, selon le média américain, être baptisé en l’honneur de Donald Trump.",
+          "published": "2026-08-21T09:16:40+00:00"
         },
         {
-          "title": "Au Pakistan, Imran Khan, ancien premier ministre, a été reconduit en prison après son transfert à l’hôpital",
-          "link": "https://www.lemonde.fr/international/article/2026/08/21/au-pakistan-imran-khan-ancien-premier-ministre-a-ete-reconduit-en-prison-apres-son-transfert-a-l-hopital_6751709_3210.html",
-          "source": "Le Monde",
-          "summary": "A la fin de 2025, M. Khan et son épouse, Bushra Bibi, ont été condamnés à dix-sept ans de prison pour des faits de corruption qu’ils contestent tous les deux, estimant que les poursuites sont motivées par des…",
-          "published": "2026-08-21T06:20:12+00:00"
+          "title": "Arthur Fils file en demi-finales du Masters 1000 de Cincinnati",
+          "link": "https://www.franceinfo.fr/sports/tennis/arthur-fils/arthur-fils-ecarte-facilement-thiago-agustin-tirante-et-se-qualifie-pour-les-demi-finales-du-masters-1000-de-cincinnati_8155937.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le Français est présent dans le dernier carré d'un Masters 1000 pour la troisième fois cette saison, après Miami et Madrid.",
+          "published": "2026-08-21T09:16:39+00:00"
         },
         {
-          "title": "Christophe Bonneuil : «L’écologisation de nos sociétés industrielles est une bataille permanente»",
-          "link": "https://www.liberation.fr/idees-et-debats/christophe-bonneuil-lecologisation-de-nos-societes-industrielles-est-une-bataille-permanente-20260821_KGTYUHX27BEJ7JMT2NA6YZ24AI/",
+          "title": "Emmanuel Macron réunira le gouvernement lundi matin pour le conseil des ministres de rentrée",
+          "link": "https://www.lefigaro.fr/politique/emmanuel-macron-reunira-le-gouvernement-lundi-matin-pour-le-conseil-des-ministres-de-rentree-20260821",
+          "source": "Le Figaro",
+          "summary": "Sébastien Lecornu, qui a dû gérer pendant l’été les conséquences des vagues de chaleur, est également confronté dès à présent à la préparation très complexe du budget 2027.",
+          "published": "2026-08-21T09:12:42+00:00"
+        },
+        {
+          "title": "Risque d’éclatement, perforation, non-conformité… Les autorités françaises alertent sur 300 000 préservatifs défectueux",
+          "link": "https://www.liberation.fr/economie/conso/risque-declatement-perforation-non-conformite-les-autorites-francaises-alertent-sur-300-000-preservatifs-defectueux-20260821_G7Q7AZHDOZH63GMDZHGDY7EJZQ/",
           "source": "Liberation",
-          "summary": "Coauteur d’une histoire environnementale de la France depuis 1940, le chercheur retrace la longue saga des mobilisations écologiques, de l’Hexagone à l’outre-mer. Et pointe la relative surdité du pouvoir face à ces…",
-          "published": "2026-08-21T06:18:00+00:00"
+          "summary": "La répression des fraudes et la Direction générale de la Santé pointent des produits qui étaient vendus jusqu’à récemment dans plusieurs magasins et sur internet. A ce stade, aucun incident n’a encore été signalé.",
+          "published": "2026-08-21T09:09:55+00:00"
         },
         {
-          "title": "Du jamais-vu depuis le début des relevés météo… Pourquoi ce vendredi marque la fin d’une série historique",
-          "link": "https://www.lefigaro.fr/meteo/du-jamais-vu-depuis-le-debut-des-releves-meteo-pourquoi-ce-vendredi-marquera-t-il-la-fin-d-une-serie-historique-20260820",
+          "title": "Lyon : une femme de 92 ans entre la vie et la mort après avoir été rouée de coups à son domicile",
+          "link": "https://www.lefigaro.fr/lyon/lyon-une-femme-de-92-ans-entre-la-vie-et-la-mort-apres-avoir-ete-rouee-de-coups-a-son-domicile-20260821",
           "source": "Le Figaro",
-          "summary": "INFOGRAPHIE - Un cycle exceptionnel de soixante-dix jours consécutifs, commencé il y a plus de deux mois, devrait s’arrêter ce vendredi.",
-          "published": "2026-08-21T06:15:10+00:00"
-        },
-        {
-          "title": "En Charente-Maritime, des maisons proches d’une usine d’engrais découvrent que leurs jardins sont pollués par du plomb, du cadmium et de l’arsenic",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/21/en-charente-maritime-la-pollution-des-sols-rend-des-dizaines-de-maisons-inhabitables-une-usine-d-engrais-sommee-d-agir_6751676_3244.html",
-          "source": "Le Monde",
-          "summary": "Sur 92 parcelles analysées dans ce lotissement résidentiel de la cité de la Coudre, à Tonnay-Charente, près de la moitié présentent « un état des sols incompatible avec les usages résidentiels et l’autoproduction…",
-          "published": "2026-08-21T06:14:01+00:00"
+          "summary": "La nonagénaire a été victime d’un cambriolage particulièrement violent dans son appartement, situé dans le cossu 6e arrondissement. Une femme a été identifiée comme étant l’auteur présumée des faits.",
+          "published": "2026-08-21T09:07:39+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "LG G6 : la référence incontournable des TV OLED notée 9/10 profite de 400 € de remise",
-          "link": "https://www.frandroid.com/bons-plans/3217747_lg-g6-la-reference-incontournable-des-tv-oled-notee-9-10-profite-de-400-e-de-remise",
+          "title": "1 000 km d’autonomie et recharge en 5 minutes pour 32 000 € : BYD fait fort avec sa nouvelle berline électrique, la Da Han",
+          "link": "https://www.frandroid.com/marques/byd/3218303_1-000-km-dautonomie-et-recharge-en-5-minutes-pour-32-000-e-byd-fait-fort-avec-sa-nouvelle-berline-electrique-la-da-han",
           "source": "Frandroid",
-          "summary": "Le TV LG OLED55G6 s'impose comme l'un des téléviseurs OLED les plus aboutis du marché. Actuellement, Ubaldi l'affiche à 1 890 euros au lieu de 2 290 euros.",
-          "published": "2026-08-21T06:38:00+00:00"
+          "summary": "BYD nous en dit plus sur sa nouvelle Da Han, une grande berline qui démarre à partir de 31 800 euros en Chine. Forte de 1 000 kilomètres d’autonomie et rechargeable en 5 minutes, la voiture électrique pourrait finir par…",
+          "published": "2026-08-21T09:31:23+00:00"
         },
         {
-          "title": "ChatGPT peut prendre le contrôle sur iMessage, faut-il lui ouvrir la porte ?",
-          "link": "https://www.clubic.com/actualite-626152-chatgpt-peut-prendre-le-controle-sur-imessage-faut-il-s-inquieter.html",
-          "source": "Clubic",
-          "summary": "Un nouveau plugin permet à ChatGPT de fouiller vos messages iMessage, SMS et RCS sur Mac, et d'y répondre à votre place une fois votre validation obtenue. Cette nouveauté pose des questions de confidentialité et arrive…",
-          "published": "2026-08-21T06:37:00+00:00"
-        },
-        {
-          "title": "Google va vous laisser personnaliser votre fil Discover grâce à l’IA",
-          "link": "https://www.frandroid.com/marques/google/3218111_google-va-vous-laisser-personnaliser-votre-fil-discover-grace-a-lia",
-          "source": "Frandroid",
-          "summary": "Si vous utilisez fréquemment le flux Discover de l’application Google, vous avez peut-être remarqué que ce dernier vous propose des actus pas toujours pertinentes. Cela va changer grâce à une nouvelle option de…",
-          "published": "2026-08-21T06:33:25+00:00"
-        },
-        {
-          "title": "Sur macOS, ChatGPT sait désormais interagir avec l’application Messages et vos SMS",
-          "link": "https://next.ink/252635/sur-macos-chatgpt-sait-desormais-interagir-avec-lapplication-messages-et-vos-sms/",
-          "source": "Next",
-          "summary": "OpenAI lance un plugin qui permet à l&#8217;application ChatGPT sur macOS d&#8217;interagir directement avec les messages (iMessage, SMS) de l&#8217;utilisateur. Une intégration censée faciliter la vie de…",
-          "published": "2026-08-21T06:31:00+00:00"
-        },
-        {
-          "title": "C’est officiel : la série God of War a son nouveau Kratos",
-          "link": "https://www.numerama.com/pop-culture/2315251-cest-officiel-la-serie-god-of-war-a-son-nouveau-kratos.html",
+          "title": "Bridgerton Saison 5 : Penelope sur le départ ? L’actrice s’explique sur son rôle réduit",
+          "link": "https://www.numerama.com/pop-culture/2315381-bridgerton-saison-5-penelope-sur-le-depart-lactrice-sexplique-sur-son-role-reduit.html",
           "source": "Numerama",
-          "summary": "La série God of War tient son nouveau Kratos et, comme attendu, c'est bien Dave Bautista qui remplacera Ryan Hurst, qui s'est blessé au biceps.",
-          "published": "2026-08-21T06:07:34+00:00"
+          "summary": "Les fans de&nbsp;Bridgerton&nbsp;devront s'adapter à un temps d'écran nettement plus réduit pour Penelope Featherington. Nicola Coughlan a confirmé qu'elle serait moins présente dans la saison 5 de la série phénomène de…",
+          "published": "2026-08-21T09:20:00+00:00"
         },
         {
-          "title": "Rentrée : le Ryzen 7 7800X3D passe sous les 210€ chez AliExpress",
-          "link": "https://www.clubic.com/bons-plans-626029-rentree-le-ryzen-7-7800x3d-passe-sous-les-210-chez-aliexpress.html",
+          "title": "ChatGPT peut désormais lire vos messages sur Mac, et Apple risque de ne pas apprécier",
+          "link": "https://www.numerama.com/tech/2315351-chatgpt-peut-desormais-lire-vos-messages-sur-mac-et-apple-risque-de-ne-pas-apprecier.html",
+          "source": "Numerama",
+          "summary": "Le 20 août 2026, OpenAI a dévoilé un plug-in permettant à ChatGPT d’interagir avec l’app Messages sur Mac. Une nouveauté technique qui prend une tout autre dimension dans le contexte du bras de fer entre Apple et…",
+          "published": "2026-08-21T09:19:14+00:00"
+        },
+        {
+          "title": "Apple licencie 60 employés de Vision Pro : pourquoi ce virage stratégique inquiète",
+          "link": "https://www.clubic.com/actualite-626191-apple-licencie-60-employes-de-vision-pro-pourquoi-ce-virage-strategique-inquiete.html",
           "source": "Clubic",
-          "summary": "La rentrée rime souvent avec arbitrages budgétaires, surtout quand il s'agit de muscler sa configuration de jeu. AliExpress propose actuellement le Ryzen 7 7800X3D, référence reconnue du gaming PC, à un tarif qui mérite…",
-          "published": "2026-08-21T06:05:00+00:00"
+          "summary": "Apple aurait licencié une soixantaine d’employés liés au Vision Products Group, l’équipe historique du Vision Pro. Une décision qui confirme le désengagement progressif de la marque vis-à-vis des casques fermés, au…",
+          "published": "2026-08-21T09:17:00+00:00"
         },
         {
-          "title": "☕️ Sur le web, les bots IA écrivent de plus en plus pour les bots",
-          "link": "https://next.ink/brief-article/sur-le-web-les-bots-ia-ecrivent-de-plus-en-plus-pour-les-bots/",
+          "title": "Publicité mensongère sur la RAM : G.Skill verse 2,4 millions de dollars à ses clients",
+          "link": "https://www.clubic.com/actualite-626203-publicite-mensongere-sur-la-ram-g-skill-verse-2-4-millions-de-dollars-a-ses-clients.html",
+          "source": "Clubic",
+          "summary": "G.Skill commence à indemniser des acheteurs américains après un recours collectif visant la présentation des vitesses de certains kits DDR4 et DDR5. Le fabricant n’a reconnu aucune faute, mais devra désormais préciser…",
+          "published": "2026-08-21T09:10:00+00:00"
+        },
+        {
+          "title": "Amazon propose 4 caméras de surveillance pour moins de 40€ : difficile de trouver moins cher",
+          "link": "https://www.clubic.com/bons-plans-626185-amazon-propose-4-cameras-de-surveillance-pour-moins-de-40-difficile-de-trouver-moins-cher.html",
+          "source": "Clubic",
+          "summary": "À quelques jours de la rentrée, équiper la maison de plusieurs points de surveillance sans y laisser un budget conséquent reste un vrai casse-tête. Amazon propose justement ce lot de 4 caméras intérieures WOLFANG à…",
+          "published": "2026-08-21T09:04:00+00:00"
+        },
+        {
+          "title": "Amazon brade le set Star Wars le plus cher du catalogue Lego (9 000 pièces et 7 kilos)",
+          "link": "https://www.numerama.com/pop-culture/2197677-amazon-brade-le-set-lego-star-wars-le-plus-cher-de-lhistoire-9-000-pieces-et-7-kilos.html",
+          "source": "Numerama",
+          "summary": "[Deal du jour] Avec ses 9 023 pièces, ses 38 figurines et son prix officiel de 999,99 €, l’Étoile de la Mort détient un record peu enviable : celui du set le plus cher jamais commercialisé par Lego. Amazon rend…",
+          "published": "2026-08-21T09:00:20+00:00"
+        },
+        {
+          "title": "Taïwan vacille, la Chine s’impose : le grand basculement du vélo électrique en Europe",
+          "link": "https://www.frandroid.com/survoltes/velo-electrique/3218373_taiwan-vacille-la-chine-simpose-le-grand-basculement-du-velo-electrique-en-europe",
+          "source": "Frandroid",
+          "summary": "Après une année 2025 poussive, les importations européennes de vélos électriques repartent à la hausse au premier semestre 2026. Derrière ce rebond, la Chine s'installe comme premier fournisseur du continent.",
+          "published": "2026-08-21T08:50:26+00:00"
+        },
+        {
+          "title": "iOS 27, améliorez considérablement vos AirPods rien qu’avec une mise à jour",
+          "link": "https://www.frandroid.com/marques/apple/3218411_ios-27-ameliorez-considerablement-vos-airpods-rien-quavec-une-mise-a-jour",
+          "source": "Frandroid",
+          "summary": "iOS 27 va rendre les AirPods, en particulier les AirPods Pro 3, plus performants grâce à un égaliseur personnalisable, l'intégration de Siri AI et de nouvelles fonctions sportives et de localisation, selon Apple. On…",
+          "published": "2026-08-21T08:49:59+00:00"
+        },
+        {
+          "title": "☕️ L’IRD confirme un piratage, les données de 7 500 personnes exposées",
+          "link": "https://next.ink/brief-article/lird-confirme-un-piratage-les-donnees-de-7-500-personnes-exposees/",
           "source": "Next",
-          "summary": "Les bots lisent les bots. Les sites web sont de plus en plus rédigés par des robots IA : plus d&#8217;un tiers des pages web mises en ligne après le lancement de ChatGPT intègre des contenus IA, selon une étude du Pew…",
-          "published": "2026-08-21T05:45:00+00:00"
+          "summary": "L&#8217;Institut de recherche pour le développement (IRD) a annoncé ce mardi 18 aout à son personnel, via une lettre en PDF que Next a pu se procurer, qu&#8217;une « intrusion d&#8217;origine externe dans son système…",
+          "published": "2026-08-21T08:46:45+00:00"
         },
         {
-          "title": "Samsung et Apple au coude-à-coude en Europe malgré la chute du marché des smartphones",
-          "link": "https://www.clubic.com/actualite-626158-samsung-et-apple-au-coude-a-coude-en-europe-malgre-la-chute-du-marche-des-smartphones.html",
-          "source": "Clubic",
-          "summary": "Le marché européen des smartphones vient de signer son plus mauvais deuxième trimestre depuis trois ans. Pendant que les ventes reculent, Apple réalise une percée qui lui permet de revenir exactement au niveau de…",
-          "published": "2026-08-21T05:44:00+00:00"
-        },
-        {
-          "title": "Proton : le VPN le plus respectueux de vos données personnelles est en promo à -70 % [Sponso]",
-          "link": "https://www.frandroid.com/services/vpn/3217137_proton-le-vpn-le-plus-respectueux-de-vos-donnees-personnelles-est-en-promo-a-70",
+          "title": "Data centers : l’IA prive-t-elle déjà des habitants d’eau et d’électricité ?",
+          "link": "https://www.frandroid.com/survoltes/energie/3216791_data-centers-lia-prive-t-elle-deja-des-habitants-deau-et-delectricite",
           "source": "Frandroid",
-          "summary": "Peut-on vraiment faire confiance à tous les acteurs du monde des VPN ? Pas sûr. Sauf si vous avez décidé de souscrire à celui de Proton, en promotion à -70 %.",
-          "published": "2026-08-21T05:39:00+00:00"
+          "summary": "Qui doit passer en priorité lorsque les ressources viennent à manquer : les infrastructures de l’intelligence artificielle ou les besoins des populations ? La question mérite d’être posée, alors que les centres de…",
+          "published": "2026-08-21T08:45:38+00:00"
         },
         {
-          "title": "Jusqu'à -73 % chez Amazon : 10 Ventes Flash à ne surtout pas manquer ce vendredi",
-          "link": "https://www.clubic.com/bons-plans-625633-ventes-flash-amazon-jusqu-a--73-sur-ces-10-offres-tech-a-saisir-cette-semaine.html",
-          "source": "Clubic",
-          "summary": "La rentrée se profile et c'est peut-être le bon moment pour renouveler son équipement. Amazon propose cette semaine 10 ventes Flash particulièrement intéressantes, dont certaines affichent jusqu'à -73 % de réduction.",
-          "published": "2026-08-21T05:32:00+00:00"
-        },
-        {
-          "title": "ChatGPT peut désormais répondre à vos textos et c’est probablement une très mauvaise idée",
-          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3218091_chatgpt-peut-desormais-repondre-a-vos-textos-et-cest-probablement-une-tres-mauvaise-idee",
+          "title": "Google l’a bloqué, un développeur l’a hacké : la fonction HiLight des Pixel 11 enfin rendue utile",
+          "link": "https://www.frandroid.com/android/applications/3218233_google-la-bloque-un-developpeur-la-hacke-la-fonction-hilight-des-pixel-11-enfin-rendue-utile",
           "source": "Frandroid",
-          "summary": "OpenAI propose désormais un plugin pour son application ChatGPT qui laisse le robot conversationnel lire et répondre à vos communications iMessage. De quoi inquiéter les usagers et probablement Apple aussi.",
-          "published": "2026-08-21T05:25:50+00:00"
-        },
-        {
-          "title": "À Singapour, ce data center utilise des neurones humains pour faire fonctionner l’IA",
-          "link": "https://www.clubic.com/actualite-626155-a-singapour-ce-data-center-utilise-des-neurones-humains-pour-faire-fonctionner-l-ia.html",
-          "source": "Clubic",
-          "summary": "À Singapour, l’opérateur de centres de données DayOne, l’université NUS et la start-up australienne Cortical Labs ont inauguré au début du mois un centre de données biologique. Vingt unités CL1, alimentées par des…",
-          "published": "2026-08-21T05:25:00+00:00"
+          "summary": "Grande nouveauté des Pixel&nbsp;11 Pro, la LED de notification HiLight a malheureusement été sévèrement bridée par Google. Qu’à cela ne tienne, une application propose déjà de tirer pleinement parti de ce nouvel outil.",
+          "published": "2026-08-21T08:45:12+00:00"
         }
       ]
     }
