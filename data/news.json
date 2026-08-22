@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-08-21T21:22:14.486586+00:00",
+  "generated_at": "2026-08-22T01:08:07.240209+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Ukraine : au moins seize morts dans une frappe russe sur un centre commercial, l’UE dénonce une « terreur planifiée »",
+          "link": "https://www.lemonde.fr/international/article/2026/08/22/ukraine-au-moins-seize-morts-dans-une-frappe-russe-sur-un-centre-commercial-l-ue-denonce-une-terreur-planifiee_6752420_3210.html",
+          "source": "Le Monde",
+          "summary": "Quatre personnes, dont trois mineurs, ont également été tuées vendredi dans une autre attaque, et des missiles balistiques ont tué au moins deux personnes à Kiev dans la nuit de vendredi à samedi.",
+          "published": "2026-08-22T00:55:36+00:00"
+        },
+        {
+          "title": "La Syrie demande à intégrer le Partenariat international contre l’impunité d’utilisation des armes chimiques",
+          "link": "https://www.lemonde.fr/international/article/2026/08/22/la-syrie-demande-a-integrer-le-partenariat-international-contre-l-impunite-d-utilisation-des-armes-chimiques_6752387_3210.html",
+          "source": "Le Monde",
+          "summary": "Cette annonce intervient treize ans jour pour jour après un bombardement chimique, attribué au gouvernement syrien de l’époque, contre une banlieue de Damas qui avait fait plus de 1 400 morts.",
+          "published": "2026-08-21T23:54:35+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : à Kryvy Rih, une frappe russe visant un centre commercial fait au moins seize morts et 130 blessés, dont des enfants",
+          "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-a-kryvy-rih-une-frappe-russe-visant-un-centre-commercial-fait-au-moins-quinze-morts-dont-des-enfants_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "Quatre personnes, dont trois mineurs, ont également été tuées dans une frappe séparée dans la région de Mykolaïv, qui a causé un incendie dans un magasin, une pharmacie et un bureau de poste, selon le ministère de…",
+          "published": "2026-08-21T22:15:04+00:00"
+        },
+        {
+          "title": "L'affaire Jason Arday met en cause les journaux britanniques",
+          "link": "https://www.rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20260821-l-affaire-jason-arday-met-en-cause-les-journaux-britanniques",
+          "source": "RFI",
+          "summary": "Une polémique touche les médias britanniques après le suicide d'un jeune professeur noir de Cambridge, Jason Arday. Cet enseignant avait été dénoncé comme plagiaire par de nombreux articles.",
+          "published": "2026-08-21T22:04:05+00:00"
+        },
+        {
+          "title": "Australie: les chauve-souris, des remparts face à la désertification",
+          "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20260821-australie-les-chauve-souris-des-remparts-face-%C3%A0-la-d%C3%A9sertification",
+          "source": "RFI",
+          "summary": "Pour accompagner la croissance de sa population, l’Australie, qui compte désormais plus de 28 millions d’habitants, s’urbanise à grande vitesse. Ce qui n’est pas sans créer quelques conflits de voisinage, notamment avec…",
+          "published": "2026-08-21T22:01:24+00:00"
+        },
+        {
+          "title": "RCA/CAMEROUN : 72 heures après l'éboulement d'une mine, les activités suspendues",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260821-rca-cameroun-72-heures-apr%C3%A8s-l-%C3%A9boulement-d-une-mine-les-activit%C3%A9s-suspendues",
+          "source": "France 24",
+          "summary": "72 heures après l’éboulement meurtrier qui a fait des dizaines de morts dans une mine d’or, a Zamboi, village frontalier de la République centrafricaine et du Cameroun, les recherches pour retrouver des survivants et…",
+          "published": "2026-08-21T20:45:39+00:00"
+        },
         {
           "title": "Deux Palestiniens tués en Cisjordanie occupée, dont un après une intrusion de colons",
           "link": "https://www.france24.com/fr/moyen-orient/20260821-deux-palestiniens-tu%C3%A9s-en-cisjordanie-occup%C3%A9e-dont-un-apr%C3%A8s-une-intrusion-de-colons",
@@ -31,48 +73,6 @@
           "source": "Le Monde",
           "summary": "Téhéran continue de verrouiller le détroit d’Ormuz, voie maritime stratégique pour le commerce d’hydrocarbures, et Washington maintient son blocus naval contre l’Iran.",
           "published": "2026-08-21T18:31:53+00:00"
-        },
-        {
-          "title": "Côte d'ivoire : pourquoi la basilique de Yamoussoukro reste fraiche ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-c%C3%B4te-d-ivoire-pourquoi-la-basilique-de-yamoussoukro-reste-fraiche",
-          "source": "France 24",
-          "summary": "La basilique Notre-Dame de la Paix à Yamoussoukro est considérée comme la plus grande basilique au monde. Malgré un climat tropical, les fidèles y sont toujours au frais.",
-          "published": "2026-08-21T18:25:14+00:00"
-        },
-        {
-          "title": "Cyclisme : l'ancien champion du monde Julian Alaphilippe annonce la fin de sa carrière",
-          "link": "https://www.france24.com/fr/sports/20260821-cyclisme-l-ancien-champion-du-monde-julian-alaphilippe-annonce-la-fin-de-sa-carri%C3%A8re-sportive",
-          "source": "France 24",
-          "summary": "Le Français Julian Alaphilippe a annoncé officiellement \"la fin de sa carrière sportive\" vendredi sur ses réseaux sociaux. Ce cycliste de 34 ans a notamment remporté deux titres consécutifs de champion du monde (2020 et…",
-          "published": "2026-08-21T17:51:11+00:00"
-        },
-        {
-          "title": "En Ukraine, un centre commercial visé par des frappes russes meurtrières",
-          "link": "https://www.france24.com/fr/europe/20260821-en-ukraine-des-frappes-russes-font-au-moins-18-morts-et-plus-de-120-bless%C3%A9s",
-          "source": "France 24",
-          "summary": "Une dizaine de personnes ont été tuées dans des ​frappes russes, dont une attaque de drones visant un centre commercial, qui a également blessé une centaine de personnes dans la ville ​ukrainienne de ‌Kryvyï Rig, ont…",
-          "published": "2026-08-21T17:49:15+00:00"
-        },
-        {
-          "title": "\"Flottille pour Gaza\" : la Turquie lance un mandat d'arrêt international contre Netanyahu",
-          "link": "https://www.france24.com/fr/moyen-orient/20260821-flottille-pour-gaza-la-turquie-lance-un-mandat-d-arr%C3%AAt-d-international-contre-netanyahu",
-          "source": "France 24",
-          "summary": "La justice turque a annoncé, vendredi, avoir émis un mandat d'arrêt international contre le Premier ministre israélien, Benjamin Netanyahu, dans le cadre d'une enquête sur les conditions d'incarcération de militants de…",
-          "published": "2026-08-21T17:40:21+00:00"
-        },
-        {
-          "title": "« Ma façon de me battre, c’est de fournir du boulot aux femmes » : privées d’école et exclues de l’administration, les Afghanes misent sur l’entreprise",
-          "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/21/ma-facon-de-me-battre-c-est-de-fournir-du-boulot-aux-femmes-privees-d-ecole-et-exclues-de-l-administration-les-afghanes-misent-sur-l-entreprise_6752281_3451060.html",
-          "source": "Le Monde",
-          "summary": "« Paroles d’Afghanes » (6/6). Paradoxalement, l’un des rares droits qu’il reste aux femmes est de se lancer dans le business. Elles ont appris les bases sur Internet et font connaître leur activité sur les réseaux…",
-          "published": "2026-08-21T17:30:02+00:00"
-        },
-        {
-          "title": "La France ne va pas verser, seule, 140 milliards d’euros à l’Ukraine",
-          "link": "https://www.france24.com/fr/france/20260821-la-france-ne-va-pas-verser-seule-140-milliards-d-euros-%C3%A0-l-ukraine",
-          "source": "France 24",
-          "summary": "Des internautes pro-russes affirment que la France va devoir verser - seule - une nouvelle aide d’un montant de 140 milliards d’euros à l’Ukraine, pour son effort de guerre. Mais c’est inexact : le ministère ukrainien…",
-          "published": "2026-08-21T17:19:16+00:00"
         }
       ]
     },
@@ -83,6 +83,48 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "La coupe Walter est disparue lors de son transport vers l’Alberta",
+          "link": "https://www.ledevoir.com/sports/1003373/coupe-walter-est-disparue-lors-transport-vers-alberta",
+          "source": "Le Devoir",
+          "summary": "On ignore où la coupe Walter a été vue pour la dernière fois.",
+          "published": "2026-08-21T23:47:00+00:00"
+        },
+        {
+          "title": "Hochelaga-Maisonneuve | Un « crackhouse » et une halte-répit dérangent",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-21/hochelaga-maisonneuve/un-crackhouse-et-une-halte-repit-derangent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Consommation de drogues, prostitution, forte présence de déchets : des habitants de deux secteurs d’Hochelaga déplorent l’« inaction » de l’organisme L’Anonyme par rapport aux méfaits observés dans deux de ses…",
+          "published": "2026-08-21T23:45:00+00:00"
+        },
+        {
+          "title": "Charles Milliard souhaite le retrait d’un candidat du PQ pour «propos explicites»",
+          "link": "https://www.ledevoir.com/politique/quebec/1003340/charles-milliard-souhaite-retrait-candidat-pq-propos-explicites",
+          "source": "Le Devoir",
+          "summary": "François Gariépy est notamment critiqué pour un article qu’il a écrit pour « Urbania », en 2010.",
+          "published": "2026-08-21T22:35:00+00:00"
+        },
+        {
+          "title": "«Si mauvais qu’il en devient génial», le film «Niu Lai» secoue le box-office chinois",
+          "link": "https://www.ledevoir.com/culture/cinema/1003334/si-mauvais-il-devient-genial-film-niu-lai-secoue-box-office-chinois",
+          "source": "Le Devoir",
+          "summary": "Le film est l’œuvre d’une mère et son fils, qui l’ont animé image par image pendant cinq ans et ont composé la musique.",
+          "published": "2026-08-21T22:00:08+00:00"
+        },
+        {
+          "title": "Négociations commerciales | Mark Carney songerait à abroger la Loi sur les nouvelles en ligne",
+          "link": "https://www.lapresse.ca/affaires/medias/2026-08-21/negociations-commerciales/mark-carney-songerait-a-abroger-la-loi-sur-les-nouvelles-en-ligne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Dans ses négociations de dernière minute pour éviter une volée de droits douaniers américains, le premier ministre Mark Carney songerait à abroger la Loi sur les nouvelles en ligne, qui oblige les géants américains du…",
+          "published": "2026-08-21T21:39:43+00:00"
+        },
+        {
+          "title": "La Turquie a émis un mandat international contre Nétanyahou",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1003325/turquie-emis-mandat-international-contre-netanyahou",
+          "source": "Le Devoir",
+          "summary": "Le bureau de Benjamin Nétanyahou a qualifié de «dictateur antisémite» le président turc.",
+          "published": "2026-08-21T21:36:00+00:00"
+        },
         {
           "title": "TikTok solde pour 400 millions des poursuites de Washington sur la protection des enfants",
           "link": "https://www.ledevoir.com/economie/techno/1003319/tiktok-solde-400-millions-poursuites-washington-protection-enfants",
@@ -102,7 +144,7 @@
           "link": "https://www.ledevoir.com/actualites/justice/1003304/homme-accuse-meurtre-mort-femme-lundi-saint-michel",
           "source": "Le Devoir",
           "summary": "Betoven Étienne, 35 ans, a été accusé du meurtre de Kerline Jean et de voies de fait sur une autre femme.",
-          "published": "2026-08-21T20:01:03+00:00"
+          "published": "2026-08-21T20:01:00+00:00"
         },
         {
           "title": "Escarmouche entre le PQ et la CAQ sur l’utilisation de l’anglais",
@@ -110,48 +152,6 @@
           "source": "La Presse",
           "summary": "Le Parti québécois (PQ) accuse la première ministre Christine Fréchette de manquer à son devoir d’exemplarité en matière linguistique en ayant répondu en anglais à une question posée en français lors d’une mêlée de…",
           "published": "2026-08-21T19:45:56+00:00"
-        },
-        {
-          "title": "Charles Milliard veut aider les entreprises québécoises à faire affaire avec l’État",
-          "link": "https://www.ledevoir.com/politique/quebec/1003292/charles-milliard-veut-aider-entreprises-quebecoises-faire-affaire-etat",
-          "source": "Le Devoir",
-          "summary": "Le PLQ compte rompre avec le principe du plus bas soumissionnaire conforme et réduire le délai de paiement.",
-          "published": "2026-08-21T19:25:00+00:00"
-        },
-        {
-          "title": "La Russie tue au moins 14 Ukrainiens dans une frappe sur un centre commercial",
-          "link": "https://www.ledevoir.com/monde/europe/1003289/russie-tue-moins-14-ukrainiens-frappe-centre-commercial",
-          "source": "Le Devoir",
-          "summary": "Zelensky a fustigé une attaque «absolument cynique et ignoble» sur sa ville natale, Kryvyï Rig.",
-          "published": "2026-08-21T18:58:21+00:00"
-        },
-        {
-          "title": "Le Stade olympique, « une option très viable » pour le CF Montréal",
-          "link": "https://www.lapresse.ca/sports/soccer/2026-08-21/le-stade-olympique-une-option-tres-viable-pour-le-cf-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le CF Montréal cherche à s’entendre « à long terme » avec le Parc olympique, alors que le Stade olympique est vu une comme une « option très viable » pour assurer l’avenir du club à Montréal.",
-          "published": "2026-08-21T18:42:23+00:00"
-        },
-        {
-          "title": "Justin Trudeau dit que la mobilisation des Canadiens va aider Carney à négocier avec Trump",
-          "link": "https://www.journaldemontreal.com/2026/08/21/justin-trudeau-dit-que-la-mobilisation-des-canadiens-va-aider-carney-a-negocier-avec-trump",
-          "source": "Journal de Montreal",
-          "summary": "Justin Trudeau a eu son mot à dire sur les négociations qui font rage entre le gouvernement de Mark Carney et la Maison-Blanche",
-          "published": "2026-08-21T18:41:59+00:00"
-        },
-        {
-          "title": "GTA 6 : Discord et Microsoft visés par des demandes de Take-Two liées aux fuites",
-          "link": "https://www.journaldemontreal.com/2026/08/21/gta-6--discord-et-microsoft-vises-par-des-demandes-de-take-two-liees-aux-fuites",
-          "source": "Journal de Montreal",
-          "summary": "Take-Two Interactive, maison mère de Rockstar Games, cherche à identifier les personnes derrière les récentes fuites de Grand Theft Auto 6.",
-          "published": "2026-08-21T18:38:05+00:00"
-        },
-        {
-          "title": "Après des décennies de répression, des Kurdes syriens espèrent enfin avoir voix au chapitre",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1003280/apres-decennies-repression-kurdes-syriens-esperent-enfin-avoir-voix-chapitre",
-          "source": "Le Devoir",
-          "summary": "Les Kurdes, qui représentent environ 15 % de la population syrienne, ont longtemps souffert de marginalisation.",
-          "published": "2026-08-21T18:37:24+00:00"
         }
       ]
     },
@@ -159,11 +159,60 @@
       "label": "France",
       "items": [
         {
+          "title": "TikTok paiera 400 millions de dollars pour solder des accusations de collecte illégale de données d’enfants américains",
+          "link": "https://www.lemonde.fr/pixels/article/2026/08/22/tiktok-paiera-400-millions-de-dollars-pour-solder-des-accusations-de-collecte-illegale-de-donnees-d-enfants-americains_6752354_4408996.html",
+          "source": "Le Monde",
+          "summary": "Le réseau social est accusé d’avoir « sciemment » laissé des millions d’utilisateurs de moins de 13 ans créer des comptes et collecté leurs informations personnelles sans en informer leurs parents ni obtenir leur…",
+          "published": "2026-08-21T23:31:25+00:00"
+        },
+        {
+          "title": "L’OM ouvre la saison de Ligue 1 avec une large victoire contre Strasbourg",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/22/l-om-ouvre-la-saison-de-ligue-1-avec-une-large-victoire-contre-strasbourg_6752321_3242.html",
+          "source": "Le Monde",
+          "summary": "Un doublé d’Amine Gouiri et des buts de Keyliane Abdallah et Pierre-Emile Hojbjerg ont permis à Marseille, sans recrue, de l’emporter largement (4-0) pour le premier match officiel de son nouvel entraîneur, Bruno…",
+          "published": "2026-08-21T22:17:41+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : à Kryvy Rih, une frappe russe visant un centre commercial fait au moins seize morts et 130 blessés, dont des enfants",
+          "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-a-kryvy-rih-une-frappe-russe-visant-un-centre-commercial-fait-au-moins-quinze-morts-dont-des-enfants_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "Quatre personnes, dont trois mineurs, ont également été tuées dans une frappe séparée dans la région de Mykolaïv, qui a causé un incendie dans un magasin, une pharmacie et un bureau de poste, selon le ministère de…",
+          "published": "2026-08-21T22:15:04+00:00"
+        },
+        {
+          "title": "OM-Strasbourg : Gouiri star de la rentrée, Harit déchaîné, El Mourabet dégoupillé... Les tops et flops de la reprise de la Ligue 1",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/om-strasbourg-gouiri-star-de-la-rentree-harit-dechaine-el-mourabet-degoupille-les-tops-et-flops-de-la-reprise-de-la-ligue-1-20260821",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction après la large victoire de Marseille face à Strasbourg (4-0), vendredi soir au Vélodrome, lors de la reprise du championnat.",
+          "published": "2026-08-21T22:14:00+00:00"
+        },
+        {
           "title": "Ligue 1 : pour la première de Genesio, Marseille déroule au Vélodrome contre Strasbourg",
           "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-pour-la-premiere-de-genesio-marseille-deroule-au-velodrome-contre-strasbourg-20260821",
           "source": "Le Figaro",
           "summary": "L’OM a idéalement lancé sa saison 2026-2027 par un large succès face au Racing. Débuts réussis pour Bruno Genesio sur le banc phocéen.",
-          "published": "2026-08-21T21:10:46+00:00"
+          "published": "2026-08-21T22:02:33+00:00"
+        },
+        {
+          "title": "L'équipe de France de cécifoot se qualifie en finale de son Euro et affrontera l'Angleterre",
+          "link": "https://www.franceinfo.fr/sports/foot/l-equipe-de-france-de-cecifoot-se-qualifie-en-finale-de-son-euro-et-affrontera-l-angleterre_8156795.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "En demi-finale vendredi, Frédéric Villeroux et ses coéquipiers, titrés aux Jeux paralympiques à Paris il y a deux ans, ont battu l'Italie.",
+          "published": "2026-08-21T21:50:48+00:00"
+        },
+        {
+          "title": "Des incendies ont ravagé 20 000 hectares en Colombie",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/des-incendies-ont-ravage-20-000-hectares-en-colombie_8156792.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les flammes s'intensifient dans la région de Tolima en raison des faibles précipitations et des conditions climatiques associées au phénomène El Niño, qui s'annonce comme le plus intense documenté à ce jour.",
+          "published": "2026-08-21T21:50:42+00:00"
+        },
+        {
+          "title": "En visite à Mayotte, Edouard Philippe souhaite mettre fin à l'\"appel d'air\" de l'immigration",
+          "link": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-fait-sa-rentree-politique-a-mayotte-et-promet-de-mettre-fin-a-l-appel-d-air-de-l-immigration_8156786.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le candidat Horizons à la présidentielle est en visite à Mayotte vendredi et samedi.",
+          "published": "2026-08-21T21:37:09+00:00"
         },
         {
           "title": "Accusé d'avoir collecté illégalement les données des enfants, TikTok solde des poursuites aux Etats-Unis pour 400 millions de dollars",
@@ -173,60 +222,11 @@
           "published": "2026-08-21T21:02:32+00:00"
         },
         {
-          "title": "Ligue 1 : en vidéo, les premiers buts de la saison inscrits par Marseille contre Strasbourg",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-en-video-le-premier-but-de-la-saison-inscrit-par-les-marseillais-gouiri-contre-strasbourg-20260821",
-          "source": "Le Figaro",
-          "summary": "L’attaquant de l’OM a inscrit, ce vendredi au Vélodrome, le premier but de la saison 2026-2027 en Ligue 1.",
-          "published": "2026-08-21T20:52:38+00:00"
-        },
-        {
           "title": "En ouverture de la saison de Ligue 1, l'Olympique de Marseille écrase Strasbourg",
           "link": "https://www.franceinfo.fr/sports/foot/om/en-ouverture-de-la-saison-de-ligue-1-l-olympique-de-marseille-ecrase-strasbourg_8156738.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Grâce à un doublé d'Amine Gouri en seconde période et l'opportunisme de l'entrant Keyliane Abdallah et de Pierre-Emile Hojbjerg (4-0), les Olympiens ont parfaitement débuté leur saison, vendredi.",
           "published": "2026-08-21T20:48:11+00:00"
-        },
-        {
-          "title": "La Cour suprême autorise temporairement la poursuite des travaux la salle de bal de la Maison Blanche",
-          "link": "https://www.franceinfo.fr/monde/usa/la-cour-supreme-autorise-temporairement-la-poursuite-des-travaux-la-salle-de-bal-de-la-maison-blanche_8156714.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Un tribunal fédéral avait ordonné le 7 août l'arrêt des travaux. Donald Trump avait qualifié la décision de \"honte nationale\".",
-          "published": "2026-08-21T20:34:54+00:00"
-        },
-        {
-          "title": "Salle de bal de la Maison-Blanche : la Cour suprême autorise temporairement la poursuite des travaux",
-          "link": "https://www.lefigaro.fr/international/salle-de-bal-de-la-maison-blanche-la-cour-supreme-autorise-temporairement-la-poursuite-des-travaux-20260821",
-          "source": "Le Figaro",
-          "summary": "Le président américain souhaite depuis des mois construire une salle de bal monumentale à la Maison-Blanche. Un jugement précédent ordonnait la suspension des travaux.",
-          "published": "2026-08-21T20:32:57+00:00"
-        },
-        {
-          "title": "En Ukraine, une frappe russe sur un centre commercial fait au moins 15 morts et 130 blessés dans le centre du pays",
-          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-sur-un-centre-commercial-fait-au-moins-six-morts-et-91-blesses-dans-le-centre-du-pays_8156576.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Quatre personnes, dont trois enfants, sont également mortes dans une frappe russe dans la région de Mykolaïv.",
-          "published": "2026-08-21T20:31:34+00:00"
-        },
-        {
-          "title": "Le ballon de la \"main de Dieu\" de Diego Maradona, mis aux enchères, pourrait rapporter plus de 8 millions d'euros à son propriétaire",
-          "link": "https://www.franceinfo.fr/sports/foot/diego-maradona/le-ballon-de-la-main-de-dieu-de-diego-maradona-mis-aux-encheres-pourrait-rapporter-plus-de-8-millions-d-euros-a-son-proprietaire_8156729.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'histoire a contribué à forger le mythe de Maradona : le ballon de la \"main de Dieu\", celui avec lequel le génie argentin avait marqué de la main en quart de finale du mondial de 1986, suscitant l'une des plus grosses…",
-          "published": "2026-08-21T20:29:42+00:00"
-        },
-        {
-          "title": "Canada : un adolescent planifiant une attaque contre une école interpellé",
-          "link": "https://www.lefigaro.fr/flash-actu/canada-un-adolescent-planifiant-une-attaque-contre-une-ecole-interpelle-20260821",
-          "source": "Le Figaro",
-          "summary": "Cet adolescent, qui se réclame de la «mouvance néo-nazie», aurait eu recours à l’intelligence artificielle afin de planifier cette attaque et aurait formulé des menaces spécifiques visant les communautés musulmane,…",
-          "published": "2026-08-21T20:16:31+00:00"
-        },
-        {
-          "title": "Deux Palestiniens âgés de 58 et 17 ans tués en Cisjordanie",
-          "link": "https://www.franceinfo.fr/monde/palestine/deux-palestiniens-ages-de-58-et-17-ans-tues-en-cisjordanie_8156765.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'un a été tué à Jénine, dans le nord, par des tirs de l'armée israélienne, et l'autre dans le sud du territoire par un colon.",
-          "published": "2026-08-21T20:08:05+00:00"
         }
       ]
     },
