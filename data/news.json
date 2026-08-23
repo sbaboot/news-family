@@ -1,18 +1,60 @@
 {
-  "generated_at": "2026-08-23T03:48:54.563812+00:00",
+  "generated_at": "2026-08-23T06:38:03.348370+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
-          "link": "https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html",
+          "title": "Mark Carneye dénonce la « guerre » commerciale lancée par Donald Trump contre le Canada et s’inquiète de « menaces contre la langue française »",
+          "link": "https://www.lemonde.fr/international/article/2026/08/23/mark-carneye-denonce-la-guerre-commerciale-lancee-par-donald-trump-contre-le-canada-et-s-inquiete-de-menaces-contre-la-langue-francaise_6753507_3211.html",
           "source": "Le Monde",
           "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
-          "published": "2026-08-22T23:05:52+00:00"
+          "published": "2026-08-23T06:29:40+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles »",
+          "title": "Un séisme de magnitude 5,9 secoue l’est du Japon, faisant plus de 30 blessés dans la région de Tokyo",
+          "link": "https://www.lemonde.fr/international/article/2026/08/23/un-seisme-de-magnitude-5-9-secoue-l-est-du-japon-faisant-plus-de-30-blesses-dans-la-region-de-tokyo_6753860_3210.html",
+          "source": "Le Monde",
+          "summary": "Après le tremblement de terre qui a perturbé le trafic des trains régionaux dans la capitale, les autorités ont mis en garde contre un risque accru de glissements de terrain et de fortes répliques dans les prochains…",
+          "published": "2026-08-23T05:02:00+00:00"
+        },
+        {
+          "title": "« La justice syrienne juge désormais la responsabilité morale dans les crimes du régime Al-Assad »",
+          "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/23/la-justice-syrienne-juge-desormais-la-responsabilite-morale-dans-les-crimes-du-regime-al-assad_6753826_6116995.html",
+          "source": "Le Monde",
+          "summary": "Le procès de l’ancien grand mufti de Damas, Ahmad Hassoun, marque une nouvelle étape dans le jugement des responsables de l’ancien régime en Syrie, analyse l’historien Jean-Pierre Filiu dans sa chronique.",
+          "published": "2026-08-23T05:00:10+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : trois morts dans des frappes russes dans la région de Zaporijia, selon les autorités locales",
+          "link": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijia-selon-les-autorites-locales_6753793_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon Ivan Fedorov, chef de l’administration militaire de l’oblast de Zaporijia, les bombardements russes menés dans la nuit de samedi à dimanche ont aussi fait vingt blessés.",
+          "published": "2026-08-23T04:35:47+00:00"
+        },
+        {
+          "title": "Une rentrée littéraire marquée par les écrivains québécois : « Notre littérature est peut-être moins normée et plus libre »",
+          "link": "https://www.lemonde.fr/m-le-mag/article/2026/08/23/une-rentree-litteraire-marquee-par-les-ecrivains-quebecois-notre-litterature-est-peut-etre-moins-normee-et-plus-libre_6753760_4500055.html",
+          "source": "Le Monde",
+          "summary": "La littérature canadienne francophone suscite depuis quelques années un engouement croissant sur le marché hexagonal, qui se confirme en cette rentrée littéraire. Porté d’abord par le travail de maisons indépendantes…",
+          "published": "2026-08-23T04:01:13+00:00"
+        },
+        {
+          "title": "En Sierra Leone, les habitants des bidonvilles piégés par la montée de l’océan : « On est encerclés par la mer et par des torrents de pluie et d’eaux usées »",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/23/en-sierra-leone-les-habitants-des-bidonvilles-pieges-par-la-montee-de-l-ocean-on-est-encercles-par-la-mer-et-par-des-torrents-de-pluie-et-d-eaux-usees_6753758_3244.html",
+          "source": "Le Monde",
+          "summary": "A Freetown, les précipitations et les marées transforment les quartiers proches de l’océan en vastes zones inondables. Faute d’équipements, des dizaines de milliers d’habitants vivent dangereusement au rythme des crues.",
+          "published": "2026-08-23T04:01:00+00:00"
+        },
+        {
+          "title": "« Nous sommes contraints d’utiliser le même cathéter 20 ou 30 fois » : à Gaza, pénuries et évacuations entravées mettent les malades en danger",
+          "link": "https://www.lemonde.fr/international/article/2026/08/23/nous-sommes-contraints-d-utiliser-le-meme-catheter-20-ou-30-fois-a-gaza-penuries-et-evacuations-entravees-mettent-les-malades-en-danger_6753749_3210.html",
+          "source": "Le Monde",
+          "summary": "Détruits ou endommagés à 95 %, les hôpitaux de l’enclave palestinienne manquent de tout. Il n’y a plus d’IRM, et seulement deux scanners. Quelque 20 000 malades sont inscrits sur la liste d’évacuation, dont 200 sont…",
+          "published": "2026-08-23T04:00:15+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles ». Retrouvez les informations du 16 au 22 août.",
           "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-promet-des-attaques-beaucoup-plus-destructrices-contre-kiev-evoquant-des-mesures-de-represailles_6746952_3210.html",
           "source": "Le Monde",
           "summary": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
@@ -22,7 +64,7 @@
           "title": "Téhéran menace de représailles tout pays soutenant les sanctions économiques américaines",
           "link": "https://www.lemonde.fr/international/article/2026/08/22/teheran-menace-de-represailles-tout-pays-soutenant-les-sanctions-economiques-americaines_6753646_3210.html",
           "source": "Le Monde",
-          "summary": "Le secrétaire américain au Trésor, Scott Bessent, a affirmé la volonté des États-Unis de faire « s’effondrer le régime » iranien par de nouvelles sanctions. Il doit préciser lundi les modalités de cette pression accrue.",
+          "summary": "Le secrétaire américain au Trésor, Scott Bessent, a affirmé la volonté des Etats-Unis de faire « s’effondrer le régime » iranien par de nouvelles sanctions. Il doit préciser lundi les modalités de cette pression accrue.",
           "published": "2026-08-22T20:51:07+00:00"
         },
         {
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "En Guinée, le président Mamadi Doumbouya a limogé deux membres du gouvernement. La décision est tombée vendredi soir à la télévision nationale, à travers deux décrets. Les deux ministres limogés étaient considérés comme…",
           "published": "2026-08-22T20:47:12+00:00"
-        },
-        {
-          "title": "Le Togo confirme des poursuites contre deux réalisateurs français détenus",
-          "link": "https://www.france24.com/fr/afrique/20260822-le-togo-confirme-des-poursuites-contre-deux-r%C3%A9alisateurs-fran%C3%A7ais-d%C3%A9tenus",
-          "source": "France 24",
-          "summary": "Le gouvernement togolais a affirmé samedi que la justice disposait \"d'indices graves et concordants\" à l'encontre de Gaël Mocaër, Sebastian Perez Pezzani et Fred Vedomey, arrêtés le 27 juillet. Selon leur avocat, ils ne…",
-          "published": "2026-08-22T18:53:04+00:00"
-        },
-        {
-          "title": "La sépulture potentielle de d’Artagnan à Maastricht, une énigme historique qui vire à la guerre d’archéologues",
-          "link": "https://www.lemonde.fr/histoire/article/2026/08/22/la-sepulture-potentielle-de-d-artagnan-a-maastricht-une-enigme-historique-qui-vire-a-la-guerre-d-archeologues_6753576_4655323.html",
-          "source": "Le Monde",
-          "summary": "Un squelette, peut-être celui du célèbre mousquetaire, a été mis au jour par l’archéologue Wim Dijkman en mars dans une église de Maastricht, aux Pays-Bas. L’accusant de fouilles illégales, la municipalité lui a repris…",
-          "published": "2026-08-22T18:06:17+00:00"
-        },
-        {
-          "title": "Journalistes français détenus au Togo : Lomé affirme disposer d’« indices graves et concordants » à leur encontre",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/22/journalistes-francais-detenus-au-togo-lome-affirme-disposer-d-indices-graves-et-concordants-a-leur-encontre_6753474_3212.html",
-          "source": "Le Monde",
-          "summary": "Arrêtés à la fin de juillet alors qu’ils tournaient un documentaire dans le nord du pays, les deux réalisateurs français sont poursuivis pour de supposées fausses déclarations liées à leur visa.",
-          "published": "2026-08-22T16:11:45+00:00"
-        },
-        {
-          "title": "En Espagne, de violentes pluies font au moins onze blessés dans le nord-est du pays",
-          "link": "https://www.lemonde.fr/international/article/2026/08/22/en-espagne-de-violentes-pluies-font-au-moins-onze-blesses-dans-le-nord-est-du-pays_6753295_3211.html",
-          "source": "Le Monde",
-          "summary": "Certaines zones de la région de Catalogne ont enregistré plus de 100 litres de pluie par mètre carré dans la nuit de vendredi à samedi, selon le service météorologique local.",
-          "published": "2026-08-22T16:11:16+00:00"
-        },
-        {
-          "title": "\"Il n'y a plus de zones refuges\" : à quoi pourrait ressembler un été en France en 2050 ?",
-          "link": "https://www.france24.com/fr/france/20260822-ete-france-2050-projection-rechauffement-climatique-canicule-pas-de-zones-refuges",
-          "source": "France 24",
-          "summary": "Canicules plus fréquentes et plus longues, nuits tropicales, risque d’incendie accru : le changement climatique va modifier les conditions météorologiques en France dans les prochaines décennies. À l’horizon 2050,…",
-          "published": "2026-08-22T16:06:02+00:00"
-        },
-        {
-          "title": "Faute d'accord, le Canada subit de nouveaux droits de douane américains punitifs",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-faute-d-accord-le-canada-subit-de-nouveaux-droits-de-douane-am%C3%A9ricains-punitifs",
-          "source": "France 24",
-          "summary": "Faute d'accord de dernière minute, les nouveaux droits de douane de 50% voulus par Donald Trump contre un certain nombre de produits canadiens sont entrés en vigueur samedi 22 août, Ottawa promettant une riposte \"au…",
-          "published": "2026-08-22T16:00:15+00:00"
         }
       ]
     },
@@ -84,6 +84,20 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Trump, le vandale",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-08-23/trump-le-vandale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Ils nous considèrent vraiment comme un vassal. Les États-Unis de Trump nous voient comme les Belges voyaient le Congo au XIXe siècle : un territoire à piller.",
+          "published": "2026-08-23T04:00:00+00:00"
+        },
+        {
+          "title": "Chine | Un intérêt croissant pour la Lune",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-23/chine/un-interet-croissant-pour-la-lune.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le lancement de la mission lunaire chinoise Chang’e 7 est prévu cette semaine. L’alunisseur sera le premier à analyser des échantillons pour trouver de l’eau sur l’astre. Et la course sino-américaine s’embrase.…",
+          "published": "2026-08-23T04:00:00+00:00"
+        },
+        {
           "title": "Le CF Montréal livre un match nul au Galaxy",
           "link": "https://www.ledevoir.com/sports/1003457/cf-montreal-livre-match-nul-galaxy",
           "source": "Le Devoir",
@@ -91,7 +105,7 @@
           "published": "2026-08-23T02:00:48+00:00"
         },
         {
-          "title": "CF Montréal 2 – LA Galaxy 2 | « Il y a un manque de respect total »",
+          "title": "CF Montréal 2 – LA Galaxy 2 | « Il y a un manque de respect total »",
           "link": "https://www.lapresse.ca/sports/soccer/2026-08-22/cf-montreal-2-la-galaxy-2/il-y-a-un-manque-de-respect-total.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Philippe Eullaffroy avait différentes raisons de se réjouir, samedi soir. Alexis Sánchez a été accueilli en héros pour ses débuts au stade Saputo. Son équipe est revenue de l’arrière pour arracher un match nul de 2-2…",
@@ -138,20 +152,6 @@
           "source": "Le Devoir",
           "summary": "L’approche commerciale timide du Canada en Afrique risque de lui faire perdre du terrain, estime un expert.",
           "published": "2026-08-22T23:15:19+00:00"
-        },
-        {
-          "title": "Élections provinciales 2026 | Le Parti québécois présente deux nouvelles candidatures",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-22/elections-provinciales-2026/le-parti-quebecois-presente-deux-nouvelles-candidatures.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La guerre commerciale vient de connaître d’importants développements, mais cela n’empêche pas le Québec d’entrer bientôt en élections. Dans ce contexte, le Parti québécois (PQ) a présenté deux candidatures dans des…",
-          "published": "2026-08-22T22:45:08+00:00"
-        },
-        {
-          "title": "Le Chili va fermer son ambassade en Iran",
-          "link": "https://www.ledevoir.com/monde/ameriques/1003442/chili-va-fermer-ambassade-iran",
-          "source": "Le Devoir",
-          "summary": "José Antonio Kast maintiendra malgré tout les relations diplomatiques avec ce pays, établies en 1942.",
-          "published": "2026-08-22T22:17:08+00:00"
         }
       ]
     },
@@ -159,80 +159,108 @@
       "label": "France",
       "items": [
         {
-          "title": "Des débuts en fanfare pour Lens, la bonne opération pour Lyon… Les résultats de la première journée de Ligue 1",
-          "link": "https://www.lemonde.fr/sport/article/2026/08/23/des-debuts-en-fanfare-pour-lens-la-bonne-operation-pour-lyon-les-resultats-de-la-premiere-journee-de-ligue-1_6753679_3242.html",
-          "source": "Le Monde",
-          "summary": "Après avoir remporté le Trophée des champions face au PSG, les Sang et Or ont confirmé leurs ambitions avec un succès offensif contre Auxerre, tandis que l’OL a lancé sa saison en s’imposant à Toulouse, malgré un…",
-          "published": "2026-08-23T00:46:59+00:00"
+          "title": "L'Iran dit considérer comme un \"ennemi\" tout pays participant à la \"guerre économique\" des Etats-Unis",
+          "link": "https://www.franceinfo.fr/monde/moyen-orient/l-iran-dit-considerer-comme-un-ennemi-tout-pays-participant-a-la-guerre-economique-de-washington_8158070.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Six mois après le début de la guerre, le secrétaire américain au Trésor, Scott Bessent, a prévenu que Washington ferait \"s'effondrer le régime\" iranien avec les nouvelles sanctions économiques.",
+          "published": "2026-08-23T06:34:23+00:00"
         },
         {
-          "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
-          "link": "https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html",
+          "title": "« Je ne veux jamais te décevoir » : ces étonnantes lettres de dévouement que Natalie Harp a adressées à Donald Trump",
+          "link": "https://www.lefigaro.fr/international/je-ne-veux-jamais-te-decevoir-ces-etonnantes-lettres-de-devouement-que-natalie-harp-a-adressees-a-donald-trump-20260822",
+          "source": "Le Figaro",
+          "summary": "La presse américaine s’intéresse de près à cette collaboratrice du président américain depuis qu’un sénateur démocrate a insinué qu’elle était sa maîtresse.",
+          "published": "2026-08-23T06:31:17+00:00"
+        },
+        {
+          "title": "Ce château incroyable, près de Versailles, où le prince saoudien Mohammed Ben Salman a prévu de se rendre",
+          "link": "https://immobilier.lefigaro.fr/article/ce-chateau-incroyable-pres-de-versailles-ou-le-prince-saoudien-mohammed-ben-salman-a-prevu-de-se-rendre-20260823",
+          "source": "Le Figaro",
+          "summary": "En visite officielle en France les 23 et 24 août, le prince saoudien fera peut-être un détour par le château de Louveciennes, dont il est propriétaire depuis 11 ans.",
+          "published": "2026-08-23T06:30:00+00:00"
+        },
+        {
+          "title": "Mark Carneye dénonce la « guerre » commerciale lancée par Donald Trump contre le Canada et s’inquiète de « menaces contre la langue française »",
+          "link": "https://www.lemonde.fr/international/article/2026/08/23/mark-carneye-denonce-la-guerre-commerciale-lancee-par-donald-trump-contre-le-canada-et-s-inquiete-de-menaces-contre-la-langue-francaise_6753507_3211.html",
           "source": "Le Monde",
           "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
-          "published": "2026-08-22T23:05:52+00:00"
+          "published": "2026-08-23T06:29:40+00:00"
         },
         {
-          "title": "Liga : le Real s’en sort, Mbappé décisif",
-          "link": "https://www.lefigaro.fr/sports/football/espagne/liga-le-real-s-en-sort-mbappe-decisif-20260822",
+          "title": "L'Iran exécute un homme en lien avec les manifestations antigouvernementales",
+          "link": "https://www.lefigaro.fr/international/l-iran-execute-un-homme-en-lien-avec-les-manifestations-antigouvernementales-20260823",
           "source": "Le Figaro",
-          "summary": "Les Madrilènes l’ont emporté grâce à un but signé Espi à la 90e minute ce samedi, sur le terrain de l’Espanyol.",
-          "published": "2026-08-22T22:10:34+00:00"
+          "summary": "les autorités iraniennes ont exécuté au moins 1.639 personnes l’an dernier, un record depuis 1989, selon l’ONG Iran Human Rights, basée en Norvège.",
+          "published": "2026-08-23T06:28:19+00:00"
         },
         {
-          "title": "Ligue 1 : les Manceaux rugissent, Fofana et Jørgensen scintillent, Nice soporifique... Les tops et flops du premier multiplex de la saison",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-les-monceaux-rugissent-fofana-et-joergensen-scintillent-nice-soporifique-les-tops-et-flops-du-premier-multiplex-de-la-saison-20260822",
+          "title": "«J’aime mon frère, mais nos étés dans cette résidence secondaire ne sont plus des vacances» : Lucie, 60 ans, songe à vendre la maison de famille",
+          "link": "https://immobilier.lefigaro.fr/article/j-aime-mon-frere-mais-nos-etes-dans-cette-residence-secondaire-ne-sont-plus-des-vacances-lucie-60-ans-songe-a-vendre-la-maison-de-famille-20260823",
           "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors du multiplex de la reprise du championnat, samedi soir, marqué par la victoire de Lyon à Toulouse (0-2), le nul spectaculaire entre Le Mans et…",
-          "published": "2026-08-22T21:54:00+00:00"
+          "summary": "TRÈS CHÈRE RÉSIDENCE SECONDAIRE - Construite en Sicile par un père très attaché à ses racines, la maison est désormais détenue en indivision par sa veuve et leurs quatre enfants. Les tensions se multiplient, au point…",
+          "published": "2026-08-23T06:25:05+00:00"
         },
         {
-          "title": "Présidentielle 2027: Édouard Philippe envisage un rassemblement de la droite et du centre entre «novembre et février»",
-          "link": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier-20260822",
-          "source": "Le Figaro",
-          "summary": "Le président du parti Horizons s’est exprimé samedi sur BFMTV, en plein déplacement de campagne à Mayotte et La Réunion.",
-          "published": "2026-08-22T21:36:42+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles »",
-          "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-promet-des-attaques-beaucoup-plus-destructrices-contre-kiev-evoquant-des-mesures-de-represailles_6746952_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
-          "published": "2026-08-22T21:17:51+00:00"
-        },
-        {
-          "title": "Téhéran menace de représailles tout pays soutenant les sanctions économiques américaines",
-          "link": "https://www.lemonde.fr/international/article/2026/08/22/teheran-menace-de-represailles-tout-pays-soutenant-les-sanctions-economiques-americaines_6753646_3210.html",
-          "source": "Le Monde",
-          "summary": "Le secrétaire américain au Trésor, Scott Bessent, a affirmé la volonté des États-Unis de faire « s’effondrer le régime » iranien par de nouvelles sanctions. Il doit préciser lundi les modalités de cette pression accrue.",
-          "published": "2026-08-22T20:51:07+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : les patrons appellent à placer l’économie au cœur du débat",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/22/presidentielle-2027-les-patrons-appellent-a-placer-l-economie-au-c-ur-du-debat_6753645_3234.html",
-          "source": "Le Monde",
-          "summary": "Les Entrepreneurs (ex-CPME) et le Medef appellent à placer l’économie et la création de richesse au cœur du débat présidentiel, sur fond d’inquiétudes concernant la dette et les finances publiques.",
-          "published": "2026-08-22T20:35:20+00:00"
-        },
-        {
-          "title": "Fabien Roussel appelle à « se débarrasser » d’Emmanuel Macron et de sa politique",
-          "link": "https://www.lefigaro.fr/politique/fabien-roussel-appelle-a-se-debarrasser-d-emmanuel-macron-et-de-sa-politique-20260822",
-          "source": "Le Figaro",
-          "summary": "Le secrétaire national du Parti communiste a appelé «à une véritable révolution sociale et écologique contre cette oligarchie financière», depuis l’université d’été du PCF, à Toulouse.",
-          "published": "2026-08-22T20:34:21+00:00"
-        },
-        {
-          "title": "Stations balnéaires : les consommateurs de drogue traqués par les gendarmes",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/stations-balneaires-les-consommateurs-de-drogue-traques-par-les-gendarmes_8157704.html#xtor=RSS-3-[lestitres]",
+          "title": "NOS JOURS HEUREUX. \"C'est Noël avant l'heure\" : entre trouvailles et retrouvailles, les plaisirs simples d'une journée dans un vide-greniers estival",
+          "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-c-est-noel-avant-l-heure-entre-trouvailles-et-retrouvailles-les-plaisirs-simples-d-une-journee-dans-un-vide-greniers-estival_8150783.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Pendant les vacances, les gendarmes continuent de traquer les stupéfiants, alors que les saisies ont bondi de 25,9% depuis le début 2026. Les patrouilles se multiplient dans les stations balnéaires. Exemple à Deauville,…",
-          "published": "2026-08-22T20:22:28+00:00"
+          "summary": "Notre série \"Nos jours heureux\" explore les moments de bonheur et de joie pendant l'été. Dans cet épisode, le vide-greniers annuel organisé dans le parc du château du Vast (Manche) témoigne du plaisir de s'entourer des…",
+          "published": "2026-08-23T06:05:45+00:00"
+        },
+        {
+          "title": "Le prince héritier saoudien Mohammed Ben Salman en visite en France pour deux jours",
+          "link": "https://www.lefigaro.fr/international/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salman-les-23-et-24-aout-20260820",
+          "source": "Le Figaro",
+          "summary": "Le prince héritier d’Arabie saoudite est reçu aujourd’hui et demain par Emmanuel Macron «dans le cadre d’une visite officielle» en France, où seront notamment évoqués les «enjeux régionaux» sur fond de guerre au…",
+          "published": "2026-08-23T06:02:42+00:00"
+        },
+        {
+          "title": "La ville de Cannes équipe sa police municipale de détecteurs de protoxyde d'azote",
+          "link": "https://www.franceinfo.fr/sante/drogue-addictions/la-ville-de-cannes-equipe-sa-police-municipale-de-detecteurs-de-protoxyde-d-azote_8158046.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Ce gaz, souvent vendu sous la forme de cartouches ou de bonbonnes, est depuis longtemps détourné à des fins récréatives. Il est responsable de nombreux accidents routiers.",
+          "published": "2026-08-23T06:02:14+00:00"
+        },
+        {
+          "title": "L’Odyssée ou le périple agité des acteurs sur un navire viking",
+          "link": "https://www.lefigaro.fr/cinema/l-odyssee-ou-le-periple-agite-des-acteurs-sur-un-navire-viking-20260823",
+          "source": "Le Figaro",
+          "summary": "Les acteurs ont passé plusieurs mois en conditions réelles sur un drakkar, pour répondre aux exigences de Christopher Nolan. Une expérience marquante pour les comédiens, qui ont dû s’adapter à des conditions de tournage…",
+          "published": "2026-08-23T06:00:00+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Galaxy Z Flip8 chez Bouygues Telecom : prix, financement 36 mois et 400 € de remise",
+          "link": "https://www.clubic.com/actualite-626221-galaxy-z-flip8-chez-bouygues-telecom-prix-financement-36-mois-et-400-de-remise.html",
+          "source": "Clubic",
+          "summary": "Le Galaxy Z Flip8 débarque en France, et Bouygues Telecom l'accompagne d'une formule qui empile remise immédiate, financement étalé et reprise de votre ancien téléphone. De quoi faire baisser nettement la facture de…",
+          "published": "2026-08-23T06:30:00+00:00"
+        },
+        {
+          "title": "Une Analogue Pocket en or 24 carats pour jouer à la Game Boy : le luxe jusqu’à l’absurde ?",
+          "link": "https://www.clubic.com/actualite-625702-une-analogue-pocket-en-or-24-carats-pour-jouer-a-la-game-boy-le-luxe-jusqu-a-l-absurde.html",
+          "source": "Clubic",
+          "summary": "L’Analogue Pocket s’offre une nouvelle tenue qui risque de faire grincer quelques dents, avec une finition plaquée or 24 carats signée Supreme. Une console rétro déjà très chère, difficile à trouver et désormais…",
+          "published": "2026-08-23T06:03:00+00:00"
+        },
+        {
+          "title": "Amazon baisse le prix de ces 7 produits tech : jusqu’à -56% juste avant la rentrée",
+          "link": "https://www.clubic.com/bons-plans-626284-ventes-flash-amazon-prepare-la-rentree-avec-7-offres-tech-de-folie.html",
+          "source": "Clubic",
+          "summary": "La rentrée approche et c'est le moment idéal pour équiper la maison et la famille sans vider son budget. Amazon réunit en ce moment 7 ventes flash sur des produits tech incontournables, à saisir avant qu'elles ne…",
+          "published": "2026-08-23T06:00:00+00:00"
+        },
+        {
+          "title": "Noté 9/10, l’excellent TV 65″ Sony Bravia 7 II avec rétroéclairage True RGB s’autorise 200 € de réduction",
+          "link": "https://www.frandroid.com/bons-plans/3218479_note-9-10-lexcellent-tv-65-sony-bravia-7-ii-avec-retroeclairage-true-rgb-sautorise-200-e-de-reduction",
+          "source": "Frandroid",
+          "summary": "Avis aux cinéphiles exigeants et gamers assidus : le téléviseur Sony Bravia 7 II de 65 pouces, qui offre une sublime qualité d'image, est un peu moins cher qu'à son lancement : vous le trouverez à 1 799 euros au lieu de…",
+          "published": "2026-08-23T05:04:00+00:00"
+        },
         {
           "title": "Crise du vélo électrique, peur de la Chine au Sénat et simulation de panne géante : le récap Survoltés",
           "link": "https://www.frandroid.com/survoltes/3219127_crise-du-velo-electrique-peur-de-la-chine-au-senat-et-simulation-de-panne-geante-le-recap-survoltes",
@@ -288,34 +316,6 @@
           "source": "Clubic",
           "summary": "La rentrée impose souvent des arbitrages budgétaires serrés, mais certains achats plaisir méritent qu'on s'y attarde quand le prix dévisse autant. Voici ce qu'il faut savoir avant de craquer sur l'Insta360 X5, dont le…",
           "published": "2026-08-22T15:46:00+00:00"
-        },
-        {
-          "title": "Geely France : derrière la marque chinoise, un groupe qui possède déjà Volvo et Lotus",
-          "link": "https://www.clubic.com/actualite-624766-geely-france-derriere-la-marque-chinoise-un-groupe-qui-possede-deja-volvo-et-lotus.html",
-          "source": "Clubic",
-          "summary": "Geely commercialise ses propres modèles en France depuis le printemps 2026. Derrière ce nom encore peu identifié du grand public se trouve l'un des groupes automobiles les plus structurés au monde, déjà propriétaire de…",
-          "published": "2026-08-22T15:30:00+00:00"
-        },
-        {
-          "title": "On a trouvé le kit idéal pour débuter dans l’éclairage connecté à petit prix et c’est signé Philips Hue",
-          "link": "https://www.frandroid.com/bons-plans/3216255_on-a-trouve-le-kit-ideal-pour-debuter-dans-leclairage-connecte-a-petit-prix-et-cest-signe-philips-hue",
-          "source": "Frandroid",
-          "summary": "Le pack Philips Hue Essential regroupe trois ampoules White and Color et une bande LED Lightstrip, de quoi s'équiper en éclairage connecté d'un coup, le tout pour 69,99 euros au lieu de 109,99 euros sur le site Darty.",
-          "published": "2026-08-22T15:28:00+00:00"
-        },
-        {
-          "title": "De « Bordouse » à Bordeaux : cette carte de France montre les progrès de ChatGPT en un an et demi",
-          "link": "https://www.numerama.com/tech/2314897-de-bordouse-a-bordeaux-cette-carte-de-france-montre-les-progres-de-chatgpt-en-un-an-et-demi.html",
-          "source": "Numerama",
-          "summary": "En mars 2025, ChatGPT produisait une carte de France complètement délirante, remplie de villes imaginaires. Dix-sept mois plus tard, le résultat est méconnaissable -- mais pas 100 % convaincant. L'occasion de ressortir…",
-          "published": "2026-08-22T15:02:00+00:00"
-        },
-        {
-          "title": "Avengers Doomsday : quelle est la vraie histoire de Doctor Doom ?",
-          "link": "https://www.numerama.com/pop-culture/2314873-avengers-doomsday-mais-au-fait-cest-qui-le-docteur-fatalis-mechant-du-film.html",
-          "source": "Numerama",
-          "summary": "Alors que Robert Downey Jr. s'apprête à faire son grand retour dans le MCU sous le masque de Docteur Doom dans Avengers: Doomsday, le grand public se prépare à redécouvrir le souverain de la Latvérie. Bien loin des…",
-          "published": "2026-08-22T14:26:00+00:00"
         }
       ]
     }
