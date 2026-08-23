@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-08-23T15:20:38.625430+00:00",
+  "generated_at": "2026-08-23T18:26:44.539603+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Guinée : 30 morts dans l’éboulement d’une décharge à Conakry après de fortes pluies",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/23/guinee-30-morts-dans-l-eboulement-d-une-decharge-a-conakry-apres-de-fortes-pluies_6754473_3212.html",
+          "source": "Le Monde",
+          "summary": "Le gouvernement avait annoncé ces derniers jours des opérations d’expulsion et de sécurisation des emprises autour de la décharge à cause des risques d’éboulement.",
+          "published": "2026-08-23T17:45:29+00:00"
+        },
+        {
+          "title": "\"La victoire est possible\" : Mélenchon place sa rentrée sous le signe de l'écologie",
+          "link": "https://www.france24.com/fr/france/20260823-la-victoire-est-possible-m%C3%A9lenchon-place-sa-rentr%C3%A9e-sous-le-signe-de-l-%C3%A9cologie",
+          "source": "France 24",
+          "summary": "Le leader de la France insoumise a placé dimanche sa rentrée politique sous le signe de l'écologie, en proposant une \"conscription écologique\" pour lutter notamment contre les incendies qui ont ravagé le pays cet été.",
+          "published": "2026-08-23T16:48:12+00:00"
+        },
+        {
+          "title": "Pas d'élections en Ukraine : \"C'est compliqué sur le plan constitutionnel\"",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-%C3%A9lections-en-ukraine-c-est-compliqu%C3%A9-sur-le-plan-constitutionnel",
+          "source": "France 24",
+          "summary": "Le président Volodymyr Zelensky a estimé que des élections en temps de guerre seraient un danger pour l'Ukraine dans des propos rendus publics dimanche 23 août, après l'appel controversé de son ex-ministre de la Défense…",
+          "published": "2026-08-23T16:08:06+00:00"
+        },
+        {
+          "title": "Italie : deux touristes attaquées par un animal sauvage dans les Pouilles",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-italie-deux-touristes-attaqu%C3%A9es-par-un-animal-sauvage-dans-les-pouilles",
+          "source": "France 24",
+          "summary": "Une alerte au loup a été lancée en Italie. Jeudi 20 août, dans les Pouilles, deux touristes allemandes, une mère et sa fille, ont été attaquées par un animal sauvage près de leur hôtel. Un homme est intervenu pour…",
+          "published": "2026-08-23T16:06:00+00:00"
+        },
+        {
+          "title": "Naufrage en Méditerranée : 11 migrants sont morts au large de la Tunisie",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/23/naufrage-en-mediterranee-huit-migrants-sont-morts-au-large-de-la-tunisie_6754434_3212.html",
+          "source": "Le Monde",
+          "summary": "Un bateau transportant 15 migrants tunisiens a fait naufrage dans la nuit de vendredi à samedi. Une seule personne a été secourue et trois autres sont toujours portées disparues.",
+          "published": "2026-08-23T15:52:29+00:00"
+        },
+        {
+          "title": "Inde: le chef de la diplomatie en visite en Russie, le principal fournisseur de pétrole du pays",
+          "link": "https://www.rfi.fr/fr/monde/20260823-inde-le-chef-de-la-diplomatie-en-visite-en-russie-le-principal-fournisseur-de-p%C3%A9trole-du-pays",
+          "source": "RFI",
+          "summary": "Le ministre indien des Affaires étrangères, Subrahmanyam Jaishankar, est arrivé à Moscou ce dimanche 23 août 2026 pour une visite de deux jours. Il va coprésider les travaux de la commission bilatérale sur le commerce.…",
+          "published": "2026-08-23T15:36:29+00:00"
+        },
         {
           "title": "France : le risque de reprise des incendies plane toujours",
           "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-france-le-risque-de-reprise-des-incendies-plane-toujours",
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "Au Brésil, la campagne présidentielle bat son plein. Lula et le fils de Jair Bolsonaro, Flávio, se sont livrés un duel à distance en rassemblant leurs soutiens, avec une illustration de l'un des enjeux de cette campagne…",
           "published": "2026-08-23T14:59:23+00:00"
-        },
-        {
-          "title": "Guerre au Moyen-Orient : un nouvel intérêt pour la route maritime de l'Arctique",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-guerre-au-moyen-orient-un-nouvel-int%C3%A9r%C3%AAt-pour-la-route-maritime-de-l-arctique",
-          "source": "France 24",
-          "summary": "Un porte-conteneurs sud-coréen est parti samedi 22 août pour l'Europe par l'Arctique, dernier exemple en date du nouvel intérêt suscité par cette route maritime, alors que dure le blocage du trafic au Moyen-Orient en…",
-          "published": "2026-08-23T14:47:54+00:00"
-        },
-        {
-          "title": "Le record d'Usain Bolt battu par des athlètes humanoïdes aux World Robot Games à Pékin",
-          "link": "https://www.france24.com/fr/asie-pacifique/20260823-le-record-d-usain-bolt-battu-par-des-athl%C3%A8tes-humano%C3%AFdes-aux-world-robot-games-%C3%A0-p%C3%A9kin",
-          "source": "France 24",
-          "summary": "Un robot chinois a battu samedi le record du 100 mètres de la légende jamaïcaine Usain Bolt, lors de la cérémonie d'ouverture des World Robot Gams à Pékin. Des dizaines d'humanoïdes sans visages et leurs opérateurs…",
-          "published": "2026-08-23T14:38:24+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : la crainte d'une gauche trop morcelée",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-pr%C3%A9sidentielle-2027-la-crainte-d-une-gauche-trop-morcel%C3%A9e",
-          "source": "France 24",
-          "summary": "Quels candidats pour la gauche ? Raphaël Glucksmann devrait se prononcer ce dimanche. Marine Tondelier et Jean-Luc Mélenchon sont déjà candidats. Face à la multiplication des candidatures, des partisans ont exprimé leur…",
-          "published": "2026-08-23T14:31:14+00:00"
-        },
-        {
-          "title": "Grèce : l’île d’Ithaque face à l’afflux de touristes après le film de Nolan",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-gr%C3%A8ce-l-%C3%AEle-d-ithaque-face-%C3%A0-l-afflux-de-touristes-apr%C3%A8s-le-film-de-nolan",
-          "source": "France 24",
-          "summary": "Depuis la sortie en juillet du film \"L’Odyssée\" de Christopher Nolan, le personnage d’Ulysse fait beaucoup parler de lui. Dans l’épopée homérique, son long périple s’achève lorsqu’il retrouve son île natale, Ithaque, en…",
-          "published": "2026-08-23T14:28:40+00:00"
-        },
-        {
-          "title": "Ukraine : des opposants politiques demandent des élections, Zelensky les rejette",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-ukraine-des-opposants-politiques-demandent-des-%C3%A9lections-zelensky-les-rejette",
-          "source": "France 24",
-          "summary": "Organiser ​des élections en Ukraine en temps de guerre, sans cessation majeure des hostilités, détruirait le pays en ​fracturant la société, a estimé le président Volodimir Zelensky devant des journalistes, sa première…",
-          "published": "2026-08-23T14:22:46+00:00"
-        },
-        {
-          "title": "Canicule : un été qui \"va laisser des traces dans la société française\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-canicule-un-%C3%A9t%C3%A9-qui-va-laisser-des-traces-dans-la-soci%C3%A9t%C3%A9-fran%C3%A7aise",
-          "source": "France 24",
-          "summary": "Si des températures plus supportables sont de retour, il n'est pas question d'oublier l'été que la France a vécu, le plus chaud jamais enregistré. \"Il y a eu des morts de la chaleur, de noyade, ça a eu un impact sur le…",
-          "published": "2026-08-23T14:20:41+00:00"
         }
       ]
     },
@@ -84,6 +84,27 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Face aux tarifs douaniers américains, les entreprises québécoises demandent plus que des prêts",
+          "link": "https://www.ledevoir.com/economie/1003484/face-tarifs-douaniers-americains-entreprises-quebecoises-demandent-plus-prets",
+          "source": "Le Devoir",
+          "summary": "Québec a annoncé samedi deux programmes d’aide aux entreprises touchées par les nouveaux droits de douane.",
+          "published": "2026-08-23T17:00:00+00:00"
+        },
+        {
+          "title": "Repas payés par l’employeur | Des tickets-restaurant pour ramener les clients à table",
+          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-23/repas-payes-par-l-employeur/des-tickets-restaurant-pour-ramener-les-clients-a-table.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des tickets-restaurant pour relancer l’industrie et stimuler l’achalandage. Inspirée par la France, l’Association Restauration Québec (ARQ) souhaiterait que cette mesure, qui permet aux entreprises de régler la note de…",
+          "published": "2026-08-23T16:00:00+00:00"
+        },
+        {
+          "title": "À surveiller dans le monde des affaires au Canada cette semaine",
+          "link": "https://www.ledevoir.com/economie/1003475/surveiller-monde-affaires-canada-cette-semaine",
+          "source": "Le Devoir",
+          "summary": "Cinq éléments à surveiller, de la convention collective des agents de bord de WestJet aux résultats des banques.",
+          "published": "2026-08-23T15:45:00+00:00"
+        },
+        {
           "title": "Montérégie | Un ado en scooter est heurté durant la nuit et abandonné",
           "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-23/monteregie/un-ado-en-scooter-est-heurte-durant-la-nuit-et-abandonne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -91,11 +112,11 @@
           "published": "2026-08-23T15:18:07+00:00"
         },
         {
-          "title": "Droits de douane  | Les conservateurs veulent qu’Ottawa divulgue l’accord rejeté",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-23/droits-de-douane/les-conservateurs-veulent-qu-ottawa-divulgue-l-accord-rejete.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les conservateurs fédéraux demandent au gouvernement de divulguer tous les détails de l’accord commercial avec les États-Unis rejeté par le Canada, vendredi.",
-          "published": "2026-08-23T15:10:50+00:00"
+          "title": "Viser juste",
+          "link": "https://www.ledevoir.com/opinion/chroniques/1003472/viser-juste",
+          "source": "Le Devoir",
+          "summary": "L’application de contre-tarifs est une mauvaise stratégie, et mieux vaudrait des actions ciblées.",
+          "published": "2026-08-23T14:55:00+00:00"
         },
         {
           "title": "«Ça suffit !», peste Trump contre le Canada",
@@ -131,27 +152,6 @@
           "source": "La Presse",
           "summary": "Le Parti québécois grossit son équipe économique et recrute le PDG de Montréal International, Stéphane Paquet, qui portera les couleurs de la formation politique dans Pointe-aux-Trembles, a appris La Presse.",
           "published": "2026-08-23T13:18:24+00:00"
-        },
-        {
-          "title": "Des élections seraient «un tsunami» qui «fracturerait l’Ukraine», dit Zelensky",
-          "link": "https://www.ledevoir.com/monde/europe/1003460/elections-seraient-tsunami-fracturerait-ukraine-dit-zelensky",
-          "source": "Le Devoir",
-          "summary": "Le président ukrainien répondant à l’appel controversé de son ex-ministre de la Défense à tenir un scrutin.",
-          "published": "2026-08-23T12:25:00+00:00"
-        },
-        {
-          "title": "Conflit au Moyen-Orient | Le président iranien admet que le pays traverse des difficultés",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-23/conflit-au-moyen-orient/le-president-iranien-admet-que-le-pays-traverse-des-difficultes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le président iranien Massoud Pezeshkian a reconnu dimanche que la société iranienne traversait « de nombreuses difficultés », alors que les États-Unis cherchent à accentuer la pression sur l’économie iranienne par une…",
-          "published": "2026-08-23T12:24:17+00:00"
-        },
-        {
-          "title": "Train de vie | Prendre sa retraite à 55 ans, sans CELI ?",
-          "link": "https://www.lapresse.ca/affaires/finances-personnelles/2026-08-23/train-de-vie/prendre-sa-retraite-a-55-ans-sans-celi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Chantal*, 52 ans, a la garde partagée d’un adolescent et se demande si elle a assez d’économies pour prendre une retraite anticipée. Mais surtout, elle aimerait savoir si son argent se retrouve dans les bons véhicules…",
-          "published": "2026-08-23T12:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,150 @@
       "label": "France",
       "items": [
         {
-          "title": "La situation de Volkswagen est «plus que critique», admet son PDG Oliver Blume",
-          "link": "https://www.lefigaro.fr/societes/la-situation-de-volkswagen-est-plus-que-critique-admet-son-pdg-oliver-blume-20260823",
-          "source": "Le Figaro",
-          "summary": "Oliver Blume a reconnu que Volkswagen et l’ensemble de l’industrie automobile allemande traversaient «la plus grande tourmente de leur histoire», en raison d’une conjoncture mondiale défavorable et de la concurrence…",
-          "published": "2026-08-23T15:14:07+00:00"
-        },
-        {
-          "title": "Guerre commerciale entre le Canada et les Etats-Unis : Mark Carney tient tête à Donald Trump",
-          "link": "https://www.liberation.fr/international/amerique/guerre-commerciale-entre-le-canada-et-les-etats-unis-mark-carney-tient-tete-a-donald-trump-20260823_P7IDZUHQKZAAHMSMFSQQ77V6TA/",
+          "title": "Dans le Val-de-Marne, un homme soupçonné d’avoir tué sa mère placé en garde à vue",
+          "link": "https://www.liberation.fr/societe/police-justice/dans-le-val-de-marne-un-homme-soupconne-davoir-tue-sa-mere-place-en-garde-a-vue-20260823_35WQCR3CPFHWJNZICMV3NFROVE/",
           "source": "Liberation",
-          "summary": "Le Premier ministre a interrompu les négociations menées avec les Etats-Unis, dénonçant des exigences «inacceptables». Face à l’entrée en vigueur de nouveaux droits de douane, il a annoncé des représailles tarifaires…",
-          "published": "2026-08-23T15:10:06+00:00"
+          "summary": "Les policiers ont découvert ce dimanche le corps d’une femme présentant une plaie à la gorge. Son fils a été interpellé et un couteau de cuisine trouvé dans sa chambre, selon le parquet de Créteil.",
+          "published": "2026-08-23T18:03:10+00:00"
         },
         {
-          "title": "Formule 1 : Lando Norris s’offre une deuxième victoire d’affilée, Kimi Antonelli 2e d’une dernière mouvementée aux Pays-Bas",
-          "link": "https://www.lefigaro.fr/sports/formule-1/formule-1-lando-norris-s-offre-une-deuxieme-victoire-d-affilee-kimi-antonelli-deuxieme-d-une-derniere-mouvementee-aux-pays-bas-20260823",
-          "source": "Le Figaro",
-          "summary": "Parti en pole, le Britannique est sorti vainqueur devant Antonelli d’une course mouvementée à Zandvoort, où Max Verstappen est sorti au premier tour.",
-          "published": "2026-08-23T15:09:15+00:00"
-        },
-        {
-          "title": "Californie : un touriste français décède dans la Vallée de la Mort, piégé par la chaleur extrême",
-          "link": "https://www.lefigaro.fr/international/californie-un-touriste-francais-decede-dans-la-vallee-de-la-mort-piege-par-la-chaleur-extreme-20260823",
-          "source": "Le Figaro",
-          "summary": "Pierre Michel Formosa, un touriste français âgé de 68 ans, est décédé, ont annoncé les autorités américaines. Il a été pris au piège dans le désert de Mojave, après une panne de voiture, sous une température d’environ…",
-          "published": "2026-08-23T15:08:15+00:00"
-        },
-        {
-          "title": "La Russie confirme le départ de son ambassadeur à Londres",
-          "link": "https://www.lefigaro.fr/international/la-russie-confirme-le-depart-de-son-ambassadeur-a-londres-20260823",
-          "source": "Le Figaro",
-          "summary": "Un porte-parole de l’ambassade accuse le Royaume-Uni d’avoir choisi «le chemin de la confrontation» avec la Russie, sur fond de soutien britannique à l’Ukraine.",
-          "published": "2026-08-23T15:07:38+00:00"
-        },
-        {
-          "title": "En Suède, 10 000 personnes manifestent pour le climat à l’approche des élections législatives",
-          "link": "https://www.liberation.fr/international/europe/en-suede-10-000-personnes-manifestent-pour-le-climat-a-lapproche-des-elections-legislatives-20260823_JB64SJYT2RD5RNPDUBE6Z5WD4I/",
+          "title": "Les Bleus triomphent de l’Angleterre et sont sacrés champions d’Europe de cécifoot",
+          "link": "https://www.liberation.fr/sports/football/les-bleus-triomphent-de-langleterre-et-sont-sacres-champions-deurope-de-cecifoot-20260823_ZRD35KDNWNC2LED2O7IVFQP3L4/",
           "source": "Liberation",
-          "summary": "Un peu plus de 200 ONG et associations se sont mobilisées ce dimanche à Stockholm, à trois semaines du scrutin du 13 septembre. Au pouvoir depuis 2022, la droite est donnée perdante dans les sondages.",
-          "published": "2026-08-23T15:07:13+00:00"
+          "summary": "L’équipe de France s’est imposée 1 but à 0 ce dimanche à Strasbourg, portée par un Frédéric Villeroux des grands jours. Un quatrième sacre européen, qui s’ajoute à une victoire aux Jeux paralympiques de Paris en 2024.",
+          "published": "2026-08-23T17:52:44+00:00"
         },
         {
-          "title": "«L’économie pour les nuls» : Pigasse et Bardella s’écharpent sur l’annulation de la dette proposée par Mélenchon",
-          "link": "https://www.lefigaro.fr/conjoncture/l-economie-pour-les-nuls-pigasse-et-bardella-s-echarpent-sur-l-annulation-de-la-dette-proposee-par-melenchon-20260823",
+          "title": "Ukraine : après un été politiquement agité, Zelensky tente de reprendre la main",
+          "link": "https://www.liberation.fr/international/europe/ukraine-apres-un-ete-politiquement-agite-zelensky-tente-de-reprendre-la-main-20260823_SLJJNSSLARDGRORZMEQVWLGOQE/",
+          "source": "Liberation",
+          "summary": "Le président ukrainien profite des célébrations du 35e anniversaire de l’indépendance, ce lundi 24 août, pour retrouver un second souffle au niveau international et solder les dossiers de politique intérieure qui ont…",
+          "published": "2026-08-23T17:52:22+00:00"
+        },
+        {
+          "title": "Euro de Cécifoot : grâce à un but venu d’ailleurs de Frédéric Villeroux, les Bleus conservent leur titre face à l'Angleterre",
+          "link": "https://www.lefigaro.fr/sports/football/euro-de-cecifoot-performance-historique-des-bleus-qui-conservent-leur-titre-face-a-l-angleterre-20260823",
           "source": "Le Figaro",
-          "summary": "En écho aux propos du candidat LFI à la présidentielle, Matthieu Pigasse a affirmé que la dette française détenue par la BCE pouvait être annulée. Le patron du RN lui a répondu sur X, estimant qu’il racontait «n’importe…",
-          "published": "2026-08-23T14:54:38+00:00"
+          "summary": "L’équipe de France de Cécifoot a remporté l’Euro ce dimanche à Strasbourg face à l’Angleterre. Le phénoménal Frédéric Villeroux a inscrit le seul but de la rencontre.",
+          "published": "2026-08-23T17:47:39+00:00"
         },
         {
-          "title": "Ligue 1 : première réussie pour Davide Ancelotti et le Losc à Angers, Olivier Giroud buteur",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-premiere-reussie-pour-davide-ancelotti-et-le-losc-a-angers-olivier-giroud-buteur-20260823",
-          "source": "Le Figaro",
-          "summary": "Lille s’est imposé sur la pelouse d’Angers, ce dimanche, pour le compte de la première journée de Ligue 1. Capitaine, Olivier Giroud a inscrit le premier but de la partie.",
-          "published": "2026-08-23T14:53:15+00:00"
-        },
-        {
-          "title": "Météo : orages, grêle, rafales et pluies intenses attendues ce lundi 24 août",
-          "link": "https://www.lefigaro.fr/meteo/meteo-orages-grele-rafales-et-pluies-intenses-attendues-ce-lundi-24-aout-20260823",
-          "source": "Le Figaro",
-          "summary": "Le sud et le centre de la France seront concernés par ces phénomènes orageux. La Chaîne Météo a placé 15 départements en alerte orange.",
-          "published": "2026-08-23T14:52:09+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : \"Qu'il fasse pour le mieux\", déclare Jean-Luc Mélenchon à propos de Raphaël Glucksmann, qui devrait se déclarer candidat",
-          "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-[lestitres]",
+          "title": "Au moins trente morts et une vingtaine de blessés dans l'éboulement d'une décharge en Guinée",
+          "link": "https://www.franceinfo.fr/monde/afrique/guinee/au-moins-trente-morts-et-une-vingtaine-de-blesses-dans-l-eboulement-d-une-decharge-en-guinee_8158778.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "\"Six mois avant [l'élection], on ne sait pas quelle est votre ligne ni quel est votre candidat\", a ironisé le chef de file de La France insoumise à propos des sociaux-démocrates, dont les relations avec le leader…",
-          "published": "2026-08-23T14:46:28+00:00"
+          "summary": "Le gouvernement affirme que \"d'importants moyens matériels et humains ont été mobilisés pour rechercher d'éventuelles personnes encore ensevelies, secourir les victimes et procéder au dégagement des corps\".",
+          "published": "2026-08-23T17:46:39+00:00"
+        },
+        {
+          "title": "Au cœur du Jura, l’inquiétante trajectoire d’un réfugié yazidi persécuté par Daech et converti à l’islam radical",
+          "link": "https://www.lefigaro.fr/actualite-france/au-coeur-du-jura-l-inquietante-trajectoire-d-un-refugie-yazidi-persecute-par-daech-et-converti-a-l-islam-radical-20260823",
+          "source": "Le Figaro",
+          "summary": "INFO LE FIGARO - Extrémisme, prosélytisme, violences… Arrivé en France en 2019 après avoir fui l’Irak avec sa famille, ce jeune homme de 20 ans est aujourd’hui visé par une procédure d’expulsion.",
+          "published": "2026-08-23T17:45:57+00:00"
+        },
+        {
+          "title": "«Les préfets n’ont pas de leçons d’impartialité à recevoir»: passe d'armes entre Jean-Luc Mélenchon et Laurent Nuñez",
+          "link": "https://www.lefigaro.fr/politique/les-prefets-n-ont-pas-de-lecons-d-impartialite-a-recevoir-passe-d-armes-entre-jean-luc-melenchon-et-laurent-nunez-20260823",
+          "source": "Le Figaro",
+          "summary": "Le patron de la France insoumise (LFI) a mis en cause les préfets à l’occasion des universités d’été de son mouvement. Plusieurs d’entre eux ont déposé plainte contre des membres de LFI ces derniers mois.",
+          "published": "2026-08-23T17:39:56+00:00"
+        },
+        {
+          "title": "«Je promets assez peu et j’essaye de réfléchir beaucoup» : à Mayotte et La Réunion, Édouard Philippe revendique sérieux et sobriété",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/je-promets-assez-peu-et-j-essaye-de-reflechir-beaucoup-a-mayotte-et-la-reunion-edouard-philippe-revendique-serieux-et-sobriete-20260823",
+          "source": "Le Figaro",
+          "summary": "REPORTAGE - En multipliant les séquences et les rencontres dans l’archipel mahorais puis sur l’île de La Réunion, le maire du Havre donne le ton de sa campagne, sans vouloir multiplier les promesses.",
+          "published": "2026-08-23T17:35:01+00:00"
+        },
+        {
+          "title": "Ebola en RDC : cent jours d’une épidémie hors de contrôle",
+          "link": "https://www.liberation.fr/international/afrique/ebola-en-rdc-cent-jours-dune-epidemie-hors-de-controle-20260823_6G4WLXS5IREHDBIPT4CYJ7AKYI/",
+          "source": "Liberation",
+          "summary": "La 17e épidémie de cette fièvre hémorragique infectieuse se propage depuis la mi-mai dans l’est de la république démocratique du Congo à une vitesse sans précédent. Avec un taux de létalité de 50 %, elle a déjà fait…",
+          "published": "2026-08-23T17:30:59+00:00"
+        },
+        {
+          "title": "Championne paralympique en titre, l'équipe de France de cécifoot conserve son titre de championne d'Europe à domicile en battant l'Angleterre",
+          "link": "https://www.franceinfo.fr/sports/championne-paralympique-en-titre-l-equipe-de-france-de-cecifoot-conserve-son-titre-de-championne-d-europe-a-domicile-en-battant-l-angleterre_8158736.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le capitaine des Bleus Frédéric Villeroux a ouvert le score dimanche, à Strasbourg. Les Tricolores comptent désormais quatre titres européens à leur palmarès.",
+          "published": "2026-08-23T17:26:38+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Test JMGO N3 Ultimate 4K : le vidéoprojecteur triple laser qui veut simplifier votre installation",
+          "link": "https://www.frandroid.com/marques/jmgo/3218823_test-jmgo-n3-ultimate-4k-le-videoprojecteur-triple-laser-qui-veut-simplifier-votre-installation",
+          "source": "Frandroid",
+          "summary": "Avec son système optique 3-en-1 associant zoom motorisé, lens shift étendu et balancelle pilotée par IA, le JMGO N3 Ultimate 4K promet une installation sans contraintes. Reste à savoir si cette liberté de placement se…",
+          "published": "2026-08-23T18:00:00+00:00"
+        },
+        {
+          "title": "Les impôts piégés par un compte volé, un agent IA pirate des tickets Jira et des versions obscures de Qwen disent oui à tout : on vous raconte la semaine Cyberguerre",
+          "link": "https://www.numerama.com/cyberguerre/2316139-les-impots-pieges-par-un-compte-vole-un-agent-ia-pirate-des-tickets-jira-et-des-versions-obscures-de-qwen-disent-oui-a-tout-on-vous-raconte-la-semaine-cyberguerre.html",
+          "source": "Numerama",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : une fuite de données qui touche près de 700 000 Français, un agent IA qui a exploité une faille par lui-même jusqu'à s'infiltrer dans les outils internes de…",
+          "published": "2026-08-23T17:32:00+00:00"
+        },
+        {
+          "title": "Prix cassé chez Boulanger pour ce robot-aspirateur 3-en-1 muni de sa station de lavage",
+          "link": "https://www.frandroid.com/bons-plans/3218611_prix-casse-chez-boulanger-pour-ce-robot-aspirateur-3-en-1-muni-de-sa-station-de-lavage",
+          "source": "Frandroid",
+          "summary": "Le Roborock Qrevo S ProX offre un nettoyage complet de votre intérieur sans abîmer les objets laissés au sol grâce à sa caméra intelligente. Alors que la rentrée approche, il voit son prix chuter à 369 euros.",
+          "published": "2026-08-23T17:14:00+00:00"
+        },
+        {
+          "title": "Souris gamer pas cher : top des meilleures souris gaming à moins de 50 € en 2026",
+          "link": "https://www.frandroid.com/guide-dachat/2999619_meilleures-souris-gamer-pas-cheres-pour-quel-modele-opter-a-moins-de-50-euros",
+          "source": "Frandroid",
+          "summary": "La souris gaming est l'accessoire indispensable de tous les joueurs PC, qu'ils soient sur une machine fixe ou un PC portable gaming. Mais les prix grimpent vite... bienvenue sur notre sélection maison des meilleures…",
+          "published": "2026-08-23T17:00:12+00:00"
+        },
+        {
+          "title": "82% de réduction chez CyberGhost VPN : la formule 2 ans repasse sous les 2,20 €/mois",
+          "link": "https://www.clubic.com/bons-plans-626281-de-reduction-chez-cyberghost-vpn-la-formule-2-ans-repasse-sous-les-2-20-mois.html",
+          "source": "Clubic",
+          "summary": "La rentrée ne rime pas seulement avec cartables et nouveaux emplois du temps : c'est aussi la période où l'on recommence à se connecter un peu partout, entre bureau, transports et réseaux Wi-Fi publics. CyberGhost VPN…",
+          "published": "2026-08-23T16:45:00+00:00"
+        },
+        {
+          "title": "De quelles « vies volées » Dr Doom parle-t-il dans la bande-annonce d’Avengers: Doomsday ?",
+          "link": "https://www.numerama.com/pop-culture/2314501-de-quelles-vies-volees-dr-doom-parle-t-il-dans-la-bande-annonce-davengers-doomsday.html",
+          "source": "Numerama",
+          "summary": "Dans la deuxième bande-annonce d'Avengers: Doomsday, le grand méchant Dr Doom évoque des « vies volées ». Elles sont semble-t-il liées à tous les choix ayant permis à des personnages de revenir ou de survivre, alors…",
+          "published": "2026-08-23T16:30:00+00:00"
+        },
+        {
+          "title": "Vos conversations ChatGPT bientôt cachées derrière votre empreinte digitale ?",
+          "link": "https://www.clubic.com/actualite-626371-vos-conversations-chatgpt-bientot-cachees-derriere-votre-empreinte-digitale.html",
+          "source": "Clubic",
+          "summary": "OpenAI développerait une fonction pour verrouiller certaines conversations de ChatGPT par un code ou une empreinte digitale. Ces conversations disparaîtraient de l’historique et des résultats de recherche, sans être…",
+          "published": "2026-08-23T16:14:00+00:00"
+        },
+        {
+          "title": "Honor 600 vs Google Pixel 10a : comment choisir le meilleur smartphone milieu de gamme ?",
+          "link": "https://www.frandroid.com/versus/3120885_honor-600-vs-google-pixel-10a-comment-choisir-le-meilleur-smartphone-milieu-de-gamme",
+          "source": "Frandroid",
+          "summary": "Honor est très en forme sur le milieu de gamme cette année, et profite notamment de la paresse d'un Google qui se repose sur ses lauriers. Et si le Honor 600 était la nouvelle référence absolue sous les 550 euros ?",
+          "published": "2026-08-23T16:00:00+00:00"
+        },
+        {
+          "title": "Derniers jours du Back to School AliExpress : le robot piscine Seauto SAT 40 sous les 220€",
+          "link": "https://www.clubic.com/bons-plans-626269-derniers-jours-du-back-to-school-aliexpress-le-robot-piscine-seauto-sat-40-sous-les-220.html",
+          "source": "Clubic",
+          "summary": "L'opération Back to School d'AliExpress entre dans sa dernière ligne droite, mais certains bons plans liés à l'entretien de la piscine méritent encore un coup d'œil avant la fermeture progressive de la saison de…",
+          "published": "2026-08-23T15:50:00+00:00"
+        },
+        {
+          "title": "Arlo Pro 6 : ce pack de 2 caméras de surveillance dopées à l’IA avec panneaux solaires chute sous les 300 €",
+          "link": "https://www.frandroid.com/bons-plans/3217193_arlo-pro-6-ce-pack-de-2-cameras-de-surveillance-dopees-a-lia-avec-panneaux-solaires-chute-sous-les-300-e",
+          "source": "Frandroid",
+          "summary": "Si vous souhaitez sécuriser efficacement votre domicile avant de partir en vacances, le pack Arlo comprenant deux récentes caméras connectées Pro 6 et deux panneaux solaires pourrait bien vous rassurer. Actuellement,…",
+          "published": "2026-08-23T15:21:00+00:00"
+        },
         {
           "title": "Tesla Semi en Europe : le camion électrique de Tesla bientôt lancé ?",
           "link": "https://www.clubic.com/actualite-626167-tesla-semi-en-europe-le-camion-electrique-de-tesla-bientot-lance.html",
@@ -246,76 +316,6 @@
           "source": "Clubic",
           "summary": "La rentrée s'accompagne cette année d'une belle salve de promotions chez AliExpress, entre codes promo et colis expédiés depuis la France. Le Honor Magic8 Pro, flagship passé entre les mains de la rédaction Clubic, y…",
           "published": "2026-08-23T14:50:00+00:00"
-        },
-        {
-          "title": "En Chine, une immense campagne de rappel de 7 millions de véhicules débute. Toutes les grandes marques sont concernées",
-          "link": "https://www.clubic.com/actualite-626374-en-chine-une-immense-campagne-de-rappel-de-7-millions-de-vehicules-debute-toutes-les-grandes-marques-sont-concernees.html",
-          "source": "Clubic",
-          "summary": "La Chine vient de valider le plus vaste rappel automobile de son histoire, sept millions de véhicules électriques. Tesla en représente à lui seul plus des trois quarts, entre deux défauts.",
-          "published": "2026-08-23T14:13:00+00:00"
-        },
-        {
-          "title": "On a classé les films Pirates des Caraïbes, du pire au meilleur",
-          "link": "https://www.numerama.com/pop-culture/2314853-on-a-classe-les-films-pirates-des-caraibes-du-pire-au-meilleur.html",
-          "source": "Numerama",
-          "summary": "Cela fait un petit moment que l'on entend parler d'un sixième film Pirates des Caraïbes. Il se murmure même que Johnny Depp pourrait revenir dans son rôle iconique de Jack Sparrow. En attendant des éléments plus…",
-          "published": "2026-08-23T14:00:00+00:00"
-        },
-        {
-          "title": "J’ai testé la Volkswagen ID.3 Neo : la Golf électrique se métamorphose et ça lui fait un bien fou",
-          "link": "https://www.frandroid.com/marques/volkswagen/3200897_jai-teste-la-volkswagen-id-3-neo-la-golf-electrique-se-metamorphose-et-ca-lui-fait-un-bien-fou",
-          "source": "Frandroid",
-          "summary": "Première Volkswagen 100 % électrique, l’ID.3 a souffert d’un lancement raté. Après une première mise à jour en 2023, cette voiture électrique se métamorphose en 2026 et change même de nom : voici la VW ID.3 Neo. Design,…",
-          "published": "2026-08-23T14:00:00+00:00"
-        },
-        {
-          "title": "Galaxy S27 Ultra : Samsung préparerait un écran capable de réparer ses rayures",
-          "link": "https://www.clubic.com/actualite-626368-galaxy-s27-ultra-samsung-preparerait-un-ecran-capable-de-reparer-ses-rayures.html",
-          "source": "Clubic",
-          "summary": "Samsung pourrait bientôt s’attaquer à l’un des petits désagréments qui accompagnent les smartphones : les micro-rayures. Avec Corning, le constructeur travaillerait sur un revêtement Gorilla Armor capable de les…",
-          "published": "2026-08-23T13:54:00+00:00"
-        },
-        {
-          "title": "Les data centers s'invitent dans les prochaines élections américaines des midterms",
-          "link": "https://www.clubic.com/actualite-626365-les-data-centers-s-invitent-dans-les-prochains-elections-americaines-des-midterms.html",
-          "source": "Clubic",
-          "summary": "Dans quelques mois, c'est les élections des midterms aux États-Unis. Des élections dont le destin pourraient être aussi décidé par le sujet des data centers.",
-          "published": "2026-08-23T13:38:00+00:00"
-        },
-        {
-          "title": "Darty prépare la rentrée en bradant ce laptop OLED avec Ryzen 5 et 16 Go RAM",
-          "link": "https://www.frandroid.com/bons-plans/3218991_darty-prepare-la-rentree-en-bradant-ce-laptop-oled-avec-ryzen-5-et-16-go-ram",
-          "source": "Frandroid",
-          "summary": "L'Acer Aspire 16 se présente avec une dalle OLED de 16 pouces et une autonomie de 28 heures en streaming vidéo. C'est le moment de l'acquérir pour moins de 850 euros grâce à cette offre de Darty.",
-          "published": "2026-08-23T13:27:00+00:00"
-        },
-        {
-          "title": "Un robot humanoïde chinois bat le record d’Usain Bolt sur 100 mètres",
-          "link": "https://www.clubic.com/actualite-626362-un-robot-humanoide-chinois-bat-le-record-d-usain-bolt-sur-100-metres.html",
-          "source": "Clubic",
-          "summary": "Deux robots humanoïdes chinois, Lightning et Tiangong Ultra, ont couru le 100 mètres plus vite qu’Usain Bolt, lors de la deuxième édition des Jeux mondiaux des robots humanoïdes, à Pékin. Le record du Jamaïcain, vieux…",
-          "published": "2026-08-23T13:14:00+00:00"
-        },
-        {
-          "title": "Apple a payé l'an dernier 40% de ses impôts mondiaux dans ce seul pays européen",
-          "link": "https://www.clubic.com/actualite-626353-apple-a-paye-l-an-dernier-40-de-ses-impots-mondiaux-dans-ce-seul-pays-europeen.html",
-          "source": "Clubic",
-          "summary": "Apple opère à travers l'ensemble de la planète. Et pourtant, un seul pays européen capte un peu moins de la moitié des impôts que la firme de Cupertino a payé en 2025 !",
-          "published": "2026-08-23T12:32:00+00:00"
-        },
-        {
-          "title": "Le jour où une mission martienne s’est écrasée à cause du système métrique",
-          "link": "https://www.numerama.com/sciences/2311639-le-jour-ou-une-mission-martienne-sest-ecrasee-a-cause-du-systeme-metrique.html",
-          "source": "Numerama",
-          "summary": "Voir une mission spatiale échouer n'est pas forcément rare, mais lorsque cela est dû à de petites erreurs largement évitables, c'est un petit peu plus énervant. C'est le cas de Mars Climate Orbiter. Un projet de la Nasa…",
-          "published": "2026-08-23T12:31:00+00:00"
-        },
-        {
-          "title": "Nouvelle autonomie, nouveaux coloris, nouvelles jantes... Une pluie de nouveautés pour la R5 électrique en septembre",
-          "link": "https://www.clubic.com/actualite-626173-nouvelle-autonomie-nouveaux-coloris-nouvelles-jantes-une-pluie-de-nouveautes-pour-la-r5-electrique-en-septembre.html",
-          "source": "Clubic",
-          "summary": "La Renault 5 E-Tech n’a pas l’intention de se reposer sur ses lauriers. À la rentrée, la citadine électrique devrait commencer à profiter de plusieurs évolutions, aussi bien techniques qu’esthétiques. De quoi continuer…",
-          "published": "2026-08-23T12:06:00+00:00"
         }
       ]
     }
