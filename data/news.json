@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-08-22T21:19:38.658619+00:00",
+  "generated_at": "2026-08-23T01:13:49.450311+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html",
+          "source": "Le Monde",
+          "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
+          "published": "2026-08-22T23:05:52+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles »",
+          "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-promet-des-attaques-beaucoup-plus-destructrices-contre-kiev-evoquant-des-mesures-de-represailles_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
+          "published": "2026-08-22T21:17:51+00:00"
+        },
         {
           "title": "Téhéran menace de représailles tout pays soutenant les sanctions économiques américaines",
           "link": "https://www.lemonde.fr/international/article/2026/08/22/teheran-menace-de-represailles-tout-pays-soutenant-les-sanctions-economiques-americaines_6753646_3210.html",
@@ -30,21 +44,7 @@
           "link": "https://www.lemonde.fr/histoire/article/2026/08/22/la-sepulture-potentielle-de-d-artagnan-a-maastricht-une-enigme-historique-qui-vire-a-la-guerre-d-archeologues_6753576_4655323.html",
           "source": "Le Monde",
           "summary": "Un squelette, peut-être celui du célèbre mousquetaire, a été mis au jour par l’archéologue Wim Dijkman en mars dans une église de Maastricht, aux Pays-Bas. L’accusant de fouilles illégales, la municipalité lui a repris…",
-          "published": "2026-08-22T18:06:19+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine assume l’intensification des frappes contre Kiev, qu’il accuse d’avoir ouvert la « boîte de Pandore », et promet des attaques « beaucoup plus destructrices »",
-          "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-assume-l-intensification-des-frappes-contre-kiev-qu-il-accuse-d-avoir-ouvert-la-boite-de-pandore-et-promet-des-attaques-beaucoup-plus-destructrices_6746952_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
-          "published": "2026-08-22T16:32:59+00:00"
-        },
-        {
-          "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
-          "link": "https://www.lemonde.fr/international/article/2026/08/22/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3210.html",
-          "source": "Le Monde",
-          "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
-          "published": "2026-08-22T16:19:54+00:00"
+          "published": "2026-08-22T18:06:17+00:00"
         },
         {
           "title": "Journalistes français détenus au Togo : Lomé affirme disposer d’« indices graves et concordants » à leur encontre",
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Carney devient le leader des insoumis face à Trump",
+          "link": "https://www.lapresse.ca/actualites/analyses/2026-08-22/carney-devient-le-leader-des-insoumis-face-a-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Depuis qu’il a fait le saut en politique, le premier ministre Mark Carney a fait sienne une formule bien connue au Québec : « Nous sommes maîtres chez nous. »",
+          "published": "2026-08-23T01:00:00+00:00"
+        },
+        {
+          "title": "Les Blue Jays de Toronto arrachent une victoire dans le Bronx",
+          "link": "https://www.ledevoir.com/sports/1003451/blue-jays-toronto-arrachent-victoire-bronx",
+          "source": "Le Devoir",
+          "summary": "Le lanceur Dylan Cease a accordé cinq buts sur balles au Yankee Stadium.",
+          "published": "2026-08-23T00:29:51+00:00"
+        },
+        {
+          "title": "Dépenser une fortune pour son animal vieillissant",
+          "link": "https://www.lapresse.ca/affaires/2026-08-22/depenser-une-fortune-pour-son-animal-vieillissant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Alors que Lucy vieillissait, ses analyses sanguines ont commencé à révéler des résultats anormaux.",
+          "published": "2026-08-23T00:20:27+00:00"
+        },
+        {
+          "title": "Paris et Londres sont appelés à faire respecter le droit dans les territoires palestiniens",
+          "link": "https://www.ledevoir.com/monde/europe/1003448/paris-londres-sont-appeles-faire-respecter-droit-territoires-palestiniens",
+          "source": "Le Devoir",
+          "summary": "102 anciens ambassadeurs européens appellent leurs pays respectifs à se mobiliser pour la cause palestinienne.",
+          "published": "2026-08-22T23:42:33+00:00"
+        },
+        {
+          "title": "Le Canada doit agir vite pour éviter d’être devancé sur le marché africain",
+          "link": "https://www.ledevoir.com/economie/1003445/canada-doit-agir-vite-eviter-etre-devance-marche-africain",
+          "source": "Le Devoir",
+          "summary": "L’approche commerciale timide du Canada en Afrique risque de lui faire perdre du terrain, estime un expert.",
+          "published": "2026-08-22T23:15:19+00:00"
+        },
+        {
+          "title": "Élections provinciales 2026 | Le Parti québécois présente deux candidatures fortes",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-22/elections-provinciales-2026/le-parti-quebecois-presente-deux-candidatures-fortes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La guerre commerciale vient de connaître d’importants développements, mais cela n’empêche pas le Québec d’entrer bientôt en élections. Dans ce contexte, le Parti québécois a présenté deux candidatures fortes dans des…",
+          "published": "2026-08-22T22:45:08+00:00"
+        },
+        {
+          "title": "Le Chili va fermer son ambassade en Iran",
+          "link": "https://www.ledevoir.com/monde/ameriques/1003442/chili-va-fermer-ambassade-iran",
+          "source": "Le Devoir",
+          "summary": "José Antonio Kast maintiendra malgré tout les relations diplomatiques avec ce pays, établies en 1942.",
+          "published": "2026-08-22T22:17:08+00:00"
+        },
+        {
+          "title": "Les cinq chefs des partis politiques provinciaux se sont rencontrés pour une réunion d’urgence",
+          "link": "https://www.ledevoir.com/politique/quebec/1003439/cinq-chefs-partis-politiques-provinciaux-sont-rencontres-reunion-urgence",
+          "source": "Le Devoir",
+          "summary": "Ils ont discuté des mesures de défense québécoises à l’offensive américaine proposée par la première ministre, Christine Fréchette.",
+          "published": "2026-08-22T21:26:00+00:00"
+        },
+        {
+          "title": "La Corée du Nord accuse le Japon de préparer une «guerre d’agression»",
+          "link": "https://www.ledevoir.com/monde/asie/1003436/coree-nord-accuse-japon-preparer-guerre-agression",
+          "source": "Le Devoir",
+          "summary": "Le Japon s’éloigne progressivement de la position pacifiste qu’il adoptait depuis la fin de la Seconde Guerre mondiale.",
+          "published": "2026-08-22T21:01:17+00:00"
+        },
+        {
           "title": "Des droits de douane qui ressemblent à un « embargo »",
           "link": "https://www.lapresse.ca/affaires/economie/2026-08-22/des-droits-de-douane-qui-ressemblent-a-un-embargo.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Le Canada fait maintenant face à des tarifs douaniers de 50 % sur 28 milliards de dollars de marchandises canadiennes. Quel sera l’impact sur nos entreprises ? Comment le pays peut-il répliquer ? Mettre fin aux…",
           "published": "2026-08-22T20:44:42+00:00"
-        },
-        {
-          "title": "De nouvelles consignes d’évacuation ont été données en Colombie-Britannique",
-          "link": "https://www.ledevoir.com/actualites/environnement/1003433/nouvelles-consignes-evacuation-ont-ete-donnees-colombie-britannique",
-          "source": "Le Devoir",
-          "summary": "La province émet des règlements supplémentaires alors que l’incendie du lac Pear gagne encore du terrain.",
-          "published": "2026-08-22T20:41:51+00:00"
-        },
-        {
-          "title": "« Guerre économique » des États-Unis  | Tout pays participant sera considéré comme un ennemi par l’Iran",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-22/guerre-economique-des-etats-unis/tout-pays-participant-sera-considere-comme-un-ennemi-par-l-iran.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Tout pays participant à la mise en place de restrictions économiques » à l’encontre de l’Iran sera « considéré comme un ennemi », a déclaré samedi le secrétaire du Conseil suprême de sécurité nationale iranien, Mohsen…",
-          "published": "2026-08-22T20:10:50+00:00"
-        },
-        {
-          "title": "Démystifier la science | Devient-on moins tolérant à l’alcool avec l’âge ?",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-22/demystifier-la-science/devient-on-moins-tolerant-a-l-alcool-avec-l-age.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Chaque semaine, notre journaliste répond aux questions scientifiques de lecteurs",
-          "published": "2026-08-22T19:30:00+00:00"
-        },
-        {
-          "title": "Véhicules connectés  | Un nouveau rapport recense des risques majeurs pour la vie privée",
-          "link": "https://www.lapresse.ca/affaires/techno/2026-08-22/vehicules-connectes/un-nouveau-rapport-recense-des-risques-majeurs-pour-la-vie-privee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les véhicules modernes sont devenus de véritables centres numériques complexes qui surveillent et enregistrent en permanence vos faits et gestes.",
-          "published": "2026-08-22T18:57:03+00:00"
-        },
-        {
-          "title": "Une erreur de Google maps et des travaux causent un trafic monstre sur le pont Jacques-Cartier",
-          "link": "https://www.journaldemontreal.com/2026/08/22/une-erreur-de-google-maps-et-des-travaux-causent-un-trafic-monstre-sur-le-pont-jacques-cartier",
-          "source": "Journal de Montreal",
-          "summary": "Un trafic monstre a testé la patience des automobilistes samedi, eux qui ont mis 1h30 pour traverser le pont Jacques-Cartier",
-          "published": "2026-08-22T18:46:54+00:00"
-        },
-        {
-          "title": "L’ancien député péquiste René Gauvreau se présente pour Québec solidaire",
-          "link": "https://www.ledevoir.com/politique/quebec/1003430/ancien-depute-pequiste-rene-gauvreau-presente-quebec-solidaire",
-          "source": "Le Devoir",
-          "summary": "À quelques jours du déclenchement des élections, les autres partis ont également annoncé des candidatures samedi.",
-          "published": "2026-08-22T18:26:00+00:00"
-        },
-        {
-          "title": "Nouveaux tarifs de 50%: Québec aidera les entreprises",
-          "link": "https://www.journaldemontreal.com/2026/08/22/nouveaux-tarifs-de-50---quebec-aidera-les-entreprises",
-          "source": "Journal de Montreal",
-          "summary": "Le gouvernement Fréchette a mis sur pied deux programmes pour venir en aide aux entreprises impactées par les nouveaux tarifs américains de 50 %.",
-          "published": "2026-08-22T18:15:44+00:00"
-        },
-        {
-          "title": "De graves décisions devront être prises rapidement, prévient l'ex-président de Meubles South Shore",
-          "link": "https://www.journaldemontreal.com/2026/08/22/de-graves-decisions-devront-etre-prises-dit-lex-president-de-south-shore",
-          "source": "Journal de Montreal",
-          "summary": "L’industrie forestière et de la transformation du bois au Québec qualifie de pas moins que « dramatique » l’échec des négociations avec Washington.",
-          "published": "2026-08-22T18:10:29+00:00"
-        },
-        {
-          "title": "[EN DIRECT] Ottawa et Québec réagissent aux tarifs douaniers de 50% contre le Canada",
-          "link": "https://www.journaldemontreal.com/2026/08/22/en-direct-tarifs-douaniers-de-50-contre-le-canada-mark-carney-reagit-a-lechec-des-negociations",
-          "source": "Journal de Montreal",
-          "summary": "Ottawa et Québec ont pris la parole après la suspension des négociations commerciales avec les États-Unis.",
-          "published": "2026-08-22T18:10:21+00:00"
         }
       ]
     },
@@ -159,18 +159,53 @@
       "label": "France",
       "items": [
         {
+          "title": "Des débuts en fanfare pour Lens, la bonne opération pour Lyon… Les résultats de la première journée de Ligue 1",
+          "link": "https://www.lemonde.fr/sport/article/2026/08/23/des-debuts-en-fanfare-pour-lens-la-bonne-operation-pour-lyon-les-resultats-de-la-premiere-journee-de-ligue-1_6753679_3242.html",
+          "source": "Le Monde",
+          "summary": "Après avoir remporté le Trophée des champions face au PSG, les Sang et Or ont confirmé leurs ambitions avec un succès offensif contre Auxerre, tandis que l’OL a lancé sa saison en s’imposant à Toulouse, malgré un…",
+          "published": "2026-08-23T00:46:59+00:00"
+        },
+        {
+          "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/08/23/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3211.html",
+          "source": "Le Monde",
+          "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
+          "published": "2026-08-22T23:05:52+00:00"
+        },
+        {
+          "title": "Liga : le Real s’en sort, Mbappé décisif",
+          "link": "https://www.lefigaro.fr/sports/football/espagne/liga-le-real-s-en-sort-mbappe-decisif-20260822",
+          "source": "Le Figaro",
+          "summary": "Les Madrilènes l’ont emporté grâce à un but signé Espi à la 90e minute ce samedi, sur le terrain de l’Espanyol.",
+          "published": "2026-08-22T22:10:34+00:00"
+        },
+        {
+          "title": "Ligue 1 : les Manceaux rugissent, Fofana et Jørgensen scintillent, Nice soporifique... Les tops et flops du premier multiplex de la saison",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-les-monceaux-rugissent-fofana-et-joergensen-scintillent-nice-soporifique-les-tops-et-flops-du-premier-multiplex-de-la-saison-20260822",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors du multiplex de la reprise du championnat, samedi soir, marqué par la victoire de Lyon à Toulouse (0-2), le nul spectaculaire entre Le Mans et…",
+          "published": "2026-08-22T21:54:00+00:00"
+        },
+        {
+          "title": "Présidentielle 2027: Édouard Philippe envisage un rassemblement de la droite et du centre entre «novembre et février»",
+          "link": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier-20260822",
+          "source": "Le Figaro",
+          "summary": "Le président du parti Horizons s’est exprimé samedi sur BFMTV, en plein déplacement de campagne à Mayotte et La Réunion.",
+          "published": "2026-08-22T21:36:42+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine promet des attaques « beaucoup plus destructrices » contre Kiev, évoquant des « mesures de représailles »",
+          "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-promet-des-attaques-beaucoup-plus-destructrices-contre-kiev-evoquant-des-mesures-de-represailles_6746952_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
+          "published": "2026-08-22T21:17:51+00:00"
+        },
+        {
           "title": "Téhéran menace de représailles tout pays soutenant les sanctions économiques américaines",
           "link": "https://www.lemonde.fr/international/article/2026/08/22/teheran-menace-de-represailles-tout-pays-soutenant-les-sanctions-economiques-americaines_6753646_3210.html",
           "source": "Le Monde",
           "summary": "Le secrétaire américain au Trésor, Scott Bessent, a affirmé la volonté des États-Unis de faire « s’effondrer le régime » iranien par de nouvelles sanctions. Il doit préciser lundi les modalités de cette pression accrue.",
           "published": "2026-08-22T20:51:07+00:00"
-        },
-        {
-          "title": "Ligue 1 : le bon coup de Lyon, faux départ pour le Paris FC, du spectacle et des buts entre Le Mans et Brest",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-le-bon-coup-de-lyon-faux-depart-pour-le-paris-fc-du-spectacle-et-des-buts-entre-le-mans-et-brest-20260822",
-          "source": "Le Figaro",
-          "summary": "Quatre matchs au menu du multiplex de la première journée de Ligue 1 ce samedi soir, avec notamment la victoire de l’Olympique lyonnais du côté de Toulouse.",
-          "published": "2026-08-22T20:46:17+00:00"
         },
         {
           "title": "Présidentielle 2027 : les patrons appellent à placer l’économie au cœur du débat",
@@ -187,46 +222,11 @@
           "published": "2026-08-22T20:34:21+00:00"
         },
         {
-          "title": "Conflit au Moyen-Orient: Téhéran dit considérer comme un «ennemi» tout pays participant à la «guerre économique» de Washington",
-          "link": "https://www.lefigaro.fr/international/conflit-au-moyen-orient-teheran-dit-considerer-comme-un-ennemi-tout-pays-participant-a-la-guerre-economique-de-washington-20260822",
-          "source": "Le Figaro",
-          "summary": "Le secrétaire du Conseil suprême de sécurité nationale iranien a appelé les pays du monde à ne pas se ranger derrière les États-Unis.",
-          "published": "2026-08-22T20:30:04+00:00"
-        },
-        {
           "title": "Stations balnéaires : les consommateurs de drogue traqués par les gendarmes",
           "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/stations-balneaires-les-consommateurs-de-drogue-traques-par-les-gendarmes_8157704.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Pendant les vacances, les gendarmes continuent de traquer les stupéfiants, alors que les saisies ont bondi de 25,9% depuis le début 2026. Les patrouilles se multiplient dans les stations balnéaires. Exemple à Deauville,…",
           "published": "2026-08-22T20:22:28+00:00"
-        },
-        {
-          "title": "\"Entre 10 à 30% de chance d'acheter un mauvais médicament\" : les dangers des produits de santé vendus sur internet",
-          "link": "https://www.franceinfo.fr/sante/entre-10-a-30-de-chance-d-acheter-un-mauvais-medicament-les-dangers-des-produits-de-sante-vendus-sur-internet_8157665.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Plus de 40 000 préservatifs vendus en France au cours des derniers mois, pour la plupart sur internet, se sont révélés non conformes et potentiellement défectueux. Peut-on acheter des produits de santé en ligne sans…",
-          "published": "2026-08-22T20:19:07+00:00"
-        },
-        {
-          "title": "Une voiture percutée par un éboulement dans les Hautes-Alpes, deux blessés graves",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/leur-voiture-est-percutee-par-un-eboulement-et-finit-sa-course-dans-la-riviere-deux-blesses-graves-dans-les-hautes-alpes_8157659.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Dans les Hautes-Alpes, une voiture qui circulait sur une départementale a été percutée par un bloc de pierre qui s’est détaché de la montagne, vendredi 21 août. Le véhicule a fini sa course dans la rivière. Les deux…",
-          "published": "2026-08-22T20:12:21+00:00"
-        },
-        {
-          "title": "Rentrée politique : Édouard Philippe et Jean-Luc Mélenchon s'écharpent au sujet de l'immigration à Mayotte",
-          "link": "https://www.franceinfo.fr/politique/edouard-philippe/rentree-politique-edouard-philippe-et-jean-luc-melenchon-s-echarpent-au-sujet-de-l-immigration-a-mayotte_8157719.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La journée du samedi 22 août a été marquée par une passe d'armes entre Édouard Philippe et Jean-Luc Mélenchon au sujet de l'immigration à Mayotte. La campagne présidentielle est bel et bien lancée.",
-          "published": "2026-08-22T20:05:09+00:00"
-        },
-        {
-          "title": "PSG : surprendre et changer, le défi de Luis Enrique pour rester au top en France et sur la scène européenne",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/psg-surprendre-et-changer-le-defi-de-luis-enrique-pour-rester-au-top-en-france-et-sur-la-scene-europeenne-20260822",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE – Le Paris-SG débute ce dimanche soir (20h45), à Rennes, sa campagne de Ligue 1, la quatrième du coach espagnol sur le banc du club de la capitale.",
-          "published": "2026-08-22T20:00:00+00:00"
         }
       ]
     },
@@ -272,7 +272,7 @@
           "title": "Plus de 500 000 Xiaomi SU7, des salariés Tesla cobayes, des Geely produites par Volvo : le récap’ Vroom de la semaine",
           "link": "https://www.numerama.com/vroom/2315971-plus-de-500-000-xiaomi-su7-des-salaries-tesla-cobayes-des-geely-produites-par-volvo-le-recap-vroom-de-la-semaine.html",
           "source": "Numerama",
-          "summary": "À la une sur Vroom cette semaine : Un nouveau cap franchi pour la jeune marque automobile Xiaomi, le Cybercab testé par les salariés Tesla et des Zeekr produites en Europe chez Volvo. Le futur n&#8217;attend pas :…",
+          "summary": "À la une sur Vroom cette semaine : Un nouveau cap franchi pour la jeune marque automobile Xiaomi, le Cybercab testé par les salariés Tesla et des Zeekr produites en Europe chez Volvo. Anticipez le futur en vous…",
           "published": "2026-08-22T16:28:00+00:00"
         },
         {
