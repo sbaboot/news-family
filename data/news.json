@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T01:13:49.450311+00:00",
+  "generated_at": "2026-08-23T03:48:54.563812+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
@@ -84,6 +84,20 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Le CF Montréal livre un match nul au Galaxy",
+          "link": "https://www.ledevoir.com/sports/1003457/cf-montreal-livre-match-nul-galaxy",
+          "source": "Le Devoir",
+          "summary": "La première apparition de l’attaquant chilien Alexis Sanchez au stade Saputo a toutefois électrisé l’ambiance.",
+          "published": "2026-08-23T02:00:48+00:00"
+        },
+        {
+          "title": "CF Montréal 2 – LA Galaxy 2 | « Il y a un manque de respect total »",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-08-22/cf-montreal-2-la-galaxy-2/il-y-a-un-manque-de-respect-total.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Philippe Eullaffroy avait différentes raisons de se réjouir, samedi soir. Alexis Sánchez a été accueilli en héros pour ses débuts au stade Saputo. Son équipe est revenue de l’arrière pour arracher un match nul de 2-2…",
+          "published": "2026-08-23T01:49:17+00:00"
+        },
+        {
           "title": "Carney devient le leader des insoumis face à Trump",
           "link": "https://www.lapresse.ca/actualites/analyses/2026-08-22/carney-devient-le-leader-des-insoumis-face-a-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -91,11 +105,18 @@
           "published": "2026-08-23T01:00:00+00:00"
         },
         {
+          "title": "Trump exhorte le tribunal à rejeter la demande de la BBC pour obtenir des documents",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1003454/trump-exhorte-tribunal-rejeter-demande-bbc-obtenir-documents",
+          "source": "Le Devoir",
+          "summary": "Le président américain s’oppose à la requête de la BBC visant à obtenir les témoignages de trois membres de sa famille.",
+          "published": "2026-08-23T00:59:24+00:00"
+        },
+        {
           "title": "Les Blue Jays de Toronto arrachent une victoire dans le Bronx",
           "link": "https://www.ledevoir.com/sports/1003451/blue-jays-toronto-arrachent-victoire-bronx",
           "source": "Le Devoir",
           "summary": "Le lanceur Dylan Cease a accordé cinq buts sur balles au Yankee Stadium.",
-          "published": "2026-08-23T00:29:51+00:00"
+          "published": "2026-08-23T00:29:00+00:00"
         },
         {
           "title": "Dépenser une fortune pour son animal vieillissant",
@@ -119,10 +140,10 @@
           "published": "2026-08-22T23:15:19+00:00"
         },
         {
-          "title": "Élections provinciales 2026 | Le Parti québécois présente deux candidatures fortes",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-22/elections-provinciales-2026/le-parti-quebecois-presente-deux-candidatures-fortes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Élections provinciales 2026 | Le Parti québécois présente deux nouvelles candidatures",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-22/elections-provinciales-2026/le-parti-quebecois-presente-deux-nouvelles-candidatures.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La guerre commerciale vient de connaître d’importants développements, mais cela n’empêche pas le Québec d’entrer bientôt en élections. Dans ce contexte, le Parti québécois a présenté deux candidatures fortes dans des…",
+          "summary": "La guerre commerciale vient de connaître d’importants développements, mais cela n’empêche pas le Québec d’entrer bientôt en élections. Dans ce contexte, le Parti québécois (PQ) a présenté deux candidatures dans des…",
           "published": "2026-08-22T22:45:08+00:00"
         },
         {
@@ -131,27 +152,6 @@
           "source": "Le Devoir",
           "summary": "José Antonio Kast maintiendra malgré tout les relations diplomatiques avec ce pays, établies en 1942.",
           "published": "2026-08-22T22:17:08+00:00"
-        },
-        {
-          "title": "Les cinq chefs des partis politiques provinciaux se sont rencontrés pour une réunion d’urgence",
-          "link": "https://www.ledevoir.com/politique/quebec/1003439/cinq-chefs-partis-politiques-provinciaux-sont-rencontres-reunion-urgence",
-          "source": "Le Devoir",
-          "summary": "Ils ont discuté des mesures de défense québécoises à l’offensive américaine proposée par la première ministre, Christine Fréchette.",
-          "published": "2026-08-22T21:26:00+00:00"
-        },
-        {
-          "title": "La Corée du Nord accuse le Japon de préparer une «guerre d’agression»",
-          "link": "https://www.ledevoir.com/monde/asie/1003436/coree-nord-accuse-japon-preparer-guerre-agression",
-          "source": "Le Devoir",
-          "summary": "Le Japon s’éloigne progressivement de la position pacifiste qu’il adoptait depuis la fin de la Seconde Guerre mondiale.",
-          "published": "2026-08-22T21:01:17+00:00"
-        },
-        {
-          "title": "Des droits de douane qui ressemblent à un « embargo »",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-08-22/des-droits-de-douane-qui-ressemblent-a-un-embargo.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le Canada fait maintenant face à des tarifs douaniers de 50 % sur 28 milliards de dollars de marchandises canadiennes. Quel sera l’impact sur nos entreprises ? Comment le pays peut-il répliquer ? Mettre fin aux…",
-          "published": "2026-08-22T20:44:42+00:00"
         }
       ]
     },
