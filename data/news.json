@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-08-24T01:11:45.436480+00:00",
+  "generated_at": "2026-08-24T03:53:06.148929+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Emmanuel Macron et le prince saoudien « MBS » ont clôturé l’Esports World Cup, à Paris",
+          "link": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html",
+          "source": "Le Monde",
+          "summary": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemblé de nombreuses…",
+          "published": "2026-08-24T03:00:38+00:00"
+        },
+        {
+          "title": "Au Canada, le retour du front commun contre Donald Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/08/24/au-canada-le-retour-du-front-commun-contre-donald-trump_6754775_3210.html",
+          "source": "Le Monde",
+          "summary": "En réponse à de nouveaux droits de douane américains, après l’échec des discussions commerciales avec les Etats-Unis, Ottawa choisit la riposte. Cette nouvelle escalade ravive l’unité nationale autour de la défense de…",
+          "published": "2026-08-24T03:00:25+00:00"
+        },
+        {
+          "title": "La crédibilité de la Fed, l’institution financière la plus puissante au monde, est en jeu",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/24/la-credibilite-de-la-fed-l-institution-financiere-la-plus-puissante-au-monde-est-en-jeu_6754774_3234.html",
+          "source": "Le Monde",
+          "summary": "La Réserve fédérale américaine traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin Warsh, dont les débuts…",
+          "published": "2026-08-24T03:00:24+00:00"
+        },
+        {
+          "title": "Le géant de l'ultra fast-fashion Shein est sur le point d'entrer en Bourse",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260824-le-g%C3%A9ant-de-l-ultra-fast-fashion-shein-est-sur-le-point-d-entrer-en-bourse",
+          "source": "France 24",
+          "summary": "Après des tentatives avortées à New York et Londres, Shein sera coté à la Bourse de Hong Kong à partir du 1er septembre, ce qui lui permettrait de lever jusqu'à 1,5 milliard d'euros. Le géant de l'ultra fast fashion,…",
+          "published": "2026-08-24T01:59:09+00:00"
+        },
+        {
+          "title": "Attaque d'une base en Syrie : Damas dit vouloir désamorcer les tensions avec Israël",
+          "link": "https://www.france24.com/fr/moyen-orient/20260824-attaque-d-une-base-en-syrie-damas-dit-vouloir-d%C3%A9samorcer-les-tensions-avec-isra%C3%ABl",
+          "source": "France 24",
+          "summary": "La Syrie et Israël ont mené dimanche des discussions de haut niveau en Jordanie, sous parrainage américain, pour désamorcer la crise née d'une frappe israélienne visant à empêcher un déploiement militaire turc. Damas…",
+          "published": "2026-08-24T01:37:10+00:00"
+        },
         {
           "title": "En direct : réunion des soutiens de l'Ukraine, sur fond d'intensification des frappes",
           "link": "https://www.france24.com/fr/europe/20260824-en-direct-ukraine-russie-reunion-soutiens-coalition-volontaires-zelensky-frappes",
@@ -38,41 +73,6 @@
           "source": "France 24",
           "summary": "La chaîne de télévision suisse Léman Bleu a rapporté dimanche que le propriétaire et gérant français du bar de la station de Crans-Montana en Suisse incendié la nuit du nouvel an a été placé en détention provisoire dans…",
           "published": "2026-08-23T20:17:04+00:00"
-        },
-        {
-          "title": "Guinée : au moins 30 morts et 22 blessés dans l'éboulement d'une décharge",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260823-guin%C3%A9e-au-moins-30-morts-et-22-bless%C3%A9s-dans-l-%C3%A9boulement-d-une-d%C3%A9charge",
-          "source": "France 24",
-          "summary": "En Guinée, un éboulement d’ordures fait plusieurs morts et de nombreux blessés à Conakry. Le drame s’est produit dans la nuit de samedi à dimanche, après de fortes pluies. Selon plusieurs témoignages, des dizaines…",
-          "published": "2026-08-23T20:13:47+00:00"
-        },
-        {
-          "title": "Israël met en garde le Hamas après le lancement de cerfs-volants depuis Gaza",
-          "link": "https://www.lemonde.fr/international/article/2026/08/23/israel-met-en-garde-le-hamas-apres-le-lancement-de-cerfs-volants-depuis-gaza_6754574_3210.html",
-          "source": "Le Monde",
-          "summary": "« C’est la responsabilité de l’armée d’agir à temps », a déclaré de son côté Uri Epstein, un représentant des communautés qui vivent proches de la frontière avec Gaza, et dont beaucoup ont été attaquées lors de…",
-          "published": "2026-08-23T19:52:28+00:00"
-        },
-        {
-          "title": "🔴 Présidentielle 2027 : Raphaël Glucksmann (Place publique) se lance dans la bataille en passant par une primaire avec le PS",
-          "link": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-08-23T18:37:45+00:00"
-        },
-        {
-          "title": "Guinée : 30 morts dans l’éboulement d’une décharge à Conakry après de fortes pluies",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/23/guinee-30-morts-dans-l-eboulement-d-une-decharge-a-conakry-apres-de-fortes-pluies_6754473_3212.html",
-          "source": "Le Monde",
-          "summary": "Le gouvernement avait annoncé ces derniers jours des opérations d’expulsion et de sécurisation des emprises autour de la décharge à cause des risques d’éboulement.",
-          "published": "2026-08-23T17:45:29+00:00"
-        },
-        {
-          "title": "\"La victoire est possible\" : Mélenchon place sa rentrée sous le signe de l'écologie",
-          "link": "https://www.france24.com/fr/france/20260823-la-victoire-est-possible-m%C3%A9lenchon-place-sa-rentr%C3%A9e-sous-le-signe-de-l-%C3%A9cologie",
-          "source": "France 24",
-          "summary": "Le leader de la France insoumise a placé dimanche sa rentrée politique sous le signe de l'écologie, en proposant une \"conscription écologique\" pour lutter notamment contre les incendies qui ont ravagé le pays cet été.",
-          "published": "2026-08-23T16:48:12+00:00"
         }
       ]
     },
@@ -84,6 +84,13 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "En quête de solutions, épisode 8 | Comment favoriser la réussite scolaire ?",
+          "link": "https://www.lapresse.ca/actualites/2026-08-23/en-quete-de-solutions-episode-8/comment-favoriser-la-reussite-scolaire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’école semble faire face à une crise. Alors que se profilent des états généraux sur l’éducation, quelles solutions pourrait-on envisager au Québec ? Dans cet épisode, Ariane Lacoursière nous présente la fructueuse…",
+          "published": "2026-08-24T03:00:00+00:00"
+        },
+        {
           "title": "Planète bleue, idées vertes | À la « foire du fumier », on hume l’odeur de l’argent",
           "link": "https://www.lapresse.ca/actualites/environnement/2026-08-23/planete-bleue-idees-vertes/a-la-foire-du-fumier-on-hume-l-odeur-de-l-argent.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -91,11 +98,11 @@
           "published": "2026-08-24T01:00:00+00:00"
         },
         {
-          "title": "Discussions entre la Syrie et Israël | Damas dit vouloir désamorcer la crise",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-23/discussions-entre-la-syrie-et-israel/damas-dit-vouloir-desamorcer-la-crise.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La Syrie et Israël ont tenu dimanche des discussions de haut niveau en Jordanie, Damas affirmant vouloir désamorcer la crise provoquée par une attaque israélienne et rester à l’écart des tensions entre Israël et la…",
-          "published": "2026-08-23T23:46:40+00:00"
+          "title": "Quoi retenir de la fin de semaine?",
+          "link": "https://www.ledevoir.com/actualites/1003553/quoi-retenir-fin-semaine",
+          "source": "Le Devoir",
+          "summary": "L’actualité du week-end des 22 et 23 août en résumé.",
+          "published": "2026-08-23T23:55:49+00:00"
         },
         {
           "title": "Dans les Alpes françaises, entre amour et ras-le-bol de l’Ultra-Trail",
@@ -103,13 +110,6 @@
           "source": "Le Devoir",
           "summary": "Selon certains, la compétition, qui attire 10 000 athlètes, dépasse les «capacités d’accueil de la ville».",
           "published": "2026-08-23T23:43:02+00:00"
-        },
-        {
-          "title": "Super Ligue du Nord | Le Wild et les Roses font match nul 2-2, à Laval",
-          "link": "https://www.lapresse.ca/sports/soccer/2026-08-23/super-ligue-du-nord/le-wild-et-les-roses-font-match-nul-2-2-a-laval.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Jorian Baucom a égalé le score à la 70e minute, dimanche, permettant au Wild de Calgary de soutirer un match nul de 2-2 face aux Roses de Montréal.",
-          "published": "2026-08-23T23:37:06+00:00"
         },
         {
           "title": "« Coalition des volontaires » | Le nouveau premier ministre britannique se rend lundi à Kyiv",
@@ -159,6 +159,27 @@
       "label": "France",
       "items": [
         {
+          "title": "Présidentielle 2027 : la bataille des gauches irréconciliables est lancée",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-la-bataille-des-gauches-irreconciliables-est-lancee_6754812_823448.html",
+          "source": "Le Monde",
+          "summary": "Lors de l’université d’été de La France insoumise, où il a prononcé un discours très centré sur la planification écologique, Jean-Luc Mélenchon a multiplié les appels du pied pour attirer les Ecologistes. Son rival à…",
+          "published": "2026-08-24T03:30:36+00:00"
+        },
+        {
+          "title": "Le géant de l’ultra-fast-fashion Shein confirme son entrée en Bourse à Hongkong en septembre",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/24/le-geant-de-l-ultra-fast-fashion-shein-confirme-son-entree-en-bourse-a-hongkong-en-septembre_6754706_3234.html",
+          "source": "Le Monde",
+          "summary": "Fondée en Chine et désormais basée à Singapour, l’entreprise, régulièrement critiquée pour son modèle de production et de consommation, revendique 273 millions de clients dans le monde, dont 23 millions en France.",
+          "published": "2026-08-24T01:29:31+00:00"
+        },
+        {
+          "title": "États-Unis : environ 90.000 évacués face au mégafeu de forêt «Hawk» dans le Nevada",
+          "link": "https://www.lefigaro.fr/international/etats-unis-environ-90-000-evacues-face-au-megafeu-de-foret-hawk-dans-le-nevada-20260824",
+          "source": "Le Figaro",
+          "summary": "L’incendie, qui s’est déclaré samedi, avait déjà ravagé 6.087 hectares dimanche après-midi et brûlait à 8 kilomètres au nord-ouest de Reno, une agglomération de plus de 280.000 habitants.",
+          "published": "2026-08-24T01:26:57+00:00"
+        },
+        {
           "title": "Fast-fashion: Shein va entrer en Bourse à Hong Kong le 1er septembre",
           "link": "https://www.lefigaro.fr/international/fast-fashion-shein-va-entrer-en-bourse-a-hong-kong-le-1er-septembre-20260824",
           "source": "Le Figaro",
@@ -173,18 +194,11 @@
           "published": "2026-08-23T23:17:52+00:00"
         },
         {
-          "title": "Tunisie: 12 corps repêchés après le naufrage d'un bateau de migrants",
-          "link": "https://www.lefigaro.fr/international/tunisie-12-corps-repeches-apres-le-naufrage-d-un-bateau-de-migrants-20260824",
-          "source": "Le Figaro",
-          "summary": "Des habitants de la ville de Ben Guerdane, près de la frontière libyenne d’où provenaient 14 des 15 migrants, ont manifesté après l’annonce du naufrage, bloquant des routes et incendiant des pneus.",
-          "published": "2026-08-23T23:02:40+00:00"
-        },
-        {
           "title": "Ligue 1 : le PSG arrache le nul à Rennes grâce à Ferran Torres, Lille démarre fort, courte victoire pour Monaco",
           "link": "https://www.lemonde.fr/sport/article/2026/08/24/ligue-1-le-psg-arrache-le-nul-a-rennes-grace-a-ferran-torres-lille-demarre-fort-courte-victoire-pour-monaco_6754673_3242.html",
           "source": "Le Monde",
           "summary": "Contraint de disputer son premier match de la saison loin du Parc des Princes en raison de l’état de sa pelouse, le champion de France a longtemps couru après le score avant d’être relancé par ses recrues estivales.",
-          "published": "2026-08-23T22:45:44+00:00"
+          "published": "2026-08-23T22:45:39+00:00"
         },
         {
           "title": "Arthur Fils remporte le Masters 1000 de Cincinnati, le premier sacre d’un Français dans cette catégorie de tournoi depuis 2014",
@@ -213,20 +227,6 @@
           "source": "Le Figaro",
           "summary": "La figure sociale-démocrate a confirmé dimanche soir sur TF1 sa participation à la primaire du PS et de Place publique, prévue en octobre.",
           "published": "2026-08-23T20:57:37+00:00"
-        },
-        {
-          "title": "Le PSG a souffert à Rennes mais arrache le match nul dans le choc de la première journée de Ligue 1",
-          "link": "https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-a-souffert-a-rennes-mais-arrache-le-match-nul-dans-le-choc-de-la-premiere-journee-de-ligue-1_8158859.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Menés à la pause, les Parisiens ont pu compter sur leurs recrues de l'été pour revenir à la hauteur du Stade rennais dimanche.",
-          "published": "2026-08-23T20:39:05+00:00"
-        },
-        {
-          "title": "Avec «Petites Musiques de jour», le retour à bas bruit réussi de Julien Baer",
-          "link": "https://www.liberation.fr/culture/musique/avec-petites-musiques-de-jour-le-retour-a-bas-bruit-reussi-de-julien-baer-20260823_WUSPRSIJMNCNXKS7T6IVRD5PY4/",
-          "source": "Liberation",
-          "summary": "Après dix-sept ans d’absence et des collaborations sur des disques et livres jeunesse, le musicien revient avec un album instrumental lumineux aux échos d’Ennio Morricone ou de François de Roubaix.",
-          "published": "2026-08-23T20:21:00+00:00"
         }
       ]
     },
