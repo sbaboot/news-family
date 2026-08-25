@@ -1,14 +1,49 @@
 {
-  "generated_at": "2026-08-25T18:37:09.201054+00:00",
+  "generated_at": "2026-08-25T21:26:11.502874+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Dolly Parton, légende de la musique country, est morte à l'âge de 80 ans",
+          "title": "Eboulement en Guinée : après le choc, la solidarité s'organise",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260825-eboulement-en-guin%C3%A9e-apr%C3%A8s-le-choc-la-solidarit%C3%A9-s-organise",
+          "source": "France 24",
+          "summary": "L’urgence humanitaire en Guinée après l’éboulement meurtrier d'une décharge dans la nuit de samedi à dimanche. Le bilan fait état d'au moins 31 morts. Plusieurs centaines de personnes ont été évacuées vers une école…",
+          "published": "2026-08-25T20:58:31+00:00"
+        },
+        {
+          "title": "Volkswagen : la direction en campagne pour promouvoir un plan social vertigineux",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/25/volkswagen-la-direction-en-campagne-pour-promouvoir-un-plan-social-vertigineux_6756625_3234.html",
+          "source": "Le Monde",
+          "summary": "Oliver Blume, le président du directoire du constructeur automobile allemand, a commencé mardi 25 août une tournée des usines du groupe pour convaincre les salariés de la nécessité de supprimer 50 000 postes…",
+          "published": "2026-08-25T20:00:05+00:00"
+        },
+        {
+          "title": "Syrie : les forces kurdes annoncent leur dissolution à la suite de l'accord avec Damas",
+          "link": "https://www.france24.com/fr/moyen-orient/20260825-syrie-les-forces-kurdes-annoncent-leur-dissolution-suite-%C3%A0-l-accord-avec-damas",
+          "source": "France 24",
+          "summary": "Les Forces démocratiques syriennes, dont le chef Mazloum Abdi a annoncé, mardi, la dissolution en vertu d'un accord avec le président Ahmed al-Charaa, constituaient l'armée des Kurdes de Syrie et avaient vaincu avec le…",
+          "published": "2026-08-25T19:17:10+00:00"
+        },
+        {
+          "title": "Mort de la star américaine Dolly Parton, reine populaire de la musique country",
+          "link": "https://www.france24.com/fr/culture/20260825-mort-de-la-star-am%C3%A9ricaine-dolly-parton-reine-populaire-de-la-musique-country",
+          "source": "France 24",
+          "summary": "Dolly Parton, légende de la country et icône populaire américaine, est décédée mardi à 80 ans. En mai, la chanteuse, qui aura sorti des dizaines d'albums et écoulé plus de 100 millions de disques tout au long de sa…",
+          "published": "2026-08-25T19:10:26+00:00"
+        },
+        {
+          "title": "🔴 En direct : Sophie Adenot et son coéquipier ont terminé leur mission avec succès et retournent dans l'ISS",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260825-en-direct-sophie-adenot-sortie-espace-deuxieme-fois",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-08-25T19:05:23+00:00"
+        },
+        {
+          "title": "Dolly Parton, idole américaine de la musique country, est morte à l'âge de 80 ans",
           "link": "https://www.rfi.fr/fr/monde/20260825-dolly-parton-l%C3%A9gende-de-la-musique-country-est-morte-%C3%A0-l-%C3%A2ge-de-80-ans",
           "source": "RFI",
-          "summary": "La légende américaine de la musique country, la chanteuse Dolly Parton, interprète de « Jolene » ou de « 9 to 5 », est morte à 80 ans, a annoncé mardi 25 août 2026 sa famille dans une vidéo.",
+          "summary": "Légende américaine de la musique country, la chanteuse Dolly Parton est morte à 80 ans, a annoncé mardi 25 août 2026 sa famille dans une vidéo. Issue d’un milieu pauvre, cette icône de la country s’est hissée jusqu’au…",
           "published": "2026-08-25T18:12:18+00:00"
         },
         {
@@ -38,41 +73,6 @@
           "source": "Le Monde",
           "summary": "Le jeune gouvernement népalais ne veut pas froisser son puissant voisin, qui a fait du Tibet une question hautement sensible relevant de sa souveraineté.",
           "published": "2026-08-25T17:00:00+00:00"
-        },
-        {
-          "title": "Cisjordanie occupée : un député israélien d’extrême droite a essayé de détruire un mémorial palestinien",
-          "link": "https://www.lemonde.fr/international/video/2026/08/25/cisjordanie-occupee-un-depute-israelien-d-extreme-droite-a-essaye-de-detruire-un-memorial-palestinien_6756615_3210.html",
-          "source": "Le Monde",
-          "summary": "Dans une vidéo qu’il a publiée sur ses réseaux, Zvi Sukkot apparaît avec un marteau, tentant de détruire le mémorial. Un acte condamné par plusieurs politiciens israéliens.",
-          "published": "2026-08-25T16:53:36+00:00"
-        },
-        {
-          "title": "Affaire Jason Arday : les minorités peuvent-elles faire carrière à l’université?",
-          "link": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20260825-affaire-jason-arday-les-minorit%C3%A9s-peuvent-elles-faire-carri%C3%A8re-%C3%A0-l-universit%C3%A9",
-          "source": "RFI",
-          "summary": "Les mémoires de Jason Arday doivent être publiées cette semaine au Royaume-Uni. Cet universitaire noir britannique de 41 ans a été retrouvé mort à son domicile le 14 août après des accusations de plagiat et une violente…",
-          "published": "2026-08-25T16:51:50+00:00"
-        },
-        {
-          "title": "\"À Ceuta, ils mangent les chats\" : de fausses images et une rumeur persistante",
-          "link": "https://www.france24.com/fr/afrique/20260825-ceuta-ils-mangent-les-chats-fausses-images-rumeur-persistante",
-          "source": "France 24",
-          "summary": "Des félins \"massacrés\" à Ceuta ? Trois semaines après l'arrivée de milliers de migrants dans l'enclave espagnole de Ceuta fin juillet, des sites et internautes espagnols affirment que des chats auraient été tués par des…",
-          "published": "2026-08-25T16:51:17+00:00"
-        },
-        {
-          "title": "Affaire Epstein : la demande d’annulation de la condamnation de Ghislaine Maxwell rejetée par un juge",
-          "link": "https://www.lemonde.fr/international/article/2026/08/25/affaire-epstein-la-demande-d-annulation-de-la-condamnation-de-ghislaine-maxwell-rejetee-par-un-juge_6756611_3210.html",
-          "source": "Le Monde",
-          "summary": "L’ex-compagne et complice de Jeffrey Epstein a été condamnée en 2022 à vingt ans de prison pour trafic sexuel. Elle est la seule personne à avoir été condamnée pour un crime en lien avec l’ancien homme d’affaires, mort…",
-          "published": "2026-08-25T16:22:06+00:00"
-        },
-        {
-          "title": "Guerre commerciale : Face à Trump, le Canada défend la langue française et sa souveraineté",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260825-guerre-commerciale-face-%C3%A0-trump-le-canada-d%C3%A9fend-la-langue-fran%C3%A7aise-et-sa-souverainet%C3%A9",
-          "source": "France 24",
-          "summary": "Mark Carney a affirmé, lundi, que les États-Unis avaient fait des demandes “inacceptables” qui “auraient mis en péril la culture et la langue française” au Canada. Le Premier ministre canadien en a fait une des raisons…",
-          "published": "2026-08-25T16:21:53+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Enquête sur la campagne de Pablo Rodriguez | Le rapport entre les mains du DPCP, confirme l’UPAC",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-25/enquete-sur-la-campagne-de-pablo-rodriguez/le-rapport-entre-les-mains-du-dpcp-confirme-l-upac.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’Unité permanente anticorruption (UPAC) confirme que le Directeur des poursuites criminelles et pénales (DCPC) analyse son rapport d’enquête sur la campagne à la direction de Pablo Rodriguez. Il s’engage à en…",
-          "published": "2026-08-25T18:26:44+00:00"
-        },
-        {
-          "title": "Mort de la légende de la musique country Dolly Parton",
-          "link": "https://www.ledevoir.com/culture/musique/1003964/mort-legende-musique-country-dolly-parton",
+          "title": "Les trois actus du 25 août",
+          "link": "https://www.ledevoir.com/actualites/1004003/trois-actus-25-aout",
           "source": "Le Devoir",
-          "summary": "Elle avait 80 ans.",
-          "published": "2026-08-25T18:04:00+00:00"
+          "summary": "Contre-tarifs d’Ottawa, mort de Dolly Parton et le français dans la fonction publique fédérale: ce qu’il faut retenir.",
+          "published": "2026-08-25T20:18:30+00:00"
         },
         {
-          "title": "Dolly Parton 1946-2026 | La légendaire chanteuse country meurt à 80 ans",
-          "link": "https://www.lapresse.ca/arts/musique/2026-08-25/dolly-parton-1946-2026/la-legendaire-chanteuse-country-meurt-a-80-ans.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Guerre commerciale | La stratégie d’Ottawa « très dommageable » pour le Québec, dit St-Pierre Plamondon",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-08-25/guerre-commerciale/la-strategie-d-ottawa-tres-dommageable-pour-le-quebec-dit-st-pierre-plamondon.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Dolly Parton, icône de la musique country dont la voix au vibrato vertigineux, les textes poignants et les costumes étincelants ont marqué son ascension, depuis une cabane en rondins dans les montagnes du Tennessee…",
-          "published": "2026-08-25T18:02:59+00:00"
+          "summary": "La stratégie du gouvernement fédéral de répondre « dollar pour dollar » aux tarifs américains sera « très dommageable » pour les entreprises et les citoyens québécois, estime le chef péquiste, Paul St-Pierre Plamondon.",
+          "published": "2026-08-25T20:11:57+00:00"
         },
         {
-          "title": "Guerre commerciale | Cinq choses à savoir sur la riposte canadienne",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-08-25/guerre-commerciale/cinq-choses-a-savoir-sur-la-riposte-canadienne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Arrêté pour terrorisme | Un jeune homme de Québec partageait des vidéos choquantes sur le web",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-25/arrete-pour-terrorisme/un-jeune-homme-de-quebec-partageait-des-videos-choquantes-sur-le-web.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "",
-          "published": "2026-08-25T17:59:56+00:00"
+          "summary": "Jeffrey Roussel, ce jeune résidant de Québec arrêté pour terrorisme au printemps, partageait des vidéos d’agression de femmes, de chats torturés à mort et d’automutilation sur des réseaux sociaux cryptés, selon des…",
+          "published": "2026-08-25T20:01:12+00:00"
         },
         {
-          "title": "Le Wall Street Journal dénonce à nouveau « la guerre commerciale la plus stupide »",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-08-25/le-wall-street-journal-denonce-a-nouveau-la-guerre-commerciale-la-plus-stupide.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Shein débarque quelques jours à Montréal, au grand dam des centres de dons",
+          "link": "https://www.ledevoir.com/economie/consommation/1004000/shein-debarque-quelques-jours-montreal-grand-dam-centres-dons",
+          "source": "Le Devoir",
+          "summary": "Les vêtements du géant chinois de la mode ultra-jetable engorgent de plus en plus leurs entrepôts.",
+          "published": "2026-08-25T20:00:00+00:00"
+        },
+        {
+          "title": "Un coroner suggère d’étendre les alertes de type Amber aux adultes enlevés",
+          "link": "https://www.ledevoir.com/actualites/justice/1003991/coroner-suggere-etendre-alertes-type-amber-adultes-enleves",
+          "source": "Le Devoir",
+          "summary": "Me Dave Kimpton se penchait sur la mort en 2024 de Lucia Giovanna Arcuri, 76 ans, enlevée et tuée par son fils.",
+          "published": "2026-08-25T19:56:19+00:00"
+        },
+        {
+          "title": "Guerre commerciale | Les produits concernés par les droits de douane de rétorsion",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-08-25/guerre-commerciale/les-produits-concernes-par-les-droits-de-douane-de-retorsion.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le Wall Street Journal avait qualifié en janvier 2025 de « guerre commerciale la plus stupide de l’histoire » les droits douaniers de 25 % imposés au Canada et au Mexique. Le prestigieux journal a enrichi le concept…",
-          "published": "2026-08-25T17:56:44+00:00"
+          "summary": "La guerre commerciale entre le Canada et les États-Unis est entrée dans une nouvelle phase mardi, avec l’annonce par le gouvernement canadien de mesures tarifaires de rétorsion.",
+          "published": "2026-08-25T19:54:11+00:00"
         },
         {
-          "title": "«Une sale semaine» pour les souverainistes, selon Charles Milliard",
-          "link": "https://www.ledevoir.com/politique/quebec/1003958/sale-semaine-souverainistes-selon-charles-milliard",
+          "title": "L’ancien ministre Nicolas Marceau sera candidat du PQ dans Marie-Victorin",
+          "link": "https://www.ledevoir.com/politique/quebec/1003985/pq-presente-equipe-economique",
           "source": "Le Devoir",
-          "summary": "Les tensions commerciales entre Ottawa et Washington sont loin d’être favorables pour le mouvement, selon lui.",
-          "published": "2026-08-25T17:56:00+00:00"
+          "summary": "Le chef du parti a présenté quatre visages de son équipe économique mardi à Montréal.",
+          "published": "2026-08-25T19:50:00+00:00"
         },
         {
-          "title": "Un million d’enfants pourraient mourir de malnutrition en Afghanistan, alerte l’UNICEF",
-          "link": "https://www.ledevoir.com/monde/asie/1003952/million-enfants-pourraient-mourir-malnutrition-afghanistan-alerte-unicef",
+          "title": "Un 4﻿e policier suspendu en lien avec les allégations de racisme à Montréal-Nord",
+          "link": "https://www.ledevoir.com/actualites/justice/1003982/4-e-policier-suspendu-lien-allegations-racisme-montreal-nord",
           "source": "Le Devoir",
-          "summary": "Près de 14 millions d’Afghans sont en situation de faim aiguë, souligne pour sa part le Programme alimentaire mondial.",
-          "published": "2026-08-25T17:52:00+00:00"
+          "summary": "L’enquête du SPVM sur ces reproches faits aux policiers du poste de quartier 39 est toujours en cours.",
+          "published": "2026-08-25T19:24:00+00:00"
         },
         {
-          "title": "Élections provinciales | Le choix de Marissal crée un malaise chez des péquistes de la capitale",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-25/elections-provinciales/le-choix-de-marissal-cree-un-malaise-chez-des-pequistes-de-la-capitale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le choix du Parti québécois de présenter un Montréalais au cœur de Québec ne passe pas chez des militants péquistes de la capitale. D’autant que plusieurs « candidats de qualité » avaient levé la main pour se présenter…",
-          "published": "2026-08-25T17:36:57+00:00"
-        },
-        {
-          "title": "L’influence de Trump chez les républicains mise à l’épreuve dans deux primaires",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1003940/influence-trump-republicains-mise-epreuve-deux-primaires",
+          "title": "Le film québécois «Nina Roza» représentera le Canada aux Oscar",
+          "link": "https://www.ledevoir.com/culture/cinema/1003979/film-quebecois-nina-roza-representera-canada-oscar",
           "source": "Le Devoir",
-          "summary": "En Caroline du Sud, Darline Graham tentera d’obtenir l’occasion de conserver le siège au Sénat de son frère, Lindsey.",
-          "published": "2026-08-25T17:26:00+00:00"
+          "summary": "La réalisatrice Geneviève Dulude-De Celles s’est dite «très émue» du rayonnement international qu’aura son œuvre.",
+          "published": "2026-08-25T19:15:00+00:00"
         },
         {
-          "title": "Files d’attente à Téhéran devant des stations-service après l’annonce de sanctions américaines",
-          "link": "https://www.ledevoir.com/monde/1003937/files-attente-teheran-devant-stations-service-apres-annonce-sanctions-americaines",
+          "title": "Le chef de l’armée israélienne s’engage à poursuivre la démilitarisation de Gaza",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1003976/chef-armee-israelienne-engage-poursuivre-demilitarisation-gaza",
           "source": "Le Devoir",
-          "summary": "Les Iraniens s’inquiètent des conséquences de ces nouvelles sanctions.",
-          "published": "2026-08-25T17:17:30+00:00"
+          "summary": "Huit Palestiniens, dont deux enfants, sont décédés au cours des deux derniers jours.",
+          "published": "2026-08-25T19:13:58+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
+          "title": "Le Parti socialiste et Place Publique valident l'accord sur les modalités de la primaire à laquelle participera Raphaël Glucksmann",
+          "link": "https://www.franceinfo.fr/politique/ps/le-parti-socialiste-valide-l-accord-sur-les-modalites-de-la-primaire-a-laquelle-participera-raphael-glucksmann_8161388.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Quatre candidats, dont le leader de Place Publique, sont sur la ligne de départ. Participer au vote coûtera au minimum 15 euros.",
+          "published": "2026-08-25T21:15:24+00:00"
+        },
+        {
+          "title": "Deux tours, tarif entre 10 et 15 euros, scrutin électronique... Le Parti socialiste et Place publique valident l'accord sur leur primaire d’octobre",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/deux-tours-tarif-entre-10-et-15-euros-scrutin-electronique-le-parti-socialiste-valide-l-accord-sur-sa-primaire-d-octobre-20260825",
+          "source": "Le Figaro",
+          "summary": "Alors que les candidats devront se déclarer entre le 1er et le 15 septembre, quatre figures ont déjà annoncé qu’ils souhaitaient participer : Raphaël Glucksmann, les socialistes Philippe Brun et Jérôme Guedj, ainsi que…",
+          "published": "2026-08-25T21:06:45+00:00"
+        },
+        {
+          "title": "Sophie Adenot a effectué sa deuxième sortie hors de l’ISS, pour terminer d’y remplacer une antenne défectueuse",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/25/sophie-adenot-a-effectue-sa-deuxieme-sortie-hors-de-l-iss-pour-terminer-d-y-remplacer-une-antenne-defectueuse_6755922_1650685.html",
+          "source": "Le Monde",
+          "summary": "Lors de cette mission, qui a duré environ six heures et demie, l’astronaute française et son coéquipier américain Anil Menon ont terminé de remplacer une antenne permettant à l’ISS de communiquer avec le centre de…",
+          "published": "2026-08-25T21:06:37+00:00"
+        },
+        {
+          "title": "Les films au cinéma cette semaine : faut-il voir ou éviter The Dog Stars, Dégel et L’inconnue ?",
+          "link": "https://www.lefigaro.fr/cinema/les-films-au-cinema-cette-semaine-faut-il-voir-ou-eviter-the-dog-stars-degel-et-l-inconnue-20260825",
+          "source": "Le Figaro",
+          "summary": "Un western apocalyptique signé Ridley Scott, un film chilien haletant, une fable fantastique avec Léa Seydoux... La sélection cinéma du Figaro.",
+          "published": "2026-08-25T21:00:00+00:00"
+        },
+        {
+          "title": "Dans «The Dog Stars», Ridley Scott n’y met pas du chien",
+          "link": "https://www.liberation.fr/culture/cinema/dans-the-dog-stars-ridley-scott-ny-met-pas-du-chien-20260825_T3DKSBJO25FMDBZHALFPVQYQMM/",
+          "source": "Liberation",
+          "summary": "Adaptation sans finesse d’un roman de Peter Heller, le 29e film du Britannique avec Jacob Elordi en pilote au cœur pur prêt à sauver le monde est terriblement inoffensif.",
+          "published": "2026-08-25T21:00:00+00:00"
+        },
+        {
+          "title": "Les États-Unis prêts à révoquer jusqu’à 200.000 visas d’affaires et de tourisme de demandeurs d’asile",
+          "link": "https://www.lefigaro.fr/flash-actu/les-etats-unis-prets-a-revoquer-jusqu-a-200-000-visas-d-affaires-et-de-tourisme-de-demandeurs-d-asile-20260825",
+          "source": "Le Figaro",
+          "summary": "Cette mesure s’inscrit dans le durcissement de la politique migratoire de Donald Trump. La Maison-Blanche la présente comme la plus vaste campagne de révocations de visas de l’histoire américaine.",
+          "published": "2026-08-25T20:46:08+00:00"
+        },
+        {
+          "title": "Une hôtesse de l’air d’Air France fait reconnaître son cancer du sein comme maladie professionnelle, une première en France",
+          "link": "https://www.lefigaro.fr/flash-actu/une-hotesse-de-l-air-d-air-france-fait-reconnaitre-son-cancer-du-sein-comme-maladie-professionnelle-une-premiere-en-france-20260825",
+          "source": "Le Figaro",
+          "summary": "Le tribunal a notamment retenu son exposition au travail de nuit, aux rayonnements ionisants et au tabagisme passif. Âgée de 59 ans, Sophie Lainault espère que cette décision ouvrira la voie à d’autres femmes.",
+          "published": "2026-08-25T20:44:13+00:00"
+        },
+        {
+          "title": "\"Félicitations, tu as assuré !\" : Sophie Adenot a mené une nouvelle sortie spatiale, l'antenne installée par la Française et l'Américain Anil Menon fonctionne",
+          "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/felicitations-tu-as-assure-sophie-adenot-a-mene-une-nouvelle-sortie-spatiale-l-antenne-installee-par-la-francaise-et-l-americain-anil-menon-fonctionne_8161415.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Avant elle, seuls quatre Français avaient \"marché\" dans le vide spatial, le dernier en date étant Thomas Pesquet.",
+          "published": "2026-08-25T20:39:32+00:00"
+        },
+        {
           "title": "Dolly Parton, reine de la musique country, est morte à l’âge de 80 ans",
           "link": "https://www.lefigaro.fr/musique/dolly-parton-reine-de-la-country-est-morte-a-l-age-de-80-ans-20260825",
           "source": "Le Figaro",
-          "summary": "DISPARITION - Auteure-compositrice et interprète de Jolene ou de 9 to 5, Dolly Parton avait remporté 11 Grammy Awards, dont un prix pour l’ensemble de sa carrière.",
-          "published": "2026-08-25T18:36:13+00:00"
+          "summary": "DISPARITION - Auteure-compositrice et interprète de Jolene ou de 9 to 5, Dolly Parton a remporté 11 Grammy Awards et écoulé plus de 100 millions de disques au cours de ses 60 ans de carrière.",
+          "published": "2026-08-25T20:26:38+00:00"
         },
         {
-          "title": "Canicules, sécheresse, incendies... Suivez l'émission spéciale de franceinfo consacrée à \"l'été qui a tout changé\"",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicules-secheresse-incendies-suivez-l-emission-speciale-de-franceinfo-consacree-a-l-ete-qui-a-tout-change_8160917.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Avec le réchauffement climatique causé par les activités humaines, les périodes estivales n'ont plus le même visage que celles du passé. Mais l'année 2026 constitue-t-elle un point de bascule ?",
-          "published": "2026-08-25T18:30:10+00:00"
-        },
-        {
-          "title": "Clémence Guetté : «L’amitié est un sujet éminemment subversif et révolutionnaire»",
-          "link": "https://www.liberation.fr/idees-et-debats/clemence-guette-lamitie-est-un-sujet-eminemment-subversif-et-revolutionnaire-20260825_OZSXFDMAHJBTDEJ55L6PXWQNIY/",
-          "source": "Liberation",
-          "summary": "«Parentalités nouvelles», «colocations aménagées», «mutation professionnelle amicale»… La députée insoumise, qui sort, ce jeudi 26 août, son livre «Pour une politique de l’amitié», propose d’offrir un cadre légal à ceux…",
-          "published": "2026-08-25T18:30:00+00:00"
-        },
-        {
-          "title": "L'icône de la musique country Dolly Parton est morte à l'âge de 80 ans, annonce sa famille",
-          "link": "https://www.franceinfo.fr/monde/usa/l-icone-de-la-musique-country-dolly-parton-est-morte-a-l-age-de-80-ans-annonce-sa-famille_8161295.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La disparition de la star américaine a été dévoilée par son neveu Bryan Seaver, dans une vidéo postée sur les réseaux sociaux.",
-          "published": "2026-08-25T18:23:35+00:00"
-        },
-        {
-          "title": "Pour sa rentrée, la CFDT a (elle aussi) l’héritage dans le viseur",
-          "link": "https://www.liberation.fr/economie/social/pour-sa-rentree-la-cfdt-a-elle-aussi-lheritage-dans-le-viseur-20260825_ZH2GOVVK5RHHNI4Y4WDELL3S4Q/",
-          "source": "Liberation",
-          "summary": "Marylise Léon a fait savoir, ce mardi 25 août, qu’elle était favorable à une taxe sur les successions dès le premier euro. Son organisation s’inquiète aussi des difficultés rencontrées par la fonction publique, sujet…",
-          "published": "2026-08-25T18:19:03+00:00"
-        },
-        {
-          "title": "Mort de Dolly Parton, légende de la musique country",
-          "link": "https://www.liberation.fr/culture/musique/mort-de-dolly-parton-legende-de-la-musique-country-20260825_FD3XEKDDONHXFCFJN3U6EG4OVA/",
-          "source": "Liberation",
-          "summary": "La chanteuse américaine, autrice et compositrice, était âgée de 80 ans.",
-          "published": "2026-08-25T18:17:16+00:00"
-        },
-        {
-          "title": "Guillaume Tabard : «La peur des candidats à la présidentielle d’assumer des mesures difficiles»",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-la-peur-des-candidats-a-la-presidentielle-d-assumer-des-mesures-difficiles-20260825",
+          "title": "Comment les attaques de l’Ukraine sur les géants du e-commerce Wildberries et Ozon déstabilisent l’économie russe",
+          "link": "https://www.lefigaro.fr/economie/comment-les-attaques-de-l-ukraine-sur-les-geants-du-e-commerce-wildberries-et-ozon-destabilisent-l-economie-russe-20260825",
           "source": "Le Figaro",
-          "summary": "CONTRE-POINT - De Gabriel Attal à Marine Le Pen, chacun proclame l’urgence qu’il y a à redresser les finances publiques. Mais le bât blesse lorsqu’il s’agit de passer de l’énoncé de principes généraux à l’énumération de…",
-          "published": "2026-08-25T18:15:00+00:00"
-        },
-        {
-          "title": "«Des conditions de détention indignes» : un détenu et des avocats poursuivent la prison d’Aix-Luynes en justice",
-          "link": "https://www.lefigaro.fr/marseille/des-conditions-de-detention-indignes-un-detenu-et-des-avocats-poursuivent-la-prison-d-aix-luynes-en-justice-20260825",
-          "source": "Le Figaro",
-          "summary": "Un détenu et plusieurs syndicats d’avocats, ainsi que l’ordre des avocats d’Aix-en-Provence, ont saisi le tribunal administratif pour dénoncer des conditions de détention jugées «dégradantes» à Aix-Luynes, une des…",
-          "published": "2026-08-25T18:14:49+00:00"
-        },
-        {
-          "title": "Dolly Parton, reine de la musique country et autrice-interprète de la chanson culte « Jolene », est morte à l’âge de 80 ans",
-          "link": "https://www.lemonde.fr/disparitions/article/2026/08/25/dolly-parton-reine-de-la-musique-country-et-interprete-de-la-chanson-culte-jolene-est-morte-a-l-age-de-80-ans_6756619_3382.html",
-          "source": "Le Monde",
-          "summary": "Dolly Parton avait fait de sa voix cristalline, de ses chansons déchirantes et de son extravagance une signature universelle. Reine de la country devenue icône populaire bien au-delà de l’Amérique, elle est morte à…",
-          "published": "2026-08-25T18:13:34+00:00"
-        },
-        {
-          "title": "Deuxième sortie extravéhiculaire de Sophie Adenot : la Française et l'astronaute américain Anil Menon sont félicités par la Nasa pour leur \"excellent travail\", l'installation de l'antenne progresse",
-          "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/direct-nouvelle-sortie-dans-l-espace-de-sophie-adenot-l-astronaute-francaise-retourne-hors-de-la-station-spatiale-internationale_8159321.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'astronaute française et son coéquipier américain rempilent, mardi, une semaine après leur première séance à quelque 400 km d'altitude. Leur principale mission consiste à remplacer une antenne de communication cruciale.",
-          "published": "2026-08-25T18:12:10+00:00"
+          "summary": "ENQUÊTE - Dans plusieurs régions de Russie, les sites logistiques de ces deux plateformes de vente en ligne sont bombardés. Kiev les accuse d’approvisionner l’armée de Vladimir Poutine.",
+          "published": "2026-08-25T20:24:19+00:00"
         }
       ]
     },
@@ -234,11 +234,46 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Gamescom 2026 : suivez toutes les annonces de l’Opening Night Live (EN DIRECT)",
-          "link": "https://www.numerama.com/pop-culture/2317219-gamescom-2026-suivez-toutes-les-annonces-de-lopening-night-live-en-direct.html",
+          "title": "Gamescom 2026 : The Witcher 3 Remastered, Final Fantasy VII… le récap des annonces de l’Opening Night Live",
+          "link": "https://www.numerama.com/pop-culture/2317219-gamescom-2026-the-witcher-3-remastered-final-fantasy-vii-le-recap-des-annonces-de-lopening-night-live.html",
           "source": "Numerama",
-          "summary": "C’est parti à Cologne. The Witcher 3, Final Fantasy VII Revelation, Gears of War: E-Day… Retrouvez ici toutes les annonces, les surprises et les nouvelles bandes-annonces de la conférence d’ouverture de la gamescom…",
-          "published": "2026-08-25T18:22:04+00:00"
+          "summary": "Geralt reviendra deux fois, Gears of War: E-Day a enfin montré sa campagne et Final Fantasy VII Revelation s’est offert une nouvelle bande-annonce. Voici les principales annonces qu'il ne fallait pas rater lors de la…",
+          "published": "2026-08-25T20:31:54+00:00"
+        },
+        {
+          "title": "On a testé la Ninja SLUSHi Twist, la machine à granités qui fait aussi des cocktails",
+          "link": "https://www.frandroid.com/test/3221937_on-a-teste-la-ninja-slushi-twist-la-machine-a-granites-qui-fait-aussi-des-cocktails",
+          "source": "Frandroid",
+          "summary": "Après la CREAMi Scoop &amp; Swirl et ses glaces maison, Ninja s'attaque à un autre pilier de l'été : les boissons glacées. La SLUSHi Twist ajoute un second bac à la gamme Slushi, avec la promesse de préparer deux…",
+          "published": "2026-08-25T20:21:38+00:00"
+        },
+        {
+          "title": "The Witcher 3 Remastered est officiel, une version sublimée et offerte gratuitement aux joueurs qui ont déjà le jeu",
+          "link": "https://www.numerama.com/pop-culture/2318347-the-witcher-3-remastered-est-officiel-une-version-sublimee-et-offerte-gratuitement-aux-joueurs-qui-ont-deja-le-jeu.html",
+          "source": "Numerama",
+          "summary": "CD Projekt Red remasterise The Witcher 3 et l'offre gratuitement à qui possède déjà le jeu. Sortie le 29 septembre 2026 sur presque toutes les plateformes, les deux extensions comprises.",
+          "published": "2026-08-25T20:20:18+00:00"
+        },
+        {
+          "title": "1666: Amsterdam, l’héritier spirituel d’Assassin’s Creed a encore du boulot",
+          "link": "https://www.numerama.com/pop-culture/2317787-1666-amsterdam-lheritier-spirituel-dassassins-creed-a-encore-du-boulot.html",
+          "source": "Numerama",
+          "summary": "Après un intrigant prologue dévoilé avant l'été (et toujours jouable gratuitement), 1666: Amsterdam est désormais disponible en early access sur PC. Sans doute en quête de cash pour finaliser le développement, Panache…",
+          "published": "2026-08-25T19:30:00+00:00"
+        },
+        {
+          "title": "Cinq mois après sa sortie, Crimson Desert revient déjà dans une nouvelle version (avec la VF)",
+          "link": "https://www.numerama.com/pop-culture/2318143-cinq-mois-apres-sa-sortie-crimson-desert-revient-deja-dans-une-nouvelle-version-avec-la-vf.html",
+          "source": "Numerama",
+          "summary": "Cinq mois après sa sortie, Crimson Desert profite de la Gamescom 2026 pour exhiber tous les changements apportés depuis son lancement et annonce une version améliorée du jeu.",
+          "published": "2026-08-25T19:08:08+00:00"
+        },
+        {
+          "title": "Expulsion de Rebirth (Solex, Cowboy, Angell) à l’usine de Saint-Lô : le groupe refuse de partir malgré le passage d’un huissier",
+          "link": "https://www.frandroid.com/survoltes/velo-electrique/3221911_expulsion-de-rebirth-solex-cowboy-angell-a-lusine-de-saint-lo-le-groupe-refuse-de-partir-malgre-le-passage-dun-huissier",
+          "source": "Frandroid",
+          "summary": "Nouvel épisode dans l'affaire Rebirth : ce mardi 25 août, un huissier s'est présenté à l'usine de Saint-Lô que loue le groupe Rebirth (Solex, Cowboy, Angell, Matra, Easybike), sous le coup d'une procédure d'expulsion…",
+          "published": "2026-08-25T19:07:09+00:00"
         },
         {
           "title": "Draco : ce satellite suicidaire va filmer sa propre destruction de l’intérieur pour la bonne cause",
@@ -262,6 +297,13 @@
           "published": "2026-08-25T17:09:00+00:00"
         },
         {
+          "title": "ChatGPT Plus : OpenAI rétablit la limite des cinq heures sur Codex et Work, six semaines après l’avoir supprimée",
+          "link": "https://www.numerama.com/tech/2317749-chatgpt-plus-openai-retablit-la-limite-des-cinq-heures-sur-codex-et-work-six-semaines-apres-lavoir-supprimee.html",
+          "source": "Numerama",
+          "summary": "Quelques semaines après l'avoir levée, OpenAI réactive sa limite des cinq heures sur Codex et ChatGPT Work pour les abonnés Plus, qui doivent de nouveau composer avec deux plafonds au lieu d'un.",
+          "published": "2026-08-25T17:02:00+00:00"
+        },
+        {
           "title": "Fenix 9 ou Fenix 9 Pro : tout comprendre aux nouvelles montres de références de Garmin",
           "link": "https://www.frandroid.com/marques/garmin/3221261_fenix-9-ou-fenix-9-pro-tout-comprendre-aux-nouvelles-montres-de-references-de-garmin",
           "source": "Frandroid",
@@ -274,48 +316,6 @@
           "source": "Frandroid",
           "summary": "Le magazine allemand IMTEST a comparé 16 batteries solaires et sacré l'Anker Solix Solarbank 4 Pro. Au-delà du classement, le chiffre le plus parlant du test concerne l'écart entre la capacité promise sur la fiche et…",
           "published": "2026-08-25T16:57:36+00:00"
-        },
-        {
-          "title": "Antivirus, VPN et nettoyage réunis : Intego ONE Complete à 3,52€/mois pour la rentrée",
-          "link": "https://www.clubic.com/bons-plans-626671-antivirus-vpn-et-nettoyage-reunis-intego-one-complete-a-3-52-mois-pour-la-rentree.html",
-          "source": "Clubic",
-          "summary": "La rentrée s'accompagne souvent d'une remise à plat de ses usages numériques, mais la sécurité du Mac reste rarement une priorité immédiate. Intego ONE Complete profite actuellement d'une réduction de 35 % sur un…",
-          "published": "2026-08-25T16:46:00+00:00"
-        },
-        {
-          "title": "Du Maghreb à la Thaïlande, ce forfait 5G garde le voyageur connecté pour seulement 15,99 euros par mois",
-          "link": "https://www.frandroid.com/bons-plans/3221715_du-maghreb-a-la-thailande-ce-forfait-5g-garde-le-voyageur-connecte-pour-seulement-1599-euros-par-mois",
-          "source": "Frandroid",
-          "summary": "RED by SFR propose un forfait pensé pour le voyage. Avec 35 Go de data utilisables dans 137 destinations à travers le monde, voilà de quoi rester connecté bien au-delà de l'Europe.",
-          "published": "2026-08-25T16:01:29+00:00"
-        },
-        {
-          "title": "Garmin Fenix 9 et 9 Pro : toujours plus loin du réseau… et du chargeur",
-          "link": "https://www.clubic.com/actualite-626728-garmin-fenix-9-et-9-pro-toujours-plus-loin-du-reseau-et-du-chargeur.html",
-          "source": "Clubic",
-          "summary": "Le spécialiste de la montre connectée muscle sa gamme outdoor avec une cartographie plus rapide, de nouveaux outils pour gérer l’effort et jusqu’à 57 jours d’autonomie. La Fenix 9 Pro se distingue avec un boîtier en…",
-          "published": "2026-08-25T15:57:00+00:00"
-        },
-        {
-          "title": "Quelle console et quels jeux choisir pour un enfant ou un ado ? Le guide pour les parents",
-          "link": "https://www.frandroid.com/guide-dachat/guides-dachat-gaming/1566118_quelle-console-et-quels-jeux-video-offrir-a-son-enfant-ou-ado",
-          "source": "Frandroid",
-          "summary": "Vous hésitez sur la console ou bien le jeu à offrir à votre progéniture, votre petit-neveu ou vos petits-enfants ? Tout dépend de son âge&nbsp;: toutes les consoles et tous les jeux ne sont pas adaptés et il est…",
-          "published": "2026-08-25T15:54:04+00:00"
-        },
-        {
-          "title": "Les autorités alertent sur les sites internet qui promettent aux élèves de savoir qui sera dans leur classe",
-          "link": "https://www.clubic.com/actualite-626710-les-autorites-alertent-sur-les-sites-internet-qui-promettent-aux-eleves-de-savoir-qui-sera-dans-leur-classe.html",
-          "source": "Clubic",
-          "summary": "À l'approche de la rentrée scolaire, certains sites internet séduisent les élèves en leur promettant de découvrir leur future classe. Le Commandement de la cyberdéfense alerte sur ce qui constitue une collecte de…",
-          "published": "2026-08-25T15:50:00+00:00"
-        },
-        {
-          "title": "Back to School AliExpress : le Tineco Floor One S7 Pro à moins de 210€, une des dernières bonnes affaires",
-          "link": "https://www.clubic.com/bons-plans-626629-back-to-school-aliexpress-le-tineco-floor-one-s7-pro-a-moins-de-210-une-des-dernieres-bonnes-affaires.html",
-          "source": "Clubic",
-          "summary": "Les soldes Back to School d'AliExpress touchent à leur fin et l'aspirateur laveur Tineco Floor One S7 Pro fait partie des rares appareils premium encore accessibles à prix réduit. Voici ce que vaut réellement cette…",
-          "published": "2026-08-25T15:46:00+00:00"
         }
       ]
     }
