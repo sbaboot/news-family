@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-25T09:33:33.087141+00:00",
+  "generated_at": "2026-08-25T12:43:19.578134+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Les Européens doivent accentuer leur soutien à l’Ukraine",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/25/les-europeens-doivent-accentuer-leur-soutien-a-l-ukraine_6756466_3232.html",
-          "source": "Le Monde",
-          "summary": "S’ils veulent préserver la paix de leur continent, les valeurs de leurs démocraties et leur prospérité future, les pays européens n’ont pas d’autre choix que de continuer à soutenir l’Ukraine et Volodymyr Zelensky, et…",
-          "published": "2026-08-25T09:30:05+00:00"
+          "title": "Tchad : l’armée dénonce une nouvelle incursion liée à la guerre au Soudan",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-tchad-l-arm%C3%A9e-d%C3%A9nonce-une-nouvelle-incursion-li%C3%A9e-%C3%A0-la-guerre-au-soudan",
+          "source": "France 24",
+          "summary": "Selon l’armée tchadienne, des aéronefs et des drones ont poursuivi et bombardé une colonne de véhicules jusque sur le territoire tchadien. Il s’agit de la quatrième incursion liée au conflit depuis le début de l’année.",
+          "published": "2026-08-25T12:41:49+00:00"
         },
         {
-          "title": "En direct : la Française Sophie Adenot sort dans l'espace pour la deuxième fois",
+          "title": "L’Iran visé par de nouvelles sanctions économiques",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-l-iran-vis%C3%A9-par-de-nouvelles-sanctions-%C3%A9conomiques",
+          "source": "France 24",
+          "summary": "Les États-Unis renforcent leur offensive économique contre Téhéran avec un nouveau train de sanctions visant plus de 60 personnes, entreprises et navires liés aux revenus pétroliers, aux programmes balistique et…",
+          "published": "2026-08-25T12:41:28+00:00"
+        },
+        {
+          "title": "Une nouvelle attaque de gangs fait au moins quarante morts en Haïti",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-une-nouvelle-attaque-de-gangs-fait-au-moins-quarante-morts-en-ha%C3%AFti",
+          "source": "France 24",
+          "summary": "Une nouvelle attaque de gangs a semé la panique à Kenscoff, près de la capitale haïtienne. Dans la nuit de dimanche à lundi, des hommes armés ont pris d’assaut cette commune située dans les hauteurs, faisant au moins…",
+          "published": "2026-08-25T12:39:54+00:00"
+        },
+        {
+          "title": "Nouvelles sanctions américaines contre Téhéran et ses alliés",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-nouvelles-sanctions-am%C3%A9ricaines-contre-t%C3%A9h%C3%A9ran-et-ses-alli%C3%A9s",
+          "source": "France 24",
+          "summary": "Les États-Unis annoncent une nouvelle offensive économique contre l’Iran, destinée à \"couper toutes les ressources\" qui soutiennent le régime de Téhéran. Le Trésor américain sanctionne 60 personnes, entreprises et…",
+          "published": "2026-08-25T12:37:35+00:00"
+        },
+        {
+          "title": "🔴 En direct : la Française Sophie Adenot sort dans l'espace pour la deuxième fois",
           "link": "https://www.france24.com/fr/%C3%A9co-tech/20260825-en-direct-sophie-adenot-sortie-espace-deuxieme-fois",
           "source": "France 24",
-          "summary": "Sophie Adenot sort mardi dans l'espace pour la deuxième fois, afin de terminer sa mission restée inachevée il y a une semaine. La sortie extravéhiculaire, destinée à remplacer une antenne de communication, débute à 14 h…",
-          "published": "2026-08-25T09:03:45+00:00"
-        },
-        {
-          "title": "En Grèce, 85 migrants secourus au large de la Crète",
-          "link": "https://www.lemonde.fr/international/article/2026/08/25/en-grece-85-migrants-secourus-au-large-de-la-crete_6756432_3210.html",
-          "source": "Le Monde",
-          "summary": "Repérés par un drone de Frontex, l’agence européenne de surveillance des frontières, les migrants se trouvaient à bord de deux canots pneumatiques, selon les garde-côtes helléniques.",
-          "published": "2026-08-25T08:57:27+00:00"
-        },
-        {
-          "title": "La Chine promet de « défendre fermement » ses intérêts, en réaction aux menaces américaines contre l’Iran",
-          "link": "https://www.lemonde.fr/international/article/2026/08/25/la-chine-promet-de-defendre-fermement-ses-interets-en-reaction-aux-menaces-americaines-contre-l-iran_6756431_3210.html",
-          "source": "Le Monde",
-          "summary": "Le secrétaire au Trésor américain, Scott Bessent, a présenté lundi un nouveau train de sanctions dites « secondaires », touchant non pas l’Iran directement, mais ses partenaires commerciaux.",
-          "published": "2026-08-25T08:46:52+00:00"
-        },
-        {
-          "title": "Les lieux de pouvoir: Zhongnanhai, le centre névralgique du pouvoir chinois",
-          "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260825-les-lieux-de-pouvoir-zhongnanhai-le-centre-n%C3%A9vralgique-du-pouvoir-chinois",
-          "source": "RFI",
-          "summary": "C’est le cœur du pouvoir chinois, mais aussi l’un des lieux les plus secrets du pays. À quelques pas de la Cité interdite, Zhongnanhai abrite les bureaux des principaux dirigeants communistes. Donald Trump a…",
-          "published": "2026-08-25T08:08:28+00:00"
-        },
-        {
-          "title": "À la Une: l’offensive économique contre l’Iran",
-          "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260825-%C3%A0-la-une-l-offensive-%C3%A9conomique-contre-l-iran",
-          "source": "RFI",
           "summary": "",
-          "published": "2026-08-25T07:37:35+00:00"
+          "published": "2026-08-25T12:36:53+00:00"
         },
         {
-          "title": "Comment Israël mène la guerre de l’information, entre « incrimination rétrospective », censure et manipulation des IA",
-          "link": "https://www.lemonde.fr/international/article/2026/08/25/comment-israel-mene-la-guerre-de-l-information-entre-incrimination-retrospective-censure-et-financement-de-contenus-destines-a-influencer-les-ia_6756298_3210.html",
+          "title": "Au Maroc, la justice paralysée par une grève des avocats longue de plus de cent jours",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/25/au-maroc-la-justice-paralysee-par-une-greve-des-avocats-longue-de-plus-de-cent-jours_6756574_3212.html",
           "source": "Le Monde",
-          "summary": "Un an après le bombardement de l’hôpital Nasser, qui avait tué vingt-deux personnes dont cinq journalistes dans le sud de la bande de Gaza, un militaire israélien a décrit à plusieurs médias, dont « Le Monde », la façon…",
-          "published": "2026-08-25T07:00:04+00:00"
+          "summary": "L’Association des barreaux du Maroc est vent debout contre une nouvelle loi régissant l’activité des robes noires. Elle voit dans ce texte une « atteinte à leur indépendance ».",
+          "published": "2026-08-25T12:00:09+00:00"
         },
         {
-          "title": "Barbara Pompili: à la COP17, «les États-Unis font des blocages sur beaucoup de sujets»",
-          "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260825-barbara-pompili-%C3%A0-la-cop17-les-%C3%A9tats-unis-font-des-blocages-sur-beaucoup-de-sujets",
-          "source": "RFI",
-          "summary": "Barbara Pompili, ambassadrice de France déléguée à l'environnement, cheffe de la délégation française à la COP17 sur la désertification, est l'invitée de RFI ce 25 août 2026. Alors que la COP17 sur la désertification…",
-          "published": "2026-08-25T06:46:50+00:00"
-        },
-        {
-          "title": "Incendie dans le Nevada : le feu progresse vers Reno, l’une des principales villes de cet Etat de l’ouest des Etats-Unis",
-          "link": "https://www.lemonde.fr/international/article/2026/08/25/aux-etats-unis-des-dizaines-de-milliers-de-personnes-evacuees-en-raison-d-un-feu-de-foret-dans-le-nevada_6756263_3210.html",
-          "source": "Le Monde",
-          "summary": "Environ 24 000 personnes étaient encore soumises à un ordre d’évacuation lundi, alors que le Hawk Fire continue de gagner du terrain. Des équipes venues d’Australie et de Nouvelle-Zélande prêtent main-forte aux pompiers…",
-          "published": "2026-08-25T06:26:01+00:00"
-        },
-        {
-          "title": "En direct : Pékin \"protégera\" ses intérêts face aux menaces américaines contre les partenaires de l'Iran",
-          "link": "https://www.france24.com/fr/moyen-orient/20260825-moyen-orient-en-direct-p%C3%A9trolier-touch%C3%A9-oman-iran-%C3%A9tats-unis-trump-isra%C3%ABl",
+          "title": "Afghanistan : un million d'enfants en danger de mort à cause de la malnutrition, selon l'Unicef",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260825-afghanistan-million-enfants-danger-mort-malnutrition-selon-unicef",
           "source": "France 24",
-          "summary": "La Chine a prévenu mardi qu'elle \"protégerait\" ses intérêts après que le gouvernement américain a affirmé sa volonté de couper les ressources économiques de l'Iran et menacé les pays qui continueraient à soutenir…",
-          "published": "2026-08-25T06:25:22+00:00"
+          "summary": "Le Fonds des Nations unies pour l'enfance (Unicef) a prévenu mardi qu'un million d'enfants souffrant de malnutrition aiguë sévère se trouvent en danger de mort en Afghanistan si rien n'est fait pour leur venir en aide.",
+          "published": "2026-08-25T11:53:40+00:00"
+        },
+        {
+          "title": "Mali-Algérie : la visite de Maïga à Alger ouvre-t-elle la page de la réconciliation ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-mali-alg%C3%A9rie-la-visite-de-ma%C3%AFga-%C3%A0-alger-ouvre-t-elle-la-page-de-la-r%C3%A9conciliation",
+          "source": "France 24",
+          "summary": "🇲🇱 Après plusieurs années de tensions, le Mali et l’Algérie amorcent-ils un rapprochement ? En visite à Alger, le Premier ministre malien Abdoulaye Maïga a été reçu par son homologue algérien puis par le président…",
+          "published": "2026-08-25T11:45:18+00:00"
+        },
+        {
+          "title": "Le peintre et sculpteur palestinien Sliman Mansour est mort à 79 ans",
+          "link": "https://www.lemonde.fr/disparitions/article/2026/08/25/le-peintre-et-sculpteur-palestinien-sliman-mansour-est-mort-a-79-ans_6756573_3382.html",
+          "source": "Le Monde",
+          "summary": "L’artiste, dont les œuvres dépeignaient les traditions palestiniennes et la lutte de son peuple sous l’occupation israélienne, est mort dans sa maison à Jérusalem-Est, ont précisé ses proches.",
+          "published": "2026-08-25T11:32:37+00:00"
+        },
+        {
+          "title": "Fernando Cerimedo, l’éminence grise des dirigeants d’extrême droite latino-américains, emprisonné en Bolivie pour tentative de féminicide",
+          "link": "https://www.lemonde.fr/international/article/2026/08/25/fernando-cerimedo-l-eminence-grise-des-dirigeants-d-extreme-droite-latino-americains-emprisonne-en-bolivie-pour-tentative-de-feminicide_6756572_3210.html",
+          "source": "Le Monde",
+          "summary": "L’Argentin, proche collaborateur du président bolivien, a été arrêté dans l’est du pays après que son ex-compagne, l’avocate Nadia Beller, a été blessée par balles le 17 août. Le parquet soupçonne le stratège en…",
+          "published": "2026-08-25T11:30:12+00:00"
         }
       ]
     },
@@ -84,6 +84,48 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Trump dit envisager de rebaptiser le lac Ontario  «lac d’Amérique»",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1003871/trump-dit-envisager-rebaptiser-lac-ontario-lac-amerique",
+          "source": "Le Devoir",
+          "summary": "«Nous ne comptons plus faire beaucoup d’affaires avec l’Ontario», fait valoir le président américain.",
+          "published": "2026-08-25T12:06:19+00:00"
+        },
+        {
+          "title": "Guerre commerciale | Trump veut renommer le lac Ontario « lake America »… et clame son amour du Québec",
+          "link": "https://www.lapresse.ca/actualites/2026-08-25/guerre-commerciale/trump-veut-renommer-le-lac-ontario-lake-america-et-clame-son-amour-du-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Dans son premier message de la journée sur le réseau Truth Social, publié vers 7 h, le président des États-Unis Donald Trump y va d’une nouvelle menace : il « considère sérieusement » changer le nom du lac Ontario en «…",
+          "published": "2026-08-25T11:47:32+00:00"
+        },
+        {
+          "title": "Le milieu scolaire québécois réclame des États généraux sur l’éducation",
+          "link": "https://www.ledevoir.com/actualites/education/1003865/milieu-scolaire-quebecois-reclame-etats-generaux-education",
+          "source": "Le Devoir",
+          "summary": "Les principaux intervenants du milieu font cette demande à l’aube du déclenchement des élections.",
+          "published": "2026-08-25T11:33:20+00:00"
+        },
+        {
+          "title": "Près de quatre Québécois sur cinq craignent de s’appauvrir",
+          "link": "https://www.ledevoir.com/economie/1003856/pres-quatre-quebecois-cinq-craignent-appauvrir",
+          "source": "Le Devoir",
+          "summary": "Ils estiment que le coût de la vie représente un grand ou un très grand risque pour eux, selon l’Institut du Québec.",
+          "published": "2026-08-25T11:14:28+00:00"
+        },
+        {
+          "title": "Un signaleur gravement blessé après avoir été heurté par un avion à l’aéroport  Montréal-Trudeau",
+          "link": "https://www.ledevoir.com/actualites/societe/1003841/signaleur-etat-critique-apres-avoir-ete-heurte-avion-aeroport-montreal-trudeau",
+          "source": "Le Devoir",
+          "summary": "Le travailleur a été transporté à l’hôpital, où l’on craindrait pour sa vie. Le dossier a été transmis au BST.",
+          "published": "2026-08-25T10:47:00+00:00"
+        },
+        {
+          "title": "Un répit de courte durée avant une nouvelle hausse des prix à l’épicerie",
+          "link": "https://www.ledevoir.com/economie/finances-personnelles/1003802/repit-courte-duree-avant-nouvelle-hausse-prix-epicerie",
+          "source": "Le Devoir",
+          "summary": "Après un léger recul en septembre, le prix des aliments devrait recommencer à grimper dès octobre.",
+          "published": "2026-08-25T10:00:00+00:00"
+        },
+        {
           "title": "Crise au Parti libéral du Québec | Pas de preuve de « brownies »",
           "link": "https://www.lapresse.ca/actualites/politique/2026-08-25/crise-au-parti-liberal-du-quebec/pas-de-preuve-de-brownies.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -92,7 +134,7 @@
         },
         {
           "title": "Guerre commerciale | Des droits de douane motivés par… la discrimination",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-25/guerre-commerciale/des-droits-de-douane-motives-par-la-discrimination.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-08-25/guerre-commerciale/des-droits-de-douane-motives-par-la-discrimination.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "En février dernier, la Cour suprême américaine avait invalidé des droits de douane imposés par l’administration Trump à différents pays. Comment les États-Unis peuvent-ils frapper le Canada avec de nouvelles taxes cette…",
           "published": "2026-08-25T09:00:00+00:00"
@@ -110,48 +152,6 @@
           "source": "La Presse",
           "summary": "Des militants péquistes froncent les sourcils en voyant l’arrivée tardive de l’ex-solidaire Vincent Marissal. Mais s’ils surmontent leur surprise, ils se réconcilieront avec le choix du chef. Car ce choix est plus…",
           "published": "2026-08-25T09:00:00+00:00"
-        },
-        {
-          "title": "Crise de l’itinérance | À la rue pour la première fois à 65, 70, 75 ans",
-          "link": "https://www.lapresse.ca/actualites/2026-08-25/crise-de-l-itinerance/a-la-rue-pour-la-premiere-fois-a-65-70-75-ans.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Difficile à quantifier. Impossible à ignorer. Au Québec, de plus en plus de personnes âgées deviennent itinérantes pour la première fois, s’inquiète le Commissaire à la santé et au bien-être dans un portrait inédit…",
-          "published": "2026-08-25T09:00:00+00:00"
-        },
-        {
-          "title": "Ça va mieux que vous le pensez !",
-          "link": "https://www.lapresse.ca/actualites/editoriaux/2026-08-25/ca-va-mieux-que-vous-le-pensez.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ceci est un éditorial résolument positif. On en a bien besoin en ces heures difficiles de guerre commerciale, n’est-ce pas ?",
-          "published": "2026-08-25T09:00:00+00:00"
-        },
-        {
-          "title": "La Couronne réclame neuf mois de prison | Un fraudeur sans statut au Canada prétend être actionnaire du Beachclub",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-25/la-couronne-reclame-neuf-mois-de-prison/un-fraudeur-sans-statut-au-canada-pretend-etre-actionnaire-du-beachclub.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un fraudeur qui minimise ses crimes souhaite s’en tirer avec une peine très clémente, alors que ses victimes attendent toujours leur argent. Cet escroc sans statut au Canada justifie ses revenus importants par ses…",
-          "published": "2026-08-25T09:00:00+00:00"
-        },
-        {
-          "title": "Un télescope sous-marin pour détecter les neutrinos venant des confins de l’Univers",
-          "link": "https://www.ledevoir.com/actualites/science/1003745/telescope-sous-marin-detecter-neutrinos-venant-confins-univers",
-          "source": "Le Devoir",
-          "summary": "Les premiers composants du projet P-One seront installés sur le fond marin de l’océan Pacifique cet automne.",
-          "published": "2026-08-25T04:00:00+00:00"
-        },
-        {
-          "title": "Hausse des plaintes et des interventions pour maltraitance sexuelle dans le réseau",
-          "link": "https://www.ledevoir.com/actualites/sante/1003769/hausse-plaintes-interventions-maltraitance-sexuelle-reseau",
-          "source": "Le Devoir",
-          "summary": "Elles ont bondi d’environ 45% en deux ans, selon des données obtenues par «Le Devoir».",
-          "published": "2026-08-25T04:00:00+00:00"
-        },
-        {
-          "title": "ebb, un duo lié par le dub",
-          "link": "https://www.ledevoir.com/culture/musique/1003796/ebb-duo-lie-dub",
-          "source": "Le Devoir",
-          "summary": "Marilou Lyonnais Archambault et de Nela Paki ramèneront dimanche au festival Mutek le son trip-hop des années 1990.",
-          "published": "2026-08-25T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Le journal du mercato : Liverpool attend Barcola avant de vendre, Manchester City prêt à remettre le pactole sur un milieu",
-          "link": "https://www.lefigaro.fr/sports/football/transferts/le-journal-du-mercato-liverpool-attend-barcola-avant-de-vendre-manchester-city-pret-a-remettre-le-pactole-sur-un-milieu-20260825",
+          "title": "Un avion militaire américain vole vers Moscou depuis la Lettonie, selon le site Flightradar24",
+          "link": "https://www.lefigaro.fr/international/un-avion-militaire-americain-vole-vers-moscou-depuis-la-lettonie-selon-le-site-flightradar24-20260825",
           "source": "Le Figaro",
-          "summary": "Kolo Muani chahuté à la Juventus, Manchester City actif en Angleterre et la situation de Julian Alvarez : toutes les infos du mercato football de ce mardi 25 août 2026.",
-          "published": "2026-08-25T09:23:55+00:00"
+          "summary": "Selon les données de ce site de suivi des vols, l’appareil a d’abord volé dimanche de la base aérienne d’Andrews, située près de Washington et utilisée pour des déplacements de hauts responsables, jusqu’à Riga, la…",
+          "published": "2026-08-25T12:41:12+00:00"
         },
         {
-          "title": "Gabriel Attal veut un ministre de l'Education \"qui restera en poste cinq ans\" et plaide pour le rétablissement du certificat d'études",
-          "link": "https://www.franceinfo.fr/societe/education/gabriel-attal-veut-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans-et-plaide-pour-le-retablissement-du-certificat-d-etudes_8160608.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le candidat à la présidentielle, lui-même brièvement ministre de l'Education nationale en 2023, propose une loi de programmation pour l'école.",
-          "published": "2026-08-25T09:22:30+00:00"
+          "title": "EN DIRECT - Rentrée scolaire : suivez la conférence de presse du ministre de l’Éducation nationale",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-rentree-scolaire-suivez-la-conference-de-presse-du-ministre-de-l-education-nationale-20260825",
+          "source": "Le Figaro",
+          "summary": "Édouard Geffray s’exprime ce mardi alors que les élèves français vont retrouver les chemins de l’école le 1er septembre.",
+          "published": "2026-08-25T12:38:14+00:00"
         },
         {
-          "title": "Marineland d’Antibes : le zoo de Beauval renonce à accueillir les dauphins",
-          "link": "https://www.liberation.fr/environnement/animaux/marineland-dantibes-le-zoo-de-beauval-renonce-a-accueillir-les-dauphins-20260825_PCZWACBMEZAV7JCOE25EZUFDG4/",
+          "title": "Les secrets de la combinaison de Sophie Adenot pour sa sortie dans l’espace",
+          "link": "https://www.lefigaro.fr/sciences/les-secrets-de-la-combinaison-de-sophie-adenot-pour-sa-sortie-dans-l-espace-20260818",
+          "source": "Le Figaro",
+          "summary": "INFOGRAPHIE – Pour travailler dans l’espace, les astronautes utilisent une combinaison de haute technologie qui leur permet de survivre durant plusieurs heures en dehors de la Station spatiale internationale.",
+          "published": "2026-08-25T12:36:52+00:00"
+        },
+        {
+          "title": "Arthur Harari, réalisateur de «l’Inconnue» : «Ce qui émane des images nous échappe en partie»",
+          "link": "https://www.liberation.fr/culture/cinema/arthur-harari-realisateur-de-linconnue-ce-qui-emane-des-images-nous-echappe-en-partie-20260825_MSXRM5ZE3VCD3DX6ZV3YCKGPNY/",
           "source": "Liberation",
-          "summary": "Le projet, estimé désormais à 45 millions d’euros, devait accueillir une partie des cétacés du parc fermé en 2025. La direction évoque les recours en justice et l’absence d’engagement de l’Etat.",
-          "published": "2026-08-25T09:18:37+00:00"
+          "summary": "Rencontre avec l’un des cinéastes les plus audacieux de sa génération, qui embarque Léa Seydoux et Niels Schneider dans le fantastique «l’Inconnue», et cherche à éviter les évidences pour lui comme pour les spectateurs.",
+          "published": "2026-08-25T12:36:00+00:00"
         },
         {
-          "title": "\"On en a toujours besoin, même en cours\" : des élèves et des professeurs redoutent l'interdiction du portable au lycée, en vigueur à la rentrée",
-          "link": "https://www.franceinfo.fr/societe/education/reportage-on-en-a-toujours-besoin-meme-en-cours-des-eleves-et-des-professeurs-redoutent-l-interdiction-du-portable-au-lycee-en-vigueur-a-la-rentree_8160440.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Cette interdiction, en vigueur dès le 1er septembre, inquiète de nombreux lycéens, qui disent utiliser leur téléphone notamment pour connaître leurs notes et leurs horaires de cours.",
-          "published": "2026-08-25T09:13:40+00:00"
-        },
-        {
-          "title": "«Ça a toujours irrité les Américains» : pourquoi la langue française s'invite dans le bras de fer commercial entre le Canada et les États-Unis",
-          "link": "https://www.lefigaro.fr/international/ca-a-toujours-irrite-les-americains-pourquoi-la-langue-francaise-s-invite-dans-le-bras-de-fer-commercial-entre-le-canada-et-les-etats-unis-20260825",
+          "title": "Israël entreprend de faire évacuer un centre de l'ONU pour les Palestiniens à Jérusalem",
+          "link": "https://www.lefigaro.fr/international/israel-entreprend-de-faire-evacuer-un-centre-de-l-onu-pour-les-palestiniens-a-jerusalem-20260825",
           "source": "Le Figaro",
-          "summary": "Le premier ministre Mark Carney a rompu les négociations vendredi pour défendre l’exception culturelle québécoise et notamment l’usage du français, remis en cause par l’administration Trump.",
-          "published": "2026-08-25T09:05:54+00:00"
+          "summary": "«L’Unrwa est entre nos mains», a écrit Itamar Ben Gvir sur son compte Telegram en légende d’une photo du drapeau israélien hissé sur le toit du centre.",
+          "published": "2026-08-25T12:34:44+00:00"
         },
         {
-          "title": "La Ville de Lyon intègre la chaleur excessive dans les critères de salubrité des logements",
-          "link": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/la-ville-de-lyon-integre-la-chaleur-excessive-dans-les-criteres-de-salubrite-des-logements_8160521.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "C'est la première ville à appliquer cette mesure en France, qui est saluée par les associations de locataires. Le maire écologiste Gégory Doucet se dit favorable au vote d'une loi, alors que les épisodes de canicule se…",
-          "published": "2026-08-25T09:04:44+00:00"
-        },
-        {
-          "title": "La CFDT défend la taxation de l’héritage «dès le premier euro» et la mise à contribution des retraités les plus aisés",
-          "link": "https://www.lefigaro.fr/conjoncture/la-cfdt-defend-la-taxation-des-heritages-des-le-premier-euro-et-la-mise-a-contribution-des-retraites-les-plus-aises-20260825",
+          "title": "Missiles de croisière, planeurs hypersoniques, portée de plus de 2000 kilomètres... Le plan à 12 milliards de l’Allemagne pour dissuader la Russie",
+          "link": "https://www.lefigaro.fr/international/missiles-de-croisiere-planeurs-hypersoniques-portee-de-plus-de-2000-kilometres-le-plan-a-12-milliards-de-l-allemagne-pour-dissuader-la-russie-20260825",
           "source": "Le Figaro",
-          "summary": "Invitée de la matinale sur RTL, ce mardi, la secrétaire générale du syndicat a rappelé que son organisation «s’est déclarée favorable à une mise à contribution pour les retraités les plus aisés», sans pour autant…",
-          "published": "2026-08-25T09:02:35+00:00"
+          "summary": "Berlin entend doter son armée d’un arsenal de frappe à longue portée pour faire face à la menace russe aux frontières de l’Otan, selon des documents secret défense consultés par le média américain Politico.",
+          "published": "2026-08-25T12:29:37+00:00"
         },
         {
-          "title": "Facturation électronique : la réforme expose-t-elle vraiment les entreprises à un risque accru de piratage ?",
-          "link": "https://www.lefigaro.fr/societes/facturation-electronique-la-reforme-expose-t-elle-vraiment-les-entreprises-a-un-risque-accru-de-piratage-20260825",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Plusieurs responsables politiques réclament un report, après le piratage du fisc annoncé mi-août. L’administration et les spécialistes de la cybersécurité défendent, eux, un dispositif décentralisé et…",
-          "published": "2026-08-25T09:00:00+00:00"
-        },
-        {
-          "title": "En Grèce, 85 migrants secourus au large de la Crète",
-          "link": "https://www.lemonde.fr/international/article/2026/08/25/en-grece-85-migrants-secourus-au-large-de-la-crete_6756432_3210.html",
+          "title": "Sophie Adenot : suivez en direct la deuxième sortie de l’astronaute française hors de l’ISS, pour terminer sa mission restée inachevée",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/25/sophie-adenot-suivez-en-direct-la-deuxieme-sortie-de-l-astronaute-francaise-hors-de-l-iss-pour-terminer-sa-mission-restee-inachevee_6755922_1650685.html",
           "source": "Le Monde",
-          "summary": "Repérés par un drone de Frontex, l’agence européenne de surveillance des frontières, les migrants se trouvaient à bord de deux canots pneumatiques, selon les garde-côtes helléniques.",
-          "published": "2026-08-25T08:57:27+00:00"
+          "summary": "Des difficultés avaient contraint, il y a une semaine, Sophie Adenot à finir sa première sortie hors de la Station spatiale internationale (ISS) sans avoir pu aller au bout de sa mission avec son binôme, l’Américain…",
+          "published": "2026-08-25T12:29:22+00:00"
         },
         {
-          "title": "«Il y a un problème de niveau» : Gabriel Attal, candidat à la présidentielle, veut un ministre de l’Éducation pour cinq ans et rétablir le certificat d’études",
-          "link": "https://www.lefigaro.fr/actualite-france/il-y-a-un-probleme-de-niveau-gabriel-attal-candidat-a-la-presidentielle-veut-un-ministre-de-l-education-pour-cinq-ans-et-retablir-le-certificat-d-etudes-20260825",
+          "title": "Tornade dans l’Aude : «Le réchauffement global génère des orages aux caractéristiques de plus en plus américaines»",
+          "link": "https://www.liberation.fr/environnement/climat/tornade-dans-laude-le-rechauffement-global-genere-des-orages-aux-caracteristiques-de-plus-en-plus-americaines-20260825_EOVIBYTLC5AYPIAT3FNDG7N57Y/",
+          "source": "Liberation",
+          "summary": "Davide Faranda, chercheur au CNRS spécialiste des événements météorologiques extrêmes, explique le lien entre l’intensification des orages, déclencheurs de tornades, et l’augmentation des températures due aux émissions…",
+          "published": "2026-08-25T12:21:55+00:00"
+        },
+        {
+          "title": "Droits de douane : Donald Trump nie toute ingérence dans les affaires des Canadiens francophones",
+          "link": "https://www.lefigaro.fr/flash-eco/droits-de-douane-donald-trump-nie-toute-ingerence-dans-les-affaires-des-canadiens-francophones-20260825",
           "source": "Le Figaro",
-          "summary": "Pour davantage de mixité sociale, Gabriel Attal veut également fermer «les 100 collèges qui constituent les pires ghettos scolaires» en répartissant les élèves «dans d’autres établissements».",
-          "published": "2026-08-25T08:56:11+00:00"
+          "summary": "Le Canada accuse Washington de vouloir s’en prendre au statut de la langue française dans les négociations commerciales entre les deux voisins.",
+          "published": "2026-08-25T12:20:13+00:00"
+        },
+        {
+          "title": "Les enseignants français sont-ils vraiment moins bien payés que les Portugais et les Slovènes, comme l’affirme Raphaël Glucksmann ?",
+          "link": "https://www.lefigaro.fr/conjoncture/les-enseignants-francais-sont-ils-vraiment-moins-bien-payes-que-les-portugais-et-les-slovenes-comme-l-affirme-raphael-glucksmann-20260824",
+          "source": "Le Figaro",
+          "summary": "LA VÉRIF’ - L’eurodéputé social-démocrate a dénoncé dimanche le déclassement des enseignants français face à leurs homologues européens. Les chiffres sont plus nuancés.",
+          "published": "2026-08-25T12:19:51+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Amazon casse les prix de ses Echo Alexa, Ring et Fire TV : 15 offres jusqu’à -56%",
-          "link": "https://www.clubic.com/bons-plans-626602-amazon-casse-les-prix-de-ses-echo-alexa-ring-et-fire-tv-15-offres-jusqu-a--56.html",
-          "source": "Clubic",
-          "summary": "La rentrée approche et Amazon prolonge son opération surprise sur ses appareils maison, loin de toute période de soldes. Voici 15 offres du jour à saisir sur les Fire TV Stick, les enceintes Echo, les caméras Ring et…",
-          "published": "2026-08-25T09:31:00+00:00"
+          "title": "Déjà près de 200 € de remise pour le Xiaomi Poco X8 Pro Max équipé d’une batterie titanesque de 8 500 mAh",
+          "link": "https://www.frandroid.com/bons-plans/3078999_deja-pres-de-200-euros-de-remise-pour-le-xiaomi-poco-x8-pro-max-equipe-dune-batterie-titanesque-de-8-500-mah",
+          "source": "Frandroid",
+          "summary": "Le Xiaomi Poco X8 Pro Max est un smartphone milieu de gamme qui voit les choses en grand, avec des performances de folie pour les gamers sur mobile. Au lieu de 533 euros, vous le retrouvez à 345,94 euros sur AliExpress.",
+          "published": "2026-08-25T12:34:32+00:00"
         },
         {
-          "title": "Revolut sort le grand jeu en France avec un livret d'épargne à 5,25 % qui bouleverse le marché, à un détail près",
-          "link": "https://www.clubic.com/actualite-626608-revolut-sort-le-grand-jeu-en-france-avec-un-livret-d-epargne-a-5-25-qui-bouleverse-le-marche-a-un-detail-pres.html",
+          "title": "Après l'échec du rachat de Manus, Meta pourrait vendre ses propres agents IA",
+          "link": "https://www.clubic.com/actualite-626638-apres-l-echec-du-rachat-de-manus-meta-pourrait-vendre-ses-propres-agents-ia.html",
           "source": "Clubic",
-          "summary": "La banque en ligne Revolut a lancé ce mardi en France une offre de bienvenue à 5,25 % brut sur son livret d'épargne, pour les nouveaux clients. Une promotion limitée à quatre mois, qui concurrence les meilleurs taux…",
-          "published": "2026-08-25T09:26:00+00:00"
+          "summary": "Privé de la pépite chinoise qu'il avait payée 2 milliards, Meta s'apprête à lancer Hatch, son premier agent IA grand public. Avec une facture qui pourrait grimper jusqu'à 200 dollars par mois.",
+          "published": "2026-08-25T12:30:00+00:00"
         },
         {
-          "title": "Avec le parc Dragon Ball, Paris peut-elle devenir la capitale mondiale des parcs d’attractions ?",
-          "link": "https://www.numerama.com/pop-culture/2317227-avec-le-parc-dragon-ball-paris-peut-elle-devenir-la-capitale-mondiale-des-parcs-dattractions.html",
+          "title": "Quels sont les meilleurs téléviseurs 65 pouces 4K (Oled, QLED ou Full LED) en 2026 ?",
+          "link": "https://www.frandroid.com/guide-dachat/635033_quelles-sont-les-meilleures-tv-4k-et-hdr-de-65-pouces-et-plus-en-2019",
+          "source": "Frandroid",
+          "summary": "Vous avez besoin d'un nouveau téléviseur ? Optez pour un grand format ! Bienvenue sur notre comparatif des meilleures TV de 65 pouces, qu'elles soient OLED, QLED ou LCD, toutes testées et approuvées.",
+          "published": "2026-08-25T12:25:49+00:00"
+        },
+        {
+          "title": "Microsoft obtient le feu vert pour la construction d'un data center à Mulhouse",
+          "link": "https://www.clubic.com/actualite-626662-microsoft-obtient-le-feu-vert-pour-la-construction-d-un-data-center-a-mulhouse.html",
+          "source": "Clubic",
+          "summary": "Microsoft va pouvoir construire un nouveau data center dans le Haut-Rhin. Une nouvelle infrastructure dédiée à l'IA et au cloud qui ne plaît pas à tout le monde !",
+          "published": "2026-08-25T12:18:00+00:00"
+        },
+        {
+          "title": "Fenix 9 : la nouvelle montre de Garmin gagne en fluidité et en données d’entraînement",
+          "link": "https://www.frandroid.com/produits-android/3221229_fenix-9-la-nouvelle-montre-de-garmin-gagne-en-fluidite-et-en-donnees-dentrainement",
+          "source": "Frandroid",
+          "summary": "Garmin a présenté, ce mardi 25 août, sa Fenix 9, nouvelle génération de sa montre outdoor haut de gamme. Trois tailles, un écran Amoled plus lumineux et de nouvelles fonctions pour le sport et l'entraînement.",
+          "published": "2026-08-25T12:11:48+00:00"
+        },
+        {
+          "title": "Face à la hausse des prix des GPU, la Fnac offre 50€ sur la RTX 5070 Ti Ventus 3X OC",
+          "link": "https://www.clubic.com/bons-plans-626533-face-a-la-hausse-des-prix-des-gpu-la-fnac-offre-50-sur-la-rtx-5070-ti-ventus-3x-oc.html",
+          "source": "Clubic",
+          "summary": "Jusqu'au jeudi 27 août, la Fnac réserve à ses adhérents une opération ciblée sur le rayon composants PC, avec 50 € crédités sur la cagnotte fidélité dès 300 € d'achat. La rédaction fait le point sur la MSI GeForce RTX…",
+          "published": "2026-08-25T12:10:00+00:00"
+        },
+        {
+          "title": "LinkedIn gagne une première bataille contre les contenus générés par IA",
+          "link": "https://www.clubic.com/actualite-626617-linkedin-gagne-une-premiere-bataille-contre-les-contenus-generes-par-ia.html",
+          "source": "Clubic",
+          "summary": "Le bouton permettant de signaler les publications jugées générées par IA sur LinkedIn a été activé plus d'un million de fois depuis son lancement. Le réseau social ajoute désormais une notification directement dans les…",
+          "published": "2026-08-25T12:09:00+00:00"
+        },
+        {
+          "title": "Ariane 6 vise l’orbite géostationnaire pour la première fois de sa carrière",
+          "link": "https://www.numerama.com/sciences/2317455-ariane-6-vise-lorbite-geostationnaire-pour-la-premiere-fois-de-sa-carriere.html",
           "source": "Numerama",
-          "summary": "Le 24 août 2026, Emmanuel Macron a annoncé la création de trois parcs d’attractions près de Cergy-Pontoise, dont un probablement consacré aux mangas et à Dragon Ball. Avec Disneyland Paris et le Parc Astérix déjà…",
-          "published": "2026-08-25T09:23:53+00:00"
+          "summary": "Le 27 août 2026, Ariane 6 vise pour la première fois l'orbite de transfert géostationnaire. Neuf vols au compteur, et pourtant une destination inédite&nbsp;: celle qui a fait toute la carrière commerciale d'Ariane 5.",
+          "published": "2026-08-25T12:02:00+00:00"
         },
         {
-          "title": "Face à l’arrêt des jeux en format physique, les fans de PlayStation entament une grève du jeu",
-          "link": "https://www.frandroid.com/marques/sony/3220713_face-a-larret-des-jeux-en-format-physique-les-fans-de-playstation-entament-une-greve-du-jeu",
-          "source": "Frandroid",
-          "summary": "Garder sa console éteinte pour faire peur à Sony. Voilà ce que propose une partie des joueurs et joueuses PlayStation face aux récentes décisions polémiques de l’entreprise.",
-          "published": "2026-08-25T09:23:51+00:00"
-        },
-        {
-          "title": "Dolby Vision 2 : comment les studios peuvent éviter une facture astronomique",
-          "link": "https://www.frandroid.com/produits-android/tv-connectee-produits/3221005_dolby-vision-2-comment-les-studios-peuvent-eviter-une-facture-astronomique",
-          "source": "Frandroid",
-          "summary": "Dolby explique comment les films et séries déjà tournés pourront profiter de Dolby Vision 2 sans passer par un remastering complet, jugé bien trop coûteux pour l'industrie.",
-          "published": "2026-08-25T09:23:32+00:00"
-        },
-        {
-          "title": "Android 17 déploie Motion Assist : la fin du mal de cœur en voiture quand vous lisez sur smartphone ?",
-          "link": "https://www.clubic.com/actualite-626614-android-17-veut-en-finir-avec-la-nausee-quand-vous-regardez-votre-smartphone.html",
+          "title": "The Witcher IV sortira en 2028 ; avant cela, la nouvelle extension pour The Witcher 3 va faire souffrir nos PC",
+          "link": "https://www.clubic.com/actualite-626647-the-witcher-iv-sortira-en-2028-avant-cela-la-nouvelle-extension-pour-the-witcher-3-va-faire-souffrir-nos-pc.html",
           "source": "Clubic",
-          "summary": "Google commence à déployer Motion Assist sur certains Pixel équipés d’Android 17. Des repères animés suivent les mouvements du véhicule afin de rendre l’usage du téléphone moins éprouvant pendant un trajet.",
-          "published": "2026-08-25T09:21:00+00:00"
+          "summary": "En attendant The Witcher IV prévu en 2028, CD Projekt RED prépare Songs of the Past, la nouvelle extension majeure du troisième opus : elle arrive en cours d'année prochaine, mais tous les PC ne seront pas éligibles.",
+          "published": "2026-08-25T11:52:00+00:00"
         },
         {
-          "title": "Ransomware : la France entre dans le top 6 mondial des pays les plus ciblés",
-          "link": "https://www.clubic.com/actualite-626584-cp-bitdefender-ransomware.html",
-          "source": "Clubic",
-          "summary": "Entre janvier et juin 2026, Bitdefender a recensé 131 organisations françaises désignées comme victimes de ransomware. La France est désormais au sixième rang mondial des pays visés par ces groupes. L'éditeur s'appuie…",
-          "published": "2026-08-25T09:19:00+00:00"
-        },
-        {
-          "title": "ChatGPT impose (à nouveau) une limite contraignante sur l’un de ses abonnements payants",
-          "link": "https://www.frandroid.com/marques/openai/3220765_chatgpt-impose-a-nouveau-une-limite-contraignante-sur-lun-de-ses-abonnements-payants",
-          "source": "Frandroid",
-          "summary": "Auprès des abonnés ChatGPT Plus, OpenAI instaure à nouveau une limite d'utilisation de 5 heures maximum pour les agents Work et Codex. Cette mesure entre en vigueur à compter d'aujourd'hui.",
-          "published": "2026-08-25T09:15:05+00:00"
-        },
-        {
-          "title": "Des hackers iraniens font tomber une centrale électrique au Royaume-Uni : ce que l’on sait de la cyberattaque",
-          "link": "https://www.numerama.com/cyberguerre/2317271-des-hackers-iraniens-font-tomber-une-centrale-electrique-au-royaume-uni-ce-que-lon-sait-de-la-cyberattaque.html",
+          "title": "Pluie artificielle : la startup Rainmaker a fait pleuvoir 70 000 m³ sur l’Alaska avec des drones",
+          "link": "https://www.numerama.com/sciences/2317245-pluie-artificielle-la-startup-rainmaker-a-fait-pleuvoir-70-000-m%c2%b3-sur-lalaska-avec-des-drones.html",
           "source": "Numerama",
-          "summary": "Une petite centrale électrique britannique est restée hors service pendant quatre jours, après une cyberattaque attribuée à des pirates liés à l'Iran.",
-          "published": "2026-08-25T09:15:00+00:00"
+          "summary": "L'entreprise américaine Rainmaker affirme avoir fabriqué de la pluie au-dessus de l'Alaska, en mesurant exactement la quantité d'eau tombée. Une réalisation qui relance un vieux débat&nbsp;: peut-on vraiment contrôler…",
+          "published": "2026-08-25T11:30:00+00:00"
         },
         {
-          "title": "Quels sont les meilleurs sacs à dos ou sacoches pour votre PC portable pour la rentrée 2026 ?",
-          "link": "https://www.frandroid.com/guide-dachat/621687_guide-dachat-ces-9-sacs-a-dos-styles-ne-font-aucune-concession-sur-le-confort-et-la-praticite",
-          "source": "Frandroid",
-          "summary": "Le contenu de votre sac est le plus important, certes, mais il ne faut pas négliger le sac en lui-même. Découvrez notre sélection de sacs à dos pensés pour protéger au mieux votre ordinateur portable et accompagner tous…",
-          "published": "2026-08-25T09:10:38+00:00"
+          "title": "Nouveau Mac mini : Apple miserait sur un lancement avant sa keynote de septembre",
+          "link": "https://www.clubic.com/actualite-626635-nouveau-mac-mini-apple-miserait-sur-un-lancement-avant-sa-keynote-de-septembre.html",
+          "source": "Clubic",
+          "summary": "Le plus connu des journalistes Tech de Bloomberg s'est exprimé au sujet du Mac mini. Mark Gurman suggère qu'Apple pourrait lancer une nouvelle mouture de son petit ordinateur de bureau dès les prochains jours,…",
+          "published": "2026-08-25T11:29:00+00:00"
         },
         {
-          "title": "C’est le retour en stock du Steam Deck OLED à bon prix grâce au reconditionnement certifié par Valve",
-          "link": "https://www.frandroid.com/bons-plans/3220403_cest-le-retour-en-stock-du-steam-deck-oled-a-bon-prix-grace-au-reconditionnement-certifie-par-valve",
+          "title": "C’est le moment de se lancer dans l’éclairage connecté avec ce pack Philips Hue disponible pour 40 euros de moins",
+          "link": "https://www.frandroid.com/bons-plans/3221009_cest-le-moment-de-se-lancer-dans-leclairage-connecte-avec-ce-pack-philips-hue-disponible-pour-40-euros-de-moins",
           "source": "Frandroid",
-          "summary": "Le Steam Deck OLED, la console portable de Valve qui donne accès à tout le catalogue Steam, est de nouveau disponible en reconditionné certifié, pour 619 euros au lieu de 779 euros.",
-          "published": "2026-08-25T09:09:35+00:00"
-        },
-        {
-          "title": "« La plus grande tourmente de notre histoire » : le séisme Volkswagen s’accélère",
-          "link": "https://www.frandroid.com/marques/volkswagen/3220611_la-plus-grande-tourmente-de-notre-histoire-le-seisme-volkswagen-saccelere",
-          "source": "Frandroid",
-          "summary": "Malgré l’annonce d’un récent plan drastique, Volkswagen est encore plus que jamais en difficulté. Comme d’autres groupes allemands, la firme subit de plein fouet la concurrence chinoise ainsi que la crise économique.…",
-          "published": "2026-08-25T09:09:26+00:00"
+          "summary": "Ce pack Philips Hue composé de trois ampoules connectées et d'une bande LED de cinq mètres se trouve pour 69,99 euros chez Darty.",
+          "published": "2026-08-25T11:27:00+00:00"
         }
       ]
     }
