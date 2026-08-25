@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-08-24T21:27:05.934475+00:00",
+  "generated_at": "2026-08-25T01:10:21.943403+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "A Haïti, une attaque de gangs près de la capitale fait au moins 40 morts",
+          "link": "https://www.lemonde.fr/international/article/2026/08/25/haiti-une-attaque-de-gangs-pres-de-la-capitale-fait-au-moins-40-morts_6755955_3210.html",
+          "source": "Le Monde",
+          "summary": "« Certaines personnes sont toujours portées disparues », fait savoir le maire de Kenscoff, qui fait également état de dizaines de blessés.",
+          "published": "2026-08-25T00:10:14+00:00"
+        },
+        {
+          "title": "La Cour suprême américaine autorise provisoirement le décret de Donald Trump restreignant le vote par correspondance",
+          "link": "https://www.lemonde.fr/international/article/2026/08/25/la-cour-supreme-americaine-autorise-provisoirement-le-decret-de-donald-trump-restreignant-le-vote-par-correspondance_6755889_3210.html",
+          "source": "Le Monde",
+          "summary": "Des Etats gouvernés par les démocrates avaient obtenu d’un tribunal fédéral de première instance la suspension d’un décret signé le 31 mars par le président américain pour encadrer cette pratique.",
+          "published": "2026-08-24T23:16:26+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky souhaiterait anticiper le prêt financier européen de 2027 pour accroître la production ukrainienne de drones et missiles",
+          "link": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-volodymyr-zelensky-souhaiterait-anticiper-le-pret-financier-europeen-de-2027-pour-accroitre-la-production-ukrainienne-de-drones-et-missiles_6753793_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon le président ukrainien, qui s’est exprimé lors d’une réunion des Etats membres de la coalition des volontaires, la défense de son pays est actuellement confrontée à un déficit budgétaire. Des décisions de dépenses…",
+          "published": "2026-08-24T23:11:09+00:00"
+        },
+        {
+          "title": "Benjamin Netanyahu assure que l'Iran a \"essayé de tuer\" l'un de ses deux fils",
+          "link": "https://www.france24.com/fr/moyen-orient/20260824-benjamin-netanyahu-iran-essaye-tuer-fils-shin-bet-gadi-eisenkot",
+          "source": "France 24",
+          "summary": "Le Premier ministre israélien Benjamin Netanyahu a affirmé lundi, lors d'un entretien téléphonique avec la chaine Channel 14, que l'Iran avait pris pour cible l'un de ses fils, sans plus de précision. Cette révélation…",
+          "published": "2026-08-24T21:57:05+00:00"
+        },
         {
           "title": "Ebola en RDC : la riposte sur le fleuve Congo",
           "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260824-ebola-en-rdc-la-riposte-sur-le-fleuve-congo",
@@ -45,34 +73,6 @@
           "source": "Le Monde",
           "summary": "Le secrétaire d’Etat américain, Marco Rubio, avait expliqué que cette décision avait été prise après avoir reçu des « garanties formelles » de la part d’Ahmed Al-Charaa, ancien djihadiste devenu président de la Syrie,…",
           "published": "2026-08-24T19:01:44+00:00"
-        },
-        {
-          "title": "L’Arabie saoudite prévoit d’investir 6 milliards d’euros pour créer trois parcs d’attractions près de Paris, annonce Emmanuel Macron",
-          "link": "https://www.lemonde.fr/international/article/2026/08/24/l-arabie-saoudite-prevoit-d-investir-6-milliards-d-euros-pour-creer-trois-parcs-d-attractions-pres-de-paris-annonce-emmanuel-macron_6755620_3211.html",
-          "source": "Le Monde",
-          "summary": "Le projet, présenté par Emmanuel Macron comme « du jamais vu depuis Disneyland Paris », devrait créer 22 000 emplois directs, selon les estimations du chef de l’Etat.",
-          "published": "2026-08-24T19:01:36+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : le France, le Royaume-Uni et l’Allemagne condamnent les attaques russes « systématiques » contre les civils",
-          "link": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-le-france-le-royaume-uni-et-l-allemagne-condamnent-les-attaques-russes-systematiques-contre-les-civils_6753793_3210.html",
-          "source": "Le Monde",
-          "summary": "A l’issue de la réunion de la coalition des volontaires, qui s’est tenue lundi à Kiev, les dirigeants Emmanuel Macron, Andy Burnham et Friedrich Merz ont condamné les frappes « de plus en plus intenses menées par la…",
-          "published": "2026-08-24T18:53:44+00:00"
-        },
-        {
-          "title": "Les Etats-Unis annoncent de nouvelles sanctions pour « couper toutes les ressources économiques » de l’Iran",
-          "link": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-couper-toutes-les-ressources-economiques-de-l-iran_6755656_3211.html",
-          "source": "Le Monde",
-          "summary": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement » du régime de Téhéran, a mis en garde Scott Bessent, le secrétaire au Trésor américain, lundi. De son côté,…",
-          "published": "2026-08-24T18:52:50+00:00"
-        },
-        {
-          "title": "En Ukraine, la mort d’Oleksi Ioukov, le « collecteur d’âmes » qui consacrait sa vie à exhumer les corps de soldats morts sur le front",
-          "link": "https://www.lemonde.fr/international/article/2026/08/24/en-ukraine-la-mort-d-oleksi-ioukov-le-collecteur-d-ames-qui-consacrait-sa-vie-a-exhumer-les-corps-de-soldats-morts-sur-le-front_6755690_3210.html",
-          "source": "Le Monde",
-          "summary": "Depuis 2022, cet ancien professeur de boxe thaï avait contribué à dégager près de 4 000 corps des zones de combat, des Russes comme des Ukrainiens, des militaires comme des civils. Il a été tué le 5 août par l’explosion…",
-          "published": "2026-08-24T18:30:04+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Élections de mi-mandat | La Cour suprême appuie le décret visant à restreindre le vote par la poste",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-24/elections-de-mi-mandat/la-cour-supreme-appuie-le-decret-visant-a-restreindre-le-vote-par-la-poste.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Aéroport de Montréal | Un signaleur a été écrasé par un avion",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-24/aeroport-de-montreal/un-signaleur-a-ete-ecrase-par-un-avion.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Cour suprême des États-Unis a ouvert la voie lundi à Donald Trump pour qu’il mette en œuvre son décret restreignant le vote par correspondance, même si l’on ignore encore dans quelle mesure son administration pourra…",
-          "published": "2026-08-24T21:14:40+00:00"
+          "summary": "Un signaleur a été écrasé par un avion lundi soir à l’aéroport international Montréal-Trudeau et transporté à l’hôpital dans un état critique.",
+          "published": "2026-08-25T01:07:13+00:00"
         },
         {
-          "title": "Les trois actus du 24 août",
-          "link": "https://www.ledevoir.com/actualites/1003742/trois-actus-24-aout",
+          "title": "Mathieu Lacombe se réjouit de l’intransigeance d’Ottawa﻿ face à Washington sur la culture",
+          "link": "https://www.ledevoir.com/culture/1003790/mathieu-lacombe-rejouit-intransigeance-ottawa-face-washington-culture",
           "source": "Le Devoir",
-          "summary": "Guerre tarifaire, brise-glace et Washington vise «l’asphyxie économique» de l’Iran: ce qu’il faut retenir.",
-          "published": "2026-08-24T20:28:00+00:00"
+          "summary": "Le ministre se dit exaspéré qu’elle «soit encore considérée par certains États comme une simple marchandise».",
+          "published": "2026-08-25T00:10:00+00:00"
         },
         {
-          "title": "Mark Carney compare les États-Unis à la Russie",
-          "link": "https://www.ledevoir.com/politique/canada/1003739/mark-carney-compare-etats-unis-russie",
-          "source": "Le Devoir",
-          "summary": "Ni les États-Unis ni la Russie ne peuvent être considérés comme des « partenaires fiables », a-t-il dit à Lévis.",
-          "published": "2026-08-24T20:20:00+00:00"
-        },
-        {
-          "title": "Que vient faire le français dans les négociations commerciales avec les États-Unis?",
-          "link": "https://www.ledevoir.com/politique/1003736/vient-faire-francais-negociations-commerciales-etats-unis",
-          "source": "Le Devoir",
-          "summary": "Les obligations linguistiques auraient contribué à l’échec de la dernière ronde de pourparlers.",
-          "published": "2026-08-24T20:10:00+00:00"
-        },
-        {
-          "title": "Avant de mourir, le célèbre entarteur belge Noël Godin n’était pas de la tarte",
-          "link": "https://www.ledevoir.com/culture/1003733/celebre-entarteur-belge-noel-godin-mort",
-          "source": "Le Devoir",
-          "summary": "Il avait fait des émules au Québec, où parmi les victimes des entarteurs ont figuré Jean Charest ou encore Mathieu Bock-Côté.",
-          "published": "2026-08-24T20:04:39+00:00"
-        },
-        {
-          "title": "Élections | Le PQ recrute Vincent Marissal",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-24/elections/le-pq-recrute-vincent-marissal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Conflit israélo-palestinien | Tensions à l’hôtel de ville sur une motion propalestinienne",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-24/conflit-israelo-palestinien/tensions-a-l-hotel-de-ville-sur-une-motion-propalestinienne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Après une première tentative avortée l’an dernier, voilà que le Parti québécois recrute l’ex-solidaire Vincent Marissal pour être candidat dans Taschereau, à Québec, où la candidate péquiste s’est désistée à la dernière…",
-          "published": "2026-08-24T19:27:03+00:00"
+          "summary": "L’hôtel de ville de Montréal est la scène de vives tensions, lundi soir, alors que les élus s’apprêtent à débattre d’une motion appelant à rompre les liens de la municipalité avec Israël.",
+          "published": "2026-08-25T00:00:27+00:00"
         },
         {
-          "title": "Vincent Marissal sera candidat du PQ dans Taschereau",
-          "link": "https://www.ledevoir.com/politique/quebec/1003727/vincent-marissal-sera-candidat-pq-taschereau",
-          "source": "Le Devoir",
-          "summary": "Le député de Rosemont, anciennement de Québec solidaire, tentera finalement de se faire réélire.",
-          "published": "2026-08-24T19:25:00+00:00"
-        },
-        {
-          "title": "Le Canada devrait se préparer à réduire ses exportations d’électricité, selon Ford",
-          "link": "https://www.ledevoir.com/politique/canada/1003724/canada-devrait-preparer-reduire-exportations-electricite-selon-ford",
-          "source": "Le Devoir",
-          "summary": "Il estime que les États-Unis doivent subir les conséquences en réponse à la dernière escalade tarifaire du président.",
-          "published": "2026-08-24T19:14:00+00:00"
-        },
-        {
-          "title": "Meurtre d’un jeune homme lié aux gangs | Une femme et un adolescent accusés",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-24/meurtre-d-un-jeune-homme-lie-aux-gangs/une-femme-et-un-adolescent-accuses.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Guerre commerciale | Vers une nouvelle vague d’achat local ?",
+          "link": "https://www.lapresse.ca/affaires/2026-08-24/guerre-commerciale/vers-une-nouvelle-vague-d-achat-local.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une femme dans la trentaine et un adolescent ont été accusés lundi du meurtre prémédité d’un jeune homme lié aux gangs survenu en plein jour à Montréal jeudi passé.",
-          "published": "2026-08-24T18:53:13+00:00"
+          "summary": "En prenant une nouvelle tournure, la guerre commerciale qui sévit entre le Canada et les États-Unis pourrait vraisemblablement rallumer les braises d’un intérêt pour l’achat local, croient des détaillants. S’ils…",
+          "published": "2026-08-24T23:45:00+00:00"
         },
         {
-          "title": "CBC/Radio-Canada à la recherche d’un tout premier candidat à l’Eurovision",
-          "link": "https://www.ledevoir.com/culture/musique/1003715/cbc-radio-canada-recherche-tout-premier-candidat-eurovision",
+          "title": "La réplique de la coupe Walter de la Victoire de Montréal a été retrouvée",
+          "link": "https://www.ledevoir.com/sports/1003808/replique-coupe-walter-victoire-montreal-ete-retrouvee",
           "source": "Le Devoir",
-          "summary": "L’artiste choisi, par un jury et le public, devra être «charismatique» et capable de «captiver de très larges publics».",
-          "published": "2026-08-24T18:38:00+00:00"
+          "summary": "On ignore toujours où le trophée a été retrouvé ni comment il a disparu.",
+          "published": "2026-08-24T23:38:19+00:00"
+        },
+        {
+          "title": "Indéfendable : sans trace | Le maître (Macdonald) du jeu !",
+          "link": "https://www.lapresse.ca/arts/chroniques/2026-08-24/indefendable-sans-trace/le-maitre-macdonald-du-jeu.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Pas besoin d’avoir réussi des études postdoctorales à Harvard pour comprendre les enjeux psychocriminels et embarquer dans Indéfendable : sans trace, la minisérie « hors-série » de la plateforme illico+, qui ramène les…",
+          "published": "2026-08-24T23:30:00+00:00"
+        },
+        {
+          "title": "Montréal est incapable de gérer efficacement les déchets, dit la VG",
+          "link": "https://www.ledevoir.com/politique/montreal/1003805/montreal-incapable-gerer-efficacement-dechets-dit-vg",
+          "source": "Le Devoir",
+          "summary": "La Ville doit se doter de meilleurs outils si elle veut atteindre le «zéro déchet».",
+          "published": "2026-08-24T23:26:00+00:00"
+        },
+        {
+          "title": "Élections québécoises | Une campagne à l’ombre de Trump, et de Carney",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-24/elections-quebecoises/une-campagne-a-l-ombre-de-trump-et-de-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un évènement aussi important que l’échec des négociations commerciales entre le Canada et les États-Unis va nécessairement avoir des effets sur la campagne électorale québécoise qui sera lancée cette semaine.",
+          "published": "2026-08-24T23:00:00+00:00"
+        },
+        {
+          "title": "À Varsovie, la rencontre d’Eric Lu et Rafael Payare",
+          "link": "https://www.ledevoir.com/culture/musique/1003787/varsovie-rencontre-eric-lu-rafael-payare",
+          "source": "Le Devoir",
+          "summary": "Le lauréat du concours Chopin illumine de sa classe le second concert de l’OSM à Varsovie.",
+          "published": "2026-08-24T22:49:21+00:00"
+        },
+        {
+          "title": "Les GAFAM ne feront pas «plier» le Canada, soutient le ministre Miller",
+          "link": "https://www.ledevoir.com/politique/canada/1003763/gafam-ne-feront-pas-plier-canada-soutient-ministre-miller",
+          "source": "Le Devoir",
+          "summary": "Washington fait pression sur Ottawa concernant la visibilité du contenu culturel québécois en ligne.",
+          "published": "2026-08-24T22:32:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Aude : une impressionnante tornade ravage un village près de Carcassonne, au moins 41 blessés et 2 800 foyers privés d’électricité",
+          "title": "A Haïti, une attaque de gangs près de la capitale fait au moins 40 morts",
+          "link": "https://www.lemonde.fr/international/article/2026/08/25/haiti-une-attaque-de-gangs-pres-de-la-capitale-fait-au-moins-40-morts_6755955_3210.html",
+          "source": "Le Monde",
+          "summary": "« Certaines personnes sont toujours portées disparues », fait savoir le maire de Kenscoff, qui fait également état de dizaines de blessés.",
+          "published": "2026-08-25T00:10:14+00:00"
+        },
+        {
+          "title": "Sophie Adenot effectue, mardi, sa deuxième sortie dans l’espace pour parachever le changement d’une antenne",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/25/sophie-adenot-effectue-mardi-sa-deuxieme-sortie-dans-l-espace-pour-parachever-le-changement-d-une-antenne_6755922_1650684.html",
+          "source": "Le Monde",
+          "summary": "Des difficultés avaient contraint, il y a une semaine, l’astronaute française à finir sa première sortie hors de la Station spatiale internationale (ISS) sans avoir pu aller au bout de sa mission avec son binôme,…",
+          "published": "2026-08-24T23:51:14+00:00"
+        },
+        {
+          "title": "Aude : une impressionnante tornade ravage un village près de Carcassonne, au moins 41 blessés et 300 habitations touchées",
           "link": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
           "source": "Le Figaro",
           "summary": "Le phénomène a été observé lundi à 17h20 à Pomas, alors que l’Aude était placée en vigilance orange pour les orages. D’importants moyens de secours sont mobilisés.",
-          "published": "2026-08-24T21:17:53+00:00"
+          "published": "2026-08-24T23:36:58+00:00"
         },
         {
-          "title": "\"On n'oublie jamais\" : enquête auprès des agents de recouvrement, qui traquent un milliard d'euros d'amendes impayées",
-          "link": "https://www.franceinfo.fr/societe/justice/un-milliard-d-euros-d-amendes-impayees-ce-qui-se-cache-derriere-le-chiffre-de-la-cour-des-comptes-enquete-aupres-des-agents-de-recouvrement_8160101.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Il s’agit d’amendes pour des délits, comme l’usage de stupéfiants ou la conduite sans assurance… Selon la Cour des comptes, à peine un quart est réglé avant majoration. Alors, lorsque les relances ne suffisent plus, des…",
-          "published": "2026-08-24T21:13:59+00:00"
-        },
-        {
-          "title": "La tornade qui s'est abattue sur Pomas, dans l'Aude, a blessé 41 personnes, dont quinze ont été transportées à l'hôpital",
-          "link": "https://www.franceinfo.fr/environnement/meteo/direct-orages-le-trafic-aerien-est-perturbe-lundi-soir-dans-les-aeroports-de-paris-bordeaux-toulouse-marseille-et-nice_8160020.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Environ 300 habitations ont été \"impactées\", selon la préfecture, et des centres d'hébergement ont été ouverts.",
-          "published": "2026-08-24T21:11:32+00:00"
-        },
-        {
-          "title": "\"La moitié du village est détruite\" : une tornade touche la commune de Pomas, dans l'Aude, et endommage une centaine d'habitations",
-          "link": "https://www.franceinfo.fr/environnement/meteo/une-tornade-touche-la-commune-de-pomas-dans-l-aude-et-endommage-plusieurs-habitations_8160002.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Quarante-et-une personnes ont été blessées lors de cet épisode violent, qui a endommagé 300 habitations environ.",
-          "published": "2026-08-24T21:07:46+00:00"
-        },
-        {
-          "title": "Les enseignants français sont-ils vraiment moins bien payés que les Portugais et les Slovènes, comme l’affirme Raphaël Glucksmann ?",
-          "link": "https://www.lefigaro.fr/conjoncture/les-enseignants-francais-sont-ils-vraiment-moins-bien-payes-que-les-portugais-et-les-slovenes-comme-l-affirme-raphael-glucksmann-20260824",
+          "title": "Trains, vols, routes... Les orages perturbent fortement tous les modes de transport dans le sud de la France",
+          "link": "https://www.lefigaro.fr/conjoncture/trains-vols-routes-les-orages-perturbent-fortement-tous-les-modes-de-transports-dans-le-sud-de-la-france-20260824",
           "source": "Le Figaro",
-          "summary": "LA VÉRIF’ - L’eurodéputé social-démocrate a dénoncé dimanche le déclassement des enseignants français face à leurs homologues européens. Les chiffres sont plus nuancés.",
-          "published": "2026-08-24T20:31:28+00:00"
+          "summary": "Le trafic ferroviaire est fortement perturbé après les violents orages qui ont frappé le sud de la France lundi soir. Des restrictions de circulation ont également été prises sur les routes, tandis que plusieurs…",
+          "published": "2026-08-24T23:36:55+00:00"
         },
         {
-          "title": "Le ministre de l’Éducation annonce un questionnaire sur les violences sexuelles et sexistes pour tous les élèves à la rentrée",
-          "link": "https://www.lefigaro.fr/actualite-france/le-ministre-de-l-education-annonce-un-questionnaire-sur-les-violences-sexuelles-et-sexistes-pour-tous-les-eleves-a-la-rentree-20260824",
-          "source": "Le Figaro",
-          "summary": "«10 millions d’élèves seront interrogés sur ce qu’ils ont éventuellement été amenés à subir» dans le cadre du questionnaire annuel sur le harcèlement scolaire. Édouard Geffray redoute des résultats «sismiques».",
-          "published": "2026-08-24T20:20:18+00:00"
-        },
-        {
-          "title": "Dans l’Aude, 41 blessés après une tornade ; la commune de Pomas partiellement détruite",
-          "link": "https://www.lemonde.fr/planete/article/2026/08/24/une-tornade-frappe-l-aude-et-cause-26-blesses-une-centaine-d-habitations-touchees_6755657_3245.html",
+          "title": "La Cour suprême américaine autorise provisoirement le décret de Donald Trump restreignant le vote par correspondance",
+          "link": "https://www.lemonde.fr/international/article/2026/08/25/la-cour-supreme-americaine-autorise-provisoirement-le-decret-de-donald-trump-restreignant-le-vote-par-correspondance_6755889_3210.html",
           "source": "Le Monde",
-          "summary": "Deux centres d’hébergement ont été ouverts aux victimes pour la nuit. Plus de 100 sapeurs-pompiers sont mobilisés et des renforts sont attendus.",
-          "published": "2026-08-24T20:15:58+00:00"
+          "summary": "Des Etats gouvernés par les démocrates avaient obtenu d’un tribunal fédéral de première instance la suspension d’un décret signé le 31 mars par le président américain pour encadrer cette pratique.",
+          "published": "2026-08-24T23:16:26+00:00"
         },
         {
-          "title": "Aude : les images désolantes du village de Pomas ravagé par une tornade",
-          "link": "https://photo.lefigaro.fr/meteo/aude-les-images-desolantes-du-village-de-pomas-ravage-par-une-tornade-20260824",
-          "source": "Le Figaro",
-          "summary": "Le phénomène météorologique a fait lundi 26 blessés en urgence relative et a frappé une centaine de maisons.",
-          "published": "2026-08-24T20:13:57+00:00"
-        },
-        {
-          "title": "Le Premier ministre israélien, Benyamin Nétanyahou, affirme que l'Iran a \"essayé de tuer\" l'un de ses fils",
-          "link": "https://www.franceinfo.fr/monde/israel/le-premier-ministre-israelien-benyamin-netanyahou-affirme-que-l-iran-a-essaye-de-tuer-l-un-de-ses-fils_8159969.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Il s'est exprimé durant une émission télévisée, et n'a pas livré davantage de précisions sur ce projet.",
-          "published": "2026-08-24T20:08:42+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : Edouard Philippe veut augmenter de 20 % la rémunération moyenne des enseignants sur un quinquennat",
-          "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/24/presidentielle-2027-edouard-philippe-veut-augmenter-de-20-la-remuneration-moyenne-des-enseignants-sur-un-quinquennat_6755790_6205049.html",
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky souhaiterait anticiper le prêt financier européen de 2027 pour accroître la production ukrainienne de drones et missiles",
+          "link": "https://www.lemonde.fr/international/live/2026/08/25/en-direct-guerre-en-ukraine-volodymyr-zelensky-souhaiterait-anticiper-le-pret-financier-europeen-de-2027-pour-accroitre-la-production-ukrainienne-de-drones-et-missiles_6753793_3210.html",
           "source": "Le Monde",
-          "summary": "L’ancien premier ministre et candidat Horizons à l’élection présidentielle souhaite par ailleurs instaurer une « amende de responsabilisation scolaire, sur le modèle de ce qui existe au Royaume-Uni », pour les « parents…",
-          "published": "2026-08-24T20:07:27+00:00"
+          "summary": "Selon le président ukrainien, qui s’est exprimé lors d’une réunion des Etats membres de la coalition des volontaires, la défense de son pays est actuellement confrontée à un déficit budgétaire. Des décisions de dépenses…",
+          "published": "2026-08-24T23:11:09+00:00"
+        },
+        {
+          "title": "Orages : les deux départements corses maintenus en vigilance orange",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/25/orages-les-deux-departements-corses-maintenus-en-vigilance-orange_6755856_3244.html",
+          "source": "Le Monde",
+          "summary": "Les orages vont toucher une grande partie de l’île, « notamment sur la façade occidentale et le Cap », prévient Météo-France.",
+          "published": "2026-08-24T22:48:25+00:00"
+        },
+        {
+          "title": "Handicap : « Des milliers d’élèves n’ont pas l’accompagnement dont ils ont besoin », déplore l’Unapei",
+          "link": "https://www.lemonde.fr/education/article/2026/08/25/handicap-des-milliers-d-eleves-n-ont-pas-l-accompagnement-dont-ils-ont-besoin-deplore-l-unapei_6755823_1473685.html",
+          "source": "Le Monde",
+          "summary": "L’association de parents d’enfants en situation de handicap mental alerte à chaque rentrée sur l’offre de scolarisation insuffisante ou inadaptée, et demande une meilleure coordination entre l’éducation nationale et le…",
+          "published": "2026-08-24T22:01:04+00:00"
+        },
+        {
+          "title": "«Que chaque élève puisse jouir de ses droits» : malgré quelques avancées, la scolarisation des enfants en situation de handicap loin d’être satisfaisante",
+          "link": "https://www.liberation.fr/societe/education/que-chaque-eleve-puisse-jouir-de-ses-droits-malgre-quelques-avancees-la-scolarisation-des-enfants-en-situation-de-handicap-loin-detre-satisfaisante-20260825_JAJE2ABKGRG4ZH6TW2XFLCN6UI/",
+          "source": "Liberation",
+          "summary": "Selon une enquête menée par l’Unapei, un réseau d’associations, plus de 7 jeunes en situation de handicap sur 10 reçoivent moins de douze heures de cours par semaine.",
+          "published": "2026-08-24T22:01:00+00:00"
+        },
+        {
+          "title": "Mort de Philippe Bouvard : l'imitateur Laurent Gerra rend hommage à un homme \"passionnant\"",
+          "link": "https://www.franceinfo.fr/economie/medias/direct-mort-de-philippe-bouvard-emmanuel-macron-salue-une-figure-libre-qui-a-accompagne-des-generations-de-francais_8159447.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Laurent Gerra a rendu hommage lundi à Philippe Bouvard, se souvenant d'un homme \"brillantissime\", doté d'\"une culture démente\", mais aussi de sa \"bonne humeur\" et de sa \"joie de vivre\".",
+          "published": "2026-08-24T21:57:25+00:00"
         }
       ]
     },
