@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-26T01:12:40.187491+00:00",
+  "generated_at": "2026-08-26T03:52:27.880918+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "El Niño : Le Panama et le Salvador en état d’alerte face aux pluies et sécheresses intenses",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/26/el-nino-le-panama-et-le-salvador-en-etat-d-alerte-face-aux-pluies-et-secheresses-intenses_6756868_3244.html",
+          "source": "Le Monde",
+          "summary": "Ces deux pays d’Amérique centrale prennent des mesures administratives exceptionnelles pour faire face aux conditions climatiques extrêmes.",
+          "published": "2026-08-26T03:39:36+00:00"
+        },
+        {
+          "title": "Droits de douane : le difficile exercice de la riposte du Canada contre Donald Trump",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/26/droits-de-douane-le-difficile-exercice-de-la-riposte-du-canada-contre-donald-trump_6756830_3234.html",
+          "source": "Le Monde",
+          "summary": "Ottawa a précisé, mardi, ses mesures de représailles contre Washington, en réponse aux nouveaux droits de douane américains. Entre fermeté et nécessité de préserver son économie, le Canada défend un juste équilibre.",
+          "published": "2026-08-26T03:30:06+00:00"
+        },
+        {
+          "title": "Ulrich Siegmund, la figure montante de l’extrême droite allemande, qui galvanise les foules et fait trembler Berlin",
+          "link": "https://www.lemonde.fr/international/article/2026/08/26/ulrich-siegmund-la-figure-montante-de-l-extreme-droite-allemande-qui-galvanise-les-foules-et-fait-trembler-berlin_6756796_3210.html",
+          "source": "Le Monde",
+          "summary": "La tête de liste aux élections régionales en Saxe-Anhalt, prévues le 6 septembre, pourrait permettre à l’AfD de diriger pour la première fois un Land depuis la fondation de la République fédérale. Derrière un visage…",
+          "published": "2026-08-26T03:00:06+00:00"
+        },
+        {
+          "title": "La mort de Dolly Parton, héroïne de l’Amérique profonde et modèle féministe",
+          "link": "https://www.lemonde.fr/disparitions/article/2026/08/26/la-mort-de-dolly-parton-heroine-de-l-amerique-profonde-et-modele-feministe_6756797_3382.html",
+          "source": "Le Monde",
+          "summary": "La reine de la musique country et autrice-compositrice de plus d’un millier de titres, dont la chanson culte « Jolene », est morte le 25 août à l’âge de 80 ans, dans son Tennessee natal.",
+          "published": "2026-08-26T03:00:06+00:00"
+        },
+        {
+          "title": "Avec SpaceX, Elon Musk compte construire une gigantesque base spatiale en Louisiane",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260826-spacex-elon-musk-compte-construire-gigantesque-base-spatiale-louisiane-starship",
+          "source": "France 24",
+          "summary": "Elon Musk, le patron de SpaceX, a annoncé mardi vouloir construire en Louisiane le plus grand site de lancement au monde, capable d'accueillir des milliers de vols de sa mégafusée Starship chaque année, avec un premier…",
+          "published": "2026-08-26T02:59:45+00:00"
+        },
+        {
+          "title": "La Cisjordanie sous tension en raison de nouvelles attaques d’extrémistes juifs",
+          "link": "https://www.lemonde.fr/international/article/2026/08/26/la-cisjordanie-sous-tension-en-raison-de-nouvelles-attaques-d-extremistes-juifs_6756762_3210.html",
+          "source": "Le Monde",
+          "summary": "Les populations de Cisjordanie occupée sont confrontées quotidiennement au harcèlement violent des colons israéliens. La situation se dégrade, faisant craindre des risques d’une explosion de violence palestinienne en…",
+          "published": "2026-08-26T02:45:04+00:00"
+        },
+        {
+          "title": "SpaceX annonce vouloir construire en Louisiane le plus grand site de lancement spatial au monde",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/26/spacex-annonce-vouloir-construire-en-louisiane-le-plus-grand-site-de-lancement-spatial-au-monde_6756729_1650684.html",
+          "source": "Le Monde",
+          "summary": "Situé en bordure du Golfe du Mexique, dans le deuxième Etat le plus pauvre des Etats-Unis, le terrain choisi pour cette gigantesque base est deux fois et demie plus grand que la capitale Washington. La construction…",
+          "published": "2026-08-26T01:25:23+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : le Vatican appelle à mettre fin au conflit, après des entretiens avec Sergueï Lavrov à Moscou",
           "link": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-le-vatican-appelle-a-mettre-fin-au-conflit-apres-des-entretiens-avec-serguei-lavrov-a-moscou_6753793_3210.html",
@@ -24,55 +73,6 @@
           "source": "Le Monde",
           "summary": "Ces morts, qui s’ajoutent trois autres décomptées en 2025, sont survenues chez des personnes qui n’étaient pas vaccinées, un quart de siècle après que la maladie avait été déclarée éliminée du pays grâce à la…",
           "published": "2026-08-25T22:40:27+00:00"
-        },
-        {
-          "title": "Le \"Conseil de paix\" pour Gaza met en garde le Hamas contre l'utilisation de cerfs-volants",
-          "link": "https://www.france24.com/fr/moyen-orient/20260825-gaza-conseil-de-paix-met-en-garde-hamas-utilisation-cerfs-volants-israel-etats-unis",
-          "source": "France 24",
-          "summary": "Un responsable du \"Conseil de paix\" pour Gaza a demandé mardi que cesse \"toute activité militante à Gaza\", \"y compris le fait de faire voler des cerfs-volants\". Israël avait menacé dimanche le Hamas d'intensifier ses…",
-          "published": "2026-08-25T21:32:17+00:00"
-        },
-        {
-          "title": "Eboulement en Guinée : après le choc, la solidarité s'organise",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260825-eboulement-en-guin%C3%A9e-apr%C3%A8s-le-choc-la-solidarit%C3%A9-s-organise",
-          "source": "France 24",
-          "summary": "L’urgence humanitaire en Guinée après l’éboulement meurtrier d'une décharge dans la nuit de samedi à dimanche. Le bilan fait état d'au moins 31 morts. Plusieurs centaines de personnes ont été évacuées vers une école…",
-          "published": "2026-08-25T20:58:31+00:00"
-        },
-        {
-          "title": "Volkswagen : la direction en campagne pour promouvoir un plan social vertigineux",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/25/volkswagen-la-direction-en-campagne-pour-promouvoir-un-plan-social-vertigineux_6756625_3234.html",
-          "source": "Le Monde",
-          "summary": "Oliver Blume, le président du directoire du constructeur automobile allemand, a commencé mardi 25 août une tournée des usines du groupe pour convaincre les salariés de la nécessité de supprimer 50 000 postes…",
-          "published": "2026-08-25T20:00:05+00:00"
-        },
-        {
-          "title": "Syrie : les forces kurdes annoncent leur dissolution à la suite de l'accord avec Damas",
-          "link": "https://www.france24.com/fr/moyen-orient/20260825-syrie-les-forces-kurdes-annoncent-leur-dissolution-suite-%C3%A0-l-accord-avec-damas",
-          "source": "France 24",
-          "summary": "Les Forces démocratiques syriennes, dont le chef Mazloum Abdi a annoncé, mardi, la dissolution en vertu d'un accord avec le président Ahmed al-Charaa, constituaient l'armée des Kurdes de Syrie et avaient vaincu avec le…",
-          "published": "2026-08-25T19:17:10+00:00"
-        },
-        {
-          "title": "Mort de la star américaine Dolly Parton, reine populaire de la musique country",
-          "link": "https://www.france24.com/fr/culture/20260825-mort-de-la-star-am%C3%A9ricaine-dolly-parton-reine-populaire-de-la-musique-country",
-          "source": "France 24",
-          "summary": "Dolly Parton, légende de la country et icône populaire américaine, est décédée mardi à 80 ans. En mai, la chanteuse, qui aura sorti des dizaines d'albums et écoulé plus de 100 millions de disques tout au long de sa…",
-          "published": "2026-08-25T19:10:26+00:00"
-        },
-        {
-          "title": "🔴 En direct : Sophie Adenot et son coéquipier ont terminé leur mission avec succès et retournent dans l'ISS",
-          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260825-en-direct-sophie-adenot-sortie-espace-deuxieme-fois",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-08-25T19:05:23+00:00"
-        },
-        {
-          "title": "Dolly Parton, idole américaine de la musique country, est morte à l'âge de 80 ans",
-          "link": "https://www.rfi.fr/fr/monde/20260825-dolly-parton-l%C3%A9gende-de-la-musique-country-est-morte-%C3%A0-l-%C3%A2ge-de-80-ans",
-          "source": "RFI",
-          "summary": "Légende américaine de la musique country, la chanteuse Dolly Parton est morte à 80 ans, a annoncé mardi 25 août 2026 sa famille dans une vidéo. Issue d’un milieu pauvre, cette icône de la country s’est hissée jusqu’au…",
-          "published": "2026-08-25T18:12:18+00:00"
         }
       ]
     },
@@ -84,18 +84,46 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Internationaux des États-Unis | Roger Federer bat Andy Roddick lors d’un match amical",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-08-25/internationaux-des-etats-unis/roger-federer-bat-andy-roddick-lors-d-un-match-amical.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Roger Federer, quintuple vainqueur des Internationaux des États-Unis, a fait son retour sur le terrain du stade Arthur Ashe mardi soir pour un dernier match amical contre son ami et rival de toujours, Andy Roddick.",
+          "published": "2026-08-26T03:46:32+00:00"
+        },
+        {
+          "title": "Le grand concert de la francophonie | Notre meilleure armure",
+          "link": "https://www.lapresse.ca/arts/chroniques/2026-08-25/le-grand-concert-de-la-francophonie/notre-meilleure-armure.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Quand j’ai reçu en après-midi le scénario du Grand concert de la francophonie de la SuperFrancoFête, j’avoue que j’étais perplexe. À quoi peut-on s’attendre d’un spectacle qui mélange allégrement Diane Dufresne,…",
+          "published": "2026-08-26T03:20:25+00:00"
+        },
+        {
+          "title": "L’Iran diffuse une vidéo appelant à tuer le plus jeune fils du président américain",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1004111/iran-diffuse-video-appelant-tuer-plus-jeune-fils-president-americain",
+          "source": "Le Devoir",
+          "summary": "Les médias iraniens ont ciblé Barron Trump dans une vidéo qui semble le menacer de mort.",
+          "published": "2026-08-26T01:13:49+00:00"
+        },
+        {
+          "title": "David Eby exhorte Mark Carney à voir plus loin que les droits de douane de rétorsion",
+          "link": "https://www.ledevoir.com/politique/canada/1004105/david-eby-exhorte-mark-carney-voir-plus-loin-droits-douane-retorsion",
+          "source": "Le Devoir",
+          "summary": "Le premier ministre de la Colombie-Britannique estime que la réponse d’Ottawa passe à côté d’éléments clés.",
+          "published": "2026-08-26T00:28:00+00:00"
+        },
+        {
+          "title": "Un plaisancier arrêté au Canada pour exploitation sexuelle d’enfants à Hawaï",
+          "link": "https://www.ledevoir.com/actualites/justice/1004102/plaisancier-arrete-canada-exploitation-sexuelle-enfants-hawai",
+          "source": "Le Devoir",
+          "summary": "Également recherché aux États-Unis, Donald Steven Lang a été interpellé en Colombie-Britannique.",
+          "published": "2026-08-26T00:14:00+00:00"
+        },
+        {
           "title": "Les hospitalisations liées aux trottinettes électriques ont augmenté de 40 %",
           "link": "https://www.lapresse.ca/actualites/sante/2026-08-25/les-hospitalisations-liees-aux-trottinettes-electriques-ont-augmente-de-40.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Les hospitalisations d’enfants et d’adultes ayant utilisé des trottinettes électriques ont augmenté de près de 40 % au cours de l’année écoulée, selon l’Institut canadien d’information sur la santé (ICIS).",
           "published": "2026-08-26T00:07:51+00:00"
-        },
-        {
-          "title": "La Presse à New York | « On vous aime… et on vous comprend ! »",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-25/la-presse-a-new-york/on-vous-aime-et-on-vous-comprend.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’Office de tourisme de New York vient de lancer une campagne pour ramener les touristes canadiens dans la Grosse Pomme. Une initiative qui tombe bien mal puisqu’elle coïncide avec l’escalade de la « guerre commerciale…",
-          "published": "2026-08-25T23:59:05+00:00"
         },
         {
           "title": "Du côté électoral de la culture",
@@ -124,40 +152,40 @@
           "source": "Le Devoir",
           "summary": "Il coupait une branche sur le terrain d’une résidence privée de l’arrondissement montréalais d’Ahuntsic-Cartierville.",
           "published": "2026-08-25T22:00:00+00:00"
-        },
-        {
-          "title": "Pas de preuves de « brownies » | « La vérité est sortie », clame Pablo Rodriguez",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-25/pas-de-preuves-de-brownies/la-verite-est-sortie-clame-pablo-rodriguez.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Au bout du fil, Pablo Rodriguez est soulagé. « La vérité est sortie », souffle le politicien déchu. Et « cette autre version de l’histoire », celle qu’il martèle depuis le début, est qu’« il n’y a jamais eu de…",
-          "published": "2026-08-25T21:35:00+00:00"
-        },
-        {
-          "title": "Meta savait que ses outils de protection des adolescents fonctionnaient mal, selon deux témoins",
-          "link": "https://www.ledevoir.com/economie/techno/1004057/meta-savait-outils-protection-adolescents-fonctionnaient-mal-selon-deux-temoins",
-          "source": "Le Devoir",
-          "summary": "29 États américains accusent le géant des réseaux sociaux d’avoir menti sur leur dangerosité.",
-          "published": "2026-08-25T21:26:35+00:00"
-        },
-        {
-          "title": "Protection des adolescents | Le patron d’Instagram admet avoir vanté un outil de sécurité quasi inutilisé",
-          "link": "https://www.lapresse.ca/affaires/techno/2026-08-25/protection-des-adolescents/le-patron-d-instagram-admet-avoir-vante-un-outil-de-securite-quasi-inutilise.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le patron d’Instagram Adam Mosseri a admis mardi, lors du procès de Meta à Oakland (Californie), avoir vanté le succès d’un outil de protection des adolescents alors que le géant des réseaux sociaux savait qu’il était…",
-          "published": "2026-08-25T20:51:23+00:00"
-        },
-        {
-          "title": "Le milieu des affaires est préoccupé par les contre-tarifs canadiens",
-          "link": "https://www.ledevoir.com/economie/1004012/milieu-affaires-est-preoccupe-contre-tarifs-canadiens",
-          "source": "Le Devoir",
-          "summary": "Les entreprises voient d’un bon œil les mesures d’aide annoncées, mais préféreraient des subventions à des prêts.",
-          "published": "2026-08-25T20:44:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "«Face à la mer» de Helen Walsh, austère à terre",
+          "link": "https://www.liberation.fr/culture/cinema/face-a-la-mer-de-helen-walsh-austere-a-terre-20260826_YWZZK54YHBGLTCWJKUYEI5G5OE/",
+          "source": "Liberation",
+          "summary": "Romance gay entre deux ramasseurs de crustacés au pays de Galles, le film de Helen Walsh se révèle un peu trop sage et déjà vu.",
+          "published": "2026-08-26T03:44:00+00:00"
+        },
+        {
+          "title": "Raphaël Glucksmann : « J’invite Les Ecologistes à faire campagne, avec nous, à la présidentielle »",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/26/raphael-glucksmann-l-europe-est-cruciale-pour-mener-a-bien-la-transformation-ecologique_6756834_823448.html",
+          "source": "Le Monde",
+          "summary": "Le candidat à la présidentielle de 2027 revient dans un entretien au « Monde » sur la « République écologique » qu’il propose et les raisons qui devraient inciter Les Ecologistes à le rejoindre. Il souhaite aussi taxer…",
+          "published": "2026-08-26T03:31:33+00:00"
+        },
+        {
+          "title": "La mort de Dolly Parton, héroïne de l’Amérique profonde et modèle féministe",
+          "link": "https://www.lemonde.fr/disparitions/article/2026/08/26/la-mort-de-dolly-parton-heroine-de-l-amerique-profonde-et-modele-feministe_6756797_3382.html",
+          "source": "Le Monde",
+          "summary": "La reine de la musique country et autrice-compositrice de plus d’un millier de titres, dont la chanson culte « Jolene », est morte le 25 août à l’âge de 80 ans, dans son Tennessee natal.",
+          "published": "2026-08-26T03:00:06+00:00"
+        },
+        {
+          "title": "SpaceX annonce vouloir construire en Louisiane le plus grand site de lancement spatial au monde",
+          "link": "https://www.lemonde.fr/sciences/article/2026/08/26/spacex-annonce-vouloir-construire-en-louisiane-le-plus-grand-site-de-lancement-spatial-au-monde_6756729_1650684.html",
+          "source": "Le Monde",
+          "summary": "Situé en bordure du Golfe du Mexique, dans le deuxième Etat le plus pauvre des Etats-Unis, le terrain choisi pour cette gigantesque base est deux fois et demie plus grand que la capitale Washington. La construction…",
+          "published": "2026-08-26T01:25:23+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : le Vatican appelle à mettre fin au conflit, après des entretiens avec Sergueï Lavrov à Moscou",
           "link": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-le-vatican-appelle-a-mettre-fin-au-conflit-apres-des-entretiens-avec-serguei-lavrov-a-moscou_6753793_3210.html",
@@ -199,34 +227,6 @@
           "source": "Le Monde",
           "summary": "Les autorités ont présenté mardi une chronologie des moyens mobilisés et des décisions prises au plus fort du sinistre, alors que la colère reste vive dans la commune où s’est acharné l’incendie.",
           "published": "2026-08-25T22:27:00+00:00"
-        },
-        {
-          "title": "La mission extravéhiculaire de Sophie Adenot dans l'espace, \"l'équivalent d'un marathon\" à 28 000 km/h",
-          "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/la-sortie-de-sophie-adenot-dans-l-espace-l-equivalent-d-un-marathon-a-28-000-km-h_8161421.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Pas une, mais deux sorties dans l’espace en une semaine, avec autour d’elle, le vide spatial, et 400 kilomètres plus bas, la Terre… Sophie Adenot a de nouveau quitté la Station spatiale internationale en début…",
-          "published": "2026-08-25T22:01:24+00:00"
-        },
-        {
-          "title": "L'administration Trump évoque une possible démolition du Kennedy Center si le nom du président américain disparaît",
-          "link": "https://www.lefigaro.fr/international/l-administration-trump-evoque-une-possible-demolition-du-kennedy-center-si-le-nom-du-president-americain-disparait-20260825",
-          "source": "Le Figaro",
-          "summary": "Le gouvernement de Donald Trump menace de faire démolir le Kennedy Center si la justice s’oppose au retour du nom du président sur la façade. L’administration du président affirme que l’institution risque de se dégrader…",
-          "published": "2026-08-25T21:58:43+00:00"
-        },
-        {
-          "title": "\"Le monde est beaucoup moins lumineux\" : politiques et artistes américains saluent la mémoire de Dolly Parton, \"une des plus grandes artistes de notre époque\"",
-          "link": "https://www.franceinfo.fr/monde/usa/le-monde-est-beaucoup-moins-lumineux-politiques-et-artistes-americains-saluent-la-memoire-de-dolly-parton-une-des-plus-grandes-artistes-de-notre-epoque_8161340.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le président américain a ordonné que les drapeaux soient mis en berne sur les bâtiments publics des Etats-Unis pendant une semaine.",
-          "published": "2026-08-25T21:57:45+00:00"
-        },
-        {
-          "title": "Mort de Dolly Parton : Donald Trump fait mettre les drapeaux en berne, émotion unanime dans une Amérique divisée",
-          "link": "https://www.lefigaro.fr/musique/mort-de-dolly-parton-donald-trump-fait-mettre-les-drapeaux-en-berne-et-regrette-une-vraie-perte-pour-des-millions-de-personnes-20260825",
-          "source": "Le Figaro",
-          "summary": "Après la mort de la figure emblématique de la country, de nombreuses personnalités saluent la mémoire de la chanteuse, à l’image de Bill Clinton, Mick Jagger, Julia Roberts, Jeff Bezos ou encore Tim Cook.",
-          "published": "2026-08-25T21:46:43+00:00"
         }
       ]
     },
