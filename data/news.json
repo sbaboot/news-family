@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-26T09:39:19.040462+00:00",
+  "generated_at": "2026-08-26T12:49:05.103880+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : un mort et 12 blessés dans la région de Kherson, selon le chef de l’administration militaire de l’oblast",
-          "link": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-un-mort-et-12-blesses-dans-la-region-de-kherson-selon-le-chef-de-l-administration-militaire-de-l-oblast_6753793_3210.html",
+          "title": "Haïti : au moins 47 morts dans une attaque de gangs près de la capitale",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-ha%C3%AFti-au-moins-47-morts-dans-une-attaque-de-gangs-pr%C3%A8s-de-la-capitale",
+          "source": "France 24",
+          "summary": "Environ quarante personnes ont été tuées dans la nuit de dimanche à lundi lors d'une attaque menée par des membres de gangs armés à Kenscoff, a indiqué à l'AFP Massillon Jean, maire de cette commune située dans les…",
+          "published": "2026-08-26T12:40:32+00:00"
+        },
+        {
+          "title": "Le président iranien assure que les Etats-Unis, qui misent sur l’asphyxie économique du pays, n’obtiendront « rien »",
+          "link": "https://www.lemonde.fr/international/article/2026/08/26/le-president-iranien-assure-que-les-etats-unis-qui-misent-sur-l-asphyxie-economique-du-pays-n-obtiendront-rien_6757371_3210.html",
           "source": "Le Monde",
-          "summary": "Au cours des dernières vingt-quatre heures, les forces russes ont bombardé plusieurs localités de cette région du sud de l’Ukraine, à l’aide d’avions, de drones et d’artillerie, selon Oleksandr Prokudin. Huit immeubles…",
-          "published": "2026-08-26T09:13:37+00:00"
+          "summary": "Alors que les négociations sont dans l’impasse, le premier ministre israélien, Benyamin Nétanyahou, a déclaré de son côté qu’aucun accord diplomatique n’était possible avec les dirigeants iraniens, qualifiés de «…",
+          "published": "2026-08-26T12:01:24+00:00"
         },
         {
-          "title": "Droits de douane : le Canada durcit sa riposte face aux États-Unis",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-droits-de-douane-le-canada-durcit-sa-riposte-face-aux-%C3%A9tats-unis",
-          "source": "France 24",
-          "summary": "Le Canada imposera à partir du 8 septembre des droits de douane de 15 à 50% sur une série de produits américains et ripostera encore si son secteur automobile est touché par de nouvelles surtaxes des Etats-Unis, avec…",
-          "published": "2026-08-26T09:04:06+00:00"
-        },
-        {
-          "title": "ChatGPT, Gemini, Claude : l'IA peut-elle être raciste ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-chatgpt-gemini-claude-l-ia-peut-elle-%C3%AAtre-raciste",
-          "source": "France 24",
-          "summary": "Une intelligence artificielle peut-elle reproduire des préjugés racistes ? C’est la question posée après un test mené par des internautes sur . À une même phrase, ses réponses peuvent varier selon la nationalité de la…",
-          "published": "2026-08-26T09:03:39+00:00"
-        },
-        {
-          "title": "Afghanistan : un million d’enfants menacés par la malnutrition, alerte l’Unicef",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-afghanistan-un-million-d-enfants-menac%C3%A9s-par-la-malnutrition-alerte-l-unicef",
-          "source": "France 24",
-          "summary": "Un million d'enfants souffrant de malnutrition aigüe sévère en Afghanistan se trouvent en danger de mort si rien n'est fait pour leur venir en aide, a prévenu mardi le Fonds des Nations unies pour l'enfance (Unicef).",
-          "published": "2026-08-26T09:02:51+00:00"
-        },
-        {
-          "title": "Au Mexique, la tentative d’un ex-gouverneur pour revenir au pouvoir au Sinaloa tourne au fiasco",
-          "link": "https://www.lemonde.fr/international/article/2026/08/26/au-mexique-la-tentative-d-un-ex-gouverneur-pour-revenir-au-pouvoir-au-sinaloa-tourne-au-fiasco_6757355_3210.html",
+          "title": "L’Australie vaccine 5 000 manchots pygmées pour les protéger d’un variant hautement pathogène de la grippe aviaire",
+          "link": "https://www.lemonde.fr/planete/article/2026/08/26/l-australie-vaccine-5-000-manchots-pygmees-pour-les-proteger-d-un-variant-hautement-pathogene-de-la-grippe-aviaire_6757370_3244.html",
           "source": "Le Monde",
-          "summary": "Ruben Rocha, dont les Etats-Unis réclament l’extradition pour ses liens présumés avec une faction du cartel de Sinaloa, a tenté un tour de force pour redevenir gouverneur de cet Etat. La présidente mexicaine, Claudia…",
-          "published": "2026-08-26T09:00:08+00:00"
+          "summary": "Le pays mène une course contre la montre pour protéger sa faune exceptionnelle de l’influenza aviaire, qui menace de nombreuses espèces endémiques. Une campagne de vaccination d’une ampleur inédite a commencé.",
+          "published": "2026-08-26T12:00:03+00:00"
         },
         {
-          "title": "Le blocus de l’information doit cesser à Gaza",
-          "link": "https://www.lemonde.fr/idees/article/2026/08/26/le-blocus-de-l-information-doit-cesser-a-gaza_6757354_3232.html",
-          "source": "Le Monde",
-          "summary": "Depuis le déclenchement de l’offensive militaire à Gaza, en réponse aux attaques terroristes du 7 octobre 2023, les journalistes sont empêchés de faire leur travail et deviennent des cibles.",
-          "published": "2026-08-26T08:59:12+00:00"
-        },
-        {
-          "title": "À la Une: un monde de moins en moins démocratique",
-          "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20260826-%C3%A0-la-une-un-monde-de-moins-en-moins-d%C3%A9mocratique",
-          "source": "RFI",
-          "summary": "",
-          "published": "2026-08-26T08:41:23+00:00"
-        },
-        {
-          "title": "Le Canada riposte en imposant des surtaxes de 15 à 50% aux Etats-Unis",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-le-canada-riposte-en-imposant-des-surtaxes-de-15-%C3%A0-50-aux-etats-unis",
+          "title": "En Guinée, la solidarité s'organise après l'éboulement d'une décharge à Conakry",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-en-guin%C3%A9e-la-solidarit%C3%A9-s-organise-apr%C3%A8s-l-%C3%A9boulement-d-une-d%C3%A9charge-%C3%A0-conakry",
           "source": "France 24",
-          "summary": "Le Canada imposera à partir du 8 septembre des droits de douane de 15 à 50% sur une série de produits américains et ripostera encore si son secteur automobile est touché par de nouvelles surtaxes des Etats-Unis, avec…",
-          "published": "2026-08-26T08:40:51+00:00"
+          "summary": "🇬🇳 En Guinée, la solidarité s’organise après l’éboulement meurtrier d’une décharge qui a fait 31 morts dans la nuit de samedi à dimanche. Plusieurs centaines d’habitants ont été évacués vers une école transformée en…",
+          "published": "2026-08-26T11:31:47+00:00"
         },
         {
-          "title": "France : Pomas, village des Corbières, dévasté par une tornade",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-france-pomas-village-des-corbi%C3%A8res-d%C3%A9vast%C3%A9-par-une-tornade",
+          "title": "La légende de la country Dolly Parton est morte à 80 ans",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-la-l%C3%A9gende-de-la-country-dolly-parton-est-morte-%C3%A0-80-ans",
           "source": "France 24",
-          "summary": "Au lendemain du passage d'une tornade d'une violence exceptionnelle, les habitants de Pomas (Aude), traumatisés, évaluent l'ampleur des dégâts : 300 maisons sur 500 ont été endommagées, mais le bilan humain reste limité…",
-          "published": "2026-08-26T08:40:18+00:00"
+          "summary": "La légende américaine de la country Dolly Parton est morte à 80 ans. De \"Jolene\" à \"I Will Always Love You\", l'autrice de quelque 3 000 chansons laisse une empreinte majeure sur la culture populaire américaine. Sa…",
+          "published": "2026-08-26T11:24:41+00:00"
         },
         {
-          "title": "Midterms 2026 : la Cour suprême donne gain de cause à Trump sur le vote par correspondance",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-midterms-2026-la-cour-supr%C3%AAme-donne-gain-de-cause-%C3%A0-trump-sur-le-vote-par-correspondance",
+          "title": "Après un Mondial 2026 réussi, le Marocain Bouaddi file à Manchester City pour un montant record",
+          "link": "https://www.france24.com/fr/sports/20260826-apr%C3%A8s-un-mondial-2026-r%C3%A9ussi-le-marocain-bouaddi-file-%C3%A0-manchester-city-pour-un-pactole-record",
           "source": "France 24",
-          "summary": "La Cour suprême des Etats-Unis a ⁠levé lundi une injonction qui ​empêchait l'administration du président Donald Trump de mettre en oeuvre un décret prévoyant des restrictions sur le vote par correspondance en vue des…",
-          "published": "2026-08-26T08:37:41+00:00"
+          "summary": "Rayonnant à Lille depuis deux saisons et avec le Maroc lors du Mondial 2026, Ayyoub Bouaddi s'est engagé mercredi avec Manchester City jusqu'en 2031. Pour s'attacher les services du jeune milieu de terrain de 18 ans,…",
+          "published": "2026-08-26T11:23:13+00:00"
+        },
+        {
+          "title": "Soudan : les États-Unis veulent étendre l’embargo sur les armes",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-soudan-les-%C3%A9tats-unis-veulent-%C3%A9tendre-l-embargo-sur-les-armes",
+          "source": "France 24",
+          "summary": "Les Etats-Unis ont proposé lundi d'étendre à tout le Soudan, en guerre depuis plus de trois ans, l'embargo des Nations unies sur les armes instauré au Darfour, pour faire face au risque de régionalisation du conflit.",
+          "published": "2026-08-26T11:20:44+00:00"
+        },
+        {
+          "title": "Tchad : l’extraction de sable menace le fleuve Chari",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-tchad-l-extraction-de-sable-menace-le-fleuve-chari",
+          "source": "France 24",
+          "summary": "Au Tchad, l’extraction de sable dans des carrières qui longent le fleuve Chari met en péril le cours d’eau et l’environnement alentour. C’est pour cette raison que le ministère des Mines a interdit cette activité. Mais…",
+          "published": "2026-08-26T11:19:38+00:00"
+        },
+        {
+          "title": "Sénégal : à Gorée, immersion dans le très sélectif lycée Mariama Bâ",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-s%C3%A9n%C3%A9gal-%C3%A0-gor%C3%A9e-immersion-dans-le-tr%C3%A8s-s%C3%A9lectif-lyc%C3%A9e-mariama-b%C3%A2",
+          "source": "France 24",
+          "summary": "Au Sénégal, découverte de l’École Mariama Bâ, située sur l’île de Gorée, au large de Dakar. Cet établissement réservé aux filles accueille, après un concours très sélectif, des élèves venues de tout le pays. L’école a…",
+          "published": "2026-08-26T11:19:07+00:00"
+        },
+        {
+          "title": "Ebola en RD Congo : pourquoi la riposte peine-t-elle à contenir l'épidémie ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-ebola-en-rd-congo-pourquoi-la-riposte-peine-t-elle-%C3%A0-contenir-l-%C3%A9pid%C3%A9mie",
+          "source": "France 24",
+          "summary": "En RD Congo, la propagation de l'épidémie d’Ebola est plus rapide que la riposte … C’est le constat alarmant des acteurs humanitaires présents dans les zones touchées par le virus. Selon l’OMS, une personne meurt…",
+          "published": "2026-08-26T11:17:46+00:00"
         }
       ]
     },
@@ -83,6 +83,27 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "La mort de Dolly Parton offre un rare moment de cohésion dans des États-Unis divisés",
+          "link": "https://www.ledevoir.com/culture/musique/1004162/mort-dolly-parton-offre-rare-moment-cohesion-etats-unis-divises",
+          "source": "Le Devoir",
+          "summary": "Politiciens, artistes, gens d’affaires: le deuil de la vedette country procure aux Américains un moment d’émotion partagé.",
+          "published": "2026-08-26T12:18:16+00:00"
+        },
+        {
+          "title": "Oman et Téhéran négocient la régulation du détroit d’Ormuz, sans déblocage en vue",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1004153/oman-teheran-negocient-regulation-detroit-ormuz-deblocage-vue",
+          "source": "Le Devoir",
+          "summary": "L’Iran prévient cependant que le passage stratégique ne sera pas ouvert avant que Washington ne mette fin à la guerre.",
+          "published": "2026-08-26T11:28:26+00:00"
+        },
+        {
+          "title": "Éric Duhaime propose une baisse d’impôt de 59% pour les entreprises",
+          "link": "https://www.ledevoir.com/politique/quebec/1004138/eric-duhaime-propose-baisse-impot-59-entreprises",
+          "source": "Le Devoir",
+          "summary": "Le chef conservateur compte réduire graduellement le taux de l’impôt sur le revenu des sociétés de 11,5% à 4,7%.",
+          "published": "2026-08-26T10:52:00+00:00"
+        },
         {
           "title": "La guerre commerciale vue des États-Unis | « Tourner le dos à son meilleur ami »",
           "link": "https://www.lapresse.ca/actualites/2026-08-26/la-guerre-commerciale-vue-des-etats-unis/tourner-le-dos-a-son-meilleur-ami.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
@@ -101,7 +122,7 @@
           "title": "Guerre commerciale | Trump cogne sur le Canada et réveille les Américains",
           "link": "https://www.lapresse.ca/actualites/analyses/2026-08-26/guerre-commerciale/trump-cogne-sur-le-canada-et-reveille-les-americains.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le président américain Donald Trump est furieux. Et ce n’est pas uniquement parce que le premier ministre de l’Ontario, Doug Ford, l’a traité de « loser » après l’avoir invité à lui embrasser le derrière dans une…",
+          "summary": "Le président américain, Donald Trump, est furieux. Et ce n’est pas uniquement parce que le premier ministre de l’Ontario, Doug Ford, l’a traité de « loser » après l’avoir invité à lui embrasser le derrière dans une…",
           "published": "2026-08-26T09:00:00+00:00"
         },
         {
@@ -126,31 +147,10 @@
           "published": "2026-08-26T09:00:00+00:00"
         },
         {
-          "title": "Les grands oubliés des campagnes électorales",
-          "link": "https://www.ledevoir.com/opinion/libre-opinion/1004054/grands-oublies-campagnes-electorales",
-          "source": "Le Devoir",
-          "summary": "Les enfants ont besoin de stabilité, de sécurité et d’adultes capables de les accompagner dans leur parcours.",
-          "published": "2026-08-26T04:00:00+00:00"
-        },
-        {
           "title": "«1666: Amsterdam» : quinze ans pour convoquer le diable",
           "link": "https://www.ledevoir.com/culture/ecrans/1004045/1666-amsterdam-quinze-ans-convoquer-diable",
           "source": "Le Devoir",
           "summary": "Le créateur d’«Assassin’s Creed» revient sur l’idéation et l’évolution du deuxième jeu de son studio indépendant.",
-          "published": "2026-08-26T04:00:00+00:00"
-        },
-        {
-          "title": "Une crise de respect",
-          "link": "https://www.ledevoir.com/opinion/idees/1004036/crise-respect",
-          "source": "Le Devoir",
-          "summary": "Les salves de Donald Trump et de Mark Carney n’ont pas interrompu les échanges commerciaux.",
-          "published": "2026-08-26T04:00:00+00:00"
-        },
-        {
-          "title": "L’ombre électorale (bis) de Donald Trump",
-          "link": "https://www.ledevoir.com/opinion/editoriaux/1004051/ombre-electorale-bis-donald-trump",
-          "source": "Le Devoir",
-          "summary": "La guerre tarifaire ne peut tout éclipser, au risque que le Québec hérite d’un gouvernement de surprises le 5 octobre.",
           "published": "2026-08-26T04:00:00+00:00"
         }
       ]
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Paris : l'automobiliste qui a poignardé un cycliste après un différend a été interpellé, la victime est sortie de l'hôpital",
-          "link": "https://www.franceinfo.fr/faits-divers/accident/paris-un-cycliste-poignarde-au-cou-par-un-automobiliste-apres-un-differend-sur-la-route_8161955.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Après une altercation, le cycliste a porté \"des coups de poing au conducteur à travers la fenêtre\" de son véhicule et c'est à ce moment que l'automobiliste lui a porté un coup de couteau, explique le parquet de Paris.",
-          "published": "2026-08-26T09:34:28+00:00"
-        },
-        {
-          "title": "Iran : deux hommes exécutés pour une série de crimes, notamment des vols à main armée",
-          "link": "https://www.lefigaro.fr/international/iran-deux-hommes-executes-pour-une-serie-de-crimes-notamment-des-vols-a-main-armee-20260826",
+          "title": "EN DIRECT - REF 2026 : «Si l’étatisme était la solution, nous serions champions du monde», lance le patron du Medef Patrick Martin",
+          "link": "https://www.lefigaro.fr/societes/en-direct-suivez-le-discours-du-patron-du-medef-patrick-martin-en-ouverture-de-la-rencontre-des-entrepreneurs-de-france-2026-20260826",
           "source": "Le Figaro",
-          "summary": "Selon Mizan Online, les deux frères faisaient partie d’un gang responsable de plus de 200 vols à main armée, dont plusieurs dans des hôpitaux de plusieurs provinces du pays.",
-          "published": "2026-08-26T09:33:45+00:00"
+          "summary": "Le président du Medef, qui revendique 20.000 participants sur deux jours appelle les entrepreneurs à être des «militants de l’entreprise» et défend une ligne résolument libérale.",
+          "published": "2026-08-26T12:48:36+00:00"
         },
         {
-          "title": "Paris : un automobiliste interpellé après avoir poignardé un cycliste au cou à la suite d’un différend routier",
+          "title": "Sébastien Lecornu débute sa visite à Dzaoudzi, les manifestants expulsés de la place de la République",
+          "link": "https://la1ere.franceinfo.fr/mayotte/direct-sebastien-lecornu-est-arrive-a-mayotte-ce-mercredi-pour-une-visite-de-deux-jours-1730969.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'avion de l'armée de l'Air transportant Sébastien Lecornu est arrivé à Mayotte, ce mercredi 26 août, vers 11h10. Le Premier ministre est accompagné d’Édouard Geffray, ministre de l’Éducation nationale, de Stéphanie…",
+          "published": "2026-08-26T12:44:21+00:00"
+        },
+        {
+          "title": "Affaire Patrick Bruel : les maires qui s’opposent à ses concerts, preuve que la musique de fond a changé",
+          "link": "https://www.liberation.fr/idees-et-debats/opinions/affaire-patrick-bruel-les-maires-qui-sopposent-a-ses-concerts-preuve-que-la-musique-de-fond-a-change-20260826_MYURL7BEWZE5BHGIARRYLPPHW4/",
+          "source": "Liberation",
+          "summary": "Symbolique car les édiles peuvent difficilement interdire ces prestations, la condamnation de la future tournée du chanteur laisse espérer que la lutte contre violences sexistes et sexuelles s’est imposée dans la…",
+          "published": "2026-08-26T12:42:25+00:00"
+        },
+        {
+          "title": "Laurent Nuñez apporte son soutien aux forces de l'ordre après l'altercation entre le député LFI Sébastien Delogu et des policiers",
+          "link": "https://www.franceinfo.fr/faits-divers/police/laurent-nunez-apporte-son-soutien-aux-forces-de-l-ordre-apres-l-altercation-entre-le-depute-lfi-sebastien-delogu-et-des-policiers_8162432.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les trois policiers impliqués dans cette affaire ont déposé plainte contre Sébastien Delogu, a indiqué le parquet de Marseille.",
+          "published": "2026-08-26T12:40:17+00:00"
+        },
+        {
+          "title": "«Je suis élu de la République ! Vous savez qui je suis ?» : ce que contient la plainte des policiers contre Sébastien Delogu",
+          "link": "https://www.lefigaro.fr/marseille/je-suis-elu-de-la-republique-vous-savez-qui-je-suis-ce-que-contient-la-plainte-des-policiers-contre-sebastien-delogu-20260826",
+          "source": "Le Figaro",
+          "summary": "INFO LE FIGARO - Dans la plainte d’un des policiers que Le Figaro s’est procurée, le député LFI des Bouches-du-Rhône Sébastien Delogu est accusé d’avoir insulté les membres des forces de l’ordre et de les avoir suivis…",
+          "published": "2026-08-26T12:39:22+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine : Zelensky annonce avoir rendu visite aux troupes sur le front",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-zelensky-annonce-avoir-rendu-visite-aux-troupes-sur-le-front-20260826",
+          "source": "Le Figaro",
+          "summary": "«Aujourd’hui, avec le commandant en chef des forces armées Mykhaïlo Drapaty, nous sommes sur la ligne de front dans le secteur Oleksandrivskïi», a-t-il écrit sur les réseaux sociaux.",
+          "published": "2026-08-26T12:38:17+00:00"
+        },
+        {
+          "title": "Collision, coup de couteau, suspect interpellé... Ce que l’on sait de l’agression au couteau d’un cycliste par un automobiliste à Paris",
           "link": "https://www.lefigaro.fr/faits-divers/paris-un-automobiliste-poignarde-un-cycliste-au-cou-apres-un-differend-routier-son-pronostic-vital-engage-20260826",
           "source": "Le Figaro",
-          "summary": "L'agresseur, qui a d’abord pris la fuite en voiture après les faits, a été interpellé hier aux alentours de 17h. Le pronostic vital de la victime est engagé.",
-          "published": "2026-08-26T09:31:56+00:00"
+          "summary": "L'agresseur, qui a d’abord pris la fuite en voiture après les faits, a été interpellé hier aux alentours de 17 heures. Le pronostic vital de la victime n’est plus engagé.",
+          "published": "2026-08-26T12:37:29+00:00"
         },
         {
-          "title": "Espagne : une mère et sa fille, grièvement blessées par l’effondrement d’un mur lors de crues soudaines, sont mortes",
-          "link": "https://www.lefigaro.fr/international/espagne-une-mere-et-sa-fille-grievement-blessees-par-l-effondrement-d-un-mur-lors-de-crues-soudaines-sont-mortes-20260826",
-          "source": "Le Figaro",
-          "summary": "Les deux femmes figuraient parmi les trois personnes blessées samedi près du front de mer dans le port de Roda de Berà, à environ 75 kilomètres au sud-ouest de Barcelone.",
-          "published": "2026-08-26T09:28:00+00:00"
-        },
-        {
-          "title": "Barack Obama, Beyoncé, Jane Fonda... les Etats-Unis sans clivages face à la mort de Dolly Parton",
-          "link": "https://www.liberation.fr/international/amerique/barack-obama-beyonce-jane-fonda-les-etats-unis-sans-clivages-face-a-la-mort-de-dolly-parton-20260826_WITGXO4ZSVHNHEKU5BIFFCYQDU/",
+          "title": "Harry et Meghan sont de retour au Royaume-Uni, six ans après",
+          "link": "https://www.liberation.fr/international/europe/harry-et-meghan-sont-de-retour-au-royaume-uni-six-ans-apres-20260826_QEW6ONIQMZEFLGPKOBJFNNUFRA/",
           "source": "Liberation",
-          "summary": "De Fox News à CNN, de Trump à Biden, à Los Angeles comme dans le Tennessee, les Américains semblent pour une fois unis après l’annonce de la chanteuse, mardi à 80 ans.",
-          "published": "2026-08-26T09:26:51+00:00"
+          "summary": "Le couple a atterri ce mercredi 26 août à la mi-journée à l’aéroport de Birmingham, depuis les Etats-Unis. Ils prévoient de s’installer en Angleterre.",
+          "published": "2026-08-26T12:37:00+00:00"
         },
         {
-          "title": "Un premier cas autochtone de dengue détecté à Marseille",
-          "link": "https://www.lefigaro.fr/marseille/un-premier-cas-autochtone-de-dengue-detecte-a-marseille-20260826",
+          "title": "Italie : un Français interpellé avec trois missiles dans sa camionnette",
+          "link": "https://www.lefigaro.fr/international/italie-un-francais-interpelle-avec-trois-missiles-dans-sa-camionnette-20260826",
           "source": "Le Figaro",
-          "summary": "La personne identifiée se trouve dans le 12e arrondissement et a été probablement infectée par un moustique-tigre.",
-          "published": "2026-08-26T09:26:46+00:00"
+          "summary": "L’homme, identifié comme Régis N., 46 ans, a été arrêté en juin dans la ville portuaire de Bari, dans le sud du pays, et est depuis en détention provisoire dans l’attente de la fin de l’enquête.",
+          "published": "2026-08-26T12:36:08+00:00"
         },
         {
-          "title": "Chine : une coulée de boue soudaine au Népal fait de «nombreuses victimes» et disparus au Tibet",
-          "link": "https://www.lefigaro.fr/international/chine-une-coulee-de-boue-soudaine-au-nepal-a-fait-de-nombreuses-victimes-et-disparus-au-tibet-20260826",
+          "title": "Après le passage d’une tornade, des images de drone montrent l’ampleur des dégâts à Pomas",
+          "link": "https://www.lefigaro.fr/flash-actu/apres-le-passage-d-une-tornade-des-images-de-drone-montrent-l-ampleur-des-degats-a-pomas-20260826",
           "source": "Le Figaro",
-          "summary": "Le président chinois Xi Jinping a ordonné «la mobilisation de tous les moyens» afin de secourir les blessés. Les autorités ou les médias officiels n’ont encore communiqué aucun bilan humain précis.",
-          "published": "2026-08-26T09:18:20+00:00"
-        },
-        {
-          "title": "États-Unis : la «tsarine des grâces de la Maison Blanche» alerte contre des arnaques au pardon présidentiel",
-          "link": "https://www.lefigaro.fr/international/etats-unis-la-tsarine-des-graces-alerte-contre-des-arnaques-au-pardon-presidentiel-20260826",
-          "source": "Le Figaro",
-          "summary": "« Si quelqu’un vous contacte en prétendant me représenter et vous demande de l’argent ou des informations sensibles, veuillez le signaler immédiatement aux forces de l’ordre », a écrit dans un message publié sur les…",
-          "published": "2026-08-26T09:16:32+00:00"
-        },
-        {
-          "title": "Durée maximale, contrôle renforcé... Ce qui change pour les arrêts maladie à partir du 1er septembre",
-          "link": "https://www.lefigaro.fr/social/duree-maximale-controle-renforce-ce-qui-change-pour-les-arrets-maladie-a-partir-du-1er-septembre-20260826",
-          "source": "Le Figaro",
-          "summary": "De nouvelles règles plus strictes sur les arrêts maladie entrent en vigueur en cette rentrée, conformément au budget de la Sécurité sociale 2026 voté en fin d’année dernière.",
-          "published": "2026-08-26T09:15:00+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : un mort et 12 blessés dans la région de Kherson, selon le chef de l’administration militaire de l’oblast",
-          "link": "https://www.lemonde.fr/international/live/2026/08/26/en-direct-guerre-en-ukraine-un-mort-et-12-blesses-dans-la-region-de-kherson-selon-le-chef-de-l-administration-militaire-de-l-oblast_6753793_3210.html",
-          "source": "Le Monde",
-          "summary": "Au cours des dernières vingt-quatre heures, les forces russes ont bombardé plusieurs localités de cette région du sud de l’Ukraine, à l’aide d’avions, de drones et d’artillerie, selon Oleksandr Prokudin. Huit immeubles…",
-          "published": "2026-08-26T09:13:37+00:00"
+          "summary": "Deux jours après le passage de la tornade dans l’Aude, le village de Pomas panse ses plaies. Plus de 300 maisons sur 500 ont été endommagées.",
+          "published": "2026-08-26T12:30:07+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Des chercheurs retournent Microsoft Defender contre lui-même, Microsoft ne juge pas le problème prioritaire",
-          "link": "https://www.clubic.com/actualite-626821-des-chercheurs-retournent-microsoft-defender-contre-lui-meme-microsoft-ne-juge-pas-le-probleme-prioritaire.html",
+          "title": "Ce forfait mobile à seulement 2,99 €/mois est le bon plan rentrée, à saisir avant le 2 septembre",
+          "link": "https://www.frandroid.com/bons-plans/3222491_ce-forfait-mobile-a-seulement-299-e-mois-est-le-bon-plan-rentree-a-saisir-avant-le-2-septembre",
+          "source": "Frandroid",
+          "summary": "Cdiscount Mobile lance son bon plan de rentrée à prix mini. Pour moins de 3 euros par mois, ce petit forfait couvre l'essentiel, à condition de faire vite.",
+          "published": "2026-08-26T12:45:34+00:00"
+        },
+        {
+          "title": "Ça se rapproche ! Les robotaxis de Waymo débarquent sur les routes allemandes, sa première dans l'UE",
+          "link": "https://www.clubic.com/actualite-626809-waymo-lance-ses-robotaxis-en-allemagne-des-2027-ce-que-cela-va-changer.html",
           "source": "Clubic",
-          "summary": "Des chercheurs sont parvenus à détourner un pilote légitime de Microsoft Defender à des fins offensives. Conçu pour éliminer les menaces, ce composant peut aussi servir à mettre l’antivirus hors jeu au démarrage.",
-          "published": "2026-08-26T09:33:00+00:00"
+          "summary": "Waymo vient d’annoncer le lancement de ses premiers tests de robotaxis à Munich, avec l’ouverture d’un service commercial dès la fin 2027. Une nouvelle étape qui confirme les ambitions de la filiale de Google en Europe.",
+          "published": "2026-08-26T12:31:00+00:00"
         },
         {
-          "title": "SpaceX va construire sa plus grande base pour 100 milliards de dollars et viser 10 000 lancements par an",
-          "link": "https://www.numerama.com/sciences/2318525-spacex-en-louisiane-la-nouvelle-starbase-a-100-milliards-de-dollars-se-prepare.html",
-          "source": "Numerama",
-          "summary": "SpaceX a officialisé le projet de construction d'une nouvelle base de lancement du côté de la Louisiane. Un projet pharaonique sur plus de 50 000 hectares d'où l'entreprise espère lancer des milliers de fusées.",
-          "published": "2026-08-26T09:32:00+00:00"
+          "title": "Fenix 9 : ces nouvelles fonctions arriveront aussi sur votre ancienne montre Garmin",
+          "link": "https://www.frandroid.com/marques/garmin/3222575_fenix-9-ces-nouvelles-fonctions-arriveront-aussi-sur-votre-ancienne-montre-garmin",
+          "source": "Frandroid",
+          "summary": "Garmin vient de casser une règle qu'elle appliquait depuis une quinzaine d'années. Les nouveautés logicielles des Fenix 9 vont aussi arriver, par simple mise à jour, sur une bonne partie des montres déjà vendues.",
+          "published": "2026-08-26T12:27:54+00:00"
         },
         {
-          "title": "Après 1 milliard de passkeys créés, WhatsApp renforce la sécurité de ses comptes",
-          "link": "https://www.clubic.com/actualite-626770-apres-1-milliard-de-passkeys-crees-whatsapp-renforce-la-securite-de-ses-comptes.html",
+          "title": "Enfin, l'éditeur de GTA 6, Rockstar Games, brise le silence après la déferlante historique de fuites",
+          "link": "https://www.clubic.com/actualite-626860-enfin-l-editeur-de-gta-6-rockstar-games-brise-le-silence-apres-la-deferlante-historique-de-fuites.html",
           "source": "Clubic",
-          "summary": "Meta annonce une série de mises à jour de sécurité pour sa messagerie WhatsApp, dont la possibilité d'associer plusieurs clés d'accès (passkeys) à un même compte.",
-          "published": "2026-08-26T09:22:00+00:00"
+          "summary": "Après une semaine de fuites en cascade sur GTA VI, Rockstar Games a publié mercredi une lettre ouverte inhabituelle pour lui. Le studio y reconnaît un épisode douloureux, à la veille de son grand Extended Look sur…",
+          "published": "2026-08-26T12:17:00+00:00"
         },
         {
-          "title": "Netflix, Spotify, HBO Max : deux députés veulent interdire les restrictions sur le partage de compte",
-          "link": "https://www.frandroid.com/services/3222335_netflix-spotify-hbo-max-deux-deputes-veulent-interdire-les-restrictions-sur-le-partage-de-compte",
-          "source": "Frandroid",
-          "summary": "Avec les augmentations successives du prix des abonnements numériques, le partage de compte s'est développé avant d'être rapidement encadré par plusieurs plateformes. Ces interdictions de partage de compte hors foyer…",
-          "published": "2026-08-26T09:20:46+00:00"
-        },
-        {
-          "title": "Santé, religion, opinions politiques : Claude peut désormais garder vos « sujets sensibles » en mémoire, si vous le souhaitez",
-          "link": "https://www.numerama.com/cyberguerre/2318559-sante-religion-opinions-politiques-claude-peut-desormais-garder-vos-sujets-sensibles-en-memoire-si-vous-le-souhaitez.html",
-          "source": "Numerama",
-          "summary": "Anthropic transforme la façon dont Claude gère la mémoire des utilisateurs. Un nouveau système, segmenté par sujets, doit notamment permettre une meilleure interopérabilité entre les différents outils de l'entreprise…",
-          "published": "2026-08-26T09:17:00+00:00"
-        },
-        {
-          "title": "Notre sélection des meilleurs micros pour le podcast et le streaming en 2026",
-          "link": "https://www.frandroid.com/guide-dachat/1407721_notre-selection-des-meilleurs-micros-pour-le-podcast-et-le-streaming",
-          "source": "Frandroid",
-          "summary": "Vous souhaitez vous lancer dans le podcast ? Investir dans un bon micro est une étape indispensable. Découvrez notre sélection des meilleurs micros pour faire du podcast ou du streaming.",
-          "published": "2026-08-26T09:10:50+00:00"
-        },
-        {
-          "title": "Oppo Find X10 : son écran OLED pourra descendre à 0,01 nit pour ne pas vous éblouir dans le noir",
-          "link": "https://www.frandroid.com/produits-android/3222487_oppo-find-x10-son-ecran-oled-pourra-descendre-a-001-nit-pour-ne-pas-vous-eblouir-dans-le-noir",
-          "source": "Frandroid",
-          "summary": "Oppo lancera sa série Find X10 en septembre, et son écran ne mise pas sur un record de luminosité. La dalle signée Tianma promet surtout de couper la lumière bleue nocive et de descendre à 0,01&nbsp;nit.",
-          "published": "2026-08-26T09:09:21+00:00"
-        },
-        {
-          "title": "La version pas chère de la Renault 5 corrige son plus gros défaut et devient enfin intéressante",
-          "link": "https://www.numerama.com/vroom/2318489-la-version-pas-chere-de-la-renault-5-corrige-son-plus-gros-defaut-et-devient-enfin-interessante.html",
-          "source": "Numerama",
-          "summary": "Renault a apporté quelques évolutions à sa star électrique : plus d'autonomie, nouveaux coloris et plus de technologies à bord. Mais surtout, la R5 E-Tech reçoit enfin un chargeur rapide DC dans sa version entrée de…",
-          "published": "2026-08-26T09:08:13+00:00"
-        },
-        {
-          "title": "1 000 V et 1 500 kW : Geely rend la recharge électrique aussi rapide qu’un plein d’essence",
-          "link": "https://www.frandroid.com/survoltes/voitures-electriques/3221999_1-000-v-et-1-500-kw-geely-rend-la-recharge-electrique-aussi-rapide-quun-plein-dessence",
-          "source": "Frandroid",
-          "summary": "Le groupe chinois Geely est en train de travailler au développement d’une plateforme 1 000 volts pour ses voitures électriques. Le but&nbsp;? Une recharge de 10 à 80 % en moins de 5,5 minutes.",
-          "published": "2026-08-26T09:05:53+00:00"
-        },
-        {
-          "title": "Quand Sophie Adenot dégaine une brosse à dents pour « dépanner » l’ISS",
-          "link": "https://www.numerama.com/sciences/2318491-quand-sophie-adenot-degaine-une-brosse-a-dents-pour-depanner-liss.html",
-          "source": "Numerama",
-          "summary": "Sophie Adenot a bouclé mardi 25 août 2026 sa deuxième sortie dans l'espace, cette fois sans accroc. Pour venir à bout d'une antenne récalcitrante, l'astronaute française a dégainé un outil qu'on n'attend pas à 400 km…",
-          "published": "2026-08-26T09:05:00+00:00"
-        },
-        {
-          "title": "La plateforme française Avis Vérifiés lance son réseau de syndication d'avis pour défier les géants américains",
-          "link": "https://www.clubic.com/actualite-626794-la-plateforme-francaise-avis-verifies-lance-son-reseau-de-syndication-d-avis-pour-defier-les-geants-americains.html",
+          "title": "DuckDuckGo passe sur GPT-5.6 Luna et met en garde contre l'illusion d'une IA confidente",
+          "link": "https://www.clubic.com/actualite-626782-duckduckgo-met-a-jour-son-chatbot-ia-avec-des-llm-plus-recents.html",
           "source": "Clubic",
-          "summary": "Avis Vérifiés lance un réseau de syndication d'avis clients pensé comme une alternative européenne aux géants américains. La plateforme veut diffuser des avis clients authentiques et traçables là où les consommateurs…",
-          "published": "2026-08-26T09:05:00+00:00"
+          "summary": "Duck.ai élargit son catalogue de modèles avec GPT-5.6 Luna par défaut et publie une enquête sur l'exposition des données personnelles dans les chatbots.",
+          "published": "2026-08-26T12:08:00+00:00"
         },
         {
-          "title": "Alors que tous les prix flambent, ce puissant SSD Samsung 9100 Pro de 1 To perd 36 % de son prix",
-          "link": "https://www.frandroid.com/bons-plans/3222245_alors-que-tous-les-prix-flambent-ce-puissant-ssd-samsung-9100-pro-de-1-to-perd-36-de-son-prix",
-          "source": "Frandroid",
-          "summary": "Le Samsung 9100 Pro 1 To est le premier SSD grand public de la marque à exploiter pleinement le PCIe 5.0 x4. Ce modèle est actuellement en promotion à 159,99 euros au lieu de 249,99 euros sur Joybuy.",
-          "published": "2026-08-26T08:58:09+00:00"
+          "title": "Monter vos Reels vous prend du temps ? Instagram lance un nouvel outil pour vous faciliter la vie",
+          "link": "https://www.clubic.com/actualite-626854-monter-vos-reels-vous-prend-du-temps-instagram-lance-un-nouvel-outil-pour-vous-faciliter-la-vie.html",
+          "source": "Clubic",
+          "summary": "Monter ses Reels plus rapidement sur Instagram, c'est la volonté de bon nombre de créateurs. Meta leur répond en déployant un nouvel outil, mais pas pour tout le monde, pour l'instant.",
+          "published": "2026-08-26T12:06:00+00:00"
+        },
+        {
+          "title": "« Un crève-cœur pour notre équipe » : Rockstar sort enfin du silence après les leaks de GTA 6",
+          "link": "https://www.numerama.com/pop-culture/2318957-un-creve-coeur-pour-notre-equipe-rockstar-sort-enfin-du-silence-apres-les-leaks-de-gta-6.html",
+          "source": "Numerama",
+          "summary": "Silencieux depuis le début des fuites le 18 août, Rockstar Games a publié un communiqué le 26 août, à la veille de la présentation de GTA VI sur Netflix. Le studio y parle d'un crève-cœur, s'excuse pour l'attente et…",
+          "published": "2026-08-26T12:04:07+00:00"
+        },
+        {
+          "title": "Amazon reboot RoboCop en série, et on sait qui va incarner le super flic",
+          "link": "https://www.numerama.com/pop-culture/2318827-amazon-reboot-robocop-en-serie-et-on-sait-qui-va-incarner-le-super-flic.html",
+          "source": "Numerama",
+          "summary": "Amazon continue d'adapter méthodiquement le catalogue de la MGM. Cette fois, c'est le flic le plus célèbre du cinéma d'action des années 80 qui repasse à la moulinette du streaming : une série&nbsp;RoboCop&nbsp;vient…",
+          "published": "2026-08-26T11:55:00+00:00"
+        },
+        {
+          "title": "TrainTracker24 veut devenir le Flightradar24 du rail, mais la position des trains reste largement estimée",
+          "link": "https://www.clubic.com/actualite-626845-traintracker24-veut-devenir-le-flightradar24-du-rail-mais-la-position-des-trains-reste-largement-estimee.html",
+          "source": "Clubic",
+          "summary": "Ouvert au public ce 26 août, TrainTracker24 rassemble sur une même carte une grande partie des trains de voyageurs circulant en France, en Belgique et en Espagne. Un outil gratuit pensé autant pour les voyageurs que…",
+          "published": "2026-08-26T11:53:00+00:00"
+        },
+        {
+          "title": "À l'approche de la rentrée, le forfait B&YOU 100 Go 5G reste disponible à 13,99€/mois sans condition",
+          "link": "https://www.clubic.com/bons-plans-626818-a-l-approche-de-la-rentree-le-forfait-b-you-100-go-5g-reste-disponible-a-13-99-mois-sans-condition.html",
+          "source": "Clubic",
+          "summary": "À l'approche de la rentrée, revoir son forfait mobile permet souvent d'alléger la facture sans sacrifier le confort d'usage au quotidien. Le forfait B&amp;YOU 100 Go 5G reste disponible à 13,99€/mois sans engagement ni…",
+          "published": "2026-08-26T11:41:00+00:00"
+        },
+        {
+          "title": "Le Starship est sauvé : la fusée a enfin été extirpée de l’eau et chargée sur un bateau",
+          "link": "https://www.numerama.com/sciences/2318673-le-starship-est-sauve-la-fusee-a-enfin-ete-extirpee-de-leau-et-chargee-sur-un-bateau.html",
+          "source": "Numerama",
+          "summary": "Un mois après son amerrissage dans l'océan Indien, l'étage supérieur du Starship de SpaceX a été hissé hors de l'eau et arrimé sur un navire géant. Direction le Texas, pour une inspection que l'entreprise n'avait jamais…",
+          "published": "2026-08-26T11:38:00+00:00"
+        },
+        {
+          "title": "Au Royaume-Uni aussi, les protestations contre les centres de données se multiplient",
+          "link": "https://next.ink/253226/au-royaume-uni-aussi-les-protestations-contre-les-centres-de-donnees-se-multiplient/",
+          "source": "Next",
+          "summary": "Comme aux États-Unis, en France et ailleurs, le Royaume-Uni est traversé de débats sur le bien-fondé de la multiplication des centres de données. Ceux-ci portent autant sur leurs impacts environnementaux que sur…",
+          "published": "2026-08-26T11:37:00+00:00"
         }
       ]
     }
@@ -334,13 +334,6 @@
           "source": "Slate.fr",
           "summary": "Après des siècles passés en France, la tapisserie de Bayeux, qui relate la bataille d'Hastings et la conquête normande de l'Angleterre, sera exposée à Londres. Alors que sa fin semble avoir disparu, des enfants…",
           "published": "2026-08-24T06:25:03+00:00"
-        },
-        {
-          "title": "Sa Majesté des Moches: l'histoire tragique de Charles II d'Espagne, terrassé par la consanguinité",
-          "link": "https://www.slate.fr/culture/histoire-roi-charles-espagne-physique-consanguinite",
-          "source": "Slate.fr",
-          "summary": "C'est avec ce roi au physique ingrat et aux tares multiples que la dynastie des Habsbourg espagnols a pris fin. Récit d'une dégénérescence familiale.",
-          "published": "2026-08-23T06:55:00+00:00"
         }
       ]
     },
