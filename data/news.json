@@ -1,15 +1,64 @@
 {
-  "generated_at": "2026-08-29T18:10:40.815870+00:00",
+  "generated_at": "2026-08-29T22:59:18.272044+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Bande de Gaza : quatre morts signalés après des tirs de l’armée israélienne, qui dit avoir visé un cadre militaire du Hamas",
+          "link": "https://www.lemonde.fr/international/article/2026/08/29/bande-de-gaza-quatre-morts-signales-apres-des-tirs-de-l-armee-israelienne-qui-dit-avoir-vise-un-cadre-militaire-du-hamas_6760165_3211.html",
+          "source": "Le Monde",
+          "summary": "Selon les forces israéliennes, le chef militaire pris pour cible se cachait dans l’enceinte de l’hôpital des Martyrs d’Al-Aqsa, à Deir Al-Balah. Elles ne précisent pas s’il a été tué et n’ont pas dévoilé son identité.",
+          "published": "2026-08-29T21:31:18+00:00"
+        },
+        {
+          "title": "Crue au Népal-Tibet : près de 3 000 disparus, la recherche des survivants se poursuit",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260829-crue-n%C3%A9pal-tibet-pr%C3%A8s-3-000-disparus-recherche-survivants-poursuit-chine-himalaya-morts-catastophe-naturelle",
+          "source": "France 24",
+          "summary": "Trois jours après la crue qui a touché une région de l’Himalaya, les secours ont redoublé d'efforts samedi pour retrouver les quelque 3 000 disparus entre le Népal et la province chinoise du Tibet. Une épaisse couche de…",
+          "published": "2026-08-29T20:28:13+00:00"
+        },
+        {
+          "title": "D'où viennent les manuels scolaires, ces (autres) best-sellers de la rentrée ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-d-o%C3%B9-viennent-manuels-scolaires-autres-best-sellers-de-rentr%C3%A9e-classe-%C3%A9cole-scolarit%C3%A9-enseignement-%C3%A9ducation-histoire-culture-prime",
+          "source": "France 24",
+          "summary": "Tous les ans, c'est la même histoire : le jour de la rentrée, les manuels scolaires remplissent les cartables des petits écoliers. Mais d'où viennent ces ouvrages indissociables des salles de classe ?",
+          "published": "2026-08-29T20:04:16+00:00"
+        },
+        {
+          "title": "Harry Potter : des milliers de fans s'initient aux sorts au château de Versailles",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-harry-potter-des-milliers-de-fans-s-initient-aux-sorts-au-ch%C3%A2teau-de-versailles",
+          "source": "France 24",
+          "summary": "Pour célébrer les 25 ans des films Harry Potter, des milliers de fans se sont retrouvés dans les jardins du château de Versailles. Notre reporter Eléonore Gogé est allée à leur rencontre.",
+          "published": "2026-08-29T19:05:34+00:00"
+        },
+        {
+          "title": "Cisjordanie occupée : Netanyahu condamne des \"actes de violence criminels\" commis par des colons",
+          "link": "https://www.france24.com/fr/moyen-orient/20260829-cisjordanie-occup%C3%A9e-benjamin-netanyahu-condamne-actes-violence-criminels-commis-colons-palestiniens",
+          "source": "France 24",
+          "summary": "Des dizaines de colons israéliens ont attaqué samedi un village palestinien, à Qusra, en Cisjordanie occupée, selon l'armée israélienne. Le Premier ministre israélien, Benjamin Netanyahu, a dénoncé des \"actes de…",
+          "published": "2026-08-29T18:42:15+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le Kremlin accuse l’Europe de participer directement à des opérations militaires contre la Russie",
+          "link": "https://www.lemonde.fr/international/live/2026/08/29/en-direct-guerre-en-ukraine-le-kremlin-accuse-l-europe-de-participer-directement-a-des-operations-militaires-contre-la-russie_6753793_3210.html",
+          "source": "Le Monde",
+          "summary": "Dmitri Peskov, porte-parole du Kremlin, a déclaré samedi ne voir « aucune raison d’espérer une amélioration de nos relations avec l’Europe ». En Ukraine, l’armée a fait état de près de 200 drones russes interceptés dans…",
+          "published": "2026-08-29T18:34:05+00:00"
+        },
+        {
+          "title": "Près de Kiev, une attaque russe tue 37 personnes et pose la question en Ukraine de la présence d’installations sensibles en zone urbaine",
+          "link": "https://www.lemonde.fr/international/article/2026/08/29/pres-de-kiev-une-attaque-russe-tue-37-personnes-et-pose-la-question-de-la-presence-d-installations-sensibles-en-zone-urbaine_6760334_3210.html",
+          "source": "Le Monde",
+          "summary": "La frappe, qui visait un dépôt de munitions en périphérie de Kiev, est l’une des plus violentes subies par l’oblast depuis le début de l’invasion russe.",
+          "published": "2026-08-29T18:17:38+00:00"
+        },
+        {
           "title": "En Cisjordanie, des colons israéliens attaquent un village palestinien",
           "link": "https://www.lemonde.fr/international/article/2026/08/29/en-cisjordanie-des-colons-israeliens-attaquent-un-village-palestinien_6760300_3210.html",
           "source": "Le Monde",
           "summary": "Selon des témoins, plusieurs dizaines de colons ont encerclé une maison de Qusra avant d’en être chassés par les forces de l’ordre, mais aucun n’a été interpellé. Le propriétaire de la maison assure que les occupants…",
-          "published": "2026-08-29T17:50:49+00:00"
+          "published": "2026-08-29T17:50:45+00:00"
         },
         {
           "title": "Le nouveau roi de Norvège, Haakon VIII, prononce son premier discours officiel en mémoire de son défunt père",
@@ -24,55 +73,6 @@
           "source": "France 24",
           "summary": "🇳🇪 Au Niger, des explosions et des tirs entendus depuis la nuit à Niamey, notamment autour de l’aéroport et du palais présidentiel. Alors que les raisons de ces combats restent floues, la junte affirme \"reprendre le…",
           "published": "2026-08-29T16:52:23+00:00"
-        },
-        {
-          "title": "Au Niger, la junte du général Tiani confrontée à une tentative de putsch",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-la-junte-du-general-tiani-confrontee-a-une-tentative-de-putsch_6760200_3212.html",
-          "source": "Le Monde",
-          "summary": "Des tirs sont entendus depuis le milieu de la nuit autour du palais présidentiel de Niamey et d’une base aérienne qui se trouve dans l’enceinte de l’aéroport de la capitale.",
-          "published": "2026-08-29T16:41:54+00:00"
-        },
-        {
-          "title": "La contraception forcée des inuites, le traumatisme national du Groenland",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-la-contraception-forc%C3%A9e-des-inuites-le-traumatisme-national-du-groenland",
-          "source": "France 24",
-          "summary": "Mélina Huet, chroniqueuse internationale France 24 et grand reporter, analyse les faits.",
-          "published": "2026-08-29T16:35:21+00:00"
-        },
-        {
-          "title": "Crue dans l'Himalaya : opérations de secours en cours au Népal",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-crue-dans-l-himalaya-op%C3%A9rations-de-secours-en-cours-au-n%C3%A9pal",
-          "source": "France 24",
-          "summary": "Fanny Mraz, directrice Urgence chez Handicap International - Humanité & Inclusion, est notre invitée.",
-          "published": "2026-08-29T16:32:15+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : 37 morts dans une frappe sur un entrepôt près de Kiev",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-guerre-en-ukraine-37-morts-dans-une-frappe-sur-un-entrep%C3%B4t-pr%C3%A8s-de-kiev",
-          "source": "France 24",
-          "summary": "Emmanuelle Chaze est en direct de Kiev.",
-          "published": "2026-08-29T16:16:05+00:00"
-        },
-        {
-          "title": "Bande de Gaza : trois morts signalés après des tirs de l’armée israélienne, qui dit avoir visé un cadre militaire du Hamas",
-          "link": "https://www.lemonde.fr/international/article/2026/08/29/trois-morts-sig-nales-dans-la-bande-de-gaza-apres-des-tirs-de-l-armee-israelienne-qui-dit-avoir-vise-un-cadre-militaire-du-hamas_6760165_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon les forces israéliennes, le chef militaire pris pour cible se cachait dans l’enceinte de l’hôpital des Martyrs d’Al-Aqsa, à Deir Al-Balah. Elles ne précisent pas s’il a été tué et n’ont pas dévoilé son identité.",
-          "published": "2026-08-29T16:15:30+00:00"
-        },
-        {
-          "title": "🔴 La Française Blandine L'Hirondel remporte l'Ultra-Trail du Mont-Blanc",
-          "link": "https://www.france24.com/fr/sports/20260829-l-am%C3%A9ricain-ben-dhiman-remporte-l-ultra-trail-du-mont-blanc-en-moins-de-19-heures",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-08-29T16:05:06+00:00"
-        },
-        {
-          "title": "Crue dans l'Himalaya : les secouristes tentent de localiser les 3000 disparus",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-crue-dans-l-himalaya-les-secouristes-tentent-de-localiser-les-3000-disparus",
-          "source": "France 24",
-          "summary": "Ondine De Gaulle, envoyée spéciale France 24 au Népal, décrypte la situation.",
-          "published": "2026-08-29T14:31:30+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Le PQ promet une diminution « significative » de l’immigration",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/le-pq-promet-une-diminution-significative-de-l-immigration.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Doug Ford dévoile un panneau au lac Ontario en riposte à Donald Trump",
+          "link": "https://www.lapresse.ca/actualites/national/2026-08-29/doug-ford-devoile-un-panneau-au-lac-ontario-en-riposte-a-donald-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Après avoir pourfendu son bilan à l’Économie, Paul St-Pierre Plamondon accuse Christine Fréchette d’avoir provoqué une perte de « contrôle total » lors de son passage à l’Immigration. Le Parti québécois promet « de…",
-          "published": "2026-08-29T17:59:47+00:00"
+          "summary": "Le premier ministre ontarien Doug Ford a dévoilé samedi un panneau portant le nom du lac Ontario dans un parc situé sur les rives de ce Grand Lac, deux jours après que le président américain Donald Trump eut signé un…",
+          "published": "2026-08-29T22:48:00+00:00"
+        },
+        {
+          "title": "Christine Fréchette vue comme une «gâterie»",
+          "link": "https://www.ledevoir.com/politique/quebec/1005071/christine-frechette-vue-comme-gaterie",
+          "source": "Le Devoir",
+          "summary": "La première ministre québécoise a visité samedi une résidence pour personnes âgées.",
+          "published": "2026-08-29T22:09:56+00:00"
+        },
+        {
+          "title": "Le laissez-passer A-32 et l’ami de Jean Chrétien",
+          "link": "https://www.ledevoir.com/politique/quebec/1005065/laissez-passer-32-ami-jean-chretien",
+          "source": "Le Devoir",
+          "summary": "Ignorant les conventions d’usage, un résident s’est introduit dans la file des questions pour louanger Charles Milliard.",
+          "published": "2026-08-29T22:09:02+00:00"
+        },
+        {
+          "title": "Gare aux blagousseurs !",
+          "link": "https://www.ledevoir.com/politique/quebec/1005068/gare-blagousseurs",
+          "source": "Le Devoir",
+          "summary": "Éric Duhaime a fait le plein d’essence de son VUS pour montrer à la population qu’elle paie trop chèrement son carburant.",
+          "published": "2026-08-29T22:09:00+00:00"
+        },
+        {
+          "title": "Melon d’eau, desserts à volonté et les mensonges de PSPP",
+          "link": "https://www.ledevoir.com/politique/quebec/1005062/melon-eau-desserts-volonte-mensonges-pspp",
+          "source": "Le Devoir",
+          "summary": "« Le Devoir » a suivi le candidat solidaire Andrés Fontecilla dans Villeray.",
+          "published": "2026-08-29T22:08:00+00:00"
+        },
+        {
+          "title": "La remontée de la CAQ lance le duel d’hostilités entre PSPP et Fréchette",
+          "link": "https://www.ledevoir.com/politique/quebec/1005059/remontee-caq-lance-duel-hostilites-entre-pspp-frechette",
+          "source": "Le Devoir",
+          "summary": "Paul St-Pierre Plamondon a relancé samedi le débat sur les seuils d’immigration.",
+          "published": "2026-08-29T21:16:47+00:00"
         },
         {
           "title": "EN DIRECT | Jour 3 de la campagne électorale: transport, économie et immigration parmi les engagements des partis",
           "link": "https://www.journaldemontreal.com/2026/08/29/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
           "source": "Journal de Montreal",
           "summary": "Il y aura de l’action dans la région de Québec samedi, alors que plusieurs chefs seront de passage dans la Capitale-Nationale samedi",
-          "published": "2026-08-29T17:44:18+00:00"
+          "published": "2026-08-29T20:12:39+00:00"
         },
         {
-          "title": "La CAQ refuse de s’engager à abolir la TVQ sur les biens usagés et Duhaime s'en moque",
-          "link": "https://www.journaldemontreal.com/2026/08/29/la-caq-refuse-de-sengager-a-abolir-la-tvq-sur-les-biens-usages-et-duhaime-sen-moque",
-          "source": "Journal de Montreal",
-          "summary": "Les Québécois ont beau s’emballer avec l’idée d’abolir la TVQ sur les biens usagés, Christine Fréchette refuse d’en faire un engagement électoral.",
-          "published": "2026-08-29T17:35:56+00:00"
-        },
-        {
-          "title": "Entraves routières à Montréal: «prévoir du temps supplémentaire» pour vos déplacements serait nécessaire",
-          "link": "https://www.journaldemontreal.com/2026/08/29/entraves-routieres-a-montreal-prevoir-du-temps-supplementaire-pour-vos-deplacements-serait-necessaire",
-          "source": "Journal de Montreal",
-          "summary": "D’importants délais sont à prévoir sur les routes de Montréal, causés par la fermeture du pont Samuel-De Champlain en direction nord.",
-          "published": "2026-08-29T17:35:09+00:00"
-        },
-        {
-          "title": "Une enquête pour meurtre à Sainte-Agathe-des-Monts",
-          "link": "https://www.journaldemontreal.com/2026/08/29/une-enquete-de-meurtre-a-sainte-agathe-des-monts",
-          "source": "Journal de Montreal",
-          "summary": "La Sûreté du Québec (SQ) a ouvert une enquête pour meurtre à la suite de la découverte du corps d’un homme jeudi soir.",
-          "published": "2026-08-29T17:31:38+00:00"
-        },
-        {
-          "title": "Un autre candidat du PCQ était favorable au 51e État",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/un-autre-candidat-du-pcq-etait-favorable-au-51e-etat.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un autre candidat du Parti conservateur du Québec était favorable à ce que le Canada devienne le 51e État américain. Guy Diotte, qui se présente dans Westmount–Saint-Louis, a également partagé sur la plateforme X du…",
-          "published": "2026-08-29T17:26:35+00:00"
-        },
-        {
-          "title": "Ce que veut réellement dire l’entente entre les États-Unis et le Venezuela, selon un expert",
-          "link": "https://www.ledevoir.com/monde/ameriques/1005044/ce-veut-reellement-dire-entente-entre-etats-unis-venezuela-selon-expert",
+          "title": "L’ex-libérale Caroline Simard portera les couleurs conservatrices dans Charlevoix",
+          "link": "https://www.ledevoir.com/politique/quebec/1005056/ex-liberale-caroline-simard-portera-couleurs-conservatrices-charlevoix",
           "source": "Le Devoir",
-          "summary": "«C’est une manière pour Donald Trump de rassurer les Américains» et rien de plus, affirme Mathieu Arès.",
-          "published": "2026-08-29T17:11:35+00:00"
+          "summary": "Elle avait vaincu l’ancienne première ministre Pauline Marois contre toute attente en 2014 dans la circonscription.",
+          "published": "2026-08-29T20:10:00+00:00"
         },
         {
-          "title": "Crues meurtrières dans l'Himalaya: le Népal invoque le changement climatique",
-          "link": "https://www.journaldemontreal.com/2026/08/29/crues-meurtrieres-dans-lhimalaya-le-nepal-invoque-le-changement-climatique",
+          "title": "Des véhicules ciblés par un incendie criminel à Beauport",
+          "link": "https://www.journaldemontreal.com/2026/08/29/des-vehicules-cibles-par-un-incendie-criminel-a-beauport",
           "source": "Journal de Montreal",
-          "summary": "Le Népal a mis en garde samedi contre la menace croissante du changement climatique dans l'Himalaya.",
-          "published": "2026-08-29T16:55:30+00:00"
+          "summary": "Un incendie criminel a ravagé une motocyclette et deux véhicules, samedi, dans le stationnement d’un immeuble à logements de Beauport.",
+          "published": "2026-08-29T20:03:29+00:00"
         },
         {
-          "title": "Lac Ontario «rebaptisé lac Amérique»: Trump en rajoute avec une vidéo générée par IA de bernaches armées",
-          "link": "https://www.journaldemontreal.com/2026/08/29/images-lac-ontario-rebaptise-lac-amerique-trump-en-rajoute-avec-une-video-generee-par-ia-de-bernaches-armees",
-          "source": "Journal de Montreal",
-          "summary": "Trump publie une vidéo IA de bernaches armées sur le «lac Amérique», son nouveau nom pour le lac Ontario.",
-          "published": "2026-08-29T16:53:21+00:00"
-        },
-        {
-          "title": "Voici ce que doit faire chaque parti pour remporter la bataille des réseaux sociaux",
-          "link": "https://www.journaldemontreal.com/2026/08/29/voici-ce-que-doit-faire-chaque-parti-pour-remporter-la-bataille-des-reseaux-sociaux",
-          "source": "Journal de Montreal",
-          "summary": "Chacun des cinq principaux partis politiques tente de tirer son épingle du jeu sur le web, mais encore faut-il le faire de la bonne façon.",
-          "published": "2026-08-29T16:49:29+00:00"
+          "title": "Plan sur 10 ans | Un chantier national de 23 milliards en transport collectif, promet Ghazal",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/plan-sur-10-ans/un-chantier-national-de-23-milliards-en-transport-collectif-promet-ghazal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Ce serait le « plus grand chantier de réparation » dans l’histoire du Québec. Ruba Ghazal s’est engagée à investir 23 milliards de dollars sur 10 ans pour les transports collectifs, vendredi. Son plan comprend une «…",
+          "published": "2026-08-29T19:59:47+00:00"
         }
       ]
     },
@@ -159,80 +159,101 @@
       "label": "France",
       "items": [
         {
+          "title": "Ligue 1 : Lyon se fait des frayeurs après sa claque européenne, faux pas à domicile pour Auxerre et Lorient",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-lyon-se-fait-des-frayeurs-apres-sa-claque-europeenne-faux-pas-a-domicile-pour-auxerre-et-lorient-20260829",
+          "source": "Le Figaro",
+          "summary": "Éliminé en barrage de Ligue des champions par Fenerbahçe, l’OL a été tenu en échec à domicile par Le Havre. Les Auxerrois et les Lorientais ont chuté à domicile, les Brestois ont évité le pire.",
+          "published": "2026-08-29T21:15:07+00:00"
+        },
+        {
           "title": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
           "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
-          "published": "2026-08-29T18:00:44+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : «Il n’y aura pas de moratoire sur l’immigration de travail, dont nous avons besoin», soutient Édouard Philippe",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-il-n-y-aura-pas-de-moratoire-sur-l-immigration-de-travail-dont-nous-avons-besoin-soutient-edouard-philippe-20260829",
-          "source": "Le Figaro",
-          "summary": "L’ancien premier ministre a également affirmé ce samedi s’opposer à un moratoire général sur l’immigration légale, proposé en mai par Gérald Darmanin, son nouvel allié dans la course présidentielle.",
-          "published": "2026-08-29T17:57:46+00:00"
-        },
-        {
-          "title": "La Somalie et la Turquie libèrent un navire détourné et tuent 14 pirates",
-          "link": "https://www.lefigaro.fr/international/la-somalie-et-la-turquie-liberent-un-navire-detourne-et-tuent-14-pirates-20260829",
-          "source": "Le Figaro",
-          "summary": "Pendant dix jours, Mogadiscio et Ankara ont mis une «pression militaire soutenue» sur ce cargo naviguant sous pavillon camerounais. Les côtes de la Corne de l’Afrique subissent depuis avril une résurgence de la…",
-          "published": "2026-08-29T17:54:58+00:00"
-        },
-        {
-          "title": "UTMB : la Française Blandine L’Hirondel, double championne du monde, remporte la course majeure du trail",
-          "link": "https://www.lefigaro.fr/sports/autres-sports/utmb-la-francaise-blandine-l-hirondel-double-championne-du-monde-remporte-la-course-majeure-du-trail-20260829",
-          "source": "Le Figaro",
-          "summary": "Partis vendredi à 19h45 de Chamonix pour une boucle autour du Mont-Blanc de 174 km et 10.000 m de dénivelé positif, les 2500 coureurs engagés ont jusqu’à dimanche 18h30 pour franchir la ligne d’arrivée.",
-          "published": "2026-08-29T17:54:53+00:00"
+          "published": "2026-08-29T21:11:55+00:00"
         },
         {
           "title": "«J’aime tout chez lui !» : pour sa rentrée à la Foire de Châlons, le président du RN surfe sur la «Bardellamania»",
           "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/j-aime-tout-chez-lui-pour-sa-rentree-a-la-foire-de-chalons-le-president-du-rn-surfe-sur-la-bardellamania-20260829",
           "source": "Le Figaro",
           "summary": "REPORTAGE - Jordan Bardella a assuré samedi qu’il mettra «toute son énergie» pour que Marine Le Pen l’emporte en 2027, un mois et demi après que la justice l’a autorisée à se présenter à la présidentielle.",
-          "published": "2026-08-29T17:53:16+00:00"
+          "published": "2026-08-29T21:04:44+00:00"
         },
         {
-          "title": "Romance indolente au bout du monde, uppercut familial... Le Festival du film francophone d’Angoulême sacre trois drames sur des problèmes de société",
-          "link": "https://www.lefigaro.fr/cinema/romance-indolente-au-bout-du-monde-uppercut-familial-le-festival-du-film-francophone-d-angouleme-sacre-trois-drames-sur-des-problemes-de-societe-20260829",
-          "source": "Le Figaro",
-          "summary": "La 19e édition de la manifestation angoumoisine, dont le jury était présidé par Franck Dubosc, connaît un succès toujours croissant, avec une fréquentation en hausse qui frise cette année les 70.000 spectateurs payants.",
-          "published": "2026-08-29T17:45:00+00:00"
-        },
-        {
-          "title": "Tour d’Espagne : Tadej Pogacar abandonne après une lourde chute, forte inquiétude pour le coureur slovène",
-          "link": "https://www.lefigaro.fr/sports/cyclisme/tour-d-espagne-tadej-pogacar-abandonne-apres-une-lourde-chute-forte-inquietude-pour-le-coureur-slovene-20260829",
-          "source": "Le Figaro",
-          "summary": "Tadej Pogacar a été évacué en ambulance ce samedi après-midi, lors de la huitième étape de la Vuelta. Le leader de la course a quitté la course en sang après une énorme chute.",
-          "published": "2026-08-29T17:41:44+00:00"
-        },
-        {
-          "title": "UTMB : qui est la Française Blandine L’Hirondel, vainqueur de l’épreuve reine du trail en moins de 22 heures ?",
-          "link": "https://www.lefigaro.fr/sports/autres-sports/utmb-qui-est-la-francaise-blandine-l-hirondel-vainqueur-de-l-epreuve-reine-du-trail-en-moins-de-22-heures-20260829",
-          "source": "Le Figaro",
-          "summary": "PORTRAIT - A 35 ans, et après avoir terminé sur le podium en 2023, la Normande a remporté ce samedi le mythique Ultra-Trail du Mont-Blanc en 21 h 54 min 49 sec. Elle est la première Française à s’imposer depuis dix ans.",
-          "published": "2026-08-29T17:36:49+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : le RN se fixe une « règle d’or » budgétaire limitant le déficit à 3 % du PIB, moyen de rassurer les marchés",
-          "link": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-la-regle-d-or-budgetaire-de-marine-le-pen-limiterait-le-deficit-a-3-du-pib_6760267_823448.html",
-          "source": "Le Monde",
-          "summary": "Le Rassemblement national devrait inscrire dans son programme une règle budgétaire autorisant un déficit maximum de 3 % du produit intérieur brut, soit celui fixé par l’Union européenne. Un retournement historique pour…",
-          "published": "2026-08-29T17:29:31+00:00"
-        },
-        {
-          "title": "Crues meurtrières : le Népal appelle le monde à \"s'unir pour préserver l'écosystème himalayen\" face au réchauffement climatique",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/direct-crues-meurtrieres-au-nepal-et-au-tibet-le-bilan-s-alourdit-a-633-morts-les-secours-toujours-a-la-recherches-des-milliers-de-disparus_8168048.html#xtor=RSS-3-[lestitres]",
+          "title": "La judoka Clarisse Agbégnénou \"savoure\" sa médaille de bronze au Grand Slam de Lausanne, cinq mois seulement après son accouchement",
+          "link": "https://www.franceinfo.fr/sports/judo/clarisse-agbegnenou/la-judoka-clarisse-agbegnenou-savoure-sa-medaille-de-bronze-au-grand-slam-de-lausanne-cinq-mois-seulement-apres-son-accouchement_8168900.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Près de 3 000 personnes sont toujours portées disparues après les inondations dévastatrices qui ont fait au moins 682 morts, selon le dernier bilan communiqué samedi par les autorités népalaises et chinoises.",
-          "published": "2026-08-29T17:07:17+00:00"
+          "summary": "La triple médaillée olympique a remporté cette troisième place samedi à Lausanne en guise de préparation aux championnats du monde et aux qualifications des Jeux 2028 selon elle.",
+          "published": "2026-08-29T20:53:58+00:00"
+        },
+        {
+          "title": "EN DIRECT - Présidentielle 2027 : Jordan Bardella réfute toute «déloyauté» à l’égard de Le Pen, mais assume sa propre «sensibilité»",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-jordan-bardella-fait-sa-rentree-politique-a-la-foire-de-chalons-ce-samedi-le-patron-du-ps-olivier-faure-sous-pression-20260829",
+          "source": "Le Figaro",
+          "summary": "Jordan Bardella cultive depuis des mois un positionnement plus libéral que la chef des députés du RN, et qui semble plus apprécié du monde de l’entreprise. Un positionnement assumé face aux interrogations sur leurs…",
+          "published": "2026-08-29T20:52:02+00:00"
+        },
+        {
+          "title": "«Nous allons redonner du pouvoir au pays réel» : à Cannes, David Lisnard exhorte ses concurrents de droite à ne pas avoir «peur» de la primaire",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/nous-allons-redonner-du-pouvoir-au-pays-reel-devant-des-soutiens-reunis-a-cannes-david-lisnard-exhorte-ses-concurrents-de-droite-a-ne-pas-avoir-peur-de-la-primaire-20260829",
+          "source": "Le Figaro",
+          "summary": "REPORTAGE - Samedi soir, le président de Nouvelle Énergie, candidat à l’élection présidentielle, a répété son intention de ne jamais gouverner demain avec des macronistes mais s’est dit prêt à les affronter dans une…",
+          "published": "2026-08-29T20:49:27+00:00"
+        },
+        {
+          "title": "À Katmandou, les familles des disparus poursuivent leurs recherches dans les hôpitaux et les morgues de la ville après la crue dévastatrice",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/reportage-a-katmandou-les-familles-des-disparus-poursuivent-leurs-recherches-dans-les-hopitaux-et-les-morgues-de-la-ville-apres-la-crue-devastatrice-au-nepal_8168720.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La capitale népalaise est l'épicentre de ces familles à la recherche de leurs proches, partagées entre tristesse et espoir. Près de 2.500 personnes restent introuvables.",
+          "published": "2026-08-29T20:38:58+00:00"
+        },
+        {
+          "title": "En huile, en pain, en gâteau… À la découverte de la route de la noix dans le Périgord",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/en-huile-en-pain-en-gateau-a-la-decouverte-de-la-route-de-la-noix-dans-le-perigord_8168894.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Elle est si précieuse qu’au Moyen Âge, elle servait de monnaie d’échange. Notre route gourmande nous emmène samedi 29 août dans le Sud-Ouest sur la piste de la noix. Elle se décline à l’infini.",
+          "published": "2026-08-29T20:30:39+00:00"
+        },
+        {
+          "title": "Coup de foudre, libido débordante et morts tragiques : l’union destructrice entre Romain Gary et Jean Seberg",
+          "link": "https://www.lefigaro.fr/livres/coup-de-foudre-libido-debordante-et-morts-tragiques-l-union-destructrice-entre-romain-gary-et-jean-seberg-20260829",
+          "source": "Le Figaro",
+          "summary": "RÉCIT - Née dans le glamour, l’histoire tragique du couple formé par l’égérie de la Nouvelle Vague et le célèbre écrivain, héros de la France libre.",
+          "published": "2026-08-29T20:28:15+00:00"
+        },
+        {
+          "title": "Des images trompeuses générées par intelligence artificielle après la crue meurtrière au Népal",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attention-aux-images-generees-par-ia-qui-illustrent-la-crue-mortelle-au-nepal_8168840.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Depuis mercredi 26 août, des images impressionnantes circulent sur les réseaux sociaux, témoignant de la catastrophe au Népal. Certaines sont vraies, d’autres sont générées par intelligence artificielle.",
+          "published": "2026-08-29T20:22:19+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "BYD déploie 10 000 bornes ultra-rapides en six mois, et un tiers des conducteurs ne roulent pas en BYD",
+          "link": "https://www.frandroid.com/marques/byd/3225891_byd-deploie-10-000-bornes-ultra-rapides-en-six-mois-et-un-tiers-des-conducteurs-ne-roulent-pas-en-byd",
+          "source": "Frandroid",
+          "summary": "BYD a posé 10&nbsp;000 bornes de recharge ultra-rapide en six mois. Et près d'un tiers des gens qui les utilisent ne roulent même pas en BYD.",
+          "published": "2026-08-29T19:50:00+00:00"
+        },
+        {
+          "title": "« Mise à jour graphique incroyablement massive » : la fuite du DLSS 5 de Nvidia fait taire beaucoup de ses détracteurs",
+          "link": "https://www.frandroid.com/marques/nvidia/3225863_mise-a-jour-graphique-incroyablement-massive-la-fuite-du-dlss-5-de-nvidia-fait-taire-beaucoup-de-ses-detracteurs",
+          "source": "Frandroid",
+          "summary": "Les joueurs PC détestaient le DLSS 5 de Nvidia avant même sa sortie. Une fuite involontaire, partie d'un jeu de basket, vient d'inverser la tendance.",
+          "published": "2026-08-29T18:41:13+00:00"
+        },
+        {
+          "title": "Android Pulse : Google a installé une application sur des millions de smartphones sans prévenir",
+          "link": "https://www.frandroid.com/android/3225865_android-pulse-google-a-installe-une-application-sur-des-millions-de-smartphones-sans-prevenir",
+          "source": "Frandroid",
+          "summary": "Google a glissé une application sur des millions de smartphones Android sans rien demander à personne. Son but&nbsp;: préparer le terrain de la future politique mémoire d'Android.",
+          "published": "2026-08-29T18:37:22+00:00"
+        },
         {
           "title": "Rebirth qui refuse de plier, panneaux solaires en feu et batteries au banc d’essai – le Récap’ Survoltés",
           "link": "https://www.frandroid.com/survoltes/3225413_rebirth-qui-refuse-de-plier-panneaux-solaires-en-feu-et-batteries-au-banc-dessai-le-recap-survoltes",
@@ -295,27 +316,6 @@
           "source": "Numerama",
           "summary": "Trois actualités à retenir cette semaine dans le cyberespace : un chercheur qui a laissé une IA rétro-ingénierer ses propres appareils avec un bilan glaçant, une cyberattaque iranienne qui a mis à l'arrêt une centrale…",
           "published": "2026-08-29T15:30:00+00:00"
-        },
-        {
-          "title": "Voici les réflexes à adopter pour garder une longueur d’avance sur les arnaques en ligne",
-          "link": "https://www.clubic.com/actualite-627022-voici-les-reflexes-a-adopter-pour-garder-une-longueur-d-avance-sur-les-arnaques-en-ligne.html",
-          "source": "Clubic",
-          "summary": "La fuite de données de la DGFiP d’août 2026 concerne environ 680 000 Françaises et Français. Elle permet aux pirates en ligne de disposer d’informations précises sur vous-même, voire votre entreprise. Vous devez prendre…",
-          "published": "2026-08-29T15:30:00+00:00"
-        },
-        {
-          "title": "Cette caméra de surveillance connectée avec panneau solaire propose une détection intelligente sans abonnement et chute sous les 70 €",
-          "link": "https://www.frandroid.com/bons-plans/3224971_cette-camera-de-surveillance-connectee-avec-panneau-solaire-propose-une-detection-intelligente-sans-abonnement-et-chute-sous-les-70-e",
-          "source": "Frandroid",
-          "summary": "Pensée pour surveiller l'extérieur de votre logement, la Reolink Argus Eco est une caméra connectée associée à un panneau solaire, qui propose surtout une détection intelligente sans frais supplémentaires. Actuellement,…",
-          "published": "2026-08-29T15:24:00+00:00"
-        },
-        {
-          "title": "269€ pour une TV Ambilight : Boulanger propose-t-il vraiment le meilleur prix ?",
-          "link": "https://www.clubic.com/bons-plans-627187-pour-une-tv-ambilight-boulanger-propose-t-il-vraiment-le-meilleur-prix.html",
-          "source": "Clubic",
-          "summary": "Trouver une TV Ambilight sous les 300 euros reste rare sur le marché français. Boulanger positionne actuellement la Philips 32PQS6901 à 269 euros, un tarif qu'il vaut la peine de comparer à ce que propose la concurrence…",
-          "published": "2026-08-29T15:15:00+00:00"
         }
       ]
     }
