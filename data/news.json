@@ -1,14 +1,21 @@
 {
-  "generated_at": "2026-08-30T20:36:22.270062+00:00",
+  "generated_at": "2026-08-30T23:11:30.063921+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Les forces américaines ont frappé des lance-roquettes iraniens dans le détroit d'Ormuz",
+          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont mené de nouvelles frappes en Iran, les premières en un mois",
+          "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-en-un-mois_6761630_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que les hostilités avaient perdu en intensité, ces dernières semaines, les Etats-Unis ont visé dimanche « deux lanceurs iraniens sur l’île de Larak », selon Tim Hawkins, porte-parole du commandement militaire…",
+          "published": "2026-08-30T22:08:58+00:00"
+        },
+        {
+          "title": "Les États-Unis ont frappé l'Iran pour la première fois en un mois, Téhéran promet des représailles",
           "link": "https://www.france24.com/fr/moyen-orient/20260830-les-forces-am%C3%A9ricaines-ont-frapp%C3%A9-des-lance-roquettes-iraniens-dans-le-d%C3%A9troit-d-ormuz",
           "source": "France 24",
-          "summary": "Des lance-roquettes iraniens dans le détroit d'Ormuz ont été pris pour cible par les forces américaines dimanche. Une première opération militaire depuis plusieurs semaines.",
+          "summary": "Les forces américaines ont mené dimanche des frappes sur l'île iranienne de Larak, située dans le stratégique détroit d'Ormuz, a annoncé le Centcom. Une première opération militaire américaine en un mois. Les Gardiens…",
           "published": "2026-08-30T20:33:03+00:00"
         },
         {
@@ -66,13 +73,6 @@
           "source": "France 24",
           "summary": "Le calme est revenu, dimanche, à Niamey, la capitale du Niger, après que l'armée et ses alliés russes, les paramilitaires d'Africa Corps, ont repris le contrôle face à des mutins qui avaient notamment tenté de pénétrer…",
           "published": "2026-08-30T15:34:29+00:00"
-        },
-        {
-          "title": "Venezuela : Delcy Rodriguez défend l'accord pétrolier avec les Etats Unis",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-venezuela-delcy-rodriguez-d%C3%A9fend-l-accord-p%C3%A9trolier-avec-les-etats-unis",
-          "source": "France 24",
-          "summary": "La présidente par intérim Delcy Rodriguez a défendu samedi l'accord \"historique\" signé entre Washington et Caracas, assurant face aux doutes que le Venezuela conserverait sa souveraineté sur les champs pétroliers amenés…",
-          "published": "2026-08-30T15:31:51+00:00"
         }
       ]
     },
@@ -84,11 +84,39 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Mécontent de sa couverture médiatique, Trump cible une journaliste de NBC",
-          "link": "https://www.journaldemontreal.com/2026/08/30/mecontent-de-sa-couverture-mediatique-trump-cible-une-journaliste-de-nbc",
-          "source": "Journal de Montreal",
-          "summary": "Donald Trump a annoncé dimanche vouloir signaler à l'autorité américaine des communications (FCC) une journaliste de la chaîne NBC.",
-          "published": "2026-08-30T19:56:58+00:00"
+          "title": "Les États-Unis ont mené de nouvelles frappes en Iran, les premières en un mois",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1005167/etats-unis-ont-mene-nouvelles-frappes-iran-premieres-mois",
+          "source": "Le Devoir",
+          "summary": "Les États-Unis mènent toujours un blocus des ports iraniens.",
+          "published": "2026-08-30T22:54:00+00:00"
+        },
+        {
+          "title": "Trump invite les entreprises canadiennes à déménager aux États-Unis pour éviter les tarifs douaniers",
+          "link": "https://www.ledevoir.com/economie/1005176/trump-invite-entreprises-canadiennes-demenager-etats-unis-eviter-tarifs-douaniers",
+          "source": "Le Devoir",
+          "summary": "Les entreprises canadiennes «affluent» aux États-Unis, a-t-il déclaré dans une publication sur son réseaux Truth Social.",
+          "published": "2026-08-30T22:52:23+00:00"
+        },
+        {
+          "title": "Les chefs ne ralentissent pas le rythme de leurs annonces… et de leurs attaques",
+          "link": "https://www.ledevoir.com/politique/quebec/1005170/chefs-ne-ralentissent-pas-rythme-annonces-attaques",
+          "source": "Le Devoir",
+          "summary": "Les cinq partis politiques ont multiplié les promesses cette fin de semaine.",
+          "published": "2026-08-30T22:29:07+00:00"
+        },
+        {
+          "title": "Homme pris en photo à son insu | Duhaime accuse ses adversaires de « fouiller de la merde »",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/homme-pris-en-photo-a-son-insu/duhaime-accuse-ses-adversaires-de-fouiller-de-la-merde.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Duarte Miranda, l’homme photographié à son insu par un candidat du Parti conservateur du Québec se moquant du port du masque, demande à Éric Duhaime de ne pas minimiser ce geste. Le politicien réplique en attaquant ses…",
+          "published": "2026-08-30T21:43:31+00:00"
+        },
+        {
+          "title": "Nouvelles frappes américaines dans le détroit d’Ormuz",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-30/nouvelles-frappes-americaines-dans-le-detroit-d-ormuz.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les forces américaines ont frappé des lance-roquettes iraniens dans le détroit d’Ormuz, lors de la première opération militaire menée depuis un mois, a déclaré dimanche un responsable américain, mettant ainsi fin à une…",
+          "published": "2026-08-30T20:48:03+00:00"
         },
         {
           "title": "Pour éviter les droits de douane | Donald Trump incite les entreprises canadiennes à déménager aux États-Unis",
@@ -105,53 +133,25 @@
           "published": "2026-08-30T19:45:41+00:00"
         },
         {
-          "title": "Sous des «Ô Canada!»: une Leylah Fernandez solide fait encore battre les coeurs à l'US Open",
-          "link": "https://www.journaldemontreal.com/2026/08/30/internationaux-des-etats-unis-leylah-fernandez-passe-au-deuxieme-tour",
-          "source": "Journal de Montreal",
-          "summary": "Énergique, la Québécoise passe au deuxième tour de son tournoi fétiche sans trembler",
-          "published": "2026-08-30T19:31:08+00:00"
-        },
-        {
-          "title": "Trump invite les entreprises canadiennes à s’installer aux États-Unis",
-          "link": "https://www.journaldemontreal.com/2026/08/30/trump-invite-les-entreprises-canadiennes-a-sinstaller-aux-etats-unis",
-          "source": "Journal de Montreal",
-          "summary": "Donald Trump a invité, dimanche, les entreprises canadiennes qui font déjà des affaires avec les États-Unis à s’installer au pays.",
-          "published": "2026-08-30T19:20:44+00:00"
-        },
-        {
-          "title": "Sortie de route en Mauricie: deux hommes dans un état critique",
-          "link": "https://www.journaldemontreal.com/2026/08/30/sortie-de-route-en-mauricie-trois-hommes-transportes-en-centre-hospitalier",
-          "source": "Journal de Montreal",
-          "summary": "Trois hommes ont été transportés en centre hospitalier, dont deux pour des blessures mettant leur vie en danger, après une sortie de route en Mauricie",
-          "published": "2026-08-30T19:17:31+00:00"
-        },
-        {
-          "title": "Internationaux des États-Unis | Fernandez expéditive au premier tour",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-08-30/internationaux-des-etats-unis/fernandez-expeditive-au-premier-tour.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Leylah Annie Fernandez ne s’est pas éternisée sur le terrain lors de son match de premier tour aux Internationaux des États-Unis, dimanche.",
-          "published": "2026-08-30T19:10:17+00:00"
-        },
-        {
-          "title": "Le fantôme Northvolt: Fitzgibbon s’invite dans la campagne électorale",
-          "link": "https://www.journaldemontreal.com/2026/08/30/le-fantome-northvolt-fitzgibbon-sinvite-dans-la-campagne-electorale",
-          "source": "Journal de Montreal",
-          "summary": "Pierre Fitzgibbon s’invite dans la campagne électorale, une bénédiction aux yeux des adversaires de Christine Fréchette",
-          "published": "2026-08-30T19:07:00+00:00"
-        },
-        {
-          "title": "La comédienne Noémie Godin-Vigneau parle de ses 30 ans de carrière et de son retour sur scène",
-          "link": "https://www.journaldemontreal.com/2026/08/30/la-comedienne-noemie-godin-vigneau-parle-de-ses-30-ans-de-carriere-et-de-son-retour-sur-scene",
-          "source": "Journal de Montreal",
-          "summary": "Celle qu’on a connue il y a 30 ans dans «Diva» monte sur les planches dans le cadre de «L’effet Lisa», un théâtre musical.",
-          "published": "2026-08-30T19:00:00+00:00"
-        },
-        {
           "title": "Protection du français | Le PQ veut enquêter sur la langue de socialisation dans les écoles",
           "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/protection-du-francais/le-pq-veut-enqueter-sur-la-langue-de-socialisation-dans-les-ecoles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Pour protéger le français, le Parti québécois s’engage à mener une enquête sur la langue de socialisation des jeunes des écoles de Laval et Montréal. Pas question d’interdire de parler une autre langue que le français…",
           "published": "2026-08-30T18:54:57+00:00"
+        },
+        {
+          "title": "À surveiller dans le monde des affaires au Canada",
+          "link": "https://www.ledevoir.com/economie/1005116/surveiller-monde-affaires-canada",
+          "source": "Le Devoir",
+          "summary": "Cinq éléments à surveiller, des résultats de Couche-Tard aux taux d’intérêt de la Banque du Canada.",
+          "published": "2026-08-30T18:20:00+00:00"
+        },
+        {
+          "title": "Le PQ se donne quatre ans pour renverser le déclin du français",
+          "link": "https://www.ledevoir.com/politique/quebec/1005113/pq-donne-quatre-ans-renverser-declin-francais",
+          "source": "Le Devoir",
+          "summary": "Il compte notamment étudier l’usage du français dans les corridors des écoles de Montréal et de Laval.",
+          "published": "2026-08-30T18:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT – Monaco-Marseille : étincelants, Brunner et l’ASM s’amusent face à l’OM de Genesio",
-          "link": "https://www.lefigaro.fr/sports/football/live/ligue-1/2026/2640573/monaco-marseille",
-          "source": "Le Figaro",
-          "summary": "Après avoir disposé de Strasbourg au Vélodrome en ouverture de la saison, l’Olympique de Marseille se déplace sur la pelouse de l’ASM, ce dimanche soir (20h45), en clôture de la 2e journée de Ligue 1.",
-          "published": "2026-08-30T20:32:03+00:00"
-        },
-        {
-          "title": "Guerre en Iran : les États-Unis frappent l’île de Larak, les Gardiens de la révolution promettent une riposte",
-          "link": "https://www.lefigaro.fr/international/guerre-en-iran-les-etats-unis-frappent-l-ile-de-larak-les-gardiens-de-la-revolution-promettent-une-riposte-20260830",
-          "source": "Le Figaro",
-          "summary": "Les médias iraniens ont fait état d’explosions dimanche sur cet îlot du détroit d’Ormuz, sans préciser l’origine. Selon un responsable américain cité par Axios, Washington aurait frappé deux lanceurs iraniens.",
-          "published": "2026-08-30T20:28:37+00:00"
-        },
-        {
-          "title": "Basket : «Ça fera bizarre de ne plus être avec eux», Wembanyama ressent une «grande frustration» de quitter les Bleus",
-          "link": "https://www.lefigaro.fr/sports/basket/basket-ca-fera-bizarre-de-ne-plus-etre-avec-eux-wembanyama-ressent-une-grande-frustration-de-quitter-les-bleus-20260830",
-          "source": "Le Figaro",
-          "summary": "Le capitaine de l’équipe de France a livré son sentiment après la victoire 84-69 en Suède ce dimanche, dans le cadre des qualifications pour la Coupe du monde 2027 de basket.",
-          "published": "2026-08-30T19:58:19+00:00"
-        },
-        {
-          "title": "Avec sa guerre contre l’Iran, Donald Trump parachève le recul stratégique de l’Amérique au Moyen-Orient",
-          "link": "https://www.lefigaro.fr/international/avec-sa-guerre-contre-l-iran-donald-trump-paracheve-le-recul-strategique-de-l-amerique-au-moyen-orient-20260830",
-          "source": "Le Figaro",
-          "summary": "ANALYSE - Six mois après son déclenchement, l’opération a tourné à un match nul embarrassant pour les États-Unis, réduisant leur prestige et donnant une vigueur nouvelle à la République islamique qui les défie depuis 47…",
-          "published": "2026-08-30T19:56:31+00:00"
-        },
-        {
-          "title": "Le lac Ontario devient lac d’Amérique pour les utilisateurs de Google Maps aux Etats-Unis",
-          "link": "https://www.lemonde.fr/international/article/2026/08/30/le-lac-ontario-devient-lac-d-amerique-pour-les-utilisateurs-de-google-maps-aux-etats-unis_6761564_3210.html",
+          "title": "A Paris, le président d’une association LGBT+ grièvement blessé dans une agression",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/31/a-paris-le-president-d-une-association-lgbt-grievement-blesse-dans-une-agression_6761663_3224.html",
           "source": "Le Monde",
-          "summary": "Donald Trump a signé jeudi un décret pour changer « immédiatement » le nom du lac situé à la frontière avec le Canada, qu’il accuse de « dépouiller » les Etats-Unis. Les utilisateurs du reste du monde verront les deux…",
-          "published": "2026-08-30T19:55:24+00:00"
+          "summary": "L’agression s’est produite peu avant 4 heures du matin, samedi, à la sortie d’un bar dans le quartier du Marais. Le parquet de Paris a précisé que l’auteur présumé des coups, au casier judiciaire vierge, était né en…",
+          "published": "2026-08-30T22:49:45+00:00"
         },
         {
-          "title": "EN DIRECT - Présidentielle 2027 : le RN prévoit de «sanctionner» le port du voile par «une amende», selon Jean-Philippe Tanguy",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-edouard-philippe-s-exprime-ce-dimanche-chez-gerald-darmanin-a-tourcoing-pour-une-demonstration-de-rassemblement-20260830",
+          "title": "Présidentielle 2027 : accusé par Attal de porter des «idées d’il y a 20 ans», Philippe lui suggère de «diriger ses traits vers leurs adversaires»",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/2027-accuse-par-attal-de-porter-des-idees-d-il-y-a-20-ans-philippe-lui-propose-de-diriger-ses-traits-vers-leurs-adversaires-20260830",
           "source": "Le Figaro",
-          "summary": "L’interdiction du port du voile dans l’espace public figurait déjà au programme de Marine Le Pen lors de ses trois premières candidatures à l’Élysée.",
-          "published": "2026-08-30T19:31:03+00:00"
+          "summary": "Invité dimanche soir de BFMTV, le candidat d’Horizons à la présidentielle promet de ne «se livrer» à aucune attaque contre une figure de «la droite et du centre» pendant la campagne.",
+          "published": "2026-08-30T22:26:00+00:00"
         },
         {
-          "title": "Suède-France : Wembanyama assume son rang, Strazel relance tout, l’adresse en berne... Coups de cœur et coups de griffe",
-          "link": "https://www.lefigaro.fr/sports/basket/suede-france-wembanyama-assume-son-rang-strazel-relance-tout-l-adresse-en-berne-coups-de-coeur-et-coups-de-griffe-20260830",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Ce qu’il faut retenir après la victoire dans la douleur en Suède (69-84) ce dimanche, dans le cadre des qualifications à la Coupe du monde 2027.",
-          "published": "2026-08-30T19:30:00+00:00"
-        },
-        {
-          "title": "Présidentielle : Olivier Faure, nouveau candidat à la primaire",
-          "link": "https://www.liberation.fr/politique/presidentielle-olivier-faure-nouveau-candidat-a-la-primaire-20260830_G4RZYREKVBGMNELYXA4FVMVBQI/",
-          "source": "Liberation",
-          "summary": "Le Premier secrétaire du Parti socialiste a attendu la fin des universités d’été de son parti à Blois pour se déclarer candidat à la primaire sociale-démocrate.",
-          "published": "2026-08-30T19:17:47+00:00"
-        },
-        {
-          "title": "Glucksmann, Faure, Hollande… À Blois, la primaire parasite la rentrée des socialistes",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/glucksmann-faure-hollande-a-blois-la-primaire-parasite-la-rentree-des-socialistes-20260830",
-          "source": "Le Figaro",
-          "summary": "Derrière les promesses d’unité et les embrassades de façade, les universités d’été du PS ont donné le coup d’envoi de cette compétition interne, qui désignera en octobre prochain le candidat socialiste à l’élection…",
-          "published": "2026-08-30T19:13:05+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : 52 blessés dénombrés à Myla, près de Kiev, deux jours après le bombardement d’un dépôt de munitions",
-          "link": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-52-blesses-denombres-a-myla-pres-de-kiev-deux-jours-apres-le-bombardement-d-un-depot-de-munitions_6760568_3210.html",
+          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont mené de nouvelles frappes en Iran, les premières en un mois",
+          "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-en-un-mois_6761630_3210.html",
           "source": "Le Monde",
-          "summary": "« Pour l’instant, nous comptons environ 300 bâtiments endommagés ici, à Myla, et dans les localités environnantes », a déclaré le chef de l’administration militaire de Kiev, qui fait toujours état de 38 morts.",
-          "published": "2026-08-30T19:08:31+00:00"
+          "summary": "Alors que les hostilités avaient perdu en intensité, ces dernières semaines, les Etats-Unis ont visé dimanche « deux lanceurs iraniens sur l’île de Larak », selon Tim Hawkins, porte-parole du commandement militaire…",
+          "published": "2026-08-30T22:08:58+00:00"
+        },
+        {
+          "title": "États-Unis : plus de 20 personnes recherchées après de violentes inondations dans le Grand Canyon",
+          "link": "https://www.lefigaro.fr/international/etats-unis-plus-de-20-personnes-recherchees-apres-de-violentes-inondations-dans-le-grand-canyon-20260830",
+          "source": "Le Figaro",
+          "summary": "Des pluies torrentielles ont provoqué samedi une crue éclair sur le célèbre site, dans l’Arizona. Plus de 60 personnes ont dû être évacuées.",
+          "published": "2026-08-30T21:48:52+00:00"
+        },
+        {
+          "title": "Monaco-Marseille : le prince Brunner, Camara tout terrain, Abdelli désolant et Kondogbia poisseux... Les tops et flops",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/monaco-marseille-le-prince-brunner-camara-a-tout-terrain-l-om-gentillet-les-tops-et-flops-20260830",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire de l’AS Monaco face à l’Olympique de Marseille (2-0), dimanche soir à Louis II, en clôture de la 2e journée de Ligue 1.",
+          "published": "2026-08-30T21:48:51+00:00"
+        },
+        {
+          "title": "Ligue 1 : Monaco s’impose face à l’OM (2-0) et prend la tête du championnat",
+          "link": "https://www.lemonde.fr/football/article/2026/08/30/ligue-1-monaco-s-impose-face-a-l-om-2-0-et-prend-la-tete-du-championnat_6761597_1616938.html",
+          "source": "Le Monde",
+          "summary": "La deuxième journée confirme le très bon début de saison de l’équipe monégasque, tandis que Marseille aborde les dernières heures du mercato sous pression, sans recrue.",
+          "published": "2026-08-30T21:35:15+00:00"
+        },
+        {
+          "title": "\"Nous sommes tous couverts de coupures\" : au large de Chypre, des scènes de panique filmées lors du naufrage d'un ferry",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chypre-un-navire-fait-naufrage-au-large-des-cotes-au-moins-sept-personnes-sont-mortes_8169815.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Un catamaran en route vers la Turquie a chaviré avec 267 passagers à son bord, dimanche. Sept personnes sont mortes, tandis que 17 autres étaient toujours portées disparues dans la soirée.",
+          "published": "2026-08-30T21:27:08+00:00"
+        },
+        {
+          "title": "Une équipe de France Télévisions au cœur d'un village englouti au Népal, après la coulée de boue qui a fait près de 800 morts",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-premiers-journalistes-a-y-acceder-une-equipe-de-france-televisions-au-c-ur-d-un-village-englouti-au-nepal_8169818.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Quatre jours après la crue meurtrière au Népal, les secouristes poursuivent les recherches dans des conditions périlleuses. Près de 800 personnes sont mortes et 3 000 autres ont disparu. Une équipe de France Télévisions…",
+          "published": "2026-08-30T21:26:53+00:00"
+        },
+        {
+          "title": "Le chef du Parti socialiste, Olivier Faure, confirme sa candidature à la primaire de son camp en vue de l'élection présidentielle",
+          "link": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le premier secrétaire du PS a officialisé cette annonce dimanche soir, au \"20 Heures\" de TF1.",
+          "published": "2026-08-30T21:20:41+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : pour Jean-Philippe Tanguy, Marine Le Pen et Jordan Bardella forment un tandem « efficace » et « harmonieux »",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pour-jean-philippe-tanguy-marine-le-pen-et-jordan-bardella-forment-un-tandem-efficace-et-harmonieux-20260830",
+          "source": "Le Figaro",
+          "summary": "Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », le nouveau rendez-vous de la présidentielle, le député de la Somme a salué la «popularité» des deux leaders RN.",
+          "published": "2026-08-30T21:19:46+00:00"
         }
       ]
     },
