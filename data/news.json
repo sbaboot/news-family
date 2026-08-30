@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-30T11:18:24.226837+00:00",
+  "generated_at": "2026-08-30T16:05:01.701078+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Stérilisation forcée : le Groenland demande la mise en place d’une commission de vérité et de réconciliation",
-          "link": "https://www.lemonde.fr/international/article/2026/08/30/sterilisation-forcee-le-groenland-demande-la-mise-en-place-d-une-commission-de-verite-et-de-reconciliation_6761117_3210.html",
+          "title": "Au Niger, la vie reprend son cours à Niamey après une mutinerie déjouée",
+          "link": "https://www.france24.com/fr/afrique/20260830-au-niger-la-vie-reprend-son-cours-%C3%A0-niamey-apr%C3%A8s-une-mutinerie-d%C3%A9jou%C3%A9e",
+          "source": "France 24",
+          "summary": "Le calme est revenu, dimanche, à Niamey, la capitale du Niger, après que l'armée et ses alliés russes, les paramilitaires d'Africa Corps, ont repris le contrôle face à des mutins qui avaient notamment tenté de pénétrer…",
+          "published": "2026-08-30T15:34:29+00:00"
+        },
+        {
+          "title": "Venezuela : Delcy Rodriguez défend l'accord pétrolier avec les Etats Unis",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-venezuela-delcy-rodriguez-d%C3%A9fend-l-accord-p%C3%A9trolier-avec-les-etats-unis",
+          "source": "France 24",
+          "summary": "La présidente par intérim Delcy Rodriguez a défendu samedi l'accord \"historique\" signé entre Washington et Caracas, assurant face aux doutes que le Venezuela conserverait sa souveraineté sur les champs pétroliers amenés…",
+          "published": "2026-08-30T15:31:51+00:00"
+        },
+        {
+          "title": "Au moins 7 morts et 23 disparus dans un naufrage au large de Chypre du Nord",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-au-moins-7-morts-et-23-disparus-dans-un-naufrage-au-large-de-chypre-du-nord",
+          "source": "France 24",
+          "summary": "Jenna Le Bras est en direct d'Istanbul, Turquie.",
+          "published": "2026-08-30T15:30:09+00:00"
+        },
+        {
+          "title": "Chypre : au moins 7 morts dans le naufrage d’un bateau de croisière",
+          "link": "https://www.lemonde.fr/international/video/2026/08/30/chypre-au-moins-7-morts-dans-le-naufrage-d-un-bateau-de-croisiere_6761388_3210.html",
           "source": "Le Monde",
-          "summary": "Après la publication de deux rapports d’experts se contredisant, les débats se poursuivent sur la nature de la campagne dite « du stérilet », menée à partir des années 1960, et ses implications au regard du droit…",
-          "published": "2026-08-30T11:06:44+00:00"
+          "summary": "Les causes du naufrage du ferry, à bord duquel avaient embarqué quelque 270 personnes, ne sont pas connues, mais un témoin a évoqué une explosion qui aurait fait plonger l’avant du bateau.",
+          "published": "2026-08-30T15:29:43+00:00"
         },
         {
-          "title": "Etats-Unis : déportation des personnes en situation irrégulière vers le Cameroun",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-etats-unis-d%C3%A9portation-des-personnes-en-situation-irr%C3%A9guli%C3%A8re-vers-le-cameroun",
+          "title": "Les Islandais rejettent une reprise des négociations d'adhésion à l'UE",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-les-islandais-rejettent-une-reprise-des-n%C3%A9gociations-d-adh%C3%A9sion-%C3%A0-l-ue",
           "source": "France 24",
-          "summary": "Depuis son retour au pouvoir, Donald Trump a fait du départ des personnes en situation irrégulière du territoire américain une priorité. Mais lorsque leur expulsion vers leur pays d’origine s’avère difficile, voire…",
-          "published": "2026-08-30T11:03:20+00:00"
+          "summary": "Les Islandais ont rejeté ce weekend par référendum une reprise des négociations d'adhésion à l'Union européenne, un coup dur pour Bruxelles qui aurait vu d'un bon oeil une candidature de la riche île de l'Atlantique…",
+          "published": "2026-08-30T15:26:17+00:00"
         },
         {
-          "title": "Japon : des \"frigos humains\" pour soulager les employés des canicules",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-japon-des-frigos-humains-pour-soulager-les-employ%C3%A9s-des-canicules",
-          "source": "France 24",
-          "summary": "Zoom sur les \"frigos humains\" japonais pour soulager les employés des canicules.",
-          "published": "2026-08-30T10:57:44+00:00"
-        },
-        {
-          "title": "Des méduses bloquent les filets de pêche en France suite aux vagues de chaleur",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-des-m%C3%A9duses-bloquent-les-filets-de-p%C3%AAche-en-france-suite-aux-vagues-de-chaleur",
-          "source": "France 24",
-          "summary": "Après les fortes vagues de chaleur en France, des méduses bloquent les filets de pêche en France.",
-          "published": "2026-08-30T10:39:20+00:00"
-        },
-        {
-          "title": "Crue dans l'Himalaya : les opérations de secours progressent péniblement",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-crue-dans-l-himalaya-les-op%C3%A9rations-de-secours-progressent-p%C3%A9niblement",
-          "source": "France 24",
-          "summary": "Les opérations de secours progressent pas à pas dimanche au Népal et en Chine, dans des conditions périlleuses, pour tenter de retrouver des survivants quatre jours après la crue dévastatrice qui a fait plus de 750…",
-          "published": "2026-08-30T10:32:41+00:00"
-        },
-        {
-          "title": "Itamar Ben Gvir, ministre d’extrême droite israélien, est « fier » de la dégradation des conditions de détention des Palestiniens",
-          "link": "https://www.lemonde.fr/international/article/2026/08/30/itamar-ben-gvir-ministre-d-extreme-droite-israelien-vante-la-degradation-des-conditions-de-detention-des-palestiniens_6761051_3210.html",
+          "title": "Au Niger, la tentative de coup d’Etat met en lumière les faiblesses de la junte du général Tiani",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/30/au-niger-la-tentative-de-coup-d-etat-met-en-lumiere-les-faiblesses-de-la-junte-du-general-tiani_6761354_3212.html",
           "source": "Le Monde",
-          "summary": "A deux mois des législatives, le ministre de la sécurité nationale israélien a publié une vidéo dans laquelle une femme voilée, le visage flouté, affirme que les conditions de détention sont « extrêmement mauvaises ».",
-          "published": "2026-08-30T10:27:08+00:00"
+          "summary": "Après avoir été menacé durant une journée, le régime de Niamey est parvenu à mettre fin à une tentative de putsch, grâce à ses alliés russes d’Africa Corps. Mais cette mutinerie révèle sa fragilité, alors que le pays…",
+          "published": "2026-08-30T15:13:29+00:00"
         },
         {
-          "title": "Présidentielle 2027 : le retour de François Hollande, mais pas candidat",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-pr%C3%A9sidentielle-2027-le-retour-de-fran%C3%A7ois-hollande-mais-pas-candidat",
+          "title": "À Paris, le président d'une association LGBT+ grièvement blessé dans une agression",
+          "link": "https://www.france24.com/fr/france/20260830-%C3%A0-paris-le-pr%C3%A9sident-d-une-association-lgbt-gri%C3%A8vement-bless%C3%A9-dans-une-agression",
           "source": "France 24",
-          "summary": "L'ancien président socialiste François Hollande a répété vendredi à Blois son refus de participer à la primaire du pôle social-démocrate, assurant qu'un \"moment de vérité\" aura lieu en décembre et qu'il s'agira alors de…",
-          "published": "2026-08-30T10:11:24+00:00"
+          "summary": "Agressé dans la nuit de vendredi à samedi à la sortie d'un bar dans le quartier du Marais, au coeur de la capitale, le président de l'association LGBT+ des policiers et fonctionnaires de justice présente de nombreuses…",
+          "published": "2026-08-30T14:51:38+00:00"
         },
         {
-          "title": "Présidentielles françaises 2027 : la bataille des gauches est lancée",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-pr%C3%A9sidentielles-fran%C3%A7aises-2027-la-bataille-des-gauches-est-lanc%C3%A9e",
+          "title": "Guinée-Bissau : régime présidentiel ou système semi-parlementaire ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-guin%C3%A9e-bissau-r%C3%A9gime-pr%C3%A9sidentiel-ou-syst%C3%A8me-semi-parlementaire",
           "source": "France 24",
-          "summary": "Damien Lecomte, docteur en sciences politiques à l'Université Paris 1, est notre invité.",
-          "published": "2026-08-30T10:07:23+00:00"
+          "summary": "Aminatou Diallo, notre correspondante à Dakar, analyse la situation.",
+          "published": "2026-08-30T14:41:51+00:00"
         },
         {
-          "title": "Crue dévastatrice au Népal-Tibet, mort de Dolly Parton, tornade en France : la semaine en images",
-          "link": "https://www.france24.com/fr/asie-pacifique/20260830-crue-devastatrice-nepal-tibet-mort-dolly-parton-tornade-france-semaine-en-images",
+          "title": "Suisse : Fusillade lors d'un festival techno, 1 mort et 5 blessés",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-suisse-fusillade-lors-d-un-festival-techno-1-mort-et-5-bless%C3%A9s",
           "source": "France 24",
-          "summary": "Retour sur les temps forts de l'actualité de la semaine et les images les plus marquantes : une crue dévastatrice au Népal et au Tibet, la mort de l'icône Dolly Parton, une tornade dans le sud de la France ou encore les…",
-          "published": "2026-08-30T10:04:44+00:00"
+          "summary": "La police suisse est mobilisée dimanche pour tenter de retrouver le ou les auteurs des tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche en marge d'une rave party à Aarau, dans le nord de la…",
+          "published": "2026-08-30T14:39:21+00:00"
         },
         {
-          "title": "Guerre en Ukraine : au moins 37 morts dans une frappe sur un entrepôt",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-guerre-en-ukraine-au-moins-37-morts-dans-une-frappe-sur-un-entrep%C3%B4t",
+          "title": "Attaques de colons en Cisjordanie occupée : rare critique de Netanyahu",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-attaques-de-colons-en-cisjordanie-occup%C3%A9e-rare-critique-de-netanyahu",
           "source": "France 24",
-          "summary": "Emmanuelle Chaze décrypte la situation en direct de Kiev.",
-          "published": "2026-08-30T10:03:24+00:00"
+          "summary": "Agnès Levallois, présidente de l'Institut de recherche d'études sur la Méditerranée et le Moyen-Orient, est notre invitée.",
+          "published": "2026-08-30T13:28:35+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Fini, l’auscultation de routine ?",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-30/fini-l-auscultation-de-routine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le lac Ontario devient le « lac Amérique » sur le Google Maps américain",
+          "link": "https://www.lapresse.ca/actualites/national/2026-08-30/le-lac-ontario-devient-le-lac-amerique-sur-le-google-maps-americain.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Dans le passé, les médecins de famille auscultaient systématiquement les patients lors de leur rendez-vous annuel. Stéthoscope au cou, ils écoutaient le cœur et les poumons avant de palper le cou et l’abdomen. Cette…",
-          "published": "2026-08-30T11:00:00+00:00"
+          "summary": "Google Maps a été mis à jour pour afficher « lac Amérique » lorsque des utilisateurs aux États-Unis effectuent une recherche avec ce terme.",
+          "published": "2026-08-30T15:16:51+00:00"
         },
         {
-          "title": "Des femmes priorisent la force avant la minceur",
-          "link": "https://www.lapresse.ca/societe/2026-08-30/des-femmes-priorisent-la-force-avant-la-minceur.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Cinq nouveaux livres de recettes pour nous inspirer",
+          "link": "https://www.lapresse.ca/gourmand/2026-08-30/cinq-nouveaux-livres-de-recettes-pour-nous-inspirer.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Tandis que la tendance chez les personnalités et sur les réseaux sociaux en ce qui concerne le corps des femmes est à la minceur (voire à la maigreur), des femmes décident plutôt de donner la priorité aux muscles et à…",
-          "published": "2026-08-30T10:30:00+00:00"
+          "summary": "L’automne foisonne de nouveaux livres de recettes. Voici une sélection d’ouvrages qui sauront insuffler un vent de fraîcheur dans notre cuisine.",
+          "published": "2026-08-30T15:00:00+00:00"
         },
         {
-          "title": "Cri du cœur pour l’environnement",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/cri-du-coeur-pour-l-environnement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Grand Montréal | Le prix du litre d’essence repasse le cap des 2 $",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-08-30/grand-montreal/le-prix-du-litre-d-essence-repasse-le-cap-des-2.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Des Québécois victimes de catastrophes naturelles s’inquiètent de voir le sujet de l’environnement disparaître du radar politique pendant la campagne électorale. Des années après qu’ils ont été inondés, les cicatrices…",
-          "published": "2026-08-30T09:00:00+00:00"
+          "summary": "Les automobilistes du Grand Montréal risquent de grincer des dents à la pompe, puisque le prix du litre d’essence s’élève au-delà de 2 $ le litre depuis dimanche matin.",
+          "published": "2026-08-30T14:55:56+00:00"
         },
         {
-          "title": "Nos politiciens",
-          "link": "https://www.lapresse.ca/elections-quebecoises/chroniques/2026-08-30/nos-politiciens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ces derniers jours, j’ai enregistré pour le 98,5 FM des entrevues avec les cinq chefs de parti qui, depuis jeudi, veulent vos votes. J’aimerais vous parler d’eux, ce matin, sous l’angle humain.",
-          "published": "2026-08-30T09:00:00+00:00"
+          "title": "Les libéraux de Carney en quête d’un nouveau balayage aux élections partielles",
+          "link": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles",
+          "source": "Le Devoir",
+          "summary": "Trois élections partielles fédérales sont prévues lundi, dont une au Québec.",
+          "published": "2026-08-30T14:55:00+00:00"
         },
         {
-          "title": "La traversée du désert du PLQ",
-          "link": "https://www.lapresse.ca/elections-quebecoises/chroniques/2026-08-30/la-traversee-du-desert-du-plq.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Logements pour aînés | Charles Milliard promet de plafonner les hausses de loyer dans les RPA",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/logements-pour-aines/charles-milliard-promet-de-plafonner-les-hausses-de-loyer-dans-les-rpa.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Des années après avoir quitté la politique, nul autre que Lucien Bouchard se désolait de l’état du Parti libéral du Québec (PLQ).",
-          "published": "2026-08-30T09:00:00+00:00"
+          "summary": "Charles Milliard promet de mettre fin aux hausses abusives des loyers dans les résidences privées pour aînés (RPA) en les plafonnant, chaque année, puis en forçant les entreprises qui veulent dépasser ce seuil à le…",
+          "published": "2026-08-30T14:31:16+00:00"
         },
         {
-          "title": "Réseau public de santé | Le recours aux agences prolongé dans certaines régions",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-30/reseau-public-de-sante/le-recours-aux-agences-prolonge-dans-certaines-regions.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "CAQ | Des promesses de 9,7 milliards, un trou de 6 milliards",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/caq/des-promesses-de-9-7-milliards-un-trou-de-6-milliards.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les établissements de santé des régions éloignées qui doivent cesser de recourir aux agences de placement de personnel d’ici le 18 octobre pourront continuer de le faire jusqu’au 31 octobre 2027, a appris La Presse.…",
-          "published": "2026-08-30T09:00:00+00:00"
+          "summary": "Les promesses de la Coalition avenir Québec (CAQ) coûteraient 9,7 milliards de dollars en cinq ans, mais Christine Fréchette assure que le retour à l’équilibre budgétaire serait toujours possible en 2029-2030. Or, il y…",
+          "published": "2026-08-30T14:05:00+00:00"
         },
         {
-          "title": "Santé mentale | Une étude trouve des liens entre certains troubles",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-30/sante-mentale/une-etude-trouve-des-liens-entre-certains-troubles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une étude montréalaise montre que contrairement à ce qu’on pensait, la dépression, la schizophrénie et le trouble bipolaire partagent des alterations cérébrales communes. Cela pourrait aider à développer de nouveaux…",
-          "published": "2026-08-30T09:00:00+00:00"
+          "title": "Christine Fréchette fera des promesses totalisant 9,7 milliards",
+          "link": "https://www.ledevoir.com/politique/quebec/1005092/christine-frechette-fera-promesses-totalisant-9-7-milliards",
+          "source": "Le Devoir",
+          "summary": "La cheffe de la CAQ dévoile le cadre financier de sa formation à peine trois jours après le début de la campagne.",
+          "published": "2026-08-30T14:00:00+00:00"
         },
         {
-          "title": "Planificateurs financiers | Payer pour des conseils, pas pour des produits",
-          "link": "https://www.lapresse.ca/affaires/finances-personnelles/2026-08-30/planificateurs-financiers/payer-pour-des-conseils-pas-pour-des-produits.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Propos d’un candidat péquiste sur Northvolt | « Opportuniste et électoraliste », dénonce Pierre Fitzgibbon",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/propos-d-un-candidat-pequiste-sur-northvolt/opportuniste-et-electoraliste-denonce-pierre-fitzgibbon.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Ils ne sont qu’une poignée au Québec – et certains ont des listes d’attente qui peuvent s’étendre sur des mois. Dans un monde qui carbure souvent à la commission, les planificateurs financiers à honoraires sont dans une…",
-          "published": "2026-08-30T09:00:00+00:00"
+          "summary": "Pierre Fitzgibbon contredit la version de l’ex-PDG de Montréal International et candidat péquiste, Stéphane Paquet, qui prétend avoir mis en garde l’ex-ministre de l’Économie et de l’Énergie des risques liés à…",
+          "published": "2026-08-30T13:39:07+00:00"
         },
         {
-          "title": "Démystifier la science | Quand le Saint-Laurent change de sens",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-08-30/demystifier-la-science/quand-le-saint-laurent-change-de-sens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Chaque semaine, notre journaliste répond aux questions scientifiques de lecteurs.",
-          "published": "2026-08-30T09:00:00+00:00"
+          "title": "Rentrée politique pour Andy Burnham, confronté à ses premières épreuves",
+          "link": "https://www.ledevoir.com/monde/europe/1005089/rentree-politique-andy-burnham-confronte-premieres-epreuves",
+          "source": "Le Devoir",
+          "summary": "Après un été en forme de lune de miel, le premier ministre britannique se prépare à la reprise du Parlement.",
+          "published": "2026-08-30T13:30:00+00:00"
         },
         {
-          "title": "Crue au Népal | La famille de Canadiens portés disparus vit dans l’angoisse",
-          "link": "https://www.lapresse.ca/international/asie-et-oceanie/2026-08-30/crue-au-nepal/la-famille-de-canadiens-portes-disparus-vit-dans-l-angoisse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le frère d’un Canadien figurant parmi les personnes portées disparues après que la crue soudaine a balayé une région située le long de la frontière entre le Népal et le Tibet explique que sa famille est en proie à…",
-          "published": "2026-08-30T04:12:24+00:00"
+          "title": "Les Islandais rejettent une reprise des négociations d’adhésion à l’UE",
+          "link": "https://www.ledevoir.com/monde/europe/1005086/islandais-rejettent-reprise-negociations-adhesion-ue",
+          "source": "Le Devoir",
+          "summary": "Il s’agit d’un coup dur pour Bruxelles, qui aurait vu d’un bon œil la candidature de cette île de l’Atlantique Nord.",
+          "published": "2026-08-30T13:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "TVA, mauvais payeurs, fuites de données… La facturation électronique entre en vigueur le 1er septembre",
-          "link": "https://www.liberation.fr/economie/tva-mauvais-payeurs-fuites-de-donnees-la-facturation-electronique-entre-en-vigueur-le-1er-septembre-20260830_NRG5MVTXI5GO3B2RS44UVI4UOI/",
-          "source": "Liberation",
-          "summary": "Bercy, qui entend s’appuyer sur cet outil pour limiter la dissimulation de TVA et mieux repérer les mauvais payeurs, a dû assouplir ses positions après les craintes soulevées par la fuite de données, cet été, de…",
-          "published": "2026-08-30T11:11:33+00:00"
-        },
-        {
-          "title": "Face à Trump, le président de la Fed donne le ton et prépare à une hausse des taux",
-          "link": "https://www.liberation.fr/international/amerique/face-a-trump-le-president-de-la-fed-donne-le-ton-et-prepare-a-une-hausse-des-taux-20260830_7OLH3LJADBDZPELE6WZILOSCXA/",
-          "source": "Liberation",
-          "summary": "Devant les banquiers centraux réunis dans le Wyoming le 28 août, Kevin Warsh, le nouveau président de la Réserve fédérale américaine, a évoqué une future hausse des taux d’intérêt. De quoi déplaire au chef d’Etat, et…",
-          "published": "2026-08-30T11:03:58+00:00"
-        },
-        {
-          "title": "Après le fisc, les pirates de ZeroBytes revendiquent le vol de 149 millions de données sur un site du ministère du Logement",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/apres-le-fisc-les-pirates-de-zerobytes-revendiquent-le-vol-de-149-millions-de-donnees-sur-un-site-du-ministere-du-logement-20260830",
+          "title": "EN DIRECT - Présidentielle 2027 : Édouard Philippe veut créer un «nouveau parti» ou une «confédération de partis» avec des «candidats uniques» aux législatives",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-edouard-philippe-s-exprime-ce-dimanche-chez-gerald-darmanin-a-tourcoing-pour-une-demonstration-de-rassemblement-20260830",
           "source": "Le Figaro",
-          "summary": "Le site «Zéro logement vacant», rattaché au ministère du Logement, est inaccessible ce dimanche. Des informations concernant des propriétaires et des biens immobiliers pourraient avoir été dérobées.",
-          "published": "2026-08-30T10:46:23+00:00"
+          "summary": "Le candidat Horizons s’exprime ce dimanche lors de la rentrée politique de Gérald Darmanin à Tourcoing, après le soutien apporté par le garde des Sceaux, assorti d’exigences programmatiques, notamment sur les retraites.",
+          "published": "2026-08-30T15:57:03+00:00"
         },
         {
-          "title": "En Islande, les eurosceptiques l’emportent lors du référendum sur l’UE après une nuit sous tension",
-          "link": "https://www.lefigaro.fr/international/en-islande-les-eurosceptiques-l-emportent-lors-du-referendum-sur-l-ue-apres-une-nuit-sous-tension-20260830",
+          "title": "Le ferry naufragé avec 267 personnes au large des côtes de la partie nord de Chypre a «complètement coulé», au moins sept morts et 23 disparus",
+          "link": "https://www.lefigaro.fr/international/un-ferry-avec-270-personnes-fait-naufrage-au-large-des-cotes-de-la-partie-nord-de-chypre-une-operation-de-sauvetage-en-cours-20260830",
           "source": "Le Figaro",
-          "summary": "Les Islandais ont rejeté ce dimanche la reprise des négociations avec l’Union européenne. Le «non» s’est imposé au terme d’un scrutin très serré, marqué par une forte mobilisation.",
-          "published": "2026-08-30T10:42:03+00:00"
+          "summary": "Les images diffusées par les chaînes de télévision turques montrent le bateau ballotté et en partie immergé dans une mer formée par beau temps, ainsi que des opérations d’évacuation en cours et de nombreux débris…",
+          "published": "2026-08-30T15:55:23+00:00"
         },
         {
-          "title": "Manche : un chalutier breton fait naufrage au large de Plymouth en Angleterre, deux marins portés disparus",
-          "link": "https://www.lefigaro.fr/actualite-france/manche-un-chalutier-breton-fait-naufrage-au-large-de-plymouth-en-angleterre-deux-marins-portes-disparus-20260830",
-          "source": "Le Figaro",
-          "summary": "Cinq marins au total se trouvaient à bord du «Maranello», un chalutier immatriculé à Saint-Brieuc. Trois d’entre eux ont pu être sauvés.",
-          "published": "2026-08-30T10:41:42+00:00"
+          "title": "Maillot rouge sur les épaules, Enric Mas remporte la 9e étape et accentue son avance en tête de la Vuelta",
+          "link": "https://www.franceinfo.fr/sports/cyclisme/vuelta/maillot-rouge-sur-les-epaules-enric-mas-remporte-la-9e-etape-et-accentue-son-avance-en-tete-de-la-vuelta_8169674.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Au lendemain de l'abandon de Tadej Pogacar, le nouveau leader de la course a montré qu'il était le plus fort en haute montage, dimanche.",
+          "published": "2026-08-30T15:54:54+00:00"
         },
         {
-          "title": "Marseille : un mort et quatre blessés, dont un grave, lors d’une fusillade dans un bar à chicha",
-          "link": "https://www.lefigaro.fr/marseille/marseille-un-mort-et-quatre-blesses-dont-un-grave-lors-d-une-fusillade-dans-un-bar-a-chicha-20260830",
-          "source": "Le Figaro",
-          "summary": "Les faits ont eu lieu dans la nuit du 29 au 30 août dans un quartier situé à proximité de la gare Saint-Charles.",
-          "published": "2026-08-30T10:41:00+00:00"
-        },
-        {
-          "title": "Une morte, cinq blessés et des suspects en fuite… Ce que l’on sait des coups de feu tirés dans une rave party en Suisse",
-          "link": "https://www.liberation.fr/international/europe/suisse-des-coups-de-feu-tires-dans-une-rave-party-plusieurs-victimes-selon-la-police-20260830_AM45OLUJABG3DF7YNWA4B2R35M/",
+          "title": "L’Islande dit «non» aux négociations avec l’UE, Faure candidat à la primaire socialiste, chasse à l’homme en Suisse… L’actu de ce week-end des 29 et 30 août",
+          "link": "https://www.liberation.fr/international/europe/lislande-dit-non-aux-negociations-avec-lue-faure-candidat-a-la-primaire-socialiste-chasse-a-lhomme-en-suisse-lactu-de-ce-week-end-des-29-et-30-aout-20260830_6AMUE6HVBBHGVLDWWIB2K54ZFA/",
           "source": "Liberation",
-          "summary": "Plusieurs personnes ont été touchées, dont une mortellement, par des coups de feu dans la nuit de samedi à dimanche à Aarau, près de Zurich. Un important dispositif policier a été déployé.",
-          "published": "2026-08-30T10:38:52+00:00"
+          "summary": "La rédaction de «Libération» récapitule les principales actualités de ces samedi et dimanche.",
+          "published": "2026-08-30T15:54:53+00:00"
         },
         {
-          "title": "Université d’été du PS : Coco croque la rentrée des socialistes",
-          "link": "https://www.liberation.fr/politique/universite-dete-du-ps-coco-croque-la-rentree-des-socialistes-20260830_DLYDIRNUG5EHBLPC6DELWXOCNM/",
-          "source": "Liberation",
-          "summary": "Notre dessinatrice a déambulé à Blois ce samedi 29 août où les socialistes étaient réunis pour leur université d’été. Choses vues et dessinées.",
-          "published": "2026-08-30T10:37:38+00:00"
+          "title": "Météo : faut-il s'attendre à une nouvelle vague de chaleur pour la rentrée ?",
+          "link": "https://www.franceinfo.fr/environnement/meteo/meteo-faut-il-s-attendre-a-une-nouvelle-vague-de-chaleur-pour-la-rentree_8169644.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Dès mardi, un temps chaud et sec va gagner l'ensemble de l'Hexagone, avant un pic des températures attendu pour le premier week-end de septembre, selon les prévisions de Météo-France.",
+          "published": "2026-08-30T15:54:25+00:00"
         },
         {
-          "title": "Basket : l’AS Monaco débouté par la Fédération et bientôt exclu du monde professionnel",
-          "link": "https://www.lefigaro.fr/sports/basket/basket-l-as-monaco-deboute-par-la-federation-et-bientot-exclu-du-monde-professionnel-20260830",
+          "title": "Présidentielle 2027 : Raphaël Glucksmann assure vouloir augmenter les salaires des enseignants d'au moins 10%",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-raphael-glucksmann-assure-vouloir-augmenter-les-salaires-des-enseignants-d-au-moins-10-20260830",
           "source": "Le Figaro",
-          "summary": "Le champion de France, qui demandait à la Fédération française de basket-ball de réexaminer son refus d’engagement en première et deuxième division, a une nouvelle fois été débouté, et est donc proche de la sortie du…",
-          "published": "2026-08-30T10:35:08+00:00"
+          "summary": "Le chef du parti Place publique assure que les enseignants français sont «les plus maltraités d’Europe».",
+          "published": "2026-08-30T15:53:08+00:00"
         },
         {
-          "title": "Clarisse Agbegnenou décroche une médaille pour son retour après la naissance de son deuxième enfant",
-          "link": "https://www.liberation.fr/sports/clarisse-agbegnenou-decroche-une-medaille-pour-son-retour-apres-la-naissance-de-son-deuxieme-enfant-20260830_PILT47NF25CPXAJG7PKZXFFZJM/",
+          "title": "«Gagner cinq, dix points de participation» : qu’est-ce que l’«alliance» contre l’abstention lancée par LFI et Bally Bagayoko à Saint-Denis ?",
+          "link": "https://www.lefigaro.fr/politique/gagner-cinq-dix-points-de-participation-qu-est-ce-que-l-alliance-contre-l-abstention-lancee-par-lfi-et-bally-bagayoko-a-saint-denis-20260830",
+          "source": "Le Figaro",
+          "summary": "L’élu insoumis était dimanche au lancement de l’«Alliance des numéros 10 des quartiers populaires», qui a prévu des rassemblements dans plusieurs grandes villes comme Marseille, Strasbourg et Toulouse.",
+          "published": "2026-08-30T15:51:11+00:00"
+        },
+        {
+          "title": "Sourire, survêtement et «V» de la victoire : le président vénézuélien déchu Nicolas Maduro publie ses toutes premières photos depuis sa prison",
+          "link": "https://www.lefigaro.fr/international/sourire-survetement-et-v-de-la-victoire-le-president-venezuelien-dechu-nicolas-maduro-publie-ses-toutes-premieres-photos-depuis-sa-prison-20260830",
+          "source": "Le Figaro",
+          "summary": "Huit mois après son arrestation par l’armée américaine, l’ancien dirigeant a diffusé des photographies prises depuis le centre de détention à New York où il est incarcéré avec son épouse, Cilia Flores.",
+          "published": "2026-08-30T15:42:32+00:00"
+        },
+        {
+          "title": "L'UE «respecte pleinement» le «choix démocratique» du peuple islandais, déclare Antonio Costa après la victoire des eurosceptiques lors du référendum",
+          "link": "https://www.lefigaro.fr/flash-eco/l-ue-respecte-pleinement-le-choix-democratique-du-peuple-islandais-declare-antonio-costa-apres-la-victoire-des-eurosceptiques-lors-du-referendum-20260830",
+          "source": "Le Figaro",
+          "summary": "«L’Islande demeure l’un des partenaires les plus proches et les plus fiables de l’UE», a affirmé le porte-parole du président du Conseil européen.",
+          "published": "2026-08-30T15:38:08+00:00"
+        },
+        {
+          "title": "Yann Barthès se défend après la séquence polémique de «Quotidien» sur les Français qui «vivent sous les toits» en pleine canicule",
+          "link": "https://www.liberation.fr/economie/medias/yann-barthes-se-defend-apres-sa-sequence-polemique-sur-les-francais-qui-vivent-sous-les-toits-en-pleine-canicule-20260830_CCBEXIBSWZEZDF6S4WXGJR2NPY/",
           "source": "Liberation",
-          "summary": "La judoka française a remporté le bronze dans sa catégorie au Grand Slam de Lausanne, samedi 29 août, pour son retour à la compétition cinq mois après la naissance de son deuxième enfant.",
-          "published": "2026-08-30T10:33:08+00:00"
+          "summary": "Interviewé par «la Tribune» dimanche 30 août à la veille de la rentrée de «Quotidien», l’animateur est revenu sur la séquence où il tournait en dérision la souffrance des personnes qui vivent sous les toits en période…",
+          "published": "2026-08-30T15:33:20+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Amazon casse le prix de la Razer Iskur V2 NewGen avec une réduction de quasi 300 euros",
-          "link": "https://www.frandroid.com/bons-plans/3225503_amazon-casse-le-prix-de-la-razer-iskur-v2-newgen-avec-une-reduction-de-quasi-300-euros",
+          "title": "Xiaomi POCO X8 Pro Max vs Google Pixel 10a : comment choisir le meilleur smartphone milieu de gamme ?",
+          "link": "https://www.frandroid.com/versus/3207457_xiaomi-poco-x8-pro-max-vs-google-pixel-10a-comment-choisir-le-meilleur-smartphone-milieu-de-gamme",
           "source": "Frandroid",
-          "summary": "La Razer Iskur V2 NewGen ne se contente pas de prendre soin de votre dos puisqu'elle possède des fonctionnalités qui permettent d'évacuer rapidement la chaleur. Pour la rentrée, Amazon la brade à 409,33 euros.",
-          "published": "2026-08-30T11:15:00+00:00"
+          "summary": "Google s'est taillé une solide réputation sur le milieu de gamme, mais la concurrence a les dents longues. En l'occurrence, le Pixel 10a a-t-il encore des arguments à défendre face à l'impressionnant POCO X8 Pro Max de…",
+          "published": "2026-08-30T16:00:00+00:00"
         },
         {
-          "title": "Xbox : Project Helix ne sera finalement pas une console, mais une famille d’appareils",
-          "link": "https://www.clubic.com/actualite-627340-xbox-project-helix-ne-sera-finalement-pas-une-console-mais-une-famille-d-appareils.html",
+          "title": "Pourquoi s’encombrer d’un gros purificateur ? Ce petit modèle Xiaomi à -31% filtre 99,97 % des particules jusqu’à 48 m²",
+          "link": "https://www.frandroid.com/bons-plans/3223611_pourquoi-sencombrer-dun-gros-purificateur-ce-petit-modele-xiaomi-a-31-filtre-9997-des-particules-jusqua-48-m%c2%b2",
+          "source": "Frandroid",
+          "summary": "Le Xiaomi Smart Air Purifier 4 Compact est un purificateur d'air pensé pour les petites pièces, comme un bureau, une chambre ou un coin salon, en promo à 68,39 euros au lieu de 99,99 euros sur Amazon.",
+          "published": "2026-08-30T15:46:00+00:00"
+        },
+        {
+          "title": "La guerre entre OpenAI et SpaceX s'intensifie, et c'est Cursor qui en paie le prix",
+          "link": "https://www.clubic.com/actualite-627358-la-guerre-entre-openai-et-spacex-s-intensifie-et-c-est-cursor-qui-en-paie-le-prix.html",
           "source": "Clubic",
-          "summary": "Microsoft commence à dévoiler les contours de sa prochaine génération Xbox. La PDG de la division, Asha Sharma, vient de confirmer que Project Helix ne prendra pas la forme d’une seule machine, mais d’une véritable…",
-          "published": "2026-08-30T11:02:00+00:00"
+          "summary": "Voilà une nouvelle illustration dans la guerre entre Elon Musk et Sam Altman. La compagnie de ce dernier coupe le robinet de l'éditeur de code IA récemment racheté par Elon Musk, Cursor.",
+          "published": "2026-08-30T15:39:00+00:00"
         },
         {
-          "title": "Le Falcon Heavy de SpaceX fait vrombir ses moteurs : suivez en direct le départ du télescope spatial Roman",
-          "link": "https://www.numerama.com/sciences/2316881-le-falcon-heavy-de-spacex-fait-vrombir-ses-moteurs-suivez-en-direct-le-depart-du-telescope-spatial-roman.html",
-          "source": "Numerama",
-          "summary": "Un champ de vision XXL pour percer les secrets de l'énergie noire. Avec huit mois d'avance sur son planning, la Nasa s'apprête à lancer son nouveau télescope géant à bord d'une fusée Falcon Heavy de SpaceX. Un décollage…",
-          "published": "2026-08-30T10:30:26+00:00"
-        },
-        {
-          "title": "Monaco-Marseille : comment voir le match de Ligue 1 en direct et en streaming ?",
-          "link": "https://www.frandroid.com/produits-android/3225767_monaco-marseille-comment-voir-le-match-de-ligue-1-en-direct-et-en-streaming",
-          "source": "Frandroid",
-          "summary": "La 2e journée de Ligue 1 2026-2027 offre une affiche de choix ce dimanche 30 août 2026 : Monaco reçoit Marseille à 20h45. Heure du coup d'envoi, chaîne de diffusion et solutions pour regarder le match en streaming –…",
-          "published": "2026-08-30T10:30:00+00:00"
-        },
-        {
-          "title": "J’ai testé cette chaise Percko qui vous rappelle à l’ordre quand vous êtes mal assis",
-          "link": "https://www.numerama.com/tech/2319003-jai-teste-cette-chaise-percko-qui-vous-rappelle-a-lordre-quand-vous-etes-mal-assis.html",
-          "source": "Numerama",
-          "summary": "J’ai troqué ma chaise habituelle en filet pour la Percko et son épaisse assise qui refuse de rester immobile. Une drôle d’idée sur le papier qui se présente finalement comme une bonne solution pour améliorer sa posture…",
-          "published": "2026-08-30T10:25:00+00:00"
-        },
-        {
-          "title": "Avant de viser les AirPods Pro 4, ces AirPods Pro 3 à 198€ méritent le détour",
-          "link": "https://www.clubic.com/bons-plans-627196-avant-de-viser-les-airpods-pro-4-ces-airpods-pro-3-a-198-meritent-le-detour.html",
+          "title": "Google Drive vs Proton Drive : lequel protège vraiment vos fichiers ?",
+          "link": "https://www.clubic.com/bons-plans-626065-google-drive-vs-proton-drive-lequel-protege-vraiment-vos-fichiers.html",
           "source": "Clubic",
-          "summary": "La rentrée s'annonce studieuse, et Apple semble vouloir écouler ses meilleurs écouteurs avant l'arrivée d'une nouvelle génération encore incertaine. À 198 €, soit 51 € de moins que le tarif conseillé, l'occasion est…",
-          "published": "2026-08-30T10:12:00+00:00"
+          "summary": "En 2026, stocker ses photos et documents dans le cloud est devenu un réflexe, voire une nécessité. Mais derrière les Go disponibles se cache une question essentielle, à savoir « que deviennent réellement nos données ? »…",
+          "published": "2026-08-30T15:30:00+00:00"
         },
         {
-          "title": "Aperçu large de GTA 6, design du Samsung Galaxy S27 Ultra et robot plus rapide qu’Usain Bolt : le récap de la semaine",
-          "link": "https://www.frandroid.com/actualites-generales/3225631_apercu-large-de-gta-6-design-du-samsung-galaxy-s27-ultra-et-robot-plus-rapide-quusain-bolt-le-recap-de-la-semaine",
-          "source": "Frandroid",
-          "summary": "Une semaine chargée où Sony a rappelé sans détour à ses joueurs qu'ils ne possèdent pas leurs jeux, où un robot chinois a couru plus vite qu'Usain Bolt avant de s'effondrer sur un matelas, et où le futur Galaxy S27…",
-          "published": "2026-08-30T10:00:00+00:00"
-        },
-        {
-          "title": "La NASA lance son télescope Roman ce dimanche et vous pourrez suivre le décollage en direct",
-          "link": "https://www.clubic.com/actualite-627337-la-nasa-lance-son-telescope-roman-ce-dimanche-et-vous-pourrez-suivre-le-decollage-en-direct.html",
+          "title": "150€ d'économie sur le Dreame L50s Pro Ultra, une offre Boulanger à saisir sans traîner",
+          "link": "https://www.clubic.com/bons-plans-627202-d-economie-sur-le-dreame-l50s-pro-ultra-une-offre-boulanger-a-saisir-sans-trainer.html",
           "source": "Clubic",
-          "summary": "La NASA doit lancer son télescope Roman ce dimanche 30 août à 13h26, heure de Paris, depuis le Centre spatial Kennedy, en Floride. Une fusée Falcon Heavy de SpaceX doit propulser l’observatoire vers le point de Lagrange…",
-          "published": "2026-08-30T09:50:00+00:00"
+          "summary": "À l'approche de la rentrée, les prix des robots aspirateurs laveurs continuent de baisser chez les principaux marchands. Boulanger propose actuellement le Dreame L50s Pro Ultra White à 599,00 € au lieu de 749,00 €, un…",
+          "published": "2026-08-30T15:20:00+00:00"
         },
         {
-          "title": "La fuite du DLSS 5 provoque aussi un revirement chez beaucoup de joueurs PC : on a compris pourquoi",
-          "link": "https://www.frandroid.com/marques/nvidia/3225863_mise-a-jour-graphique-incroyablement-massive-la-fuite-du-dlss-5-de-nvidia-fait-taire-beaucoup-de-ses-detracteurs",
+          "title": "Pourquoi le MacBook Pro M5 Max se décharge alors qu’il est branché",
+          "link": "https://www.frandroid.com/os/macos/3225901_pourquoi-le-macbook-pro-m5-max-se-decharge-alors-quil-est-branche",
           "source": "Frandroid",
-          "summary": "Les joueurs PC détestaient le DLSS 5 de Nvidia avant même sa sortie. Une fuite involontaire, partie d'un jeu de basket, vient d'inverser la tendance.",
-          "published": "2026-08-30T09:42:09+00:00"
+          "summary": "Le MacBook Pro 16 pouces M5 Max consomme plus que ce que son chargeur lui fournit. En charge maximale, il perd environ 12&nbsp;% de batterie par heure, même branché sur secteur.",
+          "published": "2026-08-30T15:08:00+00:00"
         },
         {
-          "title": "SweepLED : un boîtier à quelques euros transforme votre smartphone en détecteur de caméras espion",
-          "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/3225923_sweepled-un-boitier-a-quelques-euros-transforme-votre-smartphone-en-detecteur-de-cameras-espion",
-          "source": "Frandroid",
-          "summary": "Des chercheurs coréens ont transformé un smartphone en détecteur de caméras espion, avec un simple boîtier LED. Le coût des composants tient à environ 6 euros.",
-          "published": "2026-08-30T09:22:23+00:00"
-        },
-        {
-          "title": "Boulanger corrige l’un des principaux défauts de l’Oppo Find X9 Pro avec cette réduction de 200 euros",
-          "link": "https://www.frandroid.com/bons-plans/3225087_boulanger-corrige-lun-des-principaux-defauts-de-loppo-find-x9-pro-avec-cette-reduction-de-200-euros",
-          "source": "Frandroid",
-          "summary": "L'Oppo Find X9 Pro est un smartphone qui mise sur la polyvalence. Ainsi, il mêle performance et autonomie même si des sacrifices ont dû être faits. Pour le rendre plus attractif, Boulanger baisse son prix à 1 099 euros…",
-          "published": "2026-08-30T09:21:00+00:00"
-        },
-        {
-          "title": "Une chaleur colossale se cache sous le sud de Mars et pourrait expliquer son étrange relief",
-          "link": "https://www.clubic.com/actualite-627334-une-chaleur-colossale-se-cache-sous-le-sud-de-mars-et-pourrait-expliquer-son-etrange-relief.html",
+          "title": "Et si le temps d’écran n’était pas si mauvais pour le cerveau des adolescents ?",
+          "link": "https://www.clubic.com/actualite-627352-et-si-le-temps-d-ecran-n-etait-pas-si-mauvais-pour-le-cerveau-des-adolescents.html",
           "source": "Clubic",
-          "summary": "Une équipe de chercheurs a détecté une anomalie thermique de 200 à 400 °C sous les hautes terres du sud de Mars. Cette chaleur longe la frontière entre les deux hémisphères de la planète.",
-          "published": "2026-08-30T09:17:00+00:00"
+          "summary": "Une équipe de chercheurs finlandais associe, après un suivi de huit ans, un temps d’écran plus élevé depuis l’enfance à un meilleur traitement cognitif à l’adolescence, à rebours des craintes habituelles sur les écrans.…",
+          "published": "2026-08-30T15:01:00+00:00"
+        },
+        {
+          "title": "Un PC portable à processeur H pour moins de 600€ : l'IdeaPad Slim 3 14IRH10 cible la rentrée",
+          "link": "https://www.clubic.com/bons-plans-627199-un-pc-portable-a-processeur-h-pour-moins-de-600-l-ideapad-slim-3-14irh10-cible-la-rentree.html",
+          "source": "Clubic",
+          "summary": "À quelques jours de la rentrée, Amazon fait chuter le prix du Lenovo IdeaPad Slim 3 14IRH10 à 599,99 euros, un tarif rarement vu pour une configuration embarquant un processeur Core i7 de série H. Notre rédaction a…",
+          "published": "2026-08-30T14:45:00+00:00"
+        },
+        {
+          "title": "Vente flash Deezer : Orange et Sosh offrent 4 mois d’abonnement Premium à leurs abonnés box et mobile",
+          "link": "https://www.clubic.com/actualite-627355-vente-flash-deezer-orange-et-sosh-offrent-4-mois-d-abonnement-premium-a-leurs-abonnes-box-et-mobile.html",
+          "source": "Clubic",
+          "summary": "Orange et Sosh vont fait plaisir à leurs clients. Ils lancent une vente flash qui va permettre de bénéficier de l'abonnement Deezer Premium gratuitement pendant plusieurs mois !",
+          "published": "2026-08-30T14:32:00+00:00"
+        },
+        {
+          "title": "Touches inutiles, raccourcis qui jouent avec vos nerfs, voici comment faire enfin obéir votre clavier sur Windows 11",
+          "link": "https://www.clubic.com/tutoriel-627076-touches-inutiles-raccourcis-qui-jouent-avec-vos-nerfs-voici-comment-faire-enfin-obeir-votre-clavier-sur-windows-11.html",
+          "source": "Clubic",
+          "summary": "Un clavier n’a aucune raison de dicter sa loi. Avec PowerToys, Windows 11 permet de redistribuer les rôles, recycler les commandes qui prennent la poussière et adapter enfin touches et raccourcis à ses propres habitudes.",
+          "published": "2026-08-30T14:19:00+00:00"
+        },
+        {
+          "title": "Plateformes pornographiques : les mineurs se ruent sur les sites qui ne vérifient pas l'âge",
+          "link": "https://www.clubic.com/actualite-627349-plateformes-pornographiques-les-mineurs-se-ruent-sur-les-sites-qui-ne-verifient-pas-l-age.html",
+          "source": "Clubic",
+          "summary": "Mettre en place une mesure de vérification d'âge sur les plateformes pornographiques s'annonce extrêmement difficile. La preuve avec ces nouveaux chiffres qui montrent que ça n'a trop bougé du côté des jeunes.",
+          "published": "2026-08-30T14:07:00+00:00"
+        },
+        {
+          "title": "J’ai conduit la BYD Han L EV Flash Charge en Chine : pourquoi cette berline de 1 100 ch rechargeable en 5 minutes ne m’a pas totalement convaincu",
+          "link": "https://www.frandroid.com/marques/byd/3205383_jai-conduit-la-byd-han-l-ev-flash-charge-en-chine-pourquoi-cette-berline-de-1-100-ch-rechargeable-en-5-minutes-ne-ma-pas-totalement-convaincu",
+          "source": "Frandroid",
+          "summary": "Plus puissante, plus rapide à charger, plus démonstrative aussi, la nouvelle BYD Han L incarne le haut de gamme technologique de la marque. Reste à savoir si, au-delà de sa recharge en 5 minutes, elle tient vraiment son…",
+          "published": "2026-08-30T14:02:00+00:00"
         }
       ]
     }
