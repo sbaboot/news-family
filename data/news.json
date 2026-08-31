@@ -1,14 +1,70 @@
 {
-  "generated_at": "2026-08-30T23:11:30.063921+00:00",
+  "generated_at": "2026-08-31T03:48:28.614096+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont mené de nouvelles frappes en Iran, les premières en un mois",
+          "title": "Dans l’Inde de Modi, l’inexorable marche du suprémacisme hindou",
+          "link": "https://www.lemonde.fr/international/article/2026/08/31/dans-l-inde-de-modi-l-inexorable-marche-du-supremacisme-hindou_6761863_3210.html",
+          "source": "Le Monde",
+          "summary": "Dans un pays sous tension, entre révolte étudiante étouffée et symboles nationaux dévoyés, le pouvoir instaure une hindouisation à marche forcée, appelant à l’effacement du passé et des autres religions.",
+          "published": "2026-08-31T03:30:05+00:00"
+        },
+        {
+          "title": "Midterms : Trump et les républicains sous pression",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/08/31/midterms-trump-et-les-republicains-sous-pression_6761828_5463015.html",
+          "source": "Le Monde",
+          "summary": "A l’approche des élections de mi-mandat du 3 novembre, la chute de popularité de Donald Trump et l’enlisement du conflit en Iran menacent la majorité républicaine au Congrès. Explications en podcast avec Piotr Smolar,…",
+          "published": "2026-08-31T03:00:11+00:00"
+        },
+        {
+          "title": "Après la crue dévastatrice, le Népal a commencé à enterrer ses morts",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260831-apr%C3%A8s-la-crue-d%C3%A9vastatrice-le-n%C3%A9pal-enterre-ses-morts",
+          "source": "France 24",
+          "summary": "Le Népal est devenu le théâtre d'enterrements de masse pour des centaines de victimes des crues meurtrières qui ont frappé l'Himalaya cette semaine, et dont les corps, impossibles à identifier, ont été emportés par une…",
+          "published": "2026-08-31T02:29:13+00:00"
+        },
+        {
+          "title": "Les négociations entre les États-Unis et l'Iran au point mort",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260831-les-n%C3%A9gociations-entre-les-%C3%A9tats-unis-et-l-iran-au-point-mort",
+          "source": "France 24",
+          "summary": "\"Les discussions sont au point mort entre Téhéran et Washington, malgré les tentatives de médiation - et notamment d''Oman - mais sur le fond aucun accord n'a été trouvé\", rappelle le correspondant de France 24 à…",
+          "published": "2026-08-31T01:50:35+00:00"
+        },
+        {
+          "title": "Une quinzaine de personnes recherchées après une crue éclair dans le parc du Grand Canyon, en Arizona",
+          "link": "https://www.lemonde.fr/international/article/2026/08/31/une-quinzaine-de-personnes-recherchees-apres-une-crue-eclair-dans-le-parc-du-grand-canyon-en-arizona_6761762_3210.html",
+          "source": "Le Monde",
+          "summary": "Dimanche, au lendemain du passage du torrent d’eau boueuse, les autorités du parc poursuivaient les opérations d’évacuation et de recherche dans un secteur prisé des randonneurs, où plusieurs infrastructures ont été…",
+          "published": "2026-08-31T01:49:46+00:00"
+        },
+        {
+          "title": "En direct : l'Iran riposte aux frappes américaines en attaquant des cibles militaires en Jordanie",
+          "link": "https://www.france24.com/fr/moyen-orient/20260830-en-direct-frappes-americaines-iran-cibles-militaires-etats-unis-attaques-jordanie-moyen-orient-guerre-detroit-ormuz",
+          "source": "France 24",
+          "summary": "Les États-Unis ont mené dimanche des frappes sur l'île iranienne de Larak, les premières depuis un mois. Les Gardiens iranien, qui avaient promis des représailles, disent avoir attaqué des cibles militaires américaines…",
+          "published": "2026-08-30T23:26:14+00:00"
+        },
+        {
+          "title": "Une crue soudaine frappe le Grand Canyon aux États-Unis, plus de 15 personnes recherchées",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260830-crue-soudaine-frappe-grand-canyon-etats-unis-plus-20-personnes-recherchees-parc-national-arizona",
+          "source": "France 24",
+          "summary": "Une crue soudaine a frappé samedi le Bright Angel Canyon et le secteur du Phantom Ranch au Grand canyon, dans l'Arizona. Le Service des parcs nationaux américains \"demande au public de fournir des informations…",
+          "published": "2026-08-30T22:55:09+00:00"
+        },
+        {
+          "title": "France : les politiques font leur rentrée",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-france-les-politiques-font-leur-rentr%C3%A9e",
+          "source": "France 24",
+          "summary": "Olivier Faure officiellement candidat à la présidentielle, Marine Le Pen toujours en tête des sondages, Edouard Philippe en déplacement à Tourcoing, tour d'horizon de la rentrée des politiques avec Mathieu Doiret de…",
+          "published": "2026-08-30T22:28:57+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont mené de nouvelles frappes en Iran, les premières depuis un mois",
           "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-en-un-mois_6761630_3210.html",
           "source": "Le Monde",
-          "summary": "Alors que les hostilités avaient perdu en intensité, ces dernières semaines, les Etats-Unis ont visé dimanche « deux lanceurs iraniens sur l’île de Larak », selon Tim Hawkins, porte-parole du commandement militaire…",
+          "summary": "Alors que les hostilités avaient perdu en intensité ces dernières semaines, les Etats-Unis ont visé, dimanche, « deux lanceurs iraniens sur l’île de Larak », selon Tim Hawkins, porte-parole du commandement militaire…",
           "published": "2026-08-30T22:08:58+00:00"
         },
         {
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "Les forces américaines ont mené dimanche des frappes sur l'île iranienne de Larak, située dans le stratégique détroit d'Ormuz, a annoncé le Centcom. Une première opération militaire américaine en un mois. Les Gardiens…",
           "published": "2026-08-30T20:33:03+00:00"
-        },
-        {
-          "title": "Mali–Algérie : réconciliation ou mariage de raison face à la crise au Sahel ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-mali%E2%80%93alg%C3%A9rie-r%C3%A9conciliation-ou-mariage-de-raison-face-%C3%A0-la-crise-au-sahel",
-          "source": "France 24",
-          "summary": "Après quinze mois de crise diplomatique, le Mali et l’Algérie renouent le dialogue. Retour des ambassadeurs, réouverture des espaces aériens et visite du Premier ministre malien Abdoulaye Maïga à Alger : le dégel est…",
-          "published": "2026-08-30T20:28:38+00:00"
-        },
-        {
-          "title": "Le lac Ontario devient lac d’Amérique pour les utilisateurs de Google Maps aux Etats-Unis",
-          "link": "https://www.lemonde.fr/international/article/2026/08/30/le-lac-ontario-devient-lac-d-amerique-pour-les-utilisateurs-de-google-maps-aux-etats-unis_6761564_3210.html",
-          "source": "Le Monde",
-          "summary": "Donald Trump a signé jeudi un décret pour changer « immédiatement » le nom du lac situé à la frontière avec le Canada, qu’il accuse de « dépouiller » les Etats-Unis. Les utilisateurs du reste du monde verront les deux…",
-          "published": "2026-08-30T19:55:24+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : 52 blessés dénombrés à Myla, près de Kiev, deux jours après le bombardement d’un dépôt de munitions",
-          "link": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-52-blesses-denombres-a-myla-pres-de-kiev-deux-jours-apres-le-bombardement-d-un-depot-de-munitions_6760568_3210.html",
-          "source": "Le Monde",
-          "summary": "« Pour l’instant, nous comptons environ 300 bâtiments endommagés ici, à Myla, et dans les localités environnantes », a déclaré le chef de l’administration militaire de Kiev, qui fait toujours état de 38 morts.",
-          "published": "2026-08-30T19:08:31+00:00"
-        },
-        {
-          "title": "A Bruxelles, le « non » islandais aux négociations d’adhésion à l’UE est perçu comme un « revers »",
-          "link": "https://www.lemonde.fr/international/article/2026/08/30/a-bruxelles-le-non-islandais-aux-negociations-d-adhesion-a-l-ue-est-percu-comme-un-revers_6761561_3210.html",
-          "source": "Le Monde",
-          "summary": "Les dirigeants européens sont restés discrets après le rejet, par référendum, de la reprise des négociations. Un vote salué par l’extrême droite eurosceptique.",
-          "published": "2026-08-30T18:49:26+00:00"
-        },
-        {
-          "title": "Midterms 2026 : Trump veut faire sanctionner une journaliste de NBC pour sa couverture médiatique",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260830-midterms-2026-trump-veut-sanctionner-une-journaliste-de-nbc-pour-sa-couverture-m%C3%A9diatique",
-          "source": "France 24",
-          "summary": "Mécontent de la couverture qui est consacrée aux candidats républicains qu'il soutient en vue des élections de mi-mandat en novembre, le président américain a annoncé dimanche vouloir signaler la journaliste de la…",
-          "published": "2026-08-30T17:22:16+00:00"
-        },
-        {
-          "title": "Au Tibet, la coulée de boue qui fragilise le pari de Xi Jinping sur l’Himalaya",
-          "link": "https://www.lemonde.fr/international/article/2026/08/30/au-tibet-la-coulee-de-boue-qui-fragilise-le-pari-de-xi-jinping-sur-l-himalaya_6761461_3210.html",
-          "source": "Le Monde",
-          "summary": "Le poste-frontière dévasté de Gyirong est au cœur de la stratégie chinoise pour l’Asie du Sud. Une ligne de chemin de fer, maillon des « nouvelles routes de la soie », doit y passer.",
-          "published": "2026-08-30T17:01:45+00:00"
-        },
-        {
-          "title": "Espace : lancement de Roman, le télescope spatial de la Nasa",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-espace-lancement-de-roman-le-t%C3%A9lescope-spatial-de-la-nasa",
-          "source": "France 24",
-          "summary": "Mélina Huet analyse les faits.",
-          "published": "2026-08-30T16:36:34+00:00"
-        },
-        {
-          "title": "Au Niger, la vie reprend son cours à Niamey après une mutinerie déjouée",
-          "link": "https://www.france24.com/fr/afrique/20260830-au-niger-la-vie-reprend-son-cours-%C3%A0-niamey-apr%C3%A8s-une-mutinerie-d%C3%A9jou%C3%A9e",
-          "source": "France 24",
-          "summary": "Le calme est revenu, dimanche, à Niamey, la capitale du Niger, après que l'armée et ses alliés russes, les paramilitaires d'Africa Corps, ont repris le contrôle face à des mutins qui avaient notamment tenté de pénétrer…",
-          "published": "2026-08-30T15:34:29+00:00"
         }
       ]
     },
@@ -83,6 +83,34 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Maduro aurait publié des photos depuis sa prison",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1005191/maduro-aurait-publie-photos-depuis-prison",
+          "source": "Le Devoir",
+          "summary": "Maduro et son épouse ont été capturés à Caracas lors d’une spectaculaire opération militaire américaine.",
+          "published": "2026-08-31T01:35:04+00:00"
+        },
+        {
+          "title": "Au moins 15 personnes recherchées après une crue soudaine dans le Grand Canyon",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1005188/environ-15-personnes-recherchees-apres-crue-soudaine-grand-canyon",
+          "source": "Le Devoir",
+          "summary": "Cette crue soudaine a frappé le Bright Angel Canyon et un hôtel situé dans le bas du canyon.",
+          "published": "2026-08-31T01:00:00+00:00"
+        },
+        {
+          "title": "Quoi retenir de la fin de semaine?",
+          "link": "https://www.ledevoir.com/actualites/1005185/quoi-retenir-fin-semaine",
+          "source": "Le Devoir",
+          "summary": "L’actualité du week-end des 6 et 7 décembre en résumé.",
+          "published": "2026-08-30T23:52:54+00:00"
+        },
+        {
+          "title": "Un été qui m’a chauffé la couenne",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-08-30/un-ete-qui-m-a-chauffe-la-couenne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un été de pacha, excusez-la. Merci pour l’emprunt, Paul Piché.",
+          "published": "2026-08-30T23:45:00+00:00"
+        },
         {
           "title": "Les États-Unis ont mené de nouvelles frappes en Iran, les premières en un mois",
           "link": "https://www.ledevoir.com/monde/moyen-orient/1005167/etats-unis-ont-mene-nouvelles-frappes-iran-premieres-mois",
@@ -95,14 +123,21 @@
           "link": "https://www.ledevoir.com/economie/1005176/trump-invite-entreprises-canadiennes-demenager-etats-unis-eviter-tarifs-douaniers",
           "source": "Le Devoir",
           "summary": "Les entreprises canadiennes «affluent» aux États-Unis, a-t-il déclaré dans une publication sur son réseaux Truth Social.",
-          "published": "2026-08-30T22:52:23+00:00"
+          "published": "2026-08-30T22:52:00+00:00"
         },
         {
           "title": "Les chefs ne ralentissent pas le rythme de leurs annonces… et de leurs attaques",
           "link": "https://www.ledevoir.com/politique/quebec/1005170/chefs-ne-ralentissent-pas-rythme-annonces-attaques",
           "source": "Le Devoir",
           "summary": "Les cinq partis politiques ont multiplié les promesses cette fin de semaine.",
-          "published": "2026-08-30T22:29:07+00:00"
+          "published": "2026-08-30T22:29:00+00:00"
+        },
+        {
+          "title": "Grand Canyon | Un mort et une vingtaine de personnes recherchées après une crue soudaine",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-30/grand-canyon/un-mort-et-une-vingtaine-de-personnes-recherchees-apres-une-crue-soudaine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Plus d’une vingtaine de personnes sont recherchées après la survenue samedi d’une crue soudaine dans le célèbre parc national du Grand Canyon, dans l’ouest des États-Unis. Dimanche soir, les responsables du parc ont…",
+          "published": "2026-08-30T21:49:55+00:00"
         },
         {
           "title": "Homme pris en photo à son insu | Duhaime accuse ses adversaires de « fouiller de la merde »",
@@ -117,41 +152,6 @@
           "source": "La Presse",
           "summary": "Les forces américaines ont frappé des lance-roquettes iraniens dans le détroit d’Ormuz, lors de la première opération militaire menée depuis un mois, a déclaré dimanche un responsable américain, mettant ainsi fin à une…",
           "published": "2026-08-30T20:48:03+00:00"
-        },
-        {
-          "title": "Pour éviter les droits de douane | Donald Trump incite les entreprises canadiennes à déménager aux États-Unis",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-08-30/pour-eviter-les-droits-de-douane/donald-trump-incite-les-entreprises-canadiennes-a-demenager-aux-etats-unis.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le président des États-Unis Donald Trump continue à maintenir la pression sur le Canada, alors que la guerre commerciale a pris de l’ampleur dans les derniers jours. Dimanche, il a publié un message incitant les…",
-          "published": "2026-08-30T19:56:08+00:00"
-        },
-        {
-          "title": "Christine Fréchette promet de renforcer l’aide aux femmes victimes de violence",
-          "link": "https://www.ledevoir.com/politique/quebec/1005128/christine-frechette-promet-renforcer-aide-femmes-victimes-violence",
-          "source": "Le Devoir",
-          "summary": "La CAQ compte soutenir l’aménagement de huit maisons d’hébergement de première étape.",
-          "published": "2026-08-30T19:45:41+00:00"
-        },
-        {
-          "title": "Protection du français | Le PQ veut enquêter sur la langue de socialisation dans les écoles",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/protection-du-francais/le-pq-veut-enqueter-sur-la-langue-de-socialisation-dans-les-ecoles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Pour protéger le français, le Parti québécois s’engage à mener une enquête sur la langue de socialisation des jeunes des écoles de Laval et Montréal. Pas question d’interdire de parler une autre langue que le français…",
-          "published": "2026-08-30T18:54:57+00:00"
-        },
-        {
-          "title": "À surveiller dans le monde des affaires au Canada",
-          "link": "https://www.ledevoir.com/economie/1005116/surveiller-monde-affaires-canada",
-          "source": "Le Devoir",
-          "summary": "Cinq éléments à surveiller, des résultats de Couche-Tard aux taux d’intérêt de la Banque du Canada.",
-          "published": "2026-08-30T18:20:00+00:00"
-        },
-        {
-          "title": "Le PQ se donne quatre ans pour renverser le déclin du français",
-          "link": "https://www.ledevoir.com/politique/quebec/1005113/pq-donne-quatre-ans-renverser-declin-francais",
-          "source": "Le Devoir",
-          "summary": "Il compte notamment étudier l’usage du français dans les corridors des écoles de Montréal et de Laval.",
-          "published": "2026-08-30T18:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "A Paris, le président d’une association LGBT+ grièvement blessé dans une agression",
-          "link": "https://www.lemonde.fr/societe/article/2026/08/31/a-paris-le-president-d-une-association-lgbt-grievement-blesse-dans-une-agression_6761663_3224.html",
+          "title": "EN DIRECT - Guerre en Iran : Washington frappe Téhéran, les Gardiens iraniens ripostent en attaquant des cibles militaires américaines en Jordanie",
+          "link": "https://www.lefigaro.fr/international/en-direct-guerre-en-iran-washington-frappe-teheran-les-gardiens-iraniens-ripostent-en-attaquant-des-cibles-militaires-americaines-en-jordanie-20260831",
+          "source": "Le Figaro",
+          "summary": "Téhéran dit avoir visé des installations techniques et de maintenance ainsi que des avions positionnés sur deux bases militaires en Jordanie. Le secrétaire au Trésor américain Scott Bessent annonce de nouvelles…",
+          "published": "2026-08-31T03:44:02+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : la petite musique de l’union au centre pour contrer le RN et LFI",
+          "link": "https://www.lemonde.fr/politique/article/2026/08/31/presidentielle-2027-la-petite-musique-de-l-union-au-centre-pour-contrer-le-rn-et-lfi_6761864_823448.html",
           "source": "Le Monde",
-          "summary": "L’agression s’est produite peu avant 4 heures du matin, samedi, à la sortie d’un bar dans le quartier du Marais. Le parquet de Paris a précisé que l’auteur présumé des coups, au casier judiciaire vierge, était né en…",
-          "published": "2026-08-30T22:49:45+00:00"
+          "summary": "Face à la dynamique électorale du Rassemblement national et de La France insoumise, la question d’une candidature unique se pose à gauche comme dans le bloc central et à droite. L’électorat pourrait être tenté de voter…",
+          "published": "2026-08-31T03:34:58+00:00"
+        },
+        {
+          "title": "Les nuages s’amoncellent sur l’économie française",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/31/les-nuages-s-amoncellent-sur-l-economie-francaise_6761862_3234.html",
+          "source": "Le Monde",
+          "summary": "La présentation, vendredi, par l’Insee, de plusieurs indicateurs inquiétants confirme les difficultés de l’économie tricolore : la croissance est en panne, l’inflation progresse, le pouvoir d’achat recule, et l’emploi…",
+          "published": "2026-08-31T03:30:03+00:00"
+        },
+        {
+          "title": "Une quinzaine de personnes recherchées après une crue éclair dans le parc du Grand Canyon, en Arizona",
+          "link": "https://www.lemonde.fr/international/article/2026/08/31/une-quinzaine-de-personnes-recherchees-apres-une-crue-eclair-dans-le-parc-du-grand-canyon-en-arizona_6761762_3210.html",
+          "source": "Le Monde",
+          "summary": "Dimanche, au lendemain du passage du torrent d’eau boueuse, les autorités du parc poursuivaient les opérations d’évacuation et de recherche dans un secteur prisé des randonneurs, où plusieurs infrastructures ont été…",
+          "published": "2026-08-31T01:49:46+00:00"
+        },
+        {
+          "title": "Michel Platini estime que Gianni Infantino « doit partir » de la présidence de la FIFA",
+          "link": "https://www.lemonde.fr/football/article/2026/08/31/michel-platini-estime-que-gianni-infantino-doit-partir-de-la-presidence-de-la-fifa_6761729_1616938.html",
+          "source": "Le Monde",
+          "summary": "Ces déclarations interviennent alors que le patron de la FIFA fait face à une contestation croissante de plusieurs confédérations, notamment après son projet avorté d’ouverture de la Coupe du monde à des investisseurs…",
+          "published": "2026-08-31T00:31:05+00:00"
+        },
+        {
+          "title": "Golf: le numéro un mondial Scottie Scheffler remporte le Tour Championship",
+          "link": "https://www.lefigaro.fr/sports/golf-le-numero-un-mondial-scottie-scheffler-remporte-le-tour-championship-20260831",
+          "source": "Le Figaro",
+          "summary": "À 30 ans, l’Américain devient ainsi le joueur de golf le mieux payé lors de sa carrière sur le circuit PGA, avec plus de 130 millions de dollars, soit quasiment dix millions de plus que la légende Tiger Woods.",
+          "published": "2026-08-31T00:20:51+00:00"
+        },
+        {
+          "title": "Un adolescent meurt percuté par un train à un passage à niveau, dans le Pas-de-Calais",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/31/un-adolescent-meurt-percute-par-un-train-a-un-passage-a-niveau-dans-le-pas-de-calais_6761696_3224.html",
+          "source": "Le Monde",
+          "summary": "La victime faisait partie d’« un groupe de quatre jeunes » qui se trouvait à proximité des voies, peu avant le drame, selon la préfecture du département.",
+          "published": "2026-08-30T23:55:59+00:00"
         },
         {
           "title": "Présidentielle 2027 : accusé par Attal de porter des «idées d’il y a 20 ans», Philippe lui suggère de «diriger ses traits vers leurs adversaires»",
           "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/2027-accuse-par-attal-de-porter-des-idees-d-il-y-a-20-ans-philippe-lui-propose-de-diriger-ses-traits-vers-leurs-adversaires-20260830",
           "source": "Le Figaro",
           "summary": "Invité dimanche soir de BFMTV, le candidat d’Horizons à la présidentielle promet de ne «se livrer» à aucune attaque contre une figure de «la droite et du centre» pendant la campagne.",
-          "published": "2026-08-30T22:26:00+00:00"
+          "published": "2026-08-30T23:30:27+00:00"
         },
         {
-          "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis ont mené de nouvelles frappes en Iran, les premières en un mois",
-          "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-au-moyen-orient-les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-en-un-mois_6761630_3210.html",
+          "title": "Le président algérien veut faire appliquer la peine de mort contre les pyromanes",
+          "link": "https://www.lefigaro.fr/international/le-president-algerien-veut-faire-appliquer-la-peine-de-mort-contre-les-pyromanes-20260831",
+          "source": "Le Figaro",
+          "summary": "Le chef de l’État algérien a ordonné «une modification du Code pénal» avant le 15 septembre.",
+          "published": "2026-08-30T23:04:27+00:00"
+        },
+        {
+          "title": "A Paris, le président d’une association LGBT+ grièvement blessé dans une agression",
+          "link": "https://www.lemonde.fr/societe/article/2026/08/31/a-paris-le-president-d-une-association-lgbt-grievement-blesse-dans-une-agression_6761663_3224.html",
           "source": "Le Monde",
-          "summary": "Alors que les hostilités avaient perdu en intensité, ces dernières semaines, les Etats-Unis ont visé dimanche « deux lanceurs iraniens sur l’île de Larak », selon Tim Hawkins, porte-parole du commandement militaire…",
-          "published": "2026-08-30T22:08:58+00:00"
-        },
-        {
-          "title": "États-Unis : plus de 20 personnes recherchées après de violentes inondations dans le Grand Canyon",
-          "link": "https://www.lefigaro.fr/international/etats-unis-plus-de-20-personnes-recherchees-apres-de-violentes-inondations-dans-le-grand-canyon-20260830",
-          "source": "Le Figaro",
-          "summary": "Des pluies torrentielles ont provoqué samedi une crue éclair sur le célèbre site, dans l’Arizona. Plus de 60 personnes ont dû être évacuées.",
-          "published": "2026-08-30T21:48:52+00:00"
-        },
-        {
-          "title": "Monaco-Marseille : le prince Brunner, Camara tout terrain, Abdelli désolant et Kondogbia poisseux... Les tops et flops",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/monaco-marseille-le-prince-brunner-camara-a-tout-terrain-l-om-gentillet-les-tops-et-flops-20260830",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire de l’AS Monaco face à l’Olympique de Marseille (2-0), dimanche soir à Louis II, en clôture de la 2e journée de Ligue 1.",
-          "published": "2026-08-30T21:48:51+00:00"
-        },
-        {
-          "title": "Ligue 1 : Monaco s’impose face à l’OM (2-0) et prend la tête du championnat",
-          "link": "https://www.lemonde.fr/football/article/2026/08/30/ligue-1-monaco-s-impose-face-a-l-om-2-0-et-prend-la-tete-du-championnat_6761597_1616938.html",
-          "source": "Le Monde",
-          "summary": "La deuxième journée confirme le très bon début de saison de l’équipe monégasque, tandis que Marseille aborde les dernières heures du mercato sous pression, sans recrue.",
-          "published": "2026-08-30T21:35:15+00:00"
-        },
-        {
-          "title": "\"Nous sommes tous couverts de coupures\" : au large de Chypre, des scènes de panique filmées lors du naufrage d'un ferry",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chypre-un-navire-fait-naufrage-au-large-des-cotes-au-moins-sept-personnes-sont-mortes_8169815.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Un catamaran en route vers la Turquie a chaviré avec 267 passagers à son bord, dimanche. Sept personnes sont mortes, tandis que 17 autres étaient toujours portées disparues dans la soirée.",
-          "published": "2026-08-30T21:27:08+00:00"
-        },
-        {
-          "title": "Une équipe de France Télévisions au cœur d'un village englouti au Népal, après la coulée de boue qui a fait près de 800 morts",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-premiers-journalistes-a-y-acceder-une-equipe-de-france-televisions-au-c-ur-d-un-village-englouti-au-nepal_8169818.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Quatre jours après la crue meurtrière au Népal, les secouristes poursuivent les recherches dans des conditions périlleuses. Près de 800 personnes sont mortes et 3 000 autres ont disparu. Une équipe de France Télévisions…",
-          "published": "2026-08-30T21:26:53+00:00"
-        },
-        {
-          "title": "Le chef du Parti socialiste, Olivier Faure, confirme sa candidature à la primaire de son camp en vue de l'élection présidentielle",
-          "link": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le premier secrétaire du PS a officialisé cette annonce dimanche soir, au \"20 Heures\" de TF1.",
-          "published": "2026-08-30T21:20:41+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : pour Jean-Philippe Tanguy, Marine Le Pen et Jordan Bardella forment un tandem « efficace » et « harmonieux »",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pour-jean-philippe-tanguy-marine-le-pen-et-jordan-bardella-forment-un-tandem-efficace-et-harmonieux-20260830",
-          "source": "Le Figaro",
-          "summary": "Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », le nouveau rendez-vous de la présidentielle, le député de la Somme a salué la «popularité» des deux leaders RN.",
-          "published": "2026-08-30T21:19:46+00:00"
+          "summary": "L’agression s’est produite peu avant 4 heures du matin, samedi, à la sortie d’un bar dans le quartier du Marais. Le parquet de Paris a précisé que l’auteur présumé des coups, au casier judiciaire vierge, était né en…",
+          "published": "2026-08-30T22:49:45+00:00"
         }
       ]
     },
