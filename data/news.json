@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-08-31T12:46:10.265956+00:00",
+  "generated_at": "2026-08-31T20:39:21.415125+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Niger : une tentative de putsch avortée",
-          "link": "https://www.lemonde.fr/international/video/2026/08/31/niger-une-tentative-de-putsch-avortee_6762482_3210.html",
+          "title": "Désastre au Népal : les intox inondent les réseaux sociaux",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260831-d%C3%A9sastre-au-n%C3%A9pal-les-intox-inondent-les-r%C3%A9seaux-sociaux",
+          "source": "France 24",
+          "summary": "5 jours après la crue dévastatrice qui a déferlé sur le Népal, des images de la catastrophe continuent de se répandre sur les réseaux sociaux. Beaucoup sont générées par l'intelligence artificielle, d'autres présentent…",
+          "published": "2026-08-31T20:06:22+00:00"
+        },
+        {
+          "title": "L’Union européenne annonce suspendre ses importations de viande brésilienne à partir de jeudi",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/31/l-union-europeenne-annonce-suspendre-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_6762819_3234.html",
           "source": "Le Monde",
-          "summary": "Des tirs sont entendus depuis le milieu de la nuit autour du palais présidentiel de Niamey et d’une base aérienne qui se trouve dans l’enceinte de l’aéroport de la capitale.",
-          "published": "2026-08-31T12:42:50+00:00"
+          "summary": "Le Brésil avait été retiré en mai d’une liste européenne des pays qui respectent les règles de l’UE qui interdisent l’utilisation abusive d’antibiotiques dans l’élevage.",
+          "published": "2026-08-31T20:04:20+00:00"
         },
         {
-          "title": "Présidentielle 2027 : pourquoi Marine Le Pen bénéficie d'un électorat plus stable que ses rivaux",
-          "link": "https://www.france24.com/fr/france/20260831-pr%C3%A9sidentielle-2027-pourquoi-marine-le-pen-b%C3%A9n%C3%A9ficie-%C3%A9lectorat-plus-stable-rivaux",
-          "source": "France 24",
-          "summary": "Marine Le Pen arrive largement en tête des intentions de vote pour le premier tour de la présidentielle de 2027, selon un sondage Elabe publié samedi. Invité de l'antenne de France 24, le politologue Mathieu Doiret…",
-          "published": "2026-08-31T12:38:16+00:00"
-        },
-        {
-          "title": "Niger : des arrestations en cours après la mutinerie contre la junte",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260831-niger-des-arrestation-en-cours-apr%C3%A8s-la-mutinerie-contre-la-junte",
-          "source": "France 24",
-          "summary": "🇳🇪 Au Niger, des arrestations sont en cours après la mutinerie survenue ce week-end à Niamey. Les autorités affirment avoir repris le contrôle de la situation dès samedi soir et indiquent que la majorité des mutins ont…",
-          "published": "2026-08-31T12:06:05+00:00"
-        },
-        {
-          "title": "Suisse : un homme arrêté après la fusillade mortelle lors d’une rave party à Aarau",
-          "link": "https://www.lemonde.fr/international/article/2026/08/31/suisse-un-homme-arrete-apres-la-fusillade-mortelle-lors-d-une-rave-party-a-aarau_6762448_3210.html",
+          "title": "La guerre, nouvelle normalité du détroit d’Ormouz",
+          "link": "https://www.lemonde.fr/international/article/2026/08/31/la-guerre-nouvelle-normalite-du-detroit-d-ormouz_6762818_3210.html",
           "source": "Le Monde",
-          "summary": "La police cantonale d’Argovie affirme « privilégier la thèse selon laquelle l’auteur a agi seul », mais n’a pas précisé où il avait été interpellé.",
-          "published": "2026-08-31T12:04:05+00:00"
+          "summary": "La reprise des frappes entre les Etats-Unis et l’Iran, lundi, confirme que le conflit s’est installé durablement dans ces eaux. L’outil de dissuasion qu’était pour Téhéran le blocage de cette artère stratégique…",
+          "published": "2026-08-31T20:02:26+00:00"
         },
         {
-          "title": "Fusillade lors d'une rave party en Suisse : la police annonce l'arrestation d'un suspect",
-          "link": "https://www.france24.com/fr/europe/20260831-fusillade-rave-party-suisse-police-annonce-arrestation-suspect-fusillade",
-          "source": "France 24",
-          "summary": "Un Suisse de 43 ans a été arrêté lundi dans le cadre de l'enquête sur les tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche lors d'une rave party à Aarau, près de Zurich, a annoncé la police.…",
-          "published": "2026-08-31T11:50:22+00:00"
-        },
-        {
-          "title": "Russie - Ukraine : l'été de l'escalade ? Parlons-en avec D. Trinquand, E. Volochine et C. Bret",
-          "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260831-russie-ukraine-l-%C3%A9t%C3%A9-de-l-escalade-parlons-en-avec-d-trinquand-e-volochine-et-c-bret",
-          "source": "France 24",
-          "summary": "Le chef du Kremlin promet des attaques massives contre les infrastructures ukrainiennes, alors que Kiev intensifie ses frappes en Russie. Sommes-nous face à une nouvelle escalade ou à une démonstration de force ?",
-          "published": "2026-08-31T11:21:25+00:00"
-        },
-        {
-          "title": "ChatGPT va être la première IA soumise à des règles renforcées au sein de l’Union européenne, Roblox et Reddit également concernés",
-          "link": "https://www.lemonde.fr/pixels/article/2026/08/31/chatgpt-roblox-et-reddit-vont-etre-soumis-a-des-regles-renforcees-au-sein-de-l-union-europeenne_6762380_4408996.html",
+          "title": "La mairie de Deauville désavouée par la justice après le retrait d’une photo de Gaza d’un festival",
+          "link": "https://www.lemonde.fr/culture/article/2026/08/31/la-mairie-de-deauville-desavouee-par-la-justice-apres-le-retrait-d-une-photo-de-gaza-d-un-festival_6762814_3246.html",
           "source": "Le Monde",
-          "summary": "Les trois services disposent de quatre mois, soit jusqu’à la fin décembre, pour se ‌conformer aux obligations ‌supplémentaires prévues par le Digital Services Act.",
-          "published": "2026-08-31T11:10:33+00:00"
+          "summary": "L’image, représentant un match de football au milieu de bâtiments détruits par l’armée israélienne, avait été discrètement retirée courant août d’une place où elle devait être exposée durant trois mois dans le cadre du…",
+          "published": "2026-08-31T18:55:03+00:00"
         },
         {
-          "title": "Développement rural : les villages oubliés au secours des villes",
-          "link": "https://www.france24.com/fr/%C3%A9missions/plan-b-l-%C3%A9conomie-autrement/20260831-slow-food-les-villages-oubli%C3%A9s-au-secours-des-villes",
+          "title": "🔴 L'ancien Premier ministre Édouard Balladur est mort à l'âge de 97 ans",
+          "link": "https://www.france24.com/fr/france/20260831-france-ancien-premier-ministre-edouard-balladur-est-decede-a-97-ans",
           "source": "France 24",
-          "summary": "Attention : territoires au bord de la crise de nerf ! Les agglomérations sont frappées d’obésité pendant que les campagnes se vident, le constat est le même partout dans le monde. En ville, les loyers flambent, les…",
-          "published": "2026-08-31T11:10:13+00:00"
+          "summary": "",
+          "published": "2026-08-31T18:46:30+00:00"
         },
         {
-          "title": "Aux Etats-Unis, une opposition grandissante à Flock, un réseau de 120 000 caméras qui identifient les voitures",
-          "link": "https://www.lemonde.fr/international/article/2026/08/31/aux-etats-unis-une-opposition-grandissante-a-flock-un-reseau-de-120-000-cameras-qui-identifient-les-voitures_6762379_3210.html",
+          "title": "Crise au Népal : onde de choc régionale ?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260831-crise-au-n%C3%A9pal-onde-de-choc-r%C3%A9gionale",
+          "source": "France 24",
+          "summary": "Au Népal, le bilan des victimes est revu à la hausse chaque jour. Des identifications sont toujours en cours. \"Une catastrophe naturelle déchirante\", a jugé le Premier Ministre du Népal Balendra Shah. Plusieurs…",
+          "published": "2026-08-31T18:19:53+00:00"
+        },
+        {
+          "title": "L’Inde sommée de respecter un traité sur le partage des eaux avec le Pakistan, après une décision de la Cour permanente d’arbitrage",
+          "link": "https://www.lemonde.fr/international/article/2026/08/31/l-inde-sommee-de-respecter-un-traite-sur-le-partage-des-eaux-avec-le-pakistan-apres-une-decision-de-la-cour-permanente-d-arbitrage_6762744_3210.html",
           "source": "Le Monde",
-          "summary": "Le mouvement de contestation s’étend contre ce système de détection des plaques d’immatriculation, commercialisé par une société privée et considéré comme intrusif et liberticide. Sous pression, une centaine de villes…",
-          "published": "2026-08-31T11:00:13+00:00"
+          "summary": "En mai 2025, New Delhi avait annoncé la suspension de sa participation à cet accord portant sur le partage des eaux, qui concerne, entre autres, le fleuve Indus, après avoir accusé le Pakistan d’avoir soutenu une…",
+          "published": "2026-08-31T18:17:33+00:00"
         },
         {
-          "title": "Népal : au plus près des sinistrés après la crue dévastatrice",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260831-n%C3%A9pal-au-plus-pr%C3%A8s-des-sinistr%C3%A9s-apr%C3%A8s-la-crue-d%C3%A9vastatrice",
+          "title": "Ebola en RDC : l’épidémie dépasse les 6 000 cas confirmés et les 2 900 morts, annoncent les autorités",
+          "link": "https://www.lemonde.fr/afrique/article/2026/08/31/ebola-en-rdc-l-epidemie-depasse-les-6-000-cas-confirmes-et-les-2-900-morts-annoncent-les-autorites_6762743_3212.html",
+          "source": "Le Monde",
+          "summary": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre laquelle il n’existe ni vaccin ni traitement.",
+          "published": "2026-08-31T18:11:23+00:00"
+        },
+        {
+          "title": "Niger : le calme revient à Niamey après la mutinerie",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260831-niger-le-calme-revient-%C3%A0-niamey-apr%C3%A8s-la-mutinerie",
           "source": "France 24",
-          "summary": "Au Népal, après la crue meurtrière, une autre épreuve commence pour les survivants : trouver un toit, de quoi manger, et simplement de quoi tenir. Dans les villages dévastés, des familles ont tout perdu en quelques…",
-          "published": "2026-08-31T10:54:34+00:00"
+          "summary": "🇳🇪 Au Niger, le calme est de retour à Niamey, après une nuit de vendredi à samedi marquée par une mutinerie déjouée par le régime militaire. Avec l’appui de ses alliés russes, les paramilitaires d’Africa Corps ont…",
+          "published": "2026-08-31T18:05:28+00:00"
+        },
+        {
+          "title": "RD Congo : l'opposition rejette les consultations annoncées par Tshisekedi",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260831-rd-congo-l-opposition-rejette-les-consultations-annonc%C3%A9es-par-tshisekedi",
+          "source": "France 24",
+          "summary": "🇨🇩 En RDC, le projet de dialogue national de Félix Tshisekedi divise déjà. L’opposition, réunie au sein de la coalition C64 et les partisans de Joseph Kabila, rejette les consultations annoncées. La majorité…",
+          "published": "2026-08-31T18:05:05+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Sánchez assure que l’Espagne enquête toujours sur la crise de Ceuta, mais exonère le Maroc",
-          "link": "https://www.ledevoir.com/monde/europe/1005221/sanchez-assure-espagne-enquete-toujours-crise-ceuta-mais-exonere-maroc",
+          "title": "Le Canadien | L’intrigant silence autour de Xhekaj et autres dossiers en suspens",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-08-31/le-canadien/l-intrigant-silence-autour-de-xhekaj-et-autres-dossiers-en-suspens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Défenseurs et ailiers retournent à leurs vrais métiers, aurait écrit – ou pas – Gilbert Bécaud dans sa première version de C’est en septembre. Toujours est-il qu’à quatre semaines du début des hostilités, il reste des…",
+          "published": "2026-08-31T20:38:02+00:00"
+        },
+        {
+          "title": "Charles Milliard prône un «changement de ton» avec les syndicats",
+          "link": "https://www.ledevoir.com/politique/quebec/1005338/charles-milliard-prone-changement-ton-syndicats",
           "source": "Le Devoir",
-          "summary": "Le premier ministre espagnol a écarté l’implication des autorités marocaines dans cet afflux migratoire inédit.",
-          "published": "2026-08-31T11:05:00+00:00"
+          "summary": "Le chef du PLQ est sorti emballé par sa rencontre avec la présidente de la FTQ, Magali Picard.",
+          "published": "2026-08-31T19:30:31+00:00"
         },
         {
-          "title": "Conflit au Moyen-Orient | Premier échange de frappes entre les États-Unis et l’Iran depuis un mois",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-08-31/conflit-au-moyen-orient/premier-echange-de-frappes-entre-les-etats-unis-et-l-iran-depuis-un-mois.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’Iran a affirmé lundi avoir attaqué « en légitime défense » des cibles militaires américaines en Jordanie et aux Émirats arabes unis en riposte à des bombardements des États-Unis, premier échange de frappes après un…",
-          "published": "2026-08-31T10:53:54+00:00"
-        },
-        {
-          "title": "Premier échange de frappes entre les États-Unis et l’Iran depuis un mois",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1005215/premier-echange-frappes-entre-etats-unis-iran-depuis-mois",
+          "title": "QS veut faire chuter de moitié le décrochage scolaire",
+          "link": "https://www.ledevoir.com/politique/quebec/1005335/qs-veut-faire-chuter-moitie-decrochage-scolaire",
           "source": "Le Devoir",
-          "summary": "Jusqu’à récemment, le gouvernement Trump disait pourtant vouloir privilégier la pression économique contre Téhéran.",
-          "published": "2026-08-31T10:40:00+00:00"
+          "summary": "Ruba Ghazal a présenté son plan pour le faire passer de 14% à 7%, notamment en embauchant du personnel de soutien.",
+          "published": "2026-08-31T18:45:38+00:00"
         },
         {
-          "title": "Île de Montréal | Une école sur trois dans un îlot de chaleur",
-          "link": "https://www.lapresse.ca/actualites/environnement/2026-08-31/ile-de-montreal/une-ecole-sur-trois-dans-un-ilot-de-chaleur.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Cours asphaltées, arbres rares, quartiers denses : dans l’île de Montréal, 164 écoles primaires et secondaires sont situées dans des îlots de chaleur, montre une compilation préparée par La Presse. Une réalité qui…",
-          "published": "2026-08-31T09:00:00+00:00"
+          "title": "Pourquoi des sites québécois ont-ils brièvement affiché «Lake America»?",
+          "link": "https://www.ledevoir.com/actualites/societe/1005329/pourquoi-sites-gouvernementaux-ont-ils-brievement-affiche-lake-america",
+          "source": "Le Devoir",
+          "summary": "Les cartes interactives de la SAQ et de Québec 511 montrent de nouveau le nom «lac Ontario».",
+          "published": "2026-08-31T18:24:00+00:00"
         },
         {
-          "title": "Contrats fédéraux au chantier Davie | Une facture qui semble avoir doublé",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-08-31/contrats-federaux-au-chantier-davie/une-facture-qui-semble-avoir-double.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Avant même une première livraison à la Garde côtière canadienne, le prix des contrats fédéraux attribués au chantier maritime Davie pour la construction de brise-glaces paraît avoir doublé, à près de 15 milliards.…",
-          "published": "2026-08-31T09:00:00+00:00"
+          "title": "Shein s’apprête à entrer en Bourse, avec une valorisation divisée par 4 en 4 ans",
+          "link": "https://www.ledevoir.com/economie/1005326/shein-apprete-entrer-bourse-valorisation-divisee-4-4-ans",
+          "source": "Le Devoir",
+          "summary": "Après des années de croissance, la société de mode ultra-éphémère est passée dans le rouge au premier trimestre 2026.",
+          "published": "2026-08-31T18:22:55+00:00"
         },
         {
-          "title": "Réseaux sociaux | L’heure de fermer les comptes X a-t-elle sonné à Ottawa ?",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-08-31/reseaux-sociaux/l-heure-de-fermer-les-comptes-x-a-t-elle-sonne-a-ottawa.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Cette fois-là, c’était trop. La petite équipe de fonctionnaires à Femmes et Égalité des genres Canada (FEGC) en avait assez. La toxicité avait atteint de nouveaux sommets. Leurs comptes X allaient devoir être débranchés.",
-          "published": "2026-08-31T09:00:00+00:00"
+          "title": "Cinq morts à Gaza dans des frappes israéliennes, selon les secours",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1005317/cinq-morts-gaza-frappes-israeliennes-selon-secours",
+          "source": "Le Devoir",
+          "summary": "L’armée israélienne affirme avoir visé des «membres de la branche armée du Hamas».",
+          "published": "2026-08-31T17:59:33+00:00"
         },
         {
-          "title": "En rattrapage avec Marie-Élaine Thibert | « Je n’étais pas à ma place »",
-          "link": "https://www.lapresse.ca/arts/television/2026-08-31/en-rattrapage-avec-marie-elaine-thibert/je-n-etais-pas-a-ma-place.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "700 employés relocalisés | Un syndicat réclame des comptes à la Ville de Montréal",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-31/700-employes-relocalises/un-syndicat-reclame-des-comptes-a-la-ville-de-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Dans le balado En rattrapage, le journaliste Étienne Paré revisite les concepts marquants de la télé des années 2000 avec ceux et celles qui ont rendu ces émissions cultes.",
-          "published": "2026-08-31T09:00:00+00:00"
+          "summary": "La décision prise par Montréal de reloger jusqu’à 700 employés dans de nouveaux bureaux de la Place Dupuis ne passe pas comme une lettre à la poste. Le syndicat qui représente les professionnels municipaux dénonce une…",
+          "published": "2026-08-31T17:55:10+00:00"
         },
         {
-          "title": "Clinique de la douleur | « Deux ans d’enfer » en attendant un rendez-vous",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-08-31/clinique-de-la-douleur/deux-ans-d-enfer-en-attendant-un-rendez-vous.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Atteinte de la maladie de Crohn, Isabelle Pelletier vient de vivre « deux ans d’enfer ». Incapable de travailler, elle souffre d’importantes douleurs chroniques au ventre, liées à la vingtaine d’opérations qu’elle a…",
-          "published": "2026-08-31T09:00:00+00:00"
+          "title": "La Chine, la Russie et l’Inde se réunissent pour contrer les États-Unis",
+          "link": "https://www.ledevoir.com/monde/1005314/chine-russie-inde-reunissent-contrer-etats-unis",
+          "source": "Le Devoir",
+          "summary": "Ils participent à l’Organisation de coopération de Shanghai, qui vise à contrer l’influence mondiale états-unienne.",
+          "published": "2026-08-31T17:45:00+00:00"
         },
         {
-          "title": "Royalmount | Le projet d’Aquarium de Montréal prend l’eau",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-31/royalmount/le-projet-d-aquarium-de-montreal-prend-l-eau.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Proposition de la CAQ | Médecins au public et au privé : la FMSQ pour, la CSN contre",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/proposition-de-la-caq/medecins-au-public-et-au-prive-la-fmsq-pour-la-csn-contre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le futur Aquarium de Montréal est en eaux troubles : le projet est suspendu sine die, alors que le promoteur et futur exploitant de l’établissement s’est retiré du dossier, a appris La Presse.",
-          "published": "2026-08-31T09:00:00+00:00"
+          "summary": "La Fédération des médecins spécialistes du Québec (FMSQ) « accueille favorablement » la proposition de la Coalition avenir Québec (CAQ) de permettre à ses membres de pratiquer à la fois dans le réseau public et le…",
+          "published": "2026-08-31T17:26:06+00:00"
         },
         {
-          "title": "Décryptage | Le nouveau « trip » de Hunter Biden",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-08-31/decryptage/le-nouveau-trip-de-hunter-biden.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le 1er juin dernier, Hunter Biden a célébré sept ans de sobriété sur X, réseau social auquel il était retourné le mois précédent après plusieurs années d’absence.",
-          "published": "2026-08-31T09:00:00+00:00"
+          "title": "Accusation d’agression sexuelle: une femme condamnée à payer 100 000$ au cardinal Marc Ouellet",
+          "link": "https://www.journaldemontreal.com/2026/08/31/accusation-dagression-sexuelle-une-femme-condamnee-a-payer-100-000-au-cardinal-marc-ouellet",
+          "source": "Journal de Montreal",
+          "summary": "Une femme qui allègue avoir été agressée sexuellement par le cardinal Marc Ouellet devra verser 100 000$ à l’ancien haut dignitaire.",
+          "published": "2026-08-31T17:25:26+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Ces signaux inquiétants qui font craindre à Bercy un rebond de la fraude au CPF",
-          "link": "https://www.lefigaro.fr/conjoncture/ces-signaux-inquietants-qui-font-craindre-a-bercy-un-rebond-de-la-fraude-au-cpf-20260831",
+          "title": "US Open : Carlos Alcaraz réussit son grand retour",
+          "link": "https://www.lefigaro.fr/sports/tennis/us-open/us-open-carlos-alcaraz-reussit-son-grand-retour-20260831",
           "source": "Le Figaro",
-          "summary": "EXCLUSIF - Une note de l’administration alerte sur un regain de signalements d’organismes suspects après « trois ans de baisse ».",
-          "published": "2026-08-31T12:41:11+00:00"
+          "summary": "Quatre mois et demi après son dernier match sur le circuit, l’Espagnol a retrouvé la victoire ce lundi face à Roman Safiullin.",
+          "published": "2026-08-31T20:33:45+00:00"
         },
         {
-          "title": "Paris : un juge d’instruction saisi après l’agression d’un policier, également président d’une association LGBT+",
-          "link": "https://www.lefigaro.fr/faits-divers/paris-un-juge-d-instruction-saisi-apres-l-agression-d-un-policier-egalement-president-d-une-association-lgbt-20260831",
+          "title": "Retraite internationale de Messi : maudit puis béni, son parcours avec l’Argentine en images",
+          "link": "https://www.lefigaro.fr/sports/football/retraite-internationale-de-messi-maudit-puis-beni-son-parcours-avec-l-argentine-en-images-20260831",
           "source": "Le Figaro",
-          "summary": "Une information judiciaire a été ouverte pour violence aggravée et vol après l’agression samedi à Paris de Pierre Picavet, président d’une association regroupant des agents des ministères de l’Intérieur et de la Justice.",
-          "published": "2026-08-31T12:37:35+00:00"
+          "summary": "DIAPORAMA - Découvrez notre sélection des 10 moments les plus marquants de la carrière internationale de la Pulga.",
+          "published": "2026-08-31T20:33:30+00:00"
         },
         {
-          "title": "Fusillade dans une rave party en Suisse : un suspect interpellé par la police",
-          "link": "https://www.lefigaro.fr/international/fusillade-dans-une-rave-party-en-suisse-un-suspect-interpelle-par-la-police-20260831",
+          "title": "«Homme d’État», «serviteur exigeant», «il laisse un vide immense»... La classe politique rend hommage à Édouard Balladur",
+          "link": "https://www.lefigaro.fr/politique/homme-d-etat-serviteur-exigeant-il-laisse-un-vide-immense-la-classe-politique-rend-hommage-a-edouard-balladur-20260831",
           "source": "Le Figaro",
-          "summary": "Un homme de 43 ans a été interpellé lundi dans le canton d’Argovie, en Suisse, soupçonné d’être l’auteur des coups de feu tirés dans la nuit de samedi à dimanche lors d’une rave party près de Zurich.",
-          "published": "2026-08-31T12:34:41+00:00"
+          "summary": "Pour Emmanuel Macron, l’ancien premier ministre décédé lundi «avait consacré sa vie à la Ve République».",
+          "published": "2026-08-31T20:31:22+00:00"
         },
         {
-          "title": "Sri Lanka : l’ex-ministre des Finances Ravi Karunanayake arrêté pour corruption",
-          "link": "https://www.lefigaro.fr/international/sri-lanka-l-ex-ministre-des-finances-ravi-karunanayake-arrete-pour-corruption-20260831",
+          "title": "L’ancien premier ministre Édouard Balladur est mort à l’âge de 97 ans",
+          "link": "https://www.lefigaro.fr/politique/l-ancien-premier-ministre-edouard-balladur-est-decede-a-l-age-de-97-ans-20260831",
           "source": "Le Figaro",
-          "summary": "L’ancien ministre des Finances sri-lankais Ravi Karunanayake a été placé en garde à vue lundi, soupçonné d’avoir fait rémunérer des employés personnels sur les fonds de la Loterie nationale.",
-          "published": "2026-08-31T12:33:13+00:00"
+          "summary": "DISPARITION - Dernier premier ministre de François Mitterrand, il restera dans l’histoire politique comme «l’ami de trente ans» de Jacques Chirac devenu son rival lors d’une campagne présidentielle de 1995 féroce qui…",
+          "published": "2026-08-31T20:28:01+00:00"
         },
         {
-          "title": "Crise de Ceuta : l’Italie et l’Espagne persistent dans leur conflit et prolongent de 15 jours leur suspension des règles de Schengen",
-          "link": "https://www.liberation.fr/international/europe/crise-de-ceuta-litalie-et-lespagne-persistent-dans-leur-conflit-et-prolongent-de-15-jours-leur-suspension-des-regles-de-schengen-20260831_JVOATFRGDVH7FMSVXWIP26KHVQ/",
-          "source": "Liberation",
-          "summary": "Après l’afflux d’exilés dans l’enclave espagnole fin juillet, Rome avait suspendu la libre circulation des personnes en provenance du territoire espagnol avant que Madrid en fasse autant. Les deux pays ont décidé, ce…",
-          "published": "2026-08-31T12:31:32+00:00"
-        },
-        {
-          "title": "Assurance-vie : les Français ont déposé un montant record de 18,8 milliards d’euros en juillet",
-          "link": "https://www.lefigaro.fr/conjoncture/assurance-vie-les-francais-ont-depose-un-montant-record-de-18-8-milliards-d-euros-en-juillet-20260831",
+          "title": "«Je vous demande de vous arrêter » : la phrase culte d’Édouard Balladur après sa défaite au premier tour de la présidentielle de 1995",
+          "link": "https://www.lefigaro.fr/politique/je-vous-demande-de-vous-arreter-la-phrase-culte-d-edouard-balladur-apres-sa-defaite-au-premier-tour-de-la-presidentielle-de-1995-20260831",
           "source": "Le Figaro",
-          "summary": "Depuis le début de l’année, la collecte nette atteint 41,3 milliards d’euros, un niveau inédit depuis vingt ans. De son côté, le livret A retrouve timidement des couleurs.",
-          "published": "2026-08-31T12:13:15+00:00"
+          "summary": "Décédé lundi à 97 ans, l’ancien premier ministre avait vu son pari présidentiel de 1995 se briser, rattrapé au fil de la campagne par son principal concurrent, Jacques Chirac, qui l’avait finalement privé du second tour.",
+          "published": "2026-08-31T20:23:10+00:00"
         },
         {
-          "title": "Monsieur Retailleau, je quitte Les Républicains et vous n’y êtes pas pour rien",
-          "link": "https://www.liberation.fr/idees-et-debats/tribunes/monsieur-retailleau-je-quitte-les-republicains-et-vous-ny-etes-pas-pour-rien-20260831_7GDBLVZ4OFBERKIUUI5476OSYI/",
-          "source": "Liberation",
-          "summary": "Dans une lettre ouverte, Zaïr Kédadouche, ex-conseiller du président Chirac et militant LR de longue date, explique les raisons de son départ. En cause : la stigmatisation obsessionnelle des Français originaires du…",
-          "published": "2026-08-31T12:12:00+00:00"
+          "title": "Emmanuel Macron salue en Edouard Balladur un \"serviteur exigeant, mesuré et dévoué\" de la France",
+          "link": "https://www.franceinfo.fr/politique/emmanuel-macron-salue-en-edouard-balladur-un-serviteur-exigeant-mesure-et-devoue-pour-la-france_8171285.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'ancien Premier ministre \"avait consacré sa vie à la Ve République\", a souligné lundi soir le chef de l'Etat.",
+          "published": "2026-08-31T20:11:52+00:00"
         },
         {
-          "title": "Suisse : un homme arrêté après la fusillade mortelle lors d’une rave party à Aarau",
-          "link": "https://www.lemonde.fr/international/article/2026/08/31/suisse-un-homme-arrete-apres-la-fusillade-mortelle-lors-d-une-rave-party-a-aarau_6762448_3210.html",
+          "title": "L’Union européenne annonce suspendre ses importations de viande brésilienne à partir de jeudi",
+          "link": "https://www.lemonde.fr/economie/article/2026/08/31/l-union-europeenne-annonce-suspendre-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_6762819_3234.html",
           "source": "Le Monde",
-          "summary": "La police cantonale d’Argovie affirme « privilégier la thèse selon laquelle l’auteur a agi seul », mais n’a pas précisé où il avait été interpellé.",
-          "published": "2026-08-31T12:04:05+00:00"
+          "summary": "Le Brésil avait été retiré en mai d’une liste européenne des pays qui respectent les règles de l’UE qui interdisent l’utilisation abusive d’antibiotiques dans l’élevage.",
+          "published": "2026-08-31T20:04:20+00:00"
         },
         {
-          "title": "EN DIRECT - «Personne ne peut considérer qu’il est une évidence» : Hervé Morin lance un avertissement à Édouard Philippe avant la présidentielle",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-sondages-candidats-lecornu-philippe-le-pen-retailleau-bardella-royal-faure-glucksmann-melenchon-20260831",
-          "source": "Le Figaro",
-          "summary": "Le président de la région Normandie Hervé Morin, qui a lancé une pétition pour une primaire de la droite et du centre, a adressé lundi un avertissement à Édouard Philippe, estimant qu’il porterait «une lourde…",
-          "published": "2026-08-31T12:03:03+00:00"
-        },
-        {
-          "title": "Retraites : Sébastien Lecornu confirme la piste de la désindexation",
-          "link": "https://www.lemonde.fr/politique/article/2026/08/31/retraites-sebastien-lecornu-confirme-la-piste-de-la-desindexation_6762446_823448.html",
+          "title": "La guerre, nouvelle normalité du détroit d’Ormouz",
+          "link": "https://www.lemonde.fr/international/article/2026/08/31/la-guerre-nouvelle-normalite-du-detroit-d-ormouz_6762818_3210.html",
           "source": "Le Monde",
-          "summary": "Dans un entretien au « Parisien », le premier ministre affirme que les « petites » pensions ne seront pas gelées en 2027, laissant ainsi entendre que les plus élevées pourraient stagner.",
-          "published": "2026-08-31T12:00:05+00:00"
+          "summary": "La reprise des frappes entre les Etats-Unis et l’Iran, lundi, confirme que le conflit s’est installé durablement dans ces eaux. L’outil de dissuasion qu’était pour Téhéran le blocage de cette artère stratégique…",
+          "published": "2026-08-31T20:02:26+00:00"
+        },
+        {
+          "title": "\"Figure du gaullisme\", \"mentor\", \"grand serviteur de l'Etat\"... Les réactions politiques après la mort de l'ancien Premier ministre Edouard Balladur",
+          "link": "https://www.franceinfo.fr/politique/figure-du-gaullisme-mentor-grand-serviteur-de-l-etat-les-reactions-politiques-apres-la-mort-de-l-ancien-premier-ministre-edouard-balladur_8171225.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Cette figure de la Ve République, artisan de la cohabitation sous la présidence de François Mitterrand, est décédée lundi. De nombreux politiques lui ont rendu hommage.",
+          "published": "2026-08-31T20:00:34+00:00"
+        },
+        {
+          "title": "Mort d'Edouard Balladur : Nicolas Sarkozy salue un homme qui fut \"un exemple, un mentor et un ami\"",
+          "link": "https://www.franceinfo.fr/politique/direct-mort-d-edouard-balladur-sebastien-lecornu-rend-hommage-a-une-figure-majeure-de-notre-vie-publique_8171216.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'ancien Premier ministre, entre 1993 et 1995, est mort, lundi, à l'âge de 97 ans, a annoncé sa famille.",
+          "published": "2026-08-31T19:59:54+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "☕️ ChatGPT, Reddit et Roblox entrent dans le club très surveillé du DSA",
-          "link": "https://next.ink/brief-article/chatgpt-reddit-et-roblox-entrent-dans-le-club-tres-surveille-du-dsa/",
-          "source": "Next",
-          "summary": "La Commission européenne ajoute trois nouveaux membres dans le club du règlement pour les services numériques (DSA) : ChatGPT, Reddit et Roblox. Ces trois très grandes plateformes devront mettre en place des dispositifs…",
-          "published": "2026-08-31T12:34:30+00:00"
-        },
-        {
-          "title": "Quelles sont les meilleures manettes pour Nintendo Switch 2 ?",
-          "link": "https://www.frandroid.com/guide-dachat/guides-dachat-gaming/1302315_les-meilleures-manettes-pour-nintendo-switch",
-          "source": "Frandroid",
-          "summary": "La Nintendo Switch 2 ne dispose pas nativement d'une réelle manette, en dehors de ses Joy-Con. On fait le tour des meilleures manettes pour Switch, à choisir selon vos besoins et vos goûts.",
-          "published": "2026-08-31T12:30:32+00:00"
-        },
-        {
-          "title": "Windows sur Arm : Microsoft dit que c’est prêt, les tests de jeux disent l’inverse",
-          "link": "https://www.frandroid.com/produits-android/3227115_windows-sur-arm-microsoft-dit-que-cest-pret-les-tests-de-jeux-disent-linverse",
-          "source": "Frandroid",
-          "summary": "Microsoft assure que Windows sur Arm est enfin mature, quatorze ans après le fiasco de la Surface RT. On a confronté la promesse aux tests indépendants, surtout du côté des jeux.",
-          "published": "2026-08-31T12:29:51+00:00"
-        },
-        {
-          "title": "Avec ce TV 4K 55 pouces signé TCL, le QLED est à découvrir pour moins de 360 €",
-          "link": "https://www.frandroid.com/bons-plans/2993891_avec-ce-tv-4k-55-pouces-signe-tcl-le-qled-est-a-decouvrir-pour-moins-de-360-euros",
-          "source": "Frandroid",
-          "summary": "Carrefour propose une offre très intéressante pour ce TCL QLED de 55 pouces qui possède une connectique complète et une interface intuitive. Sur le site de l'enseigne, il est à 359,99 euros.",
-          "published": "2026-08-31T12:24:18+00:00"
-        },
-        {
-          "title": "Avengers Doomsday : Les frères Russo forcent les fans à repasser à la caisse pour comprendre le film",
-          "link": "https://www.numerama.com/pop-culture/2321909-avengers-doomsday-les-freres-russo-forcent-les-fans-a-repasser-a-la-caisse-pour-comprendre-le-film.html",
-          "source": "Numerama",
-          "summary": "Pour comprendre le prochain&nbsp;Avengers: Doomsday&nbsp;au cinéma en décembre 2026, Marvel exige que les fans revoient d'abord&nbsp;Avengers: Endgame&nbsp;en salles le 25 septembre 2026. Une ressortie agrémentée de…",
-          "published": "2026-08-31T12:21:00+00:00"
-        },
-        {
-          "title": "Redécouvrez plus d'une centaine d'IA vintage des années 1970 à 1990",
-          "link": "https://www.clubic.com/actualite-627469-redecouvrez-plus-d-une-centaine-d-ia-vintage-des-annees-1980-et-1990.html",
+          "title": "Pour les joueurs qui hésitaient encore, la Switch 2 descend cette nuit sous les 360€ chez AliExpress",
+          "link": "https://www.clubic.com/bons-plans-627523-pour-les-joueurs-qui-hesitaient-encore-la-switch-2-descend-cette-nuit-sous-les-360-chez-aliexpress.html",
           "source": "Clubic",
-          "summary": "L'Internet Archive a mis en ligne une collection de logiciels d'intelligence artificielle produits entre les années 1970 et 1990. Ces derniers peuvent être exécutés sans installation depuis un navigateur.",
-          "published": "2026-08-31T12:11:00+00:00"
+          "summary": "À la veille d'une hausse de prix officialisée par Nintendo, un vendeur AliExpress propose la Nintendo Switch 2 sous son tarif de lancement. Voici ce que cache réellement cette offre, et pour qui elle a du sens.",
+          "published": "2026-08-31T18:30:00+00:00"
         },
         {
-          "title": "Bandai lance le Tamagotchi Ring, une bague pour s’occuper de son animal virtuel au doigt",
-          "link": "https://www.frandroid.com/produits-android/3227061_bandai-lance-le-tamagotchi-ring-une-bague-pour-soccuper-de-son-animal-virtuel-au-doigt",
-          "source": "Frandroid",
-          "summary": "Bandai transforme le Tamagotchi en bague pour fêter ses 30&nbsp;ans. Une édition limitée, exclusive au Japon, dont les précommandes ferment le 6&nbsp;octobre&nbsp;: les nostalgiques vont devoir se dépêcher.",
-          "published": "2026-08-31T12:07:07+00:00"
-        },
-        {
-          "title": "Ce livestream généré par IA peut durer éternellement, et c’est vous qui choisissez la suite",
-          "link": "https://www.numerama.com/tech/2321717-ce-livestream-genere-par-ia-peut-durer-eternellement-et-cest-vous-qui-choisissez-la-suite.html",
+          "title": "Trois EVA en trois semaines : Sophie Adenot dirige pour la première fois une sortie spatiale",
+          "link": "https://www.numerama.com/sciences/2322033-trois-eva-en-trois-semaines-sophie-adenot-dirige-pour-la-premiere-fois-une-sortie-spatiale.html",
           "source": "Numerama",
-          "summary": "Une version accélérée du modèle vidéo MiniMax H3 peut générer certaines séquences plus rapidement qu’elles ne sont regardées. Cette avancée a déjà donné naissance à des livestreams théoriquement infinis, dont les…",
-          "published": "2026-08-31T12:00:00+00:00"
+          "summary": "Sophie Adenot se prépare à effectuer sa troisième sortie spatiale en l'espace de trois semaines. Si les deux premières EVA ont eu lieu avec l'Américain Anil Menon, cette nouvelle intervention hors de la Station spatiale…",
+          "published": "2026-08-31T18:16:04+00:00"
         },
         {
-          "title": "Après NordVPN et Surfshark, ExpressVPN arrive à son tour sur Vega OS",
-          "link": "https://www.clubic.com/actualite-627406-apres-nordvpn-et-surfshark-expressvpn-arrive-a-son-tour-sur-vega-os.html",
-          "source": "Clubic",
-          "summary": "ExpressVPN rejoint à son tour les VPN compatibles avec Vega OS. Vous pouvez désormais télécharger son application depuis l’Amazon Appstore sur les Fire TV prises en charge.",
-          "published": "2026-08-31T11:37:00+00:00"
-        },
-        {
-          "title": "Adopter un pixel du télescope Roman : la Nasa propose de se « partager » les premières images",
-          "link": "https://www.numerama.com/sciences/2321699-adopte-un-pixel-vous-pouvez-faire-un-peu-partie-de-la-mission-spatiale-roman.html",
-          "source": "Numerama",
-          "summary": "La Nasa a lancé un appel à participation pour que tout un chacun puisse contribuer à sa manière à la mission du télescope Nancy Grace Roman. L'opération « Adopte un pixel » consiste à réclamer un pixel d'une des…",
-          "published": "2026-08-31T11:32:00+00:00"
-        },
-        {
-          "title": "Rentrée : ce PC fixe gamer avec 32 Go de RAM chute à 1 349€ chez Boulanger",
-          "link": "https://www.clubic.com/bons-plans-627169-rentree-ce-pc-fixe-gamer-avec-32-go-de-ram-chute-a-1-349-chez-boulanger.html",
-          "source": "Clubic",
-          "summary": "Avec la rentrée qui approche, trouver un PC fixe capable d'encaisser aussi bien les logiciels de bureautique que les derniers jeux devient une priorité pour beaucoup. Boulanger propose actuellement ce PC Gamer AURUMPC…",
-          "published": "2026-08-31T11:18:00+00:00"
-        },
-        {
-          "title": "Avec son affichage 5K sur 45″ et son format 32:9, cet écran Iiyama transforme votre bureau en cockpit gaming et perd 24 %",
-          "link": "https://www.frandroid.com/bons-plans/3226881_avec-son-affichage-5k-sur-45-et-son-format-329-cet-ecran-iiyama-transforme-votre-bureau-en-cockpit-gaming-et-perd-24",
+          "title": "« J’aime cette entreprise » : la lettre d’adieu de Tim Cook à ses équipes pour son dernier jour de CEO d’Apple",
+          "link": "https://www.frandroid.com/marques/apple/3227983_jaime-cette-entreprise-la-lettre-dadieu-de-tim-cook-a-ses-equipes-pour-son-dernier-jour-de-ceo-dapple",
           "source": "Frandroid",
-          "summary": "Le Iiyama G-Master Red Eagle 45 pouces est un écran PC qui favorise l'immersion au maximum, avec en plus un affichage 5K fluide. Et là il passe de 699 euros à 528,99 euros sur Amazon.",
-          "published": "2026-08-31T11:17:00+00:00"
+          "summary": "Ce 31 août 2026, Tim Cook a passé sa dernière journée aux commandes d'Apple. Avant de rendre les clés, il a laissé à ses équipes une lettre d'adieu où l'émotion prend le pas sur le communiqué.",
+          "published": "2026-08-31T17:46:02+00:00"
+        },
+        {
+          "title": "OpenAI achèterait des milliers de Mac Mini et Mac Studio Apple pour entraîner ses IA",
+          "link": "https://www.clubic.com/actualite-627577-openai-acheterait-des-milliers-de-mac-mini-et-mac-studio-apple-pour-entrainer-ses-ia.html",
+          "source": "Clubic",
+          "summary": "Les géants de l'IA cherchent absolument tous les matériels pour entraîner leurs IA. Et même les appareils les plus étonnants.",
+          "published": "2026-08-31T17:33:00+00:00"
+        },
+        {
+          "title": "Rentrée 2026 : le Pack Philips Hue Découverte 2025 chute à 129,99€ chez Boulanger",
+          "link": "https://www.clubic.com/bons-plans-627466-rentree-2026-le-pack-philips-hue-decouverte-2025-chute-a-129-99-chez-boulanger.html",
+          "source": "Clubic",
+          "summary": "À l'approche de la rentrée, l'envie de s'initier à la maison connectée revient souvent sur le tapis, sans toujours vouloir se lancer dans une installation complète. Boulanger propose actuellement le Pack Philips Hue…",
+          "published": "2026-08-31T17:18:00+00:00"
+        },
+        {
+          "title": "Supercalculateurs : le géant français Bull décroche un contrat à 400 millions d'euros",
+          "link": "https://www.clubic.com/actualite-627571-supercalculateurs-le-geant-francais-bull-decroche-un-contrat-a-400-millions-d-euros.html",
+          "source": "Clubic",
+          "summary": "Le géant français des supercalculateurs Bull décroche un contrat historique. Un contrat qui frise les 400 millions d'euros !",
+          "published": "2026-08-31T17:02:00+00:00"
+        },
+        {
+          "title": "Freelances et entrepreneurs : l'offre idéale pour démarrer son site cette rentrée",
+          "link": "https://www.clubic.com/bons-plans-627505-freelances-et-entrepreneurs-l-offre-ideale-pour-demarrer-son-site-cette-rentree.html",
+          "source": "Clubic",
+          "summary": "La rentrée s'accompagne souvent de nouveaux projets professionnels, et pour beaucoup, tout commence par un hébergement web fiable. On a passé en revue l'Offre Cloud d'o2switch, actuellement accessible à 1,86 € HT/mois,…",
+          "published": "2026-08-31T16:53:00+00:00"
+        },
+        {
+          "title": "Ce forfait 250 Go en 5G repousse sa première facture à 2027",
+          "link": "https://www.frandroid.com/bons-plans/3227445_ce-forfait-250-go-en-5g-repousse-sa-premiere-facture-a-2027",
+          "source": "Frandroid",
+          "summary": "La Poste Mobile offre les quatre premiers mois sur ses forfaits sans engagement. De quoi tester son forfait 250 Go en 5G sans rien payer, avant de repasser sur un tarif qui reste intéressant.",
+          "published": "2026-08-31T16:46:00+00:00"
+        },
+        {
+          "title": "Former ses salariés à la cybersécurité sans budget dédié : ce qui fonctionne vraiment",
+          "link": "https://www.clubic.com/dossier-617341-former-ses-salaries-a-la-cybersecurite-sans-budget-dedie-ce-qui-fonctionne-vraiment.html",
+          "source": "Clubic",
+          "summary": "Si vous formez vos salariés à la cybersécurité, vous faites partie de la moitié des TPE/PME qui ne le fait pas encore, faute de temps et de budget. Cybermalveillance.gouv.fr, l’ANSSI et MesServicesCyber publient…",
+          "published": "2026-08-31T16:41:00+00:00"
+        },
+        {
+          "title": "Voiture électrique : l’Europe prépare un bonus réservé au « Made in EU »",
+          "link": "https://www.frandroid.com/survoltes/voitures-electriques/3227967_voiture-electrique-leurope-prepare-un-bonus-reserve-au-made-in-eu",
+          "source": "Frandroid",
+          "summary": "L'Allemagne veut réserver son aide à la voiture électrique aux modèles assemblés dans l'Union européenne. Une brique de plus dans le «&nbsp;bonus Made in EU&nbsp;» que Bruxelles prépare, et que Pékin voit d'un très…",
+          "published": "2026-08-31T16:29:19+00:00"
+        },
+        {
+          "title": "Fibre pas chère : B&YOU propose sa Pure fibre à 24,99€/mois sans engagement",
+          "link": "https://www.clubic.com/bons-plans-627520-fibre-pas-chere-b-you-propose-sa-pure-fibre-a-24-99-mois-sans-engagement.html",
+          "source": "Clubic",
+          "summary": "À quelques semaines de la rentrée universitaire, beaucoup d'étudiants et de jeunes actifs cherchent à limiter les frais fixes de leur nouveau logement, à commencer par l'abonnement internet. La B&amp;YOU Pure fibre,…",
+          "published": "2026-08-31T16:22:00+00:00"
+        },
+        {
+          "title": "DPE : le changement de calcul qui « guérit » 300 000 logements sans isoler un seul mur",
+          "link": "https://www.frandroid.com/survoltes/energie/3227737_dpe-le-changement-de-calcul-qui-guerit-300-000-logements-sans-isoler-un-seul-mur",
+          "source": "Frandroid",
+          "summary": "Un arrêté abaisse le coefficient de l'électricité dans le calcul du DPE au 1er janvier 2027. Des centaines de milliers de logements chauffés à l'électrique vont changer de lettre sans qu'on y touche un seul radiateur.…",
+          "published": "2026-08-31T16:08:53+00:00"
         }
       ]
     }
