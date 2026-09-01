@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-08-31T20:39:21.415125+00:00",
+  "generated_at": "2026-09-01T00:23:28.333837+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Le secrétaire à l’armée de terre américain, Dan Driscoll, démissionne après plusieurs mois de tension avec Pete Hegseth",
+          "link": "https://www.lemonde.fr/international/article/2026/09/01/le-secretaire-a-l-armee-de-terre-americain-dan-driscoll-demissionne-apres-plusieurs-mois-de-tension-avec-pete-hegseth_6763020_3210.html",
+          "source": "Le Monde",
+          "summary": "Ce proche du vice-président, J. D. Vance, a notamment été impliqué dans les négociations concernant la guerre en Ukraine. Aucune raison n’a été donnée pour expliquer son départ mais ses rapports difficiles avec le…",
+          "published": "2026-08-31T23:55:00+00:00"
+        },
+        {
+          "title": "La Cour suprême autorise la poursuite du chantier de la salle de bal à la Maison Blanche",
+          "link": "https://www.lemonde.fr/international/article/2026/09/01/la-cour-supreme-autorise-la-poursuite-du-chantier-de-la-salle-de-bal-a-la-maison-blanche_6762954_3210.html",
+          "source": "Le Monde",
+          "summary": "Le refus de la plus haute juridiction des Etats-Unis de se prononcer sur le fond dans cette affaire et d’envisager la question des prérogatives du Congrès, la renvoyant en première instance, récompense la stratégie du…",
+          "published": "2026-08-31T23:20:05+00:00"
+        },
+        {
+          "title": "En Guinée, des ONG réclament une enquête indépendante après la découverte de six corps dans une fosse commune",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/01/en-guinee-des-ong-reclament-une-enquete-independante-apres-la-decouverte-de-six-corps-dans-une-fosse-commune_6762888_3212.html",
+          "source": "Le Monde",
+          "summary": "Les six dépouilles, toutes celles d’hommes, avaient été découvertes dans une forêt de la préfecture de Forécariah, en Basse-Guinée, par des jeunes qui ramassaient du bois de chauffe.",
+          "published": "2026-08-31T22:37:21+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : des explosions nocturnes dans Kiev ; l’Ukraine dit préparer de nouvelles frappes contre la Russie",
+          "link": "https://www.lemonde.fr/international/live/2026/08/31/en-direct-guerre-en-ukraine-kiev-prepare-de-nouvelles-frappes-contre-la-russie-et-estime-que-poutine-veut-poursuivre-la-guerre_6760568_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien, Volodymyr Zelensky, a par ailleurs confirmé un échange avec les émissaires du président des Etats-Unis, Donald Trump, Steve Witkoff et Jared Kushner, qui préparent des contacts avec la partie…",
+          "published": "2026-08-31T21:52:24+00:00"
+        },
+        {
+          "title": "Amazon visé par une plainte pour surfacturation en secret de publicités à plus de 1 million d’annonceurs",
+          "link": "https://www.lemonde.fr/international/article/2026/08/31/amazon-vise-par-une-plainte-pour-surfacturation-en-secret-de-publicites-a-plus-de-1-million-d-annonceurs_6762855_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon les plaignants, le géant du commerce en ligne aurait surfacturé ses clients annonceurs de plus de 20 milliards de dollars depuis 2019, grâce à un mécanisme d’enchères publicitaires qu’ils jugent trompeur.",
+          "published": "2026-08-31T21:35:20+00:00"
+        },
         {
           "title": "Désastre au Népal : les intox inondent les réseaux sociaux",
           "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260831-d%C3%A9sastre-au-n%C3%A9pal-les-intox-inondent-les-r%C3%A9seaux-sociaux",
@@ -19,7 +54,7 @@
           "published": "2026-08-31T20:04:20+00:00"
         },
         {
-          "title": "La guerre, nouvelle normalité du détroit d’Ormouz",
+          "title": "La guerre, nouvelle normalité du détroit d’Ormuz",
           "link": "https://www.lemonde.fr/international/article/2026/08/31/la-guerre-nouvelle-normalite-du-detroit-d-ormouz_6762818_3210.html",
           "source": "Le Monde",
           "summary": "La reprise des frappes entre les Etats-Unis et l’Iran, lundi, confirme que le conflit s’est installé durablement dans ces eaux. L’outil de dissuasion qu’était pour Téhéran le blocage de cette artère stratégique…",
@@ -38,41 +73,6 @@
           "source": "France 24",
           "summary": "",
           "published": "2026-08-31T18:46:30+00:00"
-        },
-        {
-          "title": "Crise au Népal : onde de choc régionale ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260831-crise-au-n%C3%A9pal-onde-de-choc-r%C3%A9gionale",
-          "source": "France 24",
-          "summary": "Au Népal, le bilan des victimes est revu à la hausse chaque jour. Des identifications sont toujours en cours. \"Une catastrophe naturelle déchirante\", a jugé le Premier Ministre du Népal Balendra Shah. Plusieurs…",
-          "published": "2026-08-31T18:19:53+00:00"
-        },
-        {
-          "title": "L’Inde sommée de respecter un traité sur le partage des eaux avec le Pakistan, après une décision de la Cour permanente d’arbitrage",
-          "link": "https://www.lemonde.fr/international/article/2026/08/31/l-inde-sommee-de-respecter-un-traite-sur-le-partage-des-eaux-avec-le-pakistan-apres-une-decision-de-la-cour-permanente-d-arbitrage_6762744_3210.html",
-          "source": "Le Monde",
-          "summary": "En mai 2025, New Delhi avait annoncé la suspension de sa participation à cet accord portant sur le partage des eaux, qui concerne, entre autres, le fleuve Indus, après avoir accusé le Pakistan d’avoir soutenu une…",
-          "published": "2026-08-31T18:17:33+00:00"
-        },
-        {
-          "title": "Ebola en RDC : l’épidémie dépasse les 6 000 cas confirmés et les 2 900 morts, annoncent les autorités",
-          "link": "https://www.lemonde.fr/afrique/article/2026/08/31/ebola-en-rdc-l-epidemie-depasse-les-6-000-cas-confirmes-et-les-2-900-morts-annoncent-les-autorites_6762743_3212.html",
-          "source": "Le Monde",
-          "summary": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre laquelle il n’existe ni vaccin ni traitement.",
-          "published": "2026-08-31T18:11:23+00:00"
-        },
-        {
-          "title": "Niger : le calme revient à Niamey après la mutinerie",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260831-niger-le-calme-revient-%C3%A0-niamey-apr%C3%A8s-la-mutinerie",
-          "source": "France 24",
-          "summary": "🇳🇪 Au Niger, le calme est de retour à Niamey, après une nuit de vendredi à samedi marquée par une mutinerie déjouée par le régime militaire. Avec l’appui de ses alliés russes, les paramilitaires d’Africa Corps ont…",
-          "published": "2026-08-31T18:05:28+00:00"
-        },
-        {
-          "title": "RD Congo : l'opposition rejette les consultations annoncées par Tshisekedi",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260831-rd-congo-l-opposition-rejette-les-consultations-annonc%C3%A9es-par-tshisekedi",
-          "source": "France 24",
-          "summary": "🇨🇩 En RDC, le projet de dialogue national de Félix Tshisekedi divise déjà. L’opposition, réunie au sein de la coalition C64 et les partisans de Joseph Kabila, rejette les consultations annoncées. La majorité…",
-          "published": "2026-08-31T18:05:05+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Le Canadien | L’intrigant silence autour de Xhekaj et autres dossiers en suspens",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-08-31/le-canadien/l-intrigant-silence-autour-de-xhekaj-et-autres-dossiers-en-suspens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Canada | Vers une hausse des salaires de 3,2 % en 2027",
+          "link": "https://www.lapresse.ca/affaires/2026-08-31/canada/vers-une-hausse-des-salaires-de-3-2-en-2027.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Défenseurs et ailiers retournent à leurs vrais métiers, aurait écrit – ou pas – Gilbert Bécaud dans sa première version de C’est en septembre. Toujours est-il qu’à quatre semaines du début des hostilités, il reste des…",
-          "published": "2026-08-31T20:38:02+00:00"
+          "summary": "La hausse moyenne des salaires anticipée en 2027 par les employeurs au Canada devrait se maintenir autour de 3,2 %, selon une enquête de la firme-conseil Mercer Canada, spécialisée en gestion de ressources humaines et…",
+          "published": "2026-08-31T23:45:00+00:00"
         },
         {
-          "title": "Charles Milliard prône un «changement de ton» avec les syndicats",
-          "link": "https://www.ledevoir.com/politique/quebec/1005338/charles-milliard-prone-changement-ton-syndicats",
+          "title": "La Cour suprême autorise la construction de la salle de bal de Trump à la Maison-Blanche",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1005416/cour-supreme-autorise-construction-salle-bal-trump-maison-blanche",
           "source": "Le Devoir",
-          "summary": "Le chef du PLQ est sorti emballé par sa rencontre avec la présidente de la FTQ, Magali Picard.",
-          "published": "2026-08-31T19:30:31+00:00"
+          "summary": "Le président américain a célébré cette décision qui lève, selon lui, la dernière menace contre son projet.",
+          "published": "2026-08-31T23:35:18+00:00"
         },
         {
-          "title": "QS veut faire chuter de moitié le décrochage scolaire",
-          "link": "https://www.ledevoir.com/politique/quebec/1005335/qs-veut-faire-chuter-moitie-decrochage-scolaire",
-          "source": "Le Devoir",
-          "summary": "Ruba Ghazal a présenté son plan pour le faire passer de 14% à 7%, notamment en embauchant du personnel de soutien.",
-          "published": "2026-08-31T18:45:38+00:00"
-        },
-        {
-          "title": "Pourquoi des sites québécois ont-ils brièvement affiché «Lake America»?",
-          "link": "https://www.ledevoir.com/actualites/societe/1005329/pourquoi-sites-gouvernementaux-ont-ils-brievement-affiche-lake-america",
-          "source": "Le Devoir",
-          "summary": "Les cartes interactives de la SAQ et de Québec 511 montrent de nouveau le nom «lac Ontario».",
-          "published": "2026-08-31T18:24:00+00:00"
-        },
-        {
-          "title": "Shein s’apprête à entrer en Bourse, avec une valorisation divisée par 4 en 4 ans",
-          "link": "https://www.ledevoir.com/economie/1005326/shein-apprete-entrer-bourse-valorisation-divisee-4-4-ans",
-          "source": "Le Devoir",
-          "summary": "Après des années de croissance, la société de mode ultra-éphémère est passée dans le rouge au premier trimestre 2026.",
-          "published": "2026-08-31T18:22:55+00:00"
-        },
-        {
-          "title": "Cinq morts à Gaza dans des frappes israéliennes, selon les secours",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1005317/cinq-morts-gaza-frappes-israeliennes-selon-secours",
-          "source": "Le Devoir",
-          "summary": "L’armée israélienne affirme avoir visé des «membres de la branche armée du Hamas».",
-          "published": "2026-08-31T17:59:33+00:00"
-        },
-        {
-          "title": "700 employés relocalisés | Un syndicat réclame des comptes à la Ville de Montréal",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-31/700-employes-relocalises/un-syndicat-reclame-des-comptes-a-la-ville-de-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "L’œil du cyclone, c’est fini. Et STAT rajeunit !",
+          "link": "https://www.lapresse.ca/arts/chroniques/2026-08-31/l-oeil-du-cyclone-c-est-fini-et-stat-rajeunit.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La décision prise par Montréal de reloger jusqu’à 700 employés dans de nouveaux bureaux de la Place Dupuis ne passe pas comme une lettre à la poste. Le syndicat qui représente les professionnels municipaux dénonce une…",
-          "published": "2026-08-31T17:55:10+00:00"
+          "summary": "L’œil du cyclone se fermera et cessera de souffler dans vos écrans l’an prochain. Radio-Canada a confirmé lundi matin que la septième saison de cette populaire comédie familiale, dont les tournages se déroulent…",
+          "published": "2026-08-31T23:30:00+00:00"
         },
         {
-          "title": "La Chine, la Russie et l’Inde se réunissent pour contrer les États-Unis",
-          "link": "https://www.ledevoir.com/monde/1005314/chine-russie-inde-reunissent-contrer-etats-unis",
+          "title": "Marinvest Energy vante son projet  comme un outil de «réconciliation» avec les Premières Nations",
+          "link": "https://www.ledevoir.com/actualites/environnement/1005413/marinvest-energy-vante-projet-comme-outil-reconciliation-premieres-nations",
           "source": "Le Devoir",
-          "summary": "Ils participent à l’Organisation de coopération de Shanghai, qui vise à contrer l’influence mondiale états-unienne.",
-          "published": "2026-08-31T17:45:00+00:00"
+          "summary": "L’entreprise norvégienne veut lancer le processus vers l’autorisation du gazoduc et de l’usine dès le mois d’octobre.",
+          "published": "2026-08-31T23:11:55+00:00"
         },
         {
-          "title": "Proposition de la CAQ | Médecins au public et au privé : la FMSQ pour, la CSN contre",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/proposition-de-la-caq/medecins-au-public-et-au-prive-la-fmsq-pour-la-csn-contre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Les victimes devront fournir des preuves pour avoir accès à l’IVAC",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-31/les-victimes-devront-fournir-des-preuves-pour-avoir-acces-a-l-ivac.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Fédération des médecins spécialistes du Québec (FMSQ) « accueille favorablement » la proposition de la Coalition avenir Québec (CAQ) de permettre à ses membres de pratiquer à la fois dans le réseau public et le…",
-          "published": "2026-08-31T17:26:06+00:00"
+          "summary": "Pour recevoir l’aide de l’État, les victimes d’actes criminels devront désormais prouver la réalité de l’infraction, en joignant par exemple un rapport policier ou médical à leur demande d’indemnisation.",
+          "published": "2026-08-31T23:00:00+00:00"
         },
         {
-          "title": "Accusation d’agression sexuelle: une femme condamnée à payer 100 000$ au cardinal Marc Ouellet",
-          "link": "https://www.journaldemontreal.com/2026/08/31/accusation-dagression-sexuelle-une-femme-condamnee-a-payer-100-000-au-cardinal-marc-ouellet",
-          "source": "Journal de Montreal",
-          "summary": "Une femme qui allègue avoir été agressée sexuellement par le cardinal Marc Ouellet devra verser 100 000$ à l’ancien haut dignitaire.",
-          "published": "2026-08-31T17:25:26+00:00"
+          "title": "L’« efficacité » s’impose au cinquième jour de la campagne électorale",
+          "link": "https://www.ledevoir.com/politique/quebec/1005386/partis-misent-efficacite-seduire-electeurs",
+          "source": "Le Devoir",
+          "summary": "La CAQ rompt avec l’ère Dubé ; le PQ veut réduire la taille de l’État de 2,5 %.",
+          "published": "2026-08-31T22:01:00+00:00"
+        },
+        {
+          "title": "Le cardinal Ouellet, accusé d’agression sexuelle, est blanchi par le juge",
+          "link": "https://www.ledevoir.com/actualites/justice/1005377/cardinal-ouellet-accuse-agression-sexuelle-est-blanchi-juge",
+          "source": "Le Devoir",
+          "summary": "Paméla Groleau, cette dame qui l’accusait, devra lui verser 100 000$ pour diffamation.",
+          "published": "2026-08-31T21:17:00+00:00"
+        },
+        {
+          "title": "Accusée d’entrave après un homicide en 2019 | Une ex-avocate de la défense au banc des accusés",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-31/accusee-d-entrave-apres-un-homicide-en-2019/une-ex-avocate-de-la-defense-au-banc-des-accuses.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Se croyant suivie deux jours après un homicide, une avocate criminaliste s’est livrée à une « contre-filature ». À bord de sa voiture, le tueur – son conjoint – a promis de l’argent à un complice pour se taire, a…",
+          "published": "2026-08-31T20:55:13+00:00"
+        },
+        {
+          "title": "Ottawa essaie de faire rejeter une poursuite sur l’atteinte de ses cibles climatiques",
+          "link": "https://www.ledevoir.com/actualites/environnement/1005359/ottawa-essaie-faire-rejeter-poursuite-atteinte-cibles-climatiques",
+          "source": "Le Devoir",
+          "summary": "Le gouvernement plaide que la Cour fédérale n’avait pas le pouvoir de lui ordonner de prendre des mesures pour cela.",
+          "published": "2026-08-31T20:49:46+00:00"
+        },
+        {
+          "title": "PSPP promet un grand ménage dans la bureaucratie… sans licenciements",
+          "link": "https://www.ledevoir.com/politique/quebec/1005353/pspp-promet-grand-menage-bureaucratie-abolir-poste",
+          "source": "Le Devoir",
+          "summary": "Le chef du Parti québécois s’engage à réduire les coûts de rémunération dans le secteur public de 2,5% sur trois ans.",
+          "published": "2026-08-31T20:45:00+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "US Open : Carlos Alcaraz réussit son grand retour",
-          "link": "https://www.lefigaro.fr/sports/tennis/us-open/us-open-carlos-alcaraz-reussit-son-grand-retour-20260831",
-          "source": "Le Figaro",
-          "summary": "Quatre mois et demi après son dernier match sur le circuit, l’Espagnol a retrouvé la victoire ce lundi face à Roman Safiullin.",
-          "published": "2026-08-31T20:33:45+00:00"
-        },
-        {
-          "title": "Retraite internationale de Messi : maudit puis béni, son parcours avec l’Argentine en images",
-          "link": "https://www.lefigaro.fr/sports/football/retraite-internationale-de-messi-maudit-puis-beni-son-parcours-avec-l-argentine-en-images-20260831",
-          "source": "Le Figaro",
-          "summary": "DIAPORAMA - Découvrez notre sélection des 10 moments les plus marquants de la carrière internationale de la Pulga.",
-          "published": "2026-08-31T20:33:30+00:00"
-        },
-        {
-          "title": "«Homme d’État», «serviteur exigeant», «il laisse un vide immense»... La classe politique rend hommage à Édouard Balladur",
-          "link": "https://www.lefigaro.fr/politique/homme-d-etat-serviteur-exigeant-il-laisse-un-vide-immense-la-classe-politique-rend-hommage-a-edouard-balladur-20260831",
-          "source": "Le Figaro",
-          "summary": "Pour Emmanuel Macron, l’ancien premier ministre décédé lundi «avait consacré sa vie à la Ve République».",
-          "published": "2026-08-31T20:31:22+00:00"
-        },
-        {
-          "title": "L’ancien premier ministre Édouard Balladur est mort à l’âge de 97 ans",
-          "link": "https://www.lefigaro.fr/politique/l-ancien-premier-ministre-edouard-balladur-est-decede-a-l-age-de-97-ans-20260831",
-          "source": "Le Figaro",
-          "summary": "DISPARITION - Dernier premier ministre de François Mitterrand, il restera dans l’histoire politique comme «l’ami de trente ans» de Jacques Chirac devenu son rival lors d’une campagne présidentielle de 1995 féroce qui…",
-          "published": "2026-08-31T20:28:01+00:00"
-        },
-        {
-          "title": "«Je vous demande de vous arrêter » : la phrase culte d’Édouard Balladur après sa défaite au premier tour de la présidentielle de 1995",
-          "link": "https://www.lefigaro.fr/politique/je-vous-demande-de-vous-arreter-la-phrase-culte-d-edouard-balladur-apres-sa-defaite-au-premier-tour-de-la-presidentielle-de-1995-20260831",
-          "source": "Le Figaro",
-          "summary": "Décédé lundi à 97 ans, l’ancien premier ministre avait vu son pari présidentiel de 1995 se briser, rattrapé au fil de la campagne par son principal concurrent, Jacques Chirac, qui l’avait finalement privé du second tour.",
-          "published": "2026-08-31T20:23:10+00:00"
-        },
-        {
-          "title": "Emmanuel Macron salue en Edouard Balladur un \"serviteur exigeant, mesuré et dévoué\" de la France",
-          "link": "https://www.franceinfo.fr/politique/emmanuel-macron-salue-en-edouard-balladur-un-serviteur-exigeant-mesure-et-devoue-pour-la-france_8171285.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'ancien Premier ministre \"avait consacré sa vie à la Ve République\", a souligné lundi soir le chef de l'Etat.",
-          "published": "2026-08-31T20:11:52+00:00"
-        },
-        {
-          "title": "L’Union européenne annonce suspendre ses importations de viande brésilienne à partir de jeudi",
-          "link": "https://www.lemonde.fr/economie/article/2026/08/31/l-union-europeenne-annonce-suspendre-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_6762819_3234.html",
+          "title": "Le secrétaire à l’armée de terre américain, Dan Driscoll, démissionne après plusieurs mois de tension avec Pete Hegseth",
+          "link": "https://www.lemonde.fr/international/article/2026/09/01/le-secretaire-a-l-armee-de-terre-americain-dan-driscoll-demissionne-apres-plusieurs-mois-de-tension-avec-pete-hegseth_6763020_3210.html",
           "source": "Le Monde",
-          "summary": "Le Brésil avait été retiré en mai d’une liste européenne des pays qui respectent les règles de l’UE qui interdisent l’utilisation abusive d’antibiotiques dans l’élevage.",
-          "published": "2026-08-31T20:04:20+00:00"
+          "summary": "Ce proche du vice-président, J. D. Vance, a notamment été impliqué dans les négociations concernant la guerre en Ukraine. Aucune raison n’a été donnée pour expliquer son départ mais ses rapports difficiles avec le…",
+          "published": "2026-08-31T23:55:00+00:00"
         },
         {
-          "title": "La guerre, nouvelle normalité du détroit d’Ormouz",
-          "link": "https://www.lemonde.fr/international/article/2026/08/31/la-guerre-nouvelle-normalite-du-detroit-d-ormouz_6762818_3210.html",
+          "title": "New York : une femme poignarde deux personnes à Times Square avant d’être blessée par balle par la police",
+          "link": "https://www.lefigaro.fr/international/new-york-une-femme-poignarde-deux-personnes-a-times-square-avant-d-etre-blessee-par-balle-par-la-police-20260901",
+          "source": "Le Figaro",
+          "summary": "La suspecte a été touchée par des tirs de la police new-yorkaise au cœur de Manhattan après avoir refusé de déposer son arme blanche. Les deux victimes et l’assaillante ont été transportées à l’hôpital, avec un…",
+          "published": "2026-08-31T23:40:10+00:00"
+        },
+        {
+          "title": "Facturation électronique : la réforme entre en vigueur mardi, sans sanction immédiate pour les retardataires",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/01/la-reforme-de-la-facture-electronique-entre-en-vigueur-mardi-sans-sanction-immediate-pour-les-retardataires_6762987_3234.html",
           "source": "Le Monde",
-          "summary": "La reprise des frappes entre les Etats-Unis et l’Iran, lundi, confirme que le conflit s’est installé durablement dans ces eaux. L’outil de dissuasion qu’était pour Téhéran le blocage de cette artère stratégique…",
-          "published": "2026-08-31T20:02:26+00:00"
+          "summary": "Promesse de simplification pour les entreprises et nouvel outil de lutte contre la fraude à la TVA pour l’Etat, qui espère un gain de 3 milliards d’euros par an, la réforme concerne 4 millions d’entreprises.",
+          "published": "2026-08-31T23:30:55+00:00"
         },
         {
-          "title": "\"Figure du gaullisme\", \"mentor\", \"grand serviteur de l'Etat\"... Les réactions politiques après la mort de l'ancien Premier ministre Edouard Balladur",
-          "link": "https://www.franceinfo.fr/politique/figure-du-gaullisme-mentor-grand-serviteur-de-l-etat-les-reactions-politiques-apres-la-mort-de-l-ancien-premier-ministre-edouard-balladur_8171225.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Cette figure de la Ve République, artisan de la cohabitation sous la présidence de François Mitterrand, est décédée lundi. De nombreux politiques lui ont rendu hommage.",
-          "published": "2026-08-31T20:00:34+00:00"
+          "title": "La Cour suprême autorise la poursuite du chantier de la salle de bal à la Maison Blanche",
+          "link": "https://www.lemonde.fr/international/article/2026/09/01/la-cour-supreme-autorise-la-poursuite-du-chantier-de-la-salle-de-bal-a-la-maison-blanche_6762954_3210.html",
+          "source": "Le Monde",
+          "summary": "Le refus de la plus haute juridiction des Etats-Unis de se prononcer sur le fond dans cette affaire et d’envisager la question des prérogatives du Congrès, la renvoyant en première instance, récompense la stratégie du…",
+          "published": "2026-08-31T23:20:05+00:00"
         },
         {
-          "title": "Mort d'Edouard Balladur : Nicolas Sarkozy salue un homme qui fut \"un exemple, un mentor et un ami\"",
-          "link": "https://www.franceinfo.fr/politique/direct-mort-d-edouard-balladur-sebastien-lecornu-rend-hommage-a-une-figure-majeure-de-notre-vie-publique_8171216.html#xtor=RSS-3-[lestitres]",
+          "title": "Agression sexuelle sur mineur à Clamart : cinq ans de prison dont un ferme, pour un ancien entraîneur du club de cyclisme",
+          "link": "https://www.lemonde.fr/societe/article/2026/09/01/agression-sexuelle-sur-mineur-a-clamart-cinq-ans-de-prison-dont-un-ferme-pour-un-ancien-entraineur-du-club-de-cyclisme_6762921_3224.html",
+          "source": "Le Monde",
+          "summary": "William Bastit, âgé aujourd’hui de 49 ans, a notamment imposé une fellation à un garçon de 13 ans en 2009, et envoyé plusieurs messages obscènes à une dizaine d’autres.",
+          "published": "2026-08-31T23:06:06+00:00"
+        },
+        {
+          "title": "En Guinée, des ONG réclament une enquête indépendante après la découverte de six corps dans une fosse commune",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/01/en-guinee-des-ong-reclament-une-enquete-independante-apres-la-decouverte-de-six-corps-dans-une-fosse-commune_6762888_3212.html",
+          "source": "Le Monde",
+          "summary": "Les six dépouilles, toutes celles d’hommes, avaient été découvertes dans une forêt de la préfecture de Forécariah, en Basse-Guinée, par des jeunes qui ramassaient du bois de chauffe.",
+          "published": "2026-08-31T22:37:21+00:00"
+        },
+        {
+          "title": "Crues au Népal et au Tibet : le bilan s'alourdit à 955 morts et 4 471 disparus",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/direct-le-bilan-de-la-crue-au-nepal-s-aggrave-a-903-morts-et-4-247-disparus-des-identifications-toujours-en-cours_8170229.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "L'ancien Premier ministre, entre 1993 et 1995, est mort, lundi, à l'âge de 97 ans, a annoncé sa famille.",
-          "published": "2026-08-31T19:59:54+00:00"
+          "summary": "Les opérations de secours se poursuivent, alors que plusieurs zones sont encore difficilement accessibles.",
+          "published": "2026-08-31T22:36:15+00:00"
+        },
+        {
+          "title": "Des investigations en cours pour savoir si une arme découverte dans le  lac d'Annecy pourrait être liée à la tuerie de Chevaline",
+          "link": "https://www.franceinfo.fr/faits-divers/meurtres/tuerie-de-chevaline/des-investigations-en-cours-pour-savoir-si-une-arme-decouverte-dans-le-lac-d-annecy-pourrait-etre-liee-a-la-tuerie-de-chevaline_8171342.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Un pistolet Luger a été remonté à la surface par des touristes britanniques qui se baignaient dans le lac d'Annecy.",
+          "published": "2026-08-31T22:35:14+00:00"
+        },
+        {
+          "title": "Donald Trump menace de bombarder \"fort\" l'Iran après la reprise des hostilités entre les deux pays",
+          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-menace-de-bombarder-fort-l-iran-apres-la-reprise-des-hostilites-entre-les-deux-pays_8171336.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les Etats-Unis ont bombardé, dimanche, deux lanceurs iraniens sur l’île de Larak. L'Iran a visé, en représailles, des cibles en Jordanie et aux Emirats arabes unis.",
+          "published": "2026-08-31T22:24:23+00:00"
+        },
+        {
+          "title": "La Cour suprême prolonge l'autorisation de construire une salle de bal à la Maison Blanche",
+          "link": "https://www.franceinfo.fr/monde/usa/la-cour-supreme-prolonge-l-autorisation-de-construire-une-salle-de-bal-a-la-maison-blanche_8171330.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Donald Trump a salué lundi cette décision de la Cour suprême, affirmant qu'elle levait la dernière menace contre ce projet.",
+          "published": "2026-08-31T22:14:39+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Outlook est en panne et des millions d’utilisateurs ne peuvent plus envoyer leurs mails",
+          "link": "https://www.clubic.com/actualite-627598-outlook-est-en-panne-et-des-millions-d-utilisateurs-ne-peuvent-plus-envoyer-leurs-mails.html",
+          "source": "Clubic",
+          "summary": "Microsoft Exchange Online et Outlook sont en panne depuis cet après-midi. De nombreux utilisateurs ne peuvent plus envoyer ni recevoir leurs messages, et le groupe teste un correctif après avoir isolé un problème…",
+          "published": "2026-08-31T21:40:00+00:00"
+        },
         {
           "title": "Pour les joueurs qui hésitaient encore, la Switch 2 descend cette nuit sous les 360€ chez AliExpress",
           "link": "https://www.clubic.com/bons-plans-627523-pour-les-joueurs-qui-hesitaient-encore-la-switch-2-descend-cette-nuit-sous-les-360-chez-aliexpress.html",
@@ -309,13 +316,6 @@
           "source": "Clubic",
           "summary": "À quelques semaines de la rentrée universitaire, beaucoup d'étudiants et de jeunes actifs cherchent à limiter les frais fixes de leur nouveau logement, à commencer par l'abonnement internet. La B&amp;YOU Pure fibre,…",
           "published": "2026-08-31T16:22:00+00:00"
-        },
-        {
-          "title": "DPE : le changement de calcul qui « guérit » 300 000 logements sans isoler un seul mur",
-          "link": "https://www.frandroid.com/survoltes/energie/3227737_dpe-le-changement-de-calcul-qui-guerit-300-000-logements-sans-isoler-un-seul-mur",
-          "source": "Frandroid",
-          "summary": "Un arrêté abaisse le coefficient de l'électricité dans le calcul du DPE au 1er janvier 2027. Des centaines de milliers de logements chauffés à l'électrique vont changer de lettre sans qu'on y touche un seul radiateur.…",
-          "published": "2026-08-31T16:08:53+00:00"
         }
       ]
     }
