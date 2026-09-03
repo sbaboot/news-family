@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-09-03T20:31:57.542747+00:00",
+  "generated_at": "2026-09-03T22:58:41.774303+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "EN DIRECT, guerre en Ukraine : une dizaine de blessés signalés à Kiev à la suite d’attaques de drones russes",
+          "link": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-une-dizaine-de-blesses-signales-a-kiev-a-la-suite-d-attaques-de-drones-russes_6760568_3210.html",
+          "source": "Le Monde",
+          "summary": "Un immeuble de neuf étages a notamment été touché dans le quartier d’Holossіїv, selon les services de secours ukrainiens, qui ont fait état de trois blessées et de 25 personnes évacuées.",
+          "published": "2026-09-03T22:27:58+00:00"
+        },
+        {
+          "title": "Tunisie : la Cour de cassation confirme les lourdes peines dans l’affaire du \"complot contre l’État\"",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260903-tunisie-la-cour-de-cassation-confirme-les-lourdes-peines-dans-l-affaire-du-complot-contre-l-%C3%A9tat",
+          "source": "France 24",
+          "summary": "La Cour de cassation tunisienne a rejeté jeudi le pourvoi dans l’affaire du \"complot contre la sûreté de l’État\", confirmant les lourdes peines prononcées en appel, en novembre 2025, contre une quarantaine de personnes,…",
+          "published": "2026-09-03T20:27:39+00:00"
+        },
         {
           "title": "Tunisie : la Cour de cassation confirme les lourdes peines dans l’affaire du \"complot contre l’État\"",
           "link": "https://www.france24.com/fr/afrique/20260903-tunisie-cour-cassation-confirme-peines-affaire-complot-s%C3%BBret%C3%A9-chebbi-saied",
@@ -59,20 +73,6 @@
           "source": "Le Monde",
           "summary": "Le gouvernement yéménite avait averti, le mois dernier, que les rebelles cherchaient à prendre position aux abords du détroit de Bab Al-Mandab. Selon une source militaire, les combats les plus intenses ont lieu entre la…",
           "published": "2026-09-03T17:51:31+00:00"
-        },
-        {
-          "title": "Football : s'estimant \"humilié\" Aubameyang ne veut plus jouer avec le Gabon",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260903-football-s-estimant-humili%C3%A9-aubameyang-se-met-en-retrait-des-panth%C3%A8res",
-          "source": "France 24",
-          "summary": "⚽🇬🇦 Pierre-Emerick Aubameyang ne veut plus jouer avec le Gabon. Le capitaine des Panthères a annoncé sa mise en retrait de l’équipe nationale, s’estimant \"humilié\" après son exclusion puis sa réintégration à la suite de…",
-          "published": "2026-09-03T17:51:22+00:00"
-        },
-        {
-          "title": "Itamar Ben Gvir, ministre israélien suprémaciste, présente un plan pour vider la bande de Gaza de ses habitants, durant la campagne des élections législatives",
-          "link": "https://www.lemonde.fr/international/article/2026/09/03/itamar-ben-gvir-ministre-israelien-supremaciste-presente-un-plan-pour-vider-la-bande-de-gaza-de-ses-habitants-durant-la-campagne-des-elections-legislatives_6765207_3210.html",
-          "source": "Le Monde",
-          "summary": "Mercredi, le ministre de la défense, Israël Katz, a aussi assuré que l’Etat hébreu était prêt à transférer les Palestiniens hors de Gaza, à condition que les Etats-Unis donnent leur accord. Le déplacement forcé d’une…",
-          "published": "2026-09-03T17:42:24+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "La Presse à la 83e Mostra de Venise | Deux agents très spéciaux",
-          "link": "https://www.lapresse.ca/cinema/2026-09-03/la-presse-a-la-83e-mostra-de-venise/deux-agents-tres-speciaux.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "John Malkovich et Sam Rockwell campent un tandem aussi décapant qu’attendrissant dans Wild Horse Nine, du dramaturge et cinéaste anglo-irlandais Martin McDonagh.",
-          "published": "2026-09-03T20:30:00+00:00"
-        },
-        {
-          "title": "Évènement gourmand | Bières, bouffe et fun au Bières &amp; saveurs de Chambly",
-          "link": "https://www.lapresse.ca/gourmand/alcools/2026-09-03/evenement-gourmand/bieres-bouffe-et-fun-au-bieres-saveurs-de-chambly.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le festival Bières &amp; saveurs de Chambly est devenu au fil des ans le plus important évènement brassicole québécois, tant au niveau de la variété de produits que l’on peut y déguster que du nombre de festivaliers qui…",
-          "published": "2026-09-03T20:00:00+00:00"
-        },
-        {
-          "title": "Malgré ses dettes envers le gouvernement | Le Collège LaSalle pourra rouvrir dès vendredi",
-          "link": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-vendredi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les étudiants et employés du Collège LaSalle peuvent pousser un soupir de soulagement : ils pourront reprendre le chemin de l’école ce vendredi. L’établissement a réussi à obtenir du Tribunal que le gouvernement…",
-          "published": "2026-09-03T19:38:09+00:00"
-        },
-        {
-          "title": "Des pédiatres tirent la sonnette d’alarme | « Faut-il être un adulte pour avoir droit à des soins de santé ? »",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/des-pediatres-tirent-la-sonnette-d-alarme/faut-il-etre-un-adulte-pour-avoir-droit-a-des-soins-de-sante.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Faut-il être un adulte pour avoir droit à des soins de santé » ? En pleine campagne électorale, c’est la question choc que posent 217 pédiatres, dans une lettre envoyée jeudi aux médias par l’Association des pédiatres…",
-          "published": "2026-09-03T19:36:14+00:00"
-        },
-        {
-          "title": "Des pancartes tristement prêtes pour la prochaine victime de féminicide",
-          "link": "https://www.ledevoir.com/actualites/societe/1006256/pancartes-tristement-pretes-prochaine-victime-feminicide",
+          "title": "Un nouveau billet de 20 $ met à l’honneur le roi Charles",
+          "link": "https://www.ledevoir.com/economie/1006400/nouveau-billet-20-met-honneur-roi-charles",
           "source": "Le Devoir",
-          "summary": "Quatorze hommes ont tué leur conjointe ou ex-conjointe depuis le début de l’année au Québec.",
-          "published": "2026-09-03T18:54:09+00:00"
+          "summary": "Son effigie remplace celle de la défunte reine Élisabeth II.",
+          "published": "2026-09-03T22:24:30+00:00"
         },
         {
-          "title": "Mondiaux de cyclisme | Un arsenal « exceptionnel » sera déployé par Urgences-Santé",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-03/mondiaux-de-cyclisme/un-arsenal-exceptionnel-sera-deploye-par-urgences-sante.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Volodymyr Zelensky devrait se rendre prochainement au Canada",
+          "link": "https://www.lapresse.ca/actualites/national/2026-09-03/volodymyr-zelensky-devrait-se-rendre-prochainement-au-canada.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Urgences-Santé déploiera un arsenal « exceptionnel » lors des Championnats mondiaux de cyclisme sur route UCI, durant lesquels 500 000 spectateurs sont attendus à Montréal du 20 au 27 septembre. Objectif : anticiper…",
-          "published": "2026-09-03T18:53:57+00:00"
+          "summary": "Le président ukrainien Volodymyr Zelensky prévoit de se rendre au Canada dès la semaine prochaine.",
+          "published": "2026-09-03T22:20:10+00:00"
         },
         {
-          "title": "Aquaplanage à Beauport: il traverse l’autoroute et s’écrase en bordure de route",
-          "link": "https://www.journaldemontreal.com/2026/09/03/aquaplanage-a-beauport-il-traverse-lautoroute-et-secrase-en-sens-inverse",
-          "source": "Journal de Montreal",
-          "summary": "Un octogénaire meurt après avoir perdu la maîtrise de son véhicule sur l’A-40, à Beauport, où il a terminé sa course en sens inverse.",
-          "published": "2026-09-03T18:52:39+00:00"
+          "title": "Québec solidaire se place à contre-courant de ses rivaux",
+          "link": "https://www.ledevoir.com/politique/quebec/1006385/quebec-solidaire-contre-courant-rivaux-politiques",
+          "source": "Le Devoir",
+          "summary": "Le parti de gauche a promis jeudi de mettre en place une taxe sur les grandes fortunes.",
+          "published": "2026-09-03T22:02:00+00:00"
         },
         {
-          "title": "Paul Leduc, légende de la lutte québécoise, 2e partie",
-          "link": "https://www.journaldemontreal.com/2026/09/03/paul-leduc-legende-de-la-lutte-quebecoise-2e-partie",
-          "source": "Journal de Montreal",
-          "summary": "Le gabarit plus modeste de Paul Leduc l’obligeait à en faire davantage pour se démarquer",
-          "published": "2026-09-03T18:51:03+00:00"
+          "title": "Québecor conserve les droits francophones de diffusion de la LNH pour 12 ans",
+          "link": "https://www.ledevoir.com/culture/medias/1006382/quebecor-conserve-droits-francophones-diffusion-lnh-12-ans",
+          "source": "Le Devoir",
+          "summary": "TVA Sports diffusera 32 matchs de la saison régulière du CH et l’entièreté des séries éliminatoires de hockey.",
+          "published": "2026-09-03T21:48:00+00:00"
         },
         {
-          "title": "Électroménagers:  jusqu’à 40 % plus cher au Québec",
-          "link": "https://www.journaldemontreal.com/2026/09/03/electromenagers--jusqua-40--plus-cher-au-quebec",
-          "source": "Journal de Montreal",
-          "summary": "Cet automne, acheter un réfrigérateur, une laveuse ou une cuisinière va coûter beaucoup plus cher au Québec qu’ailleurs au Canada.",
-          "published": "2026-09-03T18:48:48+00:00"
+          "title": "Duhaime réclame les pleins pouvoirs en matière d’immigration",
+          "link": "https://www.ledevoir.com/politique/quebec/1006376/duhaime-reclame-pleins-pouvoirs-matiere-immigration",
+          "source": "Le Devoir",
+          "summary": "Il veut que le Québec se rallie aux autres provinces conservatrices pour arracher plus de pouvoirs à Ottawa.",
+          "published": "2026-09-03T21:28:00+00:00"
         },
         {
-          "title": "Rentrée suspendue au Collège LaSalle: «On veut juste rentrer à l'école»",
-          "link": "https://www.journaldemontreal.com/2026/09/03/rentree-suspendue-au-college-lasalle-on-veut-juste-rentrer-a-lecole",
-          "source": "Journal de Montreal",
-          "summary": "Des étudiants du Collège LaSalle, dont la rentrée est suspendue depuis le début de la session, sont venus manifester leur impatience jeudi.",
-          "published": "2026-09-03T18:45:22+00:00"
+          "title": "Quatre suggestions culturelles pour la fin de semaine",
+          "link": "https://www.ledevoir.com/culture/1006322/quatre-suggestions-culturelles-fin-semaine",
+          "source": "Le Devoir",
+          "summary": "«Le Devoir» vous propose quelques sorties pour le week-end du 4 au 7 septembre.",
+          "published": "2026-09-03T21:20:00+00:00"
+        },
+        {
+          "title": "Chaque jeudi suivant un féminicide | Une « action éclair » pour dénoncer la violence envers les femmes",
+          "link": "https://www.lapresse.ca/actualites/2026-09-03/chaque-jeudi-suivant-un-feminicide/une-action-eclair-pour-denoncer-la-violence-envers-les-femmes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Ce jeudi midi, au coin de Maisonneuve et De Lorimier à Montréal, une vingtaine de personnes se sont réunies en mémoire d’Elizabeth Taqaq Kumak (aussi écrit Qumak).",
+          "published": "2026-09-03T21:19:21+00:00"
+        },
+        {
+          "title": "Entente avec Rogers | Québecor diffusera les matchs du Canadien pour 12 autres années",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-09-03/entente-avec-rogers/quebecor-diffusera-les-matchs-du-canadien-pour-12-autres-annees.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Mieux vaut tard que jamais : à moins de quatre semaines du début de sa saison 2026-2027, le Canadien de Montréal a enfin un diffuseur francophone national. Québecor a annoncé ce jeudi avoir conclu une entente d’une…",
+          "published": "2026-09-03T21:02:13+00:00"
+        },
+        {
+          "title": "Carney riposte aux accusations américaines concernant la fin des négociations commerciales",
+          "link": "https://www.ledevoir.com/politique/canada/1006316/carney-riposte-accusations-americaines-concernant-fin-negociations-commerciales",
+          "source": "Le Devoir",
+          "summary": "Le président américain, Donald Trump, a poursuivi ses attaques verbales peu après, jeudi.",
+          "published": "2026-09-03T20:52:52+00:00"
+        },
+        {
+          "title": "L’actuel El Niño est «démesuré», mais n’a pas de répercussions claires au Québec",
+          "link": "https://www.ledevoir.com/actualites/environnement/1006313/actuel-el-nino-est-demesure-consequences-quebec-ne-sont-pas-claires",
+          "source": "Le Devoir",
+          "summary": "L’Organisation météorologique mondiale a lancé de nouveaux avertissements jeudi.",
+          "published": "2026-09-03T20:49:00+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
-          "title": "Guerre au Moyen-Orient : le vice-président américain confirme une enquête sur une frappe contre un mariage en Iran, mais se dit \"sceptique\"",
-          "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-iran-attaque-a-nouveau-des-bases-militaires-americaines-au-koweit-donald-trump-menace-de-frapper-a-tout-moment_8174660.html#xtor=RSS-3-[lestitres]",
+          "title": "Présidentielle 2027 : en cas de victoire de Marine Le Pen, Sarah Knafo ne ferme pas la porte à une entrée dans un gouvernement Bardella",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/pourquoi-pas-sarah-knafo-ne-ferme-pas-la-porte-a-une-entree-dans-un-gouvernement-bardella-20260903",
+          "source": "Le Figaro",
+          "summary": "Invitée jeudi sur LCI à l’occasion de la sortie de son livre Le Casse du siècle, l’eurodéputée nationaliste reste fidèle à la ligne tracée par Éric Zemmour : celle de «l’union des droites», qu’elle appelle de ses vœux.",
+          "published": "2026-09-03T22:48:08+00:00"
+        },
+        {
+          "title": "Un objet suspect découvert près d'un poste électrique en Allemagne, deux autres sabotages ont visé des infrastructures électriques du pays en quelques jours",
+          "link": "https://www.franceinfo.fr/monde/europe/allemagne/un-objet-suspect-decouvert-pres-d-un-poste-electrique-en-allemagne-deux-autres-sabotages-ont-vise-des-infrastructures-electriques-du-pays-en-quelques-jours_8176091.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le Premier ministre israélien a assuré jeudi qu'Israël avait \"la capacité d'éliminer cette menace une fois pour toutes\".",
-          "published": "2026-09-03T20:27:44+00:00"
+          "summary": "Cette découverte survient deux jours après deux possibles attaques contre d'autres postes électriques, derniers actes de sabotage présumés visant les infrastructures critiques du pays.",
+          "published": "2026-09-03T22:37:33+00:00"
         },
         {
-          "title": "EN DIRECT - Toulouse-Lille : mal payé, le TFC punit par des Nordistes sans pitié",
-          "link": "https://www.lefigaro.fr/sports/football/live/ligue-1/2026/2640584/toulouse-lille",
-          "source": "Le Figaro",
-          "summary": "En match avancé de la 3e journée de Ligue 1 jeudi soir, le LOSC d’Olivier Giroud et d’Ethan Mbappé se déplace au Stadium de Toulouse avec l’ambition de prendre provisoirement la tête du championnat.",
-          "published": "2026-09-03T20:22:03+00:00"
-        },
-        {
-          "title": "Le journal \"Sud Ouest\" en passe d'être racheté  d'\"ici la fin de l'année\" par le groupe Rossel, propriétaire de \"la Voix du Nord\"",
-          "link": "https://www.franceinfo.fr/economie/medias/le-journal-sud-ouest-en-passe-d-etre-rachete-d-ici-la-fin-de-l-annee-par-le-groupe-rossel-proprietaire-de-la-voix-du-nord_8176034.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'entrée en négociations est \"une décision lourde\" prise \"à l'unanimité\" de la cinquantaine d'actionnaires, avec \"beaucoup d'émotion\", a déclaré à l'AFP Tristan Lemoîne, vice-président du conseil d'administration de…",
-          "published": "2026-09-03T20:16:45+00:00"
-        },
-        {
-          "title": "«Campagne de dénigrement» : La guerre entre la FIFA et l’UEFA s’intensifie autour du projet d’investissements privés",
-          "link": "https://www.lefigaro.fr/sports/football/campagne-de-denigrement-la-guerre-entre-la-fifa-et-l-uefa-s-intensifie-autour-du-projet-d-investissements-prives-20260903",
-          "source": "Le Figaro",
-          "summary": "La Fifa et l’UEFA s’affrontent désormais sur le terrain judiciaire après l’abandon du projet controversé d’ouverture de la Coupe du monde à des investisseurs privés.",
-          "published": "2026-09-03T20:12:32+00:00"
-        },
-        {
-          "title": "Nommée présidente de RTE, l’ex-secrétaire générale adjointe de l’Elysée n’a pas le droit d’entrer en contact avec Lecornu et ses ministres",
-          "link": "https://www.liberation.fr/politique/nommee-presidente-de-rte-lex-secretaire-generale-adjointe-de-lelysee-na-pas-le-droit-dentrer-en-contact-avec-lecornu-et-ses-ministres-20260903_ZMX7N65YDZAYND2AYAM36OJND4/",
-          "source": "Liberation",
-          "summary": "Selon une décision rendue le 10 mars par la Haute autorité pour la transparence de la vie publique, Emilie Piette, passée par la présidence entre 2023 et 2026, ne pourra échanger avec les membres du gouvernement que…",
-          "published": "2026-09-03T20:10:35+00:00"
-        },
-        {
-          "title": "«Je n'appellerais pas ça une guerre» : JD Vance minimise le conflit avec l’Iran",
-          "link": "https://www.lefigaro.fr/flash-actu/je-n-appellerais-pas-ca-une-guerre-jd-vance-minimise-le-conflit-avec-l-iran-20260903",
-          "source": "Le Figaro",
-          "summary": "«En ce moment, il n’y a pas d’échange de tirs», a argué le vice-président pendant une conférence de presse à la Maison-Blanche, affirmant que le passage dans le détroit d’Ormuz était «presque» revenu à la normale.",
-          "published": "2026-09-03T20:06:21+00:00"
-        },
-        {
-          "title": "Un interne en médecine qui avait fait avorter sa compagne à son insu condamné à deux ans de prison ferme",
-          "link": "https://www.lefigaro.fr/flash-actu/un-interne-en-medecine-qui-avait-fait-avorter-sa-compagne-a-son-insu-condamne-a-deux-ans-de-prison-ferme-20260903",
-          "source": "Le Figaro",
-          "summary": "L’homme, âgé de 36 ans, a également l’interdiction définitive d’exercer la profession de médecin et l’interdiction d’exercer toute activité de nature médicale ou paramédicale pendant une durée de cinq ans.",
-          "published": "2026-09-03T20:02:35+00:00"
-        },
-        {
-          "title": "Le conseil de surveillance de Volkswagen approuve un plan de restructuration prévoyant la suppression de 50 000 postes",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/03/le-conseil-de-surveillance-de-volkswagen-approuve-un-plan-de-restructuration-prevoyant-la-suppression-de-50-000-postes_6765221_3234.html",
+          "title": "EN DIRECT, guerre en Ukraine : une dizaine de blessés signalés à Kiev à la suite d’attaques de drones russes",
+          "link": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-une-dizaine-de-blesses-signales-a-kiev-a-la-suite-d-attaques-de-drones-russes_6760568_3210.html",
           "source": "Le Monde",
-          "summary": "Le constructeur allemand estime qu’une « adaptation conséquente des capacités de personnel à la réalité économique est indispensable », en raison de la pression concurrentielle mondiale croissante, des mutations de la…",
-          "published": "2026-09-03T19:48:30+00:00"
+          "summary": "Un immeuble de neuf étages a notamment été touché dans le quartier d’Holossіїv, selon les services de secours ukrainiens, qui ont fait état de trois blessées et de 25 personnes évacuées.",
+          "published": "2026-09-03T22:27:58+00:00"
         },
         {
-          "title": "La FFF refuse l'intégration en National 2 des Girondins de Bordeaux, qui restent en régional",
-          "link": "https://www.franceinfo.fr/sports/foot/la-fff-refuse-l-integration-en-national-2-des-girondins-de-bordeaux-qui-restent-en-regional_8176022.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Mercredi, la ministre des Sports avait adressé un courrier au président de la Fédération française de football, l'enjoignant à convoquer un comité exécutif extraordinaire pour pour rouvrir le dossier Girondins de…",
-          "published": "2026-09-03T19:44:02+00:00"
+          "title": "Mentir et tricher, «bombe sale» et projets terroristes : ces inquiétantes expériences d’Anthropic sur ces IA qui s’affranchissent de toutes les règles",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/mentir-et-tricher-bombe-sale-et-projets-terroristes-ces-inquietantes-experiences-d-anthropic-sur-ces-ia-qui-s-affranchissent-de-toutes-les-regles-20260904",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - La firme de Dario Amodei a soumis un puissant modèle d’IA à des tests pour savoir jusqu’où il pouvait aller pour «maximiser» ses résultats.",
+          "published": "2026-09-03T22:01:15+00:00"
         },
         {
-          "title": "Le maire de Fameck, en Moselle, à nouveau menacé de mort, deux démineurs blessés après avoir examiné une lettre contenant de la poudre",
-          "link": "https://www.franceinfo.fr/faits-divers/le-maire-de-fameck-en-moselle-a-nouveau-menace-de-mort-deux-demineurs-blesses-apres-avoir-examine-une-lettre-contenant-de-la-poudre_8176013.html#xtor=RSS-3-[lestitres]",
+          "title": "Procès Lindsay Clancy : la défense demande le retrait d'un juré qui empêcherait le jury d’aboutir à un verdict",
+          "link": "https://www.lefigaro.fr/flash-actu/proces-lindsay-clancy-la-defense-demande-le-retrait-d-un-jure-qui-empecherait-le-jury-d-aboutir-a-un-verdict-20260903",
+          "source": "Le Figaro",
+          "summary": "Jugée aux États-Unis, l’accusée encourt la prison à vie pour le meurtre par strangulation de ses enfants de cinq ans, trois ans et huit mois.",
+          "published": "2026-09-03T21:59:46+00:00"
+        },
+        {
+          "title": "Le constructeur automobile Volkswagen confirme une nouvelle vague de 50 000 licenciements dans le monde",
+          "link": "https://www.franceinfo.fr/economie/le-constructeur-automobile-volkswagen-confirme-une-nouvelle-vague-de-50-000-licenciements-dans-le-monde_8176070.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Cette lettre anonyme accusait l'élu d'être un \"fondamentaliste qui soutient l'islam radical\". Michel Liebgott dit \"en avoir marre. C'est usant, pour mes collaborateurs, ma famille, mes enfants et petits-enfants\".",
-          "published": "2026-09-03T19:37:42+00:00"
+          "summary": "Le premier constructeur européen avait déjà annoncé entre 2024 et 2026 vouloir supprimer 50 000 emplois en Allemagne d'ici 2030.",
+          "published": "2026-09-03T21:44:52+00:00"
+        },
+        {
+          "title": "Le gouvernement envisage de relever le plafond du Livret A à 30.000 euros pour financer l’adaptation au climat",
+          "link": "https://www.lefigaro.fr/conjoncture/apres-l-ete-le-plus-chaud-jamais-enregistre-le-gouvernement-envisage-de-relever-le-plafond-du-livret-a-a-30-000-euros-20260903",
+          "source": "Le Figaro",
+          "summary": "Après un été marqué par des températures record, trois vagues de chaleur et des incendies dévastateurs, le gouvernement cherche des marges de financement pour «accélérer» les travaux nécessaires face au réchauffement…",
+          "published": "2026-09-03T21:20:22+00:00"
+        },
+        {
+          "title": "L'ancien maire de Chateaudun Fabien Verdier candidat à la primaire de la gauche pour porter la voix des \"sous-préfectures\"",
+          "link": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-maire-de-chateaudun-fabien-verdier-candidat-a-la-primaire-de-la-gauche-pour-porter-la-voix-des-sous-prefectures_8176064.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Il sera le sixième candidat à la primaire s'il obtient les parrainages nécessaires. Déjà candidat à la primaire du PS de 2016, ce directeur d'hôpital n'avait pas recueilli le nombre de signatures suffisants.",
+          "published": "2026-09-03T21:18:28+00:00"
+        },
+        {
+          "title": "EN DIRECT - «Notre Constitution est notre bien le plus précieux» : Yaël Braun-Pivet dénonce la proposition de réforme de Bruno Retailleau",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-wauquiez-appelle-la-droite-a-un-devoir-d-inventaire-avec-macron-ruffin-et-villepin-testent-leurs-convergences-20260903",
+          "source": "Le Figaro",
+          "summary": "La présidente de l’Assemblée nationale s’est dite jeudi «en total désaccord» avec le candidat LR à la présidentielle, qui a annoncé vouloir créer une «nouvelle procédure» pour que le peuple français ait «le dernier mot»…",
+          "published": "2026-09-03T21:17:03+00:00"
+        },
+        {
+          "title": "Allemagne : un objet suspect découvert près d'un poste électrique après deux attentats présumés",
+          "link": "https://www.lefigaro.fr/international/allemagne-un-objet-suspect-decouvert-pres-d-un-poste-electrique-apres-deux-attentats-presumes-20260903",
+          "source": "Le Figaro",
+          "summary": "L’objet n’a provoqué aucun dégât et a été «sécurisé», a indiqué la police pour qui son éventuelle capacité de nuisance reste encore à établir.",
+          "published": "2026-09-03T21:10:19+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "15 heures de jeu par mois : Xbox réduit grandement l’offre de cloud gaming pour ses abonnés du Game Pass",
+          "link": "https://www.frandroid.com/produits-android/3233093_15-heures-de-jeu-par-mois-xbox-reduit-grandement-loffre-de-cloud-gaming-pour-ses-abonnes-du-game-pass",
+          "source": "Frandroid",
+          "summary": "Xbox réduit drastiquement son offre de cloud gaming sur le Game Pass. Désormais, selon votre abonnement, le temps de cloud gaming mensuel sera plafonné. Pour jouer en illimité, il faudra passer à la caisse.",
+          "published": "2026-09-03T20:49:30+00:00"
+        },
         {
           "title": "Philips Hue lâche le câble HDMI : une caméra synchronise enfin vos lumières avec n’importe quelle source",
           "link": "https://www.frandroid.com/marques/philips/3233071_philips-hue-lache-le-cable-hdmi-une-camera-synchronise-enfin-vos-lumieres-avec-nimporte-quelle-source",
@@ -308,13 +315,6 @@
           "link": "https://www.numerama.com/tech/2324505-the-frame-pro-de-samsung-ce-televiseur-qui-se-fait-passer-pour-un-tableau-perd-150-e.html",
           "source": "Numerama",
           "summary": "[Deal du jour] Le Samsung The Frame Pro 65 pouces, ce téléviseur qui se fait passer pour un tableau lorsqu'il est en veille, passe à 1 049 € chez Joybuy, contre 1 199,99 € habituellement, et 1 990 € à sa sortie.",
-          "published": "2026-09-03T16:45:00+00:00"
-        },
-        {
-          "title": "Face à l'empilement des abonnements mensuels, CyberGhost passe à 2,19€/mois pour 26 mois",
-          "link": "https://www.clubic.com/bons-plans-628039-face-a-l-empilement-des-abonnements-mensuels-cyberghost-passe-a-2-19-mois-pour-26-mois.html",
-          "source": "Clubic",
-          "summary": "La rentrée est le moment où l'on repasse en revue ses abonnements numériques, et le VPN figure souvent parmi les lignes que l'on hésite à conserver. CyberGhost ramène sa formule longue durée à 2,19 € par mois : voici ce…",
           "published": "2026-09-03T16:45:00+00:00"
         }
       ]
