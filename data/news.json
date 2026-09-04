@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-09-04T15:47:43.440811+00:00",
+  "generated_at": "2026-09-04T20:18:26.818747+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Cinq pays européens s’entendent sur la mise en place de « hubs de retour » pour demandeurs d’asile déboutés",
-          "link": "https://www.lemonde.fr/international/article/2026/09/04/cinq-pays-europeens-s-entendent-sur-la-mise-en-place-de-hubs-de-retour-pour-demandeurs-d-asile-deboutes_6765761_3211.html",
-          "source": "Le Monde",
-          "summary": "Le Danemark, l’Autriche, l’Allemagne, les Pays-Bas et la Grèce espèrent parvenir, au début de l’année prochaine, à un accord de principe avec un pays tiers hors de l’Union européenne pour la création d’un « hub de…",
-          "published": "2026-09-04T15:42:21+00:00"
-        },
-        {
-          "title": "Opération \"Mur de fer\" en Cisjordanie : l'ONU évoque crime contre l'humanité et nettoyage ethnique",
-          "link": "https://www.france24.com/fr/moyen-orient/20260904-op%C3%A9ration-mur-de-fer-cisjordanie-occup%C3%A9e-onu-%C3%A9voque-crime-contre-humanit%C3%A9-nettoyage-ethnique",
+          "title": "L'Afrique, l'Amérique latine et l'Asie du Sud agrandies dans la cartographie promue par l'ONU",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260904-cartographie-afrique-am%C3%A9rique-latine-asie-sud-agrandies-onu-assembl%C3%A9e-g%C3%A9n%C3%A9rale",
           "source": "France 24",
-          "summary": "Le Haut-commissariat de l'ONU aux droits humains a accusé vendredi Israël d'avoir déplacé de force plus de 33 000 Palestiniens de trois camps en Cisjordanie occupée début 2025. Les actions entreprises par Israël dans le…",
-          "published": "2026-09-04T15:34:10+00:00"
+          "summary": "L'Assemble générale de l'ONU a adopté vendredi une résolution pour encourager les organisations internationales et les États à utiliser des représentations cartographiques mondiales plus conformes à la réalité, en…",
+          "published": "2026-09-04T19:50:51+00:00"
         },
         {
-          "title": "Kiev : les images du siège du service de sécurité ukrainien après la frappe de drone russe",
-          "link": "https://www.lemonde.fr/international/video/2026/09/04/kiev-les-images-du-siege-du-service-de-securite-ukrainien-apres-la-frappe-de-drone-russe_6765822_3210.html",
+          "title": "La NASA a-t-elle découvert que la Terre était difforme ?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260904-la-nasa-a-t-elle-d%C3%A9couvert-que-la-terre-%C3%A9tait-difforme",
+          "source": "France 24",
+          "summary": "C'est une image diffusée par la NASA qui a interpellé beaucoup d'internautes ces dernières semaines : celle d'une Terre cabossée, difforme, censée pourtant représenter la véritable silhouette de notre planète. Mais…",
+          "published": "2026-09-04T19:44:45+00:00"
+        },
+        {
+          "title": "Visite du pape : le préfet de police de Paris détaille le dispositif de sécurité",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/visite-du-pape-le-prefet-de-police-de-paris-detaille-le-dispositif-de-securite_6765863_3210.html",
           "source": "Le Monde",
-          "summary": "Le drone visait « directement le bureau du chef du SBU » dans le bâtiment, selon Volodymyr Zelensky.",
-          "published": "2026-09-04T15:34:05+00:00"
+          "summary": "Quatorze mille policiers, gendarmes et militaires de l’opération « Sentinelle » seront mobilisés le premier jour et 12 000 le lendemain, selon Patrice Faure, qui promet d’assurer une sécurité maximale tout en minimisant…",
+          "published": "2026-09-04T19:26:20+00:00"
         },
         {
-          "title": "Quand la Russie invite des enfants européens en colonie de vacances",
-          "link": "https://www.rfi.fr/fr/podcasts/le-grand-entretien-du-soir/20260904-quand-la-russie-invite-des-enfants-europ%C3%A9ens-en-colonie-de-vacances",
+          "title": "Guerre en Ukraine, regain de tensions Iran/ USA, Rentrée politique en France",
+          "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260904-guerre-en-ukraine-regain-de-tensions-iran-usa-rentr%C3%A9e-politique-en-france",
+          "source": "France 24",
+          "summary": "Au sommaire: les frappes russes qui se poursuivent sur l'Ukraine, et notamment sur Kiev, à quelques heures de la visite d'émissaires américains dans les deux pays; regain de tensions aussi cette semaine autour du…",
+          "published": "2026-09-04T19:24:56+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan « visant à mettre fin à la guerre »",
+          "link": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-kiev-prepare-une-riposte-a-l-attaque-russe-contre-le-siege-de-son-service-de-securite-annonce-volodymyr-zelensky_6760568_3210.html",
+          "source": "Le Monde",
+          "summary": "Un drone russe a frappé vendredi après-midi le siège du service de sécurité d’Ukraine, dans le centre de Kiev. Une « escalade majeure », selon la diplomatie ukrainienne. Volodymyr Zelensky a annoncé la préparation d’une…",
+          "published": "2026-09-04T18:42:09+00:00"
+        },
+        {
+          "title": "Un bombardement israélien fait deux morts dans le sud du Liban",
+          "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/04/un-bombardement-israelien-fait-deux-morts-dans-le-sud-du-liban_6765860_6325529.html",
+          "source": "Le Monde",
+          "summary": "Deux jeunes hommes ont été « pris pour cible alors qu’ils circulaient à moto » à Nabatiyé, non loin de la colline d’Ali-Taher, dont l’armée israélienne affirme avoir pris le contrôle.",
+          "published": "2026-09-04T18:34:57+00:00"
+        },
+        {
+          "title": "Les chiffres de l’emploi aux Etats-Unis supérieurs aux prévisions ouvrent la voie à une hausse des taux",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/04/les-chiffres-de-l-emploi-americain-superieurs-aux-previsions-ouvrent-la-voie-a-une-hausse-des-taux_6765859_3234.html",
+          "source": "Le Monde",
+          "summary": "L’économie des Etats-Unis a créé trois fois plus d’emplois qu’attendu en août selon les statistiques mensuelles du marché du travail et le taux de chômage est stable à 4,1 %. Ces chiffres pourraient justifier une hausse…",
+          "published": "2026-09-04T18:28:50+00:00"
+        },
+        {
+          "title": "Au Niger, la disparition du journaliste Moussa Kaka provoque de vives inquiétudes",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/04/au-niger-la-disparition-du-journaliste-moussa-kaka-provoque-de-vives-inquietudes_6765858_3212.html",
+          "source": "Le Monde",
+          "summary": "Le directeur de la Radio-Télévision Saraounia, ancien correspondant de l’ONG Reporters sans frontières et de Radio France Internationale, n’a pas été vu depuis lundi 31 août. Une disparition qui intervient deux jours…",
+          "published": "2026-09-04T18:27:07+00:00"
+        },
+        {
+          "title": "Le « virus invisible » de la désinformation en Afrique : quelle est l’ampleur de l’épidémie, comment la combattre ?",
+          "link": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox/20260904-le-virus-invisible-de-la-d%C3%A9sinformation-en-afrique-quelle-est-l-ampleur-de-l-%C3%A9pid%C3%A9mie-comment-la-combattre",
           "source": "RFI",
-          "summary": "Tetiana Pryimachuk journaliste et réalisatrice ukrainienne de « Vacances en propagande, quand la Russie invite des enfants européens en colonie » diffusé la semaine prochaine sur Arte. Avant cela, il y a eu « Ukraine,…",
-          "published": "2026-09-04T15:29:20+00:00"
+          "summary": "La désinformation prospère tout particulièrement en Afrique ces dernières années. Les symptômes ? Ces hyper trucages vidéo, les logos de médias sérieux usurpés, les photos sorties de leur contexte, derrière lesquels on…",
+          "published": "2026-09-04T18:05:06+00:00"
         },
         {
-          "title": "Bientôt un monde sans eau ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A9tats/20260904-bient%C3%B4t-un-monde-sans-eau",
-          "source": "France 24",
-          "summary": "L'été dominé par les mégafeux dans l'hémisphère nord nous montre à nouveau l'importance cruciale de l'eau, une ressource plus que jamais menacée par les épisodes de sécheresse et de canicule qui sont appelés à…",
-          "published": "2026-09-04T15:29:11+00:00"
-        },
-        {
-          "title": "Entre le Royaume-Uni et l'Argentine, le match sans fin autour des îles Malouines",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260904-entre-le-royaume-uni-et-l-argentine-le-match-sans-fin-autour-des-%C3%AEles-malouines",
-          "source": "France 24",
-          "summary": "En difficulté dans les sondages, le président argentin Javier Milei a remis jeudi sur la table la revendication historique des îles Malouines, théâtre d'un conflit bref mais meurtrier en 1982 avec l'Angleterre.…",
-          "published": "2026-09-04T15:28:21+00:00"
-        },
-        {
-          "title": "Palestiniens déplacés en Cisjordanie : l’agence de l’ONU pour les droits humains évoque « crime contre l’humanité » et « nettoyage ethnique » commis par Israël",
-          "link": "https://www.lemonde.fr/international/article/2026/09/04/palestiniens-deplaces-en-cisjordanie-l-agence-de-l-onu-pour-les-droits-humains-evoque-crime-contre-l-humanite-et-nettoyage-ethnique-commis-par-israel_6765816_3210.html",
+          "title": "En Suède, des connexions prorusses qui embarrassent l’extrême droite",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/en-suede-des-connexions-prorusses-qui-embarrassent-l-extreme-droite_6765854_3210.html",
           "source": "Le Monde",
-          "summary": "Les forces de sécurité israéliennes ont déplacé de force l’ensemble de la population palestinienne de trois des 19 camps de réfugiés en Cisjordanie entre janvier et février 2025 et continuent d’empêcher son retour,…",
-          "published": "2026-09-04T15:14:16+00:00"
-        },
-        {
-          "title": "🔴 Le siège des services de sécurité ukrainiens frappé par un drone russe dans le centre de Kiev",
-          "link": "https://www.france24.com/fr/europe/20260904-si%C3%A8ge-services-s%C3%A9curit%C3%A9-ukrainiens-frapp%C3%A9-drone-russe-centre-kiev",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-09-04T15:07:50+00:00"
-        },
-        {
-          "title": "L'inquiétude des piroguiers à la frontière brésilienne",
-          "link": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20260904-l-inqui%C3%A9tude-des-piroguiers-%C3%A0-la-fronti%C3%A8re-br%C3%A9silienne",
-          "source": "France 24",
-          "summary": "Depuis un mois, les ressortissants brésiliens peuvent entrer en Guyane sans visa pour des séjours de moins de 30 jours. De l'autre côté du fleuve Oyapock, les piroguiers sont inquiets, car pour bon nombre, l'exemption…",
-          "published": "2026-09-04T15:04:02+00:00"
-        },
-        {
-          "title": "« Nous sommes sur une pente glissante » : les discours xénophobes gagnent du terrain au Sénégal",
-          "link": "https://www.lemonde.fr/international/article/2026/09/04/nous-sommes-sur-une-pente-glissante-les-discours-xenophobes-gagnent-du-terrain-au-senegal_6765810_3210.html",
-          "source": "Le Monde",
-          "summary": "Des attaques et intimidations visant les commerçants guinéens se multiplient depuis le mois de juillet au Sénégal, encouragées par le député nationaliste Tahirou Sarr et un influenceur affilié à son parti. Une campagne,…",
-          "published": "2026-09-04T15:00:14+00:00"
+          "summary": "La compagne d’un haut responsable des Démocrates de Suède, employée au Parlement à Stockholm, est accusée d’avoir fait de la désinformation au profit de la Russie. Un scandale qui secoue l’alliance au pouvoir avant les…",
+          "published": "2026-09-04T18:00:09+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "« Filet social pour artistes » | Québec solidaire ajouterait un demi-milliard en culture",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/filet-social-pour-artistes/quebec-solidaire-ajouterait-un-demi-milliard-en-culture.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Votre regard sur l’actualité",
+          "link": "https://www.lapresse.ca/dialogue/courrier-des-lecteurs/2026-09-04/votre-regard-sur-l-actualite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Doubler le financement au Conseil des arts et lettres du Québec (CALQ). Même chose pour la SODEC. Puis, un projet pilote de « filet social pour artistes » dans la Capitale-Nationale. Les solidaires ont proposé, vendredi…",
-          "published": "2026-09-04T15:21:27+00:00"
+          "summary": "Vous êtes nombreux à réagir aux textes que nous publions. Voici un éventail de commentaires que vous nous avez fait parvenir ces derniers jours.",
+          "published": "2026-09-04T20:00:00+00:00"
         },
         {
-          "title": "QS veut doubler le budget du soutien en création artistique et un filet social pour les artistes",
-          "link": "https://www.ledevoir.com/politique/quebec/1006577/qs-veut-doubler-budget-soutien-creation-artistique-filet-social-artistes",
+          "title": "Tarifs sur les meubles et électroménagers américains: le détaillant JC Perreault refuse de refiler la facture à ses clients",
+          "link": "https://www.journaldemontreal.com/2026/09/04/tarifs-sur-les-meubles-et-electromenagers-americains-le-detaillant-jc-perreault-refuse-de-refiler-la-facture-a-ses-clients",
+          "source": "Journal de Montreal",
+          "summary": "Le temps presse pour un détaillant québécois de meubles et d’électroménagers.",
+          "published": "2026-09-04T19:53:20+00:00"
+        },
+        {
+          "title": "«Une situation exceptionnelle»: voici ce qui pourrait se passer après l’annulation du procès de Lindsay Clancy",
+          "link": "https://www.journaldemontreal.com/2026/09/04/une-situation-exceptionnelle-voici-ce-qui-pourrait-se-passer-apres-lannulation-du-proces-de-lindsay-clancy",
+          "source": "Journal de Montreal",
+          "summary": "Le procès d’une mère pour le meurtre des trois enfants a été annulé, vendredi, puisque les jurés ne se sont pas entendus sur un verdict.",
+          "published": "2026-09-04T19:53:01+00:00"
+        },
+        {
+          "title": "Deux ouvriers «miraculés» sortis vivants d’un tunnel hydroélectrique au Népal",
+          "link": "https://www.ledevoir.com/monde/asie/1006541/deux-ouvriers-miracules-sortis-vivants-tunnel-hydroelectrique-nepal",
           "source": "Le Devoir",
-          "summary": "La facture pour ces mesures atteindrait 510 millions de dollars par année.",
-          "published": "2026-09-04T15:01:43+00:00"
+          "summary": "Le bilan de la catastrophe est maintenant de 1325 morts et près de 5600 disparus au Népal et au Tibet.",
+          "published": "2026-09-04T19:51:20+00:00"
         },
         {
-          "title": "Fréchette doute que l’indépendance soit viable financièrement",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/frechette-doute-que-l-independance-soit-viable-financierement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Il bat sa victime à coups de marteau et fonce dans un bâtiment en s’enfuyant",
+          "link": "https://www.journaldemontreal.com/2026/09/04/il-bat-sa-victime-a-coups-de-marteau-et-fonce-dans-un-batiment-en-senfuyant",
+          "source": "Journal de Montreal",
+          "summary": "Un homme a été battu à coups de marteau vendredi midi dans un parc du quartier Pointe-Saint-Charles, à Montréal.",
+          "published": "2026-09-04T19:49:57+00:00"
+        },
+        {
+          "title": "Radio-Canada accorde 14,5 % de hausses salariales dans une industrie en mode compressions",
+          "link": "https://www.journaldemontreal.com/2026/09/04/radio-canada-accorde-145--de-hausses-salariales-dans-une-industrie-en-mode-compressions",
+          "source": "Journal de Montreal",
+          "summary": "Le syndicat a signé une entente de principe avec la direction dans la nuit de jeudi à vendredi",
+          "published": "2026-09-04T19:41:51+00:00"
+        },
+        {
+          "title": "Plus d’un Québécois sur deux a été affecté par la crise climatique en 2026",
+          "link": "https://www.ledevoir.com/actualites/environnement/1006673/plus-quebecois-deux-ete-affecte-crise-climatique-2026",
+          "source": "Le Devoir",
+          "summary": "Notre adaptation au dérèglement du climat accuse de sérieux retards, préviennent des experts.",
+          "published": "2026-09-04T19:38:30+00:00"
+        },
+        {
+          "title": "« Convergence de vues » entre Trump et St-Pierre Plamondon, dit Fréchette",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/convergence-de-vues-entre-trump-et-st-pierre-plamondon-dit-frechette.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Jean Charest, Philippe Couillard et François Legault l’ont déjà reconnu : un Québec souverain serait viable financièrement, malgré les perturbations. Christine Fréchette, elle, en doute.",
-          "published": "2026-09-04T14:52:53+00:00"
+          "summary": "Christine Fréchette hausse le ton contre Paul St-Pierre Plamondon. Il y a selon elle « convergence de vues » entre le chef péquiste et le président américain Donald Trump.",
+          "published": "2026-09-04T19:36:55+00:00"
         },
         {
-          "title": "PSPP inquiet d’être face à «la plus grande ingérence du fédéral» depuis 1995",
-          "link": "https://www.ledevoir.com/politique/quebec/1006574/pspp-inquiet-etre-face-plus-grande-ingerence-federal-depuis-1995",
-          "source": "Le Devoir",
-          "summary": "Il demande au DGEQ de se pencher sur l’organisme fédéraliste Mission Leadership Québec, qui a un contrat avec la CAQ.",
-          "published": "2026-09-04T14:48:00+00:00"
+          "title": "« Affaiblir le Canada »: Fréchette constate une « convergence de vues » entre PSPP et Trump",
+          "link": "https://www.journaldemontreal.com/2026/09/04/affaiblir-le-canada--frechette-constate-une--convergence-de-vues--entre-pspp-et-trump",
+          "source": "Journal de Montreal",
+          "summary": "Christine Fréchette constate une « convergence de vues » entre Paul St-Pierre Plamondon et Donald Trump pour affaiblir le Canada.",
+          "published": "2026-09-04T19:33:47+00:00"
         },
         {
-          "title": "Fréchette blâme Trump pour les pertes d’emplois au Québec",
-          "link": "https://www.ledevoir.com/politique/quebec/1006571/frechette-blame-trump-pertes-emplois-quebec",
-          "source": "Le Devoir",
-          "summary": "Le Québec a perdu 19 000 emplois au mois d’août, révélait Statistique Canada en matinée.",
-          "published": "2026-09-04T14:43:17+00:00"
-        },
-        {
-          "title": "Relation Québec-Ottawa | « La plus grande ingérence du fédéral » depuis 1995, s’inquiète Paul St-Pierre Plamondon",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/relation-quebec-ottawa/la-plus-grande-ingerence-du-federal-depuis-1995-s-inquiete-paul-st-pierre-plamondon.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Christine Fréchette et Mark Carney orchestrent « la plus grande ingérence du fédéral dans nos affaires et notre élection » depuis le référendum de 1995, s’inquiète Paul St-Pierre Plamondon. Il dénonce un « love-in » au…",
-          "published": "2026-09-04T14:38:52+00:00"
-        },
-        {
-          "title": "Profits en baisse pour Hydro-Québec",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-09-04/profits-en-baisse-pour-hydro-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Malgré des ventes d’électricité record au Québec, Hydro-Québec rapporte un bénéfice net en baisse de 257 millions pour les six premiers mois de l’année.",
-          "published": "2026-09-04T14:19:21+00:00"
-        },
-        {
-          "title": "Les conservateurs veulent un troisième lien imparfait pour arrêter de «tourner en rond»",
-          "link": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
-          "source": "Le Devoir",
-          "summary": "Le Parti conservateur propose un pont à haubans de trois voies entre la rive sud du fleuve et l’île d’Orléans.",
-          "published": "2026-09-04T14:16:00+00:00"
-        },
-        {
-          "title": "Notre sélection polar  de septembre",
-          "link": "https://www.ledevoir.com/lire/1006295/notre-selection-polar-mois-septembre",
-          "source": "Le Devoir",
-          "summary": "Les choix de Michel Bélair et de Sonia Sarfati",
-          "published": "2026-09-04T13:33:00+00:00"
-        },
-        {
-          "title": "Le fil électoral | Fréchette blâme Trump pour les pertes d’emplois au Québec",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/le-fil-electoral/frechette-blame-trump-pour-les-pertes-d-emplois-au-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Bienvenue dans Le fil électoral de La Presse ! Retrouvez tout ce qu’il faut savoir sur la campagne en direct : actualités de dernière heure, explications, contexte, bruits de coulisses et plus encore…",
-          "published": "2026-09-04T13:18:44+00:00"
+          "title": "Faillite de Stéphan Huot : 1,3 M$ réclamés au fraudeur Denis Vallée",
+          "link": "https://www.journaldemontreal.com/2026/09/04/faillite-de-stephan-huot--13-m-reclames-au-fraudeur-denis-vallee",
+          "source": "Journal de Montreal",
+          "summary": "Le syndic qui gère la faillite de Stéphan Huot réclame 1,3 M$ au fraudeur Denis Vallée, qui serait parti avec la luxueuse cave à vin du promoteur",
+          "published": "2026-09-04T19:30:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Finistère : une femme tuée dans la rue par un forcené à Plourin-les-Morlaix, un quartier bouclé",
-          "link": "https://www.lefigaro.fr/faits-divers/finistere-une-femme-tuee-dans-la-rue-par-un-forcene-20260904",
+          "title": "PSG : Luis Enrique prolonge jusqu’en 2030, Pacho, Neves et Ruiz rempilent aussi",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/psg-luis-enrique-prolonge-pacho-neves-et-ruiz-aussi-20260904",
           "source": "Le Figaro",
-          "summary": "50 gendarmes sont actuellement mobilisés sur le terrain. Une enquête pour meurtre et tentative de meurtre a été ouverte.",
-          "published": "2026-09-04T15:43:02+00:00"
+          "summary": "Le club de la capitale annonce une salve de prolongations ce vendredi, avant d’affronter l’AS Monaco, au Parc des Princes, lors de la troisième journée de Ligue 1.",
+          "published": "2026-09-04T20:15:37+00:00"
         },
         {
-          "title": "Finistère : une femme tuée par un forcené dans la rue",
-          "link": "https://www.liberation.fr/societe/police-justice/finistere-une-femme-tuee-par-un-forcene-dans-la-rue-20260904_UR3E47S5QJHFXL32SHJ22R7K7Q/",
-          "source": "Liberation",
-          "summary": "Selon la préfecture, une opération est «actuellement en cours» à Plourin-Lès-Morlaix, une commune d’environ 5 000 habitants, où un homme est «retranché dans un immeuble».",
-          "published": "2026-09-04T15:42:48+00:00"
+          "title": "Mexique : un député retrouvé mort par arme à feu dans l’un des états les plus violents du pays",
+          "link": "https://www.lefigaro.fr/flash-actu/mexique-un-depute-retrouve-mort-par-arme-a-feu-dans-l-un-des-etats-les-plus-violents-du-pays-20260904",
+          "source": "Le Figaro",
+          "summary": "Zenyazen Escobar, 42 ans, a été trouvé dans son véhicule et une arme à feu à proximité, selon le ministre du Gouvernement de l’État de Veracruz.",
+          "published": "2026-09-04T20:14:17+00:00"
         },
         {
-          "title": "Aux Philippines, les écoles s’entraînent contre le risque de fusillades",
-          "link": "https://www.liberation.fr/international/asie-pacifique/aux-philippines-les-ecoles-sentrainent-contre-le-risque-de-fusillades-20260904_UECV2PXPLJBTRDYKNDH3U2FOPE/",
-          "source": "Liberation",
-          "summary": "Après deux attaques meurtrières menées par des élèves dans des établissements scolaires en moins de deux mois, l’archipel prépare les écoliers à ce nouveau risque. Une prévention qui n’écarte pas l’enjeu plus large de…",
-          "published": "2026-09-04T15:42:14+00:00"
+          "title": "EN DIRECT - PSG-Monaco : en gros progrès, les Parisiens mènent et malmènent l’ASM",
+          "link": "https://www.lefigaro.fr/sports/football/live/ligue-1/2026/2640583/paris-sg-monaco",
+          "source": "Le Figaro",
+          "summary": "Le Paris Saint-Germain retrouve le Parc des Princes ce vendredi soir lors de la 3e journée. Le champion de France vise une première victoire pour lancer sa saison de Ligue 1.",
+          "published": "2026-09-04T20:14:03+00:00"
         },
         {
-          "title": "Un forcené retranché dans un immeuble dans le Finistère, une femme a été tuée et une opération de police est en cours",
-          "link": "https://france3-regions.franceinfo.fr/bretagne/finistere/morlaix/evitez-le-secteur-ce-quartier-est-boucle-et-place-sous-le-controle-des-forces-de-l-ordre-un-forcene-est-retranche-dans-un-immeuble-3411683.html#xtor=RSS-3-[lestitres]",
+          "title": "Air Force One va être bloqué un mois pour renforcer sa sécurité",
+          "link": "https://www.lefigaro.fr/flash-actu/air-force-one-va-etre-bloque-un-mois-pour-renforcer-sa-securite-20260904",
+          "source": "Le Figaro",
+          "summary": "Trump a annoncé que les travaux de perfectionnement de l’avion présidentiel offert par le Qatar débuteraient en octobre.",
+          "published": "2026-09-04T20:13:47+00:00"
+        },
+        {
+          "title": "L'ancienne ministre de la Justice Rachida Dati, bientôt jugée pour corruption, a demandé à redevenir magistrate",
+          "link": "https://www.franceinfo.fr/politique/rachida-dati/l-ancienne-ministre-de-la-justice-rachida-dati-bientot-jugee-pour-corruption-a-demande-a-redevenir-magistrate_8177876.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Depuis 14 heures ce vendredi 4 septembre, un forcené est retranché dans un immeuble à Plourin-lès-Morlaix (Finistère). Une opération de police est en cours et il est demandé d'éviter le secteur.",
-          "published": "2026-09-04T15:37:56+00:00"
+          "summary": "\"Elle sera prochainement affectée dans le cadre de la procédure de transparence classique des magistrats\", a précisé le ministère de la Justice, sollicité par franceinfo.",
+          "published": "2026-09-04T20:09:51+00:00"
         },
         {
-          "title": "Piratage du fisc : un membre présumé du groupe de hackers «Zerobytes» mis en examen et écroué",
-          "link": "https://www.lefigaro.fr/faits-divers/piratage-du-fisc-un-membre-presume-du-groupe-de-hackers-zerobytes-mis-en-examen-et-ecroue-20260904",
+          "title": "Arnaques : une fausse lettre usurpant l’identité des Finances publiques cible les détenteurs de cryptomonnaies",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/arnaques-une-fausse-lettre-des-finances-publiques-cible-les-detenteurs-de-cryptomonnaies-20260904",
           "source": "Le Figaro",
-          "summary": "Un deuxième suspect, âgé de moins de 16 ans, a également été interpellé et placé en garde à vue, mais libéré ensuite, a précisé le parquet.",
-          "published": "2026-09-04T15:37:13+00:00"
+          "summary": "Plusieurs internautes signalent avoir reçu un faux courrier administratif les sommant de s’inscrire sur un site frauduleux afin d’y déclarer leurs actifs numériques avant le 5 septembre.",
+          "published": "2026-09-04T20:06:36+00:00"
         },
         {
-          "title": "Crue dévastatrice au Népal : les scientifiques retracent le scénario de la catastrophe",
-          "link": "https://www.lefigaro.fr/sciences/crue-devastatrice-au-nepal-les-scientifiques-retracent-le-scenario-de-la-catastrophe-20260904",
+          "title": "Marine Tondelier veut une loi pour «interdire le mensonge en politique», mais est-ce possible ?",
+          "link": "https://www.liberation.fr/politique/marine-tondelier-veut-une-loi-pour-interdire-le-mensonge-en-politique-mais-est-ce-possible-20260904_KQNVSQNRABEEPJTULMB4HKOJB4/",
+          "source": "Liberation",
+          "summary": "Dans une note de blog publiée ce vendredi, la secrétaire nationale des Ecologistes entend s’inspirer du pays de Galles où un texte a été adopté en ce sens. Pour le chercheur Léopold Verlaine Cobrion, l’idée a ses…",
+          "published": "2026-09-04T20:02:00+00:00"
+        },
+        {
+          "title": "« Ils sont invirables et se considèrent comme les propriétaires de la radio » : ces salariés de France Inter qui mettent la pression sur la direction pour interdire un chroniqueur de droite",
+          "link": "https://www.lefigaro.fr/medias/ils-sont-invirables-et-se-considerent-comme-les-proprietaires-de-la-radio-ces-salaries-de-france-inter-qui-mettent-la-pression-sur-la-direction-pour-interdire-un-chroniqueur-de-droite-20260904",
           "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - À plus de 5000 mètres d’altitude, 200 millions de mètres cubes de roche et de glace se sont détachés de la montagne, déclenchant une crue éclair dévastatrice au Népal.",
-          "published": "2026-09-04T15:36:04+00:00"
+          "summary": "RÉCIT - Faute d’obtenir la tête d’un éditorialiste venu de Valeurs Actuelles, les syndicats de Radio France ont déposé un préavis de grève le dimanche 13 et le lundi 14 septembre.",
+          "published": "2026-09-04T19:54:42+00:00"
         },
         {
-          "title": "«Ici, c’est aussi l’orientation future de notre pays qui se joue» : l’Allemagne retient son souffle avant l’élection en Saxe-Anhalt",
-          "link": "https://www.lefigaro.fr/international/ici-c-est-aussi-l-orientation-future-de-notre-pays-qui-se-joue-l-allemagne-retient-son-souffle-avant-l-election-en-saxe-anhalt-20260904",
+          "title": "PSG-Monaco : en vidéo, l’ouverture du score peu académique du capitaine Marquinhos",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/psg-monaco-en-video-l-ouverture-du-score-peu-academique-du-capitaine-marquinhos-20260904",
           "source": "Le Figaro",
-          "summary": "Largement en tête des sondages, le parti d’extrême droite AfD, que certains voudraient voir interdit, pourrait gouverner une région allemande pour la première fois.",
-          "published": "2026-09-04T15:34:03+00:00"
+          "summary": "Bien servi par Kvaratskhelia, le défenseur brésilien a permis au PSG de prendre l’avantage face à l’ASM ce vendredi.",
+          "published": "2026-09-04T19:49:04+00:00"
         },
         {
-          "title": "Guerre en Ukraine : le siège des services de sécurité touché par une frappe russe en plein centre de Kiev",
-          "link": "https://www.lefigaro.fr/flash-actu/guerre-en-ukraine-le-siege-des-services-de-securite-touche-par-une-frappe-russe-en-plein-centre-de-kiev-20260904",
-          "source": "Le Figaro",
-          "summary": "Le président ukrainien Volodymyr Zelensky a affirmé ce vendredi qu’un drone russe a «directement» visé le bureau du chef des services de sécurité à Kiev.",
-          "published": "2026-09-04T15:33:13+00:00"
-        },
-        {
-          "title": "La Sainte Tunique du Christ va quitter Argenteuil pour la visite de Léon XIV : les coulisses d’un déplacement exceptionnel au Stade de France",
-          "link": "https://www.lefigaro.fr/actualite-france/la-sainte-tunique-du-christ-va-quitter-argenteuil-pour-la-visite-de-leon-xiv-les-coulisses-d-un-deplacement-exceptionnel-au-stade-de-france-20260904",
-          "source": "Le Figaro",
-          "summary": "RÉCIT - Dans trois semaines, la Sainte Tunique d’Argenteuil fera l’objet d’une rare ostension hors des murs de la basilique Saint-Denys, devant le pape et 80.000 jeunes. Le père Guy-Emmanuel Cariot, ancien recteur de…",
-          "published": "2026-09-04T15:31:46+00:00"
-        },
-        {
-          "title": "Piratage du site des impôts : l’ombre de « ChatNoir », pirate juvénile multi-mis en examen",
-          "link": "https://www.lemonde.fr/societe/article/2026/09/04/piratage-du-site-des-impots-l-ombre-de-chatnoir-pirate-juvenile-multi-mis-en-examen_6765819_3224.html",
-          "source": "Le Monde",
-          "summary": "Un suspect de 18 ans a été mis en examen le 20 août et placé en détention provisoire dans l’enquête sur les attaques informatiques ayant visé la direction générale des finances publiques. Le jeune homme est déjà…",
-          "published": "2026-09-04T15:29:41+00:00"
+          "title": "\"Dans la vallée engloutie\" : regardez le documentaire de franceinfo consacré aux crues meurtrières au Népal et au Tibet",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/direct-dans-la-vallee-engloutie-regardez-le-documentaire-de-franceinfo-consacre-aux-crues-meurtrieres-au-nepal-et-au-tibet_8176649.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le bilan toujours provisoire de la catastrophe est de 1 308 morts et 5 624 disparus entre la Chine et le Népal.",
+          "published": "2026-09-04T19:48:25+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "☕️ Sync-in 2.5 ajoute des favoris et renforce la sécurité autour des comptes OIDC",
-          "link": "https://next.ink/brief-article/sync-in-2-5-ajoute-des-favoris-et-renforce-la-securite-autour-des-comptes-oidc/",
+          "title": "J’ai vu l’AWOL LuxVision, le premier UST à revendiquer la 4K à 120 Hz avec un lens shift optique",
+          "link": "https://www.clubic.com/actualite-628339-j-ai-vu-l-awol-luxvision-le-premier-ust-a-revendiquer-la-4k-a-120-hz-avec-un-lens-shift-optique.html",
+          "source": "Clubic",
+          "summary": "AWOL Vision profite de l’IFA pour présenter le LuxVision, un vidéoprojecteur à ultra-courte focale aux caractéristiques particulièrement ambitieuses. Mais ce ne sont ni ses 6 000 lumens ni son affichage 4K à 120 Hz qui…",
+          "published": "2026-09-04T18:46:00+00:00"
+        },
+        {
+          "title": "Moto Watch Ultra : douze ans après la Moto 360, Motorola revient à Wear OS",
+          "link": "https://www.frandroid.com/marques/motorola/3234789_moto-watch-ultra-douze-ans-apres-la-moto-360-motorola-revient-a-wear-os",
+          "source": "Frandroid",
+          "summary": "Motorola présente la Moto Watch Ultra, sa première montre sous Wear OS depuis 2016 et sa première avec eSIM, à 429 €. Un retour qu'on n'attendait plus, avec une puce qui, elle, ne date pas d'hier.",
+          "published": "2026-09-04T17:30:00+00:00"
+        },
+        {
+          "title": "Moins dépendre du réseau et faire baisser sa facture d’électricité : ces 3 nouveautés BLUETTI à l’IFA 2026",
+          "link": "https://www.clubic.com/actualite-627943-moins-dependre-du-reseau-et-faire-baisser-sa-facture-d-electricite-ces-3-nouveautes-bluetti-a-l-ifa-2026.html",
+          "source": "Clubic",
+          "summary": "À l’occasion de l’IFA 2026, BLUETTI dévoile plusieurs nouveautés qui poursuivent un même objectif : rendre le solaire et le stockage accessibles au plus grand nombre, quelles que soient les contraintes de chacun.",
+          "published": "2026-09-04T16:30:00+00:00"
+        },
+        {
+          "title": "ThinkCentre X Ultra face au Mac Studio : Lenovo peut-il rivaliser avec Apple ?",
+          "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/mini-pc/3234633_thinkcentre-x-ultra-face-au-mac-studio-lenovo-peut-il-rivaliser-avec-apple",
+          "source": "Frandroid",
+          "summary": "Lenovo dévoile le ThinkCentre X Ultra, un mini-PC de 1,6 litre avec 128 Go de mémoire unifiée pensé pour l'IA locale, à partir de 3 100 €. Un Framework Desktop en plus petit et, pour une fois, moins cher que l'original.",
+          "published": "2026-09-04T16:27:05+00:00"
+        },
+        {
+          "title": "Qira débarque sur 80 PC Lenovo, Android 17 et une montre Motorola : un cinquième assistant pour régler le désordre des quatre premiers",
+          "link": "https://www.frandroid.com/marques/lenovo/3234577_qira-debarque-sur-80-pc-lenovo-android-17-et-une-montre-motorola-un-cinquieme-assistant-pour-regler-le-desordre-des-quatre-premiers",
+          "source": "Frandroid",
+          "summary": "Lenovo étend Qira, son assistant IA maison, à Android 17, à une montre et aux boîtes mail. Ici, la promesse est la continuité entre appareils. Comme ce que promet Apple.",
+          "published": "2026-09-04T16:26:39+00:00"
+        },
+        {
+          "title": "L'été touche à sa fin et Amazon casse le prix de ce robot de piscine",
+          "link": "https://www.clubic.com/bons-plans-628132-l-ete-touche-a-sa-fin-et-amazon-casse-le-prix-de-ce-robot-de-piscine.html",
+          "source": "Clubic",
+          "summary": "L’Ecovacs Ultramarine P1 est un robot de piscine polyvalent qui peut nettoyer toute votre piscine d’un coup, mais il peut se contenter des parois ou seulement du fond selon les besoins. Toutes ces fonctionnalités sont à…",
+          "published": "2026-09-04T16:25:00+00:00"
+        },
+        {
+          "title": "Sharp mise sur le Mini LED accessible avec la nouvelle gamme JT8000",
+          "link": "https://www.frandroid.com/marques/sharp/3234761_sharp-mise-sur-le-mini-led-accessible-avec-la-nouvelle-gamme-jt8000",
+          "source": "Frandroid",
+          "summary": "Sharp Consumer Electronics a profité du salon IFA 2026 de Berlin pour annoncer sa nouvelle gamme de téléviseurs, portée par la série Mini LED JT8000. La marque japonaise y associe qualité d'image et un son signé Harman…",
+          "published": "2026-09-04T16:22:31+00:00"
+        },
+        {
+          "title": "Ces lunettes connectées sous Android XR et Gemini peuvent-elles remplacer votre smartphone ? Voici notre test en vidéo",
+          "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/3234701_ces-lunettes-connectees-sous-android-xr-et-gemini-peuvent-elles-remplacer-votre-smartphone-voici-notre-test-en-video",
+          "source": "Frandroid",
+          "summary": "Et si votre prochain smartphone Android se portait directement sur le nez ? On a essayé les Xreal Aura à l'IFA de Berlin, des lunettes connectées qui intègrent Android XR et qui projetent un écran géant devant vous.",
+          "published": "2026-09-04T16:08:07+00:00"
+        },
+        {
+          "title": "iPhone 18 Pro : des prix en forte hausse, mais vous ne pourrez pas en vouloir à Apple",
+          "link": "https://www.clubic.com/actualite-628330-iphone-18-pro-des-prix-en-forte-hausse-mais-vous-ne-pourrez-pas-en-vouloir-a-apple.html",
+          "source": "Clubic",
+          "summary": "Les prochains iPhone 18 Pro sont sur le point d'être officiellement présentés. Et il faut vous attendre à une hausse des prix… peut-être justifiée !",
+          "published": "2026-09-04T16:06:00+00:00"
+        },
+        {
+          "title": "Ce casque français avec ses inédits transducteurs à dôme M étouffe près de 200 € de son prix",
+          "link": "https://www.frandroid.com/bons-plans/2953271_ce-casque-francais-avec-ses-inedits-transducteurs-a-dome-m-etouffe-pres-de-200-euros-de-son-prix",
+          "source": "Frandroid",
+          "summary": "Le Focal Bathys a su se démarquer grâce à des transducteurs à dôme M qui produisent un son clair et puissant. Chez Son-Vidéo.com, ce casque tombe à 599 euros au lieu de 790 euros.",
+          "published": "2026-09-04T16:05:39+00:00"
+        },
+        {
+          "title": "J’ai porté les lunettes Xreal Aura et j’ai presque envie qu’elles remplacent mon smartphone Android",
+          "link": "https://www.frandroid.com/marques/xreal/3232399_jai-porte-les-lunettes-xreal-aura-et-jai-presque-envie-quelles-remplacent-mon-smartphone-android",
+          "source": "Frandroid",
+          "summary": "J'ai eu l'opportunité d'essayer les lunettes Xreal Aura dotées d'écrans, d'Android XR et de Gemini. C'est comme porter un smartphone sur le nez, mais il y a évidemment des limites à connaître.",
+          "published": "2026-09-04T16:00:00+00:00"
+        },
+        {
+          "title": "☕️ Piratage de la DGFiP : deux suspects interpellés, l’enquête se poursuit",
+          "link": "https://next.ink/brief-article/piratage-de-la-dgfip-deux-suspects-interpelles-lenquete-se-poursuit/",
           "source": "Next",
-          "summary": "Sync-in est une solution d’hébergement et de synchronisation de fichiers libre et open source (licence AGPL 3). Après une version 2.4 en juin, la 2.5 vient de paraître, avec à son bord plusieurs nouveautés importantes.…",
-          "published": "2026-09-04T15:42:00+00:00"
-        },
-        {
-          "title": "Démarchage téléphonique : une nouvelle entreprise condamnée à plus de 92 000 euros d'amende",
-          "link": "https://www.clubic.com/actualite-628327-demarchage-telephonique-une-nouvelle-entreprise-condamnee-a-plus-de-92-000-euros-d-amende.html",
-          "source": "Clubic",
-          "summary": "La Répression des fraudes a une nouvelle fois adressé une lourde sanction à une entreprise, Le Betef, pour démarchage téléphonique abusif. L'entreprise devra payer une amende de près de 100 000 euros.",
-          "published": "2026-09-04T15:33:00+00:00"
-        },
-        {
-          "title": "Toujours plus : un autre géant japonais entre dans la course à la puissance sur les moteurs de vélos électriques",
-          "link": "https://www.frandroid.com/marques/panasonic/3234185_toujours-plus-un-autre-geant-japonais-entre-dans-la-course-a-la-puissance-sur-les-moteurs-de-velos-electriques",
-          "source": "Frandroid",
-          "summary": "Avec un couple plafonnant désormais à 120 Nm, le moteur central pour vélos électriques Panasonic GXM se met à niveau pour défier Bosch et Avinox, grâce à une simple mise à jour.",
-          "published": "2026-09-04T15:31:20+00:00"
-        },
-        {
-          "title": "Il a laissé ses données mobiles activées à l'atterrissage aux USA : le réveil a été brutal",
-          "link": "https://www.clubic.com/actualite-626413-il-a-laisse-ses-donnees-mobiles-activees-a-l-atterrissage-aux-usa-le-reveil-a-ete-brutal.html",
-          "source": "Clubic",
-          "summary": "Pas facile de rester connecté aux USA sans faire exploser son budget… Entre les frais d’itinérance, les forfaits touristiques et le Wi-Fi public, trouver une solution adaptée peut devenir compliqué.",
-          "published": "2026-09-04T15:30:00+00:00"
-        },
-        {
-          "title": "Hisense muscle sérieusement ses projecteurs C3",
-          "link": "https://www.clubic.com/actualite-628318-hisense-c3-ultra-max-un-an-apres-le-c3-le-triple-laser-passe-a-la-vitesse-superieure.html",
-          "source": "Clubic",
-          "summary": "Un an après avoir présenté le C3 à l’IFA, Hisense revient avec trois déclinaisons plus ambitieuses : C3 Pro, C3 Ultra et C3 Ultra Max. Toutes conservent le triple laser TriChroma, mais gagnent en luminosité, en…",
-          "published": "2026-09-04T15:27:00+00:00"
-        },
-        {
-          "title": "Motorola Edge 70 Plus : un capteur de 200 mégapixels qui cache un gros manque en photo",
-          "link": "https://www.frandroid.com/marques/motorola/3234467_motorola-edge-70-plus-un-capteur-de-200-megapixels-qui-cache-un-gros-manque-en-photo",
-          "source": "Frandroid",
-          "summary": "Motorola lance son Edge 70 Plus à l'IFA 2026 : 599,99 euros, un capteur de 200 mégapixels, un écran 144 Hz et une batterie de 6 500 mAh.",
-          "published": "2026-09-04T15:17:10+00:00"
-        },
-        {
-          "title": "Anker et Ugreen revendiquent la même première mondiale à un jour d’écart",
-          "link": "https://www.frandroid.com/produits-android/smartphone/3234481_anker-et-ugreen-revendiquent-la-meme-premiere-mondiale-a-un-jour-decart",
-          "source": "Frandroid",
-          "summary": "À vingt-quatre heures d'écart, Anker et Ugreen annoncent chacun « la première batterie magnétique Qi2 25 W au monde à refroidissement actif », l'un avec un ventilateur, l'autre avec une micropompe à liquide.",
-          "published": "2026-09-04T15:17:06+00:00"
-        },
-        {
-          "title": "Alerte fuite de données : l’Association des maires de France touchée par une cyberattaque",
-          "link": "https://www.clubic.com/actualite-628315-alerte-fuite-de-donnees-l-association-des-maires-de-france-touchee-par-une-cyberattaque.html",
-          "source": "Clubic",
-          "summary": "Oui, encore une cyberattaque qui touche la France. Cette fois, c'est l'Association des maires de France qui est la victime.",
-          "published": "2026-09-04T15:17:00+00:00"
-        },
-        {
-          "title": "Pour le salut de la discipline, des problèmes de maths devraient être « exclus » de l’IA, juge le Mozart des mathématiques",
-          "link": "https://www.numerama.com/sciences/2325473-pour-le-salut-de-la-discipline-des-problemes-de-maths-devraient-etre-exclus-de-lia-juge-le-mozart-des-mathematiques.html",
-          "source": "Numerama",
-          "summary": "Terence Tao, l'un des plus grands mathématiciens vivants, propose de déclarer certaines catégories de problèmes de maths « hors limites » pour les IA.",
-          "published": "2026-09-04T15:15:00+00:00"
-        },
-        {
-          "title": "En promo à 799,90€, le nouveau POCO F9 Pro défie les flagships à plus de 1000€",
-          "link": "https://www.clubic.com/bons-plans-628108-en-promo-a-799-90-le-nouveau-poco-f9-pro-defie-les-flagships-a-plus-de-1000.html",
-          "source": "Clubic",
-          "summary": "Depuis sa commercialisation le 1er septembre, le POCO F9 Pro est disponible chez Amazon avec une offre Early Bird qui fait passer sa version 12+512 Go de 999,90 à 799,90 euros. De quoi s'offrir dès maintenant un…",
-          "published": "2026-09-04T15:15:00+00:00"
-        },
-        {
-          "title": "Robots aspirateurs et escaliers : Roborock et Dreame se battent pour un produit qui n’existe pas encore",
-          "link": "https://www.frandroid.com/produits-android/maison-connectee/robot-aspirateur/3234447_robots-aspirateurs-et-escaliers-roborock-et-dreame-se-battent-pour-un-produit-qui-nexiste-pas-encore",
-          "source": "Frandroid",
-          "summary": "Roborock expose à l'IFA son Saros Rover, un robot aspirateur à jambes et roues qui monte les escaliers en les nettoyant, huit mois après sa présentation au CES. Dreame fait la même chose avec son Cyber X à chenilles…",
-          "published": "2026-09-04T15:09:40+00:00"
-        },
-        {
-          "title": "Hisense P1 : le triple laser devient vraiment nomade avec une batterie intégrée",
-          "link": "https://www.clubic.com/actualite-628321-hisense-p1-le-triple-laser-devient-vraiment-nomade-avec-une-batterie-integree.html",
-          "source": "Clubic",
-          "summary": "Hisense continue d’étendre sa gamme de vidéoprojecteurs, mais change cette fois de terrain. Avec le P1, la marque présente son premier modèle compact doté d’une batterie intégrée. Triple laser, zoom optique et 1 000…",
-          "published": "2026-09-04T15:01:00+00:00"
+          "summary": "L&#8217;enquête lancée par la section cybercriminalité du parquet de Paris et confiée à l&#8217;office anti-cybercriminalité (Ofac) suite au piratage de la plateforme cet été de la Direction générale des finances…",
+          "published": "2026-09-04T15:59:25+00:00"
         }
       ]
     }
