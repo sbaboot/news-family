@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-09-03T22:58:41.774303+00:00",
+  "generated_at": "2026-09-04T03:01:31.485019+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Moyen-Orient en direct : la Corée du Sud prépare un déploiement militaire dans le détroit d'Ormuz",
+          "link": "https://www.france24.com/fr/moyen-orient/20260904-en-direct-moyen-orient-iran-etats-unis-golfe-coree-du-sud-deploiement-militaire-detroit-d-ormuz",
+          "source": "France 24",
+          "summary": "La Corée du Sud se prépare à déployer des moyens militaires pour soutenir la liberté de navigation dans le détroit d'Ormuz, ont rapporté jeudi soir plusieurs médias sud-coréens. L'Iran a de nouveau visé jeudi des cibles…",
+          "published": "2026-09-04T02:37:04+00:00"
+        },
+        {
+          "title": "OpenAI lance GPT-6 Astra, son premier modèle capable de pirater seul des systèmes protégés",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260904-intelligence-artificielle-ia-openai-lance-gpt-6-astra-modele-capable-pirater-seul-systemes-proteges",
+          "source": "France 24",
+          "summary": "Classé au plus haut niveau de risque en cybersécurité par OpenAI lui-même, le modèle d'intelligence artificielle GPT-6 Astra, lancé jeudi, est capable de pirater seul des systèmes informatiques très protégés. Par…",
+          "published": "2026-09-04T02:13:43+00:00"
+        },
+        {
+          "title": "Singapour, un rêve qui ne tient pas ses promesses pour les travailleurs migrants",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/singapour-un-reve-qui-ne-tient-pas-ses-promesses-pour-les-travailleurs-migrants_6765421_3210.html",
+          "source": "Le Monde",
+          "summary": "Majoritairement originaires d’Inde ou du Bangladesh, ils s’endettent lourdement pour venir dans l’espoir de faire vivre leur famille, avant de déchanter face aux salaires et aux conditions de travail très éloignés de ce…",
+          "published": "2026-09-04T02:00:12+00:00"
+        },
+        {
+          "title": "La Cour suprême brésilienne ébranlée par des soupçons de corruption, Lula exige une enquête impartiale",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/au-bresil-lula-exige-une-enquete-impartiale-sur-des-soupcons-de-corruption-visant-un-juge-de-la-cour-supreme_6765387_3210.html",
+          "source": "Le Monde",
+          "summary": "La crise a éclaté après la publication d’un rapport de police faisant état d’échanges entre le banquier Daniel Vorcaro, incarcéré pour malversations, et le juge Alexandre de Moraes, dont le rôle avait été central dans…",
+          "published": "2026-09-04T01:42:50+00:00"
+        },
+        {
+          "title": "La Maison Blanche publie un jeu vidéo dont le but est d’expulser des immigrés",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html",
+          "source": "Le Monde",
+          "summary": "Calqué visuellement sur le modèle de « Snake », le jeu a pour objectif de rassembler un maximum de personnages ayant traversé la frontière afin de les expulser. Un autre jeu publié sur le site officiel de la Maison…",
+          "published": "2026-09-04T00:58:09+00:00"
+        },
+        {
+          "title": "En Italie, Giorgia Meloni bat un record de longévité et lance sa campagne pour 2027",
+          "link": "https://www.france24.com/fr/europe/20260904-en-italie-giorgia-meloni-bat-un-record-de-long%C3%A9vit%C3%A9-et-lance-sa-campagne-pour-2027",
+          "source": "France 24",
+          "summary": "La présidente du Conseil italienne Giorgia Meloni franchit vendredi le cap des 1 413 jours à la tête du gouvernement, devançant Silvio Berlusconi. Un record de longévité considéré par son camp comme un atout de campagne…",
+          "published": "2026-09-04T00:17:10+00:00"
+        },
+        {
+          "title": "A deux mois des élections de mi-mandat, l’administration Trump repart à l’offensive sur le vote par correspondance",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/a-deux-mois-des-elections-de-mi-mandat-l-administration-trump-repart-a-l-offensive-sur-le-vote-par-correspondance_6765288_3210.html",
+          "source": "Le Monde",
+          "summary": "L’exécutif américain a de nouveau demandé à la Cour suprême, jeudi, de lui permettre d’appliquer un décret visant à encadrer plus strictement le vote par correspondance, une mesure contestée en justice par plusieurs…",
+          "published": "2026-09-03T23:03:12+00:00"
+        },
+        {
+          "title": "La FIFA dénonce une « campagne de dénigrement » menée par l’UEFA à son égard",
+          "link": "https://www.lemonde.fr/football/article/2026/09/04/la-fifa-denonce-une-campagne-de-denigrement-menee-par-l-uefa-a-son-egard_6765287_1616938.html",
+          "source": "Le Monde",
+          "summary": "Dans le sillage du projet économique avorté de la FIFA, l’instance européenne prépare une action en justice contre le patron du football mondial, Gianni Infantino, pour « gestion déloyale ».",
+          "published": "2026-09-03T23:01:45+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : une dizaine de blessés signalés à Kiev à la suite d’attaques de drones russes",
           "link": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-une-dizaine-de-blesses-signales-a-kiev-a-la-suite-d-attaques-de-drones-russes_6760568_3210.html",
@@ -12,67 +68,11 @@
           "published": "2026-09-03T22:27:58+00:00"
         },
         {
-          "title": "Tunisie : la Cour de cassation confirme les lourdes peines dans l’affaire du \"complot contre l’État\"",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260903-tunisie-la-cour-de-cassation-confirme-les-lourdes-peines-dans-l-affaire-du-complot-contre-l-%C3%A9tat",
+          "title": "Restructuration historique chez Volkswagen : 100 000 suppressions de postes d'ici 2030",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260903-restructuration-historique-chez-volkswagen-100-000-suppressions-de-postes-d-ici-2030",
           "source": "France 24",
-          "summary": "La Cour de cassation tunisienne a rejeté jeudi le pourvoi dans l’affaire du \"complot contre la sûreté de l’État\", confirmant les lourdes peines prononcées en appel, en novembre 2025, contre une quarantaine de personnes,…",
-          "published": "2026-09-03T20:27:39+00:00"
-        },
-        {
-          "title": "Tunisie : la Cour de cassation confirme les lourdes peines dans l’affaire du \"complot contre l’État\"",
-          "link": "https://www.france24.com/fr/afrique/20260903-tunisie-cour-cassation-confirme-peines-affaire-complot-s%C3%BBret%C3%A9-chebbi-saied",
-          "source": "France 24",
-          "summary": "La Cour de cassation tunisienne a rejeté jeudi le pourvoi dans l’affaire du \"complot contre la sûreté de l’État\", confirmant les lourdes peines prononcées en appel, en novembre 2025, contre une quarantaine de personnes,…",
-          "published": "2026-09-03T20:13:45+00:00"
-        },
-        {
-          "title": "Iran : les Etats-Unis ont-ils visé une cérémonie de mariage ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260903-iran-les-etats-unis-ont-ils-vis%C3%A9-une-c%C3%A9r%C3%A9monie-de-mariage",
-          "source": "France 24",
-          "summary": "Dans leurs frappes récentes contre l'Iran, les Etats-Unis sont accusés d'avoir bombardé une cérémonie de mariage, dans la région du détroit d'Ormuz. Des images vérifiées tournées après l'attaque montrent les dégâts…",
-          "published": "2026-09-03T19:59:37+00:00"
-        },
-        {
-          "title": "La RDC va déplacer son ambassade en Israël de Tel-Aviv à Jérusalem",
-          "link": "https://www.lemonde.fr/international/article/2026/09/03/la-rdc-va-deplacer-son-ambassade-en-israel-de-tel-aviv-a-jerusalem_6765220_3210.html",
-          "source": "Le Monde",
-          "summary": "Le gouvernement de République démocratique du Congo a multiplié les initiatives, ces dernières années, pour conclure des partenariats économiques, et s’est notamment rapproché des Etats-Unis, dont l’ambassade a été…",
-          "published": "2026-09-03T19:29:47+00:00"
-        },
-        {
-          "title": "Ambassade de France en Irak : les descendants de propriétaires juifs assignent l’État français",
-          "link": "https://www.france24.com/fr/moyen-orient/20260903-ambassade-france-irak-descendants-proprietaires-juifs-assignent-etat-francais",
-          "source": "France 24",
-          "summary": "Nouveau front judiciaire dans le litige autour de l’ambassade de France en Irak. Les descendants des propriétaires juifs du bâtiment ont assigné l’État français à Paris et réclament 21,5 millions d’euros, une somme…",
-          "published": "2026-09-03T19:18:37+00:00"
-        },
-        {
-          "title": "Après les inondations dans l’Himalaya, la Chine impose un contrôle strict des informations liées au Tibet",
-          "link": "https://www.lemonde.fr/international/article/2026/09/03/apres-les-inondations-dans-l-himalaya-la-chine-impose-un-controle-strict-des-informations-liees-au-tibet_6765213_3210.html",
-          "source": "Le Monde",
-          "summary": "Depuis la catastrophe du 26 août, la couverture de l’actualité de la région, hautement sensible pour les autorités, est réduite aux informations données par Pékin, qui fait la part belle aux opérations de secours. Le…",
-          "published": "2026-09-03T18:30:10+00:00"
-        },
-        {
-          "title": "La Syrie dit avoir commencé à détruire les armes chimiques de l’ère Al-Assad",
-          "link": "https://www.lemonde.fr/international/article/2026/09/03/la-syrie-dit-avoir-commence-a-detruire-les-armes-chimiques-de-l-ere-al-assad_6765212_3210.html",
-          "source": "Le Monde",
-          "summary": "Selon la haute représentante des Nations unies pour le désarmement, la destruction de 42 bombes aériennes a été constatée le mois dernier par une équipe de l’Organisation pour l’interdiction des armes chimiques.",
-          "published": "2026-09-03T18:29:20+00:00"
-        },
-        {
-          "title": "L'extrême droite en tête des élections régionales en Allemagne : le retour des vieux démons ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260903-l-extr%C3%AAme-droite-en-t%C3%AAte-des-%C3%A9lections-r%C3%A9gionales-en-allemagne-le-retour-des-vieux-d%C3%A9mons",
-          "source": "France 24",
-          "summary": "L’AfD, le parti d’extrême droite en Allemagne, est bien placé pour remporter la victoire dans le Land de Saxe-Anhalt dans l'Est du pays dimanche 6 septembre. Cela serait la première fois qu’un parti d’extrême droite…",
-          "published": "2026-09-03T18:25:31+00:00"
-        },
-        {
-          "title": "Au Yémen, les combats entre forces gouvernementales et rebelles houthistes s’intensifient",
-          "link": "https://www.lemonde.fr/international/article/2026/09/03/au-yemen-les-combats-entre-forces-gouvernementales-et-rebelles-houthistes-s-intensifient_6765208_3210.html",
-          "source": "Le Monde",
-          "summary": "Le gouvernement yéménite avait averti, le mois dernier, que les rebelles cherchaient à prendre position aux abords du détroit de Bab Al-Mandab. Selon une source militaire, les combats les plus intenses ont lieu entre la…",
-          "published": "2026-09-03T17:51:31+00:00"
+          "summary": "Le conseil de surveillance du constructeur allemand Volkswagen a approuvé jeudi à l'unanimité un plan de restructuration inédit, ajoutant 50 000 suppressions d'emploi aux 50 000 déjà actées en Allemagne depuis 2024. Au…",
+          "published": "2026-09-03T20:49:12+00:00"
         }
       ]
     },
@@ -84,80 +84,122 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Avec GPT-6, OpenAI franchit un cap de puissance et met ses garde-fous à l’épreuve du public",
+          "link": "https://www.ledevoir.com/economie/techno/1006484/gpt-6-openai-franchit-cap-puissance-met-garde-fous-epreuve-public",
+          "source": "Le Devoir",
+          "summary": "Les fonctions les plus sensibles d’Astra sont réservées à des spécialistes de la cyberdéfense.",
+          "published": "2026-09-04T00:54:00+00:00"
+        },
+        {
+          "title": "Mégacontrat de VIA Rail | D’une pierre deux coups pour Alstom",
+          "link": "https://www.lapresse.ca/affaires/2026-09-03/megacontrat-de-via-rail/d-une-pierre-deux-coups-pour-alstom.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "C’est le contrat de la décennie pour Alstom au Canada. Le géant français fait d’une pierre deux coups : il ajoute VIA Rail – la société nationale ferroviaire de transport de passagers – à sa liste de clients tout en…",
+          "published": "2026-09-04T00:35:51+00:00"
+        },
+        {
+          "title": "La Maison-Blanche crée un jeu vidéo sur les expulsions d’immigrés",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1006460/maison-blanche-cree-jeu-video-expulsions-immigres",
+          "source": "Le Devoir",
+          "summary": "Un autre jeu, inspiré de «Tetris», consiste à construire un mur à la frontière avec le Mexique.",
+          "published": "2026-09-04T00:11:12+00:00"
+        },
+        {
+          "title": "Ottawa lance un appel aux secteurs visés par les nouveaux droits de douane",
+          "link": "https://www.ledevoir.com/economie/1006454/ottawa-lance-appel-secteurs-vises-nouveaux-droits-douane",
+          "source": "Le Devoir",
+          "summary": "«On est trop dépendants de l’économie américaine», estime la ministre Mélanie Joly.",
+          "published": "2026-09-03T23:53:49+00:00"
+        },
+        {
+          "title": "Remplacement de Jean-Philippe Wauthier | Sonia Benezra poursuit la production de Bonsoir bonsoir pour près de 470 000 $",
+          "link": "https://www.lapresse.ca/arts/television/2026-09-03/remplacement-de-jean-philippe-wauthier/sonia-benezra-poursuit-la-production-de-bonsoir-bonsoir-pour-pres-de-470-000.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’animatrice Sonia Benezra a déposé une poursuite de 468 200 $ contre les producteurs du talk-show Bonsoir bonsoir diffusé sur les ondes de Radio-Canada. Celle-ci affirme avoir été victime d’une rupture de contrat,…",
+          "published": "2026-09-03T23:49:24+00:00"
+        },
+        {
+          "title": "Guerre commerciale | L’avenue Trump à Ottawa a-t-elle toujours sa place ?",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-09-03/guerre-commerciale/l-avenue-trump-a-ottawa-a-t-elle-toujours-sa-place.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le nom de Trump est devenu lourd à porter pour des résidants du quartier Central Park à Ottawa. Tellement lourd qu’un conseiller municipal veut changer le nom d’une avenue qui porte le nom du président américain depuis…",
+          "published": "2026-09-03T23:45:00+00:00"
+        },
+        {
+          "title": "Le Canada affiche un excédent commercial de 769 millions $ en juillet",
+          "link": "https://www.ledevoir.com/economie/1006451/canada-affiche-excedent-commercial-769-millions-juillet",
+          "source": "Le Devoir",
+          "summary": "Les exportations ont reculé pour la première fois en six mois.",
+          "published": "2026-09-03T23:33:43+00:00"
+        },
+        {
+          "title": "La Semaine Climat Montréal veut mettre l’action climatique au cœur des discussions",
+          "link": "https://www.ledevoir.com/actualites/environnement/1006436/semaine-climat-montreal-souhaite-remettre-question-climatique-coeur-discussions",
+          "source": "Le Devoir",
+          "summary": "La première édition de l’événement se déroulera du 8 au 13 septembre ; Steven Guilbeault en est l’ambassadeur.",
+          "published": "2026-09-03T23:03:00+00:00"
+        },
+        {
+          "title": "Relations canado-américaines | Ce n’est pas ainsi qu’on traite un allié",
+          "link": "https://www.lapresse.ca/dialogue/opinions/2026-09-03/relations-canado-americaines/ce-n-est-pas-ainsi-qu-on-traite-un-allie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’ancien officier Eric Sauvé revient sur les propos méprisants du secrétaire à la Défense des États-Unis, Pete Hegseth, et du secrétaire au Trésor américain, Scott Bessent, à l’égard des militaires canadiens, membres de…",
+          "published": "2026-09-03T23:00:00+00:00"
+        },
+        {
           "title": "Un nouveau billet de 20 $ met à l’honneur le roi Charles",
           "link": "https://www.ledevoir.com/economie/1006400/nouveau-billet-20-met-honneur-roi-charles",
           "source": "Le Devoir",
           "summary": "Son effigie remplace celle de la défunte reine Élisabeth II.",
           "published": "2026-09-03T22:24:30+00:00"
-        },
-        {
-          "title": "Volodymyr Zelensky devrait se rendre prochainement au Canada",
-          "link": "https://www.lapresse.ca/actualites/national/2026-09-03/volodymyr-zelensky-devrait-se-rendre-prochainement-au-canada.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le président ukrainien Volodymyr Zelensky prévoit de se rendre au Canada dès la semaine prochaine.",
-          "published": "2026-09-03T22:20:10+00:00"
-        },
-        {
-          "title": "Québec solidaire se place à contre-courant de ses rivaux",
-          "link": "https://www.ledevoir.com/politique/quebec/1006385/quebec-solidaire-contre-courant-rivaux-politiques",
-          "source": "Le Devoir",
-          "summary": "Le parti de gauche a promis jeudi de mettre en place une taxe sur les grandes fortunes.",
-          "published": "2026-09-03T22:02:00+00:00"
-        },
-        {
-          "title": "Québecor conserve les droits francophones de diffusion de la LNH pour 12 ans",
-          "link": "https://www.ledevoir.com/culture/medias/1006382/quebecor-conserve-droits-francophones-diffusion-lnh-12-ans",
-          "source": "Le Devoir",
-          "summary": "TVA Sports diffusera 32 matchs de la saison régulière du CH et l’entièreté des séries éliminatoires de hockey.",
-          "published": "2026-09-03T21:48:00+00:00"
-        },
-        {
-          "title": "Duhaime réclame les pleins pouvoirs en matière d’immigration",
-          "link": "https://www.ledevoir.com/politique/quebec/1006376/duhaime-reclame-pleins-pouvoirs-matiere-immigration",
-          "source": "Le Devoir",
-          "summary": "Il veut que le Québec se rallie aux autres provinces conservatrices pour arracher plus de pouvoirs à Ottawa.",
-          "published": "2026-09-03T21:28:00+00:00"
-        },
-        {
-          "title": "Quatre suggestions culturelles pour la fin de semaine",
-          "link": "https://www.ledevoir.com/culture/1006322/quatre-suggestions-culturelles-fin-semaine",
-          "source": "Le Devoir",
-          "summary": "«Le Devoir» vous propose quelques sorties pour le week-end du 4 au 7 septembre.",
-          "published": "2026-09-03T21:20:00+00:00"
-        },
-        {
-          "title": "Chaque jeudi suivant un féminicide | Une « action éclair » pour dénoncer la violence envers les femmes",
-          "link": "https://www.lapresse.ca/actualites/2026-09-03/chaque-jeudi-suivant-un-feminicide/une-action-eclair-pour-denoncer-la-violence-envers-les-femmes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Ce jeudi midi, au coin de Maisonneuve et De Lorimier à Montréal, une vingtaine de personnes se sont réunies en mémoire d’Elizabeth Taqaq Kumak (aussi écrit Qumak).",
-          "published": "2026-09-03T21:19:21+00:00"
-        },
-        {
-          "title": "Entente avec Rogers | Québecor diffusera les matchs du Canadien pour 12 autres années",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-09-03/entente-avec-rogers/quebecor-diffusera-les-matchs-du-canadien-pour-12-autres-annees.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Mieux vaut tard que jamais : à moins de quatre semaines du début de sa saison 2026-2027, le Canadien de Montréal a enfin un diffuseur francophone national. Québecor a annoncé ce jeudi avoir conclu une entente d’une…",
-          "published": "2026-09-03T21:02:13+00:00"
-        },
-        {
-          "title": "Carney riposte aux accusations américaines concernant la fin des négociations commerciales",
-          "link": "https://www.ledevoir.com/politique/canada/1006316/carney-riposte-accusations-americaines-concernant-fin-negociations-commerciales",
-          "source": "Le Devoir",
-          "summary": "Le président américain, Donald Trump, a poursuivi ses attaques verbales peu après, jeudi.",
-          "published": "2026-09-03T20:52:52+00:00"
-        },
-        {
-          "title": "L’actuel El Niño est «démesuré», mais n’a pas de répercussions claires au Québec",
-          "link": "https://www.ledevoir.com/actualites/environnement/1006313/actuel-el-nino-est-demesure-consequences-quebec-ne-sont-pas-claires",
-          "source": "Le Devoir",
-          "summary": "L’Organisation météorologique mondiale a lancé de nouveaux avertissements jeudi.",
-          "published": "2026-09-03T20:49:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "Le jeunes font-ils fi du selfie ?",
+          "link": "https://www.liberation.fr/forums/le-jeunes-font-fi-du-selfie-20260904_EIRMXOLKW5EUZJNHHANXAGQPNE/",
+          "source": "Liberation",
+          "summary": "Par crainte du harcèlement ou par lassitude, l’autoportrait sur les réseaux sociaux semble laisser place, chez les plus jeunes, à un certain effacement où la photo de soi est réservée au cercle intime.",
+          "published": "2026-09-04T02:03:00+00:00"
+        },
+        {
+          "title": "Alex Webb, heures de jeunesse",
+          "link": "https://www.liberation.fr/forums/alex-webb-heures-de-jeunesse-20260904_FNAKB73O3NCVREN5LCI2UJNPQY/",
+          "source": "Liberation",
+          "summary": "Le travail du photographe californien de chez Magnum, présenté dans le cadre de Fujikina, capture l’espoir d’une juvénilité mexicaine triomphante.",
+          "published": "2026-09-04T01:37:00+00:00"
+        },
+        {
+          "title": "La Maison Blanche publie un jeu vidéo dont le but est d’expulser des immigrés",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html",
+          "source": "Le Monde",
+          "summary": "Calqué visuellement sur le modèle de « Snake », le jeu a pour objectif de rassembler un maximum de personnages ayant traversé la frontière afin de les expulser. Un autre jeu publié sur le site officiel de la Maison…",
+          "published": "2026-09-04T00:58:09+00:00"
+        },
+        {
+          "title": "OpenAI lance GPT-6, son premier modèle d’IA capable de pirater seul des systèmes informatiques très protégés",
+          "link": "https://www.lemonde.fr/intelligences-artificielles-generatives/article/2026/09/04/openai-lance-gpt-6-son-premier-modele-d-ia-capable-de-pirater-seul-des-systemes-informatiques-tres-proteges_6765321_6191406.html",
+          "source": "Le Monde",
+          "summary": "Classé par l’entreprise au niveau de risque maximal en matière de cybersécurité, GPT-6 Astra sera disponible « dans les prochains jours » pour les abonnés payants de ChatGPT, l’agent conversationnel utilisé par un…",
+          "published": "2026-09-04T00:47:42+00:00"
+        },
+        {
+          "title": "A deux mois des élections de mi-mandat, l’administration Trump repart à l’offensive sur le vote par correspondance",
+          "link": "https://www.lemonde.fr/international/article/2026/09/04/a-deux-mois-des-elections-de-mi-mandat-l-administration-trump-repart-a-l-offensive-sur-le-vote-par-correspondance_6765288_3210.html",
+          "source": "Le Monde",
+          "summary": "L’exécutif américain a de nouveau demandé à la Cour suprême, jeudi, de lui permettre d’appliquer un décret visant à encadrer plus strictement le vote par correspondance, une mesure contestée en justice par plusieurs…",
+          "published": "2026-09-03T23:03:12+00:00"
+        },
+        {
+          "title": "La FIFA dénonce une « campagne de dénigrement » menée par l’UEFA à son égard",
+          "link": "https://www.lemonde.fr/football/article/2026/09/04/la-fifa-denonce-une-campagne-de-denigrement-menee-par-l-uefa-a-son-egard_6765287_1616938.html",
+          "source": "Le Monde",
+          "summary": "Dans le sillage du projet économique avorté de la FIFA, l’instance européenne prépare une action en justice contre le patron du football mondial, Gianni Infantino, pour « gestion déloyale ».",
+          "published": "2026-09-03T23:01:45+00:00"
+        },
         {
           "title": "Présidentielle 2027 : en cas de victoire de Marine Le Pen, Sarah Knafo ne ferme pas la porte à une entrée dans un gouvernement Bardella",
           "link": "https://www.lefigaro.fr/elections/presidentielles/pourquoi-pas-sarah-knafo-ne-ferme-pas-la-porte-a-une-entree-dans-un-gouvernement-bardella-20260903",
@@ -185,48 +227,6 @@
           "source": "Le Figaro",
           "summary": "DÉCRYPTAGE - La firme de Dario Amodei a soumis un puissant modèle d’IA à des tests pour savoir jusqu’où il pouvait aller pour «maximiser» ses résultats.",
           "published": "2026-09-03T22:01:15+00:00"
-        },
-        {
-          "title": "Procès Lindsay Clancy : la défense demande le retrait d'un juré qui empêcherait le jury d’aboutir à un verdict",
-          "link": "https://www.lefigaro.fr/flash-actu/proces-lindsay-clancy-la-defense-demande-le-retrait-d-un-jure-qui-empecherait-le-jury-d-aboutir-a-un-verdict-20260903",
-          "source": "Le Figaro",
-          "summary": "Jugée aux États-Unis, l’accusée encourt la prison à vie pour le meurtre par strangulation de ses enfants de cinq ans, trois ans et huit mois.",
-          "published": "2026-09-03T21:59:46+00:00"
-        },
-        {
-          "title": "Le constructeur automobile Volkswagen confirme une nouvelle vague de 50 000 licenciements dans le monde",
-          "link": "https://www.franceinfo.fr/economie/le-constructeur-automobile-volkswagen-confirme-une-nouvelle-vague-de-50-000-licenciements-dans-le-monde_8176070.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le premier constructeur européen avait déjà annoncé entre 2024 et 2026 vouloir supprimer 50 000 emplois en Allemagne d'ici 2030.",
-          "published": "2026-09-03T21:44:52+00:00"
-        },
-        {
-          "title": "Le gouvernement envisage de relever le plafond du Livret A à 30.000 euros pour financer l’adaptation au climat",
-          "link": "https://www.lefigaro.fr/conjoncture/apres-l-ete-le-plus-chaud-jamais-enregistre-le-gouvernement-envisage-de-relever-le-plafond-du-livret-a-a-30-000-euros-20260903",
-          "source": "Le Figaro",
-          "summary": "Après un été marqué par des températures record, trois vagues de chaleur et des incendies dévastateurs, le gouvernement cherche des marges de financement pour «accélérer» les travaux nécessaires face au réchauffement…",
-          "published": "2026-09-03T21:20:22+00:00"
-        },
-        {
-          "title": "L'ancien maire de Chateaudun Fabien Verdier candidat à la primaire de la gauche pour porter la voix des \"sous-préfectures\"",
-          "link": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-maire-de-chateaudun-fabien-verdier-candidat-a-la-primaire-de-la-gauche-pour-porter-la-voix-des-sous-prefectures_8176064.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Il sera le sixième candidat à la primaire s'il obtient les parrainages nécessaires. Déjà candidat à la primaire du PS de 2016, ce directeur d'hôpital n'avait pas recueilli le nombre de signatures suffisants.",
-          "published": "2026-09-03T21:18:28+00:00"
-        },
-        {
-          "title": "EN DIRECT - «Notre Constitution est notre bien le plus précieux» : Yaël Braun-Pivet dénonce la proposition de réforme de Bruno Retailleau",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-wauquiez-appelle-la-droite-a-un-devoir-d-inventaire-avec-macron-ruffin-et-villepin-testent-leurs-convergences-20260903",
-          "source": "Le Figaro",
-          "summary": "La présidente de l’Assemblée nationale s’est dite jeudi «en total désaccord» avec le candidat LR à la présidentielle, qui a annoncé vouloir créer une «nouvelle procédure» pour que le peuple français ait «le dernier mot»…",
-          "published": "2026-09-03T21:17:03+00:00"
-        },
-        {
-          "title": "Allemagne : un objet suspect découvert près d'un poste électrique après deux attentats présumés",
-          "link": "https://www.lefigaro.fr/international/allemagne-un-objet-suspect-decouvert-pres-d-un-poste-electrique-apres-deux-attentats-presumes-20260903",
-          "source": "Le Figaro",
-          "summary": "L’objet n’a provoqué aucun dégât et a été «sécurisé», a indiqué la police pour qui son éventuelle capacité de nuisance reste encore à établir.",
-          "published": "2026-09-03T21:10:19+00:00"
         }
       ]
     },
