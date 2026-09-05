@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-09-05T17:09:12.733731+00:00",
+  "generated_at": "2026-09-05T19:57:22.673004+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Allemagne : 6 000 personnes manifestent pour la démocratie avant un scrutin favorable à l'AfD",
+          "link": "https://www.france24.com/fr/europe/20260905-allemagne-6-000-personnes-manifestent-pour-d%C3%A9mocratie-avant-scrutin-favorable-afd-extr%C3%AAme-droite-%C3%A9lections-r%C3%A9gionales",
+          "source": "France 24",
+          "summary": "Près de 6 000 personnes ont manifesté samedi à Magdebourg, dans la région de Saxe-Anhalt, en Allemagne. Le rassemblement était organisé dans le cadre d'un festival pour \"la démocratie\" à la veille d'un scrutin régional…",
+          "published": "2026-09-05T19:41:53+00:00"
+        },
+        {
+          "title": "La Grèce annonce des aides et allégements fiscaux de 2,2 milliards d’euros pour 2027",
+          "link": "https://www.lemonde.fr/international/article/2026/09/05/la-grece-annonce-des-aides-et-allegements-fiscaux-de-2-2-milliards-d-euros-pour-2027_6766436_3210.html",
+          "source": "Le Monde",
+          "summary": "Malgré la reprise économique et la croissance affichée de plus de 2 % depuis la fin de la crise économique, l’inflation est rampante et le coût de la vie ne cesse d’augmenter, sans que les salaires suivent.",
+          "published": "2026-09-05T19:29:51+00:00"
+        },
+        {
+          "title": "Le Pentagone a soumis des responsables militaires américains au détecteur de mensonge après des fuites, d’après le « New York Times »",
+          "link": "https://www.lemonde.fr/international/article/2026/09/05/le-pentagone-a-soumis-des-responsables-militaires-americains-au-detecteur-de-mensonge-apres-des-fuites-d-apres-le-new-york-times_6766366_3210.html",
+          "source": "Le Monde",
+          "summary": "Une cinquantaine de membres de l’état-major ont été interrogés au polygraphe pour identifier la source d’une fuite sur une possible pénurie de munitions américaines.",
+          "published": "2026-09-05T17:17:10+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine rencontre les deux émissaires américains, Steve Witkoff et Jared Kushner, au Kremlin",
+          "link": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-vladimir-poutine-et-les-deux-emissaires-americains-steve-wiktoff-et-jared-kushner-ont-commence-leurs-discussions-au-kremlin_6760568_3210.html",
+          "source": "Le Monde",
+          "summary": "Donald Trump n’a pas précisé si la proposition dont ses émissaires sont porteurs impliquait une cession de territoire de la part de l’Ukraine, comme il l’avait laissé entendre auparavant. Les deux hommes doivent…",
+          "published": "2026-09-05T17:12:38+00:00"
+        },
         {
           "title": "VIDEO | voici « l’Octogone », le plus grand centre de commandement militaire au monde construit en Egypte",
           "link": "https://www.lemonde.fr/international/video/2026/09/05/video-voici-l-octogone-le-plus-grand-centre-de-commandement-militaire-au-monde-construit-en-egypte_6766363_3211.html",
@@ -26,7 +54,7 @@
           "published": "2026-09-05T15:57:03+00:00"
         },
         {
-          "title": "Les Etats-Unis affirment avoir détruit trois pétroliers iraniens en représailles à des tirs contre deux de ses navires dans le golfe Persique",
+          "title": "Les Etats-Unis affirment avoir détruit trois pétroliers iraniens en représailles à des tirs contre deux de leurs navires dans le golfe Persique",
           "link": "https://www.lemonde.fr/international/article/2026/09/05/les-etats-unis-affirment-avoir-detruit-trois-petroliers-iraniens-apres-des-tirs-contre-deux-de-ses-navires-dans-le-golfe-persique_6766361_3210.html",
           "source": "Le Monde",
           "summary": "Un porte-avions et un destroyer américains « ont échappé à de multiples attaques iraniennes non provoquées », selon l’armée américaine.",
@@ -36,7 +64,7 @@
           "title": "Jordan Bardella sur le soutien à l’Ukraine : « On ne peut pas donner de l’argent sans aucune garantie ni sans la sûreté que cet argent sera remboursé un jour »",
           "link": "https://www.lemonde.fr/politique/article/2026/09/05/jordan-bardella-sur-le-soutien-a-l-ukraine-on-ne-peut-pas-donner-de-l-argent-sans-aucune-garantie-ni-sans-la-surete-que-cet-argent-sera-rembourse-un-jour_6766357_823448.html",
           "source": "Le Monde",
-          "summary": "Le président du RN a pris la parole sur la guerre en Ukraine, samedi, après les déclarations de Louis Alliot appelant à « couper le robinet » du soutien à Kiev.",
+          "summary": "Le président du RN a pris la parole sur la guerre en Ukraine, samedi, après les déclarations de Louis Alliot appelant à « couper le robinet » du soutien à Kiev et a réaffirmé son « affinité politique et personnelle…",
           "published": "2026-09-05T15:28:52+00:00"
         },
         {
@@ -45,34 +73,6 @@
           "source": "France 24",
           "summary": "Yoav Segalovitz, un ancien policier et ministre juif, sera numéro deux sur la liste du parti arabe israélien Ra'am aux élections du 27 octobre 2026. Cette annonce faite le 31 août détonne dans un climat électoral où…",
           "published": "2026-09-05T15:02:19+00:00"
-        },
-        {
-          "title": "Visite des émissaires américains : Poutine ordonne l'arrêt des frappes sur Kiev pendant trois jours",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260905-visite-des-%C3%A9missaires-am%C3%A9ricains-poutine-ordonne-l-arr%C3%AAt-des-frappes-sur-kiev-pendant-trois-jours",
-          "source": "France 24",
-          "summary": "Le président russe Vladimir Poutine a ordonné, samedi, de cesser les frappes sur Kiev pendant trois jours, alors que les Américains Steve Witkoff et Jared Kushner doivent s'y rendre. Les deux émissaires du président…",
-          "published": "2026-09-05T14:56:54+00:00"
-        },
-        {
-          "title": "Plus de 5 000 disparus au Népal : des crémations symboliques à Katmandou",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260905-plus-de-5-000-disparus-au-n%C3%A9pal-des-familles-tentent-de-faire-leur-deuil",
-          "source": "France 24",
-          "summary": "Au Népal, le dernier bilan de la crue meurtrière après l’effondrement d’une partie d’un glacier est de 1 287 morts et 5 083 disparus selon l’autorité népalaise chargée de la gestion des situations d’urgence. De…",
-          "published": "2026-09-05T14:53:06+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : le RN est un « cheval de Troie des impérialistes » pour Marine Tondelier, le « parti de l’étranger » pour Raphaël Glucksmann",
-          "link": "https://www.lemonde.fr/politique/article/2026/09/05/guerre-en-ukraine-le-rn-est-un-cheval-de-troie-des-imperialistes-pour-marine-tondelier-le-parti-de-l-etranger-pour-raphael-glucksmann_6766353_823448.html",
-          "source": "Le Monde",
-          "summary": "Les déclarations de plusieurs cadres du parti d’extrême droite sur les limites à apporter à l’aide à Kiev ont été de nouveau critiquées, samedi, à gauche.",
-          "published": "2026-09-05T14:41:19+00:00"
-        },
-        {
-          "title": "En Allemagne, des milliers de manifestants pour « la démocratie » à la veille du scrutin local en Saxe-Anhalt",
-          "link": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-du-scrutin-local-en-saxe-anhalt_6766352_3210.html",
-          "source": "Le Monde",
-          "summary": "Près de 6 000 personnes ont défilé à Magdebourg, à la veille d’élections régionales où l’extrême droite espère une victoire historique.",
-          "published": "2026-09-05T14:38:45+00:00"
         }
       ]
     },
@@ -84,18 +84,46 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Après un été pluvieux, place à une saison des pommes « extraordinaire »",
+          "link": "https://www.lapresse.ca/actualites/2026-09-05/apres-un-ete-pluvieux-place-a-une-saison-des-pommes-extraordinaire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les Producteurs de pommes du Québec prévoient une bonne année pour les vergers de la province à l’occasion du lancement de la saison des cueillettes.",
+          "published": "2026-09-05T18:16:36+00:00"
+        },
+        {
+          "title": "En Allemagne, 6000 personnes manifestent pour «la démocratie» avant le scrutin en Saxe-Anhalt",
+          "link": "https://www.ledevoir.com/monde/europe/1006853/allemagne-6000-personnes-manifestent-democratie-avant-scrutin-saxe-anhalt",
+          "source": "Le Devoir",
+          "summary": "Le parti d’extrême droite pourrait remporter une victoire historique dimanche dans l’est de l’Allemagne.",
+          "published": "2026-09-05T18:14:00+00:00"
+        },
+        {
+          "title": "Chantier de 1,8 milliard par année | Plus de 250 nouveaux CLSC pour la « première ligne », propose QS",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/chantier-de-1-8-milliard-par-annee/plus-de-250-nouveaux-clsc-pour-la-premiere-ligne-propose-qs.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Québec solidaire voit grand pour les soins de « première ligne ». La co-porte-parole Ruba Ghazal s’est engagée à accroître le nombre de CLSC à 400 à travers le Québec en l’espace de deux mandats, ce qui représente près…",
+          "published": "2026-09-05T17:43:37+00:00"
+        },
+        {
+          "title": "Efficacité de l’État | Le PQ promet de geler le salaire des élus et des hauts dirigeants",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/efficacite-de-l-etat/le-pq-promet-de-geler-le-salaire-des-elus-et-des-hauts-dirigeants.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Paul St-Pierre Plamondon veut imposer un gel de salaire aux PDG de sociétés d’État et aux élus de l’Assemblée nationale jusqu’au retour à l’équilibre budgétaire. Le chef péquiste permettra cependant à ses futurs députés…",
+          "published": "2026-09-05T17:42:13+00:00"
+        },
+        {
           "title": "Milliard accuse Fréchette de mentir sur les garderies",
           "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/milliard-accuse-frechette-de-mentir-sur-les-garderies.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le chef libéral soutient que Christine Fréchette est « obsédée » par la victoire et « est prête à dire n’importe quoi ». Il cite en exemple ses mentions répétées à Donald Trump, mais aussi l’annonce caquiste de samedi…",
+          "summary": "Charles Milliard soutient que Christine Fréchette est « obsédée » par la victoire et « est prête à dire n’importe quoi ». Il cite en exemple ses mentions répétées à Donald Trump, mais aussi l’annonce caquiste de samedi…",
           "published": "2026-09-05T16:59:07+00:00"
         },
         {
           "title": "Le PQ gèlerait les salaires des députés, des ministres et des p.-d.g. des sociétés d’État",
           "link": "https://www.ledevoir.com/politique/quebec/1006847/pq-gelerait-salaires-deputes-ministres-p-g-societes-etat",
           "source": "Le Devoir",
-          "summary": "Ces mesures seraient en vigueur jusqu’au «retour de l’équilibre budgétaire» au Québec.",
-          "published": "2026-09-05T16:05:52+00:00"
+          "summary": "Ces mesures seraient en vigueur jusqu’au « retour de l’équilibre budgétaire » au Québec.",
+          "published": "2026-09-05T16:05:00+00:00"
         },
         {
           "title": "Homme atteint d’alzheimer | Retourné à l’hôpital par sa résidence pour aînés",
@@ -105,13 +133,6 @@
           "published": "2026-09-05T16:00:00+00:00"
         },
         {
-          "title": "Le PQ « cache » le mot référendum pour paraître « plus soft », accuse Fréchette",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-pq-cache-le-mot-referendum-pour-paraitre-plus-soft-accuse-frechette.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le chef péquiste Paul St-Pierre Plamondon « cache » le mot référendum pour paraître « plus soft », accuse Christine Fréchette. Mais le péril référendaire qu’elle décrie chaque jour ne la pousse pas à envisager une…",
-          "published": "2026-09-05T15:56:49+00:00"
-        },
-        {
           "title": "L’armée américaine a frappé trois pétroliers iraniens",
           "link": "https://www.ledevoir.com/monde/moyen-orient/1006844/armee-americaine-dit-avoir-detruit-trois-petroliers-iraniens",
           "source": "Le Devoir",
@@ -119,39 +140,18 @@
           "published": "2026-09-05T15:50:00+00:00"
         },
         {
+          "title": "L’armée américaine dit avoir détruit trois pétroliers iraniens",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-09-05/l-armee-americaine-dit-avoir-detruit-trois-petroliers-iraniens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’armée américaine a annoncé avoir détruit samedi trois pétroliers iraniens dans la région du Golfe, en riposte à une attaque contre deux de ses navires par Téhéran, qui a menacé de représailles « plus dures » en cas de…",
+          "published": "2026-09-05T15:04:03+00:00"
+        },
+        {
           "title": "Les Louanges et Arielle Soucy éclairent notre monde au FME",
           "link": "https://www.ledevoir.com/culture/musique/1006841/louanges-arielle-soucy-eclairent-notre-monde-fme",
           "source": "Le Devoir",
           "summary": "La 24e édition du Festival de musique émergente d’Abitibi-Témiscamingue bat son plein à Rouyn-Noranda jusqu’à dimanche.",
           "published": "2026-09-05T14:51:55+00:00"
-        },
-        {
-          "title": "Blessé, Tadej Pogacar confirme qu’il met un terme à sa saison",
-          "link": "https://www.ledevoir.com/sports/1006835/blesse-tadej-pogacar-confirme-il-met-terme-saison",
-          "source": "Le Devoir",
-          "summary": "Le cycliste ratera donc les Championnats du monde de cyclisme sur route de l’UCI, à la fin de septembre à Montréal.",
-          "published": "2026-09-05T14:07:00+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine | Poutine ordonne une trêve de 72 heures des frappes contre Kyiv",
-          "link": "https://www.lapresse.ca/international/europe/2026-09-05/guerre-en-ukraine/poutine-ordonne-une-treve-de-72-heures-des-frappes-contre-kyiv.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le président russe Vladimir Poutine a ordonné une trêve de 72 heures dans les frappes contre Kyiv, a annoncé samedi le Kremlin. Les émissaires américains Steve Witkoff et Jared Kushner arrivaient alors à Moscou pour…",
-          "published": "2026-09-05T13:55:48+00:00"
-        },
-        {
-          "title": "Un couple de sexagénaires poignardés dans un appartement à Montréal",
-          "link": "https://www.ledevoir.com/actualites/1006832/couple-sexagenaires-poignardes-appartement-montreal",
-          "source": "Le Devoir",
-          "summary": "Le suspect, le fils du couple, a été arrêté à proximité des lieux.",
-          "published": "2026-09-05T13:26:00+00:00"
-        },
-        {
-          "title": "Les émissaires de Trump à Moscou pour des négociations",
-          "link": "https://www.ledevoir.com/monde/1006826/emissaires-trump-moscou-negociations",
-          "source": "Le Devoir",
-          "summary": "Selon Trump, Jared Kushner et Steve Witkoff arrivent avec une proposition pour mettre fin à la guerre en Ukraine.",
-          "published": "2026-09-05T13:03:00+00:00"
         }
       ]
     },
@@ -159,80 +159,101 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Rugby : Toulon et Clermont en déplacement, Paris reçoit Perpignan... Suivez le multiplex de la 1re journée du Top 14",
-          "link": "https://www.lefigaro.fr/sports/rugby/top-14/en-direct-rugby-toulon-et-clermont-en-deplacement-paris-recoit-perpignan-suivez-le-multiplex-de-la-1re-journee-du-top-14-20260905",
+          "title": "EN DIRECT – UBB-Racing 92 : cinq essais en une demi-heure... Même à 14, les Girondins martyrisent les Franciliens à Chaban-Delmas",
+          "link": "https://www.lefigaro.fr/sports/rugby/live/top-14/2027/952475/bordeaux-begles-racing",
           "source": "Le Figaro",
-          "summary": "C’est la reprise en Top 14. Cinq matches sont au programme pour lancer, ce samedi en début de soirée, la première journée du championnat de France de rugby.",
-          "published": "2026-09-05T17:07:03+00:00"
+          "summary": "Doubles champions d’Europe en titre mais absents de la dernière phase finale du Top 14, les Unionistes reçoivent ce samedi les Franciliens pour la première grosse affiche de la saison.",
+          "published": "2026-09-05T19:55:06+00:00"
         },
         {
-          "title": "EN DIRECT - Présidentielle 2027 : «L’immigration, une priorité absolue», promet Jordan Bardella",
+          "title": "Top 14 : fin du suspense, Louis Bielle-Biarrey prolonge officiellement à l’UBB",
+          "link": "https://www.lefigaro.fr/sports/rugby/louis-bielle-biarrey-prolonge-officiellement-a-l-ubb-20260905",
+          "source": "Le Figaro",
+          "summary": "L’ailier international, en fin de contrat avec le club girondin dans un an, s’est engagé jusqu’en 2029.",
+          "published": "2026-09-05T19:53:00+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : Philippe Aghion étrille les propositions économiques de Marine Le Pen et Jean-Luc Mélenchon",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-philippe-aghion-etrille-les-propositions-economiques-de-marine-le-pen-et-jean-luc-melenchon-20260905",
+          "source": "Le Figaro",
+          "summary": "Le prix Nobel d’économie a notamment affirmé que la candidate RN à la prochaine présidentielle faisait «semblant d’être raisonnable», dans un entretien accordé à La Tribune Dimanche.",
+          "published": "2026-09-05T19:36:00+00:00"
+        },
+        {
+          "title": "L'Union Bordeaux-Bègles prolonge son joueur star Louis Bielle-Biarrey jusqu'en 2029",
+          "link": "https://www.franceinfo.fr/sports/rugby/top-14/l-union-bordeaux-begles-prolonge-son-joueur-star-louis-bielle-biarrey-jusqu-en-2029_8179064.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'UBB a annoncé la prolongation de l'ailier samedi, peu avant le premier match de la saison de Top 14 face au Racing 92.",
+          "published": "2026-09-05T19:34:59+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine : Vladimir Poutine rencontre les émissaires américains et ordonne de ne pas mener de frappes sur Kiev pendant trois jours",
+          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-premiere-visite-a-kiev-des-emissaires-de-donald-trump-dimanche-20260904",
+          "source": "Le Figaro",
+          "summary": "Jared Kushner et Steve Witkoff, qui se sont déjà rendus à Moscou à plusieurs reprises et dont le voyage à Kiev est négocié depuis des mois, se rendront dans la capitale ukrainienne «dimanche».",
+          "published": "2026-09-05T19:25:41+00:00"
+        },
+        {
+          "title": "Formule 1 : Pierre Gasly décroche la pole position du Grand Prix d’Italie, une première pour un Français depuis 1997",
+          "link": "https://www.lemonde.fr/sport/article/2026/09/05/formule-1-pierre-gasly-decroche-la-pole-position-du-grand-prix-d-italie-une-premiere-pour-un-francais-depuis-1997_6766433_3242.html",
+          "source": "Le Monde",
+          "summary": "Le pilote de l’écurie Alpine a créé la surprise, samedi, à Monza, en arrachant la première pole position de sa carrière. C’était déjà sur le mythique circuit lombard qu’il avait connu son premier et seul succès dans la…",
+          "published": "2026-09-05T19:13:43+00:00"
+        },
+        {
+          "title": "Top 14 : Pau renverse Montpellier, Clermont et Toulon chutent d’entrée, frayeurs pour le Stade Français, le réveil tardif de Vannes",
+          "link": "https://www.lefigaro.fr/sports/rugby/top-14/top-14-pau-renverse-montpellier-clermont-et-toulon-chutent-d-entree-frayeurs-pour-le-stade-francais-le-reveil-tardif-de-vannes-20260905",
+          "source": "Le Figaro",
+          "summary": "Dans les cinq premiers matches de la saison 2026-2027, les Parisiens se sont imposés dans la douleur face aux Perpignanais et les Palois ont renversé les Héraultais. Rentrée ratée pour les Auvergnats et les Toulonnais.",
+          "published": "2026-09-05T19:08:40+00:00"
+        },
+        {
+          "title": "\"Soumission à la Russie\", \"patriotes de pacotille\"... Les candidats à la présidentielle fustigent la position du RN sur l'aide à l'Ukraine",
+          "link": "https://www.franceinfo.fr/elections/presidentielle/parti-de-la-soumission-a-la-russie-patriotes-de-pacotille-les-candidats-a-la-presidentielle-fustigent-la-position-du-rn-sur-l-aide-a-l-ukraine_8178707.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Sur BFMTV, Louis Aliot a suggéré d'arrêter de soutenir financièrement l'Ukraine, reprenant à son compte l'expression \"couper le robinet\".",
+          "published": "2026-09-05T19:00:40+00:00"
+        },
+        {
+          "title": "Un œil sur l’écran, l’autre sur le panier : comment Amazon a transformé Prime Video en machine à vendre",
+          "link": "https://www.lefigaro.fr/medias/un-oeil-sur-l-ecran-l-autre-sur-le-panier-comment-amazon-a-transforme-prime-video-en-machine-a-vendre-20260905",
+          "source": "Le Figaro",
+          "summary": "RÉCIT - Pensé il y a 20 ans comme un bonus de fidélisation, le service de streaming est devenu un studio primé, un diffuseur sportif majeur et une puissante régie publicitaire. Le plus somptueux produit d’appel jamais…",
+          "published": "2026-09-05T19:00:00+00:00"
+        },
+        {
+          "title": "EN DIRECT - Présidentielle 2027 : «Il y a avec Marine Le Pen une affinité politique indéfectible», affirme Jordan Bardella",
           "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-plusieurs-candidats-attendus-a-la-braderie-de-lille-ce-samedi-20260905",
           "source": "Le Figaro",
-          "summary": "Le président du RN s’est exprimé sur BFMTV, affirmant que cela fait partie «des défis majeurs» de l’Europe.",
-          "published": "2026-09-05T17:07:00+00:00"
-        },
-        {
-          "title": "Discours raté, bafouillages, excuses... Pourquoi la Française Indira Ampiot a échoué à Miss Monde 2026",
-          "link": "https://tvmag.lefigaro.fr/programme-tv/miss-france/miss-monde-2026-pourquoi-la-francaise-indira-ampiot-a-echoue-aux-portes-du-top-6-20260905",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Pourtant très bien partie et même favorite des bookmakers, Miss France 2023 n’a pas réussi à se qualifier pour la phase finale du concours, remporté par Miss République dominicaine, Joheirry Mola Dominguez.",
-          "published": "2026-09-05T17:02:13+00:00"
-        },
-        {
-          "title": "«Entre le taxi, la soirée et un verre en plus, j’en suis déjà à 60 euros» : avec l’inflation, trouver l’amour n’a jamais coûté aussi cher",
-          "link": "https://www.lefigaro.fr/conso/entre-le-taxi-la-soiree-et-un-verre-en-plus-j-en-suis-deja-a-60-euros-avec-l-inflation-trouver-l-amour-n-a-jamais-coute-aussi-cher-20260905",
-          "source": "Le Figaro",
-          "summary": "Sorties, repas, abonnements aux applications de rencontres... Alors que l’inflation fait son retour depuis le début du conflit au Moyen-Orient, trouver l’âme sœur devient aussi, de plus en plus, une question de budget.",
-          "published": "2026-09-05T17:00:00+00:00"
-        },
-        {
-          "title": "Miss Monde 2026 : Miss République dominicaine sacrée, la Française Indira Ampiot dans le Top 12",
-          "link": "https://tvmag.lefigaro.fr/programme-tv/miss-france/miss-monde-2026-miss-republique-dominicaine-sacree-la-francaise-indira-ampiot-dans-le-top-12-20260905",
-          "source": "Le Figaro",
-          "summary": "L’élection se tenait ce samedi à Nha Trang, au Vietnam. Après quatre heures et demie de show, Miss République dominicaine, Joheirry Mola Dominguez, l’a emporté devant la Française Indira Ampiot, éliminée aux portes du…",
-          "published": "2026-09-05T16:54:15+00:00"
-        },
-        {
-          "title": "Paris : en pleine réanimation cardiaque dans la rue, un infirmier se fait voler son sac par un homme en état d’ivresse",
-          "link": "https://www.lefigaro.fr/faits-divers/paris-en-pleine-reanimation-cardiaque-dans-la-rue-un-infirmier-se-fait-voler-son-sac-par-un-homme-en-etat-d-ivresse-20260905",
-          "source": "Le Figaro",
-          "summary": "Retenu par des témoins avant l’arrivée des forces de l’ordre, le suspect a été placé en garde à vue différée. Le cœur de la victime est finalement reparti, et elle a pu être transférée à Lariboisière.",
-          "published": "2026-09-05T16:48:13+00:00"
-        },
-        {
-          "title": "Seine-Saint-Denis : une Lamborghini coupée en deux et en flammes à la suite d’un accident mortel sur l’autoroute A3",
-          "link": "https://www.lefigaro.fr/faits-divers/seine-saint-denis-une-lamborghini-coupee-en-deux-et-en-flammes-a-la-suite-d-un-accident-mortel-sur-l-autoroute-a3-20260905",
-          "source": "Le Figaro",
-          "summary": "Un accident impliquant deux véhicules, dont une Lamborghini retrouvée en flammes et coupée en deux contre la glissière de sécurité, se serait produit ce samedi matin vers 10h20 sur l’autoroute A3 à hauteur de…",
-          "published": "2026-09-05T16:46:22+00:00"
-        },
-        {
-          "title": "Coups de «couteau», «barres de fer» et tirs «d’airsoft» : un jeune de 17 ans «ensanglanté et grièvement blessé» après un match de foot",
-          "link": "https://www.lefigaro.fr/faits-divers/coups-de-couteau-barres-de-fer-et-tirs-d-airsoft-un-jeune-de-17-ans-ensanglante-et-grievement-blesse-apres-un-match-de-foot-20260905",
-          "source": "Le Figaro",
-          "summary": "Dans la nuit du 24 août, un match de football «improvisé» entre groupes de jeunes mineurs a dégénéré en rixe armée à Saint-Renan, dans le Finistère. Quatre mineurs âgés de 15 à 17 ans ont depuis été mis en examen pour…",
-          "published": "2026-09-05T16:45:39+00:00"
-        },
-        {
-          "title": "Formule 1 : avant Pierre Gasly, qui sont les Français qui ont décroché au moins une pole position ?",
-          "link": "https://www.lefigaro.fr/sports/formule-1/formule-1-avant-pierre-gasly-qui-sont-les-francais-qui-ont-decroche-au-moins-une-pole-position-20260905",
-          "source": "Le Figaro",
-          "summary": "Le pilote Alpine est devenu ce samedi, à Monza, le dixième Français à signer au moins une pole position en Formule 1.",
-          "published": "2026-09-05T16:43:45+00:00"
-        },
-        {
-          "title": "Trop répressive, droitière, pensée par des blancs pour des blancs... : ces féministes intersectionnelles hostiles à la loi intégrale",
-          "link": "https://www.lefigaro.fr/actualite-france/trop-repressive-droitiere-pensee-par-des-blancs-pour-des-blancs-ces-feministes-intersectionnelles-hostiles-a-la-loi-integrale-20260905",
-          "source": "Le Figaro",
-          "summary": "Pour les défenseurs du féminisme intersectionnel, le texte - qui arrive ce lundi 7 septembre à l’Assemblée est trop peu révolutionnaire pour être efficace et trop «punitif» pour ne pas être dangereux.",
-          "published": "2026-09-05T16:33:47+00:00"
+          "summary": "Le président du RN s’est exprimé sur BFMTV, affirmant par ailleurs que l’immigration fait partie «des défis majeurs» de l’Europe.",
+          "published": "2026-09-05T18:50:03+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Vélos aux enchères, antivol qui pue et FSD de Tesla en France : la semaine mobilité électrique",
+          "link": "https://www.frandroid.com/survoltes/3234687_velos-aux-encheres-antivol-qui-pue-et-fsd-de-tesla-en-france-la-semaine-mobilite-electrique",
+          "source": "Frandroid",
+          "summary": "Une semaine chargée du côté de la mobilité électrique, entre deux entreprises françaises et européennes en grande difficulté, un éditorialiste piégé par sa première recharge, un comparatif de batteries solaires et un…",
+          "published": "2026-09-05T18:01:00+00:00"
+        },
+        {
+          "title": "DLSS 5 de Nvidia déjà sur des cartes AMD Radeon : possible, mais injouable",
+          "link": "https://www.frandroid.com/marques/amd/3235051_dlss-5-de-nvidia-deja-sur-des-cartes-amd-radeon-possible-mais-injouable",
+          "source": "Frandroid",
+          "summary": "Le rendu neural DLSS 5 de Nvidia, réservé aux GeForce RTX, tourne maintenant sur des cartes AMD Radeon grâce à un mod. Problème&nbsp;: c'est pour l'instant totalement injouable.",
+          "published": "2026-09-05T17:50:00+00:00"
+        },
+        {
+          "title": "Moins de 130 € pour un écran PC gamer de 27″ QHD et 180 Hz ? C’est la super offre d’Amazon",
+          "link": "https://www.frandroid.com/bons-plans/3233389_moins-de-130-e-pour-un-ecran-pc-gamer-de-27-qhd-et-180-hz-cest-la-super-offre-damazon",
+          "source": "Frandroid",
+          "summary": "Si vous souhaitez investir dans un moniteur pour le jeu sans débourser une somme importante, voici l'AOC Gaming Q27G42XE. C'est un moniteur 27 pouces QHD taillé pour le jeu, avec sa dalle à 180 Hz. Bonne nouvelle, il…",
+          "published": "2026-09-05T17:35:00+00:00"
+        },
         {
           "title": "Le top 3 des meilleurs PC portables gamers que nous avons testé pour la rentrée",
           "link": "https://www.frandroid.com/guide-dachat/3232761_le-top-3-des-meilleurs-pc-portables-gamers-que-nous-avons-teste-pour-la-rentree",
@@ -295,27 +316,6 @@
           "source": "Frandroid",
           "summary": "Microsoft a dévoilé, au début de l'été, sa nouvelle tablette hybride Surface Pro, équipée d'une puce ARM Snapdragon X2 Plus. Actuellement, on peut la trouver, avec son clavier et son stylet, dans un pack à 1 549,99…",
           "published": "2026-09-05T15:29:00+00:00"
-        },
-        {
-          "title": "Aurzen ZIP Pro : le vidéoprojecteur qui se plie en trois corrige enfin ses deux gros défauts",
-          "link": "https://www.clubic.com/actualite-628381-aurzen-zip-pro-le-videoprojecteur-qui-se-plie-en-trois-corrige-enfin-ses-deux-gros-defauts.html",
-          "source": "Clubic",
-          "summary": "Aurzen profite de l’IFA 2026 pour faire évoluer son étonnant vidéoprojecteur pliable. Le ZIP Pro passe au Full HD, double sa luminosité et gagne une entrée vidéo USB-C, mais prend aussi sérieusement du poids.",
-          "published": "2026-09-05T15:19:00+00:00"
-        },
-        {
-          "title": "Netflix abandonne sa série Donjons & Dragons pour un projet gothique sur le vampire Strahd",
-          "link": "https://www.numerama.com/pop-culture/2325687-netflix-abandonne-sa-serie-donjons-dragons-pour-un-projet-gothique-sur-le-vampire-strahd.html",
-          "source": "Numerama",
-          "summary": "Netflix abandonne son projet de série Donjons &amp; Dragons dans les Royaumes oubliés et le remplace aussitôt par Ravenloft, centrée sur les origines d'un seigneur vampire. Une valse de projets qui en dit long sur la…",
-          "published": "2026-09-05T15:00:00+00:00"
-        },
-        {
-          "title": "Mini PC IA : avec 192 Go et un Ryzen AI Max+ PRO 495, l’EVO-X5 Pro de GMKtec vise les LLM de 300 milliards de paramètres",
-          "link": "https://www.frandroid.com/marques/gmktec/3234389_mini-pc-ia-avec-192-go-et-un-ryzen-ai-max-pro-495-levo-x5-pro-de-gmktec-vise-les-llm-de-300-milliards-de-parametres",
-          "source": "Frandroid",
-          "summary": "GMKtec a dévoilé à l'IFA l'EVO-X5 Pro, un mini PC sous Ryzen AI Max+ PRO 495 avec 192 Go de mémoire unifiée, présenté comme capable de faire tourner en local des modèles de 300 milliards de paramètres.",
-          "published": "2026-09-05T15:00:00+00:00"
         }
       ]
     }
