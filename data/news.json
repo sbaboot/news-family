@@ -1,15 +1,71 @@
 {
-  "generated_at": "2026-09-06T14:57:59.173141+00:00",
+  "generated_at": "2026-09-06T17:34:10.574165+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : le président ukrainien Volodymyr Zelensky rencontre les émissaires américains Jared Kushner et Steve Witkoff à Kiev",
+          "title": "En lançant sa fusée en orbite, la start-up bavaroise Isar Aerospace bouleverse l’écosystème spatial européen",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/06/en-lancant-sa-fusee-en-orbite-la-start-up-bavaroise-isar-aerospace-bouleverse-l-ecosysteme-spatial-europeen_6767457_3234.html",
+          "source": "Le Monde",
+          "summary": "La fusée Spectrum a placé sur orbite cinq satellites samedi. Un succès qui permet à l’entreprise allemande de prétendre jouer un rôle de complément à Ariane-6 face à l’américain SpaceX.",
+          "published": "2026-09-06T17:03:13+00:00"
+        },
+        {
+          "title": "Cinquante ans après la mort de Mao Zedong, l’ombre persistante du « Grand Timonier » sur la Chine",
+          "link": "https://www.lemonde.fr/international/article/2026/09/06/cinquante-ans-apres-la-mort-de-mao-zedong-l-ombre-persistante-du-grand-timonier-sur-la-chine_6767456_3210.html",
+          "source": "Le Monde",
+          "summary": "« Mao, l’encombrant héritage » (1/7). Mort le 9 septembre 1976, le fondateur de la République populaire de Chine continue de peser sur la vie politique du pays. Le Parti communiste, dont Mao a fait le socle du pouvoir,…",
+          "published": "2026-09-06T17:00:04+00:00"
+        },
+        {
+          "title": "Qui est Ulrich Siegmund, la figure montante de l’AfD qui galvanise les foules et fait trembler Berlin ?",
+          "link": "https://www.lemonde.fr/international/article/2026/09/06/qui-est-ulrich-siegmund-la-figure-montante-de-l-extreme-droite-allemande-qui-galvanise-les-foules-et-fait-trembler-berlin_6756796_3211.html",
+          "source": "Le Monde",
+          "summary": "Alors qu’une victoire de l’extrême droite se dessine en Saxe-Anhalt, ce dimanche soir 6 septembre, nous vous reproposons le portrait de la tête de liste régionale du parti AfD, publié pour la première fois le 26 août,…",
+          "published": "2026-09-06T16:26:26+00:00"
+        },
+        {
+          "title": "VIDÉO | Au Liban, des bombardements israéliens font au moins quatre morts",
+          "link": "https://www.lemonde.fr/international/video/2026/09/06/video-au-liban-des-bombardements-israeliens-font-au-moins-quatre-morts_6767420_3210.html",
+          "source": "Le Monde",
+          "summary": "Ce bilan provisoire fait également état de vingt blessés, dont trois enfants. L’armée israélienne affirme avoir riposté au lancement par le Hezbollah de deux drones contre ses soldats dans le sud du Liban.",
+          "published": "2026-09-06T16:02:35+00:00"
+        },
+        {
+          "title": "🔴 Allemagne en direct : fermeture des bureaux de vote en Saxe-Anhalt, quel score pour l'extrême droite ?",
+          "link": "https://www.france24.com/fr/europe/20260906-allemagne-en-direct-extreme-droite-favorite-saxe-anhalt-estimations-resultats",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-09-06T16:02:16+00:00"
+        },
+        {
+          "title": "Guerre au Soudan : des preuves supplémentaires de l’existence d’un programme d’armes chimiques en 2024",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/06/guerre-au-soudan-des-preuves-supplementaires-de-l-existence-d-un-programme-d-armes-chimiques-en-2024_6767419_3212.html",
+          "source": "Le Monde",
+          "summary": "Le « Washington Post » et le « New York Times » ont eu accès à des notes internes, des vidéos, des photos et des interceptions téléphoniques attestant que des bombes au chlore ont été développées par l’armée soudanaise…",
+          "published": "2026-09-06T16:00:04+00:00"
+        },
+        {
+          "title": "Festival de Deauville : votre film américain préféré ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260906-festival-de-deauville-votre-film-am%C3%A9ricain-pr%C3%A9f%C3%A9r%C3%A9",
+          "source": "France 24",
+          "summary": "Les États-Unis se classent deuxièmes pour le nombre de films produits avec 500 à 700 films par an ! Alors, le Festival du Cinéma Américain de Deauville a pour but de mettre en avant le meilleur de tout ce qui se fait…",
+          "published": "2026-09-06T15:25:56+00:00"
+        },
+        {
+          "title": "Yémen : 141 morts depuis samedi dans les affrontements entre rebelles houthistes et forces gouvernementales",
+          "link": "https://www.lemonde.fr/international/article/2026/09/06/yemen-141-morts-depuis-samedi-dans-les-affrontements-entre-rebelles-houthistes-et-forces-gouvernementales_6767385_3210.html",
+          "source": "Le Monde",
+          "summary": "Ce bilan porte à plus de 300 le nombre de morts depuis l’offensive lancée jeudi par les houthistes et visant à garder le contrôle de l’accès à la mer Rouge.",
+          "published": "2026-09-06T15:08:26+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : les premières discussions avec Volodymyr Zelensky ont été « très significatives », a déclaré Steve Witkoff, en visite à Kiev avec Jared Kushner",
           "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-le-president-ukrainien-volodymyr-zelensky-rencontre-les-emissaires-americains-jared-kushner-et-steve-witkoff-a-kiev_6766818_3210.html",
           "source": "Le Monde",
-          "summary": "Les entretiens entre les deux envoyés spéciaux de Donald Trump et les Ukrainiens seront suivis « d’une autre session avec des conseillers européens pour la sécurité nationale », a fait savoir le président ukrainien.",
-          "published": "2026-09-06T14:30:06+00:00"
+          "summary": "Une session de pourparlers impliquant les deux envoyés américains, la délégation ukrainienne et des responsables européens pour la sécurité nationale se tient dimanche soir dans la capitale ukrainienne.",
+          "published": "2026-09-06T14:30:05+00:00"
         },
         {
           "title": "Elections en régionales en Allemagne : quel programme de l'extrême droite ?",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "Les ⁠électeurs de Saxe-Anhalt, dans l'est de l'Allemagne, sont appelés aux urnes dimanche pour un scrutin régional lors ​duquel l’AfD espère devenir le premier parti d'extrême droite à accéder au pouvoir au niveau…",
           "published": "2026-09-06T14:22:57+00:00"
-        },
-        {
-          "title": "Sauvetages au Népal, frappes russes sur Kiev, un match de kokpar : la semaine en images",
-          "link": "https://www.france24.com/fr/asie-pacifique/20260906-sauvetages-n%C3%A9pal-frappes-russes-kiev-match-kokpar-tapisserie-bayeux-semaine-en-images",
-          "source": "France 24",
-          "summary": "Retour sur les temps forts de l'actualité de la semaine et les images les plus marquantes : les opérations de secours au Népal après une crue meurtrière, les nouvelles frappes nocturnes massives sur Kiev ou encore un…",
-          "published": "2026-09-06T14:15:50+00:00"
-        },
-        {
-          "title": "Allemagne en direct : l'extrême droite favorite en Saxe-Anhalt, suivez les premiers résultats",
-          "link": "https://www.france24.com/fr/europe/20260906-allemagne-en-direct-extreme-droite-favorite-saxe-anhalt-estimations-resultats",
-          "source": "France 24",
-          "summary": "Les bureaux de vote ont ouvert ce dimanche matin en Saxe-Anhalt, dans l'est de l'Allemagne. L’AfD, le parti d’extrême droite allemand, est le grand favori de cette élection régionale. Sera-t-il en mesure de diriger ce…",
-          "published": "2026-09-06T14:10:07+00:00"
-        },
-        {
-          "title": "Attentat contre la Marche des fiertés de Berlin : le lieu de mémoire vandalisé deux fois en une semaine",
-          "link": "https://www.lemonde.fr/international/article/2026/09/06/attentat-contre-la-marche-des-fiertes-de-berlin-le-lieu-de-memoire-vandalise-deux-fois-en-une-semaine_6767343_3210.html",
-          "source": "Le Monde",
-          "summary": "Un érable planté dans le parc Tiergarten en hommage aux victimes de l’attentat commis en juillet contre la Marche des fiertés de Berlin a été arraché, une semaine après le vandalisme d’un banc arc-en-ciel voisin.",
-          "published": "2026-09-06T14:02:38+00:00"
-        },
-        {
-          "title": "EN DIRECT, élections régionales en Allemagne : avec l’AfD, l’extrême droite va-t-elle remporter son premier Land en Saxe-Anhalt ? Suivez la soirée électorale et posez vos questions à notre journaliste",
-          "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-elections-regionales-en-allemagne-l-afd-peut-elle-remporter-son-premier-land-en-saxe-anhalt-suivez-la-soiree-electorale-avec-nous_6767342_3210.html",
-          "source": "Le Monde",
-          "summary": "Le parti Alternative pour l’Allemagne, porté par le médiatique Ulrich Siegmund, est donné favori dans cette région de l’ex-RDA pour le scrutin de dimanche. Le potentiel retour au pouvoir de l’extrême droite outre-Rhin…",
-          "published": "2026-09-06T14:02:13+00:00"
-        },
-        {
-          "title": "Arsenal et Chelsea se retrouvent pour un derby londonien déjà déterminant",
-          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260906-arsenal-et-chelsea-se-retrouvent-pour-un-derby-londonien-d%C3%A9j%C3%A0-d%C3%A9terminant",
-          "source": "France 24",
-          "summary": "Dimanche soir, Arsenal accueille Chelsea pour reprendre la tête du championnat en cas de victoire. Mikel Arteta et Xabi Alonso, amis depuis l'enfance, s'affronteront pour la première fois en tant qu'entraîneurs de…",
-          "published": "2026-09-06T13:47:32+00:00"
-        },
-        {
-          "title": "Une présentatrice égyptienne condamnée à la peine de mort pour trafic de drogue",
-          "link": "https://www.france24.com/fr/afrique/20260906-pr%C3%A9sentatrice-%C3%A9gyptienne-condamn%C3%A9e-peine-de-mort-pour-trafic-de-drogue-%C3%A9gypte-justice-t%C3%A9l%C3%A9vision",
-          "source": "France 24",
-          "summary": "La présentatrice égyptienne Sarah Khalifa, connue pour son émission \"Mission difficile\" sur la chaîne privée Al-Mehwar, et onze autres personnes ont été condamnées à la peine de mort par le tribunal pénal du Caire, ont…",
-          "published": "2026-09-06T13:39:40+00:00"
-        },
-        {
-          "title": "Bande de Gaza : huit pays à majorité musulmane condamnent dans « les termes les plus fermes » les appels de ministres israéliens à déplacer les Palestiniens",
-          "link": "https://www.lemonde.fr/international/article/2026/09/06/bande-de-gaza-huit-pays-a-majorite-musulmane-condamnent-dans-les-termes-les-plus-fermes-les-appels-de-ministres-israeliens-a-deplacer-les-palestiniens_6767307_3210.html",
-          "source": "Le Monde",
-          "summary": "Les ministres des affaires étrangères d’Arabie saoudite, d’Egypte, de Jordanie, des Emirats arabes unis, du Qatar, du Pakistan, d’Indonésie et de Turquie ont condamné les « plans et mécanismes visant à expulser de force…",
-          "published": "2026-09-06T13:34:22+00:00"
-        },
-        {
-          "title": "Une embarcation naviguant vers le Royaume-Unis avec 140 migrants à bord secourue au large de la baie de Seine",
-          "link": "https://www.lemonde.fr/international/article/2026/09/06/une-embarcation-naviguant-vers-le-royaume-unis-avec-140-migrants-a-bord-secourue-au-large-de-la-baie-de-seine_6767305_3210.html",
-          "source": "Le Monde",
-          "summary": "L’embarcation a été prise en charge dans la nuit de samedi à dimanche par plusieurs navires et deux hélicoptères, annonce la préfecture maritime de la Manche et de la mer du Nord, qui juge le lieu de départ « inhabituel…",
-          "published": "2026-09-06T13:15:09+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Montréal | Deux voitures incendiées en moins d’une heure",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-06/montreal/deux-voitures-incendiees-en-moins-d-une-heure.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Deux VUS ont été incendiés en moins d’une heure, dans la nuit de samedi à dimanche, à Saint-Léonard et dans Montréal-Est. Les policiers ont ouvert deux enquêtes pour des incendies criminels. Ils n’ont pas confirmé si…",
-          "published": "2026-09-06T14:54:11+00:00"
-        },
-        {
-          "title": "Saint-Léonard | L’homme qui aurait poignardé ses parents accusé de tentative de meurtre",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-06/saint-leonard/l-homme-qui-aurait-poignarde-ses-parents-accuse-de-tentative-de-meurtre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’homme qui a été arrêté dans l’arrondissement de Saint-Léonard à Montréal pour avoir poignardé ses parents, samedi matin, a été accusé de tentative de meurtre.",
-          "published": "2026-09-06T14:39:18+00:00"
-        },
-        {
-          "title": "Nombre important d’accidents mortels | Le PLQ promet d’élargir la funeste autoroute 50",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/nombre-important-d-accidents-mortels/le-plq-promet-d-elargir-la-funeste-autoroute-50.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Même avant sa construction, des critiques dénonçaient ses maigres deux voies. À quoi bon construire un « chemin à vaches » demandait le journal Le Droit en 1971.",
-          "published": "2026-09-06T14:21:18+00:00"
-        },
-        {
-          "title": "Duhaime veut donner 100 $ par personne pour bouger",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/duhaime-veut-donner-100-par-personne-pour-bouger.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le Parti conservateur du Québec promet de donner 100 $ par année aux Québécois dont le revenu familial est inférieur à 100 000 $ par année.",
-          "published": "2026-09-06T13:30:00+00:00"
-        },
-        {
-          "title": "Guerre commerciale | Fréchette convoque ses ministres à une réunion spéciale",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-09-06/guerre-commerciale/frechette-convoque-ses-ministres-a-une-reunion-speciale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Christine Fréchette met sur pause sa campagne et convoque une réunion spéciale de son conseil des ministres lundi, la veille de l’entrée en vigueur de la riposte tarifaire de son homologue fédéral Mark Carney contre les…",
-          "published": "2026-09-06T13:27:46+00:00"
-        },
-        {
-          "title": "L’extrême droite allemande en quête d’une victoire historique en Saxe-Anhalt",
-          "link": "https://www.ledevoir.com/monde/europe/1006883/extreme-droite-allemande-quete-victoire-historique-saxe-anhalt",
+          "title": "Quoi lire cette semaine?",
+          "link": "https://www.ledevoir.com/lire/1006901/quoi-lire-cette-semaine",
           "source": "Le Devoir",
-          "summary": "L’AfD n’est cependant pas assurée d’obtenir la majorité absolue pour prendre les rênes de la région.",
-          "published": "2026-09-06T13:04:46+00:00"
+          "summary": "Une sélection de nos critiques pour guider vos lectures de la semaine.",
+          "published": "2026-09-06T16:43:00+00:00"
         },
         {
-          "title": "Après Moscou, les émissaires de Trump en Ukraine pour la première fois",
-          "link": "https://www.ledevoir.com/monde/europe/1006880/apres-moscou-emissaires-trump-ukraine-premiere-fois",
+          "title": "Allemagne  | Importante victoire de l’extrême droite lors d’une élection régionale",
+          "link": "https://www.lapresse.ca/international/europe/2026-09-06/allemagne/importante-victoire-de-l-extreme-droite-lors-d-une-election-regionale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’extrême droite allemande arrive largement en tête dimanche des élections en Saxe-Anhalt, un camouflet pour le chancelier conservateur Friedrich Merz, selon des estimations de l’audiovisuel public, mais elle doit…",
+          "published": "2026-09-06T16:20:03+00:00"
+        },
+        {
+          "title": "Riposte aux droits de douane | Il n’est pas justifié de suspendre la campagne, croit le PQ",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/riposte-aux-droits-de-douane/il-n-est-pas-justifie-de-suspendre-la-campagne-croit-le-pq.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La riposte canadienne aux droits de douane américains ne justifie pas une suspension de la campagne électorale de la première ministre sortante, dénonce Paul St-Pierre Plamondon. Le chef péquiste exhorte Christine…",
+          "published": "2026-09-06T16:01:04+00:00"
+        },
+        {
+          "title": "Du harcèlement psychologique à la paroisse Notre-Dame",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-06/du-harcelement-psychologique-a-la-paroisse-notre-dame.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La paix du Christ ne règne pas dans les hautes sphères de l’Église catholique montréalaise. Le directeur général de la plus importante paroisse de la métropole a été congédié de façon « brutale, cavalière et humiliante…",
+          "published": "2026-09-06T16:00:00+00:00"
+        },
+        {
+          "title": "Mode de scrutin | QS demande à tous les partis de s’engager à une réforme électorale",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/mode-de-scrutin/qs-demande-a-tous-les-partis-de-s-engager-a-une-reforme-electorale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Ruba Ghazal lance un appel aux quatre autres chefs de parti : elle les a sommés, dimanche, de prendre « un engagement formel que cette campagne 2026 va être la dernière avec le mode de scrutin actuel ». Elle blâme aussi…",
+          "published": "2026-09-06T15:53:51+00:00"
+        },
+        {
+          "title": "QS veut donner plus de pouvoir aux citoyens pour «protéger et renforcer» la démocratie",
+          "link": "https://www.ledevoir.com/politique/quebec/1006898/qs-veut-donner-plus-pouvoir-citoyens-proteger-renforcer-democratie",
           "source": "Le Devoir",
-          "summary": "Vladimir Poutine s’est entretenu pendant trois heures samedi soir avec Steve Witkoff et Jared Kushner.",
-          "published": "2026-09-06T12:30:00+00:00"
+          "summary": "Le parti souhaite réformer le mode de scrutin actuel, qui est «malade».",
+          "published": "2026-09-06T15:49:00+00:00"
         },
         {
-          "title": "Le fil électoral | Le troisième lien suit Milliard jusqu’à Gatineau",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/le-fil-electoral/le-troisieme-lien-suit-milliard-jusqu-a-gatineau.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Bienvenue dans Le fil électoral de La Presse ! Retrouvez tout ce qu’il faut savoir sur la campagne en direct : actualités de dernière heure, explications, contexte, bruits de coulisses et plus encore…",
-          "published": "2026-09-06T12:00:00+00:00"
+          "title": "Le président libanais exhorte Washington à agir face à Israël après une «dangereuse escalade»",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1006895/president-libanais-exhorte-washington-agir-face-israel-apres-dangereuse-escalade",
+          "source": "Le Devoir",
+          "summary": "Des attaques israéliennes ont tué quatre personnes dimanche.",
+          "published": "2026-09-06T15:34:33+00:00"
         },
         {
-          "title": "Guerre en Ukraine | Les émissaires américains à Kyiv pour la première fois",
-          "link": "https://www.lapresse.ca/international/europe/2026-09-06/guerre-en-ukraine/les-emissaires-americains-a-kyiv-pour-la-premiere-fois.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les émissaires américains Steve Witkoff et Jared Kushner, porteurs selon le président Donald Trump d’une proposition destinée à mettre fin au conflit avec la Russie, ont débuté dimanche les pourparlers à Kyiv, après…",
-          "published": "2026-09-06T11:44:36+00:00"
+          "title": "La salle où chantera Céline Dion à Paris pourrait rejeter des centaines de faux billets chaque soir",
+          "link": "https://www.ledevoir.com/culture/musique/1006892/salle-accueillera-celine-dion-paris-attend-rejeter-centaines-faux-billets-chaque-soir",
+          "source": "Le Devoir",
+          "summary": "Quelques conseils pour éviter les pièges et la déception.",
+          "published": "2026-09-06T15:19:00+00:00"
         },
         {
-          "title": "Boycottage de produits américains | Quand le panier local coûte moins cher",
-          "link": "https://www.lapresse.ca/affaires/finances-personnelles/2026-09-06/boycottage-de-produits-americains/quand-le-panier-local-coute-moins-cher.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Céline Dion à Paris | Des centaines de billets contrefaits seront rejetés chaque soir",
+          "link": "https://www.lapresse.ca/arts/musique/2026-09-06/celine-dion-a-paris/des-centaines-de-billets-contrefaits-seront-rejetes-chaque-soir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La guerre commerciale entre le Canada et les États-Unis a pris un nouveau tournant. À l’épicerie, le boycottage des produits américains au profit d’articles locaux reprend de la vigueur… parfois au prix de quelques…",
-          "published": "2026-09-06T09:00:00+00:00"
+          "summary": "Forte de l’expérience acquise lors de l’accueil de Taylor Swift, l’équipe de direction de la salle parisienne qui accueillera le grand concert de retour de Céline Dion s’apprête à annoncer à des centaines d’admirateurs…",
+          "published": "2026-09-06T15:07:06+00:00"
+        },
+        {
+          "title": "Grand Prix d’Italie | Antonelli s’impose après une folle remontée",
+          "link": "https://www.lapresse.ca/sports/course-automobile/2026-09-06/grand-prix-d-italie/antonelli-s-impose-apres-une-folle-remontee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Kimi Antonelli était 19e sur la grille de départ. Quelques heures plus tard, il est devenu le premier pilote italien à remporter le Grand Prix d’Italie depuis 1966.",
+          "published": "2026-09-06T15:07:00+00:00"
         }
       ]
     },
@@ -159,80 +159,150 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Guerre en Ukraine : les pourparlers à Kiev ont été «significatifs» et se poursuivront «aussi longtemps qu’il le faudra», annonce Steve Witkoff",
+          "title": "Foot : scandale en Angleterre où un joueur de Cardiff City étrangle un jeune supporter, une enquête ouverte",
+          "link": "https://www.lefigaro.fr/sports/football/foot-scandale-en-angleterre-ou-un-joueur-de-cardiff-city-etrangle-un-jeune-supporter-une-enquete-ouverte-20260906",
+          "source": "Le Figaro",
+          "summary": "Un accrochage entre le joueur de Cardiff City Krystian Bielik et un jeune supporter de Portsmouth lors d’un match de Championship fait désormais l’objet d’une enquête de la police du Hampshire. La Fédération anglaise de…",
+          "published": "2026-09-06T17:30:06+00:00"
+        },
+        {
+          "title": "\"Un parti ouvertement néonazi\" : Bruno Le Maire alerte sur le \"danger\" de l'AfD en Allemagne, après la victoire de l'extrême droite en Saxe-Anhalt",
+          "link": "https://www.franceinfo.fr/politique/bruno-le-maire/un-parti-ouvertement-neonazi-bruno-le-maire-alerte-sur-le-danger-de-l-afd-en-allemagne_8180030.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Bruno Le Maire était le premier invité de l'émission \"Le Grand Enjeu\" sur franceinfo dimanche 6 septembre. L'ancien ministre de l'Économie s'est exprimé sur la victoire du parti d'extrême droite allemand l'AfD en…",
+          "published": "2026-09-06T17:25:07+00:00"
+        },
+        {
+          "title": "Oise : hommage sous tension à Margny-lès-Compiègne pour «Lapin», mort après une course-poursuite avec la police",
+          "link": "https://www.lefigaro.fr/flash-actu/oise-hommage-sous-tension-a-margny-les-compiegne-pour-lapin-mort-apres-une-course-poursuite-avec-la-police-20260906",
+          "source": "Le Figaro",
+          "summary": "Ce dimanche, plus de 300 personnes ont défilé à en mémoire de Paul Tancre, dit «Lapin», mort le 21 août dans un accident après un refus d’obtempérer face à la police municipale. L’un des policiers a été mis en examen…",
+          "published": "2026-09-06T17:15:27+00:00"
+        },
+        {
+          "title": "Guillaume Tabard : «L’offre Le Pen, entre turbulences et résistance»",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-l-offre-le-pen-entre-turbulences-et-resistance-20260906",
+          "source": "Le Figaro",
+          "summary": "CONTRE-POINT - En dépit de l’impression de flottement interne, le socle électoral de Marine Le Pen n’a jamais semblé aussi solide, autour de 35 %.",
+          "published": "2026-09-06T17:15:00+00:00"
+        },
+        {
+          "title": "EN DIRECT - Guerre en Ukraine : Kiev et Moscou doivent faire des «compromis» pour que la guerre se termine, selon Steve Witkoff",
           "link": "https://www.lefigaro.fr/international/en-direct-guerre-en-ukraine-apres-une-rencontre-avec-poutine-a-moscou-les-emissaires-de-trump-attendus-a-kiev-pour-la-premiere-fois-20260906",
           "source": "Le Figaro",
-          "summary": "Samedi soir, Vladimir Poutine s’est entretenu pendant trois heures avec Steve Witkoff, un homme d’affaires proche de Donald Trump, et Jared Kushner, le gendre du président américain, qui sont arrivés à Kiev ce dimanche…",
-          "published": "2026-09-06T14:54:09+00:00"
+          "summary": "L’homme d’affaires proche de Donald Trump, et Jared Kushner, le gendre du président américain, rencontraient dimanche le président ukrainien à Kiev, après s’être entretenus la veille pendant trois heures avec Vladimir…",
+          "published": "2026-09-06T17:12:08+00:00"
         },
         {
-          "title": "EN DIRECT - Formule 1 : Russell et Antonelli bataillent pour la victoire à Monza, Verstappen défend son podium",
-          "link": "https://www.lefigaro.fr/sports/formule-1/en-direct-formule-1-pierre-gasly-en-route-vers-une-seconde-victoire-a-monza-20260906",
-          "source": "Le Figaro",
-          "summary": "Auteur de la première pole position de sa carrière samedi, le Français veut confirmer en course ce dimanche. Mais gare aux Mercedes notamment.",
-          "published": "2026-09-06T14:52:03+00:00"
-        },
-        {
-          "title": "Aubervilliers : un enfant de 3 ans meurt dans l’explosion d’un pavillon",
-          "link": "https://www.liberation.fr/societe/un-enfant-meurt-dans-lexplosion-dun-pavillon-a-aubervilliers-20260906_AFL2GHC55FFNLAZGYLVNSYUH4E/",
+          "title": "«Des agences continuent de dissuader les gens de m’engager» : Susan Sarandon assure perdre des rôles en raison de ses critiques à l’égard d’Israël",
+          "link": "https://www.liberation.fr/international/des-agences-continuent-de-dissuader-les-gens-de-mengager-susan-sarandon-assure-perdre-des-roles-en-raison-de-ses-critiques-a-legard-disrael-20260906_3MC6FXXRYBBVNLLTJMJNAZ27NI/",
           "source": "Liberation",
-          "summary": "Selon le maire de la commune de Seine-Saint-Denis, une fuite de gaz est à l’origine du drame. Sept personnes ont été blessées, dont deux sont en urgence absolue.",
-          "published": "2026-09-06T14:38:20+00:00"
+          "summary": "Lors de la Mostra de Venise, l’actrice américaine de 79 ans, qui fait partie des voix les plus engagées de l’industrie du cinéma américain pour critiquer la guerre à Gaza, a assuré se voir refuser des films.",
+          "published": "2026-09-06T17:10:36+00:00"
         },
         {
-          "title": "En déplacement au Groenland, Ursula von der Leyen veut briser la glace",
-          "link": "https://www.liberation.fr/international/europe/en-deplacement-au-groenland-ursula-von-der-leyen-veut-briser-la-glace-20260906_6DXSCK6AS5FHZGYONWDYVX4HFA/",
-          "source": "Liberation",
-          "summary": "Alors que l’UE cherche à redéfinir sa stratégie dans l’Arctique, notamment face aux vélléités trumpiennes, Ursula von der Leyen est en déplacement à Nuuk, où elle doit dévoiler de nouveaux investissements financiers.",
-          "published": "2026-09-06T14:36:11+00:00"
-        },
-        {
-          "title": "Fifa : Gianni Infantino confirme qu’il sera candidat à sa succession",
-          "link": "https://www.liberation.fr/sports/football/fifa-gianni-infantino-confirme-quil-sera-candidat-a-sa-succession-20260906_LNST6E42VVCBZDLNJ4WT3TKCHA/",
-          "source": "Liberation",
-          "summary": "Contesté après son projet de privatisation partielle de la Coupe du monde, l’Italo-Suisse ne veut pas lâcher la barre de la Fédération internationale de foot.",
-          "published": "2026-09-06T14:33:10+00:00"
-        },
-        {
-          "title": "Malgré la crise, la Fifa confirme la candidature de Gianni Infantino à sa réélection",
-          "link": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/malgre-la-crise-la-fifa-confirme-la-candidature-de-gianni-infantino-a-sa-reelection_8179835.html#xtor=RSS-3-[lestitres]",
+          "title": "Elections régionales en Allemagne : \"Nous avons écrit l'histoire\", réagit le leader de l'extrême droite en Saxe-Anhalt après la victoire de son parti",
+          "link": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Pour l'heure, le président sortant est le seul candidat déclaré alors que ses potentiels adversaires ont jusqu'au 18 novembre pour se déclarer.",
-          "published": "2026-09-06T14:30:55+00:00"
+          "summary": "Le parti d'extrême droite Alternative für Deutschland (AfD) a remporté ce Land de l'est du pays, où l'extrême droite a fait une percée inédite dans le pays depuis 1945.",
+          "published": "2026-09-06T17:06:22+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : le président ukrainien Volodymyr Zelensky rencontre les émissaires américains Jared Kushner et Steve Witkoff à Kiev",
-          "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-le-president-ukrainien-volodymyr-zelensky-rencontre-les-emissaires-americains-jared-kushner-et-steve-witkoff-a-kiev_6766818_3210.html",
+          "title": "EN DIRECT - Présidentielle 2027 : pour l’Insoumise Mathilde Panot, «nous ne sommes pas envahis par l’immigration»",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-la-france-courrait-un-danger-letal-en-cas-de-deuxieme-tour-entre-le-rn-et-lfi-juge-francois-bayrou-20260906",
+          "source": "Le Figaro",
+          "summary": "La présidente du groupe LFI à l’Assemblée nationale est l’invitée du Grand Oral dimanche soir, sur BFMTV en partenariat avec Le Figaro.",
+          "published": "2026-09-06T17:05:02+00:00"
+        },
+        {
+          "title": "En lançant sa fusée en orbite, la start-up bavaroise Isar Aerospace bouleverse l’écosystème spatial européen",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/06/en-lancant-sa-fusee-en-orbite-la-start-up-bavaroise-isar-aerospace-bouleverse-l-ecosysteme-spatial-europeen_6767457_3234.html",
           "source": "Le Monde",
-          "summary": "Les entretiens entre les deux envoyés spéciaux de Donald Trump et les Ukrainiens seront suivis « d’une autre session avec des conseillers européens pour la sécurité nationale », a fait savoir le président ukrainien.",
-          "published": "2026-09-06T14:30:06+00:00"
+          "summary": "La fusée Spectrum a placé sur orbite cinq satellites samedi. Un succès qui permet à l’entreprise allemande de prétendre jouer un rôle de complément à Ariane-6 face à l’américain SpaceX.",
+          "published": "2026-09-06T17:03:13+00:00"
         },
         {
-          "title": "Yémen: plus de 140 morts dans les affrontements entre Houthis et forces gouvernementales",
-          "link": "https://www.lefigaro.fr/international/yemen-plus-de-140-morts-dans-les-affrontements-entre-houthis-et-forces-gouvernementales-20260906",
-          "source": "Le Figaro",
-          "summary": "Deux responsables militaires des forces soutenues par l’Arabie saoudite ont fait état de 84 soldats morts, tandis que 57 rebelles houthis ont été tués.",
-          "published": "2026-09-06T14:29:45+00:00"
-        },
-        {
-          "title": "Ursula von der Leyen en visite au Groenland pour promouvoir «un partenariat fort» entre l’Union européenne et l’île arctique",
-          "link": "https://www.lefigaro.fr/conjoncture/ursula-von-der-leyen-en-visite-au-groenland-pour-promouvoir-un-partenariat-fort-entre-l-union-europeenne-et-l-ile-arctique-20260906",
-          "source": "Le Figaro",
-          "summary": "Les velléités de Donald Trump à l’égard du Groenland ont provoqué une crise majeure en début d’année. Il avait évoqué la possibilité «d’utiliser la force» pour s’emparer du territoire de 57.000 habitants.",
-          "published": "2026-09-06T14:28:59+00:00"
-        },
-        {
-          "title": "Après une fin de semaine marquée par la chaleur, les températures vont baisser sur l'Hexagone",
-          "link": "https://www.franceinfo.fr/environnement/meteo/apres-une-fin-de-semaine-marquee-par-la-chaleur-les-temperatures-vont-baisser-sur-l-hexagone_8179820.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "La vigilance orange sera encore en vigueur lundi pour six départements, alors qu'une perturbation arrivera sur le nord-ouest du pays à partir de mardi.",
-          "published": "2026-09-06T14:28:28+00:00"
+          "title": "Allemagne : Friedrich Merz, le chancelier que la CDU préfère cacher pendant les campagnes",
+          "link": "https://www.liberation.fr/international/europe/allemagne-friedrich-merz-le-chancelier-que-la-cdu-prefere-cacher-en-campagne-20260906_FS7AUCIAYZHPPICRY4ODNDDY2Y/",
+          "source": "Liberation",
+          "summary": "Mis à distance pendant la campagne, le chancelier allemand paie dans les urnes ce dimanche soir l’impopularité record de son gouvernement. Deux autres élections régionales, le 20 septembre, pourraient encore accélérer…",
+          "published": "2026-09-06T17:02:33+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Pourquoi la nouvelle carte du monde adoptée par l'ONU ne va pas changer Google Maps tout de suite",
+          "link": "https://www.clubic.com/actualite-628429-pourquoi-la-nouvelle-carte-du-monde-adoptee-par-l-onu-ne-va-pas-changer-google-maps-tout-de-suite.html",
+          "source": "Clubic",
+          "summary": "L’Assemblée générale des Nations unies a adopté une résolution par 164 voix contre une. Elle concerne un texte qui encourage le remplacement de la projection de Mercator par des cartes plus fidèles aux superficies…",
+          "published": "2026-09-06T17:04:00+00:00"
+        },
+        {
+          "title": "Des pacemakers coupés du suivi médical, Linux étouffé par les IA et des comptes Claude piratés et revendus : on vous raconte la semaine Cyberguerre",
+          "link": "https://www.numerama.com/cyberguerre/2325799-des-pacemakers-coupes-du-suivi-medical-linux-etouffe-par-les-ia-et-des-comptes-claude-pirates-et-revendus-on-vous-raconte-la-semaine-cyberguerre.html",
+          "source": "Numerama",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : une cyberattaque qui prive de télésurveillance les nouveaux pacemakers d'un géant de la santé, l'infrastructure de Linux à bout de souffle face aux scrapers…",
+          "published": "2026-09-06T17:00:00+00:00"
+        },
+        {
+          "title": "Mercedes Classe C, Volkswagen ID.3 Neo, Zeekr 7GT : nos 3 voitures électriques préférées de l’été",
+          "link": "https://www.frandroid.com/survoltes/3234011_mercedes-classe-c-volkswagen-id-3-neo-zeekr-7gt-nos-3-voitures-electriques-preferees-de-lete",
+          "source": "Frandroid",
+          "summary": "Des dizaines de tests et seulement trois modèles retenus. Voici notre top 3 des meilleures voitures électriques de l'été.",
+          "published": "2026-09-06T17:00:00+00:00"
+        },
+        {
+          "title": "Les quatre grands opérateurs français sont-ils prêts pour un iPhone 18 Pro 100 % eSIM ?",
+          "link": "https://www.frandroid.com/marques/apple/3226721_les-quatre-grands-operateurs-francais-sont-ils-prets-pour-un-iphone-18-pro-100-esim",
+          "source": "Frandroid",
+          "summary": "L'iPhone 18 Pro sera présenté lors de la keynote d'Apple le 9 septembre prochain et sa version européenne pourrait totalement basculer sur l'eSIM. Bonne nouvelle : les quatre principaux opérateurs français gèrent déjà…",
+          "published": "2026-09-06T16:30:00+00:00"
+        },
+        {
+          "title": "Guerre des prix des voitures chinoises, plus d’autonomie pour le Scénic et le Tesla Model Y explose les scores : le récap’ Vroom de la semaine",
+          "link": "https://www.numerama.com/vroom/2325795-guerre-des-prix-des-voitures-chinoises-plus-dautonomie-pour-le-scenic-et-le-tesla-model-y-explose-les-scores-le-recap-vroom-de-la-semaine.html",
+          "source": "Numerama",
+          "summary": "À la une sur Vroom cette semaine : la Chine veut mettre fin à la guerre des prix de ses marques à l'étranger, Renault offre plus d'autonomie au Scénic électrique et le Tesla Model Y s'offre la première place des…",
+          "published": "2026-09-06T16:24:00+00:00"
+        },
+        {
+          "title": "Google Pixel 11 Pro vs Samsung Galaxy S26 Ultra : comment choisir le meilleur smartphone ultra premium ?",
+          "link": "https://www.frandroid.com/versus/3229785_google-pixel-11-pro-vs-samsung-galaxy-s26-ultra-comment-choisir-le-meilleur-smartphone-ultra-premium",
+          "source": "Frandroid",
+          "summary": "Google augmente ses prix, et le Pixel 11 Pro cherche à se frotter à ce qui se fait de mieux du côté de chez Samsung, et donc le Galaxy S26 Ultra. Fait-il bien le poids, face au mastodonte du leader des…",
+          "published": "2026-09-06T16:00:00+00:00"
+        },
+        {
+          "title": "Le ZEvent 2026 fait ses adieux en battant largement son record absolu, plusieurs heures avant la fin du marathon caritatif",
+          "link": "https://www.numerama.com/politique/2326171-le-zevent-2026-fait-ses-adieux-en-battant-largement-son-record-absolu-plusieurs-heures-avant-la-fin-du-marathon-caritatif.html",
+          "source": "Numerama",
+          "summary": "Le ZEvent vient de battre son record absolu de dons, à quelques heures de refermer dix ans d’histoire. Pour sa dixième et dernière édition, le marathon caritatif a passé la barre des 16 millions d’euros.",
+          "published": "2026-09-06T15:30:56+00:00"
+        },
+        {
+          "title": "Il pourrait bien faire oublier votre TV : ce vidéoprojecteur Xgimi Titan Noir triple laser 4K perd 700 € et peut afficher jusqu’à 300″",
+          "link": "https://www.frandroid.com/bons-plans/3233305_il-pourrait-bien-faire-oublier-votre-tv-ce-videoprojecteur-xgimi-titan-noir-triple-laser-4k-perd-700-e-et-peut-afficher-jusqua-300",
+          "source": "Frandroid",
+          "summary": "Le Xgimi Titan Noir est un vidéoprojecteur 4K triple laser RGB conçu pour remplacer votre téléviseur. Il se retrouve en promotion à 2 799 euros au lieu de 3 499 euros sur Amazon.",
+          "published": "2026-09-06T15:30:00+00:00"
+        },
+        {
+          "title": "Une carte cadeau de 20 € est offerte pour tout abonnement à ce cloud suisse chiffré",
+          "link": "https://www.clubic.com/bons-plans-625249-une-carte-cadeau-de-20-est-offerte-pour-tout-abonnement-a-ce-cloud-suisse-chiffre.html",
+          "source": "Clubic",
+          "summary": "Enregistrez vos fichiers les plus variés avec votre suite Proton Drive Plus. En ce moment, votre première année d'abonnement vous revient à moins de 3 € par mois. Clubic vous offre, en plus, une carte cadeau d'une…",
+          "published": "2026-09-06T15:30:00+00:00"
+        },
+        {
+          "title": "Cette publicité pour du streaming gratuit peut donner aux hackers le contrôle de votre smartphone",
+          "link": "https://www.clubic.com/actualite-628426-cette-publicite-pour-du-streaming-gratuit-peut-donner-aux-hackers-le-controle-de-votre-smartphone.html",
+          "source": "Clubic",
+          "summary": "Une fausse application de streaming gratuit circule depuis juin sur les réseaux sociaux. Une fois qu’une victime l’a installée sur son smartphone Android, elle obtient un accès quasi total à l’appareil. Ils lisent…",
+          "published": "2026-09-06T15:15:00+00:00"
+        },
         {
           "title": "J’ai essayé la voiture électrique parfaite, j’ai nommé le Porsche Cayenne Electric",
           "link": "https://www.numerama.com/vroom/2319189-jai-essaye-la-voiture-electrique-parfaite-jai-nomme-le-porsche-cayenne-electric.html",
@@ -246,76 +316,6 @@
           "source": "Clubic",
           "summary": "Un peu de favoritisme n’a jamais fait de mal à un bureau encombré. Avec Always On Top, PowerToys permet de réserver le premier rang à la fenêtre de votre choix, raccourcis et réglages à l’appui.",
           "published": "2026-09-06T14:19:00+00:00"
-        },
-        {
-          "title": "Ce monstre de puissance signé Lenovo avec écran OLED et une RTX 5070 perd 350 €",
-          "link": "https://www.frandroid.com/bons-plans/3122533_ce-monstre-de-puissance-signe-lenovo-avec-ecran-oled-et-une-rtx-5070-perd-350-euros",
-          "source": "Frandroid",
-          "summary": "Avec sa gamme Legion, Lenovo prend soin d’offrir une machine taillée pour les jeux AAA. On a trouvé un modèle OLED doté d’une RTX 5070 et il s’affiche aujourd’hui à un prix plus doux : 1 649 euros contre 1 999 euros de…",
-          "published": "2026-09-06T14:15:13+00:00"
-        },
-        {
-          "title": "J’ai roulé 1 800 km en Mercedes-Benz CLA Shooting Brake, et je trouve que cette voiture électrique n’a rien à envier au diesel",
-          "link": "https://www.frandroid.com/marques/mercedes-benz/3215229_jai-roule-1-800-km-en-mercedes-benz-cla-shooting-brake-et-je-trouve-que-cette-voiture-electrique-na-rien-a-envier-au-diesel",
-          "source": "Frandroid",
-          "summary": "J'ai pu parcourir plus de 1 800 km au volant du Mercedes-Benz CLA Shooting Brake. Avec ses consommations ultra-basses et son profil de break favorisant l'espace à bord, cette voiture électrique dédiée aux longs trajets…",
-          "published": "2026-09-06T14:01:00+00:00"
-        },
-        {
-          "title": "Les cafards cyborgs savent déjà chercher des survivants, il vont bientôt intervenir pour soigner",
-          "link": "https://www.clubic.com/actualite-628420-les-cafards-cyborgs-savent-deja-chercher-des-survivants-il-vont-bientot-intervenir-pour-soigner.html",
-          "source": "Clubic",
-          "summary": "Des chercheurs australiens ont équipé des cafards vivants d’un dispositif d’injection commandé à distance, capable d’administrer un médicament après le repérage d’une victime sous des décombres. Cette capacité complète…",
-          "published": "2026-09-06T13:50:00+00:00"
-        },
-        {
-          "title": "De 9,99 à 17,49 euros avec trois forfaits mobile de plus de 200 Go, dont un illimité, et avec tous les réseaux",
-          "link": "https://www.frandroid.com/bons-plans/3234517_de-999-a-1749-euros-trois-grosses-offres-pour-tous-les-reseaux",
-          "source": "Frandroid",
-          "summary": "Voici les forfaits de cette semaine, une sur chacun des grands réseaux. De la data illimitée aux enveloppes de 200 et 250 Go, il y a de quoi choisir selon le réseau que l'on préfère.",
-          "published": "2026-09-06T13:23:00+00:00"
-        },
-        {
-          "title": "Un canon à micro-ondes pour protéger les futurs data centers en orbite des satellites espions",
-          "link": "https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html",
-          "source": "Numerama",
-          "summary": "Une startup polonaise veut équiper des satellites de stockage de données d'un canon à micro-ondes censé griller l'électronique des engins qui s'en approchent de trop près.",
-          "published": "2026-09-06T13:02:00+00:00"
-        },
-        {
-          "title": "Casque Philips Fidelio L5 : comment passer d'un casque premium à un casque banal",
-          "link": "https://www.clubic.com/actualite-628414-casque-philips-fidelio-l5-ou-comment-passer-d-un-casque-premium-a-un-casque-banal.html",
-          "source": "Clubic",
-          "summary": "Lancé il y a plus de 15 ans, le premier casque Fidelio de Philips, le L1, était un produit à part, luxueux et affichant une excellente qualité sonore. Après une longue traversée du désert et un retour avec les L3 et L4,…",
-          "published": "2026-09-06T12:20:00+00:00"
-        },
-        {
-          "title": "Son-video allège de 350 € ce très grand téléviseur Hisense de 75 pouces",
-          "link": "https://www.numerama.com/tech/2325813-son-video-allege-de-350-e-ce-tres-grand-televiseur-hisense-de-75-pouces.html",
-          "source": "Numerama",
-          "summary": "[Deal du jour] Envie d'un grand écran pour le salon ? Le Hisense 75U7SE est un modèle de 75 pouces, soit 190 cm de diagonale. Une belle bête qui représente tout de même près de trois à quatre baguettes de pain mises…",
-          "published": "2026-09-06T12:15:00+00:00"
-        },
-        {
-          "title": "RAW, JPEG, HEIF : ce qui se passe vraiment dans votre appareil photo (et votre smartphone) quand vous déclenchez",
-          "link": "https://www.frandroid.com/comment-faire/tutoriaux/3209451_raw-jpeg-heif-ce-qui-se-passe-vraiment-dans-votre-appareil-photo-et-votre-smartphone-quand-vous-declenchez",
-          "source": "Frandroid",
-          "summary": "Vous appuyez sur le bouton. Clic. L'image est là, sur votre écran. Mais entre le moment où la lumière frappe le capteur et celui où vous voyez votre photo s'afficher, il se passe un petit miracle de calculs. Un miracle…",
-          "published": "2026-09-06T12:02:00+00:00"
-        },
-        {
-          "title": "40 000 milliards de km : cette mission spatiale arrivera à destination dans 80 000 ans",
-          "link": "https://www.numerama.com/sciences/2323553-prevue-pour-2029-cette-mission-arrivera-a-destination-dans-80-000-ans.html",
-          "source": "Numerama",
-          "summary": "Une mission spatiale poussée par une organisation indépendante vise Alpha du Centaure, le système stellaire le plus proche du Système solaire. Mais le voyage est long, très, très long : il faudra des dizaines de…",
-          "published": "2026-09-06T11:32:00+00:00"
-        },
-        {
-          "title": "Cet ultrabook de HP (Snapdragon X, 8 Go de RAM) fait aussi sa rentrée avec une promotion de 200 euros chez Darty",
-          "link": "https://www.frandroid.com/bons-plans/3233783_cet-ultrabook-de-hp-snapdragon-x-8-go-de-ram-fait-aussi-sa-rentree-avec-une-promotion-de-200-euros-chez-darty",
-          "source": "Frandroid",
-          "summary": "Le HP Omnibook 3 brille avec sa dalle OLED de 14 pouces, mais aussi avec son prix plus attractif puisqu'il s'offre une remise de 26 %.",
-          "published": "2026-09-06T11:30:00+00:00"
         }
       ]
     }
