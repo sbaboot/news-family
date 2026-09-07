@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-09-06T22:41:51.290911+00:00",
+  "generated_at": "2026-09-07T03:00:53.705186+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "La merdenea, feuilleté au fromage, symbole de la lutte contre la gentrification de Bucarest",
+          "link": "https://www.lemonde.fr/international/article/2026/09/07/la-merdenea-feuillete-au-fromage-symbole-de-la-lutte-contre-la-gentrification-de-bucarest_6767758_3210.html",
+          "source": "Le Monde",
+          "summary": "Sur les réseaux sociaux roumains, une bataille entre cette spécialité locale de pâtisserie salée et le croissant a pris des proportions inattendues. Les habitants de la capitale entendent défendre « l’une des dernières…",
+          "published": "2026-09-07T03:00:15+00:00"
+        },
+        {
+          "title": "Des pourparlers \"constructifs\" à Moscou et à Kiev, mais sans annonce concrète",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-des-pourparlers-constructifs-%C3%A0-moscou-et-%C3%A0-kiev-mais-sans-annonce-concr%C3%A8te",
+          "source": "France 24",
+          "summary": "Les participants aux pourparlers avec les émissaires américains, que ce soit Vladimir Poutine à Moscou comme Volodymyr Zelensky à Kiev, ont évoqué des discussions \"constructives et substantives\", rapporte le…",
+          "published": "2026-09-07T00:01:35+00:00"
+        },
+        {
+          "title": "Pourparlers à Kiev : des propositions américaines \"plus efficaces\", pour la présidence ukrainienne",
+          "link": "https://www.france24.com/fr/europe/20260906-pourparlers-kiev-ukraine-russie-propositions-americaines-plus-efficaces-zelensky-volodymyr-jared-kushner-steve-witkoff-etats-unis-guerre",
+          "source": "France 24",
+          "summary": "Les émissaires américains Steve Witkoff et Jared Kushner ont rencontré dimanche à Kiev le président ukrainien Volodymyr Zelensky, dans le cadre d'une nouvelle tentative des États-Unis de mettre fin à quatre ans et demi…",
+          "published": "2026-09-06T23:13:29+00:00"
+        },
+        {
+          "title": "Un avion-cargo d'Amazon sort de piste à Miami, l'accident a fait au moins cinq morts",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260906-avion-cargo-amazon-sort-piste-miami-floride-accident-au-moins-cinq-morts-aeroport-incendie",
+          "source": "France 24",
+          "summary": "Un avion-cargo d'Amazon est sorti en bout de piste à l'aéroport international de Miami, \"a percuté plusieurs véhicules\" et pris feu dimanche en début d'après-midi, ont indiqué les autorités locales qui font état d'un…",
+          "published": "2026-09-06T22:13:25+00:00"
+        },
+        {
+          "title": "Marine Le Pen en tête des intentions de vote : \"Ca peut encore bouger\"",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260906-marine-le-pen-en-t%C3%AAte-des-intentions-de-vote-ca-peut-encore-bouger",
+          "source": "France 24",
+          "summary": "Au menu de L'Essentiel politique, les candidats en campagne à la Braderie de Lille, Jordan Bardella critiqué pour son pacte migratoire avec Nigel Farage, et Marine Le Pen toujours en tête des sondages. Avec Emilie…",
+          "published": "2026-09-06T21:34:35+00:00"
+        },
         {
           "title": "Visite de Xi Jinping en Chine : la Chine se veut un contrepoids des États-Unis",
           "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260906-visite-de-xi-jinping-en-chine-la-chine-se-veut-un-contrepoids-des-%C3%A9tats-unis",
@@ -38,41 +73,6 @@
           "source": "France 24",
           "summary": "L’AfD est arrivée largement en tête lors de l’élection dans la Land de Saxe-Anhalt, dimanche. Son candidat, Ulrich Siegmund, est aux portes du pouvoir, mais l’AfD semble avoir raté de peu la majorité absolue espérée…",
           "published": "2026-09-06T19:18:25+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF",
-          "link": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
-          "source": "France 24",
-          "summary": "Le secrétaire national du Parti communiste français (PCF), Fabien Roussel, a officialisé dimanche sa candidature à l'élection présidentielle française de 2027 au JT de TF1.",
-          "published": "2026-09-06T19:01:13+00:00"
-        },
-        {
-          "title": "EN DIRECT, élections régionales en Allemagne : Ulrich Siegmund appelle les partis à s’allier avec l’AfD en Saxe-Anhalt ; le parti d’extrême droite n’atteint pas la majorité absolue, selon les dernières estimations",
-          "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-elections-regionales-en-allemagne-l-afd-effectue-une-poussee-historique-en-saxe-anhalt-mais-les-consequences-restent-incertaines_6767342_3210.html",
-          "source": "Le Monde",
-          "summary": "Largement en tête dans cette région, Alternative pour l’Allemagne pourrait devenir le premier parti d’extrême droite à diriger un Land depuis 1945, à condition qu’il obtienne la majorité absolue ou tisse des alliances à…",
-          "published": "2026-09-06T18:46:08+00:00"
-        },
-        {
-          "title": "🔴 Allemagne en direct : suivez les réactions à la victoire électorale historique de l'extrême droite en Saxe-Anhalt",
-          "link": "https://www.france24.com/fr/europe/20260906-allemagne-en-direct-extreme-droite-favorite-saxe-anhalt-estimations-resultats",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-09-06T18:21:08+00:00"
-        },
-        {
-          "title": "En lançant sa fusée en orbite, la start-up bavaroise Isar Aerospace bouleverse l’écosystème spatial européen",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/06/en-lancant-sa-fusee-en-orbite-la-start-up-bavaroise-isar-aerospace-bouleverse-l-ecosysteme-spatial-europeen_6767457_3234.html",
-          "source": "Le Monde",
-          "summary": "La fusée Spectrum a placé sur orbite cinq satellites samedi. Un succès qui permet à l’entreprise allemande de prétendre jouer un rôle de complément à Ariane-6 face à l’américain SpaceX.",
-          "published": "2026-09-06T17:03:12+00:00"
-        },
-        {
-          "title": "Cinquante ans après la mort de Mao Zedong, l’ombre persistante du « Grand Timonier » sur la Chine",
-          "link": "https://www.lemonde.fr/international/article/2026/09/06/cinquante-ans-apres-la-mort-de-mao-zedong-l-ombre-persistante-du-grand-timonier-sur-la-chine_6767456_3210.html",
-          "source": "Le Monde",
-          "summary": "« Mao, l’encombrant héritage » (1/7). Mort le 9 septembre 1976, le fondateur de la République populaire de Chine continue de peser sur la vie politique du pays. Le Parti communiste, dont Mao a fait le socle du pouvoir,…",
-          "published": "2026-09-06T17:00:01+00:00"
         }
       ]
     },
@@ -84,14 +84,56 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Maison-Blanche | Une salle de bal à démolir après le départ de Donald Trump ?",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-06/maison-blanche/une-salle-de-bal-a-demolir-apres-le-depart-de-donald-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Enlever les dorures qui parent les murs, les corniches, le plafond et le foyer du bureau Ovale ne représentera pas un défi insurmontable. Et ce, même si ces ornements tiennent en place grâce à la très résistante colle…",
+          "published": "2026-09-07T02:30:00+00:00"
+        },
+        {
+          "title": "« Get up, Governor » | Donald Trump s’en prend à Mark Carney",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-06/get-up-governor/donald-trump-s-en-prend-a-mark-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "À la veille de l’entrée en vigueur des contre-mesures tarifaires, le président américain Donald Trump a lancé une énième pique au premier ministre canadien Mark Carney sur son réseau social Truth social.",
+          "published": "2026-09-07T01:22:15+00:00"
+        },
+        {
+          "title": "Les Blue Jays perdent contre les Royals et sont sortis du portrait des séries",
+          "link": "https://www.ledevoir.com/sports/1006937/blue-jays-perdent-contre-royals-sont-sortis-portrait-series",
+          "source": "Le Devoir",
+          "summary": "Portés par les circuits de Vinnie Pasquantino et Salvador Pérez, les Royals ont dominé la formation torontoise, dimanche.",
+          "published": "2026-09-07T00:59:17+00:00"
+        },
+        {
+          "title": "Les secours sont toujours à la recherche de survivants dans l’Himalaya",
+          "link": "https://www.ledevoir.com/monde/asie/1006931/secours-sont-toujours-recherche-survivants-himalaya",
+          "source": "Le Devoir",
+          "summary": "Parmi les personnes encore portées manquantes figurent des centaines de touristes et de pèlerins étrangers.",
+          "published": "2026-09-07T00:08:30+00:00"
+        },
+        {
+          "title": "Plus de 300 combattants sont morts dans l’offensive houthie au Yémen",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1006928/plus-300-combattants-sont-morts-offensive-houthie-yemen",
+          "source": "Le Devoir",
+          "summary": "Des familles ont fui les violences pour trouver refuge dans un camp de déplacés de la région de Taëz.",
+          "published": "2026-09-06T23:12:00+00:00"
+        },
+        {
+          "title": "Le réalisateur allemand Wim Wenders clarifie sa position sur le cinéma et la politique",
+          "link": "https://www.ledevoir.com/culture/cinema/1006925/realisateur-allemand-wim-wenders-clarifie-position-cinema-politique",
+          "source": "Le Devoir",
+          "summary": "Les propos qu’il avait tenus lors de la Berlinale en février dernier avaient suscité la polémique.",
+          "published": "2026-09-06T22:40:04+00:00"
+        },
+        {
           "title": "L’Iran menace d’intensifier sa riposte aux attaques américaines",
           "link": "https://www.ledevoir.com/monde/moyen-orient/1006922/iran-menace-intensifier-riposte-attaques-americaines",
           "source": "Le Devoir",
-          "summary": "Depuis quelques jours, les affrontements entre les deux camps se sont intensifiés en mer, dans la région du Golfe.",
-          "published": "2026-09-06T21:27:42+00:00"
+          "summary": "Depuis quelques jours, les affrontements entre les deux camps se sont multipliés en mer, dans la région du Golfe.",
+          "published": "2026-09-06T21:27:00+00:00"
         },
         {
-          "title": "Un avion d’Amazon sort de la piste d’atterrissage et percute des véhicules à Miami",
+          "title": "Au moins cinq morts après le dérapage hors de piste d’un avion d’Amazon à Miami",
           "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1006919/avion-amazon-sort-piste-atterrissage-percute-vehicules-miami",
           "source": "Le Devoir",
           "summary": "En service depuis plus de 20 ans, ce Boeing 767 avait volé pour plusieurs compagnies aériennes.",
@@ -101,7 +143,7 @@
           "title": "Dans un Québec indépendant | Radio-Canada fusionnerait avec Télé-Québec, propose le PQ",
           "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/dans-un-quebec-independant/radio-canada-fusionnerait-avec-tele-quebec-propose-le-pq.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Dans un Québec indépendant, les actifs de Radio-Canada au Québec seraient fusionnés à Télé-Québec, qui deviendrait un diffuseur public « beaucoup plus objectif dans la manière d’informer », affirme Paul St-Pierre…",
+          "summary": "Dans un Québec indépendant, les actifs de Radio-Canada au Québec seraient fusionnés avec Télé-Québec, qui deviendrait un diffuseur public « beaucoup plus objectif dans la manière d’informer », affirme Paul St-Pierre…",
           "published": "2026-09-06T20:01:21+00:00"
         },
         {
@@ -110,48 +152,6 @@
           "source": "Le Devoir",
           "summary": "Le public a eu droit à un parcours éclectique, de la chanson québécoise aux rythmes électroniques des plus déchaînés.",
           "published": "2026-09-06T20:00:00+00:00"
-        },
-        {
-          "title": "Le candidat du Parti Québécois dans Portneuf, Christian Hébert, retire sa candidature",
-          "link": "https://www.journaldemontreal.com/2026/09/06/le-candidat-du-parti-quebecois-dans-portneuf-christian-hebert-retire-sa-candidature",
-          "source": "Journal de Montreal",
-          "summary": "Un autre écueil pour PSPP dans la Capitale-Nationale: l'agriculteur Christian Hébert retire sa candidature pour le Parti Québécois.",
-          "published": "2026-09-06T19:58:38+00:00"
-        },
-        {
-          "title": "Miami | Un avion-cargo d’Amazon sort de piste, au moins cinq morts et plusieurs blessés",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-au-moins-cinq-morts-et-plusieurs-blesses.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un avion-cargo d’Amazon a dérapé hors d’une piste à l’aéroport international de Miami dimanche, faisant au moins cinq morts après avoir percuté des véhicules et pris feu, ont indiqué les autorités.",
-          "published": "2026-09-06T19:41:19+00:00"
-        },
-        {
-          "title": "Un avion-cargo d’Amazon s’écrase à Miami",
-          "link": "https://www.journaldemontreal.com/2026/09/06/un-avion-cargo-damazon-secrase-a-miami",
-          "source": "Journal de Montreal",
-          "summary": "Un avion-cargo s’est écrasé après avoir dépassé la piste lors de son atterrissage à l’aéroport international de Miami, dimanche après-midi.",
-          "published": "2026-09-06T19:37:39+00:00"
-        },
-        {
-          "title": "Des nids de guêpes gros comme des pastèques cachés dans les maisons",
-          "link": "https://www.journaldemontreal.com/2026/09/06/des-nids-de-guepes-gros-comme-des-pasteques-caches-dans-les-maisons",
-          "source": "Journal de Montreal",
-          "summary": "Des nids de guêpes peuvent atteindre une taille gigantesque, parfois à même la structure des résidences, prévient un exterminateur.",
-          "published": "2026-09-06T19:27:47+00:00"
-        },
-        {
-          "title": "Duhaime veut offrir un rabais de 100$ par an pour favoriser l'activité physique",
-          "link": "https://www.journaldemontreal.com/2026/09/06/duhaime-veut-offrir-un-rabais-de-100-par-an-pour-favoriser-lactivite-physique",
-          "source": "Journal de Montreal",
-          "summary": "La santé a la cote en campagne électorale : Éric Duhaime promet un rabais de 100$ par an pour l'inscription à une activité sportive.",
-          "published": "2026-09-06T19:27:43+00:00"
-        },
-        {
-          "title": "Élections de mi-mandat | L’administration Trump dépose un nouveau recours sur le vote par correspondance",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-06/elections-de-mi-mandat/l-administration-trump-depose-un-nouveau-recours-sur-le-vote-par-correspondance.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’administration Trump a renouvelé dimanche son recours devant la Cour suprême après qu’une juge fédérale a bloqué de nouvelles restrictions concernant les votes par correspondance à l’approche des élections de…",
-          "published": "2026-09-06T19:03:32+00:00"
         }
       ]
     },
@@ -159,25 +159,46 @@
       "label": "France",
       "items": [
         {
+          "title": "«Abstract Constructions» : Nassos Daphnis et Rita McBride en pleines formes",
+          "link": "https://www.liberation.fr/culture/abstract-constructions-nassos-daphnis-et-rita-mcbride-en-pleines-formes-20260907_HLE4LWTXPBD7ZH5ARW7GV37IYM/",
+          "source": "Liberation",
+          "summary": "A Saint-Paul-de-Vence, la Fondation Cab fait dialoguer les œuvres géométriques des deux artistes.",
+          "published": "2026-09-07T01:47:00+00:00"
+        },
+        {
+          "title": "La renversante charnière maritime, la furia Menoncello, une seconde période sans vie du champion de France... Les tops et flops du choc entre La Rochelle et Toulouse",
+          "link": "https://www.lefigaro.fr/sports/rugby/top-14/la-renversante-charniere-maritime-la-furia-de-menoncello-la-seconde-periode-sans-vie-du-champion-de-france-les-tops-et-flops-du-choc-entre-la-rochelle-et-toulouse-20260906",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire du Stade Rochelais face à Toulouse (30-27), dimanche soir à Marcel-Deflandre, en clôture de la première journée du Top 14.",
+          "published": "2026-09-07T01:17:40+00:00"
+        },
+        {
           "title": "Top 14 : sur le gong, La Rochelle terrasse Toulouse",
           "link": "https://www.lefigaro.fr/sports/rugby/top-14/top-14-sur-le-gong-la-rochelle-renverse-toulouse-20260906",
           "source": "Le Figaro",
           "summary": "Menés de 14 points à la mi-temps, les Rochelais ont fait tomber le Stade Toulousain, ce dimanche, à Marcel-Deflandre.",
-          "published": "2026-09-06T22:36:16+00:00"
+          "published": "2026-09-07T01:17:39+00:00"
         },
         {
-          "title": "La renversante charnière maritime, la furia de Menoncello, la seconde période sans vie du champion de France... Les tops et flops du choc entre La Rochelle et Toulouse",
-          "link": "https://www.lefigaro.fr/sports/rugby/top-14/la-renversante-charniere-maritime-la-furia-de-menoncello-la-seconde-periode-sans-vie-du-champion-de-france-les-tops-et-flops-du-choc-entre-la-rochelle-et-toulouse-20260906",
+          "title": "Berlin veut que la CIJ rejette la procédure émise à son encontre pour génocide",
+          "link": "https://www.lefigaro.fr/international/berlin-veut-que-la-cij-rejette-la-procedure-emise-a-son-encontre-pour-genocide-20260907",
           "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire du Stade Rochelais face à Toulouse (30-27), dimanche soir à Marcel-Deflandre, en clôture de la première journée du Top 14.",
-          "published": "2026-09-06T22:27:14+00:00"
+          "summary": "L’affaire remonte à 2024, lorsque le Nicaragua a saisi la CIJ, appelant les juges à ordonner à Berlin de cesser toute aide militaire à Israël, accusant l’Allemagne de «faciliter un génocide» à Gaza.",
+          "published": "2026-09-06T23:14:54+00:00"
         },
         {
-          "title": "Marseille-Paris FC : Sinayoko en bourreau, l’OM cherche une défense... les tops et flops",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/marseille-paris-fc-sinayoko-en-bourreau-l-om-cherche-une-defense-les-tops-et-flops-20260906",
+          "title": "Le ZEvent signe une dernière édition record avec 32,8 millions d’euros récoltés en trois jours",
+          "link": "https://www.lefigaro.fr/culture/le-zevent-signe-une-derniere-edition-record-avec-32-8-millions-d-euros-recoltes-en-trois-jours-20260907",
           "source": "Le Figaro",
-          "summary": "En clôture de la troisième journée de Ligue 1, l’OM s’est incliné à domicile face au Paris FC (2-3) Retrouvez les tops et les flops de cette rencontre riche en rebondissements.",
-          "published": "2026-09-06T22:07:39+00:00"
+          "summary": "Après dix années d’une aventure extraordinaire sur Twitch, Zerator et les centaines de participants du ZEvent ont fait leurs adieux à l’événement. Au total, plus de 91 millions d’euros de dons ont été récoltés depuis…",
+          "published": "2026-09-06T23:07:14+00:00"
+        },
+        {
+          "title": "Ligue 1 : l’OM s’incline face au Paris FC, Strasbourg et Rennes enchaînent les victoires",
+          "link": "https://www.lemonde.fr/sport/article/2026/09/07/ligue-1-l-om-s-incline-face-au-paris-fc-strasbourg-et-rennes-enchainent-les-victoires_6767723_3242.html",
+          "source": "Le Monde",
+          "summary": "Marseille s’enfonce tandis que le Paris FC s’installe en haut du classement et que Strasbourg, qui a largement battu Troyes, impressionne par son attaque.",
+          "published": "2026-09-06T22:22:45+00:00"
         },
         {
           "title": "Victoire de l'AfD en Saxe-Anhalt: en France, la gauche et le centre expriment leurs inquiétudes, le RN garde le silence",
@@ -201,32 +222,11 @@
           "published": "2026-09-06T21:54:34+00:00"
         },
         {
-          "title": "Ligue 1 : l’OM doit «beaucoup travailler, surtout défensivement», alerte Bruno Genesio",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-l-om-doit-beaucoup-travailler-surtout-defensivement-alerte-bruno-genesio-20260906",
-          "source": "Le Figaro",
-          "summary": "L’entraîneur marseillais a analysé la défaite de son équipe face au Paris FC ce dimanche au Vélodrome.",
-          "published": "2026-09-06T21:53:15+00:00"
-        },
-        {
           "title": "États-Unis: au moins cinq morts et cinq blessés après l’accident d’un avion-cargo à l’aéroport de Miami",
           "link": "https://www.lefigaro.fr/international/etats-unis-a-miami-un-avion-cargo-sort-de-piste-et-percute-des-vehicules-20260906",
           "source": "Le Figaro",
           "summary": "Un avion-cargo d’Amazon, un Boeing 767-300, en provenance de Porto Rico, a pris feu dimanche après avoir effectué une sortie de piste après son atterrissage.",
           "published": "2026-09-06T21:46:15+00:00"
-        },
-        {
-          "title": "Avant sa venue à Paris, le président sud-coréen, Lee Jae-myung, plaide pour une coopération internationale « fondée sur des valeurs communes »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/06/avant-sa-venue-a-paris-le-president-sud-coreen-lee-jae-myung-plaide-pour-une-cooperation-internationale-fondee-sur-des-valeurs-communes_6767624_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président sud-coréen, Lee Jae-myung, est en visite en France du dimanche 6 au mardi 8 septembre. Dans un entretien accordé au « Monde », le dirigeant progressiste revient sur le renforcement des liens politiques,…",
-          "published": "2026-09-06T21:00:02+00:00"
-        },
-        {
-          "title": "Elections régionales en Allemagne : \"Nous avons écrit l'histoire\", réagit le leader de l'extrême droite en Saxe-Anhalt après la victoire de son parti",
-          "link": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le parti d'extrême droite Alternative für Deutschland (AfD) a remporté ce Land de l'est du pays, où l'extrême droite a fait une percée inédite dans le pays depuis 1945.",
-          "published": "2026-09-06T20:58:29+00:00"
         }
       ]
     },
@@ -234,11 +234,11 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Le ZEvent 2026 fait ses adieux en pulvérisant son record absolu, plusieurs heures avant la fin du marathon caritatif",
-          "link": "https://www.numerama.com/politique/2326171-le-zevent-2026-fait-ses-adieux-en-pulverisant-son-record-absolu-plusieurs-heures-avant-la-fin-du-marathon-caritatif.html",
+          "title": "Le ZEvent 2026 fait ses adieux et pulvérise l’édition 2025, en doublant le record absolu de dons",
+          "link": "https://www.numerama.com/politique/2326171-le-zevent-2026-fait-ses-adieux-et-pulverise-ledition-2025-en-doublant-le-record-absolu-de-dons.html",
           "source": "Numerama",
-          "summary": "Le ZEvent vient de battre son record absolu de dons, à quelques heures de refermer dix ans d’histoire. Pour sa dixième et dernière édition, le marathon caritatif a passé la barre des 16 millions d’euros dans…",
-          "published": "2026-09-06T22:19:36+00:00"
+          "summary": "Le ZEvent vient de battre son record absolu de dons, à quelques heures de refermer dix ans d’histoire. Pour sa dixième et dernière édition, le marathon caritatif a largement battu le record précédént, avant de s'établir…",
+          "published": "2026-09-06T22:49:22+00:00"
         },
         {
           "title": "Asus ProArt GR1X : ce mini-PC profite de RTX Spark pour faire tourner vos agents IA en local 24h/24",
