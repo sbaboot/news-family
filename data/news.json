@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-09-08T20:44:41.498525+00:00",
+  "generated_at": "2026-09-08T23:11:59.681089+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "« South Park » rebaptisé « South America » : la série satirique se moque des changements de noms voulus par Donald Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
+          "source": "Le Monde",
+          "summary": "Habituée à égratigner le président, la série se moque cette fois aussi d’Apple et de Google, qui ont adopté sur leurs cartes destinées aux utilisateurs américains les nouvelles dénominations décidées par Donald Trump…",
+          "published": "2026-09-08T22:48:10+00:00"
+        },
+        {
+          "title": "En direct : Washington a détruit cinq pétroliers iraniens, les Gardiens menacent le Koweït et Bahreïn",
+          "link": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-etats-unis-detruit-cinq-petroliers-navires-iraniens-gardiens-revolution-menacent-koweit-bahrein-pays-golfe-detroit-ormuz",
+          "source": "France 24",
+          "summary": "L'armée américaine a annoncé avoir détruit cinq navires pétroliers dans la région du Golfe en représailles des attaques des Gardiens de la Révolution iraniens contre un navire de l'armée américaine ces deux derniers…",
+          "published": "2026-09-08T22:41:29+00:00"
+        },
+        {
+          "title": "Etats-Unis : le secrétaire de la Smithsonian Institution, Lonnie Bunch, quitte son poste sur fond de pressions politiques",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/etats-unis-le-secretaire-de-la-smithsonian-institution-lonnie-bunch-quitte-son-poste-sur-fond-de-pressions-politiques_6768620_3210.html",
+          "source": "Le Monde",
+          "summary": "Le premier chef afro-américain de la prestigieuse institution a annoncé son « départ à la retraite » alors qu’il faisait face à de nombreuses pressions de la part de l’administration Trump, accusant la Smithsonian de…",
+          "published": "2026-09-08T22:25:28+00:00"
+        },
+        {
+          "title": "Affaire des assistants du MoDem : Bayrou de retour devant la justice",
+          "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260908-affaire-des-assistants-du-modem-bayrou-de-retour-devant-la-justice",
+          "source": "France 24",
+          "summary": "Tout part de soupçons sur l'utilisation d'assistants parlementaires européens au profit du MoDem, révélés par Corinne Lepage. En 2024, le procès en première instance aboutit à plusieurs condamnations mais François…",
+          "published": "2026-09-08T22:17:19+00:00"
+        },
+        {
+          "title": "Ligue des champions : Lille s'incline face au Betis Séville (3-2)",
+          "link": "https://www.france24.com/fr/sports/20260908-ligue-des-champions-lille-incline-face-au-betis-seville-football-davide-ancelotti",
+          "source": "France 24",
+          "summary": "Lille a raté ses retrouvailles avec la Ligue des champions, menant deux fois avant de s'incliner et de finir à dix face au Betis Séville (3-2), mardi. En mal de points, les joueurs de Davide Ancelotti auront fort à…",
+          "published": "2026-09-08T21:28:00+00:00"
+        },
+        {
+          "title": "Onze pays européens et le Canada imposent à Israël des sanctions contre les produits issus des colonies en Cisjordanie",
+          "link": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
+          "source": "Le Monde",
+          "summary": "Dans le sillage du Royaume-Uni, la France, le Danemark, l’Espagne, la Finlande, l’Irlande, l’Islande, la Norvège, la Pologne, le Portugal et la Suède ainsi qu’Ottawa ont opté pour une logique de sanctions contre…",
+          "published": "2026-09-08T21:14:52+00:00"
+        },
+        {
+          "title": "Devant l'Assemblée, le Premier ministre sénégalais présente son plan pour redresser l'économie",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260908-devant-l-assembl%C3%A9e-le-premier-ministre-s%C3%A9n%C3%A9galais-pr%C3%A9sente-son-plan-pour-redresser-l-%C3%A9conomie",
+          "source": "France 24",
+          "summary": "C'était ce mardi le grand oral du Premier ministre sénégalais Ahmadou Al Aminou Lo, qui a fait sa déclaration de politiques générales devant l'Assemblée nationale, acquise en majorité au Pastef d'Ousmane Sonko. Al…",
+          "published": "2026-09-08T20:57:11+00:00"
+        },
+        {
+          "title": "Aux Etats-Unis, la justice interdit le partage massif de données sensibles du fisc aux services de l’immigration",
+          "link": "https://www.lemonde.fr/international/article/2026/09/08/aux-etats-unis-la-justice-interdit-le-partage-massif-de-donnees-sensibles-du-fisc-aux-services-de-l-immigration_6768519_3210.html",
+          "source": "Le Monde",
+          "summary": "Le fisc américain permet à des millions d’immigrés clandestins de payer leurs impôts, ce qui est perçu par les intéressés comme un moyen d’appuyer leurs demandes de régularisation et alimente le budget fédéral.",
+          "published": "2026-09-08T20:52:24+00:00"
+        },
+        {
+          "title": "Jean-Michel Blanquer : \"Il ne faut pas être fataliste\" face au classement Pisa de la France",
+          "link": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20260908-jean-michel-blanquer-classement-pisa-r%C3%A9sultats-france",
+          "source": "France 24",
+          "summary": "Menée dans 91 pays dont 38 de l’OCDE, la dernière enquête Pisa montre un abaissement général du niveau des élèves, notamment en France. Pour l'ancien ministre de l’Éducation nationale Jean-Michel Blanquer, les écrans et…",
+          "published": "2026-09-08T20:29:27+00:00"
+        },
+        {
           "title": "Détroit d’Ormuz : l’Iran affirme avoir saisi un drone sous-marin américain, tandis que Washington parle d’un engin « défectueux »",
           "link": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html",
           "source": "Le Monde",
           "summary": "L’armée américaine a par ailleurs mené une attaque de missile contre un pétrolier iranien près de l’île iranienne de Kharg, dans le Golfe, a rapporté mardi soir l’agence iranienne Tasnim.",
-          "published": "2026-09-08T20:22:28+00:00"
-        },
-        {
-          "title": "Droits de douane américains : la riposte du Canada entre en vigueur",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260908-droits-de-douane-am%C3%A9ricains-la-riposte-du-canada-entre-en-vigueur",
-          "source": "France 24",
-          "summary": "Les nouveaux droits de douane canadiens sont entrés en vigueur : environ 20 milliards de dollars d'importations en provenance des États-Unis sont désormais surtaxés. Il s'agit d'une riposte aux mesures décidées fin août…",
-          "published": "2026-09-08T19:57:02+00:00"
-        },
-        {
-          "title": "Du Groënland aux Antilles : la carte des Etats-Unis selon Donald Trump",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260908-du-gro%C3%ABnland-aux-antilles-la-carte-des-etats-unis-selon-donald-trump",
-          "source": "France 24",
-          "summary": "Sur son réseau social, Donald Trump a publié une fausse carte des Etats-Unis sur laquelle le drapeau américain recouvre d'autres pays comme le Canada, le Groënland, le Mexique et incluant même les Antilles françaises.…",
-          "published": "2026-09-08T19:52:32+00:00"
-        },
-        {
-          "title": "Serbie : des législatives anticipées auront lieu le 25 octobre, annonce le président, qui dissoudra l’Assemblée mercredi",
-          "link": "https://www.lemonde.fr/international/article/2026/09/08/serbie-des-legislatives-anticipees-auront-lieu-le-25-octobre-annonce-le-president-qui-dissoudra-l-assemblee-mercredi_6768516_3210.html",
-          "source": "Le Monde",
-          "summary": "Depuis novembre 2024, la Serbie connaît un vaste mouvement de protestation étudiant né de l’effondrement mortel d’un auvent dans la gare de Novi Sad, dans le nord du pays. Le mouvement réclamait de longue date de…",
-          "published": "2026-09-08T19:20:23+00:00"
-        },
-        {
-          "title": "Arabie saoudite : des frappes houthistes blessent 73 civils, Riyad promet de riposter",
-          "link": "https://www.lemonde.fr/international/article/2026/09/08/arabie-saoudite-des-frappes-houthis-blessent-73-civils-ryad-promet-de-riposter_6768483_3210.html",
-          "source": "Le Monde",
-          "summary": "Cette attaque d’ampleur, l’une des plus importantes depuis 2022, marque une escalade sur fond de guerre régionale, alors que Washington y voit la « main de l’Iran ».",
-          "published": "2026-09-08T19:04:07+00:00"
-        },
-        {
-          "title": "Cisjordanie : trois questions autour des sanctions occidentales contre les colonies israéliennes",
-          "link": "https://www.france24.com/fr/moyen-orient/20260908-cisjordanie-trois-questions-autour-sanctions-occidentales-contre-colonies-isra%C3%A9liennes-territoires-palestiniens-royaume-uni-france-canada",
-          "source": "France 24",
-          "summary": "Douze pays, dont la France, le Royaume-Uni et le Canada, ont indiqué mardi vouloir imposer des restrictions de commerce sur les biens issus des colonies israéliennes implantées en Cisjordanie occupée. France 24 fait le…",
-          "published": "2026-09-08T18:59:04+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : cinq personnes sont mortes à Kiev et 25 ont été blessées depuis la fin de la trêve de trois jours",
-          "link": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-cinq-personnes-sont-mortes-a-kiev-et-25-ont-ete-blessees-depuis-la-fin-de-la-treve-de-trois-jours_6766818_3210.html",
-          "source": "Le Monde",
-          "summary": "Après trois jours de trêve en raison de la visite à Kiev des émissaires américains Steve Witkoff et Jared Kushner, et des pourparlers visant à mettre fin à la guerre, de fortes explosions ont été entendues tôt mardi à…",
-          "published": "2026-09-08T18:53:00+00:00"
-        },
-        {
-          "title": "Le Canada peut-il résister à Trump ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260908-le-canada-peut-il-r%C3%A9sister-%C3%A0-trump",
-          "source": "France 24",
-          "summary": "La guerre commerciale s’intensifie entre le Canada et les États-Unis. Ottawa riposte aux nouveaux droits de douane américains imposés en août par Washington avec des surtaxes sur plusieurs produits importés des…",
-          "published": "2026-09-08T18:38:18+00:00"
-        },
-        {
-          "title": "VIDEO | Israël : le discours d’Ed Miliband sur les sanctions britanniques à Westminster",
-          "link": "https://www.lemonde.fr/international/video/2026/09/08/royaume-uni-nous-allons-instaurer-une-interdiction-d-importation-sur-les-marchandises-provenant-des-colonies-illegales-en-cisjordanie_6768480_3210.html",
-          "source": "Le Monde",
-          "summary": "Le ministre des affaires étrangères britannique, Ed Miliband, a accusé, mardi, le gouvernement israélien de « fermer les yeux » sur le « nettoyage ethnique » perpétré par des colons en Cisjordanie.",
-          "published": "2026-09-08T18:28:16+00:00"
-        },
-        {
-          "title": "Zohran Mamdani dénonce des dissimulations sur la toxicité de l’air à New York après le 11-Septembre : « Des gens sont tombés malades parce que les dirigeants leur ont menti »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/08/zohran-mamdani-denonce-des-dissimulations-sur-la-toxicite-de-l-air-a-new-york-apres-le-11-septembre-des-gens-sont-tombes-malades-parce-que-les-dirigeants-auxquels-ils-faisaient-confiance-leur-ont-menti_6768479_3210.html",
-          "source": "Le Monde",
-          "summary": "Le maire de la ville endeuillée par les attentats a annoncé la diffusion, dans le cadre d’un accord judiciaire avec une organisation de défense des victimes, de milliers de documents liés aux conséquences de…",
-          "published": "2026-09-08T18:16:54+00:00"
+          "published": "2026-09-08T20:22:26+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Pourrait-on en arriver à avoir un dirigeant «à la Trump» au Québec?",
+          "title": "Guerre commerciale | Avantage Carney",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-09-08/guerre-commerciale/avantage-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "C’est une phrase qu’on peut lire souvent dans la presse américaine ces jours-ci : « Celui qui gagne la guerre n’est pas nécessairement le plus fort, c’est celui qui est capable d’endurer la douleur le plus longtemps. »",
+          "published": "2026-09-08T23:00:00+00:00"
+        },
+        {
+          "title": "Un voyage au Mexique pour obtenir son permis de travail",
+          "link": "https://www.lapresse.ca/actualites/2026-09-08/un-voyage-au-mexique-pour-obtenir-son-permis-de-travail.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Il aura fallu un voyage au Mexique et deux heures et demie avec un agent à l’aéroport Jean-Lesage de Québec pour dénouer une situation qui durait depuis près de trois mois. Laurent Favand, ce travailleur étranger qui…",
+          "published": "2026-09-08T22:40:48+00:00"
+        },
+        {
+          "title": "Les rebelles yéménites mènent une attaque d’ampleur en Arabie saoudite",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1007408/rebelles-yemenites-menent-attaque-ampleur-arabie-saoudite",
+          "source": "Le Devoir",
+          "summary": "L’attaque menée par les Houthis, à l’aide de dizaines de drones et de missiles, a blessé 73 civils.",
+          "published": "2026-09-08T22:06:46+00:00"
+        },
+        {
+          "title": "Kilogramme de cocaïne et pistolet chargé | Un courrier condamné à trois ans et demi d’emprisonnement",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/kilogramme-de-cocaine-et-pistolet-charge/un-courrier-condamne-a-trois-ans-et-demi-d-emprisonnement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un individu arrêté immédiatement après une présumée transaction de cocaïne survenue dans un parc de Sainte-Thérèse en juin 2025 a été condamné vendredi à trois ans et demi d’emprisonnement après avoir plaidé coupable à…",
+          "published": "2026-09-08T21:31:54+00:00"
+        },
+        {
+          "title": "Les produits canadiens seront retirés des marchés publics américains à la demande de Trump",
+          "link": "https://www.ledevoir.com/economie/1007393/trump-replique-retirant-produits-canadiens-marches-publics",
+          "source": "Le Devoir",
+          "summary": "Il s’agit d’une première réponse américaine aux contre-tarifs canadiens entrés en vigueur mardi un peu après minuit.",
+          "published": "2026-09-08T21:24:00+00:00"
+        },
+        {
+          "title": "Mort d’un poupon après une frénotomie | L’intervenante en allaitement poursuivie pour pratique illégale de la médecine dentaire",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/mort-d-un-poupon-apres-une-frenotomie/l-intervenante-en-allaitement-poursuivie-pour-pratique-illegale-de-la-medecine-dentaire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Une intervenante en allaitement qui a conseillé à des parents de procéder à une frénotomie, soit l’ablation du frein de la langue, sur leur poupon en 2023 fait face à une poursuite pénale pour avoir exercé illégalement…",
+          "published": "2026-09-08T21:14:27+00:00"
+        },
+        {
+          "title": "«Sur le fil»: l’itinérance, au-delà des campements et des sollicitations",
+          "link": "https://www.ledevoir.com/culture/ecrans/1007384/fil-itinerance-dela-campements-sollicitations",
+          "source": "Le Devoir",
+          "summary": "Un centre d’hébergement pour personnes en situation d’itinérance est au cœur de la nouvelle série de Radio-Canada.",
+          "published": "2026-09-08T21:08:00+00:00"
+        },
+        {
+          "title": "Procès pour entrave lié à un meurtre | Une ex-avocate se dépeint comme une victime de violence conjugale",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/proces-pour-entrave-lie-a-un-meurtre/une-ex-avocate-se-depeint-comme-une-victime-de-violence-conjugale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Une ex-avocate de la défense accusée d’avoir entravé le travail de la police à la suite d’un meurtre commis par son conjoint s’est décrite mardi comme une victime de violence conjugale. Dans un témoignage très émotif,…",
+          "published": "2026-09-08T20:47:19+00:00"
+        },
+        {
+          "title": "Pourrait-on en arriver à un dirigeant « à la Trump » au Québec ?",
           "link": "https://www.ledevoir.com/actualites/societe/1007369/pourrait-on-arriver-avoir-dirigeant-trump-quebec",
           "source": "Le Devoir",
-          "summary": "Les avocats réfléchissent aux menaces à l’État de droit lors du premier sommet organisé par le Barreau du Québec.",
+          "summary": "Les avocats réfléchissent aux menaces à l’état de droit dans le cadre d’un sommet organisé par le Barreau.",
           "published": "2026-09-08T20:24:00+00:00"
-        },
-        {
-          "title": "Les trois actus du 8 septembre",
-          "link": "https://www.ledevoir.com/actualites/1007363/trois-actus-8-septembre",
-          "source": "Le Devoir",
-          "summary": "Pas égaux face aux contre-tarifs, le PQ craint une «récession sévère» et sanctions envers Israël: ce qu’il faut retenir.",
-          "published": "2026-09-08T20:21:55+00:00"
-        },
-        {
-          "title": "Guerre commerciale | La riposte canadienne ne devrait pas affecter le panier d’épicerie",
-          "link": "https://www.lapresse.ca/affaires/2026-09-08/guerre-commerciale/la-riposte-canadienne-ne-devrait-pas-affecter-le-panier-d-epicerie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La plupart des produits alimentaires ont échappé aux répercussions des tensions commerciales, alors que les droits de douane de rétorsion imposés par le Canada sont entrés en vigueur mardi. Toutefois, selon les…",
-          "published": "2026-09-08T20:03:13+00:00"
         },
         {
           "title": "Pourquoi Donald Trump s’acharne-t-il sur Bombardier?",
           "link": "https://www.ledevoir.com/economie/1007345/pourquoi-donald-trump-acharne-il-bombardier",
           "source": "Le Devoir",
-          "summary": "Le président veut interdire la vente de ces avions aux États-Unis. Qu’est ce que ça veut dire pour le fleuron québécois?",
-          "published": "2026-09-08T19:50:04+00:00"
-        },
-        {
-          "title": "Toujours incarcéré, Guy Turcotte demandera des sorties de prison avec escorte",
-          "link": "https://www.ledevoir.com/actualites/justice/1007339/toujours-incarcere-guy-turcotte-demandera-sorties-prison-escorte",
-          "source": "Le Devoir",
-          "summary": "La décision qui sera rendue par la Commission des libérations conditionnelles restera toutefois secrète.",
-          "published": "2026-09-08T19:31:37+00:00"
-        },
-        {
-          "title": "L’Iran menace de frapper des bases américaines dans la région si ses pétroliers continuent à être attaqués",
-          "link": "https://www.journaldemontreal.com/2026/09/08/liran-menace-de-frapper-des-bases-americaines-dans-la-region-si-ses-petroliers-continuent-a-etre-attaques",
-          "source": "Journal de Montreal",
-          "summary": "Le chef d’état-major des forces armées iraniennes a menacé mardi de lancer de nouvelles attaques contre les bases américaines dans la région",
-          "published": "2026-09-08T19:17:32+00:00"
-        },
-        {
-          "title": "L'ex-cardiologue Guy Turcotte espère obtenir des sorties de prison avec escorte",
-          "link": "https://www.journaldemontreal.com/2026/09/08/lex-cardiologue-guy-turcotte-espere-obtenir-des-sorties-de-prison-avec-escorte",
-          "source": "Journal de Montreal",
-          "summary": "L’ex-cardiologue Guy Turcotte aura bientôt droit à une audience afin d’obtenir des permissions de sortie avec escorte.",
-          "published": "2026-09-08T19:15:53+00:00"
-        },
-        {
-          "title": "Rubio entame une tournée en Amérique latine pour conforter l'influence des États-Unis",
-          "link": "https://www.journaldemontreal.com/2026/09/08/rubio-entame-une-tournee-en-amerique-latine-pour-conforter-linfluence-des-etats-unis",
-          "source": "Journal de Montreal",
-          "summary": "Le chef de la diplomatie américaine Marco Rubio est attendu mardi en Colombie, première étape d'une tournée en Amérique latine.",
-          "published": "2026-09-08T19:13:28+00:00"
-        },
-        {
-          "title": "Le PQ craint que les contre-tarifs d’Ottawa provoquent une «récession sévère» au Québec",
-          "link": "https://www.ledevoir.com/politique/canada/1007336/pq-craint-contre-tarifs-ottawa-provoquent-recession-severe-quebec",
-          "source": "Le Devoir",
-          "summary": "Paul St-Pierre Plamondon estime que la riposte canadienne «tire dans le pied» de l’économie d’ici.",
-          "published": "2026-09-08T19:02:00+00:00"
-        },
-        {
-          "title": "«Encore Encore»: Gab Bouchard s’arrêtera au Théâtre Capitole en avril",
-          "link": "https://www.journaldemontreal.com/2026/09/08/encore-encore-gab-bouchard-sarretera-au-theatre-capitole-en-avril",
-          "source": "Journal de Montreal",
-          "summary": "La mise en vente au grand public débutera vendredi.",
-          "published": "2026-09-08T19:00:43+00:00"
+          "summary": "Le président veut interdire la vente de ces avions aux États-Unis. Que cela signifie-t-il pour le fleuron québécois?",
+          "published": "2026-09-08T19:50:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Lille-Betis : Mbappé exclu, situation renversée... Le Losc en plein cauchemar",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/en-direct-lille-betis-mbappe-et-les-dogues-revent-d-enflammer-l-europe-20260908",
+          "title": "Guerre en Iran : Washington annonce avoir détruit cinq pétroliers iraniens après des attaques sur un bâtiment américain",
+          "link": "https://www.lefigaro.fr/international/guerre-en-iran-washington-annonce-avoir-detruit-cinq-petroliers-iraniens-apres-des-attaques-sur-un-batiment-americain-20260909",
           "source": "Le Figaro",
-          "summary": "Le Losc accueille les Espagnols du Betis ce mardi pour ouvrir sa campagne de Ligue des champions.",
-          "published": "2026-09-08T20:44:02+00:00"
-        },
-        {
-          "title": "Lille-Betis : en vidéo, le vilain coup de coude d’Ethan Mbappé, exclu logiquement",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/lille-betis-en-images-le-vilain-coup-de-coude-d-ethan-mbappe-exclu-logiquement-20260908",
-          "source": "Le Figaro",
-          "summary": "Passeur décisif sur le premier but lillois, le jeune attaquant français a gâché ses débuts en Ligue des champions avec un geste d’humeur lui valant un carton rouge.",
-          "published": "2026-09-08T20:43:47+00:00"
+          "summary": "L’armée américaine a annoncé mardi avoir détruit cinq navires pétroliers dans la région du Golfe en représailles des attaques des Gardiens de la Révolution iraniens contre un navire de l’armée américaine ces deux…",
+          "published": "2026-09-08T23:03:05+00:00"
         },
         {
           "title": "«Pourquoi ce qui est bon à Mayotte ne le serait pas pour l’Hexagone ?» : Bruno Retailleau plaide pour la fin du droit du sol",
           "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/pourquoi-ce-qui-est-bon-a-mayotte-ne-le-serait-pas-pour-l-hexagone-bruno-retailleau-plaide-pour-la-fin-du-droit-du-sol-20260908",
           "source": "Le Figaro",
           "summary": "En cas de victoire à la présidentielle, le candidat LR a «pris l’engagement» mardi sur CNews que «les Français définiront enfin la politique migratoire».",
-          "published": "2026-09-08T20:41:37+00:00"
+          "published": "2026-09-08T22:52:09+00:00"
         },
         {
-          "title": "Au Royaume-Uni, plus de 1 000 vols annulés dans plusieurs grandes villes après un \"problème technique\" du contrôle aérien",
-          "link": "https://www.franceinfo.fr/economie/transports/au-royaume-uni-de-nombreux-vols-annules-apres-un-probleme-technique-du-controle-aerien_8183633.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les aéroports londoniens d'Heathrow et Gatwick, mais aussi ceux de Liverpool, Birmingham ou Edimbourg font partie des sites britanniques concernés.",
-          "published": "2026-09-08T20:33:15+00:00"
-        },
-        {
-          "title": "OpenAI annonce avoir résolu un problème de maths crucial en quelques jours seulement",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/openai-annonce-avoir-resolu-un-probleme-de-maths-crucial-en-quelques-jours-seulement-20260908",
-          "source": "Le Figaro",
-          "summary": "L’équation dite de Navier-Stokes porte sur le mouvement des fluides (gaz et liquides) et sur la capacité à l’anticiper dans la durée. OpenAI dit avoir résolu l’équation en 88 heures seulement.",
-          "published": "2026-09-08T20:29:00+00:00"
-        },
-        {
-          "title": "Albanie : affrontements entre policiers et manifestants contre un projet touristique lié à la famille Trump",
-          "link": "https://www.lefigaro.fr/flash-actu/albanie-affrontements-entre-policiers-et-manifestants-contre-un-projet-touristique-lie-a-la-famille-trump-20260908",
-          "source": "Le Figaro",
-          "summary": "Des centaines de manifestants se sont réunis mardi soir pour contester le gigantesque projet porté par Jared Kushner et Ivanka Trump sur deux sites balnéaires.",
-          "published": "2026-09-08T20:26:40+00:00"
-        },
-        {
-          "title": "Détroit d’Ormuz : l’Iran affirme avoir saisi un drone sous-marin américain, tandis que Washington parle d’un engin « défectueux »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html",
+          "title": "« South Park » rebaptisé « South America » : la série satirique se moque des changements de noms voulus par Donald Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
           "source": "Le Monde",
-          "summary": "L’armée américaine a par ailleurs mené une attaque de missile contre un pétrolier iranien près de l’île iranienne de Kharg, dans le Golfe, a rapporté mardi soir l’agence iranienne Tasnim.",
-          "published": "2026-09-08T20:22:28+00:00"
+          "summary": "Habituée à égratigner le président, la série se moque cette fois aussi d’Apple et de Google, qui ont adopté sur leurs cartes destinées aux utilisateurs américains les nouvelles dénominations décidées par Donald Trump…",
+          "published": "2026-09-08T22:48:10+00:00"
         },
         {
-          "title": "\"Nous étions en droit d'attendre une réforme ambitieuse\" : en grève, les pompiers expriment leur colère après un été marqué par les incendies",
-          "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/pompiers-en-pleine-greve-la-colere-monte-apres-un-ete-marque-par-les-incendies_8183729.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Après un été marqué par de nombreux incendies, les pompiers restent mobilisés sur le terrain. Entre fatigue, manque d'effectifs et conditions difficiles, ils réclament davantage de moyens. Alors qu'une réforme vient…",
-          "published": "2026-09-08T20:21:34+00:00"
+          "title": "Etats-Unis : le secrétaire de la Smithsonian Institution, Lonnie Bunch, quitte son poste sur fond de pressions politiques",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/etats-unis-le-secretaire-de-la-smithsonian-institution-lonnie-bunch-quitte-son-poste-sur-fond-de-pressions-politiques_6768620_3210.html",
+          "source": "Le Monde",
+          "summary": "Le premier chef afro-américain de la prestigieuse institution a annoncé son « départ à la retraite » alors qu’il faisait face à de nombreuses pressions de la part de l’administration Trump, accusant la Smithsonian de…",
+          "published": "2026-09-08T22:25:28+00:00"
         },
         {
-          "title": "\"J'avais une masculinité toxique\" : au procès Aramburu, la personnalité des deux principaux accusés débattue sous le prisme de la violence",
-          "link": "https://www.franceinfo.fr/faits-divers/justice-proces/j-avais-une-masculinite-toxique-au-proces-aramburu-la-personnalite-des-deux-principaux-accuses-debattue-sous-le-prisme-de-la-violence_8183108.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Au deuxième jour du procès de Loïk Le Priol et Romain Bouvier devant la cour d'assises de Paris, les débats se sont concentrés sur le passé des deux hommes, marqué par la violence, y compris dans leur amitié.",
-          "published": "2026-09-08T20:15:50+00:00"
+          "title": "«Construisez le mur» : la Maison-Blanche retire de son site un jeu vidéo polémique inspiré de Tetris",
+          "link": "https://www.lefigaro.fr/international/construisez-le-mur-la-maison-blanche-retire-de-son-site-un-jeu-video-polemique-inspire-de-tetris-20260909",
+          "source": "Le Figaro",
+          "summary": "Proposé depuis jeudi sur le site de la Maison-Blanche, «Build the Wall» invitait les joueurs à bâtir un mur à la frontière pour se protéger des «zombies».",
+          "published": "2026-09-08T22:19:59+00:00"
         },
         {
-          "title": "Fausses informations : des ateliers proposés aux seniors pour apprendre à détecter les pièges sur Internet",
-          "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/fausses-informations-des-ateliers-proposes-aux-seniors-pour-apprendre-a-detecter-les-pieges-sur-internet_8183720.html#xtor=RSS-3-[lestitres]",
+          "title": "Pour 56% des citoyens, l’Union européenne est «en danger», selon une étude de l’ECFR",
+          "link": "https://www.lefigaro.fr/international/pour-56-des-citoyens-l-union-europeenne-est-en-danger-selon-une-etude-de-l-ecfr-20260909",
+          "source": "Le Figaro",
+          "summary": "EXCLUSIF - L’enquête menée dans six pays met en lumière une crise de confiance envers l’UE et un sentiment de déclin chez une majorité de citoyens.",
+          "published": "2026-09-08T22:15:00+00:00"
+        },
+        {
+          "title": "Le géant de l'intelligence artificielle OpenAI dit avoir résolu l'équation de Navier-Stokes, un problème de maths crucial, en seulement quelques jours",
+          "link": "https://www.franceinfo.fr/internet/le-geant-de-l-intelligence-artificielle-openai-dit-avoir-resolu-l-equation-de-navier-stokes-un-probleme-de-maths-crucial-en-seulement-quelques-jours_8183789.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les réseaux sociaux changent notre façon de nous informer, et cela concerne toutes les générations. Vous êtes nombreux à y retrouver vos proches, à partager des articles, mais comment savoir à quoi se fier ? Une étude a…",
-          "published": "2026-09-08T20:06:26+00:00"
+          "summary": "\"C'est une étape significative de la recherche IA\", a déclaré le responsable de la recherche chez OpenAI, lors d'un point de presse.",
+          "published": "2026-09-08T22:09:42+00:00"
+        },
+        {
+          "title": "Donald Trump menace de restreindre l'accès des Canadiens aux commandes publiques américaines",
+          "link": "https://www.lefigaro.fr/conjoncture/donald-trump-menace-de-restreindre-l-acces-des-canadiens-aux-commandes-publiques-americaines-20260909",
+          "source": "Le Figaro",
+          "summary": "États-Unis et Canada sont engagés dans un conflit commercial à coups de nouveaux droits de douane sur certains produits.",
+          "published": "2026-09-08T22:07:46+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : Bruno Retailleau dit qu’il n’ira pas à la réunion proposée par Édouard Philippe à la droite et au centre",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-accuse-jean-luc-melenchon-d-etre-un-sous-traitant-de-l-ideologie-islamiste-20260908",
+          "source": "Le Figaro",
+          "summary": "Édouard Philippe avait annoncé plus tôt vouloir réunir dans un «comité» tous les partis «de la droite et du centre» à la Toussaint pour explorer les «convergences programmatiques».",
+          "published": "2026-09-08T21:56:42+00:00"
+        },
+        {
+          "title": "La série \"South Park\" se rebaptise \"South America\" pour se moquer de Donald Trump",
+          "link": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Cette initiative de la série satirique tourne en dérision les velléités du président américain de rebaptiser des lieux à travers le monde par des décisions unilatérales.",
+          "published": "2026-09-08T21:53:00+00:00"
         }
       ]
     },
