@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-09-07T21:08:19.043892+00:00",
+  "generated_at": "2026-09-08T03:10:49.895570+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En Cisjordanie occupée, les tensions s’aggravent à l’approche des élections générales israéliennes",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/09/08/en-cisjordanie-occupee-les-tensions-s-aggravent-a-l-approche-des-elections-generales-israeliennes_6768031_5463015.html",
+          "source": "Le Monde",
+          "summary": "Depuis octobre 2025, les violences s’intensifient en Cisjordanie. Les colons israéliens usent de tous les moyens pour récupérer les terres de ce territoire palestinien. Dans ce podcast, Luc Bronner, correspondant à…",
+          "published": "2026-09-08T03:00:10+00:00"
+        },
+        {
+          "title": "En direct : la Russie reprend ses frappes sur Kiev après trois jours de trêve",
+          "link": "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
+          "source": "France 24",
+          "summary": "De fortes explosions ont été entendues tôt mardi à Kiev, ont constaté des journalistes de l'AFP, alors qu'a expiré dans la nuit une suspension de trois jours des frappes russes sur la capitale ukrainienne. Suivez notre…",
+          "published": "2026-09-08T01:27:32+00:00"
+        },
+        {
+          "title": "France : succès de la fabrique de la diplomatie chez les jeunes",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-france-succ%C3%A8s-de-la-fabrique-de-la-diplomatie-chez-les-jeunes",
+          "source": "France 24",
+          "summary": "Ce week-end, la Fabrique de la Diplomatie se tenait à Paris, à l'université Sorbonne Nouvelle. Organisé par le ministère de l’Europe et des Affaires étrangères, cet évènement proposait au public d'entrer dans les…",
+          "published": "2026-09-07T23:12:56+00:00"
+        },
+        {
+          "title": "Londres condamne des manifestants anti-migrants ayant tenté de bloquer un débarquement à Portsmouth",
+          "link": "https://www.france24.com/fr/europe/20260907-royaume-uni-londres-condamne-manifestants-anti-migrants-bloquer-debarquement-portsmouth",
+          "source": "France 24",
+          "summary": "Environ 200 manifestants ont perturbé dimanche l'arrivée d'une embarcation de migrants à Portsmouth, dans le sud de l'Angleterre, où les autorités s'inquiètent d'une nouvelle route migratoire depuis la France. Lundi, le…",
+          "published": "2026-09-07T22:38:04+00:00"
+        },
+        {
+          "title": "Allemagne : l'AfD, de l'euroscepticisme à l'extrémisme",
+          "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260907-allemagne-l-afd-de-l-euroscepticisme-%C3%A0-l-extr%C3%A9misme",
+          "source": "France 24",
+          "summary": "Au lendemain de la victoire de l'extrême droite en Saxe-Anhalt, le chancelier allemand, Friedrich Merz se dit profondément choqué. L'Alternative für Deutschland a raflé près de 44% des voix alors que son parti, la CDU,…",
+          "published": "2026-09-07T22:19:23+00:00"
+        },
+        {
+          "title": "Cuba dénonce les pertes financières « record » de l’embargo américain",
+          "link": "https://www.lemonde.fr/international/article/2026/09/07/cuba-denonce-les-pertes-financieres-record-de-l-embargo-americain_6767998_3210.html",
+          "source": "Le Monde",
+          "summary": "Le gouvernement cubain estime les pertes à 8 milliards de dollars entre mars 2025 et février 2026, un chiffre qui ne prend pas en compte le blocus pétrolier. Paradoxalement, cette alerte coïncide avec une hausse sans…",
+          "published": "2026-09-07T21:30:42+00:00"
+        },
+        {
+          "title": "Saxe-Anhalt : le vote par correspondance alimente les infox",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260907-saxe-anhalt-le-vote-par-correspondance-alimente-les-infox",
+          "source": "France 24",
+          "summary": "Avant que l’Alternative für Deutschland ne remporte les élections régionales de Saxe -Anhalt, le scrutin a été précédé de nombreuses allégations fausses et trompeuses alimentant les soupçons de fraude et de manipulation…",
+          "published": "2026-09-07T21:23:15+00:00"
+        },
+        {
+          "title": "En Saxe-Anhalt, la victoire de l’Afd s’appuie sur une économie à la peine",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260907-en-saxe-anhalt-la-victoire-de-l-afd-s-appuie-sur-une-%C3%A9conomie-%C3%A0-la-peine",
+          "source": "France 24",
+          "summary": "La Saxe-Anhalt est un Land âgé, pauvre, rural où la population souffre d'un sentiment de déclassement depuis la réunification allemande. Le PIB par habitant y est inférieur à la moyenne nationale ; le chômage, supérieur…",
+          "published": "2026-09-07T21:00:14+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky évoque la possibilité d’une nouvelle session de négociations trilatérales",
           "link": "https://www.lemonde.fr/international/live/2026/09/07/en-direct-guerre-en-ukraine-volodymyr-zelensky-evoque-la-possibilite-d-une-nouvelle-session-de-negociations-trilaterales_6766818_3210.html",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "En Guinée, l’ex magistrat récemment révoqué a été transféré à la prison de Macenta, située à environ 700 km de Conakry. Algassimou Diallo est poursuivi pour des faits de provocation à la discrimination, à la haine et…",
           "published": "2026-09-07T20:29:15+00:00"
-        },
-        {
-          "title": "En Colombie, le soldat de la Légion étrangère française pris en otage par une guérilla est « sain et sauf »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/07/en-colombie-le-soldat-de-la-legion-etrangere-francaise-pris-en-otage-par-une-guerilla-est-sain-et-sauf_6767995_3210.html",
-          "source": "Le Monde",
-          "summary": "Le soldat colombien de la Légion étrangère française, enlevé le 6 août par des guérilleros, a réussi à leur échapper, a annoncé lundi l’état-major des armées français.",
-          "published": "2026-09-07T20:19:05+00:00"
-        },
-        {
-          "title": "Allemagne : Ulrich Siegmund, la tête de liste du parti d’extrême droite AfD, remporte les élections régionales en Saxe-Anhalt",
-          "link": "https://www.lemonde.fr/international/video/2026/09/07/allemagne-ulrich-siegmund-la-tete-de-liste-du-parti-d-extreme-droite-afd-remporte-les-elections-regionales-en-saxe-anhalt_6767992_3210.html",
-          "source": "Le Monde",
-          "summary": "Le parti d’extrême droite Alternative pour l’Allemagne (AfD), fondé en 2013, a enregistré, dimanche 6 septembre, le meilleur résultat de son histoire dans ce Land de l’ancienne Allemagne de l’Est. Une première pour…",
-          "published": "2026-09-07T19:01:00+00:00"
-        },
-        {
-          "title": "AfD : l'Allemagne bascule-t-elle ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260907-afd-l-allemagne-bascule-t-elle",
-          "source": "France 24",
-          "summary": "La victoire de l’AfD en Saxe-Anhalt marque une nouvelle progression de l’extrême droite en Allemagne. Avec 44 % des suffrages, le parti n’est plus qu’à trois sièges de la majorité absolue. Ce scrutin régional dépasse le…",
-          "published": "2026-09-07T18:36:01+00:00"
-        },
-        {
-          "title": "Le crash d’un avion-cargo à Miami fait cinq morts",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-le-crash-d-un-avion-cargo-%C3%A0-miami-fait-cinq-morts",
-          "source": "France 24",
-          "summary": "Un avion-cargo de l'entreprise Amazon est sorti de piste dimanche et a percuté plusieurs voitures. Cinq personnes ont été tuées dans l’accident.",
-          "published": "2026-09-07T18:32:22+00:00"
-        },
-        {
-          "title": "L’Union européenne promet de resserrer les liens avec le Groenland",
-          "link": "https://www.lemonde.fr/international/article/2026/09/07/l-union-europeenne-promet-de-resserrer-les-liens-avec-le-groenland_6767987_3210.html",
-          "source": "Le Monde",
-          "summary": "Huit mois après les menaces américaines d’annexion du territoire autonome danois, Ursula von der Leyen, présidente de la Commission européenne, s’est rendue à Nuuk, les 6 et 7 septembre. Elle y a présenté une enveloppe…",
-          "published": "2026-09-07T18:00:02+00:00"
-        },
-        {
-          "title": "Sénégal : manifestation à Dakar contre la hausse du coût de la vie",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-s%C3%A9n%C3%A9gal-manifestation-%C3%A0-dakar-contre-la-hausse-du-co%C3%BBt-de-la-vie",
-          "source": "France 24",
-          "summary": "🇸🇳 À Dakar, des centaines de personnes ont manifesté samedi contre la cherté de la vie, à l’appel d’influenceurs très suivis sur les réseaux sociaux. Baptisée \"La marche des paniers vides\", la mobilisation réclame des…",
-          "published": "2026-09-07T17:52:14+00:00"
-        },
-        {
-          "title": "Grève à la tour Eiffel après l'éviction de salariées pour la visite d'un groupe hindou",
-          "link": "https://www.france24.com/fr/france/20260907-gr%C3%A8ve-tour-eiffel-%C3%A9viction-salari%C3%A9es-visite-groupe-hindou",
-          "source": "France 24",
-          "summary": "La tour Eiffel a été fermée lundi en raison d'une grève des salariés, qui dénoncent l'éviction d'employées lors de la visite, samedi, d'une délégation hindoue, venue à l'occasion de l'inauguration d'un temple près de la…",
-          "published": "2026-09-07T17:18:22+00:00"
-        },
-        {
-          "title": "Pétrole : au Venezuela, l’équation impossible de Washington",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/07/petrole-au-venezuela-l-equation-impossible-de-washington_6767983_3234.html",
-          "source": "Le Monde",
-          "summary": "Les modalités de l’accord pétrolier conclu entre Washington et Caracas restent floues. La mainmise des Etats-Unis sur les réserves vénézuéliennes ne permettra pas de compenser dans l’immédiat les barils perdus au…",
-          "published": "2026-09-07T17:11:59+00:00"
         }
       ]
     },
@@ -91,6 +91,48 @@
           "published": "2026-12-31T05:05:00+00:00"
         },
         {
+          "title": "Politique d’achat québécois renforcée | Les entreprises américaines et étrangères écartées de certains appels d’offres publics",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-09-07/politique-d-achat-quebecois-renforcee/les-entreprises-americaines-et-etrangeres-ecartees-de-certains-appels-d-offres-publics.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’escalade de la guerre tarifaire pousse Québec à déroger pour la première fois à des accords commerciaux internationaux : les entreprises américaines et étrangères ne pourront plus répondre aux appels d’offres publics…",
+          "published": "2026-09-08T00:56:10+00:00"
+        },
+        {
+          "title": "Les États-Uniens",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-09-07/les-etats-uniens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Quand j’évoque nos voisins du Sud, j’utilise le mot États-Uniens. Je le fais ici, et depuis longtemps à la radio et à la télévision. Je pratique ce terme depuis… le siècle dernier, ce n’est donc absolument pas une…",
+          "published": "2026-09-07T23:45:00+00:00"
+        },
+        {
+          "title": "Le PQ veut investir 1,3 milliard en soutien à domicile pour les aînés",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/le-pq-veut-investir-1-3-milliard-en-soutien-a-domicile-pour-les-aines.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le Parti québécois veut redonner aux aînés « les moyens de leur autonomie » et promet d’injecter 1,3 milliard dans le soutien à domicile. Paul St-Pierre Plamondon revoit à la baisse son engagement de 2022 : la CAQ a…",
+          "published": "2026-09-07T23:06:45+00:00"
+        },
+        {
+          "title": "Quoi retenir de la longue fin de semaine?",
+          "link": "https://www.ledevoir.com/actualites/1007138/quoi-retenir-longue-fin-semaine",
+          "source": "Le Devoir",
+          "summary": "L’actualité du long week-end des 5, 6 et 7 septembre en résumé.",
+          "published": "2026-09-07T22:36:00+00:00"
+        },
+        {
+          "title": "La Nouvelle-Écosse entame les travaux après les inondations au Cap-Breton",
+          "link": "https://www.ledevoir.com/actualites/environnement/1007102/nouvelle-ecosse-entame-travaux-apres-inondations-cap-breton",
+          "source": "Le Devoir",
+          "summary": "Une tempête a déversé plus de 200 millimètres de pluie sur l’île et certaines régions au nord en moins de deux jours.",
+          "published": "2026-09-07T21:28:13+00:00"
+        },
+        {
+          "title": "Fréchette se retrouve sur la sellette",
+          "link": "https://www.ledevoir.com/politique/1007099/frechette-fait-contredire-ottawa-mesures-retorsion",
+          "source": "Le Devoir",
+          "summary": "Christine Fréchette continue de dire que le gouvernement Carney a «pris en considération» les demandes québécoises.",
+          "published": "2026-09-07T21:09:00+00:00"
+        },
+        {
           "title": "Trump sur Bombardier | « C’est un tweet », relativise St-Pierre Plamondon",
           "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/trump-sur-bombardier/c-est-un-tweet-relativise-st-pierre-plamondon.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -101,7 +143,7 @@
           "title": "Trump ne veut plus que les produits de Bombardier soient vendus aux États-Unis",
           "link": "https://www.ledevoir.com/economie/1007093/trump-ne-veut-plus-produits-bombardier-soient-vendus-e-u",
           "source": "Le Devoir",
-          "summary": "Il soutient que les produits ne sont « pas assez bons ».",
+          "summary": "Il soutient que les produits ne sont «pas assez bons».",
           "published": "2026-09-07T19:52:00+00:00"
         },
         {
@@ -110,48 +152,6 @@
           "source": "Journal de Montreal",
           "summary": "La candidate du PCQ dans Montmorency se dit encore « très fière » d’avoir soulevé dans le passé des « questions » controversées contre les vaccins.",
           "published": "2026-09-07T19:24:16+00:00"
-        },
-        {
-          "title": "Le DG des Tigers ne fera pas le saut avec les Red Wings",
-          "link": "https://www.journaldemontreal.com/2026/09/07/le-dg-des-tigers-ne-fera-pas-le-saut-avec-les-red-wings",
-          "source": "Journal de Montreal",
-          "summary": "Jeff Greenberg, ne veut plus être le DG du club de la LNH.",
-          "published": "2026-09-07T19:09:49+00:00"
-        },
-        {
-          "title": "Les contre-tarifs douaniers canadiens entrent en vigueur mardi",
-          "link": "https://www.ledevoir.com/economie/1007081/contre-tarifs-douaniers-canadiens-entrent-vigueur-mardi",
-          "source": "Le Devoir",
-          "summary": "Ce sont en grande partie les consommateurs qui épongeront la hausse de prix, des deux côtés de la frontière.",
-          "published": "2026-09-07T19:00:00+00:00"
-        },
-        {
-          "title": "Retour de Céline Dion à Paris: entre 1,6 et 2 milliards de dollars de retombées",
-          "link": "https://www.journaldemontreal.com/2026/09/07/retour-de-celine-dion-a-paris-entre-16-et-2-milliards-de-dollars-de-retombees",
-          "source": "Journal de Montreal",
-          "summary": "Combien ce retour de Céline Dion à Paris va-t-il rapporter à l'économie française?",
-          "published": "2026-09-07T18:54:16+00:00"
-        },
-        {
-          "title": "Voici ce que l'on sait sur l’avion-cargo d’Amazon qui s’est écrasé à Miami",
-          "link": "https://www.journaldemontreal.com/2026/09/07/voici-ce-quon-sait-sur-lavion-cargo-damazon-qui-sest-ecrase-a-miami",
-          "source": "Journal de Montreal",
-          "summary": "Cinq personnes ont perdu la vie et cinq autres ont été blessées dimanche lorsqu’un avion-cargo exploité par Amazon s'est écrasé à l’aéroport de Miami.",
-          "published": "2026-09-07T18:48:56+00:00"
-        },
-        {
-          "title": "Harry et Meghan restent des «citoyens agissant à titre privé», confirme le roi",
-          "link": "https://www.journaldemontreal.com/2026/09/07/harry-et-meghan-restent-des--citoyens-agissant-a-titre-prive--confirme-le-roi",
-          "source": "Journal de Montreal",
-          "summary": "Le prince Harry et son épouse Meghan, qui viennent de se réinstaller au Royaume-Uni, restent considérés comme des « citoyens agissant à titre privé ».",
-          "published": "2026-09-07T18:27:22+00:00"
-        },
-        {
-          "title": "EN DIRECT | Facture scolaire, soins à domicile et salaire minimum: voici les promesses des partis en cette 12e journée de campagne",
-          "link": "https://www.journaldemontreal.com/2026/09/07/en-direct--12e-journee-de-campagne-electorale-voici-ou-seront-les-chefs-aujourdhui",
-          "source": "Journal de Montreal",
-          "summary": "La campagne électorale entre dans sa 12e journée ce lundi, avec les chefs de parti déployés aux quatre coins du Québec pour enchaîner les annonces.",
-          "published": "2026-09-07T18:25:02+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "«Des positions extrêmement socialisantes» : pour Knafo, le RN opère un «retour au marinisme le plus pur», au détriment de la ligne Bardella",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/des-positions-extremement-socialisantes-pour-knafo-le-rn-opere-un-retour-au-marinisme-le-plus-pur-au-detriment-de-la-ligne-bardella-20260907",
-          "source": "Le Figaro",
-          "summary": "Invitée lundi de BFMTV, l’eurodéputée nationaliste a fustigé le positionnement de Marine Le Pen, réfractaire à l’«union des droites» chère à Reconquête comme à l’étiquette de droite - à rebours de son dauphin, Jordan…",
-          "published": "2026-09-07T20:56:41+00:00"
+          "title": "«Croire et Guérir» : une expo en soins inventifs",
+          "link": "https://www.liberation.fr/culture/croire-et-guerir-une-expo-en-soins-inventifs-20260908_HBLAYYQLNZAJVK727FLSRGQLU4/",
+          "source": "Liberation",
+          "summary": "Le musée Paul-Eluard de Saint-Denis plonge dans l’histoire des pratiques de guérison, du Moyen Age à nos jours. Une immersion dans des imaginaires foisonnants où se croisent sciences, croyances et charlatans.",
+          "published": "2026-09-08T02:45:00+00:00"
         },
         {
-          "title": "Ligue 2 : enfin une victoire pour Nantes, vainqueur de Nancy",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-2-enfin-une-victoire-pour-nantes-vainqueur-de-nancy-20260907",
-          "source": "Le Figaro",
-          "summary": "Profitant d’une supériorité numérique, les Canaris ont lancé leur saison à la Beaujoire en battant l’ASNL, ce lundi.",
-          "published": "2026-09-07T20:53:13+00:00"
+          "title": "En Ukraine, le procureur général démissionne sur fond d'accusations de corruption",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-le-procureur-general-demissionne-sur-fond-d-accusations-de-corruption_8181800.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Il est accusé d'avoir appartenu à un réseau qui recevait de l'argent pour protéger des centres d'appels frauduleux organisant des escroqueries au téléphone.",
+          "published": "2026-09-07T22:13:36+00:00"
         },
         {
-          "title": "Pensées cachées, désalignement de l’IA... L’humanité n’est pas «préparée» face à un «esprit» que «nous ne comprenons» plus, affirme le scientifique en chef d’OpenAI",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/pensees-cachees-desalignement-de-l-ia-l-humanite-n-est-pas-preparee-face-a-un-esprit-que-nous-ne-comprenons-plus-affirme-le-scientifique-en-chef-d-openai-20260907",
+          "title": "Miami : la boîte noire de l'avion-cargo d'Amazon a été récupérée",
+          "link": "https://www.lefigaro.fr/flash-actu/miami-la-boite-noire-de-l-avion-cargo-d-amazon-a-ete-recuperee-20260907",
           "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Confrontée à des modèles de plus en plus puissants, l’IA est sur le point d’échapper au contrôle humain, alerte Jakub Pachocki, chef scientifique de la firme californienne.",
-          "published": "2026-09-07T20:46:00+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky évoque la possibilité d’une nouvelle session de négociations trilatérales",
-          "link": "https://www.lemonde.fr/international/live/2026/09/07/en-direct-guerre-en-ukraine-volodymyr-zelensky-evoque-la-possibilite-d-une-nouvelle-session-de-negociations-trilaterales_6766818_3210.html",
-          "source": "Le Monde",
-          "summary": "« Nous avons septembre et octobre pour trouver un moyen de parler », a déclaré le président ukrainien. « Je pense que le président Trump peut trouver un moyen de lancer réellement le processus de négociation avant le…",
-          "published": "2026-09-07T20:33:51+00:00"
+          "summary": "L’avion a fait une sortie de piste à l’aéroport dimanche, avant de prendre feu tuant 5 personnes.",
+          "published": "2026-09-07T22:00:48+00:00"
         },
         {
           "title": "La tour Eiffel fermée en raison d’une grève contre la mise à l’écart du personnel féminin pour la visite d’un groupe hindou",
           "link": "https://www.lefigaro.fr/culture/la-tour-eiffel-fermee-en-raison-d-une-greve-contre-la-mise-a-l-ecart-du-personnel-feminin-pour-la-visite-d-un-groupe-hindou-20260907",
           "source": "Le Figaro",
           "summary": "Une centaine de membres de l’organisation hindoue BAPS ont visité le monument samedi, sans présence féminine, à l’occasion des festivités précédant l’inauguration d’un temple en Seine-et-Marne. Emmanuel Grégoire a…",
-          "published": "2026-09-07T20:31:23+00:00"
+          "published": "2026-09-07T21:59:58+00:00"
         },
         {
-          "title": "\"Je m'inquiète beaucoup\" : les professeurs de Saxe-Anhalt sur le qui-vive face aux projets scolaires de l'extrême droite allemande",
-          "link": "https://www.franceinfo.fr/monde/europe/allemagne/je-m-inquiete-beaucoup-les-professeurs-de-saxe-anhalt-sur-le-qui-vive-face-aux-projets-scolaires-de-l-extreme-droite-allemande_8181695.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Moins de place pour la période nazie, davantage pour les grandes figures nationales, comme Bismarck… Le parti d'extrême droite allemand AfD, à deux doigts d'accéder au pouvoir en Saxe-Anhalt, veut revoir les programmes…",
-          "published": "2026-09-07T20:29:19+00:00"
-        },
-        {
-          "title": "\"Comment peut-on faire ça en étant allemand ?\" : l'Allemagne sous le choc après le score historique du parti d'extrême droite AfD",
-          "link": "https://www.franceinfo.fr/monde/europe/allemagne/comment-peut-on-faire-ca-en-etant-allemand-l-allemagne-sous-le-choc-apres-le-score-historique-du-parti-d-extreme-droite-afd_8181668.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "En Allemagne, les discussions ont commencé pour permettre à l'extrême droite de l'AfD de gouverner en Saxe-Anhalt. Il manque trois élus au parti pour obtenir la majorité. L'appui pourrait venir d'un petit parti de…",
-          "published": "2026-09-07T20:25:05+00:00"
-        },
-        {
-          "title": "En Colombie, le soldat de la Légion étrangère française pris en otage par une guérilla est « sain et sauf »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/07/en-colombie-le-soldat-de-la-legion-etrangere-francaise-pris-en-otage-par-une-guerilla-est-sain-et-sauf_6767995_3210.html",
-          "source": "Le Monde",
-          "summary": "Le soldat colombien de la Légion étrangère française, enlevé le 6 août par des guérilleros, a réussi à leur échapper, a annoncé lundi l’état-major des armées français.",
-          "published": "2026-09-07T20:19:05+00:00"
-        },
-        {
-          "title": "Madeleine de Jessey et Joachim Le Floch-Imad : « Est-il encore temps de sauver l’école ? »",
-          "link": "https://www.lefigaro.fr/vox/societe/madeleine-de-jessey-et-joachim-le-floch-imad-est-il-encore-temps-de-sauver-l-ecole-20260907",
+          "title": "Royaume-Uni : la cathédrale Saint-Paul critiquée après son partenariat avec une célèbre discothèque londonienne",
+          "link": "https://www.lefigaro.fr/international/royaume-uni-la-cathedrale-saint-paul-critiquee-apres-son-partenariat-avec-une-celebre-discotheque-londonienne-20260907",
           "source": "Le Figaro",
-          "summary": "GRAND ENTRETIEN - L’enseignante de lettres en classes préparatoires publie L’École des illettrés (Albin Michel), dans lequel elle décrit l’effondrement du niveau des élèves à la sortie du lycée. Elle débat du constat et…",
-          "published": "2026-09-07T20:10:59+00:00"
+          "summary": "Cet accord, ayant pour but d’organiser des événements musicaux au sein de la cathédrale, suscite l’indignation, notamment chez les descendants du vice-amiral Horatio Nelson, dont le corps repose sous le dôme central.",
+          "published": "2026-09-07T21:57:40+00:00"
         },
         {
-          "title": "Violences dans le périscolaire à Paris : Emmanuel Grégoire inaugure la nouvelle école de formation des animateurs",
-          "link": "https://www.liberation.fr/societe/education/violences-dans-le-periscolaire-a-paris-emmanuel-gregoire-inaugure-la-nouvelle-ecole-de-formation-des-animateurs-20260907_USLUBU6HOJG7BJE6XQYURQWWA4/",
-          "source": "Liberation",
-          "summary": "L’établissement formera les animateurs des écoles de la capitale, éclaboussées par le scandale des violences sexuelles qui a donné lieu à plusieurs plaintes de familles. Les syndicats restent dubitatifs.",
-          "published": "2026-09-07T19:56:29+00:00"
+          "title": "Les services de renseignement financier ont enregistré un nouveau record de déclarations de soupçon de soupçons de fraudes en 2025",
+          "link": "https://www.franceinfo.fr/economie/fraude/les-services-de-renseignement-financier-ont-enregistre-un-nouveau-record-de-declarations-de-soupcon-de-soupcons-de-fraudes-en-2025_8181791.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Tracfin a fait pour la première fois usage de son droit d'opposition pour saisir des fonds en crypto-actifs, qui ont fait l'objet de deux fois plus de signalements à la justice qu'en 2024.",
+          "published": "2026-09-07T21:43:35+00:00"
+        },
+        {
+          "title": "Pensées cachées, désalignement de l’IA... L’humanité n’est pas «préparée» face à un «esprit» que «nous ne comprenons» plus, affirme le scientifique en chef d’OpenAI",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/pensees-cachees-desalignement-de-l-ia-l-humanite-n-est-pas-preparee-face-a-un-esprit-que-nous-ne-comprenons-plus-affirme-le-scientifique-en-chef-d-openai-20260907",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE - Confrontée à des modèles de plus en plus puissants, l’IA est sur le point d’échapper au contrôle humain, alerte Jakub Pachocki, chef scientifique de la firme californienne.",
+          "published": "2026-09-07T21:41:02+00:00"
+        },
+        {
+          "title": "Tracfin enregistre un nouveau record de déclarations de soupçon en 2025",
+          "link": "https://www.lefigaro.fr/flash-actu/tracfin-enregistre-un-nouveau-record-de-declarations-de-soupcon-en-2025-20260907",
+          "source": "Le Figaro",
+          "summary": "Le secteur financier (banques, établissements de crédit, prestataires de services sur crypto-actifs, etc.), contraint à la transparence, contribue toujours à l’écrasante majorité des signalements (93%).",
+          "published": "2026-09-07T21:38:16+00:00"
+        },
+        {
+          "title": "La tour Eiffel est restée fermée lundi, après des consignes pour limiter la présence des femmes lors de la visite d'une délégation hindoue",
+          "link": "https://www.franceinfo.fr/societe/religion/la-tour-eiffel-est-restee-fermee-lundi-apres-des-consignes-pour-limiter-la-presence-des-femmes-lors-de-la-visite-d-une-delegation-hindoue_8181443.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Dans un courrier, les salariés affirment que des consignes ont été passées pour effacer la présence des femmes lors du passage de représentants de l'organisation BAPS.",
+          "published": "2026-09-07T21:29:43+00:00"
+        },
+        {
+          "title": "Intelligence artificielle, voitures, smartphones : pourquoi le monde dépend des puces de Taïwan",
+          "link": "https://www.franceinfo.fr/internet/intelligence-artificielle-voitures-smartphones-pourquoi-le-monde-depend-des-puces-de-taiwan_8181782.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Taïwan est au cœur de la production mondiale de semi-conducteurs. Dans un laboratoire ultra-stratégique, chercheurs et ingénieurs travaillent sur les puces de demain, utilisées notamment dans l’intelligence…",
+          "published": "2026-09-07T21:21:26+00:00"
         }
       ]
     },
