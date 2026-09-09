@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-09-08T23:11:59.681089+00:00",
+  "generated_at": "2026-09-09T03:12:47.278864+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "« South Park » rebaptisé « South America » : la série satirique se moque des changements de noms voulus par Donald Trump",
+          "title": "Aux Etats-Unis, Donald Trump se place au cœur de la campagne républicaine avant les midterms",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/aux-etats-unis-donald-trump-se-place-au-c-ur-de-la-campagne-republicaine-avant-les-midterms_6768787_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président américain interviendra mercredi au premier jour de la convention républicaine, qui se tiendra à Dallas, au Texas, les 9 et 10 septembre, avant des élections de mi-mandat qui s’annoncent indécises.",
+          "published": "2026-09-09T03:00:12+00:00"
+        },
+        {
+          "title": "Bolivie : les cultures de coca en hausse de 7 % en 2025",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/bolivie-les-cultures-de-coca-en-hausse-de-7-en-2025_6768721_3210.html",
+          "source": "Le Monde",
+          "summary": "Le pays sud-américain, où des groupes criminels se disputent le contrôle de couloirs servant au trafic de cocaïne, a vu la superficie de ces plantations atteindre « 36 400 hectares » dans des zones que l’Etat peine a…",
+          "published": "2026-09-09T02:10:13+00:00"
+        },
+        {
+          "title": "Premier sommet spatial international à Paris, l'Europe cherche à trouver sa place",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260909-avec-son-premier-sommet-international-%C3%A0-paris-l-europe-cherche-sa-place-dans-la-course-spatiale",
+          "source": "France 24",
+          "summary": "Emmanuel Macron réunit mercredi et jeudi à Paris le premier sommet spatial international, un rendez-vous boudé par SpaceX et Blue Origin. La question du multilatéralisme sera au coeur des discussions, alors que l'Europe…",
+          "published": "2026-09-09T01:37:15+00:00"
+        },
+        {
+          "title": "Le conflit entre les États-Unis et le Canada s'envenime : Trump interdit des produits canadiens",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260909-le-conflit-entre-les-%C3%A9tats-unis-et-le-canada-s-envenime-trump-interdit-des-produits-canadiens",
+          "source": "France 24",
+          "summary": "Au travers de décrets présidentiels, la Maison Blanche a interdit, mardi, l'importation de certains produits canadiens, notamment des alcools, dès le 29 septembre et relevé les droits de douane sur d'autres marchandises…",
+          "published": "2026-09-09T01:03:11+00:00"
+        },
+        {
+          "title": "La Jordanie ciblée par Téhéran après des frappes américaines contre des pétroliers iraniens dans la région du Golfe",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/teheran-cible-la-jordanie-apres-des-frappes-americaines-contre-des-petroliers-iraniens-dans-la-region-du-golfe_6768518_3211.html",
+          "source": "Le Monde",
+          "summary": "« Toute attaque contre des pétroliers iraniens entraînera des frappes des forces armées de la République islamique d’Iran contre les bases américaines dans la région », a prévenu le chef d’état-major des forces armées…",
+          "published": "2026-09-09T00:10:35+00:00"
+        },
+        {
+          "title": "Départ de Lonnie Bunch, le chef de la Smithsonian Institution dans le viseur de Donald Trump",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260908-depart-retraite-lonnie-bunch-chef-smithsonian-institution-viseur-donald-trump-wokisme-musee-etats-unis-maison-blanche",
+          "source": "France 24",
+          "summary": "Premier Afro-Américain à diriger la Smithsonian Institution, Lonnie Bunch, a annoncé mardi son départ à la retraite. Il survient alors que l'administration Trump a multiplié les attaques à l'encontre du vaste complexe…",
+          "published": "2026-09-08T23:40:30+00:00"
+        },
+        {
+          "title": "En tournée en Amérique latine, Marco Rubio promet une « coopération sans précédent » avec la Colombie",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/en-tournee-en-amerique-latine-marco-rubio-promet-une-cooperation-sans-precedent-avec-la-colombie_6768687_3210.html",
+          "source": "Le Monde",
+          "summary": "Le déplacement du chef de la diplomatie américaine doit se poursuivre en Equateur puis au Pérou, deux pays dirigés par des gouvernements de droite avec lesquels Washington cherche à approfondir ses liens politiques,…",
+          "published": "2026-09-08T23:29:57+00:00"
+        },
+        {
+          "title": "Conflit commercial avec les Etats-Unis : le Canada riposte aux surtaxes américaines",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/conflit-commercial-avec-les-etats-unis-le-canada-riposte-aux-surtaxes-americaines_6768686_3210.html",
+          "source": "Le Monde",
+          "summary": "Ces droits de douane de 15 %, 25 % ou 50 % touchent environ 20 milliards de dollars de produits américains, de l’acier aux produits laitiers en passant par l’électronique ou la pâte à papier. Soutenu par l’opinion…",
+          "published": "2026-09-08T23:28:11+00:00"
+        },
+        {
+          "title": "« South Park » rebaptisé « South America » : la série satirique raille les changements de noms voulus par Donald Trump",
           "link": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
           "source": "Le Monde",
-          "summary": "Habituée à égratigner le président, la série se moque cette fois aussi d’Apple et de Google, qui ont adopté sur leurs cartes destinées aux utilisateurs américains les nouvelles dénominations décidées par Donald Trump…",
-          "published": "2026-09-08T22:48:10+00:00"
+          "summary": "Les créateurs de la série se moquent aussi des géants Apple et Google, qui ont adopté, sur leurs cartes américaines, les nouvelles appellations attribuées par le président à plusieurs lieux, comme le lac Ontario.",
+          "published": "2026-09-08T22:48:04+00:00"
         },
         {
-          "title": "En direct : Washington a détruit cinq pétroliers iraniens, les Gardiens menacent le Koweït et Bahreïn",
+          "title": "En direct : Téhéran frappe une base américaine en Jordanie après des attaques sur des pétroliers iraniens",
           "link": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-etats-unis-detruit-cinq-petroliers-navires-iraniens-gardiens-revolution-menacent-koweit-bahrein-pays-golfe-detroit-ormuz",
           "source": "France 24",
-          "summary": "L'armée américaine a annoncé avoir détruit cinq navires pétroliers dans la région du Golfe en représailles des attaques des Gardiens de la Révolution iraniens contre un navire de l'armée américaine ces deux derniers…",
+          "summary": "Les Gardiens de la Révolution ont dit mercredi avoir attaqué une base militaire des États-Unis en Jordanie, en représailles à des frappes américaines qui ont détruit cinq navires pétroliers dans la région du Golfe. Un…",
           "published": "2026-09-08T22:41:29+00:00"
-        },
-        {
-          "title": "Etats-Unis : le secrétaire de la Smithsonian Institution, Lonnie Bunch, quitte son poste sur fond de pressions politiques",
-          "link": "https://www.lemonde.fr/international/article/2026/09/09/etats-unis-le-secretaire-de-la-smithsonian-institution-lonnie-bunch-quitte-son-poste-sur-fond-de-pressions-politiques_6768620_3210.html",
-          "source": "Le Monde",
-          "summary": "Le premier chef afro-américain de la prestigieuse institution a annoncé son « départ à la retraite » alors qu’il faisait face à de nombreuses pressions de la part de l’administration Trump, accusant la Smithsonian de…",
-          "published": "2026-09-08T22:25:28+00:00"
-        },
-        {
-          "title": "Affaire des assistants du MoDem : Bayrou de retour devant la justice",
-          "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260908-affaire-des-assistants-du-modem-bayrou-de-retour-devant-la-justice",
-          "source": "France 24",
-          "summary": "Tout part de soupçons sur l'utilisation d'assistants parlementaires européens au profit du MoDem, révélés par Corinne Lepage. En 2024, le procès en première instance aboutit à plusieurs condamnations mais François…",
-          "published": "2026-09-08T22:17:19+00:00"
-        },
-        {
-          "title": "Ligue des champions : Lille s'incline face au Betis Séville (3-2)",
-          "link": "https://www.france24.com/fr/sports/20260908-ligue-des-champions-lille-incline-face-au-betis-seville-football-davide-ancelotti",
-          "source": "France 24",
-          "summary": "Lille a raté ses retrouvailles avec la Ligue des champions, menant deux fois avant de s'incliner et de finir à dix face au Betis Séville (3-2), mardi. En mal de points, les joueurs de Davide Ancelotti auront fort à…",
-          "published": "2026-09-08T21:28:00+00:00"
-        },
-        {
-          "title": "Onze pays européens et le Canada imposent à Israël des sanctions contre les produits issus des colonies en Cisjordanie",
-          "link": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
-          "source": "Le Monde",
-          "summary": "Dans le sillage du Royaume-Uni, la France, le Danemark, l’Espagne, la Finlande, l’Irlande, l’Islande, la Norvège, la Pologne, le Portugal et la Suède ainsi qu’Ottawa ont opté pour une logique de sanctions contre…",
-          "published": "2026-09-08T21:14:52+00:00"
-        },
-        {
-          "title": "Devant l'Assemblée, le Premier ministre sénégalais présente son plan pour redresser l'économie",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260908-devant-l-assembl%C3%A9e-le-premier-ministre-s%C3%A9n%C3%A9galais-pr%C3%A9sente-son-plan-pour-redresser-l-%C3%A9conomie",
-          "source": "France 24",
-          "summary": "C'était ce mardi le grand oral du Premier ministre sénégalais Ahmadou Al Aminou Lo, qui a fait sa déclaration de politiques générales devant l'Assemblée nationale, acquise en majorité au Pastef d'Ousmane Sonko. Al…",
-          "published": "2026-09-08T20:57:11+00:00"
-        },
-        {
-          "title": "Aux Etats-Unis, la justice interdit le partage massif de données sensibles du fisc aux services de l’immigration",
-          "link": "https://www.lemonde.fr/international/article/2026/09/08/aux-etats-unis-la-justice-interdit-le-partage-massif-de-donnees-sensibles-du-fisc-aux-services-de-l-immigration_6768519_3210.html",
-          "source": "Le Monde",
-          "summary": "Le fisc américain permet à des millions d’immigrés clandestins de payer leurs impôts, ce qui est perçu par les intéressés comme un moyen d’appuyer leurs demandes de régularisation et alimente le budget fédéral.",
-          "published": "2026-09-08T20:52:24+00:00"
-        },
-        {
-          "title": "Jean-Michel Blanquer : \"Il ne faut pas être fataliste\" face au classement Pisa de la France",
-          "link": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20260908-jean-michel-blanquer-classement-pisa-r%C3%A9sultats-france",
-          "source": "France 24",
-          "summary": "Menée dans 91 pays dont 38 de l’OCDE, la dernière enquête Pisa montre un abaissement général du niveau des élèves, notamment en France. Pour l'ancien ministre de l’Éducation nationale Jean-Michel Blanquer, les écrans et…",
-          "published": "2026-09-08T20:29:27+00:00"
-        },
-        {
-          "title": "Détroit d’Ormuz : l’Iran affirme avoir saisi un drone sous-marin américain, tandis que Washington parle d’un engin « défectueux »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html",
-          "source": "Le Monde",
-          "summary": "L’armée américaine a par ailleurs mené une attaque de missile contre un pétrolier iranien près de l’île iranienne de Kharg, dans le Golfe, a rapporté mardi soir l’agence iranienne Tasnim.",
-          "published": "2026-09-08T20:22:26+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Guerre commerciale | Avantage Carney",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-09-08/guerre-commerciale/avantage-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "C’est une phrase qu’on peut lire souvent dans la presse américaine ces jours-ci : « Celui qui gagne la guerre n’est pas nécessairement le plus fort, c’est celui qui est capable d’endurer la douleur le plus longtemps. »",
-          "published": "2026-09-08T23:00:00+00:00"
-        },
-        {
-          "title": "Un voyage au Mexique pour obtenir son permis de travail",
-          "link": "https://www.lapresse.ca/actualites/2026-09-08/un-voyage-au-mexique-pour-obtenir-son-permis-de-travail.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Il aura fallu un voyage au Mexique et deux heures et demie avec un agent à l’aéroport Jean-Lesage de Québec pour dénouer une situation qui durait depuis près de trois mois. Laurent Favand, ce travailleur étranger qui…",
-          "published": "2026-09-08T22:40:48+00:00"
-        },
-        {
-          "title": "Les rebelles yéménites mènent une attaque d’ampleur en Arabie saoudite",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1007408/rebelles-yemenites-menent-attaque-ampleur-arabie-saoudite",
+          "title": "OpenAI dit avoir résolu un problème de maths majeur en moins de quatre jours",
+          "link": "https://www.ledevoir.com/economie/techno/1007465/openai-dit-avoir-resolu-probleme-maths-majeur-moins-quatre-jours",
           "source": "Le Devoir",
-          "summary": "L’attaque menée par les Houthis, à l’aide de dizaines de drones et de missiles, a blessé 73 civils.",
-          "published": "2026-09-08T22:06:46+00:00"
+          "summary": "L’équation dite de Navier-Stokes porte sur le mouvement des fluides et sur la capacité à l’anticiper dans la durée.",
+          "published": "2026-09-09T02:26:53+00:00"
         },
         {
-          "title": "Kilogramme de cocaïne et pistolet chargé | Un courrier condamné à trois ans et demi d’emprisonnement",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/kilogramme-de-cocaine-et-pistolet-charge/un-courrier-condamne-a-trois-ans-et-demi-d-emprisonnement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le secrétaire aux Transports américain critique Ford pour ses liens avec la Chine",
+          "link": "https://www.ledevoir.com/economie/techno/1007462/secretaire-transports-americain-critique-ford-liens-chine",
+          "source": "Le Devoir",
+          "summary": "Le gouvernement est «alarmé» par l’utilisation de batteries CATL par le constructeur automobile.",
+          "published": "2026-09-09T01:53:00+00:00"
+        },
+        {
+          "title": "La Chine révèle avoir mené des pourparlers militaires avec des responsables canadiens",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-09-08/la-chine-revele-avoir-mene-des-pourparlers-militaires-avec-des-responsables-canadiens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Un individu arrêté immédiatement après une présumée transaction de cocaïne survenue dans un parc de Sainte-Thérèse en juin 2025 a été condamné vendredi à trois ans et demi d’emprisonnement après avoir plaidé coupable à…",
-          "published": "2026-09-08T21:31:54+00:00"
+          "summary": "Alors que le gouvernement Carney cherche à approfondir ses relations avec Pékin, le gouvernement chinois affirme avoir tenu un échange franc sur les questions militaires avec des responsables canadiens au début du mois.",
+          "published": "2026-09-09T01:41:16+00:00"
         },
         {
-          "title": "Les produits canadiens seront retirés des marchés publics américains à la demande de Trump",
-          "link": "https://www.ledevoir.com/economie/1007393/trump-replique-retirant-produits-canadiens-marches-publics",
-          "source": "Le Devoir",
-          "summary": "Il s’agit d’une première réponse américaine aux contre-tarifs canadiens entrés en vigueur mardi un peu après minuit.",
-          "published": "2026-09-08T21:24:00+00:00"
-        },
-        {
-          "title": "Mort d’un poupon après une frénotomie | L’intervenante en allaitement poursuivie pour pratique illégale de la médecine dentaire",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/mort-d-un-poupon-apres-une-frenotomie/l-intervenante-en-allaitement-poursuivie-pour-pratique-illegale-de-la-medecine-dentaire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "En moins de quatre jours | OpenAI dit avoir résolu un problème de maths datant de plus d’un siècle",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-09-08/en-moins-de-quatre-jours/openai-dit-avoir-resolu-un-probleme-de-maths-datant-de-plus-d-un-siecle.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une intervenante en allaitement qui a conseillé à des parents de procéder à une frénotomie, soit l’ablation du frein de la langue, sur leur poupon en 2023 fait face à une poursuite pénale pour avoir exercé illégalement…",
-          "published": "2026-09-08T21:14:27+00:00"
+          "summary": "OpenAI a annoncé mardi qu’un de ses modèles d’intelligence artificielle (IA) avait résolu un problème mathématique vieux de plus d’un siècle en moins de quatre jours, tandis qu’un duo de chercheurs a évoqué un possible…",
+          "published": "2026-09-09T01:06:47+00:00"
         },
         {
-          "title": "«Sur le fil»: l’itinérance, au-delà des campements et des sollicitations",
-          "link": "https://www.ledevoir.com/culture/ecrans/1007384/fil-itinerance-dela-campements-sollicitations",
+          "title": "Cuba ne sera «jamais» une colonie, dit son président après un message de Trump",
+          "link": "https://www.ledevoir.com/monde/ameriques/1007459/cuba-ne-sera-jamais-colonie-dit-president-apres-message-trump",
           "source": "Le Devoir",
-          "summary": "Un centre d’hébergement pour personnes en situation d’itinérance est au cœur de la nouvelle série de Radio-Canada.",
-          "published": "2026-09-08T21:08:00+00:00"
+          "summary": "Washington ne cache pas sa volonté de voir un changement de régime chez son voisin et ennemi idéologique.",
+          "published": "2026-09-09T00:30:53+00:00"
         },
         {
-          "title": "Procès pour entrave lié à un meurtre | Une ex-avocate se dépeint comme une victime de violence conjugale",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/proces-pour-entrave-lie-a-un-meurtre/une-ex-avocate-se-depeint-comme-une-victime-de-violence-conjugale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Après des attaques sur des pétroliers iraniens | L’Iran frappe une base militaire américaine en Jordanie",
+          "link": "https://www.lapresse.ca/international/moyen-orient/2026-09-08/apres-des-attaques-sur-des-petroliers-iraniens/l-iran-frappe-une-base-militaire-americaine-en-jordanie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Une ex-avocate de la défense accusée d’avoir entravé le travail de la police à la suite d’un meurtre commis par son conjoint s’est décrite mardi comme une victime de violence conjugale. Dans un témoignage très émotif,…",
-          "published": "2026-09-08T20:47:19+00:00"
+          "summary": "Les Gardiens de la Révolution, armée idéologique de l’Iran, ont dit mercredi avoir attaqué une base militaire des États-Unis en Jordanie, en réponse à des frappes américaines contre des pétroliers iraniens.",
+          "published": "2026-09-09T00:26:19+00:00"
         },
         {
-          "title": "Pourrait-on en arriver à un dirigeant « à la Trump » au Québec ?",
-          "link": "https://www.ledevoir.com/actualites/societe/1007369/pourrait-on-arriver-avoir-dirigeant-trump-quebec",
+          "title": "«Ça brasse en ville»: Valérie Plante présente l’envers de la carte postale de six métropoles",
+          "link": "https://www.ledevoir.com/culture/ecrans/1007441/valerie-plante-presente-envers-carte-postale-six-grandes-villes",
           "source": "Le Devoir",
-          "summary": "Les avocats réfléchissent aux menaces à l’état de droit dans le cadre d’un sommet organisé par le Barreau.",
-          "published": "2026-09-08T20:24:00+00:00"
+          "summary": "L’ex-mairesse de Montréal anime cette série documentaire qui sera diffusée sur TV5.",
+          "published": "2026-09-08T23:47:00+00:00"
         },
         {
-          "title": "Pourquoi Donald Trump s’acharne-t-il sur Bombardier?",
-          "link": "https://www.ledevoir.com/economie/1007345/pourquoi-donald-trump-acharne-il-bombardier",
-          "source": "Le Devoir",
-          "summary": "Le président veut interdire la vente de ces avions aux États-Unis. Que cela signifie-t-il pour le fleuron québécois?",
-          "published": "2026-09-08T19:50:00+00:00"
+          "title": "Meubles et électroménagers | Des consommateurs devancent leurs achats",
+          "link": "https://www.lapresse.ca/affaires/economie/2026-09-08/meubles-et-electromenagers/des-consommateurs-devancent-leurs-achats.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Au cours de la dernière fin de semaine, nombreux étaient les consommateurs qui avaient décidé de devancer l’achat d’un fauteuil ou d’une cuisinière par crainte de voir les prix grimper avec l’entrée en vigueur mardi des…",
+          "published": "2026-09-08T23:45:00+00:00"
+        },
+        {
+          "title": "Remco Evenepoel | Le retour d’un prodige devenu un géant du peloton",
+          "link": "https://www.lapresse.ca/sports/cyclisme/2026-09-08/remco-evenepoel/le-retour-d-un-prodige-devenu-un-geant-du-peloton.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Remco Evenepoel n’a jamais eu froid aux yeux ni craint de s’exprimer.",
+          "published": "2026-09-08T23:43:49+00:00"
+        },
+        {
+          "title": "La Maison-Blanche retire de son site un jeu vidéo inspirée de la politique migratoire de Trump",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-08/la-maison-blanche-retire-de-son-site-un-jeu-video-inspiree-de-la-politique-migratoire-de-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La Maison-Blanche a retiré mardi de son site un jeu polémique, aux graphismes très proches du célèbre jeu vidéo Tetris et à la thématique inspirée de la politique migratoire de Donald Trump.",
+          "published": "2026-09-08T23:10:37+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Guerre en Iran : Washington annonce avoir détruit cinq pétroliers iraniens après des attaques sur un bâtiment américain",
+          "title": "«Hair, paper, water», les maux croisés",
+          "link": "https://www.liberation.fr/culture/hair-paper-water-les-maux-croises-20260909_2AUCCN6ITBEXBLCXKYENAJHLK4/",
+          "source": "Liberation",
+          "summary": "Portrait sensible d’une femme habitant dans les montagnes du Vietnam, Madame Hau, le documentaire dépeint la transmission de sa langue, le Ruc, à ses petits-fils.",
+          "published": "2026-09-09T03:00:00+00:00"
+        },
+        {
+          "title": "Avant d’accueillir Céline Dion, la Défense Arena mise en difficulté par une panne survenue lors du concert d’Iron Maiden",
+          "link": "https://www.liberation.fr/economie/avant-daccueillir-celine-dion-la-defense-arena-mise-en-difficulte-par-une-panne-survenue-lors-du-concert-diron-maiden-20260909_BIKDLB3DVFHPXFLV4ORK6HBASM/",
+          "source": "Liberation",
+          "summary": "La salle fait face à des remous après une coupure de courant survenue lors du concert du groupe de metal le 22 juin. Le producteur du spectacle et l’exploitant des lieux sont au bord de l’affrontement judiciaire.",
+          "published": "2026-09-09T03:00:00+00:00"
+        },
+        {
+          "title": "«Ils jouent avec nos vies» : un chercheur d’Anthropic démissionne, inquiet d’une IA «hors de contrôle»",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/ils-jouent-avec-nos-vies-un-chercheur-d-anthropic-demissionne-inquiet-d-une-ia-hors-de-controle-20260909",
+          "source": "Le Figaro",
+          "summary": "Jacob Coxon, 27 ans, a annoncé mardi sur X son départ d’Anthropic et de l’industrie de l’intelligence artificielle. Il estime qu’aucune entreprise ne peut plus développer ces systèmes de façon responsable sans…",
+          "published": "2026-09-09T02:45:23+00:00"
+        },
+        {
+          "title": "Royaume-Uni : des dizaines de vols toujours annulés à cause d’une panne du contrôle aérien",
+          "link": "https://www.lefigaro.fr/societes/royaume-uni-des-dizaines-de-vols-toujours-annules-a-cause-d-une-panne-du-controle-aerien-20260909",
+          "source": "Le Figaro",
+          "summary": "Un total de 177 vols prévus au départ et à destination des aéroports britanniques mercredi ont été annulés, selon Flightradar24.",
+          "published": "2026-09-09T02:24:39+00:00"
+        },
+        {
+          "title": "«La Vie d’une femme» : Léa Drucker au pas de surcharge",
+          "link": "https://www.liberation.fr/culture/la-vie-dune-femme-lea-drucker-au-pas-de-surcharge-20260909_Q3DZ6CTUL5HCVB737WJPVXQTF4/",
+          "source": "Liberation",
+          "summary": "Porté par une énergie aussi grisante qu’épuisante, le deuxième long métrage de Charline Bourgeois-Tacquet réussit le portrait d’une quinqua docteur-mère-aidante surmenée.",
+          "published": "2026-09-09T02:00:00+00:00"
+        },
+        {
+          "title": "La Jordanie ciblée par Téhéran après des frappes américaines contre des pétroliers iraniens dans la région du Golfe",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/teheran-cible-la-jordanie-apres-des-frappes-americaines-contre-des-petroliers-iraniens-dans-la-region-du-golfe_6768518_3211.html",
+          "source": "Le Monde",
+          "summary": "« Toute attaque contre des pétroliers iraniens entraînera des frappes des forces armées de la République islamique d’Iran contre les bases américaines dans la région », a prévenu le chef d’état-major des forces armées…",
+          "published": "2026-09-09T00:10:35+00:00"
+        },
+        {
+          "title": "Après une carte montrant Cuba sous drapeau américain, le président Diaz-Canel défend l’indépendance de l’île",
+          "link": "https://www.lefigaro.fr/international/apres-une-carte-montrant-cuba-sous-drapeau-americain-le-president-diaz-canel-defend-l-independance-de-l-ile-20260909",
+          "source": "Le Figaro",
+          "summary": "Le président cubain a assuré mardi que son pays ne redeviendrait «jamais» une colonie, au lendemain de la publication par Donald Trump d’une carte des États-Unis englobant Cuba, le Mexique, le Canada ou encore les…",
+          "published": "2026-09-09T00:07:02+00:00"
+        },
+        {
+          "title": "«Make Germany Great Again» : Trump salue la «très bonne soirée» de l’extrême droite après la victoire de l’AfD en Allemagne",
+          "link": "https://www.lefigaro.fr/international/make-germany-great-again-trump-salue-la-tres-bonne-soiree-de-l-extreme-droite-apres-la-victoire-de-l-afd-en-allemagne-20260909",
+          "source": "Le Figaro",
+          "summary": "Le président américain s’est félicité du succès de l’AfD lors d’élections régionales en Allemagne, estimant que les électeurs avaient «enfin assez» de la politique migratoire du pays.",
+          "published": "2026-09-09T00:03:56+00:00"
+        },
+        {
+          "title": "Guerre en Iran : Washington dit avoir détruit cinq pétroliers iraniens, Téhéran attaque une base militaire américaine en Jordanie",
           "link": "https://www.lefigaro.fr/international/guerre-en-iran-washington-annonce-avoir-detruit-cinq-petroliers-iraniens-apres-des-attaques-sur-un-batiment-americain-20260909",
           "source": "Le Figaro",
           "summary": "L’armée américaine a annoncé mardi avoir détruit cinq navires pétroliers dans la région du Golfe en représailles des attaques des Gardiens de la Révolution iraniens contre un navire de l’armée américaine ces deux…",
-          "published": "2026-09-08T23:03:05+00:00"
+          "published": "2026-09-09T00:00:16+00:00"
         },
         {
-          "title": "«Pourquoi ce qui est bon à Mayotte ne le serait pas pour l’Hexagone ?» : Bruno Retailleau plaide pour la fin du droit du sol",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/pourquoi-ce-qui-est-bon-a-mayotte-ne-le-serait-pas-pour-l-hexagone-bruno-retailleau-plaide-pour-la-fin-du-droit-du-sol-20260908",
-          "source": "Le Figaro",
-          "summary": "En cas de victoire à la présidentielle, le candidat LR a «pris l’engagement» mardi sur CNews que «les Français définiront enfin la politique migratoire».",
-          "published": "2026-09-08T22:52:09+00:00"
-        },
-        {
-          "title": "« South Park » rebaptisé « South America » : la série satirique se moque des changements de noms voulus par Donald Trump",
-          "link": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
+          "title": "Etats-Unis : le Canada riposte aux surtaxes américaines, Washington surenchérit",
+          "link": "https://www.lemonde.fr/international/article/2026/09/09/conflit-commercial-avec-les-etats-unis-le-canada-riposte-aux-surtaxes-americaines_6768686_3210.html",
           "source": "Le Monde",
-          "summary": "Habituée à égratigner le président, la série se moque cette fois aussi d’Apple et de Google, qui ont adopté sur leurs cartes destinées aux utilisateurs américains les nouvelles dénominations décidées par Donald Trump…",
-          "published": "2026-09-08T22:48:10+00:00"
-        },
-        {
-          "title": "Etats-Unis : le secrétaire de la Smithsonian Institution, Lonnie Bunch, quitte son poste sur fond de pressions politiques",
-          "link": "https://www.lemonde.fr/international/article/2026/09/09/etats-unis-le-secretaire-de-la-smithsonian-institution-lonnie-bunch-quitte-son-poste-sur-fond-de-pressions-politiques_6768620_3210.html",
-          "source": "Le Monde",
-          "summary": "Le premier chef afro-américain de la prestigieuse institution a annoncé son « départ à la retraite » alors qu’il faisait face à de nombreuses pressions de la part de l’administration Trump, accusant la Smithsonian de…",
-          "published": "2026-09-08T22:25:28+00:00"
-        },
-        {
-          "title": "«Construisez le mur» : la Maison-Blanche retire de son site un jeu vidéo polémique inspiré de Tetris",
-          "link": "https://www.lefigaro.fr/international/construisez-le-mur-la-maison-blanche-retire-de-son-site-un-jeu-video-polemique-inspire-de-tetris-20260909",
-          "source": "Le Figaro",
-          "summary": "Proposé depuis jeudi sur le site de la Maison-Blanche, «Build the Wall» invitait les joueurs à bâtir un mur à la frontière pour se protéger des «zombies».",
-          "published": "2026-09-08T22:19:59+00:00"
-        },
-        {
-          "title": "Pour 56% des citoyens, l’Union européenne est «en danger», selon une étude de l’ECFR",
-          "link": "https://www.lefigaro.fr/international/pour-56-des-citoyens-l-union-europeenne-est-en-danger-selon-une-etude-de-l-ecfr-20260909",
-          "source": "Le Figaro",
-          "summary": "EXCLUSIF - L’enquête menée dans six pays met en lumière une crise de confiance envers l’UE et un sentiment de déclin chez une majorité de citoyens.",
-          "published": "2026-09-08T22:15:00+00:00"
-        },
-        {
-          "title": "Le géant de l'intelligence artificielle OpenAI dit avoir résolu l'équation de Navier-Stokes, un problème de maths crucial, en seulement quelques jours",
-          "link": "https://www.franceinfo.fr/internet/le-geant-de-l-intelligence-artificielle-openai-dit-avoir-resolu-l-equation-de-navier-stokes-un-probleme-de-maths-crucial-en-seulement-quelques-jours_8183789.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"C'est une étape significative de la recherche IA\", a déclaré le responsable de la recherche chez OpenAI, lors d'un point de presse.",
-          "published": "2026-09-08T22:09:42+00:00"
-        },
-        {
-          "title": "Donald Trump menace de restreindre l'accès des Canadiens aux commandes publiques américaines",
-          "link": "https://www.lefigaro.fr/conjoncture/donald-trump-menace-de-restreindre-l-acces-des-canadiens-aux-commandes-publiques-americaines-20260909",
-          "source": "Le Figaro",
-          "summary": "États-Unis et Canada sont engagés dans un conflit commercial à coups de nouveaux droits de douane sur certains produits.",
-          "published": "2026-09-08T22:07:46+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : Bruno Retailleau dit qu’il n’ira pas à la réunion proposée par Édouard Philippe à la droite et au centre",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-accuse-jean-luc-melenchon-d-etre-un-sous-traitant-de-l-ideologie-islamiste-20260908",
-          "source": "Le Figaro",
-          "summary": "Édouard Philippe avait annoncé plus tôt vouloir réunir dans un «comité» tous les partis «de la droite et du centre» à la Toussaint pour explorer les «convergences programmatiques».",
-          "published": "2026-09-08T21:56:42+00:00"
-        },
-        {
-          "title": "La série \"South Park\" se rebaptise \"South America\" pour se moquer de Donald Trump",
-          "link": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Cette initiative de la série satirique tourne en dérision les velléités du président américain de rebaptiser des lieux à travers le monde par des décisions unilatérales.",
-          "published": "2026-09-08T21:53:00+00:00"
+          "summary": "Ces droits de douane de 15 %, 25 % ou 50 % touchent environ 20 milliards de dollars de produits américains, de l’acier aux produits laitiers en passant par l’électronique ou la pâte à papier. Soutenu par l’opinion…",
+          "published": "2026-09-08T23:28:11+00:00"
         }
       ]
     },
