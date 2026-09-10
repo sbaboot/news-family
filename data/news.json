@@ -1,15 +1,71 @@
 {
-  "generated_at": "2026-09-09T22:56:15.388184+00:00",
+  "generated_at": "2026-09-10T03:13:05.271983+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Les événements climatiques extrêmes ont perturbé la scolarité de 171 millions d'élèves dans le monde en 2025",
+          "link": "https://www.rfi.fr/fr/monde/20260910-les-%C3%A9v%C3%A9nements-climatiques-extr%C3%AAmes-ont-perturb%C3%A9-la-scolarit%C3%A9-de-171-millions-d-%C3%A9l%C3%A8ves-dans-le-monde-en-2025",
+          "source": "RFI",
+          "summary": "Plus de 171 millions d’élèves à travers le monde ont vu leur scolarité perturbée par les aléas climatiques en 2025, estime un rapport de l’Unicef publié ce jeudi 10 septembre 2026. Les analyses de données de 106 pays…",
+          "published": "2026-09-10T03:05:23+00:00"
+        },
+        {
+          "title": "En Corée du Sud, le scandale des affaires de disparitions classées sans la moindre enquête de police",
+          "link": "https://www.lemonde.fr/international/article/2026/09/10/en-coree-du-sud-le-scandale-des-affaires-de-disparitions-classees-sans-la-moindre-enquete-de-police_6769262_3210.html",
+          "source": "Le Monde",
+          "summary": "Un agent de l’île de Jeju a été arrêté pour avoir négligé plusieurs cas de disparitions de personnes, dont deux ont été retrouvées mortes, en raison de la charge de travail que leur traitement supposait. Une réforme en…",
+          "published": "2026-09-10T03:00:08+00:00"
+        },
+        {
+          "title": "Ukraine : la crise politique malgré la guerre",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/09/10/ukraine-la-crise-politique-malgre-la-guerre_6769261_5463015.html",
+          "source": "Le Monde",
+          "summary": "Alors que les frappes russes se multiplient sur le territoire ukrainien, le gouvernement traverse depuis cet été une crise ponctuée de conflits internes et de scandales. Dans ce podcast, Thomas d’Istria, correspondant…",
+          "published": "2026-09-10T03:00:05+00:00"
+        },
+        {
+          "title": "Aux Philippines, au moins cinq morts et des dizaines de disparus dans l’incendie d’un ferry",
+          "link": "https://www.lemonde.fr/international/article/2026/09/10/aux-philippines-au-moins-cinq-morts-et-des-dizaines-de-disparus-dans-l-incendie-d-un-ferry_6769162_3210.html",
+          "source": "Le Monde",
+          "summary": "Un feu s’est déclaré, mercredi soir, dans le MV « June Aster » à environ 2,2 kilomètres du rivage, près d’un site touristique de la province de Palawan. Quarante-deux personnes ont pu être secourues jusqu’à présent,…",
+          "published": "2026-09-10T01:23:15+00:00"
+        },
+        {
+          "title": "Aux Philippines, l'incendie d'un ferry fait plusieurs morts et des dizaines de disparus",
+          "link": "https://www.france24.com/fr/asie-pacifique/20260910-philippines-incendie-ferry-morts-dizaines-disparus-palawan-mv-june-aster",
+          "source": "France 24",
+          "summary": "Un ferry parti de Manille a pris feu près d'un site touristique de la province de Palawan, dans l'ouest des Philippines, dans la nuit de mercredi à jeudi. Cinq corps sans vie ont été ramenés à terre tandis que 87…",
+          "published": "2026-09-10T00:48:37+00:00"
+        },
+        {
+          "title": "Au sommet sur l'espace à Paris, la gouvernance mondiale spatiale au cœur des échanges",
+          "link": "https://www.rfi.fr/fr/monde/20260910-au-sommet-sur-l-espace-%C3%A0-paris-la-gouvernance-mondiale-spatiale-au-c%C5%93ur-des-%C3%A9changes",
+          "source": "RFI",
+          "summary": "Le sommet international sur le spatial se poursuit à Paris ce jeudi 10 septembre 2026. Après l'annonce de 5 milliards d’euros d’investissements mercredi, parmi lesquels un renouvellement de confiance entre le géant…",
+          "published": "2026-09-10T00:21:11+00:00"
+        },
+        {
+          "title": "Avant la présidentielle au Brésil, la Cour suprême se déchire dans une crise inédite",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260909-presidentielle-bresil-cour-supreme-dechire-crise-lula-flavio-bolsonaro-alexandre-de-moraes",
+          "source": "France 24",
+          "summary": "Le président de la Cour suprême du Brésil a suspendu mercredi une série de décisions contradictoires entre juges autour du limogeage du chef de la police fédérale, dans le sillage d'une enquête sur une énorme fraude…",
+          "published": "2026-09-09T23:21:28+00:00"
+        },
+        {
+          "title": "Nigeria : un influenceur critique du gouvernement assassiné en pleine campagne présidentielle",
+          "link": "https://www.lemonde.fr/international/article/2026/09/10/nigeria-un-influenceur-critique-du-gouvernement-assassine-en-pleine-campagne-presidentielle_6769096_3210.html",
+          "source": "Le Monde",
+          "summary": "Le meurtre d’Ibrahim Khalil Dan Shagamu à Kano illustre les risques croissants encourus par les voix dissidentes dans le pays.",
+          "published": "2026-09-09T23:07:15+00:00"
+        },
+        {
           "title": "EN DIRECT, guerre en Ukraine : un drone russe a violé l’espace aérien moldave peu avant le décollage de l’avion de Volodymyr Zelensky",
           "link": "https://www.lemonde.fr/international/live/2026/09/10/en-direct-guerre-en-ukraine-un-drone-russe-a-viole-l-espace-aerien-moldave-peu-avant-le-decollage-de-l-avion-de-volodymyr-zelensky_6766818_3210.html",
           "source": "Le Monde",
           "summary": "L’espace aérien moldave a été fermé durant près d’une heure, mardi après-midi, alors que le président ukrainien allait décoller de Chisinau vers Oslo. Selon les autorités, le drone est tombé et a explosé à environ 160…",
-          "published": "2026-09-09T22:53:47+00:00"
+          "published": "2026-09-09T22:53:43+00:00"
         },
         {
           "title": "Afghanistan : l’ONU dénonce un « silence assourdissant » sur l’oppression des femmes et la crise humanitaire",
@@ -17,62 +73,6 @@
           "source": "Le Monde",
           "summary": "Alors que la crise humanitaire s’aggrave, plus de 2,4 millions de jeunes Afghanes sont privées d’école et les retours forcés se multiplient, malgré les alertes du haut-commissaire de l’ONU.",
           "published": "2026-09-09T22:35:25+00:00"
-        },
-        {
-          "title": "À qui appartient l'espace ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260909-%C3%A0-qui-appartient-l-espace",
-          "source": "France 24",
-          "summary": "Un sommet international de l'Espace a débuté à Paris. Si SpaceX et Blue Origin boudent l'événement, Emmanuel Macron a annoncé 20 milliards de contrats en faveur de l’Europe spatiale. On est loin du premier traité sur…",
-          "published": "2026-09-09T22:19:49+00:00"
-        },
-        {
-          "title": "Pour l'autrice Hemley Boum, «le Cameroun est un pays où il est trop tard pour être pessimiste»",
-          "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20260909-pour-l-autrice-hemley-boum-le-cameroun-est-un-pays-o%C3%B9-il-est-trop-tard-pour-%C3%AAtre-pessimiste",
-          "source": "RFI",
-          "summary": "Avec son sixième roman, Nos vies sauvages, l'autrice franco-camerounaise Hemley Boum signe un réquisitoire sur la déliquescence politique et la faillite morale du Cameroun. Roman politique autant que thriller…",
-          "published": "2026-09-09T22:17:39+00:00"
-        },
-        {
-          "title": "Pour leur entrée en lice en Ligue des champions, le PSG et Barcelone cartonnent",
-          "link": "https://www.france24.com/fr/sports/20260909-pour-leur-entr%C3%A9e-en-lice-en-ligue-des-champions-le-psg-et-barcelone-cartonnent",
-          "source": "France 24",
-          "summary": "Au premier jour de la compétition en Ligue des champions, le PSG a battu Bratislava 6-1 et le FC Barcelone a écrasé le Feyenoord 5-1. De son côté, Liverpool a dû batailler pour battre l'Atlético Madrid (2-1) et Arsenal…",
-          "published": "2026-09-09T21:27:12+00:00"
-        },
-        {
-          "title": "Ceuta : La crise migratoire nourrit la désinformation",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260909-ceuta-la-crise-migratoire-nourrit-la-d%C3%A9sinformation",
-          "source": "France 24",
-          "summary": "Alors que l’Union Européenne a débloqué près de 115 millions d’euros en urgence pour aider l’Espagne dans sa gestion de l’enclave de Ceuta, la crise migratoire qui s’y déroule, notamment depuis l'afflux meurtrier de…",
-          "published": "2026-09-09T21:01:36+00:00"
-        },
-        {
-          "title": "La Syrie condamne l’entrée « illégale » de Benyamin Nétanyahou sur son territoire",
-          "link": "https://www.lemonde.fr/international/article/2026/09/09/la-syrie-condamne-l-entree-illegale-de-benyamin-netanyahou-sur-son-territoire_6768997_3210.html",
-          "source": "Le Monde",
-          "summary": "Le premier ministre israélien, lors d’une rare visite à ses troupes déployées sur le versant syrien du mont Hermon, a affirmé que la République islamique d’Iran était sur le point de s’effondrer.",
-          "published": "2026-09-09T20:54:34+00:00"
-        },
-        {
-          "title": "L'Iran cible des navires et une base américaine en Jordanie après la destruction de pétroliers",
-          "link": "https://www.france24.com/fr/moyen-orient/20260909-iran-cible-navires-base-%C3%A9tats-unis-jordanie-apr%C3%A8s-destruction-p%C3%A9troliers",
-          "source": "France 24",
-          "summary": "Les Gardiens de la révolution iraniens ont affirmé mercredi avoir tiré des missiles balistiques sur une base militaire en Jordanie utilisée par l'armée américaine et ​attaqué dix navires, en riposte à la destruction de…",
-          "published": "2026-09-09T20:45:03+00:00"
-        },
-        {
-          "title": "Le Tchad réfute une nouvelle fois toute implication dans le conflit soudanais",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260909-le-tchad-r%C3%A9fute-une-nouvelle-fois-toute-implication-dans-le-conflit-soudanais",
-          "source": "France 24",
-          "summary": "Mardi à Genève, le Tchad a réfuté une fois de plus toute implication dans le conflit soudanais alors qu’il participait à la 63ème session du Conseil des droits humains de l’ONU. N’Djaména a été accusée à de multiples…",
-          "published": "2026-09-09T20:21:32+00:00"
-        },
-        {
-          "title": "Les Etats-Unis désignent le gang équatorien Los Tiguerones comme « organisation terroriste »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/09/les-etats-unis-designent-le-gang-equatorien-los-tiguerones-comme-organisation-terroriste_6768964_3210.html",
-          "source": "Le Monde",
-          "summary": "L’Equateur, allié des Etats-Unis et autrefois l’un des pays plus sûrs d’Amérique latine, est confronté à la hausse vertigineuse de la criminalité liée au narcotrafic.",
-          "published": "2026-09-09T20:18:05+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "EN DIRECT | Efficacité de l’État, accès à la propriété, cadre financier: voici les promesses électorales des différents partis aujourd’hui",
-          "link": "https://www.journaldemontreal.com/2026/09/09/en-direct--14e-journee-de-campagne-electorale-ou-sont-les-chefs-aujourdhui",
-          "source": "Journal de Montreal",
-          "summary": "En cette 14e journée de campagne électorale, les chefs des différents partis continueront de multiplier les annonces",
-          "published": "2026-09-09T22:50:42+00:00"
-        },
-        {
-          "title": "Le combat des circulaires: des pommes du Québec à moins de 90¢/lb",
-          "link": "https://www.journaldemontreal.com/2026/09/09/le-combat-des-circulaires-des-pommes-du-quebec-a-moins-de-90-lb",
-          "source": "Journal de Montreal",
-          "summary": "On remarque lentement l'automne qui s'approche, mais les récoltes restent abondantes.",
-          "published": "2026-09-09T22:45:00+00:00"
-        },
-        {
-          "title": "Air Canada | Feu vert à l’action collective de personnes en fauteuil roulant",
-          "link": "https://www.lapresse.ca/affaires/2026-09-09/air-canada/feu-vert-a-l-action-collective-de-personnes-en-fauteuil-roulant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Cinq chefs, une élection | Les chefs passent leur entrevue d’embauche",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/cinq-chefs-une-election/les-chefs-passent-leur-entrevue-d-embauche.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Cour suprême de la Colombie-Britannique a certifié une action collective intentée contre Air Canada par des passagers utilisant des fauteuils roulants et d’autres aides à la mobilité.",
-          "published": "2026-09-09T22:33:11+00:00"
+          "summary": "Les chefs se sont soumis à une sorte d’« entrevue d’embauche » à l’émission Cinq chefs, une élection, à Radio-Canada. Voici quelques faits saillants de cette soirée, prélude aux trois débats télévisés.",
+          "published": "2026-09-10T03:07:44+00:00"
         },
         {
-          "title": "À 15 ans, il fait un arrêt cardiaque à l’école",
-          "link": "https://www.journaldemontreal.com/2026/09/09/a-15-ans-il-fait-un-arret-cardiaque-a-lecole",
-          "source": "Journal de Montreal",
-          "summary": "À l’école secondaire de Dégelis, au Témiscouata, un jeune de 15 ans a été réanimé jeudi dernier.",
-          "published": "2026-09-09T22:19:14+00:00"
-        },
-        {
-          "title": "La sensation Paul Seixas va découvrir le Québec et son public qui réserve toujours un bel accueil aux cyclistes français",
-          "link": "https://www.journaldemontreal.com/2026/09/09/la-sensation-paul-seixas-va-decouvrir-le-quebec-et-son-public-qui-reserve-toujours-un-bel-accueil-aux-cyclistes-francais",
-          "source": "Journal de Montreal",
-          "summary": "Depuis la victoire de Thomas Voekler en 2010 jusqu'à celle de Julien Alaphilippe en 2025, les Français ont toujours offert d’excellentes performances.",
-          "published": "2026-09-09T22:13:06+00:00"
-        },
-        {
-          "title": "À Dallas, Trump mise sur sa personne pour sauver les élections de mi-mandat",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1007789/dallas-trump-mise-personne-sauver-elections-mi-mandat",
-          "source": "Le Devoir",
-          "summary": "À moins de deux mois du scrutin du 3 novembre, les projections sont sombres pour les républicains.",
-          "published": "2026-09-09T22:10:31+00:00"
-        },
-        {
-          "title": "Heure juste: Non, le PLQ n’a pas été blanchi par le DGEQ et l’UPAC, comme le prétend son candidat Farnell Morisset",
-          "link": "https://www.journaldemontreal.com/2026/09/09/heure-juste-non-le-plq-na-pas-ete-blanchi-par-le-dgeq-et-lupac-comme-le-pretend-son-candidat-farnel-morisset",
-          "source": "Journal de Montreal",
-          "summary": "Les conclusions du DGEQ et celles de l’UPAC concernant le financement du Parti libéral du Québec n’ont pas été rendues publique",
-          "published": "2026-09-09T22:00:00+00:00"
-        },
-        {
-          "title": "Aluminium | Mélanie Joly veut relancer le rêve d’un laminoir au Québec",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-09-09/aluminium/melanie-joly-veut-relancer-le-reve-d-un-laminoir-au-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Lanaudière  | Une conductrice rate son vol de camion en aboutissant contre un poteau",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-09/lanaudiere/une-conductrice-rate-son-vol-de-camion-en-aboutissant-contre-un-poteau.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Toutes les avenues doivent être examinées pour réduire la dépendance économique du Canada envers les États-Unis – un partenaire commercial imprévisible qui utilise les droits de douane à toutes les sauces. Pour la…",
-          "published": "2026-09-09T21:42:29+00:00"
+          "summary": "Scène rocambolesque à Sainte-Julienne : une quarantenaire a tenté de voler un camion dans un concessionnaire, mercredi après-midi, avant de terminer sa course contre un poteau d’Hydro-Québec. On ne craint pas pour la…",
+          "published": "2026-09-10T02:56:30+00:00"
         },
         {
-          "title": "Tempête tarifaire, candidat conservateur démissionnaire et référendum minoritaire",
-          "link": "https://www.ledevoir.com/politique/quebec/1007774/tempete-tarifaire-candidat-conservateur-demissionnaire-referendum-minoritaire",
+          "title": "Août 2026 a été le mois le plus chaud jamais mesuré dans le monde",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-09-09/aout-2026-a-ete-le-mois-le-plus-chaud-jamais-mesure-dans-le-monde.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La chaleur a atteint des niveaux jamais vus en août sur la planète, a constaté jeudi le service météorologique européen Copernicus, avec le mois le plus chaud jamais mesuré à l’échelle du globe et le pire été pour…",
+          "published": "2026-09-10T02:45:36+00:00"
+        },
+        {
+          "title": "CF Montréal 1 – Charlotte FC 2 | Un but tardif scelle l’issue du match",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-09-09/cf-montreal-1-charlotte-fc-2/un-but-tardif-scelle-l-issue-du-match.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Idan Toklomati a dénoué l’impasse tard en deuxième demie et le Charlotte FC est venu de l’arrière pour vaincre le CF Montréal 2-1, mercredi soir, au stade Saputo.",
+          "published": "2026-09-10T01:57:21+00:00"
+        },
+        {
+          "title": "Au cœur de Montréal, un débat qui penche fortement à gauche",
+          "link": "https://www.ledevoir.com/politique/quebec/1007849/coeur-montreal-debat-penche-fortement-gauche",
           "source": "Le Devoir",
-          "summary": "Le Parti conservateur a perdu un premier candidat, mercredi, en raison de propos homophobes et antiavortement.",
-          "published": "2026-09-09T21:33:03+00:00"
+          "summary": "Dans la circonscription de Sainte-Marie–Saint-Jacques, toutes les nuances de la gauche ont leur mot à dire.",
+          "published": "2026-09-10T01:54:00+00:00"
         },
         {
-          "title": "L'ancien hôpital chinois de Montréal sera démoli",
-          "link": "https://www.journaldemontreal.com/2026/09/09/lancien-hopital-chinois-de-montreal-sera-demoli",
+          "title": "«Moins de risques, plus d’acceptation» pour le nouvel iPhone pliable",
+          "link": "https://www.ledevoir.com/economie/techno/1007846/moins-risques-plus-acceptation-nouvel-iphone-pliable",
+          "source": "Le Devoir",
+          "summary": "Apple a dévoilé son premier iPhone pliable, 7 ans après Samsung, une stratégie qui n’est pas nouvelle, note un expert.",
+          "published": "2026-09-10T01:18:26+00:00"
+        },
+        {
+          "title": "Bangladesh | Une épidémie de rougeole fait près de 1000 morts",
+          "link": "https://www.lapresse.ca/international/asie-et-oceanie/2026-09-09/bangladesh/une-epidemie-de-rougeole-fait-pres-de-1000-morts.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Rojatun Jannat Ramisa, âgée de huit mois, lutte pour respirer dans un hôpital de la capitale bangladaise, tandis que ses parents sont assis à ses côtés, impuissants. Elle fait partie des milliers d’enfants touchés par…",
+          "published": "2026-09-10T01:08:44+00:00"
+        },
+        {
+          "title": "Christine Fréchette a dépensé 136 000$ en fonds publics lors de son voyage à Paris en mai",
+          "link": "https://www.journaldemontreal.com/2026/09/09/christine-frechette-depense-136-000--en-fonds-publics-lors-dun-voyage-a-paris-en-mai",
           "source": "Journal de Montreal",
-          "summary": "La Ville de Montréal va de l’avant avec la démolition de l’ancien hôpital chinois abandonné depuis plus d’un quart de siècle.",
-          "published": "2026-09-09T21:32:36+00:00"
+          "summary": "Le court voyage à Paris de Christine Fréchette en mai dernier a englouti près de 136 000$ en fonds publics.",
+          "published": "2026-09-10T01:08:07+00:00"
+        },
+        {
+          "title": "Barry Melrose est décédé",
+          "link": "https://www.journaldemontreal.com/2026/09/09/barry-melrose-est-decede",
+          "source": "Journal de Montreal",
+          "summary": "L'ancien entraîneur avait 70 ans.",
+          "published": "2026-09-10T00:59:19+00:00"
+        },
+        {
+          "title": "Un sénateur démocrate fait une apparition étonnante à la convention républicaine de Dallas",
+          "link": "https://www.journaldemontreal.com/2026/09/09/un-senateur-democrate-fait-une-apparition-etonnante-a-la-convention-republicaine-de-dallas",
+          "source": "Journal de Montreal",
+          "summary": "Le sénateur démocrate John Fetterman en a surpris plus d’un en apparaissant sur l’écran géant de la convention républicaine à Dallas.",
+          "published": "2026-09-10T00:29:01+00:00"
         }
       ]
     },
@@ -159,80 +159,87 @@
       "label": "France",
       "items": [
         {
+          "title": "Comment François Ruffin cherche à faire dérailler la primaire du PS",
+          "link": "https://www.liberation.fr/politique/comment-francois-ruffin-cherche-a-faire-derailler-la-primaire-du-ps-20260910_MSMNOLW5INBHZN7PX33DOMMR2M/",
+          "source": "Liberation",
+          "summary": "L’ex-insoumis tente de s’incruster au scrutin des 9 et 16 octobre, censé désigner le champion de l’espace socialiste et social-démocrate pour 2027. Une offensive qui vise surtout à affaiblir Raphaël Glucksmann au profit…",
+          "published": "2026-09-10T03:00:00+00:00"
+        },
+        {
+          "title": "«Midterms» : Trump promet un «dividende» de 5000 dollars par citoyen si son parti garde le contrôle du Congrès",
+          "link": "https://www.lefigaro.fr/international/midterms-trump-promet-un-dividende-de-5000-dollars-par-citoyen-si-son-parti-garde-le-controle-du-congres-20260910",
+          "source": "Le Figaro",
+          "summary": "Le président américain a précisé que cette somme devrait être dépensée seulement «aux États-Unis».",
+          "published": "2026-09-10T02:58:41+00:00"
+        },
+        {
+          "title": "Août 2026 est le mois le plus chaud jamais mesuré dans le monde, Copernicus alerte sur des risques accrus pour l’Europe",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/10/aout-2026-est-le-mois-le-plus-chaud-jamais-mesure-dans-le-monde-copernicus-alerte-sur-des-risques-accrus-pour-l-europe_6769228_3244.html",
+          "source": "Le Monde",
+          "summary": "La planète n’a probablement jamais connu de telles températures depuis 125 000 ans, selon des scientifiques, et les conséquences humaines et environnementales s’aggravent partout.",
+          "published": "2026-09-10T02:34:37+00:00"
+        },
+        {
+          "title": "Aux Philippines, au moins cinq morts et des dizaines de disparus dans l’incendie d’un ferry",
+          "link": "https://www.lemonde.fr/international/article/2026/09/10/aux-philippines-au-moins-cinq-morts-et-des-dizaines-de-disparus-dans-l-incendie-d-un-ferry_6769162_3210.html",
+          "source": "Le Monde",
+          "summary": "Un feu s’est déclaré, mercredi soir, dans le MV « June Aster » à environ 2,2 kilomètres du rivage, près d’un site touristique de la province de Palawan. Quarante-deux personnes ont pu être secourues jusqu’à présent,…",
+          "published": "2026-09-10T01:23:15+00:00"
+        },
+        {
+          "title": "Crash d’un avion-cargo à Miami : un des deux pilotes avait signalé une vitesse excessive",
+          "link": "https://www.lefigaro.fr/international/crash-d-un-avion-cargo-a-miami-un-des-deux-pilotes-avait-signale-une-vitesse-excessive-20260910",
+          "source": "Le Figaro",
+          "summary": "L’un des pilotes du Boeing 767 d’Amazon Prime Air qui s’est écrasé dimanche à Miami avait alerté son collègue sur sa vitesse excessive, selon le Bureau national de la sécurité des transports (NTSB).",
+          "published": "2026-09-10T01:11:43+00:00"
+        },
+        {
+          "title": "Changement climatique : les filles exposées à «un risque accru de décrochage scolaire», selon l’Unicef",
+          "link": "https://www.lefigaro.fr/sciences/changement-climatique-les-filles-exposees-a-un-risque-accru-de-decrochage-scolaire-selon-l-unicef-20260910",
+          "source": "Le Figaro",
+          "summary": "Canicules, tempêtes ou inondations ont perturbé la scolarité de plus de 171 millions d’enfants dans 106 pays en 2025, selon l’Unicef. L’agence alerte notamment sur la situation des filles, davantage exposées au risque…",
+          "published": "2026-09-10T00:31:07+00:00"
+        },
+        {
+          "title": "PSG - Slovan Bratislava : porté par un duo Dembélé-Torres de gala, Paris démarre en fanfare sa campagne européenne",
+          "link": "https://www.lemonde.fr/football/article/2026/09/10/psg-slovan-bratislava-porte-par-un-duo-dembele-torres-de-gala-paris-demarre-en-fanfare-sa-campagne-europeenne_6769129_1616938.html",
+          "source": "Le Monde",
+          "summary": "Le double champion d’Europe a parfaitement réussi son entrée en lice en Ligue des champions, en écrasant une faible équipe slovaque (6-1), mercredi soir, sur sa pelouse du Parc des Princes.",
+          "published": "2026-09-10T00:24:06+00:00"
+        },
+        {
+          "title": "Nigeria : un influenceur critique du gouvernement assassiné en pleine campagne présidentielle",
+          "link": "https://www.lemonde.fr/international/article/2026/09/10/nigeria-un-influenceur-critique-du-gouvernement-assassine-en-pleine-campagne-presidentielle_6769096_3210.html",
+          "source": "Le Monde",
+          "summary": "Le meurtre d’Ibrahim Khalil Dan Shagamu à Kano illustre les risques croissants encourus par les voix dissidentes dans le pays.",
+          "published": "2026-09-09T23:07:15+00:00"
+        },
+        {
+          "title": "Afghanistan : l’ONU dénonce un « silence assourdissant » sur l’oppression des femmes et la crise humanitaire",
+          "link": "https://www.lemonde.fr/international/article/2026/09/10/afghanistan-l-onu-denonce-un-silence-assourdissant-sur-l-oppression-des-femmes-et-la-crise-humanitaire_6769063_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que la crise humanitaire s’aggrave, plus de 2,4 millions de jeunes Afghanes sont privées d’école et les retours forcés se multiplient, malgré les alertes du haut-commissaire de l’ONU.",
+          "published": "2026-09-09T22:35:25+00:00"
+        },
+        {
           "title": "«Nous ne savions pas que des désalignements de cette gravité étaient possibles» : Anthropic révèle que l’IA peut sciemment ignorer les limites qui lui ont été fixées",
           "link": "https://www.lefigaro.fr/secteur/high-tech/nous-ne-savions-pas-que-des-desalignements-de-cette-gravite-etaient-possibles-anthropic-revele-que-l-ia-peut-sciemment-ignorer-les-limites-qui-lui-ont-ete-fixees-20260909",
           "source": "Le Figaro",
           "summary": "DÉCRYPTAGE - Une nouvelle étude réalisée par le géant de l’IA détaille quatre incidents dans lesquels ses modèles se sont échappés et ont enchaîné les actions malveillantes. Anthropic a découvert un type de raisonnement…",
           "published": "2026-09-09T21:57:18+00:00"
-        },
-        {
-          "title": "Le nouvel Air Force One de Trump retardé au décollage par un déploiement accidentel de toboggan",
-          "link": "https://www.lefigaro.fr/international/le-nouvel-air-force-one-de-trump-retarde-au-decollage-par-un-deploiement-accidentel-de-toboggan-20260909",
-          "source": "Le Figaro",
-          "summary": "Le niveau de sécurité de ce nouvel avion présidentiel, un Boeing offert par le Qatar, fait l’objet de questionnements récurrents.",
-          "published": "2026-09-09T21:47:26+00:00"
-        },
-        {
-          "title": "«Je voudrais tout copier de ce PSG, c’est incroyable» : le coach de Bratislava sous le charme des hommes de Luis Enrique",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/je-voudrais-tout-copier-de-ce-psg-c-est-incroyable-le-coach-de-bratislava-sous-le-charme-des-hommes-de-luis-enrique-20260909",
-          "source": "Le Figaro",
-          "summary": "Yaya Touré, l’entraîneur du Slovan Bratislava battu par le Paris SG (6-1) lors de la première journée de Ligue des champions, a eu des mots forts envers les tenants du titre.",
-          "published": "2026-09-09T21:45:16+00:00"
-        },
-        {
-          "title": "PSG-Slovan Bratislava : le résumé du large succès des Parisiens pour leur entrée en lice en Ligue des champions",
-          "link": "https://www.lemonde.fr/sport/article/2026/09/09/psg-slovan-bratislava-le-resume-du-large-succes-des-parisiens-pour-leur-entree-en-lice-en-ligue-des-champions_6769030_3242.html",
-          "source": "Le Monde",
-          "summary": "Les Parisiens ont réussi mercredi leur entame de saison dans la plus prestigieuse des compétitions européennes de football en s’imposant sur la pelouse du Parc des Princes, notamment grâce à un triplé de Ferran Torres…",
-          "published": "2026-09-09T21:42:11+00:00"
-        },
-        {
-          "title": "EN DIRECT - Guerre au Moyen-Orient : une explosion entendue dans le sud de l’Iran, près du détroit d’Ormuz",
-          "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-frappe-des-bateaux-americains-dans-le-golfe-apres-les-attaques-des-etats-unis-sur-des-petroliers-iraniens-20260909",
-          "source": "Le Figaro",
-          "summary": "La télévision d’État iranienne a fait état mercredi soir d’une explosion alors que les gardiens de la révolution ont affirmé dans la journée avoir attaqué deux bateaux américains, huit pétroliers et dix autres navires,…",
-          "published": "2026-09-09T21:37:02+00:00"
-        },
-        {
-          "title": "En Iran, le régime tenté par l’escalade militaire",
-          "link": "https://www.lefigaro.fr/international/en-iran-le-regime-tente-par-l-escalade-militaire-20260909",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Les dernières attaques iraniennes visant des cibles américaines dans la région signalent une volonté d’escalade. Un calcul stratégique de Téhéran, pour détourner l’attention de la crise économique et…",
-          "published": "2026-09-09T21:36:38+00:00"
-        },
-        {
-          "title": "Keynote Apple : ce qu’il faut retenir des nouveaux iPhone, Apple Watch, Airpods… et des fonctionnalités indisponibles en Europe",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/keynote-apple-ce-qu-il-faut-retenir-des-nouveaux-iphone-apple-watch-airpods-et-des-fonctionnalites-indisponibles-en-europe-20260909",
-          "source": "Le Figaro",
-          "summary": "La marque à la pomme a présenté ses nouveaux iPhone, dont son tant attendu iPhone pliable. De nombreuses fonctionnalités annoncées ne seront pas disponibles en Europe.",
-          "published": "2026-09-09T21:22:20+00:00"
-        },
-        {
-          "title": "Le PSG et le Barça régalent, Liverpool et Arsenal au rendez-vous... Revivez la suite de la première journée de phase de ligue de Ligue des champions",
-          "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/direct-le-barca-entre-en-scene-en-attendant-le-psg-a-21-heures-suivez-et-commentez-la-soiree-de-ligue-des-champions_8180882.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Stuttgart et le Sporting ont aussi répondu présent à domicile mercredi soir. Au Parc des Princes, le PSG a pu compter sur un triplé de Ferran Torres et un Dembélé omniprésent, face au Slovan Bratislava.",
-          "published": "2026-09-09T21:18:02+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : l’avion de Zelensky a failli être touché par un drone russe tandis qu’il était en route vers la Norvège",
-          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-l-avion-de-zelensky-a-failli-etre-touche-par-un-drone-tandis-qu-il-etait-en-route-vers-la-norvege-20260909",
-          "source": "Le Figaro",
-          "summary": "Le Premier ministre norvégien affirme que l’appareil transportant le président ukrainien a failli être percuté par un drone lors de son décollage de Moldavie. Kiev nuance toutefois cette version et assure qu’il n’a pas…",
-          "published": "2026-09-09T21:15:02+00:00"
-        },
-        {
-          "title": "Le Figaro a pu prendre en main l’iPhone Duo, premier smartphone pliable d’Apple",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/le-figaro-a-pu-prendre-en-main-l-iphone-duo-premier-smartphone-pliable-d-apple-20260909",
-          "source": "Le Figaro",
-          "summary": "Écran qui se déplie sans presque aucune trace de pliure, animations soignées, matériaux dignes d’un objet de luxe... Présent au lancement de l’iPhone Duo, Le Figaro a pu tester l’appareil disponible en octobre prochain.",
-          "published": "2026-09-09T21:06:34+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "J’ai essayé l’iPhone Duo en vrai : Apple répond à Samsung de la plus belle des manières",
+          "link": "https://www.numerama.com/tech/2329955-jai-essaye-liphone-duo-en-vrai-apple-repond-a-samsung-de-la-plus-belle-des-manieres.html",
+          "source": "Numerama",
+          "summary": "Quelques minutes après la keynote d'Apple, j'ai pu manipuler l'iPhone Duo à Apple Park. Le premier iPhone pliant impressionne par son écran anti-reflets sans pli visible, sa caméra cachée sous la dalle et un iOS repensé…",
+          "published": "2026-09-10T01:38:34+00:00"
+        },
         {
           "title": "Mauvaise nouvelle : Apple augmente les prix des iPhone 17, 17e et Air malgré l’annonce des iPhone 18",
           "link": "https://www.numerama.com/tech/2327201-mauvaise-nouvelle-apple-augmente-les-prix-des-iphone-17-17e-et-air-malgre-lannonce-des-iphone-18.html",
@@ -309,13 +316,6 @@
           "source": "Frandroid",
           "summary": "Apple a ouvert sa keynote du 9 septembre par vingt minutes consacrées à Siri AI, la refonte de son assistant vocal, avec le français parmi les langues prises en charge. Une seconde diapositive précise en revanche que…",
           "published": "2026-09-09T19:17:57+00:00"
-        },
-        {
-          "title": "iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5… tous les prix en France des nouveautés Apple",
-          "link": "https://www.numerama.com/tech/2327209-iphone-duo-iphone-18-pro-apple-watch-airpods-5-tous-les-prix-en-france-des-nouveautes-apple.html",
-          "source": "Numerama",
-          "summary": "Apple a présenté le 9 septembre 2026 son premier iPhone pliant, les iPhone 18 Pro et iPhone 18 Pro Max, de nouvelles Apple Watch et des AirPods. Voici tous les prix français, capacité par capacité, ainsi que les dates…",
-          "published": "2026-09-09T19:04:52+00:00"
         }
       ]
     }
