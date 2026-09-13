@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-09-13T15:39:28.227721+00:00",
+  "generated_at": "2026-09-13T20:21:42.658128+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Au Yémen, les Houthis font état d'une cinquantaine de frappes saoudiennes",
+          "link": "https://www.france24.com/fr/moyen-orient/20260913-yemen-houthis-font-etat-cinquantaine-de-frappes-saoudiennes-arabie-saoudite",
+          "source": "France 24",
+          "summary": "Les Houthis ont rapporté dimanche d'une cinquantaine de frappes saoudiennes au Yémen, notamment sur leur fief dans le nord du pays, quelques heures après avoir revendiqué une attaque contre une base militaire en Arabie…",
+          "published": "2026-09-13T20:17:22+00:00"
+        },
+        {
+          "title": "Lukas Aubin : \" le virilisme d'Etat de Poutine s'est transformé en instrument géopolitique\"",
+          "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260913-lukas-aubin-le-virilisme-d-etat-de-poutine-s-est-transform%C3%A9-en-instrument-g%C3%A9opolitique",
+          "source": "France 24",
+          "summary": "Vladimir Poutine tente de contrôler l'intime, la sexualité et les mœurs, pour contrôler la société et servir son pouvoir: c'est la thèse développée dans un livre qui vient de paraître : \"Le sexe de poutine: genre,…",
+          "published": "2026-09-13T19:38:58+00:00"
+        },
+        {
+          "title": "Législatives en Suède : la gauche en tête, l'extrême droite en recul selon les sorties des urnes",
+          "link": "https://www.france24.com/fr/europe/20260913-legislatives-suede-gauche-en-tete-extreme-droite-en-recul-selon-sorties-urnes-elections",
+          "source": "France 24",
+          "summary": "L'opposition de centre-gauche serait en tête des élections législatives en Suède avec 51,3 % des voix, selon des sondages de sortie des urnes. Près de huit millions d’électeurs étaient appelés à voter dimanche pour…",
+          "published": "2026-09-13T18:26:26+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : un train touché par un drone et des frappes russes près de la frontière avec la Pologne",
+          "link": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-touche-par-un-drone-et-des-frappes-russes-pres-de-la-frontiere-avec-la-pologne_6772184_3210.html",
+          "source": "Le Monde",
+          "summary": "Une locomotive d’un train de voyageurs reliant Kiev à Varsovie a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes. Le premier ministre polonais, Donald Tusk, a convoqué une…",
+          "published": "2026-09-13T17:18:25+00:00"
+        },
         {
           "title": "Un train à destination de Varsovie a été frappé par un drone russe en Ukraine, qui dénonce une « attaque systémique » visant le rail",
           "link": "https://www.lemonde.fr/international/article/2026/09/13/un-train-a-destination-de-varsovie-a-ete-frappe-par-un-drone-russe-en-ukraine-qui-denonce-une-attaque-systemique-visant-le-rail_6772805_3210.html",
@@ -40,39 +68,11 @@
           "published": "2026-09-13T13:56:51+00:00"
         },
         {
-          "title": "En Ukraine, les chemins de fer visés par une \"attaque systémique\"",
+          "title": "Ukraine : des frappes russes près de la frontière polonaise, Varsovie dénonce une \"escalade\"",
           "link": "https://www.france24.com/fr/europe/20260913-ukraine-chemins-fer-vis%C3%A9s-attaque-syst%C3%A9mique-train-varsovie-pologne-drone",
           "source": "France 24",
-          "summary": "La compagnie ukrainienne de chemins de fer a averti dimanche qu'une \"attaque systémique\" était \"en cours\" contre le rail à travers l'Ukraine. Le président Volodymyr Zelensky avait affirmé plus tôt qu'un drone russe…",
+          "summary": "La compagnie ukrainienne de chemins de fer a averti dimanche qu'une \"attaque systémique\" était \"en cours\" contre le rail à travers l'Ukraine, signalant une frappe de drone russe à proximité de la frontière polonaise sur…",
           "published": "2026-09-13T13:30:59+00:00"
-        },
-        {
-          "title": "Naufrage d'un ferry en Indonésie : au moins 6 morts et 130 disparus",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260913-naufrage-d-un-ferry-en-indon%C3%A9sie-au-moins-6-morts-et-130-disparus",
-          "source": "France 24",
-          "summary": "Six personnes sont mortes, 130 sont toujours portées disparues dimanche et 107 ont pu être secourues après qu'un ferry reliant les îles indonésiennes de Java et de Bornéo a chaviré en raison de mauvaises conditions…",
-          "published": "2026-09-13T13:29:09+00:00"
-        },
-        {
-          "title": "Paris : le Village international de la gastronomie fête ses 10 ans",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260913-paris-le-village-international-de-la-gastronomie-f%C3%AAte-ses-10-ans",
-          "source": "France 24",
-          "summary": "Anne-Laure Descombin, présidente-fondatrice du Village international de la gastronomie à Paris, est notre invitée.",
-          "published": "2026-09-13T13:27:47+00:00"
-        },
-        {
-          "title": "Céline Dion émue, son public enchanté : 2h de show incroyable",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260913-c%C3%A9line-dion-%C3%A9mue-son-public-enchant%C3%A9-2h-de-show-incroyable",
-          "source": "France 24",
-          "summary": "\"On ne change pas\", \"All by Myself\", \"Pour que tu m'aimes encore\"... Bouleversée par son retour sur scène après six ans d'absence, Céline Dion a enchaîné les tubes samedi soir pour le coup d'envoi de sa série de…",
-          "published": "2026-09-13T13:24:52+00:00"
-        },
-        {
-          "title": "La Mostra de Venise récompense \"Woman Unknown\" et le documentaire \"Naza\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260913-la-mostra-de-venise-r%C3%A9compense-woman-unknown-et-le-documentaire-naza",
-          "source": "France 24",
-          "summary": "Le faible nombre de réalisatrices en compétition à la Mostra de Venise avait provoqué un tollé: le jury présidé par Maggie Gyllenhaal a décidé samedi de récompenser l'une d'entre elles, May el-Toukhy, pour \"Woman…",
-          "published": "2026-09-13T13:22:29+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Des crottes parsemaient le Tiramisu de Montréal",
-          "link": "https://www.journaldemontreal.com/2026/12/31/des-crottes-parsemaient-le-tiramisu-de-montreal",
+          "title": "Mark Carney fait appel à Stephen Harper pour séduire les grands investisseurs à Toronto",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-09-13/mark-carney-fait-appel-a-stephen-harper-pour-seduire-les-grands-investisseurs-a-toronto.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’ancien premier ministre Stephen Harper prononcera le discours de clôture au Sommet canadien de l’investissement de deux jours qui se mettra en branle lundi à Toronto.",
+          "published": "2026-09-13T20:15:35+00:00"
+        },
+        {
+          "title": "Patients coincés à l’hôpital, faute d’hébergement | Une nouvelle unité pour affronter la crise à Notre-Dame",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-09-13/patients-coinces-a-l-hopital-faute-d-hebergement/une-nouvelle-unite-pour-affronter-la-crise-a-notre-dame.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’hôpital Notre-Dame à Montréal met en place une mesure exceptionnelle pour faire face à une crise : elle ouvre une nouvelle unité de 20 lits destinée aux patients atteints de problèmes de santé mentale et qui demeurent…",
+          "published": "2026-09-13T20:00:00+00:00"
+        },
+        {
+          "title": "«Un privilège» à l’approche des Championnats du monde",
+          "link": "https://www.journaldemontreal.com/2026/09/13/un-privilege-a-lapproche-des-championnats-du-monde",
           "source": "Journal de Montreal",
-          "summary": "Le restaurant Tiramisu du quartier chinois a subi deux fois plutôt qu’une les foudres des inspecteurs à cause d’infestations de vermine.",
-          "published": "2026-12-31T05:05:00+00:00"
+          "summary": "Joseph Limare, à titre de directeur général, se tourne vers les prochains Mondiaux de cyclisme sur route prévus du 20 au 27 septembre à Montréal.",
+          "published": "2026-09-13T19:16:28+00:00"
         },
         {
-          "title": "Selon le Wall Street Journal | Mark Carney souhaiterait faire du Canada un « membre associé » de l’Union européenne",
-          "link": "https://www.lapresse.ca/actualites/2026-09-13/selon-le-wall-street-journal/mark-carney-souhaiterait-faire-du-canada-un-membre-associe-de-l-union-europeenne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "« La nation québécoise n’a pas à demander la permission à personne » : Christine Fréchette défend sa 3e voie autonomiste",
+          "link": "https://www.journaldemontreal.com/2026/09/13/la-nation-quebecoise-na-pas-a-demander-la-permission-a-personne---christine-frechette-defend-sa-3e-voie-de-lautonomisme",
+          "source": "Journal de Montreal",
+          "summary": "La cheffe caquiste a défendu sa 3e voie politique lors d’un rassemblement partisan dans la Centre-du-Québec.",
+          "published": "2026-09-13T19:05:05+00:00"
+        },
+        {
+          "title": "«No shows» en santé: 153 000 rendez-vous médicaux manqués en un an au Québec",
+          "link": "https://www.journaldemontreal.com/2026/09/13/no-shows-en-sante-153-000-rendez-vous-medicaux-manques-en-un-an-au-quebec",
+          "source": "Journal de Montreal",
+          "summary": "Le phénomène des «no shows» prive chaque année des dizaines de milliers de Québécois d’un accès potentiel à un médecin de famille.",
+          "published": "2026-09-13T18:58:17+00:00"
+        },
+        {
+          "title": "Le PQ présentera son cadre financier sans le chef",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-13/le-pq-presentera-son-cadre-financier-sans-le-chef.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Depuis plusieurs mois, le premier ministre du Canada multiplie les tentatives de rapprochement avec l’Union européenne dans l’espoir de diversifier ses liens commerciaux avec d’autres puissances étrangères que les…",
-          "published": "2026-09-13T15:09:34+00:00"
+          "summary": "Situation hautement inhabituelle : Paul St-Pierre Plamondon confie à son équipe économique la présentation de son cadre financier, une étape pourtant importante en campagne électorale. Le chef péquiste sera absent en…",
+          "published": "2026-09-13T18:40:35+00:00"
         },
         {
-          "title": "Pas de «poudre magique» dans le cadre financier du PLQ",
-          "link": "https://www.ledevoir.com/politique/quebec/1008596/pas-poudre-magique-cadre-financier-plq",
+          "title": "Zachary Bolduc s'entend avec le Canadien, Arber Xhekaj attend son tour",
+          "link": "https://www.journaldemontreal.com/2026/09/13/bolduc-sentend-avec-le-canadien",
+          "source": "Journal de Montreal",
+          "summary": "L'attaquant québécois a finalement paraphé un contrat de quatre ans",
+          "published": "2026-09-13T18:36:39+00:00"
+        },
+        {
+          "title": "Des bébés et la Coupe du monde: voici comment s'est passé l'été des joueurs du Canadien",
+          "link": "https://www.journaldemontreal.com/2026/09/13/des-bebes-et-la-coupe-du-monde-voici-comment-sest-passe-lete-des-joueurs-du-canadien",
+          "source": "Journal de Montreal",
+          "summary": "Les derniers mois ont été chargés pour certains d’entre eux, avant une saison qui le sera sans doute encore davantage.",
+          "published": "2026-09-13T18:34:51+00:00"
+        },
+        {
+          "title": "Des propriétaires forcés d’expulser des locataires après une manigance impliquant un fonctionnaire et l'ancien proprio",
+          "link": "https://www.journaldemontreal.com/2026/09/25/des-proprietaires-forces-dexpulser-des-locataires-pour-une--rigidite-administrative--apres-une-erreur-de-la-ville",
+          "source": "Journal de Montreal",
+          "summary": "Deux nouveaux propriétaires montréalais sont forcés de mettre six locataires à la rue, en raison d’un manque de flexibilité de l'arrondissement.",
+          "published": "2026-09-13T17:41:22+00:00"
+        },
+        {
+          "title": "Les taxis à l’aéroport de Montréal seront  à l’arrêt dimanche pour protester contre Taxelco",
+          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1008614/taxis-aeroport-montreal-trudeau-seront-encore-arret-dimanche-soiree",
           "source": "Le Devoir",
-          "summary": "Le parti de Charles Milliard annulerait les mesures sur la taxe de bienvenue et la TVQ à l’épicerie.",
-          "published": "2026-09-13T14:55:00+00:00"
-        },
-        {
-          "title": "Discours masculinistes | QS créerait une ligne d’aide pour les victimes de cyberviolence",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-13/discours-masculinistes/qs-creerait-une-ligne-d-aide-pour-les-victimes-de-cyberviolence.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Québec solidaire veut s’attaquer à la montée des discours masculinistes. Ruba Ghazal créerait un service d’intervention de première ligne pour les femmes victimes de cyberviolences, au coût de 10 millions. Une somme de…",
-          "published": "2026-09-13T14:54:58+00:00"
-        },
-        {
-          "title": "Les jeunes du Québec entament une deuxième rentrée scolaire sans téléphones",
-          "link": "https://www.ledevoir.com/actualites/education/1008593/jeunes-quebec-entament-deuxieme-rentree-scolaire-telephones",
-          "source": "Le Devoir",
-          "summary": "La première année de cette expérience s’est «très bien passée», selon la Fédération des syndicats de l’enseignement.",
-          "published": "2026-09-13T14:05:00+00:00"
-        },
-        {
-          "title": "Trump critique les « forces négatives » qui veulent ralentir l’intelligence artificielle",
-          "link": "https://www.lapresse.ca/affaires/techno/2026-09-13/trump-critique-les-forces-negatives-qui-veulent-ralentir-l-intelligence-artificielle.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Donald Trump, grand partisan de l’intelligence artificielle, a critiqué dimanche les « forces négatives » voulant ralentir son développement, à l’heure où les mises en gardes se multiplient, y compris de la part des…",
-          "published": "2026-09-13T13:50:10+00:00"
-        },
-        {
-          "title": "Montréal | Une bagarre dégénère à la sortie d’un bar",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-13/montreal/une-bagarre-degenere-a-la-sortie-d-un-bar.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une bagarre a dégénéré cette nuit à la sortie d’un bar, dans le quartier Saint-Michel : une femme de 24 ans a dû être hospitalisée après avoir été atteinte au visage par un morceau de pavé.",
-          "published": "2026-09-13T13:34:41+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine | Un train à destination de Varsovie frappé par un drone russe",
-          "link": "https://www.lapresse.ca/international/europe/2026-09-13/guerre-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La compagnie ferroviaire ukrainienne a averti dimanche qu’une « attaque systémique » visant le rail était en cours dans le pays, après notamment une frappe de drone russe sur un train à destination de Varsovie qualifiée…",
-          "published": "2026-09-13T12:19:49+00:00"
-        },
-        {
-          "title": "Le fil électoral  | Le plus gros rassemblement de la CAQ",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-13/le-fil-electoral/le-plus-gros-rassemblement-de-la-caq.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Bienvenue dans Le fil électoral de La Presse ! Retrouvez tout ce qu’il faut savoir sur la campagne en direct : actualités de dernière heure, explications, contexte, bruits de coulisses et plus encore…",
-          "published": "2026-09-13T12:00:00+00:00"
-        },
-        {
-          "title": "Finances personnelles | « Restez calme » n’est pas un conseil rassurant !",
-          "link": "https://www.lapresse.ca/affaires/chroniques/2026-09-13/finances-personnelles/restez-calme-n-est-pas-un-conseil-rassurant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "On entend souvent le même refrain : si votre planification financière est bien faite, ne vous inquiétez pas des frasques de Trump, tout finira par se replacer. Mais quand on est dans une période de grosses dépenses –…",
-          "published": "2026-09-13T10:30:00+00:00"
+          "summary": "Des chauffeurs refuseront de prendre des passagers entre 14h et 20h pour manifester contre des décisions de Taxelco.",
+          "published": "2026-09-13T17:40:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Face à la flambée des prix, Trump demande à Zelensky d’arrêter d’attaquer les raffineries de diesel en Russie : «il provoque une pénurie !»",
-          "link": "https://www.liberation.fr/international/europe/face-a-la-flambee-des-prix-trump-demande-a-zelensky-darreter-dattaquer-les-raffineries-de-diesel-en-russie-il-provoque-une-penurie-20260913_XT5LN5PXINBV3DS5Q2DZB76QRY/",
-          "source": "Liberation",
-          "summary": "Le président américain a fait ces déclarations alors que le prix du diesel a dépassé vendredi pour la première fois les 6 dollars le gallon (3,78 litres), poussé par la guerre au Moyen-Orient et les attaques…",
-          "published": "2026-09-13T15:32:08+00:00"
+          "title": "EN DIRECT - Brest-PSG : sauvés par le poteau et Safonov, les Parisiens peinent à garder leur avantage",
+          "link": "https://www.lefigaro.fr/sports/football/live/ligue-1/2026/2640587/brest-paris-sg",
+          "source": "Le Figaro",
+          "summary": "Après trois journées sans victoire, le Paris Saint-Germain n’a plus vraiment le choix face au Stade Brestois, qui souhaite rendre le meilleur hommage possible à son ancien entraîneur Éric Roy ce dimanche.",
+          "published": "2026-09-13T20:20:03+00:00"
         },
         {
-          "title": "Marine Le Pen détaille une série de propositions sur le logement, qui sera \"un des grands chantiers\" de son quinquennat si elle est élue",
-          "link": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html#xtor=RSS-3-[lestitres]",
+          "title": "EN DIRECT – Toulouse-UBB : injouables, les Toulousains balayent les Girondins dans le choc des champions",
+          "link": "https://www.lefigaro.fr/sports/rugby/live/top-14/2027/952483/toulouse-bordeaux-begles",
+          "source": "Le Figaro",
+          "summary": "Renversé à La Rochelle le week-end passé, le champion de France doit réagir face au champion d’Europe, ce dimanche, à Ernest-Wallon.",
+          "published": "2026-09-13T20:17:02+00:00"
+        },
+        {
+          "title": "Basket : pas d’exploit pour les Bleues, largement battues en finale du Mondial par les Américaines, deux ans après les JO de Paris",
+          "link": "https://www.lefigaro.fr/sports/basket/basket-pas-d-exploit-pour-les-bleues-largement-battues-en-finale-du-mondial-par-les-americaines-deux-ans-apres-la-finale-des-jo-de-paris-20260913",
+          "source": "Le Figaro",
+          "summary": "En tête à la pause, l’équipe de France féminine de basket a craqué dans les deux derniers quart-temps face aux Américaines (97-79). L’écart est plus conséquent qu’il y a deux ans.",
+          "published": "2026-09-13T20:13:31+00:00"
+        },
+        {
+          "title": "États-Unis-France : les Américaines ont imposé leur loi aux Bleues en finale du Mondial… Revivez le match",
+          "link": "https://www.lefigaro.fr/sports/basket/en-direct-etats-unis-france-deux-ans-apres-les-jo-de-paris-les-bleues-retrouvent-les-americaines-dans-une-finale-mondiale-20260913",
+          "source": "Le Figaro",
+          "summary": "Ce dimanche à Berlin, l’équipe de France féminine de basket dispute une finale historique de Coupe du monde. Gabby Williams et ses partenaires peuvent entrer dans la légende du sport tricolore.",
+          "published": "2026-09-13T20:04:37+00:00"
+        },
+        {
+          "title": "Top 14 : en vidéo, les deux essais du départ canon du Stade Toulousain dans le choc face à l’UBB",
+          "link": "https://www.lefigaro.fr/sports/rugby/top-14/top-14-en-video-les-deux-essais-du-depart-canon-du-stade-toulousain-dans-le-choc-face-a-l-ubb-20260913",
+          "source": "Le Figaro",
+          "summary": "L’affiche de ce dimanche met aux prises Toulouse, quadruple champion de France, à Bordeaux-Bègles, double champion d’Europe en titre.",
+          "published": "2026-09-13T20:03:33+00:00"
+        },
+        {
+          "title": "Enquête à Bruxelles après une croix gammée sur une mosquée",
+          "link": "https://www.lefigaro.fr/international/enquete-a-bruxelles-apres-une-croix-gammee-sur-une-mosquee-20260913",
+          "source": "Le Figaro",
+          "summary": "Le tag a été découvert dans la nuit de samedi à dimanche sur la façade de la mosquée El Mouahidine, à Laeken, un quartier de Bruxelles.",
+          "published": "2026-09-13T20:03:22+00:00"
+        },
+        {
+          "title": "Coupe du monde du basket : malgré un départ canon, les Bleues calent face aux reines américaines",
+          "link": "https://www.liberation.fr/sports/coupe-du-monde-du-basket-malgre-un-depart-canon-les-bleues-calent-face-aux-reines-americaines-20260913_WEYJ4R47CFH2NHXXOUTIU42KDI/",
+          "source": "Liberation",
+          "summary": "En tête à la pause, les joueuses de l’équipe de France ont ensuite subi la loi de l’invincible Team USA (79-97). Les partenaires de Gabby Williams doivent se contenter de l’argent planétaire.",
+          "published": "2026-09-13T19:59:43+00:00"
+        },
+        {
+          "title": "Pas de premier titre mondial pour l’équipe de France, battue par les Etats-Unis en finale de la Coupe du monde de basket",
+          "link": "https://www.franceinfo.fr/sports/basket/coupe-du-monde/pas-de-premier-titre-pour-l-equipe-de-france-battue-par-les-etats-unis-en-finale-de-la-coupe-du-monde-de-basket_8191088.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "La candidate du Rassemblement national a énuméré dimanche, depuis Hénin-Beaumont, des propositions autour d'une grande réforme du logement, mettant en avant \"l'accession à la propriété\" et la \"priorité nationale\".",
-          "published": "2026-09-13T15:27:27+00:00"
+          "summary": "Les Bleues, qui disputaient leur première finale mondiale, n’ont pas réussi à renverser les Américaines, dimanche soir.",
+          "published": "2026-09-13T19:53:23+00:00"
         },
         {
-          "title": "Avant le premier concert de Céline Dion, Emmanuel Grégoire s’époumone lors d’un karaoké XXL",
-          "link": "https://www.lefigaro.fr/flash-actu/avant-le-premier-concert-de-celine-dion-emmanuel-gregoire-s-epoumone-lors-d-un-karaoke-xxl-20260913",
+          "title": "\"Si c'est intentionnel, c'est très grave\" : des zones d'ombre subsistent après le déraillement d'un train en Seine-Maritime",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/si-c-est-intentionnel-c-est-tres-grave-des-zones-d-ombre-subsistent-apres-le-deraillement-d-un-train-en-seine-maritime_8191103.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Deux enquêtes sont en cours, l'une judiciaire, l'autre technique, après le déraillement du TER reliant Rouen, à Caen, qui a fait 44 blessés. Au cœur des interrogations, la présence d'un rail aux abords de la voie.",
+          "published": "2026-09-13T19:51:17+00:00"
+        },
+        {
+          "title": "Le ministre israélien de la Culture veut déchoir de leur nationalité les réalisateurs du documentaire «NAZA» primé à Venise",
+          "link": "https://www.lefigaro.fr/international/le-ministre-israelien-de-la-culture-veut-dechoir-de-leur-nationalite-les-realisateurs-du-documentaire-naza-prime-a-venise-20260913",
           "source": "Le Figaro",
-          "summary": "Dans une vidéo publiée sur son compte Instagram, on aperçoit le maire de Paris donner de la voix et esquisser quelques pas de danse sur le titre «I’m Alive», lors d’un karaoké géant organisé à la veille du premier…",
-          "published": "2026-09-13T15:19:33+00:00"
-        },
-        {
-          "title": "Sénatoriales : découvrez les candidats dans votre département",
-          "link": "https://www.lefigaro.fr/elections/senatoriales/senatoriales-decouvrez-les-candidats-dans-votre-departement-20260913",
-          "source": "Le Figaro",
-          "summary": "INFOGRAPHIE - Consultez notre tableau de bord pour retrouver l’ensemble des candidatures et des sièges à pourvoir, département par département.",
-          "published": "2026-09-13T15:12:37+00:00"
-        },
-        {
-          "title": "Un train à destination de Varsovie frappé par un drone russe en Ukraine, une «attaque systémique en cours» contre le rail à travers le pays",
-          "link": "https://www.liberation.fr/international/europe/un-train-parti-de-kyiv-et-a-destination-de-varsovie-frappe-par-un-drone-russe-en-ukraine-20260913_VJWICPNROZGS7IBDPEBFDMITN4/",
-          "source": "Liberation",
-          "summary": "La compagnie ferroviaire ukrainienne a lancé ce dimanche l’alerte après l’attaque russe sur un convoi à destination de Varsovie à deux kilomètres de la frontière entre la Pologne et l’Ukraine. Aucune victime n’est à…",
-          "published": "2026-09-13T15:10:15+00:00"
-        },
-        {
-          "title": "EN DIRECT - Présidentielle 2027 : à Port-Marly, Éric Zemmour plaide pour «la remigration» pour «défendre les peuples européens",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-je-ne-suis-pas-un-homme-presse-pour-l-election-presidentielle-edouard-philippe-defend-la-tortue-et-moque-les-lievres-20260912",
-          "source": "Le Figaro",
-          "summary": "Le candidat de Reconquête n’a pas officiellement déclaré sa candidature, ce qu’il pourrait faire en octobre, mais son entourage annonce avoir déjà récolté 350 parrainages.",
-          "published": "2026-09-13T15:10:13+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : Zelensky «doit arrêter» d'attaquer les raffineries de diesel en Russie, déclare Donald Trump",
-          "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-zelensky-doit-arreter-d-attaquer-les-raffineries-de-diesel-en-russie-declare-donald-trump-20260913",
-          "source": "Le Figaro",
-          "summary": "Le président américain craint une «pénurie de diesel» et demande à son homologue ukrainien d’arrêter ses frappes de drones sur ces cibles.",
-          "published": "2026-09-13T15:09:00+00:00"
-        },
-        {
-          "title": "«Elle sera abrogée, purement et simplement» : la loi SRU, qui impose 25% de logements sociaux en ville, dans le viseur de Marine Le Pen",
-          "link": "https://www.lefigaro.fr/conjoncture/elle-sera-abrogee-purement-et-simplement-la-loi-sru-qui-impose-25-de-logements-sociaux-en-ville-dans-le-viseur-de-marine-le-pen-20260913",
-          "source": "Le Figaro",
-          "summary": "La candidate du Rassemblement national a promis, lors de son traditionnel discours de rentrée à Hénin-Beaumont, que le logement serait «un des grands chantiers» de son quinquennat.",
-          "published": "2026-09-13T15:07:34+00:00"
-        },
-        {
-          "title": "« Je classe amoureusement mes fichiers MP3 » : pourquoi les baladeurs audio font de nouveaux adeptes",
-          "link": "https://www.lemonde.fr/pixels/article/2026/09/13/je-classe-amoureusement-mes-fichiers-mp3-pourquoi-les-baladeurs-audio-font-de-nouveaux-adeptes_6772804_4408996.html",
-          "source": "Le Monde",
-          "summary": "Si le streaming domine toujours largement le marché musical, iPod, lecteurs MP3 et lecteurs CD suscitent un regain d’intérêt. Nostalgie, besoin de ralentir, envie de posséder sa musique : leurs adeptes cherchent surtout…",
-          "published": "2026-09-13T15:00:19+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : à la Fête de la rose, François Hollande prône « l’union sacrée des démocrates » au-delà des partis",
-          "link": "https://www.lefigaro.fr/politique/presidentielle-2027-a-la-fete-de-la-rose-francois-hollande-prone-l-union-sacree-des-democrates-au-dela-des-partis-20260913",
-          "source": "Le Figaro",
-          "summary": "REPORTAGE - L’ancien président a renoué ce samedi avec cette vieille tradition socialiste de Frangy-en-Bresse (Saône-et-Loire), laissant toujours planer le doute sur ses ambitions élyséennes.",
-          "published": "2026-09-13T14:54:03+00:00"
+          "summary": "Le film dévoile à travers les témoignages de membres des renseignements israéliens les outils technologiques utilisés par l’armée israélienne pour éliminer de façon calculée et systématique des civils palestiniens dans…",
+          "published": "2026-09-13T19:44:29+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "iPhone 18 Pro : un démarrage lent, quatre explications possibles",
-          "link": "https://www.frandroid.com/marques/apple/3245867_iphone-18-pro-un-demarrage-lent-quatre-explications-possibles",
-          "source": "Frandroid",
-          "summary": "Une heure après l'ouverture des précommandes ce samedi 12 septembre, aucune configuration de l'iPhone 18 Pro n'affichait de délai aux États-Unis, et seuls quelques Pro Max glissaient vers octobre. Un démarrage…",
-          "published": "2026-09-13T15:38:34+00:00"
-        },
-        {
-          "title": "Ce chargeur à induction 2-en-1 est à moitié prix sur à Amazon pendant les French Days",
-          "link": "https://www.frandroid.com/bons-plans/3245039_ce-chargeur-a-induction-2-en-1-est-a-moitie-prix-sur-a-amazon-pendant-les-french-days",
-          "source": "Frandroid",
-          "summary": "Avec son support inclinable, le BoostCharge de Belkin ne se contente pas d'être un simple chargeur à induction puisqu'il peut se transformer en support pour regarder des vidéos. Sur Amazon, il devient très attractif…",
-          "published": "2026-09-13T15:27:00+00:00"
-        },
-        {
-          "title": "Les États-Unis vont libérer plus de 1 000 MHz pour booster l’Internet par satellite",
-          "link": "https://www.clubic.com/actualite-629443-les-etats-unis-vont-liberer-plus-de-1-000-mhz-pour-booster-l-internet-par-satellite.html",
-          "source": "Clubic",
-          "summary": "La Federal Communications Commission votera le 30 septembre prochain l'ouverture de plus de 1 000 mégahertz supplémentaires dans les bandes 12 et 42 gigahertz. Le régulateur américain prévoit d'en réserver l'usage au…",
-          "published": "2026-09-13T15:13:00+00:00"
-        },
-        {
-          "title": "Il y a 30 ans, Crash Bandicoot cassait tout sur PlayStation et devenait l’autre rival de Mario",
-          "link": "https://www.numerama.com/pop-culture/2330935-il-y-a-30-ans-crash-bandicoot-cassait-tout-sur-playstation-et-devenait-lautre-rival-de-mario.html",
+          "title": "On a joué à Diablo IV sur la Nintendo Switch 2 à la BlizzCon 2026",
+          "link": "https://www.numerama.com/pop-culture/2332245-on-a-joue-a-diablo-iv-sur-la-nintendo-switch-2-a-la-blizzcon-2026.html",
           "source": "Numerama",
-          "summary": "Si l'on associe 1996 à la sortie de la Nintendo 64, son titre de lancement absolument phénoménal s'est très vite trouvé un concurrent inattendu sur une console rivale que Nintendo n'avait pas vraiment anticipée comme…",
-          "published": "2026-09-13T14:28:00+00:00"
+          "summary": "À la BlizzCon 2026, Blizzard a laissé la presse jouer à Diablo IV sur Switch 2, uniquement en mode portable. Quarante minutes manette en main suffisent déjà à voir si un hack’n slash aussi gourmand tient vraiment dans…",
+          "published": "2026-09-13T19:47:34+00:00"
         },
         {
-          "title": "Vous oubliez toujours vos raccourcis clavier ? Voici l’antisèche qu’il vous faut sur Windows 11",
-          "link": "https://www.clubic.com/tutoriel-629191-vous-oubliez-toujours-vos-raccourcis-clavier-voici-l-antiseche-qu-il-vous-faut-sur-windows-11.html",
-          "source": "Clubic",
-          "summary": "Windows 11 regorge de raccourcis clavier très pratiques, à condition de s’en souvenir. Intégré aux PowerToys, Shortcut Guide se charge justement de vous les rappeler au moment opportun.",
-          "published": "2026-09-13T14:17:00+00:00"
-        },
-        {
-          "title": "Elle ressemble à une Porsche, coûte 27 000 € et tourne sous Huawei : on a conduit l’Aistaland GT7 électrique en Chine",
-          "link": "https://www.frandroid.com/marques/huawei/3219313_elle-ressemble-a-une-porsche-coute-27-000-e-et-tourne-sous-huawei-on-a-conduit-laistaland-gt7-electrique-en-chine",
-          "source": "Frandroid",
-          "summary": "Aistaland n’est pas une marque sortie de nulle part, d’abord dévoilée sous le nom Qijing, cette nouvelle griffe est née du rapprochement entre la Guangzhou Automobile Company et Huawei. Un nouveau joueur qui est donc…",
-          "published": "2026-09-13T14:01:00+00:00"
-        },
-        {
-          "title": "Panne du Crédit Agricole : vous n’êtes pas les seuls à avoir des bugs avec l’app de la banque ce dimanche",
-          "link": "https://www.numerama.com/tech/2332163-panne-du-credit-agricole-vous-netes-pas-les-seuls-a-avoir-des-bugs-avec-lapp-de-la-banque-ce-dimanche.html",
+          "title": "Diablo V prévu pour 2029 : trois classes, monde procédural, Sanctuaire conquis – le point complet sur l’annonce BlizzCon 2026",
+          "link": "https://www.numerama.com/pop-culture/2332069-diablo-v-prevu-pour-2029-trois-classes-monde-procedural-sanctuaire-conquis-le-point-complet-sur-lannonce-blizzcon-2026.html",
           "source": "Numerama",
-          "summary": "Une panne semble affecter le Crédit Agricole ce dimanche 13 septembre 2026. Les internautes sont nombreux à indiquer qu'ils et elles n'accèdent plus aux services de la banque.",
-          "published": "2026-09-13T13:35:44+00:00"
+          "summary": "Blizzard a officialisé Diablo V à la BlizzCon 2026, pour une sortie prévue au printemps 2029. Grande nouveauté pour la saga, le jeu s'ouvre cette fois après la défaite des héros, dans un Sanctuaire déjà tombé aux mains…",
+          "published": "2026-09-13T18:27:25+00:00"
         },
         {
-          "title": "Le camion électrique de Tesla arrive enfin en Europe : 550 km d’autonomie et une recharge ultra-rapide",
-          "link": "https://www.frandroid.com/marques/3245839_le-camion-electrique-de-tesla-arrive-enfin-en-europe-550-km-dautonomie-et-une-recharge-ultra-rapide",
+          "title": "Test de la Paperslate Pro : une tablette E-Ink prometteuse mais freinée par ses propres lenteurs",
+          "link": "https://www.frandroid.com/test/3170433_test-de-la-paperslate-pro-une-tablette-e-ink-prometteuse-mais-freinee-par-ses-propres-lenteurs",
           "source": "Frandroid",
-          "summary": "Après plusieurs années d’attente, le Tesla Semi se prépare enfin à traverser l’Atlantique. Le constructeur vient de dévoiler les premières caractéristiques de la version européenne de son camion électrique, capable de…",
-          "published": "2026-09-13T13:31:02+00:00"
+          "summary": "La Paperslate Pro est un bloc-notes numérique à encre électronique, pensé pour remplacer le bon vieux carnet papier, sans les distractions d'une tablette classique. Nous l'avons mise à l'épreuve : que vaut cette…",
+          "published": "2026-09-13T18:00:00+00:00"
         },
         {
-          "title": "La fête continue avec cette enceinte Party Storm de 300 W en promo pour les French Days",
-          "link": "https://www.frandroid.com/bons-plans/3244509_la-fete-continue-avec-cette-enceinte-party-storm-de-300-w-en-promo-pour-les-french-days",
+          "title": "Revolut confirme avoir transmis passeports, selfies et historiques bitcoin de clients à des escrocs usurpant une agence gouvernementale",
+          "link": "https://www.frandroid.com/services/banque-en-ligne/3245871_revolut-confirme-avoir-transmis-passeports-selfies-et-historiques-bitcoin-de-clients-a-des-escrocs-usurpant-une-agence-gouvernementale",
           "source": "Frandroid",
-          "summary": "La Hisense Party Storm est une enceinte Bluetooth faite pour faire la fête et rivaliser avec la JBL PartyBox qui se retrouve à 164 euros au lieu de 175 euros sur Cdiscount.",
-          "published": "2026-09-13T13:26:00+00:00"
+          "summary": "Revolut a remis passeports, selfies et historiques de transactions de certains clients à un inconnu qui écrivait depuis une vraie adresse gouvernementale.",
+          "published": "2026-09-13T17:56:45+00:00"
         },
         {
-          "title": "OpenAI ne fera finalement pas son entrée en Bourse en 2026, Sam Altman explique pourquoi",
-          "link": "https://www.clubic.com/actualite-629440-openai-ne-fera-finalement-pas-son-entree-en-bourse-en-2026-sam-altman-explique-pourquoi.html",
-          "source": "Clubic",
-          "summary": "Sam Altman exclut toute entrée en Bourse d'OpenAI avant 2027. Il invoque des risques de sécurité liés à l'intelligence artificielle. De leur côté, chercheurs et élus américains réclament un ralentissement du secteur.",
-          "published": "2026-09-13T13:14:00+00:00"
-        },
-        {
-          "title": "Le jour où la Nasa a volontairement fait s’écraser une fusée sur la Lune (bien avant SpaceX)",
-          "link": "https://www.numerama.com/sciences/2330395-le-jour-ou-la-nasa-a-volontairement-fait-secraser-une-fusee-sur-la-lune-bien-avant-spacex.html",
+          "title": "Nains à fusil, Bilbon gothique, à quoi aurait ressemblé le Hobbit annulé de Del Toro ?",
+          "link": "https://www.numerama.com/pop-culture/2330683-nains-a-fusil-bilbon-gothique-a-quoi-aurait-ressemble-le-hobbit-annule-de-del-toro.html",
           "source": "Numerama",
-          "summary": "Bien avant le crash d'un étage de Falcon 9 sur la Lune, une fusée de la Nasa s'était volontairement écrasée à la surface de notre satellite. Une opération destinée à faire avancer la science, malgré les apparences.",
-          "published": "2026-09-13T12:50:00+00:00"
+          "summary": "Avant que Warner Bros. ne transforme l'adaptation de Tolkien Le Hobbit en une trilogie numérique étirée jusqu'à la nausée, le réalisateur mexicain Guillermo del Toro tenait les rênes du projet. Un détournement féerique,…",
+          "published": "2026-09-13T17:55:00+00:00"
         },
         {
-          "title": "Marre de payer plusieurs abonnements IA ? 1min.AI passe à environ 21,50€ une fois, à vie !",
-          "link": "https://www.clubic.com/bons-plans-628843-marre-de-payer-plusieurs-abonnements-ia-1min-ai-passe-a-environ-21-50-une-fois-a-vie.html",
+          "title": "Tesla veut remplacer les voitures de prêt par ses robotaxis",
+          "link": "https://www.clubic.com/actualite-629452-tesla-veut-remplacer-les-voitures-de-pret-par-ses-robotaxis.html",
           "source": "Clubic",
-          "summary": "StackSocial propose la licence à vie 1min.AI Pro à 24,97 $, soit environ 21,50 € au taux consulté le 8 septembre 2026. L’offre vise ceux qui veulent centraliser plusieurs outils d’IA, avec un fonctionnement par crédits…",
-          "published": "2026-09-13T12:26:00+00:00"
+          "summary": "Tesla envisage de remplacer la voiture de prêt par un trajet en Robotaxi lors des passages en atelier. Cette option a été repérée dans le code de son application et serait limitée aux métropoles américaines où le…",
+          "published": "2026-09-13T17:15:00+00:00"
+        },
+        {
+          "title": "Ce nouveau puissant robot-aspirateur de Roborock avec lavage à 100 °C perd 500 € lors des French Days",
+          "link": "https://www.frandroid.com/bons-plans/3244843_ce-nouveau-puissant-robot-aspirateur-de-roborock-avec-lavage-a-100-c-perd-500-e-lors-des-french-days",
+          "source": "Frandroid",
+          "summary": "Le Roborock Saros 20 Neo est un aspirateur-robot complet avec 36 000 Pa d'aspiration, deux serpillières pour le lavage des sols et une station d'entretien. En ce moment, il est disponible pour moins de 800 euros.",
+          "published": "2026-09-13T17:04:00+00:00"
+        },
+        {
+          "title": "Quelle imprimante 3D choisir pour débuter ? Notre sélection en 2026",
+          "link": "https://www.frandroid.com/guide-dachat/2385364_quelle-imprimante-3d-choisir-pour-debuter-notre-selection",
+          "source": "Frandroid",
+          "summary": "L'impression 3D a longtemps été réservée aux passionnés et aux débrouillards. Le marché a pris le temps de mûrir, pour enfin offrir des produits accessibles au plus grand nombre. Voici notre sélection des meilleures…",
+          "published": "2026-09-13T17:00:12+00:00"
+        },
+        {
+          "title": "Le raisonnement des IA échappe à OpenAI, Hugging Face nargue les pirates, Claude Mythos peine à convaincre : on vous raconte la semaine Cyberguerre",
+          "link": "https://www.numerama.com/cyberguerre/2331613-le-raisonnement-des-ia-echappe-a-openai-hugging-face-nargue-les-pirates-claude-mythos-peine-a-convaincre-on-vous-raconte-la-semaine-cyberguerre.html",
+          "source": "Numerama",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : le chef scientifique d'OpenAI qui alerte sur l'érosion de notre capacité à surveiller le raisonnement des IA, Hugging Face qui s'adresse directement aux…",
+          "published": "2026-09-13T17:00:00+00:00"
+        },
+        {
+          "title": "Steam Frame : un kit d’accessoires à 60 $ révélé lors d’un early unboxing ainsi qu'une version autonome de Half-Life: Alyx",
+          "link": "https://www.clubic.com/actualite-629449-steam-frame-un-kit-d-accessoires-a-60-revele-lors-d-un-early-unboxing-ainsi-qu-une-version-autonome-de-half-life-alyx.html",
+          "source": "Clubic",
+          "summary": "Le casque de réalité virtuelle conçu par Valve ne semble plus qu'à quelques jours de son lancement. Au pire, quelques semaines.",
+          "published": "2026-09-13T16:16:00+00:00"
+        },
+        {
+          "title": "Google Pixel 11 Pro vs iPhone 17 Pro : comment choisir le meilleur smartphone premium ?",
+          "link": "https://www.frandroid.com/versus/3226317_google-pixel-11-pro-vs-iphone-17-pro-comment-choisir-le-meilleur-smartphone-premium",
+          "source": "Frandroid",
+          "summary": "Tous les ans, Google lance ses nouveaux Pixel juste avant le lever de rideau sur les nouveaux iPhone. Dans l'attente de les découvrir, comparons le récent Pixel 11 Pro avec l'iPhone 17 Pro. Comment s'en sort-il, malgré…",
+          "published": "2026-09-13T16:00:00+00:00"
+        },
+        {
+          "title": "Chère Union Européenne, je voudrais profiter à 100 % d’un produit que je paye 100 % de son prix : comment peut-on avancer ? Cordialement",
+          "link": "https://www.numerama.com/tech/2331549-chere-union-europeenne-je-voudrais-profiter-a-100-dun-produit-que-je-paye-100-de-son-prix-comment-peut-on-avancer-cordialement.html",
+          "source": "Numerama",
+          "summary": "Le soir du keynote Apple, pendant que John Ternus (bye Tim, c’était chouette) dépliait le premier iPhone pliant de l'histoire d'Apple sur la scène du Steve Jobs Theater, j'ai regardé mon iPhone 17 Pro fixement et je me…",
+          "published": "2026-09-13T15:47:58+00:00"
         }
       ]
     }
