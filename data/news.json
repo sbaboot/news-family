@@ -1,15 +1,43 @@
 {
-  "generated_at": "2026-09-13T20:21:42.658128+00:00",
+  "generated_at": "2026-09-13T22:53:20.096041+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Détroit d’Ormuz : une réunion prévue lundi entre l’Iran et les pays du Golfe reportée, Donald Trump dit qu’il « s’en fiche »",
+          "link": "https://www.lemonde.fr/international/article/2026/09/14/detroit-d-ormuz-une-reunion-prevue-lundi-entre-l-iran-et-les-pays-du-golfe-reportee-donald-trump-dit-qu-il-s-en-fiche_6773050_3210.html",
+          "source": "Le Monde",
+          "summary": "L’Iran avait annoncé cette réunion et déclaré que des pays du Golfe, sans préciser lesquels, et l’Irak y participeraient. Le détroit est au cœur du conflit entre Washington et Téhéran qui verrouille depuis des mois…",
+          "published": "2026-09-13T22:38:09+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : les forces russes ont lancé plus de 300 drones d’attaque sur l’Ukraine, dimanche",
+          "link": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-les-forces-russes-ont-lance-plus-de-300-drones-d-attaque-sur-l-ukraine-dimanche_6772184_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon l’armée ukrainienne, 310 drones ont été abattus sur les 323 utilisés par la Russie dans la journée. Le premier ministre polonais, Donald Tusk, a convoqué une réunion spéciale après qu’une locomotive d’un train de…",
+          "published": "2026-09-13T21:49:31+00:00"
+        },
+        {
+          "title": "Santé mentale en Afrique : comment briser le tabou du suicide ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260913-sant%C3%A9-mentale-en-afrique-comment-briser-le-tabou-du-suicide",
+          "source": "France 24",
+          "summary": "Près de 150 millions de personnes vivent avec des troubles de santé mentale en Afrique. Pourtant, l’accès aux soins reste très insuffisant et le suicide demeure entouré de tabous. Pourquoi le continent est-il…",
+          "published": "2026-09-13T20:30:41+00:00"
+        },
         {
           "title": "Au Yémen, les Houthis font état d'une cinquantaine de frappes saoudiennes",
           "link": "https://www.france24.com/fr/moyen-orient/20260913-yemen-houthis-font-etat-cinquantaine-de-frappes-saoudiennes-arabie-saoudite",
           "source": "France 24",
           "summary": "Les Houthis ont rapporté dimanche d'une cinquantaine de frappes saoudiennes au Yémen, notamment sur leur fief dans le nord du pays, quelques heures après avoir revendiqué une attaque contre une base militaire en Arabie…",
           "published": "2026-09-13T20:17:22+00:00"
+        },
+        {
+          "title": "Mondial de basket : les Bleues s'inclinent en finale face aux invincibles Américaines",
+          "link": "https://www.france24.com/fr/sports/20260913-mondial-de-basket-les-bleues-s-inclinent-en-finale-face-aux-invincibles-am%C3%A9ricaines",
+          "source": "France 24",
+          "summary": "Les basketteuses françaises se sont lourdement inclinées 97 à 79 dimanche soir en finale de la Coupe du monde à Berlin contre les États-Unis, invaincues depuis 20 ans en compétition majeure (Jeux olympiques et Mondial)…",
+          "published": "2026-09-13T20:13:15+00:00"
         },
         {
           "title": "Lukas Aubin : \" le virilisme d'Etat de Poutine s'est transformé en instrument géopolitique\"",
@@ -19,18 +47,11 @@
           "published": "2026-09-13T19:38:58+00:00"
         },
         {
-          "title": "Législatives en Suède : la gauche en tête, l'extrême droite en recul selon les sorties des urnes",
+          "title": "Législatives en Suède : la gauche et l'extrême droite au coude-à-coude, le dépouillement en cours",
           "link": "https://www.france24.com/fr/europe/20260913-legislatives-suede-gauche-en-tete-extreme-droite-en-recul-selon-sorties-urnes-elections",
           "source": "France 24",
-          "summary": "L'opposition de centre-gauche serait en tête des élections législatives en Suède avec 51,3 % des voix, selon des sondages de sortie des urnes. Près de huit millions d’électeurs étaient appelés à voter dimanche pour…",
+          "summary": "Alors que le dépouillement se poursuit dimanche soir après les législatives en Suède, la coalition de droite du Premier ministre Ulf Kristersson, soutenue par l'extrême droite, reste au coude-à-coude avec l'opposition…",
           "published": "2026-09-13T18:26:26+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : un train touché par un drone et des frappes russes près de la frontière avec la Pologne",
-          "link": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-touche-par-un-drone-et-des-frappes-russes-pres-de-la-frontiere-avec-la-pologne_6772184_3210.html",
-          "source": "Le Monde",
-          "summary": "Une locomotive d’un train de voyageurs reliant Kiev à Varsovie a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes. Le premier ministre polonais, Donald Tusk, a convoqué une…",
-          "published": "2026-09-13T17:18:25+00:00"
         },
         {
           "title": "Un train à destination de Varsovie a été frappé par un drone russe en Ukraine, qui dénonce une « attaque systémique » visant le rail",
@@ -52,27 +73,6 @@
           "source": "France 24",
           "summary": "Raphaël Millière, Maître de conférences à l'université d'Oxford au Royaume-Uni, est notre invité.",
           "published": "2026-09-13T14:34:21+00:00"
-        },
-        {
-          "title": "En Turquie, une opération policière sans précédent contre la communauté LGBT+",
-          "link": "https://www.lemonde.fr/international/article/2026/09/13/en-turquie-une-operation-policiere-sans-precedent-contre-la-communaute-lgbt_6772767_3210.html",
-          "source": "Le Monde",
-          "summary": "Depuis 2015, la parole publique prend pour cible les communautés LGBT+, interdisant de plus en plus fermement les marches des fiertés, bannissant le drapeau arc-en-ciel et poursuivant des associations. Mais dimanche 13…",
-          "published": "2026-09-13T14:12:54+00:00"
-        },
-        {
-          "title": "Le contrôle des houthistes sur le détroit de Bab Al-Mandab fait planer une nouvelle menace sur l’économie mondiale",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/13/le-controle-des-houthistes-sur-le-detroit-de-bab-al-mandab-fait-planer-une-nouvelle-menace-sur-l-economie-mondiale_6772733_3234.html",
-          "source": "Le Monde",
-          "summary": "La mainmise des rebelles alliés à l’Iran sur le bras de mer situé entre l’Afrique et la péninsule Arabique, point de passage obligé sur la voie maritime la plus courte reliant l’Asie à l’Europe, fait redouter une hausse…",
-          "published": "2026-09-13T13:56:51+00:00"
-        },
-        {
-          "title": "Ukraine : des frappes russes près de la frontière polonaise, Varsovie dénonce une \"escalade\"",
-          "link": "https://www.france24.com/fr/europe/20260913-ukraine-chemins-fer-vis%C3%A9s-attaque-syst%C3%A9mique-train-varsovie-pologne-drone",
-          "source": "France 24",
-          "summary": "La compagnie ukrainienne de chemins de fer a averti dimanche qu'une \"attaque systémique\" était \"en cours\" contre le rail à travers l'Ukraine, signalant une frappe de drone russe à proximité de la frontière polonaise sur…",
-          "published": "2026-09-13T13:30:59+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Mark Carney fait appel à Stephen Harper pour séduire les grands investisseurs à Toronto",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-09-13/mark-carney-fait-appel-a-stephen-harper-pour-seduire-les-grands-investisseurs-a-toronto.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Internationaux des États-Unis  | Alexander Zverev triomphe à New York",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-09-13/internationaux-des-etats-unis/alexander-zverev-triomphe-a-new-york.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "C’est l’année de tous les possibles pour Alexander Zverev. Avant d’entamer la saison 2026, Zverev n’avait aucun titre majeur à sa fiche. Avec un gain en finale des Internationaux des États-Unis, il en ajoute un deuxième…",
+          "published": "2026-09-13T21:57:31+00:00"
+        },
+        {
+          "title": "Évènement « Mouille tes pattes ! » | Les pitous se jettent à l’eau",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-13/evenement-mouille-tes-pattes/les-pitous-se-jettent-a-l-eau.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le temps d’une journée, la piscine et la pataugeoire du parc Sir-Wilfrid-Laurier se sont transformées en un vaste parc à chiens, pour le plus grand bonheur des pitous du quartier et de leurs maîtres.",
+          "published": "2026-09-13T21:15:49+00:00"
+        },
+        {
+          "title": "L’attaquant Zachary Bolduc accepte un contrat de quatre ans avec le Canadien",
+          "link": "https://www.ledevoir.com/sports/1008623/attaquant-zachary-bolduc-accepte-contrat-quatre-ans-canadien",
+          "source": "Le Devoir",
+          "summary": "Bolduc, 23 ans, était joueur autonome avec compensation depuis le 1er juillet.",
+          "published": "2026-09-13T20:51:37+00:00"
+        },
+        {
+          "title": "Le Grand Prix cycliste donne le ton pour deux semaines de vélo à Montréal",
+          "link": "https://www.ledevoir.com/sports/1008620/grand-prix-cycliste-donne-ton-deux-semaines-velo-montreal",
+          "source": "Le Devoir",
+          "summary": "Le Mexicain Del Toro a traversé la ligne d’arrivée sur l’avenue du Parc devant une foule moins grande que par le passé.",
+          "published": "2026-09-13T20:48:00+00:00"
+        },
+        {
+          "title": "Sommet canadien de l’investissement | Carney fait appel à Harper pour séduire les grands investisseurs",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-09-13/sommet-canadien-de-l-investissement/carney-fait-appel-a-harper-pour-seduire-les-grands-investisseurs.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "L’ancien premier ministre Stephen Harper prononcera le discours de clôture au Sommet canadien de l’investissement de deux jours qui se mettra en branle lundi à Toronto.",
           "published": "2026-09-13T20:15:35+00:00"
         },
         {
-          "title": "Patients coincés à l’hôpital, faute d’hébergement | Une nouvelle unité pour affronter la crise à Notre-Dame",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-09-13/patients-coinces-a-l-hopital-faute-d-hebergement/une-nouvelle-unite-pour-affronter-la-crise-a-notre-dame.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Patients coincés à l’hôpital | Une nouvelle unité pour affronter la crise à Notre-Dame",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-09-13/patients-coinces-a-l-hopital/une-nouvelle-unite-pour-affronter-la-crise-a-notre-dame.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "L’hôpital Notre-Dame à Montréal met en place une mesure exceptionnelle pour faire face à une crise : elle ouvre une nouvelle unité de 20 lits destinée aux patients atteints de problèmes de santé mentale et qui demeurent…",
           "published": "2026-09-13T20:00:00+00:00"
         },
         {
-          "title": "«Un privilège» à l’approche des Championnats du monde",
-          "link": "https://www.journaldemontreal.com/2026/09/13/un-privilege-a-lapproche-des-championnats-du-monde",
-          "source": "Journal de Montreal",
-          "summary": "Joseph Limare, à titre de directeur général, se tourne vers les prochains Mondiaux de cyclisme sur route prévus du 20 au 27 septembre à Montréal.",
-          "published": "2026-09-13T19:16:28+00:00"
-        },
-        {
-          "title": "« La nation québécoise n’a pas à demander la permission à personne » : Christine Fréchette défend sa 3e voie autonomiste",
-          "link": "https://www.journaldemontreal.com/2026/09/13/la-nation-quebecoise-na-pas-a-demander-la-permission-a-personne---christine-frechette-defend-sa-3e-voie-de-lautonomisme",
-          "source": "Journal de Montreal",
-          "summary": "La cheffe caquiste a défendu sa 3e voie politique lors d’un rassemblement partisan dans la Centre-du-Québec.",
-          "published": "2026-09-13T19:05:05+00:00"
-        },
-        {
-          "title": "«No shows» en santé: 153 000 rendez-vous médicaux manqués en un an au Québec",
-          "link": "https://www.journaldemontreal.com/2026/09/13/no-shows-en-sante-153-000-rendez-vous-medicaux-manques-en-un-an-au-quebec",
-          "source": "Journal de Montreal",
-          "summary": "Le phénomène des «no shows» prive chaque année des dizaines de milliers de Québécois d’un accès potentiel à un médecin de famille.",
-          "published": "2026-09-13T18:58:17+00:00"
-        },
-        {
-          "title": "Le PQ présentera son cadre financier sans le chef",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-13/le-pq-presentera-son-cadre-financier-sans-le-chef.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le Canadien | Contrat de quatre ans pour Zachary Bolduc",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-09-13/le-canadien/contrat-de-quatre-ans-pour-zachary-bolduc.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Situation hautement inhabituelle : Paul St-Pierre Plamondon confie à son équipe économique la présentation de son cadre financier, une étape pourtant importante en campagne électorale. Le chef péquiste sera absent en…",
-          "published": "2026-09-13T18:40:35+00:00"
+          "summary": "Le dossier Zachary Bolduc est finalement réglé. L’attaquant s’est entendu avec le Canadien pour un contrat de quatre ans, d’une valeur annuelle moyenne de 4,2 millions de dollars.",
+          "published": "2026-09-13T17:41:35+00:00"
         },
         {
-          "title": "Zachary Bolduc s'entend avec le Canadien, Arber Xhekaj attend son tour",
-          "link": "https://www.journaldemontreal.com/2026/09/13/bolduc-sentend-avec-le-canadien",
-          "source": "Journal de Montreal",
-          "summary": "L'attaquant québécois a finalement paraphé un contrat de quatre ans",
-          "published": "2026-09-13T18:36:39+00:00"
-        },
-        {
-          "title": "Des bébés et la Coupe du monde: voici comment s'est passé l'été des joueurs du Canadien",
-          "link": "https://www.journaldemontreal.com/2026/09/13/des-bebes-et-la-coupe-du-monde-voici-comment-sest-passe-lete-des-joueurs-du-canadien",
-          "source": "Journal de Montreal",
-          "summary": "Les derniers mois ont été chargés pour certains d’entre eux, avant une saison qui le sera sans doute encore davantage.",
-          "published": "2026-09-13T18:34:51+00:00"
-        },
-        {
-          "title": "Des propriétaires forcés d’expulser des locataires après une manigance impliquant un fonctionnaire et l'ancien proprio",
-          "link": "https://www.journaldemontreal.com/2026/09/25/des-proprietaires-forces-dexpulser-des-locataires-pour-une--rigidite-administrative--apres-une-erreur-de-la-ville",
-          "source": "Journal de Montreal",
-          "summary": "Deux nouveaux propriétaires montréalais sont forcés de mettre six locataires à la rue, en raison d’un manque de flexibilité de l'arrondissement.",
-          "published": "2026-09-13T17:41:22+00:00"
-        },
-        {
-          "title": "Les taxis à l’aéroport de Montréal seront  à l’arrêt dimanche pour protester contre Taxelco",
+          "title": "Les taxis à l’aéroport de Montréal seront à l’arrêt dimanche pour protester contre Taxelco",
           "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1008614/taxis-aeroport-montreal-trudeau-seront-encore-arret-dimanche-soiree",
           "source": "Le Devoir",
           "summary": "Des chauffeurs refuseront de prendre des passagers entre 14h et 20h pour manifester contre des décisions de Taxelco.",
           "published": "2026-09-13T17:40:00+00:00"
+        },
+        {
+          "title": "En Irlande, Trump s’écarte un instant du golf pour critiquer Zelensky",
+          "link": "https://www.ledevoir.com/monde/1008611/irlande-trump-ecarte-instant-golf-critiquer-zelensky",
+          "source": "Le Devoir",
+          "summary": "Il accuse le président ukrainien de faire grimper le prix du diesel avec ses attaques contre l’envahisseur russe.",
+          "published": "2026-09-13T17:00:00+00:00"
+        },
+        {
+          "title": "Le gouvernement Trump réticent à freiner l’IA, les démocrates y voient une urgence",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1008608/gouvernement-trump-reticent-freiner-ia-democrates-y-voient-urgence",
+          "source": "Le Devoir",
+          "summary": "Le ralentissement du développement de l’IA est l’un des sujets phares de la campagne des législatives de mi-mandat.",
+          "published": "2026-09-13T16:20:00+00:00"
         }
       ]
     },
@@ -159,46 +159,46 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Brest-PSG : sauvés par le poteau et Safonov, les Parisiens peinent à garder leur avantage",
-          "link": "https://www.lefigaro.fr/sports/football/live/ligue-1/2026/2640587/brest-paris-sg",
+          "title": "US Open : plus costaud que Shelton, Zverev s’offre un deuxième sacre en Grand Chelem en 2026",
+          "link": "https://www.lefigaro.fr/sports/tennis/us-open/us-open-plus-costaud-que-shelton-zverev-s-offre-un-deuxieme-sacre-en-majeur-en-2026-20260913",
           "source": "Le Figaro",
-          "summary": "Après trois journées sans victoire, le Paris Saint-Germain n’a plus vraiment le choix face au Stade Brestois, qui souhaite rendre le meilleur hommage possible à son ancien entraîneur Éric Roy ce dimanche.",
-          "published": "2026-09-13T20:20:03+00:00"
+          "summary": "Six ans après sa finale perdue à New York, l’Allemand a glané son premier sacre à Flushing Meadows en dominant logiquement Ben Shelton (6-3, 7-6 (7/2), 5-7, 6-2).",
+          "published": "2026-09-13T22:15:29+00:00"
         },
         {
-          "title": "EN DIRECT – Toulouse-UBB : injouables, les Toulousains balayent les Girondins dans le choc des champions",
-          "link": "https://www.lefigaro.fr/sports/rugby/live/top-14/2027/952483/toulouse-bordeaux-begles",
+          "title": "Présidentielle 2027 : le gouvernement ne proposera pas de «gel» du barème de l’impôt sur le revenu",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-je-ne-suis-pas-un-homme-presse-pour-l-election-presidentielle-edouard-philippe-defend-la-tortue-et-moque-les-lievres-20260912",
           "source": "Le Figaro",
-          "summary": "Renversé à La Rochelle le week-end passé, le champion de France doit réagir face au champion d’Europe, ce dimanche, à Ernest-Wallon.",
-          "published": "2026-09-13T20:17:02+00:00"
+          "summary": "Invitée de l’émission politique «Le Grand Oral», dimanche sur BFMTV, en partenariat avec Le Figaro, la porte-parole du gouvernement, Maud Bregeon, a rappelé que l’exécutif reste néanmoins à la recherche de 30 milliards…",
+          "published": "2026-09-13T22:05:47+00:00"
         },
         {
-          "title": "Basket : pas d’exploit pour les Bleues, largement battues en finale du Mondial par les Américaines, deux ans après les JO de Paris",
-          "link": "https://www.lefigaro.fr/sports/basket/basket-pas-d-exploit-pour-les-bleues-largement-battues-en-finale-du-mondial-par-les-americaines-deux-ans-apres-la-finale-des-jo-de-paris-20260913",
+          "title": "Brest-PSG : sans-faute de Safonov, les Brestois à la hauteur de l’hommage à Eric Roy, Nuno Mendes méconnaissable... Les tops et flops",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/brest-psg-le-sans-faute-de-safonov-les-brestois-a-la-hauteur-de-l-hommage-a-eric-roy-nuno-mendes-meconnaissable-les-tops-et-flops-20260913",
           "source": "Le Figaro",
-          "summary": "En tête à la pause, l’équipe de France féminine de basket a craqué dans les deux derniers quart-temps face aux Américaines (97-79). L’écart est plus conséquent qu’il y a deux ans.",
-          "published": "2026-09-13T20:13:31+00:00"
+          "summary": "Le PSG a décroché sa première victoire de la saison en Ligue 1 sur la pelouse de Brest (0-1). Retrouvez les tops et les flops de cette rencontre.",
+          "published": "2026-09-13T21:59:54+00:00"
         },
         {
-          "title": "États-Unis-France : les Américaines ont imposé leur loi aux Bleues en finale du Mondial… Revivez le match",
-          "link": "https://www.lefigaro.fr/sports/basket/en-direct-etats-unis-france-deux-ans-apres-les-jo-de-paris-les-bleues-retrouvent-les-americaines-dans-une-finale-mondiale-20260913",
+          "title": "France-États-Unis : bousculées, les Américaines sont restées « calmes» et «confiantes», selon Caitlin Clark",
+          "link": "https://www.lefigaro.fr/flash-actu/france-etats-unis-bousculees-les-americaines-sont-restees-calmes-et-confiantes-selon-caitlin-clark-20260913",
           "source": "Le Figaro",
-          "summary": "Ce dimanche à Berlin, l’équipe de France féminine de basket dispute une finale historique de Coupe du monde. Gabby Williams et ses partenaires peuvent entrer dans la légende du sport tricolore.",
-          "published": "2026-09-13T20:04:37+00:00"
+          "summary": "Dominée dans la première moitié de rencontre, Caitlin Clark estime que son équipe a su comment réagir pour aller chercher ce cinquième titre consécutif de championnes du monde.",
+          "published": "2026-09-13T21:55:39+00:00"
         },
         {
-          "title": "Top 14 : en vidéo, les deux essais du départ canon du Stade Toulousain dans le choc face à l’UBB",
-          "link": "https://www.lefigaro.fr/sports/rugby/top-14/top-14-en-video-les-deux-essais-du-depart-canon-du-stade-toulousain-dans-le-choc-face-a-l-ubb-20260913",
-          "source": "Le Figaro",
-          "summary": "L’affiche de ce dimanche met aux prises Toulouse, quadruple champion de France, à Bordeaux-Bègles, double champion d’Europe en titre.",
-          "published": "2026-09-13T20:03:33+00:00"
+          "title": "Suspense maximal pour les législatives en Suède : la coalition de gauche en tête d'un cheveu, alors que le dépouillement n'est pas terminé",
+          "link": "https://www.franceinfo.fr/monde/europe/la-gauche-en-tete-des-legislatives-en-suede-et-l-extreme-droite-perd-du-terrain-pour-la-premiere-fois-depuis-2010-selon-des-sondages-sortie-des-urnes_8191127.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Ces élections législatives sont très disputées, marquées selon les sondages de sortie des urnes par un recul de l'extrême droite, tandis que la gauche fait la course en tête dimanche soir.",
+          "published": "2026-09-13T21:04:18+00:00"
         },
         {
-          "title": "Enquête à Bruxelles après une croix gammée sur une mosquée",
-          "link": "https://www.lefigaro.fr/international/enquete-a-bruxelles-apres-une-croix-gammee-sur-une-mosquee-20260913",
+          "title": "Législatives en Suède : la gauche au coude à coude avec l’extrême droite en recul",
+          "link": "https://www.lefigaro.fr/international/legislatives-en-suede-la-gauche-serait-en-tete-face-a-l-extreme-droite-en-recul-20260913",
           "source": "Le Figaro",
-          "summary": "Le tag a été découvert dans la nuit de samedi à dimanche sur la façade de la mosquée El Mouahidine, à Laeken, un quartier de Bruxelles.",
-          "published": "2026-09-13T20:03:22+00:00"
+          "summary": "Selon la télévision publique SVT, les partis de gauche sont crédités de 49,4% des suffrages contre 49,1% pour l’alliance entre la droite et l’extrême droite, au pouvoir depuis 2022. Soit un écart bien plus serré que ce…",
+          "published": "2026-09-13T21:03:03+00:00"
         },
         {
           "title": "Coupe du monde du basket : malgré un départ canon, les Bleues calent face aux reines américaines",
@@ -222,11 +222,11 @@
           "published": "2026-09-13T19:51:17+00:00"
         },
         {
-          "title": "Le ministre israélien de la Culture veut déchoir de leur nationalité les réalisateurs du documentaire «NAZA» primé à Venise",
-          "link": "https://www.lefigaro.fr/international/le-ministre-israelien-de-la-culture-veut-dechoir-de-leur-nationalite-les-realisateurs-du-documentaire-naza-prime-a-venise-20260913",
-          "source": "Le Figaro",
-          "summary": "Le film dévoile à travers les témoignages de membres des renseignements israéliens les outils technologiques utilisés par l’armée israélienne pour éliminer de façon calculée et systématique des civils palestiniens dans…",
-          "published": "2026-09-13T19:44:29+00:00"
+          "title": "Législatives en Suède : la gauche en tête, l’extrême droite recule",
+          "link": "https://www.liberation.fr/international/europe/legislatives-en-suede-la-gauche-en-tete-lextreme-droite-recule-20260913_24QHVOERW5CPNCJ5COLBBU5LGA/",
+          "source": "Liberation",
+          "summary": "Selon un sondage sortie des urnes ce dimanche à 20 heures, l’opposition de gauche remporterait les élections législatives organisées ce dimanche 13 septembre.",
+          "published": "2026-09-13T19:36:50+00:00"
         }
       ]
     },
