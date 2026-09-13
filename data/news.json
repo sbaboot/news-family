@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-09-12T22:50:34.789942+00:00",
+  "generated_at": "2026-09-13T03:18:20.110826+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "De la cocaïne dissimulée dans du quinoa : plongée dans le système « El Francés », puissant narcotrafiquant français installé en Colombie",
+          "link": "https://www.lemonde.fr/societe/article/2026/09/13/de-la-cocaine-dissimulee-dans-du-quinoa-plongee-dans-le-systeme-el-frances-puissant-narcotrafiquant-francais-installe-en-colombie_6772180_3224.html",
+          "source": "Le Monde",
+          "summary": "Soner Akca, 43 ans, est l’un des rares Français à être devenu un baron de la drogue au pays des cartels. Arrêté à Medellin, en Colombie, le 12 juin, le natif de Montfermeil, surnommé « El Francés », est soupçonné…",
+          "published": "2026-09-13T03:00:17+00:00"
+        },
+        {
+          "title": "« Quand vous êtes aussi malade, vous réfléchissez aux valeurs qui vous tiennent le plus à cœur » : en Suède, Birgitta Ohlsson reprend les armes contre l’extrême droite",
+          "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/13/quand-vous-etes-aussi-malade-vous-reflechissez-aux-valeurs-qui-vous-tiennent-le-plus-a-c-ur-en-suede-birgitta-ohlsson-reprend-les-armes-contre-l-extreme-droite_6772179_4500055.html",
+          "source": "Le Monde",
+          "summary": "L’ex-figure du parti libéral, qui avait quitté la politique, est candidate aux élections législatives suédoises du 13 septembre, mais pour le Parti du centre. A 51 ans, après avoir combattu deux cancers, cette féministe…",
+          "published": "2026-09-13T03:00:09+00:00"
+        },
+        {
+          "title": "Au Chili, près de 300 arrestations lors des commémorations pour les victimes de la dictature Pinochet",
+          "link": "https://www.lemonde.fr/international/article/2026/09/13/au-chili-pres-de-300-arrestations-lors-des-commemorations-pour-les-victimes-de-la-dictature-pinochet_6772177_3210.html",
+          "source": "Le Monde",
+          "summary": "En l’absence de cérémonie officielle, des milliers de personnes sont descendues dans la rue, vendredi 11 et samedi 12 septembre, pour condamner la dictature militaire qui avait fait plus de 3 200 victimes, mortes ou…",
+          "published": "2026-09-13T02:58:00+00:00"
+        },
+        {
+          "title": "La France se soumet à un acte de contrition discret pour lever le blocage américain contre son nouvel ambassadeur à Washington",
+          "link": "https://www.lemonde.fr/international/article/2026/09/13/la-france-se-soumet-a-un-acte-de-contrition-discret-pour-lever-le-blocage-americain-contre-son-nouvel-ambassadeur-a-washington_6772111_3210.html",
+          "source": "Le Monde",
+          "summary": "La nomination d’Aurélien Lechevallier, un proche d’Emmanuel Macron, était gelée en réponse à un message de la diplomatie française, le 25 juillet, critiquant la position américaine sur les droits de l’homme. Un…",
+          "published": "2026-09-13T02:10:54+00:00"
+        },
+        {
+          "title": "Les houthistes revendiquent une attaque sur une base saoudienne en réplique à des bombardements menés par Riyad au Yémen",
+          "link": "https://www.lemonde.fr/international/article/2026/09/13/les-houthistes-revendiquent-une-attaque-sur-une-base-saoudienne-en-replique-a-des-bombardements-menes-par-riyad-au-yemen_6772078_3210.html",
+          "source": "Le Monde",
+          "summary": "Les rebelles pro-iraniens multiplient les assauts et les contraintes contre l’Arabie saoudite. Dans la semaine, ils avaient déjà consolidé leur emprise sur le détroit stratégique de Bab Al-Mandab, fermant aux pétroliers…",
+          "published": "2026-09-13T02:01:14+00:00"
+        },
+        {
+          "title": "Sur la piste du rhinocéros et du gang des voleurs de cornes",
+          "link": "https://www.rfi.fr/fr/podcasts/si-loin-si-proche/20260913-sur-la-piste-du-rhinoc%C3%A9ros-et-du-gang-des-voleurs-de-cornes",
+          "source": "RFI",
+          "summary": "Dans son premier récit paru aux Éditions Marchialy, le journaliste Hugo Nazarenko Sas retrace avec brio l’histoire rocambolesque d’un vaste réseau de voleurs de cornes de rhinocéros, qui a sévi un temps en Europe et…",
+          "published": "2026-09-13T02:00:10+00:00"
+        },
+        {
+          "title": "\"On a retrouvé sa voix, sa classe\" : les fans de Céline Dion racontent son premier concert",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-on-a-retrouv%C3%A9-sa-voix-sa-classe-les-fans-de-c%C3%A9line-dion-racontent-son-premier-concert",
+          "source": "France 24",
+          "summary": "\"On ne change pas\", \"All by Myself\", \"Pour que tu m'aimes encore\"... Bouleversée par son retour sur scène après six ans d'absence, Céline Dion a enchaîné les tubes samedi soir pour le coup d'envoi de sa série de…",
+          "published": "2026-09-12T23:02:14+00:00"
+        },
         {
           "title": "Le patron d'Anthropic appelle à ralentir le développement de l'intelligence artificielle",
           "link": "https://www.rfi.fr/fr/monde/20260912-le-patron-d-anthropic-veut-ralentir-sur-l-ia-musk-et-altman-le-soutiennent",
@@ -12,67 +61,18 @@
           "published": "2026-09-12T22:10:15+00:00"
         },
         {
+          "title": "La flamme olympique des JOJ révélée aux Dakarois",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260912-la-flamme-olympique-des-joj-r%C3%A9v%C3%A9l%C3%A9e-aux-dakarois",
+          "source": "France 24",
+          "summary": "La flamme olympique, arrivée dans la nuit de jeudi à vendredi dans la capitale et gardée au secret depuis, a enfin été aperçue par les Dakarois. Le président Bassirou Diomaye Faye l’a reçu samedi matin avant une…",
+          "published": "2026-09-12T22:03:09+00:00"
+        },
+        {
           "title": "Céline Dion interprète \"My Heart Will Go On\" lors de son premier concert à Paris",
           "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-c%C3%A9line-dion-interpr%C3%A8te-my-heart-will-go-on-lors-de-son-premier-concert-%C3%A0-paris",
           "source": "France 24",
           "summary": "Céline Dion a entamé samedi soir, visiblement bouleversée, le premier de ses 26 concerts près de Paris, marquant son retour sur scène après plus de six ans d'absence. Elle a notamment interprété son titre \"My Heart Will…",
           "published": "2026-09-12T21:01:13+00:00"
-        },
-        {
-          "title": "Maroc : Abdelmalek Alaoui, la puissance peut-elle profiter à tous ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-maroc-abdelmalek-alaoui-la-puissance-peut-elle-profiter-%C3%A0-tous",
-          "source": "France 24",
-          "summary": "Le Maroc est-il devenu une puissance régionale ? Et surtout : cette puissance profite-t-elle à tous ? Dans \"Maroc, le défi de la puissance\" (Ed. Du cherche Midi), l’économiste, entrepreneur et essayiste Abdelmalek…",
-          "published": "2026-09-12T20:29:49+00:00"
-        },
-        {
-          "title": "Concert de Céline Dion : les meilleures anecdotes des fans",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-concert-de-c%C3%A9line-dion-les-meilleures-anecdotes-des-fans",
-          "source": "France 24",
-          "summary": "De la chansonnette sous la douche au duo improvisé avec la diva, les fans de Céline Dion rencontrés par France 24 devant la salle de concert à Paris avaient tous une anecdote à raconter sur une chanson de Céliiiiine ! 🎤✨",
-          "published": "2026-09-12T19:45:17+00:00"
-        },
-        {
-          "title": "Elisabeth Reynaud: \"Céline Dion a absolument tout conquis, le résultat d'un énorme travail\"",
-          "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260912-elisabeth-reynaud-c%C3%A9line-dion-a-absolument-tout-conquis-le-r%C3%A9sultat-d-un-%C3%A9norme-travail",
-          "source": "France 24",
-          "summary": "L'une des plus grandes stars internationales fait son grand retour sur la scène de la Plénitude Arena en région parisienne. Céline Dion donne ce samedi le premier d'une série de concerts exceptionnels après 6 ans…",
-          "published": "2026-09-12T19:42:05+00:00"
-        },
-        {
-          "title": "Céline Dion émue pour son retour sur scène à Paris après plus de six ans d'absence",
-          "link": "https://www.france24.com/fr/culture/20260912-c%C3%A9line-dion-%C3%A9mue-pour-son-retour-sur-sc%C3%A8ne-%C3%A0-paris-apr%C3%A8s-plus-de-six-ans-d-absence",
-          "source": "France 24",
-          "summary": "Devant 30 000 spectateurs réunis à la Plenitude Arena près de Paris, Céline Dion a lancé samedi soir le premier de ses 26 concerts, marquant son retour après plus de six ans loin de la scène. La chanteuse québécoise,…",
-          "published": "2026-09-12T19:13:47+00:00"
-        },
-        {
-          "title": "\"Interdisez l'AfD\" : des dizaines de milliers d'Allemands manifestent contre l'extrême droite",
-          "link": "https://www.france24.com/fr/europe/20260912-interdisez-l-afd-des-dizaines-de-milliers-d-allemands-manifestent-contre-l-extr%C3%AAme-droite",
-          "source": "France 24",
-          "summary": "Quelque 150 000 personnes ont manifesté samedi dans une vingtaine de villes allemandes, dont Berlin, Hambourg et Munich, pour protester contre l'AfD qui s'apprête à diriger la région de Saxe-Anhalt, dans l'est du pays.…",
-          "published": "2026-09-12T17:52:34+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : une rencontre Poutine - Zelensky au G20 à Miami ? « C’est impossible », répond le Kremlin",
-          "link": "https://www.lemonde.fr/international/live/2026/09/12/en-direct-guerre-en-ukraine-une-rencontre-poutine-zelensky-au-g20-a-miami-c-est-impossible-repond-le-kremlin_6766818_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président ukrainien, Volodymyr Zelensky, s’est dit prêt à rencontrer le président russe, Vladimir Poutine, lors du sommet du G20 à Miami en décembre. Mais le Kremlin a envoyé une fin de non recevoir à M. Zelensky…",
-          "published": "2026-09-12T17:51:06+00:00"
-        },
-        {
-          "title": "Capgemini vend sa filiale qui avait fait polémique pour son contrat avec l’ICE",
-          "link": "https://www.lemonde.fr/societe/article/2026/09/12/capgemini-vend-sa-filiale-qui-avait-fait-polemique-pour-son-contrat-avec-l-ice_6771813_3224.html",
-          "source": "Le Monde",
-          "summary": "La décision de se séparer de cette filiale avait été prise au début de février, après la controverse provoquée par la révélation d’un contrat fournissant un outil d’identification et de localisation de personnes…",
-          "published": "2026-09-12T17:48:59+00:00"
-        },
-        {
-          "title": "« Le maoïsme a pu s’enraciner dans des régions et des moments très divers grâce à sa nature multiforme, contradictoire et malléable »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/12/le-maoisme-a-pu-s-enraciner-dans-des-regions-et-des-moments-tres-divers-grace-a-sa-nature-multiforme-contradictoire-et-malleable_6771743_3210.html",
-          "source": "Le Monde",
-          "summary": "« Mao, l’encombrant héritage » (7/7). Cinquante ans après la mort du Grand Timonier, Julia Lovell, professeure d’histoire et de littérature chinoises à l’université Birkbeck, à Londres, retrace, dans un entretien au «…",
-          "published": "2026-09-12T17:00:08+00:00"
         }
       ]
     },
@@ -91,24 +91,45 @@
           "published": "2026-12-31T05:05:00+00:00"
         },
         {
-          "title": "Internationaux des États-Unis | Elena Rybakina triomphe à New York",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-09-12/internationaux-des-etats-unis/elena-rybakina-triomphe-a-new-york.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Démystifier la science | Les chiens préfèrent la musique de spa",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-09-12/demystifier-la-science/les-chiens-preferent-la-musique-de-spa.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Avant même le début de la finale des Internationaux des États-Unis, Elena Rybakina avait déjà volé le premier rang mondial à Aryna Sabalenka. Samedi, elle l’a aussi empêché de remporter un troisième titre de suite à New…",
+          "summary": "Chaque semaine, notre journaliste répond aux questions scientifiques de lecteurs.",
+          "published": "2026-09-12T23:45:00+00:00"
+        },
+        {
+          "title": "À Paris, Céline Dion tangue mais tient bon",
+          "link": "https://www.ledevoir.com/culture/musique/1008572/paris-celine-dion-tangue-mais-tient-bon",
+          "source": "Le Devoir",
+          "summary": "Elle a livré une performance d’abord laborieuse, puis a conquis son public en effectuant un remarquable retour en force.",
+          "published": "2026-09-12T22:57:00+00:00"
+        },
+        {
+          "title": "Internationaux des États-Unis | Elena Rybakina confirme sa domination",
+          "link": "https://www.lapresse.ca/sports/tennis/2026-09-12/internationaux-des-etats-unis/elena-rybakina-confirme-sa-domination.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Elena Rybakina était assurée de s’emparer du premier rang mondial détenu par Aryna Sabalenka avant même le début de la finale entre les deux joueuses, samedi, aux Internationaux des États-Unis. En triomphant, toutefois,…",
           "published": "2026-09-12T22:40:31+00:00"
         },
         {
-          "title": "Rosemont–La Petite-Patrie | Un enfant de 4 ans blessé par une voiture à Montréal",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-12/rosemont-la-petite-patrie/un-enfant-de-4-ans-blesse-par-une-voiture-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un garçon de 4 ans a été blessé samedi après-midi après avoir été heurté par une voiture dans l’arrondissement de Rosemont–La Petite-Patrie, à Montréal.",
-          "published": "2026-09-12T22:39:21+00:00"
+          "title": "Le Canadien accorde un contrat d’une saison à Chris Kreider",
+          "link": "https://www.ledevoir.com/sports/1008569/canadien-accorde-contrat-saison-chris-kreider",
+          "source": "Le Devoir",
+          "summary": "L’attaquant, qui a disputé 14 saisons dans la LNH, se joindra au Tricolore en octobre.",
+          "published": "2026-09-12T21:50:38+00:00"
+        },
+        {
+          "title": "La Mostra de Venise remet les femmes en haut de l’affiche",
+          "link": "https://www.ledevoir.com/culture/cinema/1008566/mostra-venise-remet-femmes-haut-affiche",
+          "source": "Le Devoir",
+          "summary": "«Woman Unknown», de May el-Toukhy, a remporté le Lion d’or du meilleur film en cette 83e édition du festival.",
+          "published": "2026-09-12T21:27:00+00:00"
         },
         {
           "title": "Le Canadien accorde un contrat d’un an à Chris Kreider",
           "link": "https://www.lapresse.ca/sports/hockey/2026-09-12/le-canadien-accorde-un-contrat-d-un-an-a-chris-kreider.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Autrefois l’homme le plus détesté au Québec, Chris Kreider est désormais un membre du Canadien de Montréal.",
+          "summary": "Autrefois l’homme le plus détesté au Québec, Chris Kreider est désormais membre du Canadien de Montréal.",
           "published": "2026-09-12T21:09:46+00:00"
         },
         {
@@ -126,32 +147,11 @@
           "published": "2026-09-12T19:47:00+00:00"
         },
         {
-          "title": "Outremont | Des Vermontois contre Trump à Montréal",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-12/outremont/des-vermontois-contre-trump-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Céline Dion à Paris  | Retour réussi d’une reine en rétablissement",
+          "link": "https://www.lapresse.ca/arts/chroniques/2026-09-12/celine-dion-a-paris/retour-reussi-d-une-reine-en-retablissement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "« Le Vermont comme 11e province » ; « Carney, devenez notre président » ; « Des amis ne laissent pas des amis élire un fasciste »… Samedi midi au parc Beaubien, à Outremont, une quarantaine de Vermontois sont venus…",
-          "published": "2026-09-12T19:11:28+00:00"
-        },
-        {
-          "title": "Abolition de Santé Québec | « C’est pas tout le monde qui va perdre son emploi », défend le chef péquiste",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-12/abolition-de-sante-quebec/c-est-pas-tout-le-monde-qui-va-perdre-son-emploi-defend-le-chef-pequiste.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Paul St-Pierre Plamondon nuance sa position sur Santé Québec : un gouvernement du Parti québécois rapatrierait un certain nombre d’employés du siège social au ministère de la Santé et conserverait des missions de la…",
-          "published": "2026-09-12T18:30:49+00:00"
-        },
-        {
-          "title": "Carney présentera le programme d’investissement canadien d’un sommet",
-          "link": "https://www.ledevoir.com/economie/1008557/carney-presentera-programme-investissement-canadien-sommet",
-          "source": "Le Devoir",
-          "summary": "Son gouvernement cherche à lever les capitaux indispensables à la mise en œuvre de son programme économique.",
-          "published": "2026-09-12T17:55:00+00:00"
-        },
-        {
-          "title": "«Widow’s Bay» et «The Pitt» favoris pour les prix Emmy",
-          "link": "https://www.ledevoir.com/culture/ecrans/1008554/widow-bay-the-pitt-favoris-emmy-awards",
-          "source": "Le Devoir",
-          "summary": "La dernière saison de la comédie «Hacks» pourrait aussi se démarquer lors de la cérémonie de lundi.",
-          "published": "2026-09-12T16:55:00+00:00"
+          "summary": "La maladie neurologique rare de Céline Dion a évidemment modifié sa voix. Elle est moins souple, puissante et ronde qu’avant, mais elle réussit encore à tenir 2 h 30 de concert et emplir un vaste amphithéâtre comme…",
+          "published": "2026-09-12T19:37:35+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "« Je m’étais promis de ne pas pleurer, je ne tiens pas mes promesses » : Céline Dion revient sur scène devant Paris et le monde",
+          "title": "Mostra de Venise : le film « Woman Unknown », de May el-Toukhy, Lion d’or d’une édition au palmarès très politique",
+          "link": "https://www.lemonde.fr/culture/article/2026/09/13/mostra-de-venise-le-film-woman-unknown-de-may-el-toukhy-lion-d-or-d-une-edition-au-palmares-tres-politique_6772181_3246.html",
+          "source": "Le Monde",
+          "summary": "La réalisatrice dano-égyptienne a rendu hommage aux « femmes invisibles et sans voix ». Ilia Khrjanovski a dédié son Lion d’argent « aux Ukrainiens qui se battent pour la liberté », et les Israéliens Yuval Abraham et…",
+          "published": "2026-09-13T03:00:21+00:00"
+        },
+        {
+          "title": "Au Chili, près de 300 arrestations lors des commémorations pour les victimes de la dictature Pinochet",
+          "link": "https://www.lemonde.fr/international/article/2026/09/13/au-chili-pres-de-300-arrestations-lors-des-commemorations-pour-les-victimes-de-la-dictature-pinochet_6772177_3210.html",
+          "source": "Le Monde",
+          "summary": "En l’absence de cérémonie officielle, des milliers de personnes sont descendues dans la rue, vendredi 11 et samedi 12 septembre, pour condamner la dictature militaire qui avait fait plus de 3 200 victimes, mortes ou…",
+          "published": "2026-09-13T02:58:00+00:00"
+        },
+        {
+          "title": "«Rien n’arrête un fan de Céline Dion» : après le concert, la fête se poursuit jusqu’au bout de la nuit",
+          "link": "https://www.lefigaro.fr/musique/rien-n-arrete-un-fan-de-celine-dion-apres-le-concert-la-fete-se-poursuit-jusqu-au-bout-de-la-nuit-20260913",
+          "source": "Le Figaro",
+          "summary": "REPORTAGE - À deux pas du Royal Monceau, où Céline réside, ses fans, surnommés les Red Heads, se sont retrouvés pour célébrer leur idole.",
+          "published": "2026-09-13T02:57:42+00:00"
+        },
+        {
+          "title": "La France se soumet à un acte de contrition discret pour lever le blocage américain contre son nouvel ambassadeur à Washington",
+          "link": "https://www.lemonde.fr/international/article/2026/09/13/la-france-se-soumet-a-un-acte-de-contrition-discret-pour-lever-le-blocage-americain-contre-son-nouvel-ambassadeur-a-washington_6772111_3210.html",
+          "source": "Le Monde",
+          "summary": "La nomination d’Aurélien Lechevallier, un proche d’Emmanuel Macron, était gelée en réponse à un message de la diplomatie française, le 25 juillet, critiquant la position américaine sur les droits de l’homme. Un…",
+          "published": "2026-09-13T02:10:54+00:00"
+        },
+        {
+          "title": "Les houthistes revendiquent une attaque sur une base saoudienne en réplique à des bombardements menés par Riyad au Yémen",
+          "link": "https://www.lemonde.fr/international/article/2026/09/13/les-houthistes-revendiquent-une-attaque-sur-une-base-saoudienne-en-replique-a-des-bombardements-menes-par-riyad-au-yemen_6772078_3210.html",
+          "source": "Le Monde",
+          "summary": "Les rebelles pro-iraniens multiplient les assauts et les contraintes contre l’Arabie saoudite. Dans la semaine, ils avaient déjà consolidé leur emprise sur le détroit stratégique de Bab Al-Mandab, fermant aux pétroliers…",
+          "published": "2026-09-13T02:01:14+00:00"
+        },
+        {
+          "title": "Ici, la mer commence bien avant la mer…",
+          "link": "https://www.liberation.fr/forums/ici-la-mer-commence-bien-avant-la-mer-20260913_AREYDQXFJBC3XNAD3CBCPQBLGM/",
+          "source": "Liberation",
+          "summary": "A l’Aber Wrac’h, la rencontre de la rivière et de la mer devient la métaphore d’une société où nos différences peuvent créer du lien plutôt que des frontières. Une tribune poétique d’Alexandra Hernandez.",
+          "published": "2026-09-13T01:56:00+00:00"
+        },
+        {
+          "title": "Pour son retour sur scène, une Céline Dion à hauteur d’homme à Paris",
+          "link": "https://www.lefigaro.fr/musique/pour-son-retour-une-celine-dion-a-hauteur-d-homme-a-paris-20260913",
+          "source": "Le Figaro",
+          "summary": "CRITIQUE - La chanteuse a réussi son pari avec un show bourré d’humanité.",
+          "published": "2026-09-12T23:57:04+00:00"
+        },
+        {
+          "title": "Croatie : alerte activée sur une île où un feu a déjà brûlé 3.000 hectares",
+          "link": "https://www.lefigaro.fr/international/croatie-alerte-activee-sur-une-ile-ou-un-feu-a-deja-brule-3-000-hectares-20260913",
+          "source": "Le Figaro",
+          "summary": "Frappée par plusieurs vagues de chaleurs extrêmes et le manque de précipitations, comme une grande partie de l’Europe, la Croatie a connu un été particulièrement sec, propice à la propagation des feux de forêt.",
+          "published": "2026-09-12T23:56:15+00:00"
+        },
+        {
+          "title": "US Open 2026 : Elena Rybakina, nouvelle reine de New York et du tennis mondial",
+          "link": "https://www.lemonde.fr/sport/article/2026/09/13/us-open-2026-elena-rybakina-nouvelle-reine-de-new-york-et-du-tennis-mondial_6772012_3242.html",
+          "source": "Le Monde",
+          "summary": "La Kazakhe de 27 ans a remporté, samedi soir, son troisième tournoi du Grand Chelem, en battant en finale, en trois manches, Aryna Sabalenka à qui elle subtilise la première place du classement WTA.",
+          "published": "2026-09-12T23:44:01+00:00"
+        },
+        {
+          "title": "« Je m’étais promis de ne pas pleurer, je ne tiens pas mes promesses » : Céline Dion de retour sur scène à Paris",
           "link": "https://www.lefigaro.fr/musique/celine-dion-en-concert-a-paris-suivez-le-grand-retour-de-la-diva-en-direct-20260912",
           "source": "Le Figaro",
-          "summary": "EN DIRECT - La chanteuse, que la maladie avait éloignée de la scène depuis six ans, donnait samedi soir à Paris son premier concert depuis six ans. Devant un parterre de fans et de stars.",
-          "published": "2026-09-12T22:17:02+00:00"
-        },
-        {
-          "title": "Toulon-La Rochelle : baptêmes (réussis) à Mayol, Fickou pétard mouillé, faux départ pour le RCT… Les tops et flops",
-          "link": "https://www.lefigaro.fr/sports/rugby/top-14/toulon-la-rochelle-les-tops-et-flops-20260912",
-          "source": "Le Figaro",
-          "summary": "ANALYSE – Découvrez ce qui a retenu l’attention du Figaro lors de la victoire rochelaise face au RC Toulon (20-21), samedi soir à Mayol, lors de la deuxième journée du Top 14.",
-          "published": "2026-09-12T22:02:30+00:00"
-        },
-        {
-          "title": "La croissance économique « n’est pas une cause perdue » en Europe, estime Christine Lagarde",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/12/la-croissance-economique-n-est-pas-une-cause-perdue-en-europe-estime-christine-lagarde_6771979_3234.html",
-          "source": "Le Monde",
-          "summary": "La présidente de la Banque centrale européenne appelle, dans un entretien à « Ouest France », à « une réaction vigoureuse et rapide » pour améliorer la productivité des pays de la zone euro.",
-          "published": "2026-09-12T21:54:14+00:00"
-        },
-        {
-          "title": "Ligue 1 : le PFC en manque de réussite, Auxerre débloque son compteur… Les tops et flops du multiplex",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-le-pfc-manque-de-reussite-le-premier-succes-des-auxerrois-les-tops-et-flops-du-multiplex-20260912",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors du multiplex de la quatrième journée de Ligue 1, samedi soir, marqué par un match alléchant à Lorient et le choc décevant entre le PFC et l’OL.",
-          "published": "2026-09-12T21:53:35+00:00"
-        },
-        {
-          "title": "Liga : avec un doublé de Mbappé, le Real Madrid se reprend en corrigeant le Rayo Vallecano",
-          "link": "https://www.lefigaro.fr/sports/football/espagne/liga-avec-un-double-de-mbappe-le-real-madrid-se-reprend-en-corrigeant-le-rayo-vallecano-20260912",
-          "source": "Le Figaro",
-          "summary": "Après leur défaite contre le Betis Séville, les Merengue ont redressé la barre, ce samedi, en étrillant le Rayo Vallecano (4-1) avec notamment un doublé de Kylian Mbappé.",
-          "published": "2026-09-12T21:48:28+00:00"
-        },
-        {
-          "title": "\"Merci d'avoir répondu à mon invitation\" : revivez le concert de Céline Dion, avec \"S'il suffisait d'aimer\" et \"Pour que tu m'aimes encore\" en bouquet final",
-          "link": "https://www.franceinfo.fr/culture/musique/celine-dion/direct-celine-dion-a-paris-la-star-donne-le-premier-de-ses-concerts-evenement-ce-soir-suivez-cette-journee-avec-nous_8188268.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Après deux semaines de répétitions à la Plénitude Arena de Nanterre, la star québécoise a fait son entrée en scène, après six ans d'absence et une apparition mémorable en ouverture des Jeux olympiques.",
-          "published": "2026-09-12T21:38:47+00:00"
-        },
-        {
-          "title": "L’équipe de France s’offre le pays hôte allemand et se qualifie pour la première finale de Coupe du monde de basket de son histoire",
-          "link": "https://www.franceinfo.fr/sports/basket/coupe-du-monde/l-equipe-de-france-s-offre-le-pays-hote-allemand-et-se-qualifie-pour-la-premiere-finale-de-coupe-du-monde-de-basket-de-son-histoire_8189753.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les Bleues, qui disputaient leur première demi-finale mondiale, auront l’occasion de décrocher un premier titre, dimanche, en finale face aux Etats-Unis.",
-          "published": "2026-09-12T21:28:36+00:00"
-        },
-        {
-          "title": "Yvelines : une femme enceinte et son fils de 2 ans meurent dans l'incendie d'une voiture sur l'A13",
-          "link": "https://www.lefigaro.fr/faits-divers/yvelines-une-femme-enceinte-et-un-enfant-meurent-dans-l-incendie-d-une-voiture-sur-l-a13-20260912",
-          "source": "Le Figaro",
-          "summary": "Selon les premiers éléments, la raison de l’incendie du véhicule, qui n’avait pas percuté d’autre voiture, n’était pas connue samedi soir.",
-          "published": "2026-09-12T20:28:56+00:00"
-        },
-        {
-          "title": "\"L'eau est à peine à 10 degrés\" : un adolescent secouru après trois jours de dérive sur une mer glacée",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/l-eau-est-a-peine-a-10-degres-un-adolescent-secouru-apres-trois-jours-de-derive-sur-une-mer-glacee_8190053.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Un adolescent de 15 ans, parti à la pêche dans le détroit de Béring, près de l’Alaska, a miraculeusement été retrouvé sur la coque de son bateau. Le jeune homme a vu son frère et son cousin se faire emporter par les…",
-          "published": "2026-09-12T20:28:19+00:00"
-        },
-        {
-          "title": "Céline Dion remonte sur scène en chantant « On ne change pas », après plus de six ans d’absence",
-          "link": "https://www.lemonde.fr/culture/article/2026/09/12/celine-dion-remonte-sur-scene-en-chantant-on-ne-change-pas-apres-plus-de-six-ans-d-absence_6771946_3246.html",
-          "source": "Le Monde",
-          "summary": "La chanteuse québécoise a lancé samedi, très émue, une série de 26 concerts près de Paris, à la Défense. Ces spectacles promettent des retombées économiques colossales pour la capitale.",
-          "published": "2026-09-12T20:28:09+00:00"
+          "summary": "La chanteuse, que la maladie avait éloignée de la scène depuis six ans, donnait samedi soir à Paris son premier concert depuis six ans. Devant un parterre de fans et de stars.",
+          "published": "2026-09-12T23:39:58+00:00"
         }
       ]
     },
