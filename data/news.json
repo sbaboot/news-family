@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-09-16T23:32:32.909348+00:00",
+  "generated_at": "2026-09-17T03:33:17.987790+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : le Congrès américain adopte un ensemble de sanctions contre la Russie",
+          "title": "Catastrophe au Népal : le réchauffement climatique, facteur aggravant dans l’effondrement du glacier",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/17/catastrophe-au-nepal-le-rechauffement-climatique-facteur-aggravant-dans-l-effondrement-du-glacier_6775867_3244.html",
+          "source": "Le Monde",
+          "summary": "Une première étude d’attribution démontre qu’une conjonction d’éléments a conduit à l’avalanche de roches et de glace et aux inondations meurtrières survenues le 26 août dans l’Himalaya qui ont fait plus de 1 300 morts.",
+          "published": "2026-09-17T03:19:10+00:00"
+        },
+        {
+          "title": "La Bolivie et le Paraguay s’accordent sur le tracé de leur frontière commune après quatre-vingt-huit ans de négociations",
+          "link": "https://www.lemonde.fr/international/article/2026/09/17/la-bolivie-et-le-paraguay-s-accordent-sur-le-trace-de-leur-frontiere-commune-apres-quatre-vingt-huit-ans-de-negociations_6775832_3210.html",
+          "source": "Le Monde",
+          "summary": "L’accord officialisé mercredi à La Paz est intervenu à l’issue d’une réunion durant trois jours de la Commission mixte de démarcation des limites boliviano-paraguayennes, qui a permis de délimiter le dernier tronçon de…",
+          "published": "2026-09-17T02:58:40+00:00"
+        },
+        {
+          "title": "Le président palestinien, Mahmoud Abbas, de nouveau privé de visa par les Etats-Unis pour se rendre à l’ONU",
+          "link": "https://www.lemonde.fr/international/article/2026/09/17/le-president-palestinien-mahmoud-abbas-de-nouveau-prive-de-visa-par-les-etats-unis-pour-se-rendre-a-l-onu_6775766_3210.html",
+          "source": "Le Monde",
+          "summary": "Washington argue de l’absence de réformes et reproche à l’Autorité palestinienne d’avoir « manqué à ses engagements en faveur de la paix au Moyen-Orient » pour expliquer le refus d’octroyer un visa à ses dirigeants afin…",
+          "published": "2026-09-17T02:00:05+00:00"
+        },
+        {
+          "title": "La Californie impose de mentionner l’utilisation de l’IA dans les publicités",
+          "link": "https://www.lemonde.fr/pixels/article/2026/09/17/la-californie-impose-de-mentionner-l-utilisation-de-l-ia-dans-les-publicites_6775700_4408996.html",
+          "source": "Le Monde",
+          "summary": "A partir du 1ᵉʳ janvier 2027, les publicités utilisant des acteurs créés avec l’IA devront arborer un message explicatif. Une disposition valable à la télévision, à la radio et aussi sur Internet et sur les réseaux…",
+          "published": "2026-09-17T01:02:42+00:00"
+        },
+        {
+          "title": "Au Pérou, la Vallée sacrée des Incas défigurée par les constructions sauvages",
+          "link": "https://www.lemonde.fr/international/article/2026/09/17/au-perou-la-vallee-sacree-des-incas-defiguree-par-les-constructions-sauvages_6775699_3210.html",
+          "source": "Le Monde",
+          "summary": "Cet écrin naturel jalonné de centaines de sites archéologiques, sur le chemin du Machu Picchu, l’une des sept merveilles du monde, est mis en péril par une bétonisation galopante et souvent illégale.",
+          "published": "2026-09-17T01:00:03+00:00"
+        },
+        {
+          "title": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie et ses alliés",
+          "link": "https://www.lemonde.fr/international/article/2026/09/17/le-congres-americain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie-et-ses-allies_6775666_3210.html",
+          "source": "Le Monde",
+          "summary": "Le projet de loi prévoit pour la première fois côté américain de s’en prendre à la flotte fantôme de Moscou et donne à Donald Trump le pouvoir d’imposer des droits de douane sur les cinq principaux pays importateurs de…",
+          "published": "2026-09-17T00:17:33+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : visée par des missiles, la ville de Kiev déclenche l’« alerte rouge »",
           "link": "https://www.lemonde.fr/international/live/2026/09/17/en-direct-guerre-en-ukraine-le-congres-americain-adopte-un-ensemble-de-sanctions-contre-la-russie_6772184_3210.html",
           "source": "Le Monde",
-          "summary": "Le projet de loi approuvé, après le Sénat, par la Chambre des représentants, mercredi, prévoit pour la première fois côté américain de s’en prendre à la flotte fantôme de la Russie. De son côté, l’Ukraine dit manquer de…",
-          "published": "2026-09-16T23:12:03+00:00"
+          "summary": "Selon le maire de la capitale ukrainienne, Vitali Klitschko, un immeuble d’habitation ainsi que différents autres bâtiments ont été touchés par des débris de projectiles. A Odessa, un immeuble d’habitation de 19 étages…",
+          "published": "2026-09-16T23:12:00+00:00"
         },
         {
           "title": "Le Canada, bientôt dans l'Union européenne ?",
@@ -31,48 +73,6 @@
           "source": "Le Monde",
           "summary": "Le ministère israélien a aussi annoncé que des accords économiques seraient conclus entre les deux pays, qui disposent de bureaux de liaison, avant la fin de 2026, ainsi qu’une extension des vols directs entre le Maroc…",
           "published": "2026-09-16T21:00:47+00:00"
-        },
-        {
-          "title": "Hausse des prix des carburants : que peut faire le gouvernement français ?",
-          "link": "http://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260916-hausse-des-prix-des-carburants-que-peut-faire-le-gouvernement-fran%C3%A7ais",
-          "source": "France 24",
-          "summary": "En France, les aides ciblées pour faire face à la hausse des prix des carburants seront prolongées jusqu'à fin décembre : c'est ce que révèle l'entourage du Premier ministre, Sébastien Lecornu. Des mesures qui…",
-          "published": "2026-09-16T20:47:48+00:00"
-        },
-        {
-          "title": "Attentat à l’aéroport de Kaboul en 2021 : un Afghan, soutien de l’EI, condamné à vingt ans de prison aux Etats-Unis",
-          "link": "https://www.lemonde.fr/international/article/2026/09/16/attentat-a-l-aeroport-de-kaboul-en-2021-un-afghan-soutien-de-l-ei-condamne-a-vingt-ans-de-prison-aux-etats-unis_6775468_3210.html",
-          "source": "Le Monde",
-          "summary": "Mohammad Sharifullah est condamné à la peine maximale, pour avoir participé à cette attaque qui avait coûté la vie à 183 personnes, dont treize soldats américains, au moment où les talibans reprenaient l’Afghanistan.",
-          "published": "2026-09-16T20:40:51+00:00"
-        },
-        {
-          "title": "L'Arabie saoudite accuse les Houthis d'avoir mené une attaque de drone visant La Mecque",
-          "link": "http://www.france24.com/fr/moyen-orient/20260916-arabie-saoudite-accuse-les-houthis-d-avoir-men%C3%A9-une-attaque-de-drone-visant-la-mecque",
-          "source": "France 24",
-          "summary": "L'Arabie Saoudite a accusé mercredi les Houthis d'avoir mené une attaque de drone contre la ville sainte de La Mecque, interceptée par sa défense aérienne. Les combattants pro-iraniens ont démenti avoir mené une telle…",
-          "published": "2026-09-16T20:40:14+00:00"
-        },
-        {
-          "title": "Selon les autorités congolaises, le pic de l’épidémie d'Ebola est désormais passé",
-          "link": "http://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260916-selon-les-autorit%C3%A9s-congolaises-le-pic-de-l-%C3%A9pid%C3%A9mie-d-ebola-est-d%C3%A9sormais-pass%C3%A9",
-          "source": "France 24",
-          "summary": "En République démocratique du Congo, 3510 personnes sont décédées du virus Ebola depuis sa déclaration dans l’est du pays, il y a 4 mois. L’Ituri reste l’épicentre. La province concentre 78 % des cas confirmés. Mais les…",
-          "published": "2026-09-16T20:35:25+00:00"
-        },
-        {
-          "title": "Hashim Thaçi, l’ex-président du Kosovo, héros de l’indépendance chez beaucoup dans son pays, condamné à vingt-cinq ans de prison par un tribunal international",
-          "link": "https://www.lemonde.fr/international/article/2026/09/16/hashim-thaci-l-ex-president-du-kosovo-heros-de-l-independance-chez-beaucoup-dans-son-pays-condamne-a-vingt-cinq-ans-de-prison-par-un-tribunal-international_6775466_3210.html",
-          "source": "Le Monde",
-          "summary": "Le tribunal spécial de La Haye a reconnu l’ex-chef de l’Armée de libération du Kosovo coupable de détentions arbitraires, tortures et meurtres commis pendant la guerre de 1998-1999.",
-          "published": "2026-09-16T20:17:58+00:00"
-        },
-        {
-          "title": "\"Midterms\" : quand la désinformation russe s'en mêle",
-          "link": "http://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260916-midterms-quand-la-d%C3%A9sinformation-russe-s-en-m%C3%AAle",
-          "source": "France 24",
-          "summary": "A l’approche des élections de mi-mandat aux Etats-Unis, le 3 novembre, une campagne de désinformation russe cherche à discréditer le camp démocrate avec des vidéos truquées mettant en scène des célébrités américaines.",
-          "published": "2026-09-16T20:06:57+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Provocations russes sur l’Europe | À quoi joue Vladimir Poutine ?",
-          "link": "https://www.lapresse.ca/international/europe/2026-09-16/provocations-russes-sur-l-europe/a-quoi-joue-vladimir-poutine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Réunion annuelle des Nations unies | L’administration Trump refuse d’accorder des visas à la délégation palestinienne",
+          "link": "https://www.lapresse.ca/international/2026-09-16/reunion-annuelle-des-nations-unies/l-administration-trump-refuse-d-accorder-des-visas-a-la-delegation-palestinienne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Attaque sur un train ukrainien à la frontière polonaise. Attentat (raté) à la bombe volante dans un aéroport allemand. Tirs de fusées éclairantes à quelques mètres d’un hélicoptère danois. Incursion de drone dans le…",
-          "published": "2026-09-16T23:00:13+00:00"
+          "summary": "Pour la deuxième année consécutive, l’administration Trump a refusé d’accorder des visas à une délégation palestinienne de haut niveau qui devait participer à la réunion annuelle des dirigeants mondiaux aux Nations…",
+          "published": "2026-09-17T02:27:50+00:00"
         },
         {
-          "title": "QS met en doute les ambitions du PQ en environnement",
-          "link": "https://www.ledevoir.com/politique/quebec/1009646/qs-met-doute-ambitions-pq-environnement",
-          "source": "Le Devoir",
-          "summary": "La plateforme en environnement du parti de gauche se fait toujours attendre.",
-          "published": "2026-09-16T22:47:20+00:00"
+          "title": "PSPP plus ciblé au 2e débat, Fréchette attaquée sur le bilan de la CAQ",
+          "link": "https://www.journaldemontreal.com/2026/09/16/pspp-plus-cible-au-2e-debat-frechette-attaquee-sur-le-bilan-de-la-caq",
+          "source": "Journal de Montreal",
+          "summary": "Les chefs des cinq principaux partis ont croisé le fer une deuxième fois en 24 heures",
+          "published": "2026-09-17T02:14:51+00:00"
         },
         {
-          "title": "Bilan du SPVM | « Je ne peux pas être plus fier », dit Fady Dagher",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-16/bilan-du-spvm/je-ne-peux-pas-etre-plus-fier-dit-fady-dagher.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Un mort près de Barcelone après de fortes pluies",
+          "link": "https://www.journaldemontreal.com/2026/09/16/une-personne-portee-disparue-pres-de-barcelone-apres-de-fortes-pluies",
+          "source": "Journal de Montreal",
+          "summary": "Le corps sans vie d'un homme emporté par un cours d'eau près de Barcelone a été retrouvé jeudi.",
+          "published": "2026-09-17T02:13:57+00:00"
+        },
+        {
+          "title": "Affaire Epstein: le milliardaire Leon Black déclaré coupable d'outrage par le Congrès américain",
+          "link": "https://www.journaldemontreal.com/2026/09/16/affaire-epstein-le-milliardaire-leon-black-declare-coupable-doutrage-par-le-congres-americain",
+          "source": "Journal de Montreal",
+          "summary": "La Chambre des représentants américaine a déclaré mercredi le milliardaire Leon Black, empêtré dans le scandale Epstein, coupable d'outrage.",
+          "published": "2026-09-17T02:09:18+00:00"
+        },
+        {
+          "title": "Débat des chefs de Noovo | Fréchette reconnaît des « erreurs », St-Pierre Plamondon encaisse des coups",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-16/debat-des-chefs-de-noovo/frechette-reconnait-des-erreurs-st-pierre-plamondon-encaisse-des-coups.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La baisse récente de la criminalité à Montréal et la hausse de recrutement de policiers constitue « un des meilleurs bilans […] depuis des années » pour le Service de police de la Ville de Montréal (SPVM), s’est…",
-          "published": "2026-09-16T22:15:20+00:00"
+          "summary": "« La CAQ n’a pas été parfaite » et a fait des « erreurs », a reconnu Christine Fréchette, un acte de contrition qui n’a pas dissuadé ses adversaires de s’attaquer au bilan caquiste lors du deuxième débat des chefs,…",
+          "published": "2026-09-17T02:08:05+00:00"
         },
         {
-          "title": "Alex Ovechkin critiqué pour sa publicité pro-Poutine",
-          "link": "https://www.ledevoir.com/sports/1009631/alex-ovechkin-critique-publicite-pro-poutine",
-          "source": "Le Devoir",
-          "summary": "Le meilleur pointeur de l’histoire de la LNH est un soutien de longue date du président russe.",
-          "published": "2026-09-16T21:39:57+00:00"
+          "title": "Le débat des hors sujets",
+          "link": "https://www.journaldemontreal.com/2026/09/16/le-debat-des-hors-sujets",
+          "source": "Journal de Montreal",
+          "summary": "Étourdissant et hachuré, le débat à Noovo mercredi soir a bousculé les cinq chefs",
+          "published": "2026-09-17T01:54:11+00:00"
         },
         {
-          "title": "Trafic de drogue | Trump accuse encore le Canada de ne pas en faire assez",
-          "link": "https://www.lapresse.ca/actualites/2026-09-16/trafic-de-drogue/trump-accuse-encore-le-canada-de-ne-pas-en-faire-assez.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Itinérance | Un bambin d’un an retrouvé dans le campement Notre-Dame",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-16/itinerance/un-bambin-d-un-an-retrouve-dans-le-campement-notre-dame.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le président américain Donald Trump a accusé une nouvelle fois le Canada de ne pas en faire assez pour lutter contre le trafic de drogue, mais il ne l’a pas inclus dans la liste des principaux pays producteurs de drogue…",
-          "published": "2026-09-16T21:33:20+00:00"
+          "summary": "Un enfant d’un an a été retrouvé dans le campement Notre-Dame à Montréal.",
+          "published": "2026-09-17T01:53:44+00:00"
         },
         {
-          "title": "Guerre commerciale | Les produits canadiens exclus des marchés publics fédéraux américains",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-09-16/guerre-commerciale/les-produits-canadiens-exclus-des-marches-publics-federaux-americains.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le président américain, Donald Trump, a signé mercredi un décret ordonnant aux agences fédérales chargées de superviser les marchés publics aux États-Unis de retirer tous les produits d’origine canadienne.",
-          "published": "2026-09-16T21:31:06+00:00"
+          "title": "Un nouvel élan pour PSPP",
+          "link": "https://www.journaldemontreal.com/2026/09/16/un-nouvel-elan-pour-pspp",
+          "source": "Journal de Montreal",
+          "summary": "Encore épargné par les autres chefs, calme lorsqu’attaqué, flatteur sauf pour Christine Fréchette, il atteint son objectif",
+          "published": "2026-09-17T01:50:45+00:00"
         },
         {
-          "title": "Trump exclut tous les produits canadiens des marchés publics fédéraux",
-          "link": "https://www.ledevoir.com/economie/1009625/trump-exclut-tous-produits-canadiens-marches-publics-federaux",
-          "source": "Le Devoir",
-          "summary": "Le président américain a signé mercredi un décret.",
-          "published": "2026-09-16T21:28:54+00:00"
+          "title": "Un mot à retenir pour le deuxième débat des chefs? Référendum",
+          "link": "https://www.journaldemontreal.com/2026/09/16/xx-xxxx-xx",
+          "source": "Journal de Montreal",
+          "summary": "Le référendum est souvent revenu sur le tapis lors du deuxième débat des chefs.",
+          "published": "2026-09-17T01:45:00+00:00"
         },
         {
-          "title": "Les trois actus du 16 septembre",
-          "link": "https://www.ledevoir.com/actualites/1009583/trois-actus-16-septembre",
-          "source": "Le Devoir",
-          "summary": "L’UE veut se lier plus fort au Canada, la Fed hausse ses taux et Angine de Poitrine à l’ADISQ: ce qu’il faut retenir.",
-          "published": "2026-09-16T20:28:41+00:00"
-        },
-        {
-          "title": "L’ICE se tourne vers le montréalais GardaWorld pour deux nouveaux contrats",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1009574/ice-tourne-vers-montrealais-gardaworld-deux-nouveaux-contrats",
-          "source": "Le Devoir",
-          "summary": "Après l’« Alcatraz des alligators », on lui demande d’intervenir au Texas, pour du transport et de la rénovation.",
-          "published": "2026-09-16T20:00:00+00:00"
-        },
-        {
-          "title": "Vérification des faits | Combien la CAQ a-t-elle perdu en aide aux entreprises ?",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-16/verification-des-faits/combien-la-caq-a-t-elle-perdu-en-aide-aux-entreprises.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Vous avez perdu 6,4 milliards dans le Fonds de développement économique (FDE) », a reproché le chef péquiste Paul St-Pierre Plamondon à sa rivale caquiste Christine Fréchette, mardi, lors du Face-à-face de TVA. Est-ce…",
-          "published": "2026-09-16T19:56:44+00:00"
+          "title": "Christine Fréchette a paru désespérée dans un deuxième débat sans grand vainqueur",
+          "link": "https://www.journaldemontreal.com/2026/09/16/christine-frechette-a-paru-desesperee-dans-un-deuxieme-debat-sans-grand-vainqueur",
+          "source": "Journal de Montreal",
+          "summary": "La plupart des chefs ont tourné cette fois leurs canons vers le meneur PSPP. Mais les attaques de Fréchette contre le référendum ont tombé à plat.",
+          "published": "2026-09-17T01:44:17+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "La Fed augmente son taux d’intérêt directeur d’un quart de point, une décision «hostile» pour Trump",
-          "link": "https://www.lefigaro.fr/conjoncture/la-fed-augmente-son-taux-d-interet-directeur-d-un-quart-de-point-20260916",
-          "source": "Le Figaro",
-          "summary": "Il s’agit de la première hausse décidée par l’institution depuis l’été 2023, dans un contexte d’inflation élevée, tirée par la flambée des prix de l’énergie liée aux tensions au Moyen-Orient. Donald Trump a réagi,…",
-          "published": "2026-09-16T23:17:02+00:00"
+          "title": "Plus de bio dans les cantines ? Des associations demandent des comptes à l’Etat",
+          "link": "https://www.liberation.fr/environnement/agriculture/plus-de-bio-dans-les-cantines-des-associations-demandent-des-comptes-a-letat-20260917_ZWD7K7AU7RBJ7I33DG733N75MY/",
+          "source": "Liberation",
+          "summary": "Un collectif d’associations de défense de l’Environnement et de consommateurs a réclamé à l’Etat, mercredi 16 septembre, de respecter ses engagements en matière de produits bio dans les cantines.",
+          "published": "2026-09-17T03:25:00+00:00"
         },
         {
-          "title": "Nice : Christian Estrosi visé par une enquête pour détournement de fonds publics après un signalement d’Eric Ciotti",
-          "link": "https://www.lemonde.fr/societe/article/2026/09/17/nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-d-eric-ciotti_6775567_3224.html",
+          "title": "Catastrophe au Népal : le réchauffement climatique, facteur aggravant dans l’effondrement du glacier",
+          "link": "https://www.lemonde.fr/planete/article/2026/09/17/catastrophe-au-nepal-le-rechauffement-climatique-facteur-aggravant-dans-l-effondrement-du-glacier_6775867_3244.html",
           "source": "Le Monde",
-          "summary": "L’affaire avait déjà fait l’objet d’une plainte de l’association Transparence citoyenne, qui avait relevé plus de 312 000 euros de frais de représentation remboursés sans justificatif au profit de l’ancien maire…",
-          "published": "2026-09-16T22:28:50+00:00"
+          "summary": "Une première étude d’attribution démontre qu’une conjonction d’éléments a conduit à l’avalanche de roches et de glace et aux inondations meurtrières survenues le 26 août dans l’Himalaya qui ont fait plus de 1 300 morts.",
+          "published": "2026-09-17T03:19:10+00:00"
         },
         {
-          "title": "La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/16/la-banque-en-ligne-britannique-revolut-se-dit-victime-d-une-escroquerie-sophistiquee-des-donnees-clients-compromises_6775534_3234.html",
+          "title": "Hugo Nazarenko-Sas, à cornes perdues de l’Irlande au Vietnam",
+          "link": "https://www.liberation.fr/culture/livres/hugo-nazarenko-sas-a-cornes-perdues-de-lirlande-au-vietnam-20260917_LKUTVUOO7FC6DCZPD7CNCHGKGM/",
+          "source": "Liberation",
+          "summary": "Des gangs aux petites mains, l’écrivain suit, dans «le Gang des voleurs de cornes», la trace du trafic de poudre de rhinocéros, convoitée pour ses supposées vertus médicinales.",
+          "published": "2026-09-17T03:14:00+00:00"
+        },
+        {
+          "title": "La Bolivie et le Paraguay s’accordent sur le tracé de leur frontière commune après quatre-vingt-huit ans de négociations",
+          "link": "https://www.lemonde.fr/international/article/2026/09/17/la-bolivie-et-le-paraguay-s-accordent-sur-le-trace-de-leur-frontiere-commune-apres-quatre-vingt-huit-ans-de-negociations_6775832_3210.html",
           "source": "Le Monde",
-          "summary": "Des pirates ont usurpé l’identité d’une agence gouvernementale pour obtenir des données sensibles de clients. Une enquête a été ouverte en Italie et le régulateur britannique de la protection des données examine des…",
-          "published": "2026-09-16T21:50:33+00:00"
+          "summary": "L’accord officialisé mercredi à La Paz est intervenu à l’issue d’une réunion durant trois jours de la Commission mixte de démarcation des limites boliviano-paraguayennes, qui a permis de délimiter le dernier tronçon de…",
+          "published": "2026-09-17T02:58:40+00:00"
         },
         {
-          "title": "Vers une nouvelle flambée des prix du gaz et du pétrole à cause d’un règlement européen",
-          "link": "https://www.lefigaro.fr/societes/vers-une-nouvelle-flambee-des-prix-du-gaz-et-du-petrole-a-cause-d-un-reglement-europeen-20260916",
+          "title": "Affaire Epstein : le milliardaire Leon Black déclaré coupable d'outrage par le Congrès américain",
+          "link": "https://www.lefigaro.fr/international/affaire-epstein-le-milliardaire-leon-black-declare-coupable-d-outrage-par-le-congres-americain-20260917",
           "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - La mise en place d’un règlement européen sur le suivi des émissions de méthane fait craindre une augmentation de 24 % du prix de l’essence à la pompe, selon une étude réalisée par Wood Mackenzie.",
-          "published": "2026-09-16T21:49:55+00:00"
+          "summary": "Le cofondateur du géant de l’investissement Apollo Global Management figurait parmi les plus importants clients du criminel sexuel.",
+          "published": "2026-09-17T02:00:10+00:00"
         },
         {
-          "title": "Vladimir Poutine appelle les Russes à voter pour «contribuer à la victoire» en Ukraine",
-          "link": "https://www.lefigaro.fr/international/poutine-appelle-les-russes-a-voter-pour-contribuer-a-la-victoire-en-ukraine-20260916",
+          "title": "Lula promet de dire à Trump de «ne pas se mêler des élections au Brésil» à l’ONU",
+          "link": "https://www.lefigaro.fr/international/lula-promet-de-dire-a-trump-de-ne-pas-se-meler-des-elections-au-bresil-a-l-onu-20260917",
           "source": "Le Figaro",
-          "summary": "Le chef du Kremlin a adressé mercredi un message solennel avant les élections législatives qui se dérouleront du 18 au 20 septembre, sans la participation du seul parti d’opposition antiguerre, Iabloko, qui a été exclu…",
-          "published": "2026-09-16T21:48:30+00:00"
+          "summary": "Le président brésilien, qui s’exprimera mardi à la tribune des Nations Unies, brigue un nouveau mandat à la présidentielle d’octobre face à Flavio Bolsonaro, allié de Donald Trump.",
+          "published": "2026-09-17T01:59:39+00:00"
         },
         {
-          "title": "Marine Le Pen souhaite \"interdire le voile\" islamique \"de manière progressive\"",
-          "link": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-souhaite-interdire-le-voile-islamique-de-maniere-progressive_8196287.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "\"Nous le ferons si les Français nous en donnent mandat\", a assuré la présidente du Rassemblement national et candidate à l'élection présidentielle.",
-          "published": "2026-09-16T21:48:17+00:00"
+          "title": "Un nouveau cratère de 222 mètres de diamètre découvert sur la Lune grâce à une sonde de la NASA",
+          "link": "https://www.lemonde.fr/sciences/article/2026/09/17/un-nouveau-cratere-de-222-metres-de-diametre-decouvert-sur-la-lune-grace-a-une-sonde-de-la-nasa_6775733_1650684.html",
+          "source": "Le Monde",
+          "summary": "La découverte et le suivi de cet imposant cratère, baptisé « McGetchin », pourraient permettre de mieux comprendre la géologie complexe de notre satellite naturel.",
+          "published": "2026-09-17T01:21:33+00:00"
         },
         {
-          "title": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\"",
-          "link": "https://www.franceinfo.fr/politique/fausse-information-sur-rima-hassan-lfi-demande-la-demission-du-ministre-laurent-nunez-apres-les-revelations-de-complement-d-enquete_8196206.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'avocat de Rima Hassan a demandé l'ouverture d'une information judiciaire pour \"identifier sans délai les personnes à l'origine de ces fuites et d'en comprendre les motivations\".",
-          "published": "2026-09-16T21:37:42+00:00"
+          "title": "La Californie impose de mentionner l’utilisation de l’IA dans les publicités",
+          "link": "https://www.lemonde.fr/pixels/article/2026/09/17/la-californie-impose-de-mentionner-l-utilisation-de-l-ia-dans-les-publicites_6775700_4408996.html",
+          "source": "Le Monde",
+          "summary": "A partir du 1ᵉʳ janvier 2027, les publicités utilisant des acteurs créés avec l’IA devront arborer un message explicatif. Une disposition valable à la télévision, à la radio et aussi sur Internet et sur les réseaux…",
+          "published": "2026-09-17T01:02:42+00:00"
         },
         {
-          "title": "Guerre en Ukraine : «Nous ne pouvons plus» l'aider autant, indique Marine Le Pen",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/guerre-en-ukraine-nous-ne-pouvons-plus-l-aider-autant-indique-marine-le-pen-20260916",
+          "title": "Les États-Unis refusent à nouveau un visa à Mahmoud Abbas pour l’Assemblée générale de l’ONU",
+          "link": "https://www.lefigaro.fr/international/les-etats-unis-refusent-a-nouveau-un-visa-a-mahmoud-abbas-pour-l-assemblee-generale-de-l-onu-20260917",
           "source": "Le Figaro",
-          "summary": "Si la chef de file des députés RN assume ce tour de vis, elle a assuré ce mercredi soir que sa position «n’est pas un acte d’hostilité à l’égard de l’Ukraine».",
-          "published": "2026-09-16T21:26:23+00:00"
+          "summary": "Washington invoque l’absence de réformes promises et des «activités persistantes» qui, selon le département d’État, compromettent les perspectives de paix.",
+          "published": "2026-09-17T00:51:31+00:00"
         },
         {
-          "title": "Ligue Europa : l’OL se défait d’Anderlecht dans la douleur, Rennes accroché par le Sturm Graz",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-europa/ligue-europa-l-ol-se-defait-d-anderlecht-dans-la-douleur-rennes-accroche-par-le-sturm-graz-20260916",
+          "title": "L’armée ukrainienne revendique avoir tué le général russe Anton Grounis, récemment décoré du titre de «Héros de la Russie»",
+          "link": "https://www.lefigaro.fr/international/l-armee-ukrainienne-revendique-avoir-tue-le-general-russe-anton-grounis-recemment-decore-du-titre-de-heros-de-la-russie-20260916",
           "source": "Le Figaro",
-          "summary": "L’Olympique Lyonnais s’est imposé ce mercredi sur la pelouse d’Anderlecht pour ses débuts en Ligue Europa. De son côté, le Stade Rennais ramène un point d’Autriche.",
-          "published": "2026-09-16T21:19:50+00:00"
-        },
-        {
-          "title": "Les accès aux ports de Port-la-Nouvelle et Sète toujours bloqués par les pêcheurs",
-          "link": "https://www.franceinfo.fr/economie/automobile/essence/les-acces-aux-ports-de-port-la-nouvelle-et-sete-toujours-bloques-par-les-pecheurs_8196086.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Quelques pêcheurs ont fait savoir à ICI Roussillon qu'ils comptent prolonger le mouvement jusqu'à ce que le Premier ministre reçoive la profession qui souhaite être entendue sur la flambée des prix du carburant et les…",
-          "published": "2026-09-16T21:01:32+00:00"
+          "summary": "Éliminé le 12 septembre, le général-major Anton Grunis, est mort dans la région de Donetsk après l’annonce d’une frappe ukrainienne. Il avait notamment rendu compte à Vladimir Poutine de la prise revendiquée de…",
+          "published": "2026-09-17T00:19:35+00:00"
         }
       ]
     },
