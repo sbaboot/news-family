@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-09-17T23:28:14.964366+00:00",
+  "generated_at": "2026-09-18T03:18:44.945288+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "En Turquie, à Üsküdar, les méthodes fort peu démocratiques du parti de Recep Tayyip Erdogan pour reprendre le pouvoir",
+          "link": "https://www.lemonde.fr/international/article/2026/09/18/en-turquie-a-uskudar-les-methodes-fort-peu-democratiques-du-parti-de-recep-tayyip-erdogan-pour-reprendre-le-pouvoir_6776654_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président turc va convoquer des élections anticipées en avril 2028 afin de contourner l’interdiction qui lui est faite par la Constitution de briguer un nouveau mandat.",
+          "published": "2026-09-18T03:00:23+00:00"
+        },
+        {
+          "title": "« En Allemagne, l’AfD entend détruire la plus ambitieuse politique culturelle d’Europe. Le pire pour les artistes est que les électeurs sont séduits »",
+          "link": "https://www.lemonde.fr/idees/article/2026/09/18/en-allemagne-l-afd-entend-detruire-la-plus-ambitieuse-politique-culturelle-d-europe-le-pire-pour-les-artistes-est-que-les-electeurs-sont-seduits_6776651_3232.html",
+          "source": "Le Monde",
+          "summary": "Comme souvent dans les partis d’extrême droite, la culture est d’abord définie par ce qu’elle ne doit plus être, constate, dans sa chronique, Michel Guerrin, rédacteur en chef au « Monde ».",
+          "published": "2026-09-18T03:00:04+00:00"
+        },
+        {
+          "title": "Le Venezuela débloque l'accès en ligne à plusieurs médias censurés depuis des années",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20260918-venezuela-debloque-acces-en-ligne-medias-censure-opposition-dialogue",
+          "source": "France 24",
+          "summary": "La levée partielle de la censure numérique a commencé jeudi au Venezuela, alors que pouvoir et opposition ont entamé un deuxième cycle de négociations. Au moins 188 sites, dont 79 médias, restent toutefois bloqués selon…",
+          "published": "2026-09-18T02:01:43+00:00"
+        },
+        {
+          "title": "Des affrontements interethniques font 26 morts dans la région d’Abyei que se disputent les deux Soudans",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/18/des-affrontements-interethniques-font-26-morts-dans-la-region-d-abyei-que-se-disputent-les-deux-soudan_6776585_3212.html",
+          "source": "Le Monde",
+          "summary": "Des assassinats au sein de deux ethnies ont « exacerbé les tensions entre les deux communautés », a affirmé la mission de maintien de la paix de l’ONU pour ce territoire.",
+          "published": "2026-09-18T01:14:52+00:00"
+        },
+        {
+          "title": "Cuisine, business et enfants sauvés : la Chine se donne le beau rôle dans un film à succès",
+          "link": "https://www.lemonde.fr/international/article/2026/09/18/cuisine-business-et-enfants-sauves-la-chine-se-donne-le-beau-role-dans-un-film-a-succes_6776584_3210.html",
+          "source": "Le Monde",
+          "summary": "« Bienvenue au restaurant Le Dragon » raconte les péripéties d’un Chinois parti faire fortune au Moyen-Orient, avant d’y être confronté aux affres géopolitiques notamment causées par les Etats-Unis.",
+          "published": "2026-09-18T01:00:11+00:00"
+        },
+        {
+          "title": "Nigeria : enquête après la mort en détention de 37 hommes soupçonnés d’être des mineurs illégaux",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/18/nigeria-enquete-apres-la-mort-en-detention-de-37-hommes-soupconnes-d-etre-des-mineurs-illegaux_6776551_3212.html",
+          "source": "Le Monde",
+          "summary": "Le gouverneur de l’Etat du Niger, dans le centre du pays, où affluent des milliers de chercheurs d’or artisanaux, a décrété trois jours de deuil et reporté le début de la campagne pour les élections prévues en janvier.",
+          "published": "2026-09-18T00:34:57+00:00"
+        },
+        {
+          "title": "En direct : début des législatives en Russie, en pleine guerre en Ukraine",
+          "link": "https://www.france24.com/fr/europe/20260918-en-direct-russie-ukraine-legislatives-vladimir-poutine-zelensky-guerre",
+          "source": "France 24",
+          "summary": "Les bureaux de vote ont ouvert vendredi matin dans l'Extrême-Orient russe, donnant le coup d'envoi d'élections législatives organisées sur trois jours et que devrait remporter le parti de Vladimir Poutine, en pleine…",
+          "published": "2026-09-18T00:29:06+00:00"
+        },
+        {
+          "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude",
+          "link": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
+          "source": "Le Monde",
+          "summary": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19…",
+          "published": "2026-09-18T00:00:17+00:00"
+        },
         {
           "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky et Ursula von der Leyen ont discuté pour tenter de trouver une solution au financement de la défense ukrainienne",
           "link": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-volodymyr-zelensky-et-ursula-von-der-leyen-ont-discute-pour-tenter-de-trouver-une-solution-au-financement-de-la-defense-ukrainienne_6772184_3210.html",
@@ -12,67 +68,11 @@
           "published": "2026-09-17T23:12:22+00:00"
         },
         {
-          "title": "Extrême droite : Éric Zemmour confirme sa candidature à la présidentielle française",
-          "link": "https://www.france24.com/fr/france/20260917-france-extreme-droite-eric-zemmour-confirme-candidature-pr%C3%A9sidentielle-immigration",
+          "title": "Russie : la Douma, une assemblée fantoche ?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260917-russie-la-douma-une-assembl%C3%A9e-fantoche",
           "source": "France 24",
-          "summary": "Éric Zemmour, président du parti d'extrême droite Reconquête, a confirmé jeudi sur BFMTV qu'il serait bien candidat à la présidentielle française. Il avait fini quatrième du premier tour de l'élection de 2022 avec 7,07…",
-          "published": "2026-09-17T21:52:31+00:00"
-        },
-        {
-          "title": "Le Maroc et Israël vont ouvrir des ambassades dans leurs pays respectifs",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260917-le-maroc-et-isra%C3%ABl-vont-ouvrir-des-ambassades-dans-leurs-pays-respectifs",
-          "source": "France 24",
-          "summary": "Israël et le Maroc vont ouvrir des ambassades dans leurs pays respectifs, a annoncé mercredi le ministère israélien des Affaires étrangères, après une rencontre entre les deux chefs de la diplomatie sous l'égide…",
-          "published": "2026-09-17T20:53:45+00:00"
-        },
-        {
-          "title": "Les Etats-Unis accordent des visas à l’Iran pour se rendre à l’Assemblée générale de l’ONU",
-          "link": "https://www.lemonde.fr/international/article/2026/09/17/les-etats-unis-accordent-des-visas-a-l-iran-pour-se-rendre-a-l-assemblee-generale-de-l-onu_6776481_3210.html",
-          "source": "Le Monde",
-          "summary": "Cette décision, attendue malgré les circonstances, contraste avec le refus des Etats-Unis d’accorder un visa au président de l’Autorité palestinienne, Mahmoud Abbas, qui a dénoncé, jeudi, une « mesure injustifiée ».",
-          "published": "2026-09-17T20:48:45+00:00"
-        },
-        {
-          "title": "Syrie : Quand contestation rime avec désinformation",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260917-syrie-quand-contestation-rime-avec-d%C3%A9sinformation",
-          "source": "France 24",
-          "summary": "En Syrie, l'augmentation des prix du carburant attise la contestation sociale en provoquant d'importantes manifestations à travers le pays. De quoi alimenter aussi la désinformation envers les nouvelles autorités.",
-          "published": "2026-09-17T20:08:30+00:00"
-        },
-        {
-          "title": "Crue soudaine dans le Grand Canyon : un troisième corps retrouvé, deux semaines plus tard",
-          "link": "https://www.lemonde.fr/international/article/2026/09/17/crue-soudaine-dans-le-grand-canyon-un-troisieme-corps-retrouve-deux-semaines-plus-tard_6776480_3210.html",
-          "source": "Le Monde",
-          "summary": "Deux autres victimes, John Guisti et Brent Rosenkranz, avaient été retrouvés très rapidement après cette crue éclair, qui a surpris des dizaines de touristes et fait déferler un torrent d’eau boueuse dans le parc…",
-          "published": "2026-09-17T20:05:14+00:00"
-        },
-        {
-          "title": "Au Royaume-Uni, Charles III, relais des inquiétudes mondiales sur l’emballement de l’IA",
-          "link": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
-          "source": "Le Monde",
-          "summary": "Devant des acteurs du secteur réunis en Ecosse, le roi a mis en garde contre les « dangers existentiels » posés par cette nouvelle technologie. Des appels à davantage de régulation, au niveau national et international,…",
-          "published": "2026-09-17T20:00:03+00:00"
-        },
-        {
-          "title": "Shoah : \"Nous étions des ombres\", rapportait Simone Veil à Michel Marx dans une lettre",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260917-shoah-nous-%C3%A9tions-des-ombres-rapportait-simone-veil-%C3%A0-michel-marx-dans-une-lettre",
-          "source": "France 24",
-          "summary": "Le scénariste et écrivain Michel Marx revient au micro de Judith sur son échange avec Simone Veil, dont l'histoire est liée à celle de ses proches qui ont péri dans la Shoah.",
-          "published": "2026-09-17T19:11:06+00:00"
-        },
-        {
-          "title": "France : pourquoi la colère des pêcheurs gagne du terrain ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260917-france-pourquoi-la-col%C3%A8re-des-p%C3%AAcheurs-gagne-du-terrain",
-          "source": "France 24",
-          "summary": "Des pêcheurs se mobilisent dans plusieurs ports du sud de la France pour dénoncer la flambée du prix du carburant et leurs conditions de travail. Malgré le relèvement de l'aide gouvernementale de 25 à 35 centimes par…",
-          "published": "2026-09-17T18:43:34+00:00"
-        },
-        {
-          "title": "Énergie : la France paye le prix fort ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260917-%C3%A9nergie-la-france-paye-le-prix-fort",
-          "source": "France 24",
-          "summary": "Les tensions au Moyen-Orient provoquent une hausse des prix de l’énergie et une forte inflation dans de nombreux pays. En France, cette situation fragilise les entreprises, notamment les pêcheurs, qui ont bloqué…",
-          "published": "2026-09-17T18:42:49+00:00"
+          "summary": "En Russie, à partir de vendredi, les électeurs sont appelés à renouveler la chambre basse du Parlement, la Douma. Les bureaux de vote ont d'ailleurs déjà ouvert en Extrême-Orient. Il s'agit du premier scrutin de…",
+          "published": "2026-09-17T22:28:43+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Pour assister à l’Assemblée générale de l’ONU | Les États-Unis accordent des visas à de hauts dirigeants iraniens",
-          "link": "https://www.lapresse.ca/international/2026-09-17/pour-assister-a-l-assemblee-generale-de-l-onu/les-etats-unis-accordent-des-visas-a-de-hauts-dirigeants-iraniens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "La SQ critiquée pour son manque de transparence dans une intervention avant un féminicide à Vaudreuil-Dorion",
+          "link": "https://www.journaldemontreal.com/2026/09/30/la-surete-du-quebec-aurait-pu-faire-mieux-pour-prevenir-un-feminicide-a-vaudreuil-dorion",
+          "source": "Journal de Montreal",
+          "summary": "Le manque de transparence de la Sûreté du Québec (SQ) pour une intervention auprès d’un couple quelques mois avant un féminicide est pointé du doigt.",
+          "published": "2026-09-30T04:00:00+00:00"
+        },
+        {
+          "title": "Une adolescente de 15 ans est portée disparue",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-17/une-adolescente-de-15-ans-est-portee-disparue.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "L’administration Trump a accordé des visas à de hauts responsables iraniens, dont le président et le ministre des Affaires étrangères, afin qu’ils puissent assister la semaine prochaine à la réunion de haut niveau de…",
-          "published": "2026-09-17T23:21:48+00:00"
+          "summary": "Aurélie Turcotte, une adolescente âgée de 15 ans, manque à l’appel. Le Service de police de la Ville de Montréal (SPVM) est à sa recherche, et sa famille et ses proches s’inquiètent pour sa sécurité.",
+          "published": "2026-09-18T02:46:20+00:00"
         },
         {
-          "title": "Coûts de construction | Intelligence artificielle, économies réelles ?",
-          "link": "https://www.lapresse.ca/affaires/2026-09-17/couts-de-construction/intelligence-artificielle-economies-reelles.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Débat électoral sur l’environnement | Favoriser la nature, pas Northvolt",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-17/debat-electoral-sur-l-environnement/favoriser-la-nature-pas-northvolt.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Et si construire davantage n’était pas le seul moyen de régler la crise de l’abordabilité qui sévit dans l’immobilier ? Grâce à l’intelligence artificielle (IA) et aux technologies, les entrepreneurs ont à leur portée…",
-          "published": "2026-09-17T23:00:00+00:00"
+          "summary": "Le Parti québécois, le Parti libéral et Québec solidaire ont promis de réparer les pots cassés du gouvernement sortant en matière d’environnement lors d’un débat boudé par la Coalition Avenir Québec, jeudi à Montréal.…",
+          "published": "2026-09-18T02:22:22+00:00"
         },
         {
-          "title": "Trump songe sérieusement à détruire le Kennedy Center",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1009991/trump-songe-serieusement-detruire-kennedy-center",
+          "title": "OpenAI aurait fait un «vol stupéfiant» d’articles du «New York Times»",
+          "link": "https://www.ledevoir.com/economie/techno/1010045/openai-aurait-fait-vol-stupefiant-articles-new-york-times",
           "source": "Le Devoir",
-          "summary": "La reprise en main du centre culturel par le président républicain constitue un feuilleton politico-judiciaire.",
-          "published": "2026-09-17T22:27:03+00:00"
+          "summary": "Le célèbre quotidien accuse l’entreprise d’IA d’infraction au droit de la propriété intellectuelle.",
+          "published": "2026-09-18T01:24:55+00:00"
         },
         {
-          "title": "«La meilleure façon, c’est par accident»: attraper l’ordinaire avant qu’il ne disparaisse",
-          "link": "https://www.ledevoir.com/culture/cinema/1009982/meilleure-facon-c-est-accident-attraper-ordinaire-avant-il-ne-disparaisse",
-          "source": "Le Devoir",
-          "summary": "Noémie D. Leclerc transforme le regret de ne pas avoir filmé son beau-père en une réflexion sur la mémoire.",
-          "published": "2026-09-17T22:03:46+00:00"
-        },
-        {
-          "title": "Parti conservateur | L’ex-maire de Lévis donne son appui à Éric Duhaime",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-17/parti-conservateur/l-ex-maire-de-levis-donne-son-appui-a-eric-duhaime.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Déclaration d’Éric Duhaime | Y a-t-il vraiment une guerre à l’auto ?",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-17/declaration-d-eric-duhaime/y-a-t-il-vraiment-une-guerre-a-l-auto.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Éric Duhaime obtient un appui de taille : l’ex-maire de Lévis, Gilles Lehouillier, fervent défenseur du troisième lien, mettra son poids dans la balance au moment où le Parti conservateur du Québec est en voie de faire…",
-          "published": "2026-09-17T21:57:09+00:00"
+          "summary": "Y a-t-il vraiment une guerre à l’auto, comme l’a affirmé le chef du Parti conservateur Éric Duhaime à de multiples reprises pendant la campagne électorale ?",
+          "published": "2026-09-18T00:05:42+00:00"
         },
         {
-          "title": "Ex-concierge de l’immeuble de sa victime | Il aurait fraudé un homme de 97 ans sur son « lit de mort »",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-17/ex-concierge-de-l-immeuble-de-sa-victime/il-aurait-fraude-un-homme-de-97-ans-sur-son-lit-de-mort.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Les électeurs hispaniques se sentent «trahis» par Trump sur l’immigration",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1010012/electeurs-hispaniques-sentent-trahis-trump-immigration",
+          "source": "Le Devoir",
+          "summary": "«Vos mesures de contrôle de l’immigration sont allées trop loin», a déclaré jeudi une élue républicaine.",
+          "published": "2026-09-18T00:02:56+00:00"
+        },
+        {
+          "title": "Les jeunes des Premières Nations continuent de s’opposer aux grands projets de Carney",
+          "link": "https://www.ledevoir.com/actualites/environnement/1010006/jeunes-premieres-nations-continuent-opposer-grands-projets-carney",
+          "source": "Le Devoir",
+          "summary": "«Nous savons ce qui est en jeu. C’est notre avenir qui sera affecté», déclare un manifestant.",
+          "published": "2026-09-17T23:46:00+00:00"
+        },
+        {
+          "title": "Itinéraires de campagne | Les chefs priorisent Québec, boudent Montréal",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-17/itineraires-de-campagne/les-chefs-priorisent-quebec-boudent-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "À 97 ans, Yonan Nagels a encore toute sa tête. Jeudi, il a été ferme devant le tribunal : il n’a jamais permis à l’ex-concierge de son immeuble de retirer des milliers de dollars de son compte pendant son…",
-          "published": "2026-09-17T21:54:09+00:00"
+          "summary": "Les cinq principaux chefs font les yeux doux à Québec, mais négligent Montréal. Critiqué pour son manque de visibilité, Charles Milliard multiplie pourtant les sorties publiques depuis 20 jours. La Presse profite de la…",
+          "published": "2026-09-17T23:45:00+00:00"
         },
         {
-          "title": "Dur retour à la réalité pour les chefs en campagne",
-          "link": "https://www.ledevoir.com/politique/quebec/1009973/dur-retour-realite-chefs-campagne",
-          "source": "Le Devoir",
-          "summary": "La présence d’un bébé d’un an sur le campement Notre-Dame à Montréal choque les chefs.",
-          "published": "2026-09-17T21:40:29+00:00"
-        },
-        {
-          "title": "Davantage de protections contre les suicides réclamées sur le pont Samuel-De Champlain",
-          "link": "https://www.ledevoir.com/politique/montreal/1009967/davantage-protections-contre-suicides-reclamees-pont-samuel-champlain",
-          "source": "Le Devoir",
-          "summary": "La coroner Denise Fréchette recommande notamment l’installation de caméras utilisant l’IA.",
-          "published": "2026-09-17T21:27:00+00:00"
-        },
-        {
-          "title": "Comment devient-on un «membre associé» de l’Union européenne?",
-          "link": "https://www.ledevoir.com/monde/1009964/comment-devient-on-membre-associe-union-europeenne",
-          "source": "Le Devoir",
-          "summary": "Les étapes nécessaires à la concrétisation de cette alliance ne sont pas clairement définies.",
-          "published": "2026-09-17T21:16:00+00:00"
-        },
-        {
-          "title": "Trump retire la candidature de son champion à la tête de l’ICE",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-17/trump-retire-la-candidature-de-son-champion-a-la-tete-de-l-ice.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Churchill Falls | Les élus de Terre-Neuve-et-Labrador votent pour l’entente-cadre",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-09-17/churchill-falls/les-elus-de-terre-neuve-et-labrador-votent-pour-l-entente-cadre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Maison-Blanche a annoncé jeudi qu’elle retirait la candidature de Lance Schroyer, un ancien agent de la police d’État de l’Oklahoma, à la tête de l’agence américaine de l’immigration et des douanes (ICE). Ce retrait…",
-          "published": "2026-09-17T20:54:34+00:00"
+          "summary": "Le gouvernement de Terre-Neuve-et-Labrador a voté pour un accord de plusieurs milliards de dollars visant à partager l’énergie produite au Labrador avec Hydro-Québec, bien que ce vote ait été adopté à une très faible…",
+          "published": "2026-09-17T23:35:44+00:00"
+        },
+        {
+          "title": "Rentrée cinéma | Les films américains et étrangers attendus cet automne",
+          "link": "https://www.lapresse.ca/cinema/2026-09-17/rentree-cinema/les-films-americains-et-etrangers-attendus-cet-automne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Une année déjà faste en superproductions se terminera avec des films signés Alejandro Iñárritu, David Fincher et Robert Eggers, ainsi que l’évènement « Dunesday », le 18 décembre, jour de sortie de Dune – Part Three, de…",
+          "published": "2026-09-17T23:30:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
+          "title": "«The Sound of Milk» de Camille, le béat-ba de la maternité",
+          "link": "https://www.liberation.fr/culture/musique/the-sound-of-milk-de-camille-le-beat-ba-de-la-maternite-20260918_WAX3S5BL7JHOXHGMYQZB7QLVCQ/",
+          "source": "Liberation",
+          "summary": "La chanteuse revient avec un triple album inclassable sur son expérience de mère, d’une grande créativité, mais dont le ton presque exclusivement émerveillé fait sombrer le projet.",
+          "published": "2026-09-18T03:15:00+00:00"
+        },
+        {
+          "title": "Japon : l'inflation ralentit légèrement en août",
+          "link": "https://www.lefigaro.fr/conjoncture/japon-l-inflation-ralentit-legerement-en-aout-20260918",
+          "source": "Le Figaro",
+          "summary": "La Banque du Japon a donc relevé son taux directeur de 0,25 points à 1,25%, au plus haut niveau depuis 31 ans.",
+          "published": "2026-09-18T03:10:03+00:00"
+        },
+        {
+          "title": "Des affrontements interethniques font 26 morts dans la région d’Abyei que se disputent les deux Soudans",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/18/des-affrontements-interethniques-font-26-morts-dans-la-region-d-abyei-que-se-disputent-les-deux-soudan_6776585_3212.html",
+          "source": "Le Monde",
+          "summary": "Des assassinats au sein de deux ethnies ont « exacerbé les tensions entre les deux communautés », a affirmé la mission de maintien de la paix de l’ONU pour ce territoire.",
+          "published": "2026-09-18T01:14:52+00:00"
+        },
+        {
+          "title": "Emmanuel Grégoire va rencontrer Zohran Mamdani à New York vendredi",
+          "link": "https://www.lefigaro.fr/international/emmanuel-gregoire-va-rencontrer-zohran-mamdani-a-new-york-vendredi-20260918",
+          "source": "Le Figaro",
+          "summary": "Les deux maires vont d’abord échanger lors d’une réunion fermée à la presse, puis visiter un site de logements sociaux avec la maire d’Amsterdam et celle du Grand Manchester.",
+          "published": "2026-09-18T00:36:46+00:00"
+        },
+        {
+          "title": "Nigeria : enquête après la mort en détention de 37 hommes soupçonnés d’être des mineurs illégaux",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/18/nigeria-enquete-apres-la-mort-en-detention-de-37-hommes-soupconnes-d-etre-des-mineurs-illegaux_6776551_3212.html",
+          "source": "Le Monde",
+          "summary": "Le gouverneur de l’Etat du Niger, dans le centre du pays, où affluent des milliers de chercheurs d’or artisanaux, a décrété trois jours de deuil et reporté le début de la campagne pour les élections prévues en janvier.",
+          "published": "2026-09-18T00:34:57+00:00"
+        },
+        {
+          "title": "L’OM s’incline lourdement chez le Besiktas pour ouvrir sa campagne de Ligue Europa",
+          "link": "https://www.lemonde.fr/sport/article/2026/09/18/l-om-s-incline-lourdement-chez-le-besiktas-pour-ouvrir-sa-campagne-de-ligue-europa_6776518_3242.html",
+          "source": "Le Monde",
+          "summary": "Les Marseillais, battus (1-4) jeudi soir à Istanbul, ont craqué en seconde période en encaissant trois buts. Ils concèdent une quatrième défaite d’affilée, avant de recevoir le Paris Saint-Germain, dimanche, en Ligue 1",
+          "published": "2026-09-18T00:22:16+00:00"
+        },
+        {
+          "title": "L’Iran frappe un pétrolier dans le secteur d’Ormuz",
+          "link": "https://www.lefigaro.fr/international/l-iran-frappe-un-petrolier-dans-le-secteur-d-ormuz-20260918",
+          "source": "Le Figaro",
+          "summary": "Les Gardiens de la révolution iraniens ont annoncé vendredi avoir frappé un pétrolier battant pavillon togolais dans le secteur du détroit d’Ormuz.",
+          "published": "2026-09-18T00:11:46+00:00"
+        },
+        {
+          "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude",
+          "link": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
+          "source": "Le Monde",
+          "summary": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19…",
+          "published": "2026-09-18T00:00:17+00:00"
+        },
+        {
+          "title": "Michel Fournier, ministre délégué chargé de la ruralité, quitte le gouvernement",
+          "link": "https://www.lemonde.fr/politique/article/2026/09/18/michel-fournier-ministre-delegue-charge-de-la-ruralite-quitte-le-gouvernement_6776516_823448.html",
+          "source": "Le Monde",
+          "summary": "Il devrait reprendre la présidence de l’Association des maires ruraux de France, qu’il occupe depuis 2020 et dont il s’était mis en retrait en entrant dans le gouvernement Lecornu II, en octobre 2025.",
+          "published": "2026-09-17T23:43:06+00:00"
+        },
+        {
           "title": "«Le Canada et l’Europe doivent développer leur propre autonomie stratégique»",
           "link": "https://www.liberation.fr/international/amerique/le-canada-et-leurope-doivent-developper-leur-propre-autonomie-strategique-20260918_627H7GHNYRGNPBRN7VTILSDOAA/",
           "source": "Liberation",
           "summary": "Selon l’économiste québécois Mathieu Arès, le rapprochement d’Ottawa avec Bruxelles peut réduire certaines des vulnérabilités canadiennes dans la défense ou l’énergie.",
           "published": "2026-09-17T22:31:00+00:00"
-        },
-        {
-          "title": "Un policier, « adhérent à une idéologie d’ultradroite », mis en examen pour préparation d’acte terroriste",
-          "link": "https://www.lemonde.fr/societe/article/2026/09/18/un-policier-adherent-a-une-ideologie-d-ultradroite-mis-en-examen-pour-preparation-d-acte-terroriste_6776483_3224.html",
-          "source": "Le Monde",
-          "summary": "Le fonctionnaire, qui a été écroué à Paris après avoir été interpellé, le 23 août, est « soupçonné d’avoir voulu mener des attaques violentes contre des intérêts de l’Etat » et d’avoir « fabriqué des armes imprimées en…",
-          "published": "2026-09-17T22:18:39+00:00"
-        },
-        {
-          "title": "Le ministre délégué chargé de la ruralité va quitter le gouvernement",
-          "link": "https://www.lefigaro.fr/politique/le-ministre-delegue-charge-de-la-ruralite-va-quitter-le-gouvernement-20260917",
-          "source": "Le Figaro",
-          "summary": "Michel Fournier a annoncé jeudi lors d’un séminaire gouvernemental qu’il allait quitter le gouvernement pour se consacrer à son Association des maires ruraux de France.",
-          "published": "2026-09-17T21:56:34+00:00"
-        },
-        {
-          "title": "Budget 2027 : Sébastien Lecornu prépare une \"potion d'austérité\", \"insoutenable\" et \"irresponsable\", estime le socialiste Arthur Delaporte",
-          "link": "https://www.franceinfo.fr/economie/budget/direct-budget-2027-le-gel-du-point-d-indice-des-fonctionnaires-est-un-scandale-pour-la-secretaire-generale-de-la-cgt_8197844.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le député et porte-parole du PS a critiqué une \"potion d'austérité amère qui est faite sur le dos des Français\", avant d'ajouter que c'était \"l'inverse de ce qu'il faudrait faire\".",
-          "published": "2026-09-17T21:53:43+00:00"
-        },
-        {
-          "title": "«Potion d’austérité», «difficultés financières» à venir… La copie budgétaire de Sébastien Lecornu ne convainc pas les oppositions",
-          "link": "https://www.lefigaro.fr/politique/potion-d-austerite-difficultes-financieres-a-venir-la-copie-budgetaire-de-sebastien-lecornu-ne-convainc-pas-les-oppositions-20260917",
-          "source": "Le Figaro",
-          "summary": "Le premier ministre a présenté jeudi dans Le Figaro les grandes lignes d’un budget pour 2027 qu’il veut «offensif» avec un «effort» d’économies massif de 54 milliards d’euros.",
-          "published": "2026-09-17T21:52:08+00:00"
-        },
-        {
-          "title": "Eric Zemmour, président du parti d’extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
-          "link": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-droite-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le leader du parti d'extrême droite avait, ces dernières semaines, dissipé les doutes sur une nouvelle candidature à l'Elysée et fait savoir que ce serait bien lui qui porterait les couleurs de Reconquête, et non pas…",
-          "published": "2026-09-17T21:50:45+00:00"
-        },
-        {
-          "title": "Yvelines : un policier, «adhérent à l’idéologie d’ultradroite», mis en examen et écroué pour préparation d’acte de terrorisme",
-          "link": "https://www.lefigaro.fr/faits-divers/yvelines-un-policier-adherent-a-l-ideologie-d-ultradroite-mis-en-examen-et-ecroue-pour-preparation-d-acte-de-terrorisme-20260917",
-          "source": "Le Figaro",
-          "summary": "Interpellé le 23 août, le policier de 35 ans est soupçonné d’avoir projeté des actions violentes contre les institutions et les forces de l’ordre. Il aurait notamment publié des messages menaçants sur des forums en…",
-          "published": "2026-09-17T21:50:14+00:00"
-        },
-        {
-          "title": "EN DIRECT - Présidentielle 2027: Éric Zemmour confirme qu’il sera candidat",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-le-climat-l-europe-et-les-enfants-au-menu-des-candidats-ce-jeudi-20260917",
-          "source": "Le Figaro",
-          "summary": "Interrogé jeudi soir sur BFMTV, le président de Reconquête! a affirmé qu’il sera «candidat à l’élection présidentielle». Il ne s’agit cependant pas d’une déclaration formelle de candidature qui, selon son entourage,…",
-          "published": "2026-09-17T21:43:01+00:00"
-        },
-        {
-          "title": "Un policier mis en examen dans les Yvelines, soupçonné de préparer \"un acte de terrorisme\"",
-          "link": "https://www.franceinfo.fr/societe/justice/un-policier-mis-en-examen-dans-les-yvelines-soupconne-de-preparer-un-acte-de-terrorisme_8198147.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Un fonctionnaire de police âgé de 35 ans a été mis en examen, soupçonné de préparer \"un acte de terrorisme\", ont appris l'Agence Radio France et franceinfo jeudi, confirmant une information de TF1/LCI.",
-          "published": "2026-09-17T21:15:31+00:00"
-        },
-        {
-          "title": "Budget 2027 : le déficit dérape, Sébastien Lecornu repousse d’un an le redressement des comptes",
-          "link": "https://www.lemonde.fr/politique/article/2026/09/17/budget-2027-le-deficit-derape-sebastien-lecornu-repousse-d-un-an-le-redressement-des-comptes_6776482_823448.html",
-          "source": "Le Monde",
-          "summary": "Le déficit devrait monter à 5,4 % du PIB cette année, loin des 5 % visés, a reconnu le gouvernement, jeudi. Après ce dérapage, le premier ministre espère reprendre le contrôle des comptes publics en 2027. Les…",
-          "published": "2026-09-17T21:15:05+00:00"
         }
       ]
     },
