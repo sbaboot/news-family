@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-09-19T22:40:33.725653+00:00",
+  "generated_at": "2026-09-20T03:32:10.439045+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Emmanuel Macron réaffirme la souveraineté de Saint-Pierre-et-Miquelon face aux convoitises de Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président français, qui est arrivé sur l’archipel de l’Atlantique Nord samedi, doit recevoir le premier ministre canadien, Mark Carney. Ce déplacement renforce la volonté du Canada de prendre ses distances avec les…",
+          "published": "2026-09-20T03:30:21+00:00"
+        },
+        {
+          "title": "A Gaza, les femmes seules désormais responsables de la survie de leur famille : « Des gens étaient tués en chemin, mais il fallait que j’avance pour trouver à manger pour les enfants »",
+          "link": "https://www.lemonde.fr/international/article/2026/09/20/a-gaza-les-femmes-seules-desormais-responsables-de-la-survie-de-leur-famille-des-gens-etaient-tues-en-chemin-mais-il-fallait-que-j-avance-pour-trouver-a-manger-pour-les-enfants_6778046_3210.html",
+          "source": "Le Monde",
+          "summary": "La guerre menée par Israël a bouleversé la structure des familles gazaouies : près d’un foyer sur quatre est désormais dirigé par une femme. Des dizaines de milliers de Palestiniennes se retrouvent ainsi seules à…",
+          "published": "2026-09-20T03:30:19+00:00"
+        },
+        {
+          "title": "Entre TikTok et Douyin, son équivalent chinois, quelles différences y a-t-il ?",
+          "link": "https://www.lemonde.fr/pixels/article/2026/09/20/entre-tiktok-et-douyin-son-equivalent-chinois-quelles-differences-y-a-t-il_6778045_4408996.html",
+          "source": "Le Monde",
+          "summary": "Forte de 760 millions d’utilisateurs actifs quotidiens, jeunes et vieux, la plateforme n’en finit plus de réguler ses contenus. Un arsenal d’outils répressifs contre les violences ou les arnaques… qui n’atténue en rien…",
+          "published": "2026-09-20T03:30:06+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : trois morts, dont deux enfants de 2 ans et 3 ans, dans une frappe russe près de Kiev",
+          "link": "https://www.lemonde.fr/international/live/2026/09/20/en-direct-guerre-en-ukraine-trois-morts-dont-deux-enfants-de-2-ans-et-3-ans-dans-une-frappe-russe-pres-de-kiev_6777944_3210.html",
+          "source": "Le Monde",
+          "summary": "Un drone russe a touché une maison, dans la ville de Hlevakha, et tué une femme de 39 ans, son fils de 2 ans et une fillette de 3 ans, sans que l’on sache si celle-ci était également l’enfant de l’adulte décédée.",
+          "published": "2026-09-20T02:30:56+00:00"
+        },
+        {
+          "title": "Dans le sillage du Leusden au Suriname",
+          "link": "https://www.rfi.fr/fr/podcasts/si-loin-si-proche/20260920-dans-le-sillage-du-leusden-au-suriname",
+          "source": "RFI",
+          "summary": "Bateau négrier naufragé, englouti en 1738 dans les eaux atlantiques, le Leusden est à l’image de la mémoire de l’esclavage au Suriname. Enfoui, tombé dans l’oubli mais hantant les esprits…",
+          "published": "2026-09-20T02:00:03+00:00"
+        },
+        {
+          "title": "Saint-Pierre-et-Miquelon est bien « français », martèle sur place Emmanuel Macron, en réponse aux visées expansionnistes de Donald Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/09/20/saint-pierre-et-miquelon-est-bien-francais-martele-sur-place-emmanuel-macron-en-reponse-aux-visees-expansionnistes-de-donald-trump_6777911_3210.html",
+          "source": "Le Monde",
+          "summary": "Dès son arrivée sur place, le président a réaffirmé la souveraineté française sur l’unique territoire d’outre-mer situé dans l’Atlantique Nord, où il doit recevoir, dimanche, le premier ministre canadien, Mark Carney.",
+          "published": "2026-09-19T23:43:51+00:00"
+        },
         {
           "title": "L'Institut Célébrez-Vous pour la valorisation des talents internationaux en France",
           "link": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20260919-l-institut-c%C3%A9l%C3%A9brez-vous-pour-la-valorisation-des-talents-internationaux-en-france",
@@ -12,11 +54,11 @@
           "published": "2026-09-19T22:00:03+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : quatre civils tués dans une frappe russe dans l’oblast de Soumy",
+          "title": "Guerre en Ukraine : quatre civils tués dans une frappe russe dans l’oblast de Soumy. Retrouvez les informations du 13 au 19 septembre.",
           "link": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-quatre-civils-tues-dans-une-frappe-russe-dans-l-oblast-de-soumy_6772184_3210.html",
           "source": "Le Monde",
           "summary": "Une voiture a été prise pour cible, samedi, par un drone russe, a annoncé Oleh Hryhorov, chef de l’administration militaire régionale. Par ailleurs, on centre commercial de Dnipro a été en grande partie détruit par un…",
-          "published": "2026-09-19T21:22:01+00:00"
+          "published": "2026-09-19T21:21:59+00:00"
         },
         {
           "title": "Trump va nommer un \"tsar\" pour \"chérir, aider et veiller sur\" l'IA",
@@ -31,48 +73,6 @@
           "source": "France 24",
           "summary": "Au Mali, le bilan de l’attaque menée le 10 septembre 2026 par les jihadistes du Jnim, liés à al-Qaïda, contre le camp de l’armée à Dioura, dans la région de Mopti, s’alourdit. Selon plusieurs sources, au moins 100…",
           "published": "2026-09-19T20:38:24+00:00"
-        },
-        {
-          "title": "Festival Maillage : quelles voix pour raconter le monde d’aujourd’hui ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260919-festival-maillage-quelles-voix-pour-raconter-le-monde-d-aujourd-hui",
-          "source": "France 24",
-          "summary": "Un nouveau festival littéraire voit le jour à Paris. Du 25 au 27 septembre 2026, Maillage investit le Palais de la Porte Dorée avec une ambition : faire circuler les récits et les formes, et donner à entendre une…",
-          "published": "2026-09-19T20:30:49+00:00"
-        },
-        {
-          "title": "Arabie saoudite : la coalition militaire accuse les houthistes d’avoir lancé un missile balistique sur Riyad",
-          "link": "https://www.lemonde.fr/international/article/2026/09/19/arabie-saoudite-la-coalition-militaire-accuse-les-houthistes-d-avoir-lance-un-missile-balistique-sur-riyad_6777045_3211.html",
-          "source": "Le Monde",
-          "summary": "De fortes détonations ont retenti dans la matinée de samedi. Le royaume subit ces derniers jours la pression des combattants houthistes au Yémen, mais c’est la première fois que la capitale saoudienne est concernée par…",
-          "published": "2026-09-19T20:02:33+00:00"
-        },
-        {
-          "title": "France : le pass patrimoine, la nouveauté de cette rentrée 2026",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260919-france-le-pass-patrimoine-la-nouveaut%C3%A9-de-cette-rentr%C3%A9e-2026",
-          "source": "France 24",
-          "summary": "Grande nouveauté de la rentrée, le pass patrimoine a été mis en vente ce vendredi. Valentine Erba vous raconte son fonctionnement.",
-          "published": "2026-09-19T18:57:24+00:00"
-        },
-        {
-          "title": "Accès interdit à la Maison Blanche pour CNN, MS ​NOW et Politico",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260919-acc%C3%A8s-interdit-%C3%A0-la-maison-blanche-pour-cnn-ms-now-et-politico",
-          "source": "France 24",
-          "summary": "Conformément ​à la décision annoncée la veille par le président américain Donald Trump, les ⁠journalistes de CNN, MS ​NOW et Politico ont été privés d'accès à la Maison blanche samedi. Les trois médias ont fait savoir…",
-          "published": "2026-09-19T16:48:19+00:00"
-        },
-        {
-          "title": "CNN, MS NOW et « Politico » effectivement interdits d’entrer à la Maison Blanche après l’annonce de Donald Trump",
-          "link": "https://www.lemonde.fr/international/article/2026/09/19/cnn-ms-now-et-politico-effectivement-interdits-d-entrer-a-la-maison-blanche-apres-l-annonce-de-donald-trump_6777832_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président américain reproche à ces médias de diffuser en permanence de « fausses informations » à son sujet. La décision, largement condamnée comme une atteinte à la liberté de la presse, marque une intensification…",
-          "published": "2026-09-19T16:09:59+00:00"
-        },
-        {
-          "title": "Arabie saoudite : flammes et fumée noire visibles près de l'aéroport de Ryad",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260919-arabie-saoudite-flammes-et-fum%C3%A9e-noire-visibles-pr%C3%A8s-de-l-a%C3%A9roport-de-ryad",
-          "source": "France 24",
-          "summary": "Des flammes et de la fumée noire sont apparues samedi 19 septembre près de l'aéroport de Ryad, où des explosions avaient retenti dans la nuit pour la première fois depuis la reprise des hostilités avec les Houthis du…",
-          "published": "2026-09-19T16:01:20+00:00"
         }
       ]
     },
@@ -84,80 +84,136 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Coquerelles, crasse et moisissures à la Boulangerie Balsamine de Montréal",
+          "link": "https://www.journaldemontreal.com/2026/12/31/coquerelles-crasse-et-moisissures-a-la-boulangerie-balsamine-de-montreal",
+          "source": "Journal de Montreal",
+          "summary": "Une petite boulangerie montréalaise n’avait pas fière allure en 2024 et 2025 quand les inspecteurs y sont passés",
+          "published": "2026-12-31T05:05:00+00:00"
+        },
+        {
+          "title": "Saint-Pierre-et-Miquelon est «français» répond Macron à Trump",
+          "link": "https://www.ledevoir.com/monde/1010417/saint-pierre-miquelon-est-francais-repond-macron-trump",
+          "source": "Le Devoir",
+          "summary": "Il répliquait à une carte postée par Trump qui couvre toute la région du drapeau des États-Unis.",
+          "published": "2026-09-20T02:10:22+00:00"
+        },
+        {
+          "title": "Le plongeur attaqué par un requin blanc à Percé serait dans un état stable",
+          "link": "https://www.ledevoir.com/actualites/1010414/plongeur-attaque-requin-blanc-perce-serait-etat-stable",
+          "source": "Le Devoir",
+          "summary": "Le plongeur a été mordu et blessé au haut du corps, au large de Percé.",
+          "published": "2026-09-20T00:24:33+00:00"
+        },
+        {
+          "title": "Championnats du monde de cyclisme | Montréal sera belle",
+          "link": "https://www.lapresse.ca/sports/chroniques/2026-09-19/championnats-du-monde-de-cyclisme/montreal-sera-belle.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Quand ça va bien, il faut le dire.",
+          "published": "2026-09-19T23:45:00+00:00"
+        },
+        {
+          "title": "Avant une rencontre avec Mark Carney | Saint-Pierre-et-Miquelon est « français » répond Macron à Trump",
+          "link": "https://www.lapresse.ca/international/2026-09-19/avant-une-rencontre-avec-mark-carney/saint-pierre-et-miquelon-est-francais-repond-macron-a-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "« C’est une évidence », « pas de discussion » : Emmanuel Macron a martelé dès son arrivée samedi soir à Saint-Pierre-et-Miquelon, en plein Atlantique Nord, que ce territoire était bien « français » et « attaché à la…",
+          "published": "2026-09-19T23:32:36+00:00"
+        },
+        {
+          "title": "Un café avec... David Frum | Trump, Carney et l’œil du cyclope",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-09-19/un-cafe-avec-david-frum/trump-carney-et-l-oeil-du-cyclope.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Il pensait arrêter d’écrire sur la politique. Mais la réélection de Donald Trump a convaincu l’intellectuel David Frum qu’il devait rester au front. De passage à Montréal pour participer au Sommet québécois pour l’état…",
+          "published": "2026-09-19T23:00:00+00:00"
+        },
+        {
+          "title": "Le Canada obtient son billet pour les Finales de la Coupe Davis",
+          "link": "https://www.ledevoir.com/sports/1010411/france-reduit-ecart-face-canada-coupe-davis",
+          "source": "Le Devoir",
+          "summary": "Auger-Aliassime et Draxl avaient remporté leurs matchs respectifs vendredi pour donner un coussin de 2-0 à l’unifolié.",
+          "published": "2026-09-19T22:45:00+00:00"
+        },
+        {
           "title": "La visite des chefs à Saint-Tite assombrie par un drame",
           "link": "https://www.ledevoir.com/politique/quebec/1010408/visite-chefs-saint-tite-assombrie-drame",
           "source": "Le Devoir",
           "summary": "Aux «dernières élections, on parlait juste de GES. Aujourd’hui, on parle des gaz de schiste», se réjouit Éric Duhaime.",
-          "published": "2026-09-19T21:32:07+00:00"
+          "published": "2026-09-19T21:32:00+00:00"
         },
         {
-          "title": "Les partis pressés face à «l’urgence» d’agir contre les féminicides",
+          "title": "États-Unis | Donald Trump s’en prend aux détracteurs de l’IA et annonce la création d’une force dédiée",
+          "link": "https://www.lapresse.ca/affaires/techno/2026-09-19/etats-unis/donald-trump-s-en-prend-aux-detracteurs-de-l-ia-et-annonce-la-creation-d-une-force-dediee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Donald Trump s’en est pris vivement samedi aux détracteurs de l’intelligence artificielle (IA), affirmant qu’il n’accepterait rien qui puisse faire obstacle au développement de cette industrie tout en annonçant la…",
+          "published": "2026-09-19T21:25:56+00:00"
+        },
+        {
+          "title": "Les partis interpellés face à «l’urgence» d’agir contre les féminicides",
           "link": "https://www.ledevoir.com/actualites/societe/1010405/partis-presses-face-urgence-agir-contre-feminicides",
           "source": "Le Devoir",
           "summary": "Une marche contre les féminicides a rassemblé plus de 1000 personnes à Montréal, samedi.",
-          "published": "2026-09-19T21:16:58+00:00"
-        },
-        {
-          "title": "L’Arabie saoudite dit avoir intercepté un missile tiré par les Houthis vers Ryad",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1010402/arabie-saoudite-dit-avoir-intercepte-missile-tire-houthis-vers-ryad",
-          "source": "Le Devoir",
-          "summary": "De fortes explosions ont retenti dans la capitale saoudienne dans la nuit.",
-          "published": "2026-09-19T20:35:12+00:00"
-        },
-        {
-          "title": "Allié du Parti québécois | « On va être majoritaire » pour bloquer Alto, croit Duhaime",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-19/allie-du-parti-quebecois/on-va-etre-majoritaire-pour-bloquer-alto-croit-duhaime.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Paul St-Pierre Plamondon trouve un allié en Éric Duhaime. « On va être majoritaire à l’Assemblée nationale » pour arrêter le projet de TGV d’Alto, affirme le chef conservateur, qui refuse de « faire confiance » aux…",
-          "published": "2026-09-19T20:23:12+00:00"
-        },
-        {
-          "title": "Coupe Davis | La France remporte le double, le Canada mène 2-1",
-          "link": "https://www.lapresse.ca/sports/tennis/2026-09-19/coupe-davis/la-france-remporte-le-double-le-canada-mene-2-1.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La paire française a battu samedi à Québec la paire canadienne 7-6 (7/4), 6-3 pour marquer le premier point de la France dans cette rencontre qualificative pour la phase finale de Coupe Davis, le Canada menant 2-1 après…",
-          "published": "2026-09-19T20:10:46+00:00"
-        },
-        {
-          "title": "Des journalistes de CNN et d’autres médias empêchés d’accéder à la Maison-Blanche",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1010399/journalistes-cnn-autres-medias-empeches-acceder-maison-blanche",
-          "source": "Le Devoir",
-          "summary": "Donald Trump a accusé les trois médias de relayer de fausses informations.",
-          "published": "2026-09-19T20:00:30+00:00"
-        },
-        {
-          "title": "Manifestation à Montréal | Les chefs appelés à faire des féminicides un « réel enjeu de campagne »",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-19/manifestation-a-montreal/les-chefs-appeles-a-faire-des-feminicides-un-reel-enjeu-de-campagne.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Plus d’un millier de personnes ont marché dans les rues de Montréal, samedi, pour dénoncer la multiplication des féminicides au Québec. Les organisateurs ont appelé les chefs de parti, pour la plupart absents, à faire…",
-          "published": "2026-09-19T19:56:14+00:00"
-        },
-        {
-          "title": "Montréal | Les cols bleus planifient des perturbations en marge des Championnats mondiaux",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-19/montreal/les-cols-bleus-planifient-des-perturbations-en-marge-des-championnats-mondiaux.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les cols bleus de Montréal planifient des perturbations en marge des Championnats du monde de cyclisme, s’ils ne parviennent pas à une entente de principe avec leur employeur, à 36 heures du début de leur grève.",
-          "published": "2026-09-19T19:18:21+00:00"
-        },
-        {
-          "title": "L’approche prudente des Maple Leafs",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-09-19/l-approche-prudente-des-maple-leafs.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "C’était un exercice attendu. En ce samedi, à quelques heures du premier match préparatoire des Maple Leafs, l’équipe a effectué ses premières répétitions en avantage numérique.",
-          "published": "2026-09-19T18:57:01+00:00"
-        },
-        {
-          "title": "La ministre Hajdu compte réduire les interventions de l’État en cas de grève",
-          "link": "https://www.ledevoir.com/politique/canada/1010396/ministre-hajdu-compte-reduire-interventions-etat-cas-greve",
-          "source": "Le Devoir",
-          "summary": "Un projet de loi sera déposé en ce sens prochainement.",
-          "published": "2026-09-19T18:30:00+00:00"
+          "published": "2026-09-19T21:16:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "EN DIRECT, guerre en Ukraine : trois morts, dont deux enfants de 2 ans et 3 ans, dans une frappe russe près de Kiev",
+          "link": "https://www.lemonde.fr/international/live/2026/09/20/en-direct-guerre-en-ukraine-trois-morts-dont-deux-enfants-de-2-ans-et-3-ans-dans-une-frappe-russe-pres-de-kiev_6777944_3210.html",
+          "source": "Le Monde",
+          "summary": "Un drone russe a touché une maison, dans la ville de Hlevakha, et tué une femme de 39 ans, son fils de 2 ans et une fillette de 3 ans, sans que l’on sache si celle-ci était également l’enfant de l’adulte décédée.",
+          "published": "2026-09-20T02:30:56+00:00"
+        },
+        {
+          "title": "Polémique autour de Gaza: sur scène, Ed Sheeran reconnaît «des erreurs»",
+          "link": "https://www.lefigaro.fr/culture/polemique-autour-de-gaza-sur-scene-ed-sheeran-reconnait-des-erreurs-20260920",
+          "source": "Le Figaro",
+          "summary": "À l’heure où un nombre croissant d’artistes prennent la parole sur le conflit entre Israël et le Hamas et son lourd bilan côté palestinien, l’artiste anglais a affirmé mardi «ne pas faire de son métier une plateforme…",
+          "published": "2026-09-20T02:05:27+00:00"
+        },
+        {
+          "title": "Cuba: retour progressif de l'électricité après une nouvelle panne généralisée",
+          "link": "https://www.lefigaro.fr/international/cuba-retour-progressif-de-l-electricite-apres-une-nouvelle-panne-generalisee-20260920",
+          "source": "Le Figaro",
+          "summary": "Samedi, la compagnie nationale d’électricité UNE a fait savoir qu’elle avait réussi à reconnecter le réseau électrique national dans 14 des 15 provinces de l’île.",
+          "published": "2026-09-20T01:20:32+00:00"
+        },
+        {
+          "title": "L’accord sur le Groenland «permet d’apaiser les choses» et «de réaffirmer la souveraineté danoise», se félicite Emmanuel Macron",
+          "link": "https://www.lefigaro.fr/international/l-accord-sur-le-groenland-permet-d-apaiser-les-choses-et-de-reaffirmer-la-souverainete-danoise-felicite-emmanuel-macron-20260919",
+          "source": "Le Figaro",
+          "summary": "«Le droit international est respecté, et que c’est ce que nous demandions. Donc c’est une bonne chose», a déclaré le président à son arrivée à Saint-Pierre-et-Miquelon.",
+          "published": "2026-09-20T00:22:51+00:00"
+        },
+        {
+          "title": "Pérou: une journaliste et candidate aux élections locales tuée par balles",
+          "link": "https://www.lefigaro.fr/international/perou-une-journaliste-et-candidate-aux-elections-locales-tuee-par-balles-20260920",
+          "source": "Le Figaro",
+          "summary": "Susy Aponte, 44 ans, a été abattue par balles alors qu’elle déambulait avec des sympathisants dans un marché de Caraz, dans la région d’Áncash. L’attaque a également fait cinq blessés.",
+          "published": "2026-09-19T23:50:43+00:00"
+        },
+        {
+          "title": "Saint-Pierre-et-Miquelon est bien « français », martèle sur place Emmanuel Macron, en réponse aux visées expansionnistes de Donald Trump",
+          "link": "https://www.lemonde.fr/international/article/2026/09/20/saint-pierre-et-miquelon-est-bien-francais-martele-sur-place-emmanuel-macron-en-reponse-aux-visees-expansionnistes-de-donald-trump_6777911_3210.html",
+          "source": "Le Monde",
+          "summary": "Dès son arrivée sur place, le président a réaffirmé la souveraineté française sur l’unique territoire d’outre-mer situé dans l’Atlantique Nord, où il doit recevoir, dimanche, le premier ministre canadien, Mark Carney.",
+          "published": "2026-09-19T23:43:51+00:00"
+        },
+        {
+          "title": "Saint-Pierre-et-Miquelon est français, «c’est une évidence», affirme Emmanuel Macron en réponse à une carte de Donald Trump",
+          "link": "https://www.lefigaro.fr/international/saint-pierre-et-miquelon-est-francais-c-est-une-evidence-affirme-emmanuel-macron-en-reponse-a-une-carte-de-donald-trump-20260919",
+          "source": "Le Figaro",
+          "summary": "À travers son déplacement Outre-Atlantique, aux côtés du premier ministre canadien Mark Carney, le président français entend faire front face aux ambitions territoriales de Donald Trump.",
+          "published": "2026-09-19T23:03:52+00:00"
+        },
+        {
+          "title": "L’Olympique lyonnais et le Paris FC prennent place sur le podium de Ligue 1",
+          "link": "https://www.lemonde.fr/sport/article/2026/09/20/l-olympique-lyonnais-et-le-paris-fc-prennent-place-sur-le-podium-de-ligue-1_6777878_3242.html",
+          "source": "Le Monde",
+          "summary": "L’OL a surclassé Rennes (4-0) en lui infligeant sa première défaite de la saison en championnat, lors de la 5e journée, samedi. Le PFC a, lui, dominé Strasbourg (2-1) et confirmé ses ambitions. Le Mans et Toulouse ont…",
+          "published": "2026-09-19T22:37:39+00:00"
+        },
         {
           "title": "«Je m’en excuse» : Sébastien Delogu reconnaît ne pas avoir payé la pension alimentaire de ses enfants et assure avoir régularisé sa situation",
           "link": "https://www.lefigaro.fr/marseille/je-m-en-excuse-sebastien-delogu-reconnait-ne-pas-avoir-paye-la-pension-alimentaire-de-ses-enfants-et-promet-de-rembourser-20260919",
@@ -171,62 +227,6 @@
           "source": "Le Figaro",
           "summary": "En visite officielle à Saint-Pierre-et-Miquelon, le président a expliqué que «moins de la moitié du (pétrole) produit sort» du Moyen Orient en raison du conflit dans le détroit d’Ormuz.",
           "published": "2026-09-19T22:12:07+00:00"
-        },
-        {
-          "title": "Ligue 1 : Le Mans 16 ans plus tard, les Danois font décoller le TFC, Rennes et Lorient indigents, les «Bad Gones» font des siennes… Les tops et flops du multiplex",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-le-mans-16-ans-plus-tard-les-danois-font-decoller-le-tfc-rennes-et-lorient-indigents-les-tops-et-flops-du-multiplex-20260919",
-          "source": "Le Figaro",
-          "summary": "ANALYSE – Découvrez ce qui a retenu l’attention de la rédaction lors du multiplex de la 5e journée, samedi soir, qui a vu Angers dominé Troyes (2-0), Le Mans s’imposer contre Lorient (2-1), Lyon écrasé Rennes (4-0) et…",
-          "published": "2026-09-19T21:58:41+00:00"
-        },
-        {
-          "title": "Saint-Pierre-et-Miquelon est français, «c’est une évidence», affirme Emmanuel Macron en réponse à une carte de Donald Trump",
-          "link": "https://www.lefigaro.fr/international/saint-pierre-et-miquelon-est-francais-c-est-une-evidence-affirme-emmanuel-macron-en-reponse-a-une-carte-de-donald-trump-20260919",
-          "source": "Le Figaro",
-          "summary": "À travers son déplacement Outre-Atlantique, aux côtés du premier ministre canadien Mark Carney, le président français entend faire front face aux ambitions territoriales de Donald Trump.",
-          "published": "2026-09-19T21:49:39+00:00"
-        },
-        {
-          "title": "L’accord sur le Groenland «permet d’apaiser les choses» et «de réaffirmer la souveraineté danoise», félicite Emmanuel Macron",
-          "link": "https://www.lefigaro.fr/international/l-accord-sur-le-groenland-permet-d-apaiser-les-choses-et-de-reaffirmer-la-souverainete-danoise-felicite-emmanuel-macron-20260919",
-          "source": "Le Figaro",
-          "summary": "«Je constate que le droit international est respecté, et que c’est ce que nous demandions. Donc c’est une bonne chose», a ajouté le président, en marge d’une visite à Saint-Pierre-et-Miquelon.",
-          "published": "2026-09-19T21:44:58+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : quatre civils tués dans une frappe russe dans l’oblast de Soumy",
-          "link": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-quatre-civils-tues-dans-une-frappe-russe-dans-l-oblast-de-soumy_6772184_3210.html",
-          "source": "Le Monde",
-          "summary": "Une voiture a été prise pour cible, samedi, par un drone russe, a annoncé Oleh Hryhorov, chef de l’administration militaire régionale. Par ailleurs, on centre commercial de Dnipro a été en grande partie détruit par un…",
-          "published": "2026-09-19T21:22:01+00:00"
-        },
-        {
-          "title": "Ligue 1 : Lyon étrille Rennes dans une ambiance chaotique, Le Mans signe sa première victoire 16 ans après",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-lyon-etrille-rennes-dans-une-ambiance-chaotique-le-mans-signe-sa-premiere-victoire-16-ans-apres-20260919",
-          "source": "Le Figaro",
-          "summary": "Lors du multiplex de la 5e journée de Ligue 1, ce samedi, l’OL a dominé Rennes, Le Mans a créé la surprise contre Lorient, Angers s’est imposé contre Troyes et le TFC a gagné contre Le Havre.",
-          "published": "2026-09-19T21:16:31+00:00"
-        },
-        {
-          "title": "L'Olympique Lyonnais écrase Rennes, battu pour la première fois de la saison, et grimpe sur le podium",
-          "link": "https://www.franceinfo.fr/sports/foot/ligue-1/l-olympique-lyonnais-ecrase-rennes-battu-pour-la-premiere-fois-de-la-saison-et-grimpe-sur-le-podium_8201060.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Dans un match interrompu une dizaine de minutes pour une banderole insultante en fin de première mi-temps, l'OL a pris le meilleur sur les Bretons, samedi soir.",
-          "published": "2026-09-19T20:52:52+00:00"
-        },
-        {
-          "title": "Éviction de Charles Sapin : pourquoi France Inter a cédé aux syndicats",
-          "link": "https://www.lefigaro.fr/medias/france-inter-la-direction-cede-a-la-pression-des-syndicats-et-supprime-l-edito-de-charles-sapin-20260919",
-          "source": "Le Figaro",
-          "summary": "À la place d’un édito, le directeur adjoint de la rédaction de Valeurs actuelles s’est vu proposer de participer à un débat, ce qu’il a refusé. Il regrette que la direction de la radio publique ait «décidé de rendre les…",
-          "published": "2026-09-19T20:18:46+00:00"
-        },
-        {
-          "title": "Louvre : deux Allemands interpellés pour de légères dégradations dans la salle de la «Joconde»",
-          "link": "https://www.lefigaro.fr/culture/patrimoine/louvre-deux-allemands-interpelles-pour-de-legeres-degradations-dans-la-salle-de-la-joconde-20260919",
-          "source": "Le Figaro",
-          "summary": "Vers 15h30, deux hommes ont fixé sur le mur, avec du ruban adhésif, deux tableaux dans la salle où est exposée la «Joconde» de Léonard de Vinci.",
-          "published": "2026-09-19T20:09:55+00:00"
         }
       ]
     },
