@@ -86,12 +86,30 @@ def fetch_feed_entries(feed_url: str, source_name: str):
         link = getattr(entry, "link", "").strip()
         if not title or not link:
             continue
+
+        # Les agregateurs (ex: Google News) mettent le vrai media dans <source>
+        # et l'ajoutent aussi en suffixe du titre ("Titre - Le Monde") : on
+        # recupere le vrai nom et on nettoie le titre en consequence.
+        real_source = source_name
+        src_field = getattr(entry, "source", None)
+        if src_field:
+            src_title = None
+            if hasattr(src_field, "get"):
+                src_title = src_field.get("title") or src_field.get("value")
+            elif isinstance(src_field, str):
+                src_title = src_field
+            if src_title:
+                real_source = src_title.strip()
+                suffix = f" - {real_source}"
+                if title.endswith(suffix):
+                    title = title[: -len(suffix)].strip()
+
         summary_raw = getattr(entry, "summary", "") or getattr(entry, "description", "")
         items.append(
             {
                 "title": title,
                 "link": link,
-                "source": source_name,
+                "source": real_source,
                 "summary": clean_summary(summary_raw),
                 "published": parse_published(entry).isoformat(),
             }
@@ -162,8 +180,8 @@ def main():
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
 
-    for tab_key in ("sebastien", "noemie"):
-        tab_cfg = config.get(tab_key, {})
+    for tab_key in config.keys():
+        tab_cfg = config[tab_key]
         print(f"[{tab_key}]")
         pool_cache = {}
         tab_result = {}

@@ -62,49 +62,31 @@ sebastien:
       - url: "https://www.clubic.com/feed/news.rss"
         source: "Clubic"
 
-noemie:
-  bien_etre:
-    label: "Bien-etre"
-    max_items: 10
+diabete:
+  # Toute l'actualite diabete, francais + anglais melanges, triee par date.
+  # Melange de flux dedies (medias specialises) + recherches Google News
+  # (qui agregent des centaines de sources) pour maximiser le volume.
+  actualites:
+    label: "Actualites diabete"
+    max_items: 40
     feeds:
-      - url: "https://www.passeportsante.net/fr/Actualites/rss.aspx"
-        source: "Passeport Sante"
-      - url: "https://www.topsante.com/rss/une.xml"
-        source: "Top Sante"
-      - url: "https://www.doctissimo.fr/rss/une.xml"
-        source: "Doctissimo"
-
-  sejour_bien_etre:
-    label: "Sejour bien-etre"
-    max_items: 8
-    use_pool: "noemie_pool"
-    keywords: ["séjour", "sejour", "spa", "thalasso", "cure", "voyage bien-être", "retreat", "escapade"]
-
-  retraite_spirituelle:
-    label: "Retraite spirituelle"
-    max_items: 8
-    use_pool: "noemie_pool"
-    keywords: ["retraite spirituelle", "spiritual retreat", "méditation", "meditation", "silence", "monastère", "bouddh", "pleine conscience", "mindfulness retreat"]
-
-  retraite_yoga:
-    label: "Retraite yoga"
-    max_items: 8
-    use_pool: "noemie_pool"
-    keywords: ["retraite yoga", "yoga retreat", "yoga", "ashram"]
-
-  deconnexion:
-    label: "Deconnexion"
-    max_items: 8
-    use_pool: "noemie_pool"
-    keywords: ["déconnexion", "deconnexion", "digital detox", "détox numérique", "detox numerique", "sans écran", "offline", "slow life", "ralentir"]
-
-  noemie_pool:
-    feeds:
-      - url: "https://www.passeportsante.net/fr/Actualites/rss.aspx"
-        source: "Passeport Sante"
-      - url: "https://www.topsante.com/rss/une.xml"
-        source: "Top Sante"
-      - url: "https://www.doctissimo.fr/rss/une.xml"
-        source: "Doctissimo"
-      - url: "https://www.slate.fr/rss.xml"
-        source: "Slate.fr"
+      # --- Flux dedies diabete ---
+      - url: "https://www.diabetologie-pratique.com/actualites/feed.xml"
+        source: "Diabetologie Pratique"
+      - url: "https://www.diabetologie-pratique.com/journal/feed.xml"
+        source: "Diabetologie Pratique (journal)"
+      - url: "https://diabetesdaily.com/feed/"
+        source: "Diabetes Daily"
+      - url: "https://insulinnation.com/feed/"
+        source: "Insulin Nation"
+      - url: "https://www.sciencedaily.com/rss/health_medicine/diabetes.xml"
+        source: "ScienceDaily"
+      # --- Google News (agrege des centaines de medias par requete) ---
+      - url: "https://news.google.com/rss/search?q=diab%C3%A8te&hl=fr&gl=FR&ceid=FR:fr"
+        source: "Google News (FR)"
+      - url: "https://news.google.com/rss/search?q=diab%C3%A8te&hl=fr-CA&gl=CA&ceid=CA:fr"
+        source: "Google News (FR-CA)"
+      - url: "https://news.google.com/rss/search?q=diabetes&hl=en-US&gl=US&ceid=US:en"
+        source: "Google News (EN)"
+      - url: "https://news.google.com/rss/search?q=diabetes&hl=en-GB&gl=GB&ceid=GB:en"
+        source: "Google News (UK)"

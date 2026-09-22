@@ -1,10 +1,13 @@
 # Briefing quotidien
 
-Site statique à deux onglets (**Sébastien** / **Noémie**) qui affiche l'actualité du jour,
+Site statique à deux onglets (**Sébastien** / **Diabète**) qui affiche l'actualité du jour,
 mise à jour automatiquement toutes les 3 heures via une GitHub Action, et publié sur GitHub Pages.
 
 - **Sébastien** : Monde, Canada, Québec, France, Veille technologique
-- **Noémie** : Bien-être, Séjour bien-être, Retraite spirituelle, Retraite yoga, Déconnexion
+- **Diabète** : actualité diabète en français et en anglais, mélangée et triée par date.
+  Combine 5 médias spécialisés (Diabétologie Pratique, Diabetes Daily, Insulin Nation,
+  ScienceDaily) et 4 recherches Google News (FR, FR-Canada, EN-US, EN-UK) qui agrègent
+  elles-mêmes des centaines de sources — jusqu'à 40 articles gardés par cycle.
 
 ## Comment ça marche
 
@@ -59,20 +62,19 @@ C'est tout — le site va maintenant se mettre à jour tout seul.
 ## Personnaliser
 
 - **Sources et mots-clés** : tout est dans `feeds.yaml`. Ajoute/retire des flux RSS,
-  ajuste les `max_items`, ou les `keywords` des sections filtrées (côté Noémie).
+  ajuste les `max_items`, ou ajoute un nouvel onglet (chaque clé de premier niveau = un onglet,
+  pris en compte automatiquement par `scripts/fetch_news.py`).
 - **Fréquence de mise à jour** : modifie le `cron` dans `.github/workflows/update-news.yml`
   (actuellement `0 */3 * * *` = toutes les 3h).
 - **Design** : tout est dans `style.css` (variables CSS en haut du fichier pour changer
   les couleurs, clair/sombre automatique selon le système).
 
-## Limite connue
+## À savoir sur Google News
 
-Les 4 sections de Noémie autres que "Bien-être" (Séjour bien-être, Retraite spirituelle,
-Retraite yoga, Déconnexion) sont très ciblées et peu de médias ont un flux RSS dédié à
-ces sujets précis. Le script pioche donc dans un bassin de flux bien-être/yoga/spiritualité
-plus large (`noemie_pool` dans `feeds.yaml`) et classe les articles par mots-clés.
-Résultat : parfois peu ou pas d'articles sur une section donnée — c'est normal, pas un bug.
-Tu peux enrichir `feeds.yaml` avec d'autres flux ou mots-clés à tout moment.
+Les liens Google News passent par une redirection (`news.google.com/rss/articles/...`)
+avant d'arriver sur l'article réel — c'est normal, ça fonctionne, juste un clic
+intermédiaire invisible. Le script récupère aussi le vrai nom du média (ex: "Le Monde",
+"Reuters") depuis chaque article agrégé plutôt que d'afficher "Google News" partout.
 
 ## Structure du projet
 
