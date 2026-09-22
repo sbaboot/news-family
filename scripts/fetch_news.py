@@ -6,6 +6,7 @@ et ecrit le resultat dans data/news.json.
 Concu pour tourner dans une GitHub Action (cron), mais fonctionne aussi en local :
     python3 scripts/fetch_news.py
 """
+import html
 import json
 import re
 import sys
@@ -41,12 +42,25 @@ def normalize(text: str) -> str:
     return strip_accents(text or "").lower()
 
 
-def clean_summary(raw_html: str, max_len: int = 220) -> str:
-    text = re.sub(r"<[^>]+>", " ", raw_html or "")
+def strip_html(raw: str, max_len: int | None = None) -> str:
+    """Retire les balises HTML et decode les entites (&amp;, &nbsp;, ...).
+    Certains flux (ex: Diabetologie Pratique) mettent du HTML brut jusque
+    dans le <title> lui-meme, donc on applique ce nettoyage partout, pas
+    seulement sur les resumes."""
+    text = html.unescape(raw or "")
+    text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
-    if len(text) > max_len:
+    if max_len and len(text) > max_len:
         text = text[:max_len].rsplit(" ", 1)[0] + "…"
     return text
+
+
+def clean_summary(raw_html: str, max_len: int = 220) -> str:
+    return strip_html(raw_html, max_len=max_len)
+
+
+def clean_title(raw_title: str, max_len: int = 300) -> str:
+    return strip_html(raw_title, max_len=max_len)
 
 
 def parse_published(entry) -> datetime:
@@ -82,7 +96,7 @@ def fetch_feed_entries(feed_url: str, source_name: str):
 
     items = []
     for entry in parsed.entries:
-        title = getattr(entry, "title", "").strip()
+        title = clean_title(getattr(entry, "title", ""))
         link = getattr(entry, "link", "").strip()
         if not title or not link:
             continue
