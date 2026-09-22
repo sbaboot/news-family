@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-09-21T23:49:27.840040+00:00",
+  "generated_at": "2026-09-22T03:25:54.968855+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : l’UE ne trouve pas d’accord de principe pour la levée de sanctions contre deux oligarques russes, dont l’une souhaitée par la France",
+          "title": "La Chine, bientôt première puissance mondiale… grâce à Trump ?",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/09/22/la-chine-bientot-premiere-puissance-mondiale-grace-a-trump_6779645_5463015.html",
+          "source": "Le Monde",
+          "summary": "La Chine tire profit de l’imprévisibilité de la diplomatie américaine pour s’imposer comme pôle de stabilité et puissance rivale pour la première place mondiale. Explications, dans ce podcast, avec Harold Thibault,…",
+          "published": "2026-09-22T03:00:12+00:00"
+        },
+        {
+          "title": "En Afrique du Sud, les compagnies de sécurité privées font la police",
+          "link": "https://www.lemonde.fr/afrique/article/2026/09/22/en-afrique-du-sud-les-compagnies-de-securite-privees-font-la-police_6779610_3212.html",
+          "source": "Le Monde",
+          "summary": "Dans une « nation arc-en-ciel » où sévit une criminalité galopante, la moitié des victimes de cambriolage ne font pas appel aux forces de l’ordre, réputées impuissantes.",
+          "published": "2026-09-22T02:45:07+00:00"
+        },
+        {
+          "title": "Rencontre Trump-Macron : Paris veut prolonger le rapprochement entre Trump et les Européens",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260922-rencontre-trump-macron-paris-veut-prolonger-le-rapprochement-entre-trump-et-les-europ%C3%A9ens",
+          "source": "France 24",
+          "summary": "Le président américain Donald Trump a rencontré lundi après-midi son homologue français Emmanuel Macron à New York. \"Pour Paris, l'objectif est de maintenir les États-Unis engagés dans les négociations aux côtés de…",
+          "published": "2026-09-22T02:13:58+00:00"
+        },
+        {
+          "title": "Une province canadienne attaque en justice OpenAI, derrière ChatGPT, après la tuerie de Tumbler Ridge en février",
+          "link": "https://www.lemonde.fr/international/article/2026/09/22/une-province-canadienne-attaque-en-justice-openai-derriere-chatgpt-apres-la-tuerie-de-tumbler-ridge-en-fevrier_6779544_3210.html",
+          "source": "Le Monde",
+          "summary": "La Colombie-Britannique a annoncé poursuivre le géant de l’intelligence artificielle en Californie « pour ne pas avoir informé les forces de l’ordre des menaces proférées sur sa plateforme », avant la fusillade qui a…",
+          "published": "2026-09-22T01:45:03+00:00"
+        },
+        {
+          "title": "Pas d'accord sur la levée des sanctions UE contre deux oligarques russes, les discussions continuent",
+          "link": "https://www.france24.com/fr/europe/20260922-pas-accord-principe-sur-levee-sanctions-union-europeenne-contre-deux-oligarques-russes-discussions-continuent-ousmanov-fridman",
+          "source": "France 24",
+          "summary": "Un accord de principe, qui prévoit de lever les sanctions européennes contre les oligarques russes Alicher Ousmanov et Mikhaïl Fridman, n'a pas été confirmé par les Vingt-Sept, lundi. La cheffe de la diplomatie…",
+          "published": "2026-09-22T01:16:39+00:00"
+        },
+        {
+          "title": "La rencontre entre Emmanuel Macron et Donald Trump sur le Moyen-Orient et l’Ukraine a été « très constructive », selon le président français",
+          "link": "https://www.lemonde.fr/international/article/2026/09/22/la-rencontre-entre-emmanuel-macron-et-donald-trump-sur-le-moyen-orient-et-l-ukraine-a-ete-tres-constructive-selon-le-president-francais_6779511_3210.html",
+          "source": "Le Monde",
+          "summary": "Les chefs d’Etat français et américain ont échangé pendant près de trente minutes, lundi dans la Trump Tower, à New York, en marge de l’Assemblée générale de l’ONU. Ils ont notamment discuté de la manière de « mieux…",
+          "published": "2026-09-22T00:49:46+00:00"
+        },
+        {
+          "title": "Face à l’affluence, le British Museum interdit les photos à l’exposition de la tapisserie de Bayeux",
+          "link": "https://www.lemonde.fr/international/article/2026/09/22/le-british-museum-interdit-les-photos-a-l-exposition-de-la-tapisserie-de-bayeux-victime-de-son-succes_6779478_3210.html",
+          "source": "Le Monde",
+          "summary": "En immortalisant les détails de la broderie, les visiteurs ralentissaient la circulation dans le musée, a justifié l’institution londonienne, qui accueille jusqu’en 2027 ce chef-d’œuvre, dans le cadre d’un prêt…",
+          "published": "2026-09-22T00:01:47+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : l’UE ne trouve pas d’accord de principe pour la levée des sanctions contre deux oligarques russes, dont l’une souhaitée par la France",
           "link": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-l-ue-ne-trouve-pas-d-accord-de-principe-pour-la-levee-de-sanctions-contre-deux-oligarques-russes-dont-l-une-souhaitee-par-la-france_6777944_3210.html",
           "source": "Le Monde",
           "summary": "Les discussions entre les Vingt-Sept se poursuivront mardi. Paris réclame le retrait d’Alicher Ousmanov de la liste de sanctions, au grand dam de nombreux pays européens et de l’Ukraine.",
-          "published": "2026-09-21T23:29:03+00:00"
+          "published": "2026-09-21T23:29:01+00:00"
         },
         {
-          "title": "Le Groenland, le Danemark et les États-Unis signeront mardi l'accord sur ce territoire arctique",
-          "link": "https://www.france24.com/fr/europe/20260921-groenland-danemark-etats-unis-signeront-mardi-accord-sur-territoire-arctique-assemblee-generale-onu-new-york-securite-donald-trump-mette-frederiksen-atlantique-nord",
+          "title": "Pour la première fois, une torpille américaine tirée depuis un sous-marin britannique autonome",
+          "link": "https://www.france24.com/fr/europe/20260921-premiere-fois-torpille-americaine-tiree-depuis-sous-marin-britannique-sans-equipage-alliance-aukus-australie-excalibur-etats-unis-royaume-uni",
           "source": "France 24",
-          "summary": "La Première ministre danoise Mette Frederiksen a annoncé que la signature de l'accord sur le Groenland aura lieu, mardi, en marge de l'Assemblée générale de l'ONU à New York. L'accord, \"visant à renforcer la sécurité…",
-          "published": "2026-09-21T21:28:10+00:00"
+          "summary": "Dans le cadre de l'alliance Aukus qui regroupe l'Australie, les États-Unis et le Royaume-Uni, Londres et Washington ont tiré une torpille depuis un vaisseau sous-marin sans équipage la semaine dernière dans les eaux…",
+          "published": "2026-09-21T23:24:04+00:00"
         },
         {
-          "title": "Elections en Allemagne : fausses fraudes, vraies intox",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260921-elections-en-allemagne-fausses-fraudes-vraies-intox",
+          "title": "Voile : grande première pour Léonard Legrand à la Route du Rhum",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260921-voile-grande-premi%C3%A8re-pour-l%C3%A9onard-legrand-%C3%A0-la-route-du-rhum",
           "source": "France 24",
-          "summary": "Alors que des élections régionales ont eu lieu dimanche en Allemagne, des internautes ont assuré, vidéos truquées à l'appui, que le parti d'extrême droite de l’AfD avait été victime de fraude. D'autres images…",
-          "published": "2026-09-21T21:06:45+00:00"
-        },
-        {
-          "title": "Maroc: à quelques jours des élections législatives, la jeunesse divisée entre espoir et scepticisme",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260921-maroc-%C3%A0-quelques-jours-des-%C3%A9lections-l%C3%A9gislatives-la-jeunesse-divis%C3%A9e-entre-espoir-et-scepticisme",
-          "source": "France 24",
-          "summary": "Au Maroc, ce mercredi près de 16 millions d'électeurs sont appelés à désigner les 395 députés de la Chambre des représentants, première étape vers la formation d'un nouveau gouvernement pour les cinq prochaines années.…",
-          "published": "2026-09-21T20:25:09+00:00"
-        },
-        {
-          "title": "Voile : nouveau bateau et nouvelle ambition pour Sébastien Simon avant la Route du Rhum",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260921-voile-nouveau-bateau-et-nouvelle-ambition-pour-s%C3%A9bastien-simon-avant-la-route-du-rhum",
-          "source": "France 24",
-          "summary": "Le 1er novembre 2026 aura lieu le départ de la Route du Rhum, la célèbre course transatlantique en solitaire au départ de Saint-Malo en Bretagne pour rejoindre la Guadeloupe. Dans la catégorie IMOCA, le navigateur…",
-          "published": "2026-09-21T19:54:12+00:00"
-        },
-        {
-          "title": "Rachat de Warner Bros : accord amiable trouvé entre Paramount Skydance et douze Etats américains",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/21/rachat-de-warner-bros-accord-amiable-trouve-entre-paramount-skydance-et-douze-etats-americains_6779342_3234.html",
-          "source": "Le Monde",
-          "summary": "Pour obtenir l’abandon des poursuites intentées au début de juillet, le conglomérat américain s’engage à augmenter ses investissements dans la production cinématographique et à « soutenir l’indépendance éditoriale » des…",
-          "published": "2026-09-21T19:51:36+00:00"
-        },
-        {
-          "title": "Gianni Infantino propose aux 211 fédérations de réformer la gouvernance de la Fifa",
-          "link": "https://www.france24.com/fr/sports/20260921-gianni-infantino-propose-aux-211-f%C3%A9d%C3%A9rations-de-r%C3%A9former-la-gouvernance-de-la-fifa",
-          "source": "France 24",
-          "summary": "Dans une lettre adressée, lundi, aux 211 fédérations membres de la Fifa, Gianni Infantino a proposé une \"consultation\" afin de réfléchir à une réforme de la gouvernance de l’instance. Bien que fragilisé par l'échec de…",
-          "published": "2026-09-21T19:47:48+00:00"
-        },
-        {
-          "title": "Vincent Brown, soupçonné d’avoir participé au génocide des Tutsi au Rwanda, devient le premier inculpé au Royaume-Uni pour ces faits",
-          "link": "https://www.lemonde.fr/international/article/2026/09/21/vincent-brown-soupconne-d-avoir-participe-au-genocide-des-tutsi-au-rwanda-devient-le-premier-inculpe-au-royaume-uni-pour-ces-faits_6779341_3210.html",
-          "source": "Le Monde",
-          "summary": "Cet homme de 65 ans, résidant à Londres, a été arrêté à l’issue d’une enquête de sept ans déclenchée par une requête officielle des autorités rwandaises.",
-          "published": "2026-09-21T19:26:21+00:00"
-        },
-        {
-          "title": "Après 18 saisons en NBA, le basketteur Nicolas Batum prend sa retraite",
-          "link": "https://www.france24.com/fr/sports/20260921-apres-18-saisons-en-nba-basketteur-francais-nicolas-batum-prend-sa-retraite",
-          "source": "France 24",
-          "summary": "Nicolas Batum, ancien capitaine de l'équipe de France qu'il a envoyée en finale olympique en 2021 grâce à un contre mémorable, a pris sa retraite, lundi, à 37 ans, et après 18 saisons en NBA, où il a duré grâce à sa…",
-          "published": "2026-09-21T19:12:36+00:00"
-        },
-        {
-          "title": "Equipe de France : premier entraînement pour les Bleus de Zidane",
-          "link": "https://www.france24.com/fr/sports/20260921-equipe-de-france-premier-entra%C3%AEnement-pour-les-bleus-de-zidane",
-          "source": "France 24",
-          "summary": "Zinédine Zidane, nouveau sélectionneur de l'équipe de France, a dirigé lundi son premier entraînement au Centre national du football de Clairefontaine, avec hauteur et légèreté, tout en faisant admirer par moments une…",
-          "published": "2026-09-21T19:09:08+00:00"
+          "summary": "Le départ de la Route du Rhum, célèbre course transatlantique en solitaire, aura lieu le 1er novembre prochain depuis Saint-Malo pour rejoindre la Guadeloupe. Parmi les participants, il y aura Léonard Legrand aux…",
+          "published": "2026-09-21T22:22:23+00:00"
         }
       ]
     },
@@ -84,17 +84,38 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Livraisons aériennes au Texas | Les drones d’Amazon exaspèrent des habitants d’une banlieue",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-21/livraisons-aeriennes-au-texas/les-drones-d-amazon-exasperent-des-habitants-d-une-banlieue.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Jeune tué par un policier à Longueuil | Veillée à la mémoire de Nooran Rezayi",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-21/jeune-tue-par-un-policier-a-longueuil/veillee-a-la-memoire-de-nooran-rezayi.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le bruit a surgi de nulle part. Au début, c’était un bourdonnement aigu et inquiétant, comme celui d’un maringouin volant dans une chambre sombre à l’heure du coucher, et il s’est amplifié à mesure qu’il se rapprochait.…",
-          "published": "2026-09-21T23:45:00+00:00"
+          "summary": "Un an après la mort du jeune Nooran Rezayi, abattu par un policier à Longueuil, ses proches cherchent encore des réponses. Sa famille, ses amis et des citoyens se sont réunis lundi soir, pour honorer sa mémoire et…",
+          "published": "2026-09-22T02:33:10+00:00"
+        },
+        {
+          "title": "Sénateurs 2 – Canadien 3 | Caufield joue les héros en prolongation",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-09-21/senateurs-2-canadien-3/caufield-joue-les-heros-en-prolongation.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "David Reinbacher a passé avec succès son audition aux côtés de Lane Hutson lors d’une soirée où peu de joueurs du Canadien se sont vraiment démarqués, lundi au Colisée Vidéotron. De son côté, Cole Caufield a marqué deux…",
+          "published": "2026-09-22T02:20:11+00:00"
+        },
+        {
+          "title": "Projet de Tennis Canada | Pas de nouvel empiétement sur le parc Jarry, dit la mairesse",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-21/projet-de-tennis-canada/pas-de-nouvel-empietement-sur-le-parc-jarry-dit-la-mairesse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Montréal n’autorisera pas de nouvel empiétement sur le territoire du parc Jarry, a affirmé lundi la mairesse de Montréal, questionnée sur le projet d’agrandissement des installations de Tennis Canada qui s’y trouvent…",
+          "published": "2026-09-22T00:53:14+00:00"
         },
         {
           "title": "Droit à la déconnexion | Doit-on rester joignable en vacances ?",
           "link": "https://www.lapresse.ca/affaires/2026-09-21/droit-a-la-deconnexion/doit-on-rester-joignable-en-vacances.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Valise à la main et accompagné de son amoureuse, Roger met enfin le cap sur l’Italie pour sa lune de miel. À son retour, reposé et ravi, il s’apprête à raconter son voyage à ses collègues. L’accueil est toutefois moins…",
+          "published": "2026-09-21T23:45:00+00:00"
+        },
+        {
+          "title": "Livraisons aériennes au Texas | Les drones d’Amazon exaspèrent des habitants d’une banlieue",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-21/livraisons-aeriennes-au-texas/les-drones-d-amazon-exasperent-des-habitants-d-une-banlieue.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le bruit a surgi de nulle part. Au début, c’était un bourdonnement aigu et inquiétant, comme celui d’un maringouin volant dans une chambre sombre à l’heure du coucher, et il s’est amplifié à mesure qu’il se rapprochait.…",
           "published": "2026-09-21T23:45:00+00:00"
         },
         {
@@ -119,13 +140,6 @@
           "published": "2026-09-21T23:12:04+00:00"
         },
         {
-          "title": "Cité-de-la-Santé à Laval | Agrandissement réclamé pour mettre fin à la « médecine de corridor »",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-09-21/cite-de-la-sante-a-laval/agrandissement-reclame-pour-mettre-fin-a-la-medecine-de-corridor.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Les patients qui sont hospitalisés à la Cité-de-la-Santé ont une chance sur dix d’être installés sur une civière dans un corridor sur les étages. C’est ce que signale le Dr Antonio Juan Su, président du Conseil des…",
-          "published": "2026-09-21T22:59:13+00:00"
-        },
-        {
           "title": "Un livre choc du frère de Lady Di s’en prend à Charles III",
           "link": "https://www.ledevoir.com/lire/1010819/livre-choc-frere-lady-di-prend-charles-iii",
           "source": "Le Devoir",
@@ -137,21 +151,7 @@
           "link": "https://www.ledevoir.com/politique/montreal/1010816/ce-est-pas-parce-tu-fais-doigt-honneur-tu-vas-avoir-ticket",
           "source": "Le Devoir",
           "summary": "Soraya Martinez Ferrada défend son règlement visant à protéger les employés municipaux contre les insultes du public.",
-          "published": "2026-09-21T22:26:41+00:00"
-        },
-        {
-          "title": "Débat électoral sur l’environnement | L’environnement doit être placé au cœur de décisions du gouvernement, selon QS et le PQ",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-21/debat-electoral-sur-l-environnement/l-environnement-doit-etre-place-au-coeur-de-decisions-du-gouvernement-selon-qs-et-le-pq.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’environnement serait la responsabilité de la première ministre dans un éventuel gouvernement solidaire, tellement le sujet doit être au centre des décisions de l’État, estime Québec solidaire. De son côté, le Parti…",
-          "published": "2026-09-21T22:14:45+00:00"
-        },
-        {
-          "title": "Vaste opération militaire israélienne après le meurtre d’un colon juif",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1010813/vaste-operation-militaire-israelienne-apres-meurtre-colon-juif",
-          "source": "Le Devoir",
-          "summary": "Cette attaque est intervenue dans un contexte explosif, à l’approche d’élections législatives en Israël.",
-          "published": "2026-09-21T22:10:00+00:00"
+          "published": "2026-09-21T22:26:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : l’UE ne trouve pas d’accord de principe pour la levée de sanctions contre deux oligarques russes, dont l’une souhaitée par la France",
-          "link": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-l-ue-ne-trouve-pas-d-accord-de-principe-pour-la-levee-de-sanctions-contre-deux-oligarques-russes-dont-l-une-souhaitee-par-la-france_6777944_3210.html",
-          "source": "Le Monde",
-          "summary": "Les discussions entre les Vingt-Sept se poursuivront mardi. Paris réclame le retrait d’Alicher Ousmanov de la liste de sanctions, au grand dam de nombreux pays européens et de l’Ukraine.",
-          "published": "2026-09-21T23:29:03+00:00"
+          "title": "Deux assistantes maternelles jugées à Evry après avoir caché douze enfants dans une voiture",
+          "link": "https://www.liberation.fr/societe/police-justice/deux-assistantes-maternelles-jugees-a-evry-apres-avoir-cache-douze-enfants-dans-une-voiture-20260922_72QSJOCIS5AEZILBH75OO4QQJM/",
+          "source": "Liberation",
+          "summary": "Siham E. et Christine R. comparaissent ce mardi 22 septembre pour «mise en danger» de mineurs. Agés de 4 mois à 8 ans, ils avaient été découverts par la police au mois de juillet, dissimulés par les professionnelles…",
+          "published": "2026-09-22T03:08:00+00:00"
         },
         {
-          "title": "Intelligence artificielle : plus de vingt pays, dont l’Allemagne et le Canada, appellent à une supervision humaine renforcée",
-          "link": "https://www.lemonde.fr/pixels/article/2026/09/22/intelligence-artificielle-plus-de-vingt-pays-dont-l-allemagne-et-le-canada-appellent-a-une-supervision-humaine-renforcee_6779412_4408996.html",
+          "title": "Carburant : l’Etat autorise la vente de gazole d’été jusqu’au 15 novembre, face aux difficultés d’approvisionnement",
+          "link": "https://www.lemonde.fr/economie/article/2026/09/22/carburant-l-etat-autorise-la-vente-de-gazole-d-ete-jusqu-au-15-novembre-face-aux-difficultes-d-approvisionnement_6779643_3234.html",
           "source": "Le Monde",
-          "summary": "Les dirigeants de plusieurs pays, ainsi que la présidente de la Commission européenne, Ursula von der Leyen, s’inquiètent que le développement de l’IA puisse dépasser notre capacité à la contrôler. Les grandes…",
-          "published": "2026-09-21T22:36:27+00:00"
+          "summary": "En temps normal, les distributeurs sont tenus de commercialiser, dès le 1er novembre, un gazole dit « d’hiver », résistant à des températures plus basses. Cette obligation est repoussée exceptionnellement de deux…",
+          "published": "2026-09-22T02:51:33+00:00"
         },
         {
-          "title": "Les actionnaires de « Valeurs actuelles » se séparent du directeur du magazine, Tugdual Denis",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/22/les-actionnaires-de-valeurs-actuelles-se-separent-du-directeur-du-magazine-tugdual-denis_6779379_3234.html",
+          "title": "Collectif 15 15 : «On est comme des explorateurs sur un bateau à voile»",
+          "link": "https://www.liberation.fr/culture/musique/collectif-15-15-on-est-comme-des-explorateurs-sur-un-bateau-a-voile-20260922_FT3NVEOMPBBJ7DA5IUPKYQ6RZQ/",
+          "source": "Liberation",
+          "summary": "Rencontre décontractée avec des membres du collectif dont le premier album, «Mārara», crée son propre folklore à partir de traditions tahitiennes et de musiques modernes.",
+          "published": "2026-09-22T01:46:00+00:00"
+        },
+        {
+          "title": "Une province canadienne attaque en justice OpenAI, derrière ChatGPT, après la tuerie de Tumbler Ridge en février",
+          "link": "https://www.lemonde.fr/international/article/2026/09/22/une-province-canadienne-attaque-en-justice-openai-derriere-chatgpt-apres-la-tuerie-de-tumbler-ridge-en-fevrier_6779544_3210.html",
           "source": "Le Monde",
-          "summary": "Menacé depuis le rachat du titre par un trio d’actionnaires, au nombre desquels figure le milliardaire ultraconservateur Pierre-Edouard Stérin, le journaliste dirigeait la rédaction de l’hebdomadaire depuis 2023.",
-          "published": "2026-09-21T22:03:35+00:00"
+          "summary": "La Colombie-Britannique a annoncé poursuivre le géant de l’intelligence artificielle en Californie « pour ne pas avoir informé les forces de l’ordre des menaces proférées sur sa plateforme », avant la fusillade qui a…",
+          "published": "2026-09-22T01:45:03+00:00"
         },
         {
           "title": "Pourquoi les églises de France feront sonner leurs cloches pendant sept minutes vendredi matin",
           "link": "https://www.lefigaro.fr/actualite-france/pourquoi-les-eglises-de-france-feront-sonner-leurs-cloches-pendant-sept-minutes-vendredi-matin-20260922",
           "source": "Le Figaro",
           "summary": "Les cloches des églises de France sonneront pendant 7 minutes vendredi à 10h, dérogeant aux us et coutumes en vigueur sur le territoire.",
-          "published": "2026-09-21T22:01:18+00:00"
+          "published": "2026-09-22T01:18:55+00:00"
         },
         {
-          "title": "La vente aux enchères d'objets personnels de Brigitte Bardot rapporte près d’un million d’euros",
-          "link": "https://www.lefigaro.fr/culture/encheres/la-vente-aux-encheres-d-objets-personnels-de-brigitte-bardot-rapporte-pres-d-un-million-d-euros-20260921",
+          "title": "La France se tient prête à aider à sécuriser les «infrastructures énergétiques saoudiennes»",
+          "link": "https://www.lefigaro.fr/international/la-france-se-tient-prete-a-aider-a-securiser-les-infrastructures-energetiques-saoudiennes-20260922",
           "source": "Le Figaro",
-          "summary": "Le produit de la vente sera reversé à la Fondation Brigitte Bardot et à Nicolas-Jacques Charrier, fils unique de la star décédée à 91 ans en décembre.",
-          "published": "2026-09-21T21:58:32+00:00"
+          "summary": "Les combattants houthis ont déjà mené des attaques contre des installations du géant pétrolier saoudien Aramco dans la ville portuaire de Yanbu, sur la mer Rouge.",
+          "published": "2026-09-22T01:12:36+00:00"
         },
         {
-          "title": "\"J'ai peur d'aller me coucher, ça frappe sans cesse\" : dans la ville ukrainienne de Kramatorsk, les habitants tentent de survivre sous les drones russes",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-peur-d-aller-me-coucher-parce-que-ca-vole-ca-frappe-sans-cesse-survivre-sous-les-drones-russes_8203631.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Cette ville de l'est du pays comptait 150 000 habitants avant la guerre. Aujourd’hui, sous les bombardements russes, ceux qui sont restés se résignent à partir. France 2 les a rencontrés.",
-          "published": "2026-09-21T21:58:08+00:00"
-        },
-        {
-          "title": "Flambée des prix des carburants : le gouvernement présentera de nouvelles aides lors d'une conférence de presse mardi à 17 heures",
-          "link": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-des-prix-des-carburants-deux-reunions-se-tiennent-a-matignon-lundi-pour-evoquer-la-crise-energetique_8202515.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Les ministres se sont réunis, dans l'après-midi, pour réfléchir à \"l'accompagnement à court et moyen terme\" des Français.",
-          "published": "2026-09-21T21:54:06+00:00"
-        },
-        {
-          "title": "Une vingtaine de chefs d'État appellent à la mise en place de garde-fous face à l'IA",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/une-vingtaine-de-chefs-d-etat-appellent-a-la-mise-en-place-de-garde-fous-face-a-l-ia-20260921",
+          "title": "«Trump TV» : la Maison-Blanche lance sa propre chaîne après avoir banni trois médias",
+          "link": "https://www.lefigaro.fr/international/trump-tv-la-maison-blanche-lance-sa-propre-chaine-apres-avoir-banni-trois-medias-20260922",
           "source": "Le Figaro",
-          "summary": "Parmi les signataires figurent notamment les dirigeants du Canada, de l’Allemagne, de l’Espagne ou encore la présidente de la Commission européenne, Ursula von der Leyen.",
-          "published": "2026-09-21T21:53:57+00:00"
+          "summary": "Après avoir interdit l’accès de la Maison-Blanche à CNN, MSNOW et Politico, Donald Trump a lancé «Trump TV», un flux vidéo en direct sur YouTube rediffusant en continu ses anciens discours.",
+          "published": "2026-09-22T01:08:55+00:00"
         },
         {
-          "title": "Des chefs d'Etat appellent à la mise en place de garde-fous face aux \"graves risques pour la sûreté et la sécurité\" posés par l'IA",
-          "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/des-chefs-d-etat-appellent-a-la-mise-en-place-de-garde-fous-face-aux-graves-risques-pour-la-surete-et-la-securite-poses-par-l-ia_8203706.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Parmi les signataires figurent notamment les dirigeants de la Norvège, de la Finlande, de l'Australie, du Canada, de l'Allemagne, de l'Espagne, de l'Irlande, des Pays-Bas, de Singapour, de l'Afrique du Sud et du Kenya,…",
-          "published": "2026-09-21T21:52:44+00:00"
+          "title": "La rencontre entre Emmanuel Macron et Donald Trump sur le Moyen-Orient et l’Ukraine a été « très constructive », selon le président français",
+          "link": "https://www.lemonde.fr/international/article/2026/09/22/la-rencontre-entre-emmanuel-macron-et-donald-trump-sur-le-moyen-orient-et-l-ukraine-a-ete-tres-constructive-selon-le-president-francais_6779511_3210.html",
+          "source": "Le Monde",
+          "summary": "Les chefs d’Etat français et américain ont échangé pendant près de trente minutes, lundi dans la Trump Tower, à New York, en marge de l’Assemblée générale de l’ONU. Ils ont notamment discuté de la manière de « mieux…",
+          "published": "2026-09-22T00:49:46+00:00"
         },
         {
-          "title": "Programme militaire top secret, alopécies inexpliquées… Ces nouveaux dossiers troublants que le Pentagone a déclassifiés sur les Ovnis",
-          "link": "https://www.lefigaro.fr/sciences/programme-militaire-top-secret-alopecies-inexpliquees-ces-nouveaux-dossiers-troublants-que-le-pentagone-a-declassifies-sur-les-ovnis-20260921",
+          "title": "Yémen : des frappes de l’Arabie saoudite sur la ville de Mokha font six morts",
+          "link": "https://www.lefigaro.fr/international/yemen-des-frappes-de-l-arabie-saoudite-sur-la-ville-de-mokha-font-six-morts-20260922",
           "source": "Le Figaro",
-          "summary": "RÉCIT - À l’instar de l’affaire Epstein, l’administration américaine ne cesse de déclassifier, depuis le début de l’été, des dizaines et des dizaines de documents, photos et vidéos liés à des «phénomènes aériens non…",
-          "published": "2026-09-21T21:44:56+00:00"
+          "summary": "Sous pression, l’Arabie saoudite bombarde quotidiennement les zones contrôlées par les combattants au Yémen, sans parvenir pour l’heure à les faire reculer.",
+          "published": "2026-09-22T00:40:33+00:00"
+        },
+        {
+          "title": "Face à l’affluence, le British Museum interdit les photos à l’exposition de la tapisserie de Bayeux",
+          "link": "https://www.lemonde.fr/international/article/2026/09/22/le-british-museum-interdit-les-photos-a-l-exposition-de-la-tapisserie-de-bayeux-victime-de-son-succes_6779478_3210.html",
+          "source": "Le Monde",
+          "summary": "En immortalisant les détails de la broderie, les visiteurs ralentissaient la circulation dans le musée, a justifié l’institution londonienne, qui accueille jusqu’en 2027 ce chef-d’œuvre, dans le cadre d’un prêt…",
+          "published": "2026-09-22T00:01:47+00:00"
         }
       ]
     },
