@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-09-22T20:54:33.084159+00:00",
+  "generated_at": "2026-09-22T23:29:36.147479+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Crise migratoire à Ceuta : le premier ministre espagnol, Pedro Sanchez, estime que le contrôle des frontières par le Maroc a « échoué »",
+          "link": "https://www.lemonde.fr/international/article/2026/09/23/crise-migratoire-a-ceuta-pedro-sanchez-estime-que-le-controle-des-frontieres-par-le-maroc-a-echoue_6780333_3210.html",
+          "source": "Le Monde",
+          "summary": "Madrid a annoncé, mardi, avoir demandé « des réponses » à Rabat après l’afflux de plus de 70 000 migrants, fin juillet, dans l’enclave espagnole située en Afrique du Nord.",
+          "published": "2026-09-22T23:07:47+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Kiev et Washington veulent que la guerre prenne fin « avant l’hiver », déclare Volodymyr Zelensky après sa rencontre avec Donald Trump",
+          "link": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-guerre-en-ukraine-kiev-et-washington-veulent-que-la-guerre-prenne-fin-avant-l-hiver-declare-volodymyr-zelensky-apres-sa-rencontre-avec-donald-trump_6777944_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a affirmé qu’il avait discuté avec son homologue américain, à New York en marge de l’Assemblée générale des Nations unies, de « potentielles étapes de désescalade susceptibles d’ouvrir la voie à…",
+          "published": "2026-09-22T22:24:54+00:00"
+        },
+        {
+          "title": "Kiev et Washington veulent que la guerre s'arrête \"avant l'hiver\", assure Volodymyr Zelensky",
+          "link": "https://www.france24.com/fr/europe/20260922-kiev-washington-veulent-que-guerre-russie-arrete-avant-hiver-volodymyr-zelensky-ukraine-etats-unis-ag-onu-donald-trump-negociations-moratoire-energetique-patriots",
+          "source": "© Service de presse de la présidence ukrainienne, Reuters",
+          "summary": "Évoquant \"une rencontre productive avec Donald Trump\" en marge de l'Assemblée générale de l'ONU à New York, le président ukrainien a déclaré que leurs deux pays voulaient que la guerre avec la Russie prenne fin \"avant…",
+          "published": "2026-09-22T21:39:49+00:00"
+        },
+        {
+          "title": "RD Congo : Démonstration de force de l'UPDS à Kinshasa",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260922-rd-congo-d%C3%A9monstration-de-force-de-l-upds-%C3%A0-kinshasa",
+          "source": "France 24",
+          "summary": "En RD Congo, les militants de la majorité au pouvoir ont défilé en masse pour soutenir le président Félix Tshisekedi. Une mobilisation organisée une semaine après celle de l’opposition. Objectif affiché : montrer le…",
+          "published": "2026-09-22T21:15:16+00:00"
+        },
+        {
+          "title": "Menace russe : l'OTAN prête à la guerre ?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260922-menace-russe-l-otan-pr%C3%AAte-%C3%A0-la-guerre",
+          "source": "France 24",
+          "summary": "Alors que l’OTAN s’inquiète d’une menace russe, des porte-voix du Kremlin accusent, sur les réseaux sociaux, l’Alliance Atlantique de promouvoir à coups de clip publicitaire une guerre contre la Russie.",
+          "published": "2026-09-22T20:51:12+00:00"
+        },
         {
           "title": "« Un spectacle qui nous fait honte à tous » : les images du discours d’Emmanuel Macron à l’Assemblée générale de l’ONU",
           "link": "https://www.lemonde.fr/international/video/2026/09/22/un-spectacle-qui-nous-fait-honte-a-tous-les-images-du-discours-d-emmanuel-macron-a-l-assemblee-generale-de-l-onu_6780296_3210.html",
@@ -16,7 +51,7 @@
           "link": "https://www.lemonde.fr/international/article/2026/09/22/dissuasion-nucleaire-francaise-la-lettonie-annonce-qu-emmanuel-macron-a-accepte-d-ouvrir-des-discussions_6780295_3210.html",
           "source": "Le Monde",
           "summary": "Le président français avait annoncé, en mars, son initiative de dissuasion « avancée » visant à y associer les Etats européens volontaires, sans aucun partage de la décision d’emploi de l’arme nucléaire.",
-          "published": "2026-09-22T20:02:01+00:00"
+          "published": "2026-09-22T20:01:56+00:00"
         },
         {
           "title": "Ukraine, Gaza, IA : ce qu'il faut retenir du discours d'Emmanuel Macron à l'ONU",
@@ -38,41 +73,6 @@
           "source": "Le Monde",
           "summary": "Le G7 a exprimé mardi son « entière solidarité » avec le gouvernement yéménite reconnu par la communauté internationale et son allié saoudien, et pressé les combattants pro-iraniens de cesser leurs attaques au Yémen et…",
           "published": "2026-09-22T19:42:25+00:00"
-        },
-        {
-          "title": "Gaza : Emmanuel Macron dénonce devant l'ONU \"un spectacle qui nous fait honte à tous\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260922-gaza-macron-d%C3%A9nonce-devant-l-onu-un-spectacle-qui-nous-fait-honte-%C3%A0-tous",
-          "source": "France 24",
-          "summary": "Le ⁠président français Emmanuel ​Macron a tenu ce mardi un ⁠discours à la tribune de l'Assemblée générale des Nations unies. Il a notamment a critiqué les efforts de paix pour la ​bande de Gaza, déclarant qu'aucune voie…",
-          "published": "2026-09-22T19:38:44+00:00"
-        },
-        {
-          "title": "A l’Assemblée générale de l’ONU, Emmanuel Macron appelle à se « tenir droit » aux côtés des Nations unies face à « la loi de la jungle »",
-          "link": "https://www.lemonde.fr/international/article/2026/09/22/emmanuel-macron-appelle-a-se-tenir-droit-aux-cotes-des-nations-unies-face-a-la-loi-de-la-jungle_6780290_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président français a également appelé à un « double moratoire » sur les frappes contre les sites énergétiques en Russie et Ukraine.",
-          "published": "2026-09-22T18:58:48+00:00"
-        },
-        {
-          "title": "Saisies record dans les aéroports et services de police « saturés » : l’inquiétude des autorités devant l’essor du trafic de cannabis thaïlandais",
-          "link": "https://www.lemonde.fr/societe/article/2026/09/22/saisies-record-dans-les-aeroports-et-services-de-police-satures-l-inquietude-des-autorites-devant-l-essor-du-trafic-de-cannabis-thailandais_6780289_3224.html",
-          "source": "Le Monde",
-          "summary": "Dans une « note d’analyse » consultée par « Le Monde », l’Office anti-stupéfiants (Ofast) alerte sur le nombre grandissant de « mules » interpellées en provenance de Thaïlande. Malgré cette hausse sensible, les…",
-          "published": "2026-09-22T18:30:02+00:00"
-        },
-        {
-          "title": "Fausse photo de Trump embrassant son assistante : comment l'IA a été utilisée pour brouiller les pistes",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20260922-fausse-photo-de-trump-embrassant-son-assistante-comment-l-ia-a-%C3%A9t%C3%A9-utilis%C3%A9e-pour-brouiller-les-pistes",
-          "source": "© X, Facebook.",
-          "summary": "Une fausse photo de Donald Trump en train d'embrasser son assistante Nathalie Harp a récolté des millions de vues sur les réseaux sociaux. L'image a été manipulée plusieurs fois par IA puis retouchée pour dissimuler son…",
-          "published": "2026-09-22T18:20:31+00:00"
-        },
-        {
-          "title": "🔴 En direct : suivez la dernière prise de parole d'Emmanuel Macron à l'Assemblée générale de l'ONU",
-          "link": "https://www.france24.com/fr/moyen-orient/20260922-en-direct-houthis-appeles-cesser-immediatement-menaces-attaques-g7-yemen-arabie-saoudite-israel-liban-onuiran-detroit-ormuz",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-09-22T18:20:24+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Le PQ doit « assainir » son discours sur les immigrants, dit l’un de ses candidats",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-22/le-pq-doit-assainir-son-discours-sur-les-immigrants-dit-l-un-de-ses-candidats.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Cinq choses à retenir du discours de Trump à l’ONU",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-22/cinq-choses-a-retenir-du-discours-de-trump-a-l-onu.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le Parti québécois (PQ) doit « assainir » son discours sur les immigrants, estime son candidat dans Sherbrooke. Gabriel Pallotta. Il dit faire partie d’un groupe de 30 à 40 candidats et militants qui exercent des…",
-          "published": "2026-09-22T20:34:04+00:00"
+          "summary": "Le monde change et le président américain Donald Trump tient à en écrire les grandes lignes. Le locataire de la Maison-Blanche a livré une nouvelle allocution mardi devant l’Assemblée générale de l’ONU afin de présenter…",
+          "published": "2026-09-22T23:00:00+00:00"
         },
         {
-          "title": "Les trois actus du 22 septembre",
-          "link": "https://www.ledevoir.com/actualites/1011068/trois-actus-22-septembre",
+          "title": "Le divorce libéral consommé",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/1011107/divorce-liberal-consomme",
           "source": "Le Devoir",
-          "summary": "Guy Turcotte reste en prison, Thélyson Orélien accusé de génération par IA et Trump face à l’ONU: ce qu’il faut retenir.",
-          "published": "2026-09-22T20:21:14+00:00"
+          "summary": "Mark Carney scelle le désaveu de l’évaluation environnementale développée par sa famille libérale.",
+          "published": "2026-09-22T22:38:56+00:00"
         },
         {
-          "title": "« Un bon investissement » pour les contribuables | Trans Mountain, de gouffre financier à actif stratégique payant",
-          "link": "https://www.lapresse.ca/affaires/entreprises/2026-09-22/un-bon-investissement-pour-les-contribuables/trans-mountain-de-gouffre-financier-a-actif-strategique-payant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Dans un discours-testament, Macron appelle à préserver l’ONU face à la «loi de la jungle»",
+          "link": "https://www.ledevoir.com/monde/europe/1011143/discours-testament-macron-appelle-preserver-onu-face-loi-jungle",
+          "source": "Le Devoir",
+          "summary": "Le président français s’est notamment attiré les foudres du premier ministre israélien sur Gaza.",
+          "published": "2026-09-22T22:29:00+00:00"
+        },
+        {
+          "title": "Décès suspect d’une femme au centre-ville de Montréal",
+          "link": "https://www.ledevoir.com/actualites/societe/1011137/deces-suspect-femme-centre-ville-montreal",
+          "source": "Le Devoir",
+          "summary": "Après avoir reçu un appel vers 15h25, des agents du SPVM se sont rendus à l’intérieur d’un appartement.",
+          "published": "2026-09-22T22:27:00+00:00"
+        },
+        {
+          "title": "Trump affirme que les États-Unis continueront d’acheter de la potasse canadienne",
+          "link": "https://www.ledevoir.com/economie/1011134/trump-affirme-etats-unis-continueront-acheter-potasse-canadienne",
+          "source": "Le Devoir",
+          "summary": "Ces propos interviennent au lendemain d’une annonce selon laquelle il voulait en acheter en Biélorussie.",
+          "published": "2026-09-22T22:19:17+00:00"
+        },
+        {
+          "title": "Ottawa propose une participation de 15 % dans Trans Mountain aux groupes autochtones",
+          "link": "https://www.ledevoir.com/economie/1011131/ottawa-propose-participation-15-trans-mountain-groupes-autochtones",
+          "source": "Le Devoir",
+          "summary": "Plus d’une centaine de communautés sont potentiellement concernées.",
+          "published": "2026-09-22T22:16:00+00:00"
+        },
+        {
+          "title": "Éric Duhaime fait les yeux doux aux «souverainistes pragmatiques»",
+          "link": "https://www.ledevoir.com/politique/quebec/1011116/eric-duhaime-fait-yeux-doux-souverainistes-pragmatiques",
+          "source": "Le Devoir",
+          "summary": "Pour le chef conservateur, Paul St-Pierre Plamondon est un «référendiste» qui va amener le Québec dans le mur.",
+          "published": "2026-09-22T21:52:00+00:00"
+        },
+        {
+          "title": "Femme trouvée sans vie | Le SPVM enquête sur une « mort suspecte » au centre-ville de Montréal",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-22/femme-trouvee-sans-vie/le-spvm-enquete-sur-une-mort-suspecte-au-centre-ville-de-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La décision du gouvernement fédéral de délier les cordons de sa bourse afin d’assurer la construction du pipeline Trans Mountain (TMX) s’avère aujourd’hui « un bon investissement » pour les contribuables dans le…",
-          "published": "2026-09-22T20:13:22+00:00"
+          "summary": "Une femme dans la quarantaine a été trouvée morte dans un édifice à logements du centre-ville de Montréal, mardi après-midi. Le SPVM qualifie pour le moment cet évènement de « mort suspecte ».",
+          "published": "2026-09-22T21:46:01+00:00"
         },
         {
-          "title": "Le premier ministre de la Colombie-Britannique déclenche des élections anticipées",
-          "link": "https://www.ledevoir.com/politique/canada/1011065/premier-ministre-colombie-britannique-declenche-elections-anticipees",
+          "title": "«Angles morts»: un plan (presque) vertueux qui tourne au vinaigre",
+          "link": "https://www.ledevoir.com/culture/ecrans/1011080/angles-morts-plan-presque-vertueux-tourne-vinaigre",
           "source": "Le Devoir",
-          "summary": "David Eby parle de la guerre commerciale comme d’un «moment décisif», pendant que l’opposition est en proie au chaos.",
-          "published": "2026-09-22T20:04:22+00:00"
+          "summary": "Place à une comédie noire en 10 épisodes dont la prémisse s’appuie sur l’aide médicale à mourir.",
+          "published": "2026-09-22T21:07:00+00:00"
         },
         {
-          "title": "Trump scelle le destin du Groenland dans le giron des États-Unis",
-          "link": "https://www.ledevoir.com/monde/europe/1011062/trump-scelle-destin-groenland-giron-etats-unis",
+          "title": "Carney promet de verser 100 millions d’aide supplémentaire aux Palestiniens",
+          "link": "https://www.ledevoir.com/politique/canada/1011074/carney-promet-verser-100-millions-aide-supplementaire-palestiniens",
           "source": "Le Devoir",
-          "summary": "Grâce à cet accord, il n’arrivera pas que «des adversaires s’approchent trop près», a dit la première ministre danoise.",
-          "published": "2026-09-22T19:53:10+00:00"
-        },
-        {
-          "title": "Un projet de loi dédié au «Canada fort» bien mal nommé, selon les syndicats et écologistes",
-          "link": "https://www.ledevoir.com/politique/canada/1011023/projet-loi-dedie-canada-fort-est-mal-nomme-selon-syndicats-ecologistes",
-          "source": "Le Devoir",
-          "summary": "Le texte mammouth de C-39, censé accélérer les projets, pourrait plutôt engendrer des manifestations et des grèves.",
-          "published": "2026-09-22T18:56:00+00:00"
-        },
-        {
-          "title": "Thélyson Orélien accusé sur X d’avoir généré son roman «C’était ça ou mourir» par IA",
-          "link": "https://www.ledevoir.com/lire/1011020/thelyson-orelien-accuse-x-avoir-genere-roman-c-etait-ou-mourir-ia",
-          "source": "Le Devoir",
-          "summary": "Ces allégations pourraient compromettre le parcours de l’écrivain québécois dans les grands prix littéraires français.",
-          "published": "2026-09-22T18:43:00+00:00"
-        },
-        {
-          "title": "«C’était l’occasion de faire enfin un clin d’œil à papa»: Jérôme Charlebois prépare un hommage à son père",
-          "link": "https://www.journaldemontreal.com/2026/09/22/cetait-loccasion-de-faire-enfin-un-clin-dil-a-papa--jerome-charlebois-prepare-un-hommage-a-son-pere",
-          "source": "Journal de Montreal",
-          "summary": "Jérôme Charlebois, le fils de Robert Charlebois, rendra hommage à son père avec le nouveau spectacle.",
-          "published": "2026-09-22T18:34:15+00:00"
-        },
-        {
-          "title": "Trump dit avoir le choix entre «anéantir» l'Iran ou passer un «accord»",
-          "link": "https://www.journaldemontreal.com/2026/09/22/trump-dit-avoir-le-choix-entre-aneantir-liran-ou-passer-un-accord",
-          "source": "Journal de Montreal",
-          "summary": "Donald Trump a dit mardi qu'il devait décider entre «anéantir» l'Iran ou passer un «accord» avec Téhéran.",
-          "published": "2026-09-22T18:33:51+00:00"
-        },
-        {
-          "title": "Xbox coupe 268 postes et redistribue ses studios",
-          "link": "https://www.journaldemontreal.com/2026/09/22/xbox-coupe-268-postes-et-redistribue-ses-studios",
-          "source": "Journal de Montreal",
-          "summary": "Halo passe aux mains du studio Activision.",
-          "published": "2026-09-22T18:29:52+00:00"
+          "summary": "Ce financement comprend 80 millions de dollars d’aide humanitaire, le reste étant consacré à la sécurité.",
+          "published": "2026-09-22T20:40:00+00:00"
         }
       ]
     },
@@ -162,71 +162,71 @@
           "title": "«Je veux sauver le régime de retraite» : départ entre 63 et 65 ans, décote, capitalisation… Bruno Retailleau dévoile sa réforme",
           "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/je-veux-sauver-le-regime-de-retraite-depart-entre-63-et-65-ans-decote-capitalisation-bruno-retailleau-devoile-sa-reforme-20260922",
           "source": "Le Figaro",
-          "summary": "Invité mardi soir sur LCI, le candidat LR à la présidentielle veut lier l’âge de départ à l’espérance de vie pour éviter «un psychodrame» tous les dix ans.",
-          "published": "2026-09-22T20:45:38+00:00"
+          "summary": "Invité mardi soir sur LCI, le candidat LR à la présidentielle propose d’indexer l’âge du taux plein sur l’espérance de vie, pour en finir avec le «psychodrame» de chaque réforme.",
+          "published": "2026-09-22T23:25:56+00:00"
+        },
+        {
+          "title": "Entre progrès rapides et grosses lacunes, où en est la protection des terres et des mers du globe ?",
+          "link": "https://www.liberation.fr/environnement/biodiversite/entre-progres-rapides-et-grosses-lacunes-ou-en-est-la-protection-des-terres-et-des-mers-du-globe-20260923_GQ3HOVZ7FZBCDMLER3WONI6NGU/",
+          "source": "Liberation",
+          "summary": "A quelques semaines de la COP17 biodiversité en Arménie, l’initiative Campaign for Nature, promue par l’ONU, publie un état des lieux mondial de l’avancée de la protection de la nature. A ce jour, environ 20 % des…",
+          "published": "2026-09-22T22:01:00+00:00"
+        },
+        {
+          "title": "L'influenceur masculiniste \"Clavicular\" a été inculpé de viol aux Etats-Unis",
+          "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-influenceur-masculiniste-clavicular-a-ete-inculpe-de-viol-aux-etats-unis_8205326.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'influenceur, qui a démenti ces accusations sur les réseaux sociaux, s'est fait connaître par sa promotion du \"looksmaxxing\".",
+          "published": "2026-09-22T21:59:51+00:00"
+        },
+        {
+          "title": "Thélyson Orélien accusé d’avoir utilisé l’IA pour son livre « C’était ça ou mourir »",
+          "link": "https://www.lemonde.fr/pixels/article/2026/09/22/thelyson-orelien-accuse-d-avoir-utilise-l-ia-pour-son-livre-c-etait-ca-ou-mourir_6780300_4408996.html",
+          "source": "Le Monde",
+          "summary": "Le premier roman de l’écrivain québécois d’origine haïtienne est un des succès de la rentrée littéraire. La polémique a été impulsée par un compte anonyme sur le réseau social X, qui prétend s’appuyer sur un outil de…",
+          "published": "2026-09-22T21:55:21+00:00"
         },
         {
           "title": "EN DIRECT - Assemblée générale de l’ONU : Macron appelle à ne pas «céder à l’esprit de défaite et l’abus de pouvoir»",
           "link": "https://www.lefigaro.fr/international/en-direct-assemblee-generale-de-l-onu-enlise-dans-sa-guerre-en-iran-donald-trump-attendu-a-la-tribune-des-nations-unies-20260922",
           "source": "Le Figaro",
           "summary": "Le sommet annuel de l’ONU a démarré ce mardi, dans un contexte international particulièrement tendu. Emmanuel Macron a appelé à ne pas «céder» face à la «loi de la jungle» et a affirmé que la réouverture du détroit…",
-          "published": "2026-09-22T20:44:03+00:00"
+          "published": "2026-09-22T21:51:03+00:00"
         },
         {
-          "title": "L'ex-jihadiste français Othman Garrido condamné à 30 ans de réclusion criminelle",
-          "link": "https://www.franceinfo.fr/france/jihadistes-francais/l-ex-jihadiste-francais-othman-garrido-condamne-a-30-ans-de-reclusion-criminelle_8205284.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le Montpelliérain a été acquitté du chef d'assassinat, mais reconnu coupable de meurtres en bande organisée lors d'une double exécution publique en 2015 en Syrie, et d'association de malfaiteurs terroriste.",
-          "published": "2026-09-22T20:40:34+00:00"
-        },
-        {
-          "title": "L’Ukraine et les États-Unis veulent que la guerre prenne fin «avant l’hiver», déclare Volodymyr Zelensky",
-          "link": "https://www.lefigaro.fr/international/l-ukraine-et-les-etats-unis-veulent-que-la-guerre-prenne-fin-avant-l-hiver-ecrit-volodymyr-zelensky-20260922",
-          "source": "Le Figaro",
-          "summary": "Les deux présidents ont discuté de «potentielles étapes de désescalade susceptibles d’ouvrir la voie à la diplomatie», indique Volodymyr Zelensky.",
-          "published": "2026-09-22T20:36:38+00:00"
-        },
-        {
-          "title": "Primaire à gauche : Ségolène Royal ressuscite son « ordre juste »",
-          "link": "https://www.lemonde.fr/politique/article/2026/09/22/primaire-a-gauche-segolene-royal-ressuscite-son-ordre-juste_6780297_823448.html",
+          "title": "Le djihadiste français Othman Garrido condamné à trente ans de prison",
+          "link": "https://www.lemonde.fr/societe/article/2026/09/22/le-djihadiste-francais-othman-garrido-condamne-a-trente-ans-de-prison_6780299_3224.html",
           "source": "Le Monde",
-          "summary": "L’ancienne ministre a convoqué son slogan d’il y a presque vingt ans, « l’ordre juste », auquel elle a ajouté « La France tranquille », en clin d’œil à l’ancien président socialiste François Mitterrand, dont elle fut la…",
-          "published": "2026-09-22T20:34:49+00:00"
+          "summary": "Le Montpelliérain a été reconnu coupable, mardi par la cour d’assises spéciale de Paris, de meurtres en bande organisée lors d’une double exécution publique en 2015 en Syrie, et d’association de malfaiteurs terroriste.",
+          "published": "2026-09-22T21:51:02+00:00"
         },
         {
-          "title": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, le taux plein à 65",
-          "link": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html#xtor=RSS-3-[lestitres]",
+          "title": "Gaza, guerre en Ukraine, IA... Devant l'Assemblée générale de l'ONU, Emmanuel Macron a appelé à \"ne rien céder\"",
+          "link": "https://www.franceinfo.fr/monde/onu/gaza-guerre-en-ukraine-ia-devant-l-assemblee-generale-de-l-onu-emmanuel-macron-a-appele-a-ne-rien-ceder_8205242.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le candidat LR à la présidentielle Bruno Retailleau a aussi proposé l'introduction d'une retraite par capitalisation \"pour les jeunes\".",
-          "published": "2026-09-22T20:21:43+00:00"
+          "summary": "\"Ne rien céder à ce qui est en train de s'installer, qui est au fond une lente division du monde\", a déclaré le chef de l'Etat depuis New York.",
+          "published": "2026-09-22T21:46:53+00:00"
         },
         {
-          "title": "Crise des carburants : le PDG de Carrefour Alexandre Bompard entrevoit un «plateau» à 2,50 euros le litre",
-          "link": "https://www.lefigaro.fr/conjoncture/crise-des-carburants-le-pdg-de-carrefour-alexandre-bompard-entrevoit-un-plateau-a-2-50-euros-le-litre-20260922",
+          "title": "«La recherche des causes de la mort est toujours en cours» : Lukas, étudiant de 18 ans, est décédé après une soirée d’intégration alcoolisée à Compiègne",
+          "link": "https://www.lefigaro.fr/faits-divers/la-recherche-des-causes-de-la-mort-est-toujours-en-cours-lukas-etudiant-de-18-ans-est-decede-apres-une-soiree-d-integration-alcoolisee-a-compiegne-20260922",
           "source": "Le Figaro",
-          "summary": "«On a la conviction qu’on est dans un moment très haut, et qu’il faudrait des choses encore plus graves pour que ça monte», a affirmé le PDG de Carrefour, au sujet des prix du carburant.",
-          "published": "2026-09-22T20:14:49+00:00"
+          "summary": "Le jeune homme aurait été forcé à boire de grandes quantités d’alcool d’une traite sous peine d’une «punition», selon sa mère, qui attend désespérément des réponses à ses questions.",
+          "published": "2026-09-22T21:41:25+00:00"
         },
         {
-          "title": "Bain de foule, indices tactiques... Zinédine Zidane pose déjà sa patte sur les Bleus à Clairefontaine",
-          "link": "https://www.franceinfo.fr/sports/foot/equipe-de-france/reportage-bain-de-foule-indices-tactiques-zinedine-zidane-pose-deja-sa-patte-sur-les-bleus-a-clairefontaine_8205203.html#xtor=RSS-3-[lestitres]",
+          "title": "À Alfortville, un meeting sans enthousiasme de Ségolène Royal avant le premier débat de la primaire",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/a-alfortville-un-meeting-sans-enthousiasme-de-segolene-royal-avant-le-premier-debat-de-la-primaire-20260922",
+          "source": "Le Figaro",
+          "summary": "Devant 200 à 300 personnes, la candidate socialiste à l’élection présidentielle a exposé sa vision de la France sans donner de mesures précises.",
+          "published": "2026-09-22T21:22:53+00:00"
+        },
+        {
+          "title": "Budget 2027 : le gouvernement reconduit les allègements de prélèvements sur les bailleurs sociaux",
+          "link": "https://www.franceinfo.fr/economie/budget/budget-2027-le-gouvernement-reconduit-les-allegements-de-prelevements-sur-les-bailleurs-sociaux_8205188.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le nouveau sélectionneur des Bleus a dirigé sa première séance avec un groupe (presque) au complet, mardi.",
-          "published": "2026-09-22T20:11:38+00:00"
-        },
-        {
-          "title": "Détroit d’Ormuz, guerre en Ukraine, Gaza, intelligence artificielle : ce qu’il faut retenir de l’intervention d’Emmanuel Macron à l’ONU",
-          "link": "https://www.lefigaro.fr/international/detroit-d-ormuz-guerre-en-ukraine-gaza-intelligence-artificielle-ce-qu-il-faut-retenir-de-l-intervention-d-emmanuel-macron-a-l-onu-20260922",
-          "source": "Le Figaro",
-          "summary": "Dans son dernier discours à l’Assemblée générale des Nations unies, le président de la République a appelé à ne pas «céder» face à l’«esprit de défaite, à la fatalité».",
-          "published": "2026-09-22T20:08:18+00:00"
-        },
-        {
-          "title": "Les cours du pétrole baissent légèrement avec l’annonce de discussions entre les Etats-Unis et l’Iran",
-          "link": "https://www.liberation.fr/international/moyen-orient/les-cours-du-petrole-baissent-legerement-avec-lannonce-de-discussions-entre-les-etats-unis-et-liran-20260922_I5HQQGJTZ5FY7IO75C5T55WPMA/",
-          "source": "Liberation",
-          "summary": "Le prix du baril est repassé sous la barre des 100 dollars ce mardi soir, peu après que des représentants de Donald Trump et du régime de Téhéran se sont entretenus en marge de l’Assemblée générale de l’ONU.",
-          "published": "2026-09-22T20:06:55+00:00"
+          "summary": "Dans une interview à \"Sud-Ouest\", Vincent Jeanbrun annonce \"baisser leurs prélèvements de 500 millions d'euros\".",
+          "published": "2026-09-22T21:13:51+00:00"
         }
       ]
     },
@@ -325,207 +325,263 @@
       "label": "Actualites diabete",
       "items": [
         {
-          "title": "Quels sont les effets extra-pancréatiques réels ou potentiels des agonistes du récepteur du GLP-1 (AR GLP-1) ?",
-          "link": "https://www.diabetologie-pratique.com/journal/article/0043949-quels-sont-effets-extra-pancreatiques-reels-ou-potentiels-agonistes",
-          "source": "Diabetologie Pratique (journal)",
-          "summary": "Les AR GLP-1, dont le pancréas endocrine est la cible principale – ce dont témoigne leur efficacité dans le traitement diabète de type 2 (DT2) –, ont également des cibles extra-pancréatiques ouvrant la voie à…",
-          "published": "2026-09-22T20:54:40.641815+00:00"
-        },
-        {
-          "title": "SFD 2026 | Omnipod 5 en pratique : pour qui, pourquoi, comment ?",
-          "link": "https://www.diabetologie-pratique.com/journal/article/0043962-sfd-2026-omnipod-5-en-pratique-qui-pourquoi-comment",
-          "source": "Diabetologie Pratique (journal)",
-          "summary": "La boucle fermée sans tubulure franchit une nouvelle étape. Omnipod 5 est remboursé en France depuis mai 2024, et compatible avec 3 capteurs de glucose au choix depuis janvier 2026. Mais au-delà du cadre réglementaire…",
-          "published": "2026-09-22T20:54:40.641763+00:00"
-        },
-        {
           "title": "SFD 2026 | Regards croisés sur le diabète : comment la technologie FreeStyle Libre révolutionne la prise en charge des patients ?",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043956-sfd-2026-regards-croises-sur-diabete-comment-technologie-freestyle-libre",
           "source": "Diabetologie Pratique (journal)",
           "summary": "La mesure continue du glucose (MCG) transforme la prise en charge du diabète en permettant une meilleure personnalisation des traitements, une prévention plus efficace des complications et un renforcement de l’éducation…",
-          "published": "2026-09-22T20:54:40.641712+00:00"
+          "published": "2026-09-22T23:29:44.521354+00:00"
         },
         {
           "title": "Les agents hypoglycémiants non insuliniques du diabète de type 2 sont-ils applicables au diabète de type 1 ?",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043953-agents-hypoglycemiants-non-insuliniques-diabete-type-2-sont-ils-applicables",
           "source": "Diabetologie Pratique (journal)",
           "summary": "Bien que la dénomination « diabète » soit commune aux types 1 et 2, les deux maladies diffèrent sur le plan physiopathologique. Le diabète de type 2 (DT2) est surtout caractérisé par un état…",
-          "published": "2026-09-22T20:54:40.641660+00:00"
+          "published": "2026-09-22T23:29:44.521316+00:00"
         },
         {
           "title": "SFD 2026 | Le système myLoop s’adapte au mouvement physique et aux changements au cours de la vie",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043961-sfd-2026-systeme-myloop-sadapte-mouvement-physique-aux-changements-cours",
           "source": "Diabetologie Pratique (journal)",
           "summary": "Grâce à ses fonctionnalités multiples et à ses caractéristiques, la boucle fermée hybride myLoop permet une adaptation du traitement tant lors de l’activité physique qu’à l’adolescence.",
-          "published": "2026-09-22T20:54:40.641609+00:00"
+          "published": "2026-09-22T23:29:44.521276+00:00"
         },
         {
           "title": "SFD 2026 | Les effets de l’exposome sur la survenue du diabète de type 1 et de ses complications",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043958-sfd-2026-effets-lexposome-sur-survenue-diabete-type-1-ses-complications",
           "source": "Diabetologie Pratique (journal)",
           "summary": "Une équipe mixte luxembourgeoise/APHP a réalisé une revue exploratoire de la littérature dans le but d’identifier les facteurs environnementaux associés au développement et à la progression du diabète de type 1. Les…",
-          "published": "2026-09-22T20:54:40.641571+00:00"
+          "published": "2026-09-22T23:29:44.521248+00:00"
         },
         {
           "title": "Aliments ultra-transformés (AUT) et maladies chroniques : un nouveau problème de santé publique ! Un lien causal probable avec les maladies métaboliques",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043955-aliments-ultra-transformes-aut-maladies-chroniques-nouveau-probleme-sante",
           "source": "Diabetologie Pratique (journal)",
           "summary": "Voici venu le temps des preuves de la nocivité des aliments ultra-transformés (AUT) qui se sont invités en nombre dans nos assiettes au cours des dernières décennies au point de représenter plus d’un tiers des…",
-          "published": "2026-09-22T20:54:40.641524+00:00"
+          "published": "2026-09-22T23:29:44.521215+00:00"
         },
         {
           "title": "Place de la transplantation d’îlots pancréatiques à l’ère de la boucle fermée : quand adresser un patient à un centre de greffe ?",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043950-place-transplantation-dilots-pancreatiques-lere-boucle-fermee-quand",
           "source": "Diabetologie Pratique (journal)",
           "summary": "La boucle fermée ou la transplantation d’îlots ou les deux ? La prise en charge de sujets vivant avec un diabète de type 1 (SvDT1) a été totalement bouleversée depuis la mise à disposition des dispositifs…",
-          "published": "2026-09-22T20:54:40.641469+00:00"
+          "published": "2026-09-22T23:29:44.521175+00:00"
         },
         {
           "title": "Quand la chaleur décompense et que la science repense",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043947-quand-chaleur-decompense-que-science-repense",
           "source": "Diabetologie Pratique (journal)",
           "summary": "Les vagues de chaleur deviennent plus fréquentes et plus intenses. Elles s’imposent à nous mais elles exposent aussi directement les personnes vivant avec une obésité ou un diabète à un risque clinique accru de…",
-          "published": "2026-09-22T20:54:40.641414+00:00"
+          "published": "2026-09-22T23:29:44.521134+00:00"
         },
         {
           "title": "SFD 2026 | Boucle fermée et greffe d'îlots : quelles perspectives ?",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043960-sfd-2026-boucle-fermee-greffe-dilots-quelles-perspectives",
           "source": "Diabetologie Pratique (journal)",
           "summary": "La boucle fermée et la greffe d’îlots ont largement fait la preuve de leur efficacité. Des défis restent toutefois à relever pour améliorer le contrôle glycémique des diabétiques de type 1 traités par boucle fermée et…",
-          "published": "2026-09-22T20:54:40.641363+00:00"
+          "published": "2026-09-22T23:29:44.521095+00:00"
         },
         {
           "title": "SFD 2026 | Acidocétose diabétique dans le DT1 : données françaises de la cohorte SFDT1 et nouvelles perspectives de prise en charge",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043957-sfd-2026-acidocetose-diabetique-dt1-donnees-francaises-cohorte-sfdt1",
           "source": "Diabetologie Pratique (journal)",
           "summary": "L’acidocétose diabétique (ACD) demeure une des complications aiguës les plus redoutées du diabète de type 1 (DT1), et pourtant l'une des moins bien documentées en vie réelle. À partir des données de la cohorte nationale…",
-          "published": "2026-09-22T20:54:40.641317+00:00"
+          "published": "2026-09-22T23:29:44.521053+00:00"
+        },
+        {
+          "title": "La gestion du diabète de type 2 chez les personnes âgées à la lumière de l’actualisation de la prise de position de la SFD",
+          "link": "https://www.diabetologie-pratique.com/journal/article/0043954-gestion-diabete-type-2-chez-personnes-agees-lumiere-lactualisation-prise",
+          "source": "Diabetologie Pratique (journal)",
+          "summary": "L’actualisation de la prise de position de la SFD est maintenant librement disponible depuis mi-décembre 2025 sur le site de la SFD ( https://www.sfdiabete.org ) (1). Ce texte consacre un grand chapitre à la prise en…",
+          "published": "2026-09-22T23:29:44.520995+00:00"
+        },
+        {
+          "title": "Quels sont les effets extra-pancréatiques réels ou potentiels des agonistes du récepteur du GLP-1 (AR GLP-1) ?",
+          "link": "https://www.diabetologie-pratique.com/journal/article/0043949-quels-sont-effets-extra-pancreatiques-reels-ou-potentiels-agonistes",
+          "source": "Diabetologie Pratique (journal)",
+          "summary": "Les AR GLP-1, dont le pancréas endocrine est la cible principale – ce dont témoigne leur efficacité dans le traitement diabète de type 2 (DT2) –, ont également des cibles extra-pancréatiques ouvrant la voie à…",
+          "published": "2026-09-22T23:29:44.520951+00:00"
         },
         {
           "title": "SFD 2026 | Prise en charge de la fibrose hépatique dans le diabète de type 2 : perspectives du diabétologue",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043959-sfd-2026-prise-en-charge-fibrose-hepatique-diabete-type-2-perspectives",
           "source": "Diabetologie Pratique (journal)",
           "summary": "Plusieurs raisons justifient l’intérêt à porter à la fibrose hépatique chez les patients diabétiques de type 2 présentant une MASLD/MASH ( Metabolic Dysfunction-Associated Steatotic Liver Disease/Metabolic…",
-          "published": "2026-09-22T20:54:40.641259+00:00"
+          "published": "2026-09-22T23:29:44.520909+00:00"
         },
         {
           "title": "Biologie des incrétines naturelles et des incrétinomimétiques de synthèse",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043889-biologie-incretines-naturelles-incretinomimetiques-synthese",
           "source": "Diabetologie Pratique (journal)",
           "summary": "Les incrétinomimétiques (« Incretin-based Medicines ») exercent leurs effets thérapeutiques en activant le récepteur du GLP-1 ( Glucagon-Like Peptide) et/ou du GIP ( Glucose-Dependent Insulinotropic Polypeptide).…",
-          "published": "2026-09-22T20:54:40.641212+00:00"
+          "published": "2026-09-22T23:29:44.520874+00:00"
         },
         {
           "title": "Prise de position de la SFD 2025 sur les stratégies d’utilisation des traitements de l’hyperglycémie dans le diabète de type 2 : quel choix en cas de MASLD/MASH ?",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043891-prise-position-sfd-2025-sur-strategies-dutilisation-traitements",
           "source": "Diabetologie Pratique (journal)",
           "summary": "-",
-          "published": "2026-09-22T20:54:40.641153+00:00"
+          "published": "2026-09-22T23:29:44.520830+00:00"
         },
         {
           "title": "Grossesse et diabète de type 1 : quelle place pour la boucle fermée ?",
           "link": "https://www.diabetologie-pratique.com/journal/article/0043948-grossesse-diabete-type-1-quelle-place-boucle-fermee",
           "source": "Diabetologie Pratique (journal)",
           "summary": "Obtenir un contrôle glycémique optimal pendant la grossesse reste un challenge, et les conséquences d’un mauvais équilibre peuvent être lourdes pour la mère et l’enfant. La mise au point des systèmes automatisés…",
-          "published": "2026-09-22T20:54:40.641104+00:00"
-        },
-        {
-          "title": "L’exposition aux colorants alimentaires est à risque de diabète de type 2",
-          "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043941-lexposition-aux-colorants-alimentaires-est-risque-diabete-type-2",
-          "source": "Diabetologie Pratique",
-          "summary": "La traque des facteurs de risque du diabète de type 2 (DT2) se poursuit et met les aliments et les pratiques alimentaires de l’anthropocène sur la sellette. Les aliments ultra-transformés qui sont associés à une…",
-          "published": "2026-09-22T20:54:40.135797+00:00"
-        },
-        {
-          "title": "Le sémaglutide 2,4 mg réduit les hospitalisations en cas d’obésité ou de maladie cardiovasculaire",
-          "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043938-semaglutide-24-mg-reduit-hospitalisations-en-cas-dobesite-ou",
-          "source": "Diabetologie Pratique",
-          "summary": "L'analyse principale de l'essai clinique randomisé SELECT suggérait que le sémaglutide réduisait les taux de décès d'origine cardiovasculaire, d'infarctus du myocarde et d'accident vasculaire cérébral chez les patients…",
-          "published": "2026-09-22T20:54:40.135739+00:00"
+          "published": "2026-09-22T23:29:44.520792+00:00"
         },
         {
           "title": "Que retenir des nouvelles recommandations sur les dyslipidémies",
           "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043940-que-retenir-nouvelles-recommandations-sur-dyslipidemies",
           "source": "Diabetologie Pratique",
           "summary": "Dans un document très détaillé de 132 pages, l’American College of Cardiology (ACC) et l’American Heart Association (AHA) ont actualisé dans le Journal of the American College of Cardiology leurs recommandations en…",
-          "published": "2026-09-22T20:54:40.135679+00:00"
+          "published": "2026-09-22T23:29:44.126360+00:00"
         },
         {
           "title": "Rétatrutide : des résultats TRANSCENDants dans le diabète de type 2",
           "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043937-retatrutide-resultats-transcendants-diabete-type-2",
           "source": "Diabetologie Pratique",
           "summary": "Le rétatrutide est un triple agoniste des récepteurs GIP, GLP‑1 et glucagon en développement dans le diabète de type 2 (DT2) et l’obésité. Grâce à l’activation du récepteur du glucagon, il vise à renforcer l’effet…",
-          "published": "2026-09-22T20:54:40.135621+00:00"
+          "published": "2026-09-22T23:29:44.126318+00:00"
         },
         {
           "title": "48 %",
           "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043939-48",
           "source": "Diabetologie Pratique",
           "summary": "Ce chiffre correspond à la proportion des adultes américains en surpoids avec un IMC ≥ 25 kg/m² (représentant environ 182 millions de personnes) qui ne se considèrent pas en surcharge pondérale. Cette analyse…",
-          "published": "2026-09-22T20:54:40.135560+00:00"
+          "published": "2026-09-22T23:29:44.126276+00:00"
+        },
+        {
+          "title": "L’exposition aux colorants alimentaires est à risque de diabète de type 2",
+          "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043941-lexposition-aux-colorants-alimentaires-est-risque-diabete-type-2",
+          "source": "Diabetologie Pratique",
+          "summary": "La traque des facteurs de risque du diabète de type 2 (DT2) se poursuit et met les aliments et les pratiques alimentaires de l’anthropocène sur la sellette. Les aliments ultra-transformés qui sont associés à une…",
+          "published": "2026-09-22T23:29:44.126236+00:00"
+        },
+        {
+          "title": "Le sémaglutide 2,4 mg réduit les hospitalisations en cas d’obésité ou de maladie cardiovasculaire",
+          "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043938-semaglutide-24-mg-reduit-hospitalisations-en-cas-dobesite-ou",
+          "source": "Diabetologie Pratique",
+          "summary": "L'analyse principale de l'essai clinique randomisé SELECT suggérait que le sémaglutide réduisait les taux de décès d'origine cardiovasculaire, d'infarctus du myocarde et d'accident vasculaire cérébral chez les patients…",
+          "published": "2026-09-22T23:29:44.126193+00:00"
         },
         {
           "title": "Les modifications du mode de vie sont supérieures à la metformine pour réduire le risque de comorbidités chez la personne ayant un prédiabète",
           "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043971-modifications-mode-vie-sont-superieures-metformine-reduire",
           "source": "Diabetologie Pratique",
           "summary": "Le prédiabète est défini par l’un des 3 critères suivants : (a) anomalie de la glycémie à jeun (entre 100 et 125 m/dL) ; (b) intolérance au glucose (glycémie comprise entre 140 et 199 mg/dL à la 2 e heure d’une épreuve…",
-          "published": "2026-09-22T20:54:40.135498+00:00"
+          "published": "2026-09-22T23:29:44.126148+00:00"
         },
         {
           "title": "63 %",
           "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043970-63",
           "source": "Diabetologie Pratique",
           "summary": "Ce chiffre correspond à la majoration du risque de mortalité toutes causes confondues chez les hommes par rapport aux femmes dans cette étude de cohorte prospective portant sur des adultes âgés de 20 ans ou plus ayant…",
-          "published": "2026-09-22T20:54:40.135435+00:00"
-        },
-        {
-          "title": "Tirzépatide et risque cardiovasculaire dans le diabète de type 2 : les données d’une nouvelle étude de cohorte en vie réelle",
-          "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043972-tirzepatide-risque-cardiovasculaire-diabete-type-2-donnees-dune",
-          "source": "Diabetologie Pratique",
-          "summary": "Chez les personnes présentant un diabète de type 2 (DT2), le tirzépatide, double agoniste des récepteurs GLP-1 et GIP, a démontré une efficacité majeure sur le contrôle glycémique et le poids ainsi qu’un bénéfice…",
-          "published": "2026-09-22T20:54:40.135379+00:00"
+          "published": "2026-09-22T23:29:44.126101+00:00"
         },
         {
           "title": "Association entre la température ambiante et l'hypoglycémie dans le diabète de type 1 : encore un méfait de la canicule !",
           "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043974-association-entre-temperature-ambiante-lhypoglycemie-diabete",
           "source": "Diabetologie Pratique",
           "summary": "L’augmentation des températures mondiales (1,59 °C au cours des 15 dernières années par rapport à celles enregistrées entre 1850 et 1900) est associée à un risque accru de morbidité et de mortalité notamment chez les…",
-          "published": "2026-09-22T20:54:40.135317+00:00"
+          "published": "2026-09-22T23:29:44.126059+00:00"
         },
         {
           "title": "L’évolocumab réduit le risque d’événement cardiovasculaire des patients diabétiques à haut risque en prévention primaire",
           "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043973-levolocumab-reduit-risque-devenement-cardiovasculaire-patients",
           "source": "Diabetologie Pratique",
           "summary": "La diminution intensive du taux de LDL cholestérol à l’aide des inhibiteurs de la PCSK9 en vue de réduire les événements cardiovasculaires a été jusqu’à présent largement réservée aux patients présentant une…",
-          "published": "2026-09-22T20:54:40.135241+00:00"
+          "published": "2026-09-22T23:29:44.125998+00:00"
+        },
+        {
+          "title": "Tirzépatide et risque cardiovasculaire dans le diabète de type 2 : les données d’une nouvelle étude de cohorte en vie réelle",
+          "link": "https://www.diabetologie-pratique.com/actualites/diabetes-experts-review/0043972-tirzepatide-risque-cardiovasculaire-diabete-type-2-donnees-dune",
+          "source": "Diabetologie Pratique",
+          "summary": "Chez les personnes présentant un diabète de type 2 (DT2), le tirzépatide, double agoniste des récepteurs GLP-1 et GIP, a démontré une efficacité majeure sur le contrôle glycémique et le poids ainsi qu’un bénéfice…",
+          "published": "2026-09-22T23:29:44.125940+00:00"
+        },
+        {
+          "title": "Thunder Ride raises $81,000 for children with Type 1 diabetes",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGhkR2RubURqQVRSMExsVkJzNlUwZE9KWXRyZWNtYWNEbmU1SXVIVEFVckxhdnBWUmZnclYwTWk2eVJMOWRQQW1IWUZQSW1uQXFCSzNETkNYTi1hR3hCT0gzbXhtTkFKbTJrS1RkcExUU0p2UmI2M3FkYmtuQl9ycUVzNGRqZFBJbHZzNDhYT0VYZ2dJOFMtc1ZMLW83UmQxN0FXN1lNX1ZUNXN0TnhUeHJZajdidXlvdGpkVng0ZWFVWTRqdzV0UWRCT0hRUWoyZVFwOTQ5Yw?oc=5",
+          "source": "news8000.com",
+          "summary": "Thunder Ride raises $81,000 for children with Type 1 diabetes news8000.com",
+          "published": "2026-09-22T22:44:00+00:00"
+        },
+        {
+          "title": "Father bikes more than 5,000 to raise awareness for Type 1 diabetes: Makes stop in Fairport",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1ZnbXBnallhQjJULVlDbzFvamhOS1MwN3hLNUdvajlnNXRJUVBPVHE0MGtnZk80anFnWnRwbnA0bDdrQUd2MS1DRnFLaHhDd01helFHWS05c1VxcnpBeXRFNU12OHljb3lXdE8xRzVid3lGbUJzQ0N5TzVCVEtaeDlDTkZtMXg0Ym9uSnhpZElkTUlYUTZaUGdNQV9OQTdZZkY4X2k1VlZ2SzdBWEtLbDVrczJqcGlHUHB1Mw?oc=5",
+          "source": "WHEC.com",
+          "summary": "Father bikes more than 5,000 to raise awareness for Type 1 diabetes: Makes stop in Fairport WHEC.com",
+          "published": "2026-09-22T22:10:49+00:00"
+        },
+        {
+          "title": "Cancer incidence remains higher in people with type 2 diabetes, with the gap widening in recent years",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY0pQQlZpUTFWdG95ZmxNRlYyeEppdlFZdmZaRWx6LUpDUFIyQ2NWdWFLYlpvNDdfVkIzODNEcTd4a1J6RnVHa1dNWk85X0p2Rzc5Z1VsX3ZnZ0ViWUtoZ2YwZFZMbm5ha2x1dEtsMnQ2SE1hclN5ckVROXhidjd4dGstUlpTbU1iS1RQazE4RGlYc2ZBSE1QOFkwaUd5S01UV3lXTlpfMDc4T0lhSXFKQlBGcjYzNWMtR3B1X19IUHJBQjZMRjBRZw?oc=5",
+          "source": "The Diabetes Times",
+          "summary": "Cancer incidence remains higher in people with type 2 diabetes, with the gap widening in recent years The Diabetes Times",
+          "published": "2026-09-22T22:04:35+00:00"
+        },
+        {
+          "title": "Cancer Risk Gap Widens for People with Type 2 Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTFqTGtic0FVQnhGa3gtekxJQVpXUUZBSkZYUEphcWVYQlJOd0g5NTBLdmdoWXlxZV9yZ1BpZDlMd3IwcGZFYzhQUGVzSExJOTh6bHN1cUNHaXBQTy04NHRYTXdsN0Y0QmFsZHRhbVRzOW1GV2tPaXJlemJMb19pQndQeUhydGdsX0xyaEswOERSdmRGclVCSU1GT2JkMGN2VnZtRnRKSmd5My1meXNvMQ?oc=5",
+          "source": "Inside Precision Medicine",
+          "summary": "Cancer Risk Gap Widens for People with Type 2 Diabetes Inside Precision Medicine",
+          "published": "2026-09-22T22:01:51+00:00"
+        },
+        {
+          "title": "Cyclist's cross-country journey for Type 1 diabetes awareness rolls through Rochester area",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOR3hXXzI5bEZXSEZJZk8xdjRvWlJJa2EzVGIwRzhLLVNPNUdFZzMyVXUwMENiUXdlb041Rnd2ZFpWbXUtRkFIV1U1V2tXUU5VSURhbkI1MGpzaFgtT2RXZllNa1NTelZRbnZzMVoyOXUtOXZZbHVEbWQxRVdMUEdUNi1EUlRwd05oYTFDNnBfekowckpnd3hkUXE4ajlRYm80cmo3VHpKWXJFXzJ5T1gtOGFqb2tWSjRTN1BrWmd0M19pWG1hdkVLSW91djFMZ1g5d04zX3FvWkhuTDFhcF9EdWpkTGFBR2dLRWQ0Qnp2M3RiT1RtcVdMZ3g5cHNLUi1iNFE1ZS1LWlhBZl9xOENCTll1TEw5YjZCbTE0OXA5Z1BtLWtRVGswTHZ3?oc=5",
+          "source": "13wham.com",
+          "summary": "Cyclist's cross-country journey for Type 1 diabetes awareness rolls through Rochester area 13wham.com",
+          "published": "2026-09-22T21:46:59+00:00"
+        },
+        {
+          "title": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTG16SGo1TlIzb1pkWFRXc1M5ZzlNMEVBc2tQa2RoT3Z6ZTdUNG9oNVpMV190aXBiaTdzN1h0QTVHUF9qaHlUUW8zMk8tejZSUmhXNHVRaFdvWjBLQUt3NTBTY0VYM0JPNTZNcnhWYUZUS1NYUEU2MlVILWl1ak91TU1yaXg4Y3ZWaHpHM2d6ak9DX21RNWZXR0UwdUdDcF9EMkhn?oc=5",
+          "source": "AP News",
+          "summary": "Costa Rican man complained of lack of care for diabetes before his death in ICE custody, family says AP News",
+          "published": "2026-09-22T21:18:00+00:00"
+        },
+        {
+          "title": "Finerenone Approval Expands CKD Care in Type 1 Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVW9wRlZrLWx0Si1JTmNJV0Nuai1hZ2hMUk1xOUxJLXhwSVZQTkZCYmFYQ3pYeDdxM0dKWThhdVA4UnBxc0JONlJadXVtZE80TUVEUnhYNDh6bmpXVWV3UWk1WENLS3FfbUNUd2VmTUdHTXoyeFFDRzlZUFQtMnlDTzMyMFhuWGtmSllLRw?oc=5",
+          "source": "HCPLive",
+          "summary": "Finerenone Approval Expands CKD Care in Type 1 Diabetes HCPLive",
+          "published": "2026-09-22T21:06:06+00:00"
         },
         {
           "title": "Brandon McGinley: Here’s one way Pittsburgh is beating Silicon Valley",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSDhFRDVjbzJQX2ZIZXZBenl1dDlpdUlRQ1o3dm8xTzBlSVNXdDUxMjhjWkNNclFKbUdmYnRIWjVvNFhpbWpXXzRuNkVlTzVSYWc2QUQ5b1AwdzFlNXRnV0RwQkw1XzlrMTQzVWRfcDhvcGNyQlF5elF6V1RqSFR6WWFMNmdCSWlyXzR1a1hmWUl1MnNpYWlnM2pXeGpvZWtORHNNRm9ZbXdPNDM0Nk5ycW9JdnFBdWZEZ1JaSlJuR2VWTEkwSE9obFhB?oc=5",
           "source": "Pittsburgh Post-Gazette",
           "summary": "Brandon McGinley: Here’s one way Pittsburgh is beating Silicon Valley Pittsburgh Post-Gazette",
-          "published": "2026-09-22T20:43:14+00:00"
+          "published": "2026-09-22T20:59:27+00:00"
         },
         {
-          "title": "Harold Hamm commits record $150M to tackle Oklahoma's health crisis",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcWR5WjdIOEdoZHl3YXh2SnpBdFZyLWNsUWNJZGJXVGpZbWFIX0wwNzBUdFY5RDFkYVhoS3d1MGtEZUw3MW4tVTBITGpXMGRsT0EtSllYWHYzZGJBWEZxRU9DMGh5X3Nub2pkQklfa2gwNTktSXZpdlYwZFdDQWhkTjdDdk1DMDZsVDNycUsyckY1ZW1ReVlzVnUzRVFVSy1NM3RFdmFHV09hS0w2MWM2WHBMZ2wweFhrRGpzdW1kQWZvUkxjc0tHM25UbUo?oc=5",
-          "source": "The Oklahoman",
-          "summary": "Harold Hamm commits record $150M to tackle Oklahoma's health crisis The Oklahoman",
-          "published": "2026-09-22T20:29:00+00:00"
+          "title": "A Game Changer: Harold Hamm commits largest gift in OU history to lift health of Oklahoma, name Health Campus",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWQwRlhLTDhtRVVGNHp2WlpfQ3V6VS0xeHlaOW9rXzVpd2QtdXM1M0VHYXpsUm9xRFo2UDVYRkxSaExQUWhWYVlqLVI0U1MwRUY5WXFvZlZrNGJpaHdOSHdCTXpUbU1qY095NkR4QjZobFNQSWY5MEl1ZDBieF80cEZFcVFNVzRoVkE?oc=5",
+          "source": "The University of Oklahoma",
+          "summary": "A Game Changer: Harold Hamm commits largest gift in OU history to lift health of Oklahoma, name Health Campus The University of Oklahoma",
+          "published": "2026-09-22T20:47:08+00:00"
+        },
+        {
+          "title": "Hundreds of lawsuits allege GLP-1s like Ozempic, Wegovy and Mounjaro caused permanent vision loss",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb08xbXdTb3BBTmxOOG5mSDR5V2tXWVB2X2c1R2hMQUNzRnpYVGJSUmhrQlJrcklxVDd1bXVYbm02T1JKVnhvNTIzazNnWUczUHlIWkFvUnVXa3JCamktTENFM2tEbDMwOFZGNWIwYmlzOWw3NG5WRERnWTVGa29NWXZRRDFUdHlkZG5CRUxXSFhWRjladWhJRHZkZElMRmZLMHFnY2daMWhqMmxaMXBvYVZFcUwwY1VObnVpU1I2UQ?oc=5",
+          "source": "WTVA",
+          "summary": "Hundreds of lawsuits allege GLP-1s like Ozempic, Wegovy and Mounjaro caused permanent vision loss WTVA",
+          "published": "2026-09-22T20:47:00+00:00"
         },
         {
           "title": "National Diabetes Trust appoints Nicole Gourley as President and CEO",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3ZGa2dMMlpyanlLdFpzdmJQZUw2bi1VakFWYzBKNWZoWC15dWNXa1RUVVNzN3UxWnZOZDgxbkYydDJpSnhEZTNpWlRxZks2QXhKVFdsbkpiQlRiandZNEtkYTN4dm0tQjloTlhnVmJOeTNvTVB2WHVEbkgtdTB3QzB5UUdTcmxhWWF5OFAyYWlwZlVSUnp2UTNMTExHMFpDX19RZVpDdUs3MVVGM09JcXR6bks2OE9ManlkdXZjQTNfSlpnQ3pzaVJvWDhwMGN6UVZoYVpRRl9vd9IB3wFBVV95cUxPbEhMUURhLVExcHJIMkhMbHl6UlNNaVIyLWNwOGw2UXhzbk9QTHJSOC1fZ0pVVmd2bVJyRzEwUFRDbVlKQm5Ud1hJY3YzSHZMTWJfZzF2cFNQT19ROHUwVmdzQVpxNWxqYjNWVlo1Sjg4ZHROb004UEUzUjJYUXdUOVRDQV9HTzdNTlppRng3NEgwb2hmY0w1X0lmVFBSakJNWDJmd1M4LTU4S3lXbTRONG95R3RESGMwTzVCUnNLWVo0Y1I3U3BRQXpkWTYyMVk5bm1hV2Fua2Z3SE1qNDdR?oc=5",
-          "source": "The Manila Times",
-          "summary": "National Diabetes Trust appoints Nicole Gourley as President and CEO The Manila Times",
-          "published": "2026-09-22T20:20:22+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc2JOZ2hIVzFaMk1nRUVXV2xBdjJXVm9WVEd3WkEwUEhmbFJCNmN5NG1nT0FSR1QwRUdjMFEzcXBxUVY0TDlqOEpVYmlsN3R6ZkFTdERsX25fN0RmVnU0UGJVU2dHbVF4Y0pRYkpvY25abXVQbk8zdmFjenhhSFlDRXRWTXJXNlJ1OFIwOFlBQXhMSjQ5elJpWVh0cWppdklLbVczdHpXMmhYVWJYSm1KZDQzUUlLOVpBX1B4c1IzZU1Felh2Vk9WYm5OWmw3UHlUSG5hSjJCRQ?oc=5",
+          "source": "GlobeNewswire",
+          "summary": "National Diabetes Trust appoints Nicole Gourley as President and CEO GlobeNewswire",
+          "published": "2026-09-22T20:00:00+00:00"
         },
         {
-          "title": "Medication adherence disparities exist among three racial groups in Medicare Advantage, study finds",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3lMbGRSZkJ5aUQ1OXJ4X2ZVWmxHUjV3ejljdC1WSGgwLTVKTjVBME4za2lUeTZaM2hXLWlKWENjc0ZuRGRWUDVPZ1VUY09UbF8wRnRwUXdBUVo2RW9ZZEUwVG9BQzNQaTdkX3VqZ0V6YmFsdDlvYndsTUY4elpMMmExZXBORjVWTThKbVBUU1BmSnZ6TFQ2MlJqMmdVeVVFSVNuRjZ3dVlKcmRwd0hzQ2NxVzFrNWZUaFQ4cWVxY0RuaGpudWZQMmFR?oc=5",
-          "source": "McKnight's Long-Term Care News",
-          "summary": "Medication adherence disparities exist among three racial groups in Medicare Advantage, study finds McKnight's Long-Term Care News",
-          "published": "2026-09-22T20:02:41+00:00"
+          "title": "Can LED bulbs give you diabetes? UCL neuroscientist warns modern lighting may damage mitochondria and affe",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdG9qT3JpOVZrQXRWVE1HWFpYSW1FNUpBMm0yaVlNSlVKakxRMFhKVU9yUXhJamY0ekFUT0VrbXZQdnl4a25UVnlQSXg4NWVXRGxEUTVpaTNGNUpxU18zelRhNGxzQ2hydFp6Zm1MS012X2pDVlJQU2tVeGtoeE5KVlNvLXlxUkpUbzlTZmtTYl9walo1bDhCYi1EN3pYOW5TTGVhdVVTczVnenJ3U3lEZm1OR2p0VTNMZGNwX2g4UGZEWmRiWTNNd2szSFB4SEtCbmtNQ3lRNlRFR012d1NBbXNCTFF1emdSR2RiY1phV0lUdFh0SHVRcjRydTRsSUkweG5scnVZUkM0S2VGQVlydUVqWGpab0ZuNUJmSno2bkc3SERMWXpyOUNDX1ZSQdIBswJBVV95cUxNQzFKWGVUZDZjSko0cUw5QTNqNXpZWUpDTFdGNnh6RGVyNExEM1ZPU2d6WGFxYkNrVnJCaTNjazNHLW9idDRzQnZfSEtXMFhHWXp6eDJfUkl2ZmlUaWN3S2FUenhhNDEtNEhDNDU0ODVKcm1CTGw1bldMZWhpZjAxMnU2RU1QRmxvWnBWNGRPaXFqNHYzN01vaE9XOFk2OHRhcTI1UHRMRFRZd3Z5UDM5ZWZRbzRxbVpyLUt3cDVpenVrY2ZxSlVtLUZZd0Z1TEg0MXYxd1V0SGV3djhnaVN1MmJzZ1JCb3EzZHRtNzJyQ1p6bmZfOFZGZGlEcUFwZGxYQ1E5OE1vX09sck1aellmVVBHYVVUOUg1cjEyU1N3OWMtUGRyMjVqdGVhZnhqQ1ZBX1pN?oc=5",
+          "source": "The Economic Times",
+          "summary": "Can LED bulbs give you diabetes? UCL neuroscientist warns modern lighting may damage mitochondria and affe The Economic Times",
+          "published": "2026-09-22T19:46:07+00:00"
         },
         {
           "title": "Enicepatide Meets Primary End Points in Phase 2 Trial of Adults With Type 2 Diabetes, Obesity",
@@ -535,74 +591,18 @@
           "published": "2026-09-22T19:45:11+00:00"
         },
         {
+          "title": "Médicaments GLP-1 : l’arrêt du traitement augmenterait le risque d'infarctus et d'AVC",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQR3J5NHY5VEhCYzhqNFhONVNpQXpaSWlkcjZqU3h3QWZjQ1M5bU1IbG9Oa0hoblZKQkw3TmFkYllqejh2cUdtSm5iZnltZ1ZCQnBkcFZFSVItRWVkWkpWSUk0TjNkMWNyTWpDX0J2Q0gyc3N1cU9kUjNfdFZQQ0NYMGNNTEdzcGdsWXpXcUpSZ0JYNUZoallLSnAxUFlyel9yWnRwNnhyU3JBN2dVUWp5blRmZEJXUFdlZWtHVXVWV1FuSThiSmQybFc5ZXFodkNkWDMzZGxLQWxlLW1mSnJqQkxQREJra2ZQZ2lxdEJDVkRwQnl1?oc=5",
+          "source": "Top Santé",
+          "summary": "Médicaments GLP-1 : l’arrêt du traitement augmenterait le risque d'infarctus et d'AVC Top Santé",
+          "published": "2026-09-22T19:16:12+00:00"
+        },
+        {
           "title": "Beta Bionics, Senseonics to Integrate Diabetes Devices; Shares Rise",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFZycUE5X09NR2tnV2RMVHlyVmVDZWFULUFnaTdNek1MS0hVaXNGM2Q0YWZEdEtmYVBXQllxZ1pEZnpycldtNF9jdDR4QlYwcHhjVWpDNFdSS0dLTnFoaUNrUTBmQk9vTmdNbFlNTjRMa29RS1V2OGYtczVhbEpaYUJ0Zzg1NVJabGprWXBDZ3F2TEF1clBHcnVQbHhCaWIzd0hMYk1oUlNqUVVNa0oxckNsTkJ4VHdjZEE?oc=5",
           "source": "marketscreener.com",
           "summary": "Beta Bionics, Senseonics to Integrate Diabetes Devices; Shares Rise marketscreener.com",
           "published": "2026-09-22T19:07:14+00:00"
-        },
-        {
-          "title": "Maria Menounos says she ‘almost died in my sleep’ amid diabetes struggles: ‘Not fun’",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTW0zVF9XOW9ZNTlIcFFua0k0SEpiQzRNX29xTUlCTGVxWWdWYWJtdW1XU3RjblowSno2VkQxMGlKaExOQllZa1BRNXFYVGtOS004anJ2SVhvMlhyY0tWTzBvY1NWdFNZYTZRcXNNc1pxTXJrbjg3ZURzLVdiZUlyS2ktQlVjZw?oc=5",
-          "source": "ew.com",
-          "summary": "Maria Menounos says she ‘almost died in my sleep’ amid diabetes struggles: ‘Not fun’ ew.com",
-          "published": "2026-09-22T19:07:12+00:00"
-        },
-        {
-          "title": "Diabetes is Associated with Changes in Renal Function and Electrolytes",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnB1ZUhEQ1BTV0hVQ0lZaE9hcjRLYnpsTnh2N0s5ZWhFbDN0MVFUVGpxLTRyTUpMUHV2ckZiVTl1VzNCemk1UmI3NXhJbkExVmpnUlNwM2tvb2pPOVYzcENnbHhSaVpjRkpjek14NjFJWGQ3N0VpcGE0Mk1pakJqUVR6QlVKUldLMGc2SVk1MzJ3SzQxazlyY1NROGNLclduekJOVnBNdmtnRjFPNnVHRG43QXU?oc=5",
-          "source": "EMJ",
-          "summary": "Diabetes is Associated with Changes in Renal Function and Electrolytes EMJ",
-          "published": "2026-09-22T18:38:23+00:00"
-        },
-        {
-          "title": "Weight Loss Correlates With Diabetes Remission",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFNDUFF2TnVVRXpKZmFJSjBqTHVtTTJjcUdkZ3RTT3QydVR6Zkd2T0xWS2JHZTlkZkpOZGYwb0NmZlQ3SGF0VDNzbGo2NkxsY2VTeEdBQXVlVXhxQm1RVDVnM2JQU2x3M2tkUDRsMHlZUXc0VUNod1lRMVVCTnBEbWpmN3k?oc=5",
-          "source": "Drug Topics",
-          "summary": "Weight Loss Correlates With Diabetes Remission Drug Topics",
-          "published": "2026-09-22T18:10:21+00:00"
-        },
-        {
-          "title": "GLP-1 Drugs Under Scrutiny as Lawsuits Allege NAION Risk",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1RyWF9iQ2N0eXd2MTctdFNHcHVIUmZaN3ZjaGZ5QURBdkdsNHgzSFUxdHJIWnZ2aWJHZnJqZk5Hd2k0dENkN2I0NUJCTnR4bHJpV0FEcWVyaUE4NTh1SDBuaWFscFRwV0xYcFZ5OGhQMmhyTVRBM2VibFZJTWZrMC02Qm5qY0ZPMHV0Q0N2bGNNTkEtV0ZDbXMzam1kWG5JOXpkMA?oc=5",
-          "source": "Review of Optometry",
-          "summary": "GLP-1 Drugs Under Scrutiny as Lawsuits Allege NAION Risk Review of Optometry",
-          "published": "2026-09-22T17:52:59+00:00"
-        },
-        {
-          "title": "Anyone Can Be a Runner! Just Ask This Editor Who Challenged Herself to Run Every Week",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUmFfVnBDZ0FOck5mWEVXdVJsdm5aSHI5NGFsUTFnX0lfZnhIbUNrQVI1MTVSMW1zTVh5dEtTckRHeS02UmR3Z1oxNzJKOUljUlJlWE9iejE1dEJjaU9wRXBNNFRjWThLV0Z6RFlTRGx6TG05cURqbkVtMG9BSkpNdE50VFhDQWw1OTZzX25DRE9fdEM4UEE?oc=5",
-          "source": "Prevention",
-          "summary": "Anyone Can Be a Runner! Just Ask This Editor Who Challenged Herself to Run Every Week Prevention",
-          "published": "2026-09-22T17:42:50+00:00"
-        },
-        {
-          "title": "I Have Diabetes and I Tried Running Every Week—Here’s What Happened to My Body",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGlhT2dDcjF2cTdueEp5MkN4VG9qUGpYVjdjNW5xamFuTjc3WTdwYjJUcXRoZVV4WkNXajRVOENncU1uWWJhRGw0QXVJNkpaX1loRF91R0NqUzFmU1pWT0ticXZacE5XYW8zRjI2aWEycFg2bWhidXllWHdQQUx5MEVMZHdvdG5KeVFVZGJ4VWFJbHM?oc=5",
-          "source": "Yahoo",
-          "summary": "I Have Diabetes and I Tried Running Every Week—Here’s What Happened to My Body Yahoo",
-          "published": "2026-09-22T17:39:23+00:00"
-        },
-        {
-          "title": "MCG researchers identify cholesterol pathway in diabetic vision loss",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSm9uZFgta2NWTHNSaTdZaFhuaU01UjdIVTZtaDZBYzJHSkJ2dkU3OW5KdzNCRzFBQktYWkx6cWN3eExjQ29Rb3lGZ0EwY05pSjFUcTAwMFhFQ09EQlhXZWhXMk5SandsUlpRSnNJV1lqSmZnZEtzVzZVTmtWRUtSWHFUUFd3UzdYYlZPNXdCUFVadVhEeHRmSlU2QWxFUQ?oc=5",
-          "source": "Augusta University",
-          "summary": "MCG researchers identify cholesterol pathway in diabetic vision loss Augusta University",
-          "published": "2026-09-22T17:38:04+00:00"
-        },
-        {
-          "title": "Fungal invader strikes diabetic patients: review maps deadly aspergillosis risk",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVlfcmRXTnhRUFIwTXNTMjRjREJ4ZnhMY2l4V19DUEh2akZRTVBUeEN5X243djM4UmU3dFpaQ3lwSmlrWERocHk1X29hZGtobDg5TEFEcllGSXN5RHNoTjZpMDVBT1VBdWJHdlJQai11OHB0V3lXZFlMcy1zQVU4WTJDa0kzQTA1R1pJTU5TRVpYQVItSHNpTVZoUm9nOHp4NmJkMzN3?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Fungal invader strikes diabetic patients: review maps deadly aspergillosis risk Bioengineer.org",
-          "published": "2026-09-22T17:32:37+00:00"
-        },
-        {
-          "title": "Reusable Lancing Device Market Insights Report Analyzing Demand Trends And Competitive Positioning",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0JrNE00ODBoVFVZbVNtSkF6aWxKRDNsbXk0U2VTWkFXRk5hWVhVYUdhanBGX1BpMG1hR0liOTJuZ3pqYVJ2dnhmY05hLXIwZGxKdjJKZEFQUmc1ZFA3YUtNdWhTWVhhODhlUjQ4MnpkdjNyRHFrQzlOZ3JicnVsOHM0YXVGUjR2ZmVyeHhqNzRlNEp2bFJaNTNrRDZzcTlyUGl2ZGhwQzRSRFRrdV9sTDQyVnc?oc=5",
-          "source": "The National Law Review",
-          "summary": "Reusable Lancing Device Market Insights Report Analyzing Demand Trends And Competitive Positioning The National Law Review",
-          "published": "2026-09-22T17:32:34+00:00"
         }
       ]
     }
