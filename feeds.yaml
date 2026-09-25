@@ -73,14 +73,19 @@ diabete:
       # --- Flux dedies diabete ---
       - url: "https://www.diabetologie-pratique.com/actualites/feed.xml"
         source: "Diabetologie Pratique"
-      - url: "https://www.diabetologie-pratique.com/journal/feed.xml"
-        source: "Diabetologie Pratique (journal)"
+      # (le flux "journal" de Diabetologie Pratique a ete retire : reserve
+      # aux professionnels de sante avec compte, il ne renvoie plus rien
+      # d'accessible publiquement)
       - url: "https://diabetesdaily.com/feed/"
         source: "Diabetes Daily"
       - url: "https://insulinnation.com/feed/"
         source: "Insulin Nation"
       - url: "https://www.sciencedaily.com/rss/health_medicine/diabetes.xml"
         source: "ScienceDaily"
+      - url: "https://beyondtype1.org/feed/"
+        source: "Beyond Type 1"
+      - url: "https://medicalxpress.com/rss-feed/diabetes-news.html"
+        source: "Medical Xpress"
       # --- Google News (agrege des centaines de medias par requete) ---
       - url: "https://news.google.com/rss/search?q=diab%C3%A8te&hl=fr&gl=FR&ceid=FR:fr"
         source: "Google News (FR)"
@@ -90,3 +95,7 @@ diabete:
         source: "Google News (EN)"
       - url: "https://news.google.com/rss/search?q=diabetes&hl=en-GB&gl=GB&ceid=GB:en"
         source: "Google News (UK)"
+      - url: "https://news.google.com/rss/search?q=diab%C3%A8te%20type%202&hl=fr&gl=FR&ceid=FR:fr"
+        source: "Google News (FR - type 2)"
+      - url: "https://news.google.com/rss/search?q=type%201%20diabetes&hl=en-US&gl=US&ceid=US:en"
+        source: "Google News (EN - type 1)"
