@@ -71,11 +71,9 @@ diabete:
     max_items: 40
     feeds:
       # --- Flux dedies diabete ---
-      - url: "https://www.diabetologie-pratique.com/actualites/feed.xml"
-        source: "Diabetologie Pratique"
-      # (le flux "journal" de Diabetologie Pratique a ete retire : reserve
-      # aux professionnels de sante avec compte, il ne renvoie plus rien
-      # d'accessible publiquement)
+      # (Diabetologie Pratique a ete retire entierement : meme le flux
+      # "actualites" renvoie vers des pages reservees aux professionnels
+      # de sante avec compte gratuit obligatoire pour lire l'article)
       - url: "https://diabetesdaily.com/feed/"
         source: "Diabetes Daily"
       - url: "https://insulinnation.com/feed/"
