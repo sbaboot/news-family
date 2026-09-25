@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:00:45.495502+00:00",
+  "generated_at": "2026-09-25T19:05:00.172379+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
@@ -12,7 +12,7 @@
           "published": "2026-09-25T18:16:33+00:00"
         },
         {
-          "title": "EN DIRECT, visite du pape à Paris | Léon XIV au Stade de France pour une veillée de prière en compagnie de 80 000 jeunes",
+          "title": "EN DIRECT, visite du pape à Paris | Léon XIV accueilli au Stade de France pour une veillée de prière en compagnie de 80 000 jeunes",
           "link": "https://www.lemonde.fr/societe/live/2026/09/25/en-direct-visite-du-pape-a-paris-leon-xiv-se-rendra-au-stade-de-france-pour-une-veillee-de-priere-en-compagnie-de-80-000-jeunes_6782008_3224.html",
           "source": "Le Monde",
           "summary": "Le pape effectue un voyage de quatre jours en France, à Paris, à Lourdes et à Metz. Dans la capitale, un programme chargé l’attend ce vendredi : il a rencontré Emmanuel Macron à l’Elysée, s’est rendu à l’Unesco. Il…",
@@ -88,7 +88,7 @@
           "link": "https://www.ledevoir.com/economie/1012061/potasse-atout-canada-tenir-tete-donald-trump",
           "source": "Le Devoir",
           "summary": "Le président américain a menacé de s’approvisionner ailleurs qu’au Canada, avant de se rétracter.",
-          "published": "2026-09-25T18:25:49+00:00"
+          "published": "2026-09-25T18:25:00+00:00"
         },
         {
           "title": "Fréchette interpelle Carney au sujet d’une possible ingérence dans la campagne",
@@ -105,11 +105,25 @@
           "published": "2026-09-25T17:54:00+00:00"
         },
         {
+          "title": "Guerre en Ukraine | Zelensky aurait exhorté Trump à faire intervenir la Chine pour mettre fin au conflit",
+          "link": "https://www.lapresse.ca/international/2026-09-25/guerre-en-ukraine/zelensky-aurait-exhorte-trump-a-faire-intervenir-la-chine-pour-mettre-fin-au-conflit.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le président ukrainien, Volodymyr Zelensky, a déclaré vendredi avoir demandé au président des États-Unis, Donald Trump, de mettre à contribution la Chine pour mettre fin à la guerre en Ukraine.",
+          "published": "2026-09-25T17:51:50+00:00"
+        },
+        {
           "title": "«Laissez-nous en paix!» demandent les municipalités aux chefs de parti",
           "link": "https://www.ledevoir.com/politique/quebec/1012052/laissez-nous-paix-demandent-municipalites-chefs-parti",
           "source": "Le Devoir",
           "summary": "Les municipalités sont exaspérées par les normes et demandent au prochain gouvernement de n’imposer aucune réforme.",
           "published": "2026-09-25T17:27:00+00:00"
+        },
+        {
+          "title": "Le journaliste François Gagnon prend sa retraite",
+          "link": "https://www.lapresse.ca/sports/2026-09-25/le-journaliste-francois-gagnon-prend-sa-retraite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’heure de la retraite a sonné pour le chevronné journaliste de RDS François Gagnon.",
+          "published": "2026-09-25T17:24:12+00:00"
         },
         {
           "title": "Trump dit que la visite de Xi a été «très positive pour les deux pays», l’Iran abordé",
@@ -138,20 +152,6 @@
           "source": "Le Devoir",
           "summary": "Il a appelé devant le président Macron à «replacer la personne humaine au cœur de toute réflexion», en visite en France.",
           "published": "2026-09-25T16:19:25+00:00"
-        },
-        {
-          "title": "Le responsable américain au Commerce ne voit pas d’urgence à s’entendre avec le Canada",
-          "link": "https://www.ledevoir.com/economie/1012025/responsable-americain-commerce-ne-voit-pas-urgence-entendre-canada",
-          "source": "Le Devoir",
-          "summary": "«En réalité, le président Trump est satisfait de la situation actuelle», dit Jamieson Greer.",
-          "published": "2026-09-25T16:15:00+00:00"
-        },
-        {
-          "title": "Montréal | Opération de sauvetage pour sortir une personne d’un chantier de démolition",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-25/montreal/operation-de-sauvetage-pour-sortir-une-personne-d-un-chantier-de-demolition.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Une personne se trouvant sur un chantier de démolition dans l’arrondissement de Rosemont–La Petite-Patrie a passé près de se retrouver sous les pelles mécaniques vendredi matin. Une opération d’envergure des services…",
-          "published": "2026-09-25T16:13:04+00:00"
         }
       ]
     },
@@ -159,18 +159,39 @@
       "label": "France",
       "items": [
         {
+          "title": "Dans les Yvelines, le principal adjoint d'un collège mis en examen pour viol sur mineur",
+          "link": "https://www.lefigaro.fr/flash-actu/dans-les-yvelines-le-principal-adjoint-d-un-college-mis-en-examen-pour-viol-sur-mineur-20260925",
+          "source": "Le Figaro",
+          "summary": "Âgé de 38 ans, le mis en cause est soupçonné d’avoir violé un élève (14 ans au moment des faits) scolarisé dans le collège Louis-Pergaud à Maurepas, une ville d’environ 20.000 habitants située à une trentaine de…",
+          "published": "2026-09-25T19:04:15+00:00"
+        },
+        {
           "title": "EN DIRECT - Turquie-France : chaude ambiance pour le baptême du feu de Zidane, Mbappé a bien changé de poste",
           "link": "https://www.lefigaro.fr/sports/football/live/ligue-des-nations/2026/2626892/turquie-france",
           "source": "Le Figaro",
           "summary": "Pour la première de Zinédine Zidane à la tête des Bleus, l’équipe de France affronte la Turquie à l’occasion de la première journée de Ligue des nations, ce vendredi.",
-          "published": "2026-09-25T18:59:03+00:00"
+          "published": "2026-09-25T19:04:02+00:00"
         },
         {
           "title": "EN DIRECT - Visite de Léon XIV : le pape arrive au Stade de France pour la veillée de prière",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-visite-du-pape-leon-xiv-en-france-messes-geantes-securite-hors-norme-le-souverain-pontife-arrive-a-paris-ce-vendredi-20260925",
           "source": "Le Figaro",
           "summary": "Le pape Léon XIV s’est montré offensif, vendredi à l’Élysée, sur la laïcité, les dangers de l’intelligence artificielle et la fin de vie, fustigeant le risque d’un «paradis des machines» et «l’offre d’une mort…",
-          "published": "2026-09-25T18:58:46+00:00"
+          "published": "2026-09-25T19:02:48+00:00"
+        },
+        {
+          "title": "Turquie-France : la Marseillaise sifflée, Zinédine Zidane en retard pour celle-ci",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/turquie-france-la-marseillaise-sifflee-zinedine-zidane-en-retard-pour-celle-ci-20260925",
+          "source": "Le Figaro",
+          "summary": "L’avant-match a été pour le moins animé du côté d’Izmit ce vendredi, pour la première du nouveau sélectionneur français.",
+          "published": "2026-09-25T19:00:58+00:00"
+        },
+        {
+          "title": "Visite du pape à Paris : Léon XIV entre dans le Stade de France pour la veillée de prière qui rassemble 80 000 jeunes",
+          "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/direct-visite-du-pape-a-paris-parcours-en-papamobile-jusqu-a-notre-dame-veillee-au-stade-de-france-suivez-la-premiere-journee-du-voyage-de-leon-xiv_8202782.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le souverain pontife entame vendredi sa première visite en France par une étape à Paris et Saint-Denis. Il a prononcé un discours à l'Elysée et un autre au siège de l'Unesco.",
+          "published": "2026-09-25T18:57:02+00:00"
         },
         {
           "title": "Turquie-France : Zinédine Zidane va-t-il connaître la victoire pour sa première en tant que sélectionneur des Bleus ? Suivez le match avec nous",
@@ -206,27 +227,6 @@
           "source": "Liberation",
           "summary": "Six mois après son élection, Steve Fortel, élu d’Elne, multiplie les actions pour effacer les traces de la gauche dans cet ancien bastion communiste.",
           "published": "2026-09-25T18:52:42+00:00"
-        },
-        {
-          "title": "Meurtre de Thomas à Crépol : pourquoi les accusés seront jugés pour racisme envers «la race blanche et la nation française»",
-          "link": "https://www.lefigaro.fr/faits-divers/meurtre-de-thomas-a-crepol-les-accuses-seront-juges-pour-racisme-envers-la-race-blanche-et-la-nation-francaise-20260925",
-          "source": "Le Figaro",
-          "summary": "En attendant leur procès devant la cour d’assises des mineurs de la Drôme, sept accusés restent en détention, un assigné à résidence et quatre sous contrôle judiciaire.",
-          "published": "2026-09-25T18:51:31+00:00"
-        },
-        {
-          "title": "EN DIRECT - «Nous verrons» : Emmanuel Macron n’exclut pas de se présenter une nouvelle fois après 2027",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-gabriel-attal-clemence-guette-sebastien-chenu-invites-des-matinales-20260925",
-          "source": "Le Figaro",
-          "summary": "«Je n’exclus rien. Il est assez inhabituel de revenir, mais nous verrons. La vie est inventive, parfois plus que les films», a déclaré, en anglais, Emmanuel Macron dans un extrait vidéo.",
-          "published": "2026-09-25T18:51:02+00:00"
-        },
-        {
-          "title": "Un système d'escroqueries impliquant des ophtalmologues et des opticiens démantelé à Paris",
-          "link": "https://www.lefigaro.fr/flash-actu/un-systeme-d-escroqueries-impliquant-des-ophtalmologues-et-des-opticiens-demantele-a-paris-20260925",
-          "source": "Le Figaro",
-          "summary": "Figurent parmi les prévenus trois présidents d’associations de santé, a précisé la procureure de Paris. Le renvoi en procès concerne aussi quinze personnes morales dont cinq centres d’ophtalmologie, selon la gendarmerie.",
-          "published": "2026-09-25T18:48:32+00:00"
         }
       ]
     },
@@ -329,7 +329,7 @@
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbzQxdXgyZVNFaEUzenVrR2Z0MFU1azh1T2V3eXZBX01hcTRMbGJpa0RFbHR6a2RtUng3eG83LTFKd3lVcHNIMmZMMS1scDd3SHA5cG9hVzlOdHZfalFVYU8tR2JxSGxFaFcxTTdZR1pOaU5hNmtHQjRhdE9ZWWZ0Vm5xRUl4MjdvcUdDU2tEOWRmRHFVSjREUko5Qk5hUWVrckNkV2FicmhWN0R2R3ExdVZuekNOT0VsX1VfckpzbXdPTm42Z0Rnbll6S3RPWlFZNnpocDlIcUZ0bDZGNVZNSk16NnNJMGxEamJPaTUxbHdNSW14WGRodU13X3VrYktZVWo2OVNzdHJYcFlhdHdpUG1LYlA3eHM?oc=5",
           "source": "Cureus",
           "summary": "Glycemic Dynamics and Management Strategies in Individuals With Type 1 Diabetes During Ramadan: A Continuous Glucose Monitoring-Based Narrative Review Cureus",
-          "published": "2026-09-25T18:42:33+00:00"
+          "published": "2026-09-25T18:56:15+00:00"
         },
         {
           "title": "Early CGMs Results in Better 5-Year Glucose Control in Type 1 Diabetes",
@@ -362,8 +362,8 @@
         {
           "title": "Diabète : la nouvelle application Libre peut anticiper les hypoglycémies",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeVhqV3NhaFBWX2FWSEpnSWxhT3o5XzJEeHFhOE10SWFtNVpkZ281QlhwbFRjLXd1c2FhSEpELU5IT29nQmdrTS16UVhpNHpSLWVIZFFNeEI4MUl0TTJvWmlBZDhPeTBPU3dScGk0Yk1JWldkby1GMXBBN2lLb2ZVeTN5SF91cjNlM3IyaWN5VEdQbTRyZk9tVEotcmhneHpobUdMY2hLcGk0a1hhZ2k5OUkxazVKTjdmN0RyNDBhLWtGSmtLY3pnLThTRWZsYUZ3S2dSSldOdUg?oc=5",
-          "source": "Le Moniteur des pharmacies",
-          "summary": "Diabète : la nouvelle application Libre peut anticiper les hypoglycémies Le Moniteur des pharmacies",
+          "source": "lemoniteurdespharmacies.fr",
+          "summary": "Diabète : la nouvelle application Libre peut anticiper les hypoglycémies lemoniteurdespharmacies.fr",
           "published": "2026-09-25T16:01:44+00:00"
         },
         {
@@ -411,8 +411,8 @@
         {
           "title": "East Sussex beach club raises much-needed money for diabetic children",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnhEcVhMVnczRjFWWVdVZWR0NVZTelVrN3E5S3BPWHpVdFkzVmdUeGtlY2ZabnJhRUFHWHRmWnA2TjBXYUp4cTNHMHo3UmJadnA2aW9HczhFLWRyZjloLW43TTU2dWVUWEx0ZkJsWU5DejR4NHgzbWVjaThOTHFkUEl6QkF2bXlDODVQYk9yYS1SODNoQkxMRnZXZndacEplRG1OU3pHRXdMcHplWllQTkpOVktGZDdNZ2NtNmhR?oc=5",
-          "source": "SussexWorld",
-          "summary": "East Sussex beach club raises much-needed money for diabetic children SussexWorld",
+          "source": "sussexexpress.co.uk",
+          "summary": "East Sussex beach club raises much-needed money for diabetic children sussexexpress.co.uk",
           "published": "2026-09-25T13:26:00+00:00"
         },
         {
@@ -502,15 +502,15 @@
         {
           "title": "Novo partners with Nanexa to reduce dosing frequency of injectables for obesity, diabetes",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqeFhpQW5mRDU1WEZrelU5OEV0ckxqeUxhY2t1X01jajdmRlM2N1hZSlFZbVExcm1jeExfTGRvaXRVdVctQzhhdjByRXZEUVRzMHRZ?oc=5",
-          "source": "firstwordpharma.com",
-          "summary": "Novo partners with Nanexa to reduce dosing frequency of injectables for obesity, diabetes firstwordpharma.com",
+          "source": "FirstWord",
+          "summary": "Novo partners with Nanexa to reduce dosing frequency of injectables for obesity, diabetes FirstWord",
           "published": "2026-09-25T08:57:32+00:00"
         },
         {
           "title": "Novo inks $1.3B Nanexa deal to unlock long-acting obesity injectables",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQalRkcDhVNk4ycnVRUC12Ti00UENUZ21Mc184UmpGbG5YWlE3cTUwRVhqQlBTeUVuaEVLMnBMcE50dGZIaG9hVG05RDdUc0x5dDZmV1pBSnBobWxvNzdaMW5kYkVDXzFOTW1JSmF1ekpsczBrWnUwb09mYWpkb2tIbVFTUWt5V2ZYa3BESWdBYTBhWGhpb2d0aFVxZkxTNjU5dVJQQw?oc=5",
-          "source": "Fierce Biotech",
-          "summary": "Novo inks $1.3B Nanexa deal to unlock long-acting obesity injectables Fierce Biotech",
+          "source": "fiercebiotech.com",
+          "summary": "Novo inks $1.3B Nanexa deal to unlock long-acting obesity injectables fiercebiotech.com",
           "published": "2026-09-25T08:53:48+00:00"
         },
         {
@@ -528,24 +528,17 @@
           "published": "2026-09-25T08:44:46+00:00"
         },
         {
-          "title": "Côte d’Ivoire-AIP/ Les endocrinologues appellent à intégrer la santé mentale dans la prise en charge du diabète",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkZFSTFFZGlVRkwyQmY5RmZGWUJaT3RCdFNPZ1F5YmRFb2M0UlppcjhEWnRKbTVqZ3lzZFFTelhPeTFPdk93bEFwUF9UOVoyQ3U0X3JpaXdpc0JpOTkzaXgxQVE4aXJIdl93eGlJb0lVRGN4YzNKaVkwalNxUjVFMElBeWhRdjA1dF83UGlHNVljZmtWWXZUcTFjN2NseC1rY3ZoVUdkYU5QTGFZLWpnb1U1ZjBCdjhrdVRQME5ad2RzckhyOENtV9IB0AFBVV95cUxNVG9UN1pqTUZfMmxCUXk1SXkyUXNQeDEwOHNBV3BzQTBWZHlpaTNWdW5wb3k0ZGVBQ2M3NGRYTnphSDRLYXlZLXAteDNoR3VrNk9HOTFMYjc2cmlIR1NWRUozMUR5eHBFaUlUZDVRYkxwWkJnVi1IaGNyTER4cTlibi1Qa3VJcndsdEZPaGlvNFZHeXFRdE01R3JZTWtvVWI5SGE4RThPZ2d0cHRYaDFuVXZzOWlxZWNpN1dmWjk1b2J0MExRQVF3ajQzVjZxbWh3?oc=5",
-          "source": "Agence Ivoirienne de Presse (AIP)",
-          "summary": "Côte d’Ivoire-AIP/ Les endocrinologues appellent à intégrer la santé mentale dans la prise en charge du diabète Agence Ivoirienne de Presse (AIP)",
-          "published": "2026-09-25T08:21:27+00:00"
-        },
-        {
           "title": "WHO to update the recommendations on criteria and diagnosis of hyperglycaemia in pregnancy",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFdzU2JsVUlwZDVsdHJTSDNiMmdwQnVPUEpJU3Z2dXd5NnhxUkNUSEdMU1RZNm94cXBOLVhfZUtfMHVHTHh6TkRHNGVCWEhiMDVKU3hyQ3FNaGRfblJNTHc2ZHJ1THBmQy0xSXVULUtwMmpCU3VCYVhEYmZfcloyUm9EVTNaWUxKQTFPakxpZy1IYjRWSHF0RDlXU1hrLVg1Mmx3SnBEX3RySDlQN19aYmhJcEtfbld6VjlPT0g2THhhR3JGazQ5YUV3QW9ZU2gyeS02ZTkxUHk0Q3VPZ3pEbmpZSHpxMnc?oc=5",
-          "source": "World Health Organization (WHO)",
-          "summary": "WHO to update the recommendations on criteria and diagnosis of hyperglycaemia in pregnancy World Health Organization (WHO)",
+          "source": "who.int",
+          "summary": "WHO to update the recommendations on criteria and diagnosis of hyperglycaemia in pregnancy who.int",
           "published": "2026-09-25T08:12:12+00:00"
         },
         {
           "title": "Intelligence artificielle, énergie solaire, diabète… Plusieurs millions d’euros pour la recherche à l’université du Mans",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWXUtU0U1eXBMbXNSejhSMlo1Nks1NlUtSzBPc1EtdFJGUzh6R2Zfa1JIejZ4bUlaSE1PcmtWY09ldjJQQlRjdjlBUTBlMG1PS1JYdkg2SVZpZFZoZnp0czJmRUJySGhRQXFUOEFjSXg0Vl94bUtBQl92ODRGcDdNaXFtNG01akdVb0Izc09HMW9fQ0pSLVFHSGtzUUNKcjJtczR0Y2loYVlfREtNV3p6Ym5kNFowc3FUWDdGTXR3OGJ1RlJxVHMyTjlHZm1VU1pzanczSnZZSUp2ZkljY2M0eG9zdzl2TDhvSjNYRldVSERWZUVGX2JxQUNiaXNXdkZ3NElZVnVtZW5LYUk?oc=5",
-          "source": "- Le Mans.maville.com",
-          "summary": "Intelligence artificielle, énergie solaire, diabète… Plusieurs millions d’euros pour la recherche à l’université du Mans - Le Mans.maville.com",
+          "source": "lemans.maville.com",
+          "summary": "Intelligence artificielle, énergie solaire, diabète… Plusieurs millions d’euros pour la recherche à l’université du Mans lemans.maville.com",
           "published": "2026-09-25T07:02:00+00:00"
         },
         {
@@ -603,6 +596,13 @@
           "source": "WIBW",
           "summary": "Stormont Vail offers year-long glucose monitor for diabetes patients WIBW",
           "published": "2026-09-25T03:36:00+00:00"
+        },
+        {
+          "title": "REGENXBIO Presents Positive Three-Year Durability Data for Surabgene Lomparvovec in Diabetic Retinopathy at Retina Society Annual Scientific Meeting",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQdFJ3WXBJQ1ZJTEY0VDJPMFB0clZETDhhcGNybk1wS005Z0ZTenhkWGczYmdJa0liSVREV2pjaGNMUTZOQ0Q3d09vb1RIOG9Fc2JzdXBTY2xKcWZwT255RzA5SUtqWXZXa2NhWklKOHBtQ0VUa25NWjltVjdlWjYza3RQb1dBNktDTEdsTEdaZEpwV2lCUlJLM1BXY3pJcGNYS3M1eGE3OUJyeW9WVUpiSmlhYzNZdXdreVZxYTFHbm9TMkx4TVVGTENjSkpZckdudXdGaVk0ZUg0U251bU5XRm45bl9sX3d5RXY0QTVISUg3Qm5CWk82TVEwSmRjT2Z6ZlhVOWNRWGlwRzREZy1PVVd1cXpiRVFhUDdPTkQwb3N0TkxjZTFwaWx4TGI?oc=5",
+          "source": "PR Newswire",
+          "summary": "REGENXBIO Presents Positive Three-Year Durability Data for Surabgene Lomparvovec in Diabetic Retinopathy at Retina Society Annual Scientific Meeting PR Newswire",
+          "published": "2026-09-24T23:17:00+00:00"
         }
       ]
     }
