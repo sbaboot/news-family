@@ -98,6 +98,35 @@ main {
   padding: 1.5rem;
 }
 
+.subtabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.subtab-btn {
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+
+.subtab-btn:hover {
+  color: var(--text);
+}
+
+.subtab-btn.active {
+  color: #fff;
+  background: var(--text-muted);
+  border-color: var(--text-muted);
+}
+
 .loading, .empty {
   color: var(--text-muted);
   padding: 2rem 0;

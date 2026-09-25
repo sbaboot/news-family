@@ -1,18 +1,44 @@
 (function () {
   const DATA_URL = "data/news.json";
-  const state = { data: null, activeTab: "sebastien" };
+  const state = { data: null, activeTab: "sebastien", activeSection: null };
 
   const contentEl = document.getElementById("content");
   const lastUpdatedEl = document.getElementById("last-updated");
   const tabButtons = document.querySelectorAll(".tab-btn");
 
+  function readParamsFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    const tab = params.get("tab");
+    const section = params.get("section");
+    if (tab) state.activeTab = tab;
+    if (section) state.activeSection = section;
+  }
+
+  function syncUrl() {
+    const params = new URLSearchParams(window.location.search);
+    params.set("tab", state.activeTab);
+    if (state.activeSection) {
+      params.set("section", state.activeSection);
+    } else {
+      params.delete("section");
+    }
+    const newUrl = `${window.location.pathname}?${params.toString()}${window.location.hash}`;
+    window.history.replaceState(null, "", newUrl);
+  }
+
+  function syncTabButtons() {
+    tabButtons.forEach((b) => {
+      const isActive = b.dataset.tab === state.activeTab;
+      b.classList.toggle("active", isActive);
+      b.setAttribute("aria-selected", isActive ? "true" : "false");
+    });
+  }
+
   tabButtons.forEach((btn) => {
     btn.addEventListener("click", () => {
       state.activeTab = btn.dataset.tab;
-      tabButtons.forEach((b) => {
-        b.classList.toggle("active", b === btn);
-        b.setAttribute("aria-selected", b === btn ? "true" : "false");
-      });
+      state.activeSection = null; // on repart sur la 1re section du nouvel onglet
+      syncTabButtons();
       render();
     });
   });
@@ -71,16 +97,54 @@
 
   function render() {
     if (!state.data) return;
+
+    // Onglet invalide (ex: ?tab=inconnu) -> on retombe sur le premier disponible.
+    const tabKeys = Object.keys(state.data).filter((k) => k !== "generated_at");
+    if (!tabKeys.includes(state.activeTab)) {
+      state.activeTab = tabKeys[0];
+    }
+    syncTabButtons();
+
     const tabData = state.data[state.activeTab] || {};
-    const keys = Object.keys(tabData);
-    if (!keys.length) {
+    const sectionKeys = Object.keys(tabData);
+    if (!sectionKeys.length) {
       contentEl.innerHTML = `<p class="empty">Aucune donnée disponible.</p>`;
+      syncUrl();
       return;
     }
-    contentEl.innerHTML = `<div class="sections">${keys
-      .map((k) => renderSection(k, tabData[k]))
-      .join("")}</div>`;
+
+    // Section invalide ou absente -> premiere section du tab.
+    if (!state.activeSection || !sectionKeys.includes(state.activeSection)) {
+      state.activeSection = sectionKeys[0];
+    }
+
+    const subtabsHtml =
+      sectionKeys.length > 1
+        ? `<nav class="subtabs" role="tablist">${sectionKeys
+            .map((k) => {
+              const isActive = k === state.activeSection;
+              return `<button class="subtab-btn${isActive ? " active" : ""}" data-section="${escapeHtml(
+                k
+              )}" role="tab" aria-selected="${isActive}">${escapeHtml(tabData[k].label || k)}</button>`;
+            })
+            .join("")}</nav>`
+        : "";
+
+    const activeSectionData = tabData[state.activeSection];
+    contentEl.innerHTML = `${subtabsHtml}<div class="sections">${renderSection(
+      state.activeSection,
+      activeSectionData
+    )}</div>`;
+
+    contentEl.querySelectorAll(".subtab-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        state.activeSection = btn.dataset.section;
+        render();
+      });
+    });
+
     lastUpdatedEl.textContent = formatLastUpdated(state.data.generated_at);
+    syncUrl();
   }
 
   async function load() {
@@ -97,5 +161,7 @@
     }
   }
 
+  readParamsFromUrl();
+  syncTabButtons();
   load();
 })();
