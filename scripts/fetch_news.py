@@ -63,16 +63,31 @@ def clean_title(raw_title: str, max_len: int = 300) -> str:
     return strip_html(raw_title, max_len=max_len)
 
 
+FR_DATE_RE = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{4})\s*-\s*(\d{1,2}):(\d{2})")
+
+
 def parse_published(entry) -> datetime:
     for key in ("published", "updated", "created"):
         value = getattr(entry, key, None)
-        if value:
+        if not value:
+            continue
+        try:
+            dt = parsedate_to_datetime(value)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except (TypeError, ValueError):
+            pass
+        # Certains flux (ex: Diabetologie Pratique) utilisent un format
+        # non standard "jour DD/MM/YYYY - HH:MM" que parsedate_to_datetime
+        # ne sait pas lire. Sans ce fallback, la date tombait sur "maintenant"
+        # et l'article remontait artificiellement en haut du tri.
+        m = FR_DATE_RE.search(value)
+        if m:
+            day, month, year, hour, minute = (int(g) for g in m.groups())
             try:
-                dt = parsedate_to_datetime(value)
-                if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
-                return dt.astimezone(timezone.utc)
-            except (TypeError, ValueError):
+                return datetime(year, month, day, hour, minute, tzinfo=timezone.utc)
+            except ValueError:
                 pass
     for key in ("published_parsed", "updated_parsed"):
         struct = getattr(entry, key, None)
