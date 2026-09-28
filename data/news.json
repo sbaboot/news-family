@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-09-27T23:39:41.583334+00:00",
+  "generated_at": "2026-09-28T03:48:01.441550+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Israël affirme avoir tué, dans la bande de Gaza, le ravisseur d’un couple d’otages du 7-Octobre",
+          "link": "https://www.lemonde.fr/international/article/2026/09/28/israel-annonce-avoir-tue-dans-la-bande-de-gaza-le-ravisseur-d-un-couple-d-otages-du-7-octobre_6784799_3210.html",
+          "source": "Le Monde",
+          "summary": "Enlevés au festival Nova, près de la frontière avec l’enclave palestinienne, lors de l’attaque du Hamas, Noa Argamani et Avinatan Or ont été libérés à plus d’un an d’intervalle, respectivement en juin 2024 et en octobre…",
+          "published": "2026-09-28T03:22:18+00:00"
+        },
+        {
+          "title": "Visite du pape à Metz : l’espoir que Léon XIV, venu célébrer la paix et l’Europe, aide à redorer l’image de la ville",
+          "link": "https://www.lemonde.fr/societe/article/2026/09/28/visite-du-pape-a-metz-l-espoir-que-leon-xiv-venu-celebrer-la-paix-et-l-europe-aide-a-redorer-l-image-de-la-ville_6784765_3224.html",
+          "source": "Le Monde",
+          "summary": "La cité de 120 000 habitants attend entre 50 000 et 100 000 personnes à l’occasion de la visite papale, lundi, dans la ville de Robert Schuman, figure de la réconciliation franco-allemande et de la construction…",
+          "published": "2026-09-28T03:00:17+00:00"
+        },
+        {
+          "title": "El Niño, anatomie d’un monstre climatique",
+          "link": "https://www.lemonde.fr/podcasts/article/2026/09/28/el-nino-anatomie-d-un-monstre-climatique_6784764_5463015.html",
+          "source": "Le Monde",
+          "summary": "Capable de provoquer des pluies diluviennes et des sécheresses intenses en divers endroits du globe, le phénomène El Niño inquiète. Et celui que nous traversons actuellement pourrait être le plus puissant jamais…",
+          "published": "2026-09-28T03:00:17+00:00"
+        },
+        {
+          "title": "En balayant la neutralité « totale » dans les urnes, la Suisse vote pour un pragmatisme atlantiste",
+          "link": "https://www.lemonde.fr/international/article/2026/09/28/en-balayant-la-neutralite-totale-dans-les-urnes-la-suisse-vote-pour-un-pragmatisme-atlantiste_6784731_3210.html",
+          "source": "Le Monde",
+          "summary": "L’initiative de l’extrême droite a été rejetée massivement lors d’une votation dimanche 27 septembre. Les électeurs suisses ont validé le statu quo : une neutralité de façade, alignée sur le bloc occidental, et le…",
+          "published": "2026-09-28T03:00:12+00:00"
+        },
+        {
+          "title": "Au Kenya, la poésie comme arme de persuasion politique",
+          "link": "https://www.lemonde.fr/international/article/2026/09/28/au-kenya-la-poesie-comme-arme-de-persuasion-politique_6784730_3210.html",
+          "source": "Le Monde",
+          "summary": "Une génération d’artistes adopte le « spoken word », poésie parlée, pour évoquer leurs difficultés. Cet art oratoire insuffle la contestation tout autant qu’il s’en inspire, à moins d’un an d’un scrutin présidentiel…",
+          "published": "2026-09-28T03:00:10+00:00"
+        },
         {
           "title": "Visite du pape à Metz : Emmanuel Macron assisterait finalement à la messe célébrée à la cathédrale",
           "link": "https://www.lemonde.fr/international/article/2026/09/28/visite-du-pape-a-metz-emmanuel-macron-assisterait-finalement-a-la-messe-celebree-a-la-cathedrale_6784630_3210.html",
@@ -12,67 +47,32 @@
           "published": "2026-09-27T22:15:40+00:00"
         },
         {
+          "title": "Sénatoriales, messe papale et grève dans la fonction publique au menu de l'Essentiel politique",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260927-s%C3%A9natoriales-messe-papale-et-gr%C3%A8ve-dans-la-fonction-publique-au-menu-de-l-essentiel-politique",
+          "source": "France 24",
+          "summary": "Pour la première fois le Rassemblement national a réussi à constituer un groupe dans la chambre haute du Parlement. L'analyse de Damien Lecomte, Docteur en Sciences politiques.",
+          "published": "2026-09-27T21:43:44+00:00"
+        },
+        {
+          "title": "Au moins 27 morts dans une double fusillade en Afrique du Sud",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260927-au-moins-27-morts-dans-une-double-fusillade-en-afrique-du-sud",
+          "source": "France 24",
+          "summary": "En Afrique du Sud, une onzième victime a été retrouvée à l'est de Johannesburg alors que l'enquête continue pour retrouver un possible tueur en série. Mais ce week-end a aussi été marque par plusieurs fusillades de…",
+          "published": "2026-09-27T21:26:12+00:00"
+        },
+        {
+          "title": "Madagascar : un an après, la Gen Z s’est-elle fait confisquer sa révolution ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260927-madagascar-un-an-apr%C3%A8s-la-gen-z-s-est-elle-fait-confisquer-sa-r%C3%A9volution",
+          "source": "France 24",
+          "summary": "Le 25 septembre 2025, des jeunes Malgaches descendaient dans la rue pour réclamer d’abord de l’eau et de l’électricité. La colère sociale s’est transformée en contestation politique, jusqu’au départ d’Andry Rajoelina et…",
+          "published": "2026-09-27T21:10:40+00:00"
+        },
+        {
           "title": "En Ethiopie, la télévision publique du Tigré frappée par un drone",
           "link": "https://www.lemonde.fr/afrique/article/2026/09/27/en-ethiopie-la-television-publique-du-tigre-frappee-par-un-drone_6784561_3212.html",
           "source": "Le Monde",
           "summary": "Les autorités fédérales éthiopiennes avaient annoncé, le 21 septembre, avoir suspendu « pour une durée indéterminée » Tigrai TV et interdit à tout média de relayer ses informations.",
           "published": "2026-09-27T21:00:53+00:00"
-        },
-        {
-          "title": "Israël révoque l’accréditation des diplomates néerlandais en Cisjordanie, en réponse à l’interdiction émise par les Pays-Bas d’importer les produits des colonies",
-          "link": "https://www.lemonde.fr/international/article/2026/09/27/israel-revoque-l-accreditation-des-diplomates-neerlandais-en-cisjordanie-en-reponse-a-l-interdiction-emise-par-les-pays-bas-d-importer-les-produits-des-colonies_6784560_3210.html",
-          "source": "Le Monde",
-          "summary": "La décision néerlandaise touche aussi les entreprises et les voyageurs, dont les bagages sont désormais contrôlés à l’aéroport pour détecter tout produit issu des colonies israéliennes.",
-          "published": "2026-09-27T20:41:35+00:00"
-        },
-        {
-          "title": "Visite du pape à Lourdes : sur les violences sexuelles, Léon XIV appelle l’Eglise à continuer « la recherche de la vérité, la justice, le pardon, la réparation »",
-          "link": "https://www.lemonde.fr/societe/article/2026/09/27/visite-du-pape-a-lourdes-sur-les-violences-sexuelles-leon-xiv-appelle-l-eglise-a-continuer-la-recherche-de-la-verite-la-justice-le-pardon-la-reparation_6784556_3224.html",
-          "source": "Le Monde",
-          "summary": "Très attendu sur ce sujet, le pape a rencontré des victimes, dimanche 27 septembre, reconnaissant, selon l’une d’elles, le « caractère systémique » des violences sexuelles. Alors que les associations craignent que le…",
-          "published": "2026-09-27T19:57:16+00:00"
-        },
-        {
-          "title": "Cyclisme : Brandon McNulty champion du monde surprise, Paul Seixas 15e",
-          "link": "https://www.france24.com/fr/sports/20260927-cyclisme-brandon-mcnulty-champion-du-monde-surprise-paul-seixas-15e",
-          "source": "© Andrej Ivanov / AFP",
-          "summary": "C’est une victoire que peu avaient anticipée. Brandon McNulty s’est imposé en solitaire à Montréal et a décroché, à 28 ans, son premier titre de champion du monde sur route. L’Américain a devancé Michael Matthews et…",
-          "published": "2026-09-27T19:38:09+00:00"
-        },
-        {
-          "title": "En Serbie, le président, Aleksandar Vucic, démissionne et brigue le poste de premier ministre",
-          "link": "https://www.lemonde.fr/international/article/2026/09/27/en-serbie-le-president-aleksandar-vucic-demissionne-et-vise-le-poste-de-premier-ministre_6784554_3210.html",
-          "source": "Le Monde",
-          "summary": "La tenue d’élections législatives anticipées, qui auront lieu à la fin d’octobre, était une revendication cruciale du mouvement étudiant né en novembre 2024.",
-          "published": "2026-09-27T19:23:56+00:00"
-        },
-        {
-          "title": "🔴 Le président serbe Aleksandar Vucic démissionne et ouvre la voie à des élections anticipées",
-          "link": "https://www.france24.com/fr/europe/20260927-le-pr%C3%A9sident-serbe-aleksandar-vucic-d%C3%A9missionne-et-ouvre-la-voie-%C3%A0-des-%C3%A9lections-anticip%C3%A9es",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-09-27T18:24:18+00:00"
-        },
-        {
-          "title": "« Quatre-vingts ans après le procès de Nuremberg, en finir avec le lieu commun de l’obéissance »",
-          "link": "https://www.lemonde.fr/idees/article/2026/09/27/quatre-vingts-ans-apres-le-proces-de-nuremberg-en-finir-avec-le-lieu-commun-de-l-obeissance_6784550_3232.html",
-          "source": "Le Monde",
-          "summary": "Continuer à parler de « soumission à l’autorité » comme si elle faisait des individus les instruments passifs des exactions qu’ils commettent, c’est perpétuer une excuse inventée par les avocats des nazis, soutient un…",
-          "published": "2026-09-27T18:00:11+00:00"
-        },
-        {
-          "title": "🔴 Le RN dit être en mesure de constituer un groupe au Sénat \"pour la première fois de son histoire\"",
-          "link": "https://www.france24.com/fr/france/20260927-%C3%A9lections-s%C3%A9natoriales-la-droite-sous-presse-le-rn-en-qu%C3%AAte-d-un-groupe",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-09-27T17:40:44+00:00"
-        },
-        {
-          "title": "Cet homme méconnu a inventé l’un des instruments de musique les plus célèbres",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20260927-homme-m%C3%A9connu-invent%C3%A9-instruments-de-musique-les-plus-c%C3%A9l%C3%A8bres-adolphe-sax-saxophone-jazz-culture-prime",
-          "source": "France 24",
-          "summary": "Adolphe Sax : cette personne ne vous dit probablement rien. Pourtant, il a peut-être inventé votre instrument de musique préféré. Saurez-vous deviner lequel ? (Indice : c'est écrit dans son nom !)",
-          "published": "2026-09-27T16:38:50+00:00"
         }
       ]
     },
@@ -98,66 +98,94 @@
           "published": "2026-12-25T05:00:00+00:00"
         },
         {
+          "title": "Arrivée aux États-Unis de deux pandas géants envoyés par la Chine",
+          "link": "https://www.ledevoir.com/monde/1012439/arrivee-etats-unis-deux-pandas-geants-envoyes-chine",
+          "source": "Le Devoir",
+          "summary": "La Chine utilise ces animaux populaires comme un atout diplomatique pour soigner ses liens avec d’autres pays.",
+          "published": "2026-09-28T02:21:04+00:00"
+        },
+        {
+          "title": "Les chefs baissent la garde à TLMEP",
+          "link": "https://www.ledevoir.com/politique/quebec/1012433/chefs-baissent-garde-tlmep",
+          "source": "Le Devoir",
+          "summary": "Le contexte ludique de l’émission contrastait avec les débats télévisés.",
+          "published": "2026-09-28T02:17:08+00:00"
+        },
+        {
+          "title": "Tout le monde en parle | Le PQ n’a eu aucune relation avec un groupe américain, réitère son chef",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-27/tout-le-monde-en-parle/le-pq-n-a-eu-aucune-relation-avec-un-groupe-americain-reitere-son-chef.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les récentes accusations d’ingérence étrangère dans la campagne québécoise se sont rapidement invitées sur le plateau de Tout le monde en parle, au passage des cinq chefs dimanche soir. Paul St-Pierre Plamondon a…",
+          "published": "2026-09-28T02:01:59+00:00"
+        },
+        {
+          "title": "Le Trésor américain revendique le succès de sa campagne pour isoler Téhéran",
+          "link": "https://www.ledevoir.com/monde/1012421/tresor-americain-revendique-succes-campagne-isoler-teheran",
+          "source": "Le Devoir",
+          "summary": "Scott Bessent s’est félicité d’une série de restrictions ciblant les banques et les compagnies aériennes.",
+          "published": "2026-09-28T01:36:12+00:00"
+        },
+        {
+          "title": "Des milliers d’habitants évacués après d’importantes inondations à Bangkok",
+          "link": "https://www.ledevoir.com/monde/asie/1012436/milliers-habitants-evacues-apres-importantes-inondations-bangkok",
+          "source": "Le Devoir",
+          "summary": "Plusieurs jours de fortes pluies ont submergé marchés, routes et habitations.",
+          "published": "2026-09-28T01:25:07+00:00"
+        },
+        {
+          "title": "Championnats du monde de Montréal | Un dernier tour de piste mémorable pour Boivin",
+          "link": "https://www.lapresse.ca/sports/cyclisme/2026-09-27/championnats-du-monde-de-montreal/un-dernier-tour-de-piste-memorable-pour-boivin.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Avant de traverser la ligne pour la dernière fois, Guillaume Boivin s’est arrêté en bordure de parcours pour saluer des amis. Ils lui ont donné une bière qu’il a glissée dans une pochette de son maillot. Une boisson…",
+          "published": "2026-09-28T00:32:51+00:00"
+        },
+        {
+          "title": "À surveiller dans le monde des affaires",
+          "link": "https://www.ledevoir.com/economie/1012427/surveiller-monde-affaires",
+          "source": "Le Devoir",
+          "summary": "Cinq éléments à surveiller dans le monde des affaires au Canada au cours de la semaine à venir.",
+          "published": "2026-09-28T00:27:00+00:00"
+        },
+        {
           "title": "Le vote par anticipation se met en branle",
           "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-27/le-vote-par-anticipation-se-met-en-branle.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Au 32e jour de campagne, les électeurs peuvent maintenant faire leur choix. Plus de 800 bureaux de votes par anticipation sont ouverts ce dimanche et ce lundi partout au Québec, de 9 h 30 à 20 h, une semaine avant le…",
+          "summary": "Au 32e jour de la campagne, les électeurs peuvent maintenant faire leur choix. Plus de 800 bureaux de vote par anticipation étaient ouverts dimanche et le seront aussi ce lundi partout au Québec, de 9 h 30 à 20 h, une…",
           "published": "2026-09-27T23:29:27+00:00"
-        },
-        {
-          "title": "Milliard demande même aux Américains d’aller voter",
-          "link": "https://www.ledevoir.com/politique/quebec/1012400/milliard-demande-meme-americains-aller-voter",
-          "source": "Le Devoir",
-          "summary": "«On compte sur vous!» a-t-il lancé en anglais à un Américain de Brooklyn croisé avec sa femme.",
-          "published": "2026-09-27T23:07:14+00:00"
-        },
-        {
-          "title": "Les raisins du mental",
-          "link": "https://www.ledevoir.com/politique/quebec/1012397/raisins-mental",
-          "source": "Le Devoir",
-          "summary": "Quoi de mieux qu’une marche dans les vignes pour s’évader des turpitudes d’une longue campagne?",
-          "published": "2026-09-27T23:01:16+00:00"
-        },
-        {
-          "title": "Sondage Synopsis-La Presse | La CAQ s’effondre, le PQ en zone majoritaire",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-27/sondage-synopsis-la-presse/la-caq-s-effondre-le-pq-en-zone-majoritaire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La Coalition avenir Québec (CAQ) s’effondre, ce qui ouvre la voie à un gouvernement majoritaire du Parti québécois (PQ), révèle un sondage Synopsis-La Presse.",
-          "published": "2026-09-27T23:00:00+00:00"
-        },
-        {
-          "title": "Ruba Ghazal, de l’optimisme au pragmatisme",
-          "link": "https://www.ledevoir.com/politique/quebec/1012394/ruba-ghazal-optimisme-pragmatisme",
-          "source": "Le Devoir",
-          "summary": "Oubliés, les habits de première ministre, la cheffe solidaire s’est fixé un nouvel objectif pour le 5 octobre.",
-          "published": "2026-09-27T22:55:28+00:00"
-        },
-        {
-          "title": "Le beau et le moins beau",
-          "link": "https://www.ledevoir.com/politique/quebec/1012388/beau-moins-beau",
-          "source": "Le Devoir",
-          "summary": "Dimanche matin, la journée à bord de la caravane caquiste s’annonçait plutôt bien",
-          "published": "2026-09-27T22:51:51+00:00"
-        },
-        {
-          "title": "L’autobus du PQ joue à cache-cache",
-          "link": "https://www.ledevoir.com/politique/quebec/1012385/autobus-pq-joue-cache-cache",
-          "source": "Le Devoir",
-          "summary": "Habituellement, l’objectif d’une caravane électorale est de se faire voir.",
-          "published": "2026-09-27T22:47:03+00:00"
-        },
-        {
-          "title": "Affaire Thélyson Orélien | Éditions du Boréal : « Faisons attention à l’humain derrière ce texte »",
-          "link": "https://www.lapresse.ca/arts/litterature/2026-09-27/affaire-thelyson-orelien/editions-du-boreal-faisons-attention-a-l-humain-derriere-ce-texte.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Après avoir offert un soutien inébranlable à leur auteur Thélyson Orélien, les Éditions du Boréal appellent maintenant à la prudence sans pour autant trancher sur le recours possible à l’intelligence artificielle.…",
-          "published": "2026-09-27T22:40:23+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "Israël affirme avoir tué, dans la bande de Gaza, le ravisseur d’un couple d’otages du 7-Octobre",
+          "link": "https://www.lemonde.fr/international/article/2026/09/28/israel-annonce-avoir-tue-dans-la-bande-de-gaza-le-ravisseur-d-un-couple-d-otages-du-7-octobre_6784799_3210.html",
+          "source": "Le Monde",
+          "summary": "Enlevés au festival Nova, près de la frontière avec l’enclave palestinienne, lors de l’attaque du Hamas, Noa Argamani et Avinatan Or ont été libérés à plus d’un an d’intervalle, respectivement en juin 2024 et en octobre…",
+          "published": "2026-09-28T03:22:18+00:00"
+        },
+        {
+          "title": "Israël annonce avoir tué le ravisseur d'un couple d'otages du 7-octobre",
+          "link": "https://www.lefigaro.fr/international/israel-annonce-avoir-tue-le-ravisseur-d-un-couple-d-otages-du-7-octobre-20260928",
+          "source": "Le Figaro",
+          "summary": "Les images de l’enlèvement des deux otages au festival Nova, près de la frontière avec Gaza, diffusées en direct le 7 octobre 2023 sont devenues emblématiques.",
+          "published": "2026-09-28T02:19:20+00:00"
+        },
+        {
+          "title": "Séoul exige des excuses de Kiev pour avoir brisé le secret sur les prisonniers de guerre nord-coréens",
+          "link": "https://www.lefigaro.fr/international/seoul-exige-des-excuses-de-kiev-pour-avoir-brise-le-secret-sur-les-prisonniers-de-guerre-nord-coreens-20260928",
+          "source": "Le Figaro",
+          "summary": "Les deux soldats nord-coréens avaient été faits prisonniers par l’Ukraine en janvier 2025 après un déploiement militaire de Pyongyang en soutien à son allié russe.",
+          "published": "2026-09-28T00:14:40+00:00"
+        },
+        {
+          "title": "IA: le patron d'Anthropic attendu à dîner chez Trump après des mois de conflit",
+          "link": "https://www.lefigaro.fr/international/ia-le-patron-d-anthropic-attendu-a-diner-chez-trump-apres-des-mois-de-conflit-20260928",
+          "source": "Le Figaro",
+          "summary": "L’invitation survient deux jours après qu’une cour d’appel fédérale a validé la décision du Pentagone de classer Anthropic comme un «risque pour la chaîne d’approvisionnement».",
+          "published": "2026-09-27T22:24:31+00:00"
+        },
         {
           "title": "Féminicide dans le Cher : le compagnon de la victime mis en examen et placé en détention provisoire",
           "link": "https://www.lemonde.fr/societe/article/2026/09/27/feminicide-dans-le-cher-le-compagnon-de-la-victime-mis-en-examen-et-place-en-detention-provisoire_6784596_3224.html",
@@ -180,32 +208,11 @@
           "published": "2026-09-27T21:54:00+00:00"
         },
         {
-          "title": "Sénatoriales 2026 : Marine Le Pen salue «une victoire historique»",
-          "link": "https://www.lefigaro.fr/elections/senatoriales/en-direct-senatoriales-2026-les-premiers-resultats-sont-tombes-journee-decisive-pour-le-rassemblement-national-20260927",
-          "source": "Le Figaro",
-          "summary": "Les grands électeurs d’une soixantaine de départements ont voté ce dimanche pour les sénatoriales, permettant pour la première fois la constitution d’un groupe RN et l’entrée de la France insoumise au Sénat.",
-          "published": "2026-09-27T21:51:54+00:00"
-        },
-        {
           "title": "Emmanuel Macron assistera ce lundi à la messe de Léon XIV à Metz",
           "link": "https://www.lefigaro.fr/actualite-france/emmanuel-macron-present-ce-lundi-a-la-messe-de-leon-xiv-a-metz-20260927",
           "source": "Le Figaro",
           "summary": "INFO LE FIGARO - Absent à la messe célébrée samedi place de la Concorde, Emmanuel Macron sera présent à l’ultime messe du voyage en France de Léon XIV, ce lundi après-midi.",
           "published": "2026-09-27T21:46:06+00:00"
-        },
-        {
-          "title": "Ligue des nations : pas de poignée de mains, stade vide… L’Irlande domine largement Israël dans un climat tendu",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-pas-de-poignee-de-mains-stade-vide-l-irlande-domine-largement-israel-dans-un-climat-tendu-20260927",
-          "source": "Le Figaro",
-          "summary": "Dans un contexte très particulier à Debrecen, les Irlandais ont marqué leur position avant même le coup d’envoi, avant de s’imposer largement face à Israël (3-0).",
-          "published": "2026-09-27T21:29:49+00:00"
-        },
-        {
-          "title": "Toulouse : une femme de 93 ans retrouvée morte à son domicile, un suspect interpellé",
-          "link": "https://www.lefigaro.fr/faits-divers/toulouse-une-femme-de-93-ans-retrouvee-morte-a-son-domicile-un-suspect-interpelle-20260927",
-          "source": "Le Figaro",
-          "summary": "Une enquête pour homicide a été ouverte après la découverte dimanche du corps d’une nonagénaire à son domicile toulousain. Un homme d’une trentaine d’années, présent sur place, a été interpellé après avoir blessé un…",
-          "published": "2026-09-27T21:05:51+00:00"
         },
         {
           "title": "En Ethiopie, la télévision publique du Tigré frappée par un drone",
@@ -220,13 +227,6 @@
           "source": "Le Figaro",
           "summary": "Sept victimes de violences sexuelles dans l’Église ont été reçues dimanche à Lourdes par Léon XIV lors d’une rencontre à huis clos de près de deux heures.",
           "published": "2026-09-27T20:54:11+00:00"
-        },
-        {
-          "title": "Entrée en force du RN, deux insoumis élus, Retailleau reconduit… Ce qu’il faut retenir des élections sénatoriales de dimanche",
-          "link": "https://www.lefigaro.fr/politique/entree-en-force-du-rn-deux-insoumis-elus-retailleau-reconduit-ce-qu-il-faut-retenir-des-elections-senatoriales-de-dimanche-20260927",
-          "source": "Le Figaro",
-          "summary": "Si la majorité du Palais du Luxembourg reste à droite et au centre, le poids de LR, qui devrait perdre sept sièges, s’érode.",
-          "published": "2026-09-27T20:48:57+00:00"
         }
       ]
     },
@@ -325,11 +325,53 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "Semaglutide cuts major heart events, but researchers still cannot fully explain why",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa0M1UlFWdUl2ZWt5RnhlYUVJdEYtRnlYbDU3dFpjS3owZm5TTzRBWWU3T1d1ZmQzRVQ0eEdxOXN6QzFlcXlwb1NaZ1lpM2pJcHVUd3JRRTUtZTVKeGQ0NVRyNk02VVNnOFVCN3RJWWhSamFPeEt0aFFTY1VxLXZ4VUtBcW81MXFvYko1Z2xlQ1JjZlhvdGZrT3dSU3BsU2dLckdCSkY1LVpMMkpJU3JGaG9xZkVPQ1l2cXZCVlVaSmUxRGdBRTBvcThB?oc=5",
+          "source": "News-Medical",
+          "summary": "Semaglutide cuts major heart events, but researchers still cannot fully explain why News-Medical",
+          "published": "2026-09-28T03:41:00+00:00"
+        },
+        {
           "title": "Popular real estate agent dies unexpectedly at 38 from diabetes",
           "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQU2E3YTRCTUUyb0ZKWE4xdVV4TV85WnhiaXJ4Njg0cFhVNjJtbTUtaTBONHhZS1Bnbzl0YTlVai1HamtyeHZkNnUybGRRMk9RNFhrTFowWHJUamlRMEVOcHRyV1BHVU5GR0ZZREJuWE1MUF9fcjFoajBZaUVYeTRNUkxwZ0NHelRHVzJ2a3VRS1MyN1dZczJFNTMwZjJXcjFrSV80WnM5aThnRmtpakxnWk5OQmFXYU9iTmFEQUdxeldUWTliSVdWay1meTRmdW5mSEFiMFFnYlBQNlBDbWxBZTJETlpGSDU0N25FdWNxUGVZSG1pMENYaFVzUm1MaVp5ZjJhaGwxMUpvQ09qYUtULXI4RXhLc1N6aWdRWQ?oc=5",
           "source": "Herald Sun",
           "summary": "Popular real estate agent dies unexpectedly at 38 from diabetes Herald Sun",
-          "published": "2026-09-27T23:33:52+00:00"
+          "published": "2026-09-28T02:56:45+00:00"
+        },
+        {
+          "title": "Gut bacteria signature may predict type 2 diabetes risk",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVklSaEFJb2tDMjBjU1ZzYXFZNlFQdmNrMUFyNjJuRDFQS1Jkc0lWckJmejNzNGVLXzhYMWVWclJ0Tm9KX0RDWmpQY0JWdjRIdmxWb0YxQkxBbnBxNVBQVXh1dzgwUzhxd1Zsd2V0eEttR2FhRWJQamNEaUM1dW85bXQ1dFQ0OThnaUI5aDdCTGs2aUJEOUpwWVJQdGdGVi1IV2M5Q0pB?oc=5",
+          "source": "News-Medical",
+          "summary": "Gut bacteria signature may predict type 2 diabetes risk News-Medical",
+          "published": "2026-09-28T02:40:00+00:00"
+        },
+        {
+          "title": "Experts Highlight India-Specific Nutrition Needs In Diabetes Care",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ25KR3QzNDVjM09iU0tFUFNBcFJHOEFVUXNmWHlNTi14WlZobGNiOHdMV1lUQjNpVzBhblpkckpFemJjTzN3OHJQdkNmRGZucmlVRURqOVZNREc4cExtTUZFZlNpSkp2cDctMzdOWWVqMW5CXzhUR1A5WnFyZVZZbmlLVFk0Zk1KS3VueVh3X0swb1lEVlRudUozME1kT0dnZFJRZVNqUC1fTFRpM01NdmFEOXk?oc=5",
+          "source": "bwhealthcareworld.com",
+          "summary": "Experts Highlight India-Specific Nutrition Needs In Diabetes Care bwhealthcareworld.com",
+          "published": "2026-09-28T02:32:41+00:00"
+        },
+        {
+          "title": "Type 2 diabetes complications: Heart failure, kidney disease or death risk reaches 55% within 10 years, s",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWEh1WmRsLTFpczVpRm5fdjJhNGJ2eTY0Y3c1dlJjMW5UUVk3LVo2RDVWa2hxRW5Ib0Y5M29tQUVqVUNVNzRpM1NINEpXT251d3ByLVZJcVNGUzFCb3FGQmc1dTRnbFFPSVRMb2pSc003Z0hCaHoxTVJ1YzYtTHNiT0tBaTRESk10VXhkQXhzZHNDVGdxamd2VFNNX1ZPYmR2cEE0Um1YZjBGOHpVbEpDNW9ZZ2k2dTV1RkVMNTBPTXlDQ3I4Y2xzNmhvSERIYXpkalBucmhPSnZTOGR1Rm9NUGtDUWRMeXl4V19JQ3ZZcVh4cGRHbzItSmJ4Mk5rel9zRWhVTGU2bzY4VEVBajNmSUdIYVd3VjZz0gGeAkFVX3lxTE9MTS1fcHlxOUI1aUoxNVd6dUxvT0EzR3VaTzIzcTZZVWNZUnNVbHBzTVJTUkxVSkJTQU9nMVdldndtaTBrY0pUajRic2pEZGdyRUdSNER0VUJURGR4VGk2R0JFVGtsbWw4Sk0xRkxsUl9FZU5FSzk1VzFmZjg3N0ZwdWU0WnpaeEptbm1hZXY2TGt0OERsTFNmQU1qYjM5VGptaWhadmd1bHl4VE5MbDdVQUdCcVJFcGNhX2lqekJRM2twcnJSLXNrRlE0WWE5VUI1bDRIQmVQRDl5cVF2T0ZwR1Q5WWs2NTh5YkY5ZEVqRURadnNnc1hCVDBGakVPeHhIVUE2T1Q0dkJFSkxDNXFpU2RjMlVlMkhrTWVlNUE?oc=5",
+          "source": "The Times of India",
+          "summary": "Type 2 diabetes complications: Heart failure, kidney disease or death risk reaches 55% within 10 years, s The Times of India",
+          "published": "2026-09-28T01:38:00+00:00"
+        },
+        {
+          "title": "Early gut microbiome pattern linked to threefold higher type 1 diabetes risk",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWGpWZVliaG5NbUcxZmswd2pJT0QyNXdzaGhHd2h0YkRoaXVmU1lmaVNndzNRbzBIQi02VWFRRW1NSXZyNTJUN3hvNjF2T0JQYUdjZWg4ZENMNGpQd0E1OFh3NWpGWjVlWlBjSl8xaXdBby1zMHR6Uk1yQk9CbkxvR3FrNkY2bmVMMThlUDVmOWY1YzUwcTctbFRsOTZpemtqdjVzaXlpVnRXcnlFU3ZuMERHQnU5VmN2ckhSTzRCcw?oc=5",
+          "source": "diabetes.co.uk",
+          "summary": "Early gut microbiome pattern linked to threefold higher type 1 diabetes risk diabetes.co.uk",
+          "published": "2026-09-28T01:10:27+00:00"
+        },
+        {
+          "title": "First Clinical Guidelines for 'Diabetes Distress' Released... 'Managing Your Mind Matters' [Mildang365]",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeElCOVVyV21YSHRCTFJ6R3liQTFUZlFxQkFVbFhGRGMwaEtIRS13dGhNa1dkVlNLMkRmT3hSNlpTQjh2SzhadU9ZZjFkU0paY0xTLWZOZk9wc0M4R3NFMUhDdWtRY202eC1yU0pNTUtUUnJVVzdJUEVWbGlKM3B0d1JoeUhZU0YxUlE?oc=5",
+          "source": "헬스조선",
+          "summary": "First Clinical Guidelines for 'Diabetes Distress' Released... 'Managing Your Mind Matters' [Mildang365] 헬스조선",
+          "published": "2026-09-28T00:00:00+00:00"
         },
         {
           "title": "Gut microbiome can reveal risk of type 2 diabetes",
@@ -374,18 +416,18 @@
           "published": "2026-09-27T19:09:38+00:00"
         },
         {
-          "title": "FDA approves Eli Lilly's once-weekly insulin, s...",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE9udlNlTU5WbHNUOVYtUVNsdEc5NW1LNy13dndiTS1pVlBRR2R2Sjd1VWpoRWRVMzctNVJUMkxFVWZ2YVhFejU4dXNlck43YXg2WWZmUEYwc0hNczNBN1VzU2JHS1hUQng3TXlrT1B1UW1xMi1JSzJSYVR1WkRGSmItcGxkM3R4d0tIMmFVbUU4RV94OHhWYjNMa3JtOWRHZWc2eUtsRXNVVFNx?oc=5",
-          "source": "Pluang",
-          "summary": "FDA approves Eli Lilly's once-weekly insulin, s... Pluang",
-          "published": "2026-09-27T19:05:38+00:00"
-        },
-        {
           "title": "Marcillac-Vallon. Deux journées pour s’informer, prévenir et échanger autour du diabète",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDRydmpLN204V21xaElkb2RWS2NQRENXcHlZOFBkOXJSRGo2dDFRbWx5TUVUOC1vTEIzWlNSNGVSbXcxUUhPUDFUcWp1eWdyc2F2YWNkeGdqTUN1bzhSc1ZUZzRlNnBnRXoxTjM4SllUY2kwTnlBMWgybHM1WjlxMHFTY1hza1V0ZC1xWW1RTGpJbEFlZ25QZXd0VkRiN01nR0JhTFI4d1h3MkVPWVk1ZC1DcEVEdUY5Tm1uU3gxaTNXNHE5?oc=5",
           "source": "Centre Presse Aveyron",
           "summary": "Marcillac-Vallon. Deux journées pour s’informer, prévenir et échanger autour du diabète Centre Presse Aveyron",
           "published": "2026-09-27T18:52:00+00:00"
+        },
+        {
+          "title": "Les habitants de Bourgogne Franche-Comté sont plus susceptibles d'avoir du diabète, surtout dans l'Yonne et la Nièvre",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbjVCTHFCQjRyajFmajhvdC1ldVB4RUR4c2phWUd6LVlza0ZfS0otSnNIeEdFazdRVzZtbFZvLTVra2RHWE4zelNBM2xGaDRDdjN6NEVnczYwMW9jeWVuMS1RTGlKV3FwZUNnUGJXbzFSMm84ci1YczNWbjYxVzg4RnQ3bWJ1R1lSQkhLc0FNRk5mWk9iN1Rma2xKRGFaanNGTXF1MUtZY0c1UHhkTV9OY2R2QkJHRXFZV25vT1c2c2NaMVZpak1XUzl6Wk9uTlhVdmxneGcweEJZRU1nNHhrQ2NKMXNXUjdoTjVHX0pwTVMxVFV1VkIxZmZTSmpIb0RFbUE?oc=5",
+          "source": "Le Journal du Centre",
+          "summary": "Les habitants de Bourgogne Franche-Comté sont plus susceptibles d'avoir du diabète, surtout dans l'Yonne et la Nièvre Le Journal du Centre",
+          "published": "2026-09-27T18:34:22+00:00"
         },
         {
           "title": "[EN PHOTOS ET VIDÉOS] Ils ont couru et marché contre le diabète",
@@ -402,25 +444,11 @@
           "published": "2026-09-27T17:08:00+00:00"
         },
         {
-          "title": "Systemic Glucose-Lowering Therapies and Periodontal and Peri-Implant Outcomes in Adults With Type 2 Diabetes Mellitus: A Systematic Review",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWVlLU2lWYVB3ODI0LVBoOVhBMnN2YU5ERnVkWTFtb0FlRlItc051QUt4SGE0UGQtaHdDZzctMWNzZGtSRm1iaUpJc0NQU3NpeWNwVXBpaGRLQ2lMcjN4QmdHUTF0cENMM2JmbjlnWXZvMkVjWVRzUERVd3dva192VkE1Ml8wUzhyRXgtbVhOTlEtdTBZUk9KTDY0bW02SWE3MmduR21DemVZb2E3MFhySEs4Z1p1cjZScUdYX2llZC1XbGFINEpwMUhGWXFsck44Z3pDdVhtU2ZfUkJJQzRvMkFQbHBLOHlxNHlNdlFUd2pNZ0QyaTdmSW5YcHVfU0NvSjFZVi1yTQ?oc=5",
-          "source": "Cureus",
-          "summary": "Systemic Glucose-Lowering Therapies and Periodontal and Peri-Implant Outcomes in Adults With Type 2 Diabetes Mellitus: A Systematic Review Cureus",
-          "published": "2026-09-27T16:43:54+00:00"
-        },
-        {
           "title": "7-Day High-Protein, Diabetes-Friendly Meal Plan for Fall, Created by a Dietitian",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTBiek1icWMxb05iN0V4TFdaY2RxaDR5d3p5Ql9EaU1kWVFrMlVpU1ItQ0l1VjJIYTVRR2c2TDNaWjdKWkpOZDFnbVRvcVlUT3RwY2pfOTRNQ1RvbHQtUU5xblpuMEFjYnFmblJmbGkyeHlBT2VBS0l2QnRBempYeFh6QW5QY05TLXc?oc=5",
-          "source": "eatingwell.com",
-          "summary": "7-Day High-Protein, Diabetes-Friendly Meal Plan for Fall, Created by a Dietitian eatingwell.com",
+          "source": "EatingWell",
+          "summary": "7-Day High-Protein, Diabetes-Friendly Meal Plan for Fall, Created by a Dietitian EatingWell",
           "published": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "title": "Les habitants de Bourgogne Franche-Comté sont plus susceptibles d'avoir du diabète, surtout dans l'Yonne et la Nièvre",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2dUZDk1WER0ZXpjcE1WWnBKb0ZNcFJGNi1iU0Y5NXhYQzhsQWp3d2Z6NkhpcC11ekdCRUJiTFc1Y2FudndGSnNFQk91Sm9TQTRxOE5uSWpSZGhlR1BZRi1ZdE54R216bEhtY1JxZEtVOXpNdmJBeUNwanRNWThSR09UVGljWVRzbWZmOFFkUkd3Ry1kTmdNYTlYYXFGRDNyTEIzX1RWTl9rRkoyZG5aN29kdjVDM1VKdjN2S0lWc3NvcjFZZTV1d0lQVG1aNmVpTExuODJicUpvVWFZSVhFRklFUV9tdzlzY3VLTTB4bGdCRXRJbkhza1BCSmVRc2hNakIw?oc=5",
-          "source": "L'Yonne Républicaine",
-          "summary": "Les habitants de Bourgogne Franche-Comté sont plus susceptibles d'avoir du diabète, surtout dans l'Yonne et la Nièvre L'Yonne Républicaine",
-          "published": "2026-09-27T15:19:08+00:00"
         },
         {
           "title": "Used for 60 years against diabetes, this drug also works in the brain",
@@ -432,8 +460,8 @@
         {
           "title": "‘Can a diabetic foot ulcer cause a bone infection?’",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWjQwTlNzRWNwNkpvb2R2WmplbFYtSXdkdWlXOGU5SXRxaHlNamRQdTVVaURXdjYzN1ZUNWVXVEgtUjhDZWh0eFBDMjZJRTRvb3BXT2NRNkdwOTZLcUlGMjJ6QnFXd1Y2RG1TaGl5U3VybWRxVmMyU3diNkpvcUpKVWxQTkt0aUIyVTZKQzVBZC1fU2xtVGxoYkh1bDM0QUxXSlpqSlh5elBMUU9kdkHSAbQBQVVfeXFMTW1fd0ZvbXpET0ZielBuOVBYZm54SFkwX2VjaThvYnJpWThpMjNzTXp3bVRITHZuTE1ybXpOWFVRLWlXa09PYWhYVjVOTU1KZmxHLXNyeVlDYUx1NTB3N1FENjd2eFlZQUoyNURaZ0JoUlZrYUJnNVItSnl1a054VTlOSEk1cFVPWVU2OGNsS1Z4bm1yYmhDVF9PZ1FaY1VaLVZ2WmFEVnd5RTExdmM0cFFoQ3hz?oc=5",
-          "source": "indianexpress.com",
-          "summary": "‘Can a diabetic foot ulcer cause a bone infection?’ indianexpress.com",
+          "source": "The Indian Express",
+          "summary": "‘Can a diabetic foot ulcer cause a bone infection?’ The Indian Express",
           "published": "2026-09-27T13:30:33+00:00"
         },
         {
@@ -502,8 +530,8 @@
         {
           "title": "Après l'accouchement, les mères ayant souffert de diabète gestationnel doivent se souvenir de 4 choses.",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQURnbEFlNnRwQWlBV29abXVuNVR6OWlUUUVsOXI5VmVqZU1sZElyWGY5Y0o2eENHSm5pZVNqQlZQUlNyNFlMOF9pcEtXTG94WEhmTFdtRWxLd3FwNHdYSlJEbDJNQlFuWG1tN0o5WDhnNEVmSGFkOE1fWVBlLWV3WDRB?oc=5",
-          "source": "vietnam.vn",
-          "summary": "Après l'accouchement, les mères ayant souffert de diabète gestationnel doivent se souvenir de 4 choses. vietnam.vn",
+          "source": "Vietnam.vn",
+          "summary": "Après l'accouchement, les mères ayant souffert de diabète gestationnel doivent se souvenir de 4 choses. Vietnam.vn",
           "published": "2026-09-27T02:32:03+00:00"
         },
         {
@@ -516,8 +544,8 @@
         {
           "title": "Diabète de longue durée : 4 signes indiquant que vos reins sont affectés.",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcDRRRlpNLVZaUERyMC1ROGFLMmtlQU5EVmxBZVQ5TkhvZUhtaHdYY3pSY2N4Wl8wYjN5aG5kV2c0Ri1Sc1hBWEFfOTNNMWhWX0dydXdlYWh5ZGNZZm9Da3B2M19aRGlHd2swR2gwNXNzaUtfQkNray1YT3gtOG1nbDBNMkxuUmhhVG5ZX0psanY?oc=5",
-          "source": "vietnam.vn",
-          "summary": "Diabète de longue durée : 4 signes indiquant que vos reins sont affectés. vietnam.vn",
+          "source": "Vietnam.vn",
+          "summary": "Diabète de longue durée : 4 signes indiquant que vos reins sont affectés. Vietnam.vn",
           "published": "2026-09-27T00:34:09+00:00"
         },
         {
@@ -551,15 +579,15 @@
         {
           "title": "Prédiabète : ces 5 signaux au réveil que 8 personnes sur 10 ignorent complètement",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1NtT1FDNkFLVUdjc0JOaWpoY3Njbmx4Wmo3Z19jcl9ZMmJjNXBFaTZWUTZYN3BTc2l2Z2VXcXJuaUNjS1hBWUR3MEpwaHhaSEtmSG5wbXFxVkpaTFNOOHM3am1PbWZCVGtmdlM0X2loc25SeUY0VFItR1dFVUZ4cEZPbkw3NHplYTZRX1ZhYw?oc=5",
-          "source": "letribunaldunet.fr",
-          "summary": "Prédiabète : ces 5 signaux au réveil que 8 personnes sur 10 ignorent complètement letribunaldunet.fr",
+          "source": "Le Tribunal du Net",
+          "summary": "Prédiabète : ces 5 signaux au réveil que 8 personnes sur 10 ignorent complètement Le Tribunal du Net",
           "published": "2026-09-26T21:29:00+00:00"
         },
         {
           "title": "Billy Gardell says weight loss surgery likely saved his life after diabetes diagnosis",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1BibkFOVndJZmVhZmNnQ1g2NldTQmV5NEpCUFNpX1FqUWZmYjRrdUI2OVVyZGUyX0FLeTVOV01FUE54T09jLUk3RkNxeFFOLW9mUktTSktYdG15Vk83bFdsMUluazFmQkFZeTBCZmxPa3kxbnlFZUtwNkRVQ09FdGJQZlM5OUlud0l3M1NYMGdrazQ1VTIyLVdPbW9SZTNOWlE?oc=5",
-          "source": "Yahoo",
-          "summary": "Billy Gardell says weight loss surgery likely saved his life after diabetes diagnosis Yahoo",
+          "source": "yahoo.com",
+          "summary": "Billy Gardell says weight loss surgery likely saved his life after diabetes diagnosis yahoo.com",
           "published": "2026-09-26T21:15:04+00:00"
         },
         {
@@ -575,34 +603,6 @@
           "source": "Webmanagercenter",
           "summary": "Diabète et Alzheimer : l’IPT étudie les facteurs génétiques du déclin cognitif Webmanagercenter",
           "published": "2026-09-26T16:07:32+00:00"
-        },
-        {
-          "title": "Psychotherapy May Improve Blood Sugar in Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdk1UdGppRTFkd05QelJjdEJPdHZ0a1QxTktuWUt1R2JOZ1g5eGxhX3NZU01lMWhuVU9tZnBoY0FCZmRoaWdQOWRVaGNvVGR3NWFNdUhFa0xaT3dGcTd2Szd2NGZxUzlKVVh2cFpuVF9fU0JVdWh0WWFCakpqZ3RzU0c4eEdJZnkxZEdLRGx3Y0NrZ2ZtWDAwWWNBLWtyLWs?oc=5",
-          "source": "European Medical Journal",
-          "summary": "Psychotherapy May Improve Blood Sugar in Type 2 Diabetes European Medical Journal",
-          "published": "2026-09-26T15:02:56+00:00"
-        },
-        {
-          "title": "Back-to-school challenges for those with type 1 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoY21qSk5RWGw2VUlmdE41bkxlX2RNTXBEUHVzb2VST2xiekpDMzdTZFM0R2NmZGxTZG5ZWXE3VFFEanlxZW9MaDUxUlR1ckdrTmN6MVdhYXdseHpzYkZPN082d9IBaEFVX3lxTE03bURlSVFDYnQtWlNpWDU5QkZJSFlxS19Pb1YyTEN5ZmY3LWkzX3NfU2NVT1ZlRHozTS1yVFpDZHdKa0l5bGg1Q29mVlZacFlqQUJxUkZqNkNCZWg3cTZDOUF4SXotMXZt?oc=5",
-          "source": "FOX 7 Austin",
-          "summary": "Back-to-school challenges for those with type 1 diabetes FOX 7 Austin",
-          "published": "2026-09-26T12:48:26+00:00"
-        },
-        {
-          "title": "Le diabète plus fréquent en Bourgogne-Franche-Comté : 200.000 personnes concernées dans la région",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb3IyZVloTnVmRDZGSEl0NjRWUTNScDlwaXNPUk9GeFV3anBVR2pJNkg4Z0Z6ak16c09FQnFUZFlIWFZwMTVCV2MydDFCendQWWp6YkphanNnU1BoM19PWFBWeDdIV2RVZ1JfUkRWczQxOHZFcnZOd0JsdGNwMGp4NkJrN3hwb1plYkp1am1Tam1Lc09YNTlhQ0ZRYVNQSlZGR01RYThBZEstTTNPVFlndEZpQjFMMUJBVkpaZC04ZDU4NnAwQTZzRUNHRFhrWU1DejJhemdCcXd3N28zOXN3?oc=5",
-          "source": "ici.fr",
-          "summary": "Le diabète plus fréquent en Bourgogne-Franche-Comté : 200.000 personnes concernées dans la région ici.fr",
-          "published": "2026-09-26T09:01:29+00:00"
-        },
-        {
-          "title": "Diabète de type 2 : l’incidence du cancer est plus élevée chez les patients et elle grimpe encore",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVnc0bEVnOWRYWENEc0lYcWhEUEdlSnJqUm5UVEs4V0hDMndHck9weWs0YVJsS1g3VFRGbkFaM3RVVEVxMkRVRURQd0QwdFFiVURUbEJpcGZMM2c4aFphSGZKNUIzek9McUdZVHRBQXRxdDhWQkZoR29GUFNBSElXVV8xVnBsT2tQZkJCd1BfaWYtUHFyTHZnT2Y0emFJOU8ydVItcXJaNW1IVFN0dGhOa0F1WmR6MDROcXc?oc=5",
-          "source": "Pourquoi Docteur",
-          "summary": "Diabète de type 2 : l’incidence du cancer est plus élevée chez les patients et elle grimpe encore Pourquoi Docteur",
-          "published": "2026-09-26T06:25:00+00:00"
         }
       ]
     }
