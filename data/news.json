@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-09-30T00:04:10.927545+00:00",
+  "generated_at": "2026-09-30T09:20:04.662250+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Sous la tutelle de Donald Trump, les patrons de l'IA adoptent un code de bonne conduite",
-          "link": "https://www.france24.com/fr/%C3%A9co-tech/20260929-etats-unis-intelligence-artificielle-ia-donald-trump-patrons-adoptent-code-bonne-conduite",
-          "source": "© Jacquelyn Martin, AP",
-          "summary": "Réunis mardi à la Maison Blanche, les grands patrons de l'intelligence artificielle ont promis mardi de se réguler à l'aide d'une charte de bonne conduite. De quoi satisfaire le président américain Donald Trump, opposé…",
-          "published": "2026-09-29T23:37:25+00:00"
+          "title": "France : l'inflation atteint 3 % sur un an en septembre, selon l'Insee",
+          "link": "https://www.france24.com/fr/france/20260930-france-inflation-atteint-3-pour-cent-sur-un-an-en-septembre-selon-insee-economie-detroit-ormuz",
+          "source": "© Stephane de Sakutin, AFP",
+          "summary": "La hausse des prix à la consommation s'est accéléré en septembre, atteignant 3 % sur un an. Elle est portée par la hausse des prix de l'énergie et des produits frais, selon une estimation provisoire publiée mercredi par…",
+          "published": "2026-09-30T09:08:24+00:00"
         },
         {
-          "title": "Aux Etats-Unis, la Cour suprême donne un nouveau feu vert à l’expulsion de sans-papiers vers des pays tiers",
-          "link": "https://www.lemonde.fr/international/article/2026/09/30/aux-etats-unis-la-cour-supreme-leve-de-nouveau-des-limites-aux-expulsions-de-sans-papiers-vers-des-pays-tiers_6785791_3210.html",
+          "title": "Sur Reporterre : Attention aux labels et logos trompeurs",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260930-sur-reporterre-attention-aux-labels-et-logos-trompeurs",
+          "source": "France 24",
+          "summary": "Les labels écolos à gogo, c’est fini : l’Europe met un stop au greenwashing des marques. « Bien-être animal » pour les poulets : un logo qui prend les consommateurs pour des jambons. Explications avec Amélie Mougey,…",
+          "published": "2026-09-30T09:06:10+00:00"
+        },
+        {
+          "title": "Maroc : Fatima Ezzahra El Mansouri, de la mairie de Marrakech à la tête du gouvernement",
+          "link": "https://www.france24.com/fr/afrique/20260930-maroc-fatima-ezzahra-el-mansouri-mairie-marrakech-d%C3%A9put%C3%A9e-cheffe-gouvernement-avocate-formation",
+          "source": "© Abdel Majid Bziouat, AFP",
+          "summary": "Elle dit vouloir \"redonner espoir\" aux jeunes. Fatima Ezzahra El Mansouri est devenue mardi la première femme cheffe de gouvernement au Maroc. Retour sur le parcours de cette avocate de formation de 50 ans, qui avait…",
+          "published": "2026-09-30T09:01:29+00:00"
+        },
+        {
+          "title": "France 24 en Irak : les dernières troupes de la coalition menée par les États-Unis quittent le pays",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260930-france-24-en-irak-les-derni%C3%A8res-troupes-de-la-coalition-men%C3%A9e-par-les-%C3%A9tats-unis-quittent-le-pays",
+          "source": "France 24",
+          "summary": "Le retrait des dernières forces de la coalition internationale d’Irak marque la fin d’une présence militaire entamée en 2014. Pour les habitants, cette nouvelle étape doit permettre à l’Irak de retrouver sa…",
+          "published": "2026-09-30T08:53:18+00:00"
+        },
+        {
+          "title": "Cisjordanie occupée : face aux violences de colons, une rare condamnation israélienne",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260930-cisjordanie-occup%C3%A9e-face-aux-violences-de-colons-une-rare-condamnation-isra%C3%A9lienne",
+          "source": "France 24",
+          "summary": "En Cisjordanie, les violences de colons israéliens se poursuivent, avec plus de 1 600 attaques recensées depuis le début de l’année par l’ONU. À Jalud et Al-Mughayyir, des habitants palestiniens racontent avoir vu leurs…",
+          "published": "2026-09-30T08:51:25+00:00"
+        },
+        {
+          "title": "Dette française : un nouveau record à 3 595 milliards d’euros",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260930-dette-fran%C3%A7aise-un-nouveau-record-%C3%A0-3-595-milliards-d-euros",
+          "source": "France 24",
+          "summary": "3 595 milliards et demi d’euros… Un chiffre à treize chiffres qui donne le vertige. C’est le montant de la dette française, publié ce matin par l’Insee. Un nouveau record, avec près de 60 milliards d’euros…",
+          "published": "2026-09-30T08:46:45+00:00"
+        },
+        {
+          "title": "Crise du logement en Espagne : les mesures de Sánchez jugées insuffisantes",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260930-crise-du-logement-en-espagne-les-mesures-de-s%C3%A1nchez-jug%C3%A9es-insuffisantes",
+          "source": "France 24",
+          "summary": "En Espagne, la mobilisation contre la crise du logement se poursuit, après l’expulsion de Maricarmen, une femme de 87 ans devenue le symbole de la crise à Madrid. Pour tenter d’apaiser la colère, le gouvernement de…",
+          "published": "2026-09-30T08:45:12+00:00"
+        },
+        {
+          "title": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques",
+          "link": "https://www.lemonde.fr/pixels/article/2026/09/30/piratage-de-hugging-face-une-ong-assigne-openai-devant-la-justice-pour-infraction-a-la-loi-sur-les-cyberattaques_6786030_4408996.html",
           "source": "Le Monde",
-          "summary": "L’instance à majorité conservatrice a accédé, mardi, à un recours de l’administration Trump qui lui demandait de suspendre une décision des juridictions inférieures, permettant ainsi d’expulser une personne en situation…",
-          "published": "2026-09-29T23:31:06+00:00"
+          "summary": "Il s’agit de la première procédure connue contre une entreprise du secteur, en rapport avec les récents dérapages spontanés de l’intelligence artificielle dont ont fait état cet été OpenAI mais aussi Anthropic, Google…",
+          "published": "2026-09-30T08:43:17+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine | Lutte contre les drones à réaction russes, préparation à l’hiver… Ce que Kiev envisage pour les mois à venir",
-          "link": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-lutte-contre-les-drones-a-reaction-russes-preparation-a-l-hiver-ce-que-kiev-envisage-pour-les-mois-a-venir_6783795_3210.html",
-          "source": "Le Monde",
-          "summary": "Volodymyr Zelensky veut accélérer la production de moyens permettant d’intercepter les drones à réaction russes et a fixé des objectifs précis pour octobre.",
-          "published": "2026-09-29T22:46:42+00:00"
-        },
-        {
-          "title": "Mediapart : poursuivi plus de 300 fois, condamné 5 fois",
-          "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260929-mediapart-poursuivi-plus-de-300-fois-condamn%C3%A9-5-fois",
+          "title": "France-Espagne : Macron en visite d’État à Madrid pour resserrer les liens",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20260930-france-espagne-macron-en-visite-d-%C3%A9tat-%C3%A0-madrid-pour-resserrer-les-liens",
           "source": "France 24",
-          "summary": "C’est un nouveau bras de fer entre un responsable politique et Mediapart : le média d'investigation a publié des messages antisémites datant de 2013 à 2015 qu’il attribue à Jordan Bardella, alors jeune militant du Front…",
-          "published": "2026-09-29T22:24:11+00:00"
+          "summary": "Emmanuel Macron et Brigitte Macron sont reçus en grande pompe à Madrid pour une visite d’État de deux jours, la première d’un président français en Espagne depuis 2009. Au-delà du rapprochement politique et européen,…",
+          "published": "2026-09-30T08:43:10+00:00"
         },
         {
-          "title": "En Espagne, Emmanuel Macron plaide pour une \"Europe plus forte\" face à la montée des \"extrêmes\"",
-          "link": "https://www.france24.com/fr/europe/20260929-espagne-emmanuel-macron-visite-detat-plaide-europe-plus-forte-montee-des-extremes",
-          "source": "© AP",
-          "summary": "Lors du premier jour de sa visite d'État en Espagne, le président français Emmanuel Macron a appelé mardi à un investissement massif en faveur d'une \"Europe plus forte\" et à \"reprendre le contrôle\" des réseaux sociaux…",
-          "published": "2026-09-29T22:03:31+00:00"
-        },
-        {
-          "title": "Éliminatoires de la CAN 2027 : la Côte d'Ivoire enchaîne, le Nigeria surpris par la Guinée-Bissau",
-          "link": "https://www.france24.com/fr/sports/20260929-%C3%A9liminatoires-de-la-can-2027-la-c%C3%B4te-d-ivoire-encha%C3%AEne-le-nigeria-surpris-par-la-guin%C3%A9e-bissau",
-          "source": "© AFP / ISSOUF SANOGO",
-          "summary": "La seconde journée des éliminatoires de la CAN 2027 touche presque à sa fin. Et elle a été délicate pour certaines sélections majeures du continent, avec les victoires inattendues de la Guinée-Bissau contre le Nigeria…",
-          "published": "2026-09-29T21:30:08+00:00"
-        },
-        {
-          "title": "La dette de la France atteint 119% du PIB, la fonction publique dans la rue pour le pouvoir d'achat",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260929-la-dette-de-la-france-atteint-119-du-pib-la-fonction-publique-dans-la-rue-pour-le-pouvoir-d-achat",
+          "title": "Javier Milei en opération séduction à Paris",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260930-javier-milei-en-op%C3%A9ration-s%C3%A9duction-%C3%A0-paris",
           "source": "France 24",
-          "summary": "La dette de la France atteint 3595,5 milliards € au deuxième trimestre 2026, vient de dévoiler l'Insee, soit 119% du PIB : un niveau qui n'avait pas été atteint depuis 1946... Malgré les efforts de l'exécutif pour faire…",
-          "published": "2026-09-29T21:05:23+00:00"
-        },
-        {
-          "title": "\"Augmentez les salaires !\" : en France, 300 000 personnes ont manifesté pour le pouvoir d'achat",
-          "link": "https://www.france24.com/fr/france/20260929-augmentez-les-salaires-en-france-300-000-personnes-ont-manifest%C3%A9-pour-le-pouvoir-d-achat",
-          "source": "© AP Photo, Teresa Suarez",
-          "summary": "Plusieurs milliers de fonctionnaires ont répondu à l'appel à la grève de l'intersyndicale pour protester contre le recul du pouvoir d'achat dans la fonction publique. Les pompiers, éprouvés par un été marqué par…",
-          "published": "2026-09-29T20:34:20+00:00"
-        },
-        {
-          "title": "Fatima Ezzahra El Mansouri nommée cheffe du gouvernement marocain",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260929-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-marocain",
-          "source": "France 24",
-          "summary": "Le roi du Maroc Mohammed VI a nommé mardi Fatima Ezzahra El Mansouri cheffe du gouvernement après la victoire de son parti aux élections législatives de la semaine dernière, marquant la première accession d'une femme à…",
-          "published": "2026-09-29T20:15:31+00:00"
-        },
-        {
-          "title": "Ethiopie : Les combats reprennent et alimentent la désinformation",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260929-ethiopie-les-combats-reprennent-et-alimentent-la-d%C3%A9sinformation",
-          "source": "France 24",
-          "summary": "Ces derniers jours, les combats se sont intensifiés dans le nord de l’Ethiopie entre plusieurs groupes rebelles alliés et l’armée fédérale. De quoi alimenter les fausses informations, parce que les internautes utilisent…",
-          "published": "2026-09-29T19:48:51+00:00"
+          "summary": "Le président argentin Javier Milei est à Paris pour défendre son bilan et attirer les investisseurs européens. Si sa thérapie de choc a permis de faire chuter l'inflation et de rétablir les comptes publics, la reprise…",
+          "published": "2026-09-30T08:26:54+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "À la loterie électorale…",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-09-29/a-la-loterie-electorale.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Campement Notre-Dame | Le nombre de tentes explose",
+          "link": "https://www.lapresse.ca/actualites/2026-09-30/campement-notre-dame/le-nombre-de-tentes-explose.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Lundi soir prochain, le gouvernement qui sortira des urnes ne sera pas nécessairement celui que les Québécois voulaient. Ce sera le résultat d’une étrange loterie dont le boulier est notre système électoral dit «…",
-          "published": "2026-09-30T00:00:00+00:00"
+          "summary": "Le campement Notre-Dame à Montréal est plus occupé que jamais, selon des données obtenues par La Presse. Environ 200 tentes y sont actuellement installées. Face à la crise, le Collège des médecins veut inciter ses…",
+          "published": "2026-09-30T09:00:00+00:00"
         },
         {
-          "title": "Arrestations de migrants par l’ICE | Des interventions en forte hausse cet été",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-09-29/arrestations-de-migrants-par-l-ice/des-interventions-en-forte-hausse-cet-ete.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Protection de la nature | Où sont passés les 100 millions du fédéral ?",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-09-30/protection-de-la-nature/ou-sont-passes-les-100-millions-du-federal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les agents du controversé Service de l’immigration et des douanes des États-Unis font moins souvent la manchette aux États-Unis, mais continuent activement de traquer les migrants pour satisfaire aux exigences de…",
-          "published": "2026-09-29T23:45:00+00:00"
+          "summary": "Les 100 millions de dollars accordés à Québec par Ottawa pour financer la protection de l’environnement ont disparu, mais pas dans la nature ; le gouvernement caquiste a décidé d’utiliser les fonds pour autre chose que…",
+          "published": "2026-09-30T09:00:00+00:00"
         },
         {
-          "title": "Le Canada ne présentera pas d’excuses aux États-Unis, dit LeBlanc",
-          "link": "https://www.ledevoir.com/economie/1013126/canada-ne-presentera-pas-excuses-etats-unis-dit-leblanc",
+          "title": "Carnet de campagne | La transition se prépare",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-30/carnet-de-campagne/la-transition-se-prepare.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "À bord des caravanes, nos journalistes sont témoins des coulisses de la campagne électorale, ces détails qui en disent parfois plus long que les annonces du jour. Aujourd’hui : incursion du côté de Paul St-Pierre…",
+          "published": "2026-09-30T09:00:00+00:00"
+        },
+        {
+          "title": "Un p’tit drink à 10 h 35 à l’aréna",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-09-30/un-p-tit-drink-a-10-h-35-a-l-arena.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Plus de 192 arénas de hockey au Québec abritent des bars qui possèdent un permis d’alcool. Et il se trouve que le bar de l’aréna peut servir de l’alcool pendant ses heures d’ouverture ou au maximum de 8 h à 3 h.",
+          "published": "2026-09-30T09:00:00+00:00"
+        },
+        {
+          "title": "Les cadres financiers corrigés et comparés",
+          "link": "https://www.lapresse.ca/affaires/chroniques/2026-09-30/les-cadres-financiers-corriges-et-compares.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Quel parti ferait le plus petit déficit budgétaire ? Qui réduirait le plus la croissance des dépenses de l’État (alerte à l’austérité…) ? Qui investirait le plus dans les infrastructures ? Voilà autant de questions que…",
+          "published": "2026-09-30T09:00:00+00:00"
+        },
+        {
+          "title": "Le pouls du Québec | Entre village et banlieue, dans Lanaudière",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-09-30/le-pouls-du-quebec/entre-village-et-banlieue-dans-lanaudiere.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "J’ai su que cette rencontre ne serait pas ennuyeuse dès que j’ai aperçu Jean-Marc Héroux, au bout du petit cul-de-sac où il habite.",
+          "published": "2026-09-30T09:00:00+00:00"
+        },
+        {
+          "title": "Le régime miracle d’Éric Duhaime",
+          "link": "https://www.lapresse.ca/actualites/editoriaux/2026-09-30/le-regime-miracle-d-eric-duhaime.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Dans le cadre de la campagne électorale, La Presse a convié les chefs des cinq principaux partis à une table éditoriale pour discuter de leurs engagements politiques et de leur vision du Québec. Tous ont accepté notre…",
+          "published": "2026-09-30T09:00:00+00:00"
+        },
+        {
+          "title": "Déclarations d’amour au slam",
+          "link": "https://www.ledevoir.com/culture/1013036/declarations-amour-slam",
           "source": "Le Devoir",
-          "summary": "«Nous allons tout gagner», a assuré Donald Trump lundi.",
-          "published": "2026-09-29T23:22:27+00:00"
+          "summary": "Le Grand Slam international de Montréal, fondé par Ivy, est l’occasion de célébrer 20 ans de combats de poésie.",
+          "published": "2026-09-30T04:00:00+00:00"
         },
         {
-          "title": "Parti conservateur | Le troisième lien financé par l’abandon du tramway de Québec",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-09-29/parti-conservateur/le-troisieme-lien-finance-par-l-abandon-du-tramway-de-quebec.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Après avoir annoncé qu’il n’injecterait pas d’argent supplémentaire dans le Plan québécois en infrastructures (PQI) pour réaliser son projet de troisième lien entre Québec et Lévis, Éric Duhaime affirme maintenant qu’il…",
-          "published": "2026-09-29T23:18:48+00:00"
-        },
-        {
-          "title": "Premier entracte | Canadien 1 – Maple Leafs 1",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-09-29/premier-entracte/canadien-1-maple-leafs-1.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Suivez en direct le match du Canadien contre les Maple Leafs de Toronto avec notre journaliste Guillaume Lefrançois.",
-          "published": "2026-09-29T23:00:00+00:00"
-        },
-        {
-          "title": "Nos cheveux ne devraient pas nous coûter un bras",
-          "link": "https://www.lapresse.ca/affaires/chroniques/2026-09-29/nos-cheveux-ne-devraient-pas-nous-couter-un-bras.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Lorsqu’il est parti de chez ses parents pour vivre en appartement, Chris Zou a acheté sa première bouteille de savon liquide pour les mains, de marque Softsoap. Il a choisi celui au beurre de karité, un petit luxe par…",
-          "published": "2026-09-29T23:00:00+00:00"
-        },
-        {
-          "title": "2027, année du centenaire de Phyllis Lambert",
-          "link": "https://www.ledevoir.com/culture/1013093/2027-annee-centenaire-phyllis-lambert",
+          "title": "PSPP déplore la «désinformation» et la «distorsion» de ses propos",
+          "link": "https://www.ledevoir.com/politique/quebec/1013072/pspp-deplore-desinformation-distorsion-propos",
           "source": "Le Devoir",
-          "summary": "Le CCA célèbre en grand le centenaire de sa fondatrice philanthrope.",
-          "published": "2026-09-29T22:38:00+00:00"
+          "summary": "Le chef péquiste estime que le système politico-médiatique rend «difficile» la tenue d’«un dialogue serein».",
+          "published": "2026-09-30T04:00:00+00:00"
         },
         {
-          "title": "Carte postale | Melissa Auf der Maur à Toronto",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-09-29/carte-postale/melissa-auf-der-maur-a-toronto.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Il fallait bien venir faire un tour à Toronto pour tomber sur une exposition des photos de Melissa Auf der Maur.",
-          "published": "2026-09-29T22:35:22+00:00"
-        },
-        {
-          "title": "Une dame âgée est morte de froid lors d’une panne en janvier",
-          "link": "https://www.ledevoir.com/actualites/sante/1013123/dame-agee-est-morte-froid-lors-panne-janvier",
+          "title": "Contre parti et démocratie",
+          "link": "https://www.ledevoir.com/opinion/editoriaux/1013045/contre-parti-democratie",
           "source": "Le Devoir",
-          "summary": "La coroner souligne que Sheila Padmore se trouvait dans un appartement privé d’électricité depuis 36 heures.",
-          "published": "2026-09-29T22:33:07+00:00"
-        },
-        {
-          "title": "Le métro a 60 ans et il a besoin d’investissements, plaide la directrice de la STM",
-          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1013111/metro-60-ans-il-besoin-investissements-plaide-directrice-stm",
-          "source": "Le Devoir",
-          "summary": "Près de la moitié du réseau est en mauvais état, affirme la patronne de l’entreprise publique.",
-          "published": "2026-09-29T22:04:31+00:00"
+          "summary": "Que la CAQ se nuise jusqu’à s’auto-pelure-de-bananiser, soit. Miner la confiance électorale est toutefois inacceptable.",
+          "published": "2026-09-30T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Aux Etats-Unis, la Cour suprême donne un nouveau feu vert à l’expulsion de sans-papiers vers des pays tiers",
-          "link": "https://www.lemonde.fr/international/article/2026/09/30/aux-etats-unis-la-cour-supreme-leve-de-nouveau-des-limites-aux-expulsions-de-sans-papiers-vers-des-pays-tiers_6785791_3210.html",
-          "source": "Le Monde",
-          "summary": "L’instance à majorité conservatrice a accédé, mardi, à un recours de l’administration Trump qui lui demandait de suspendre une décision des juridictions inférieures, permettant ainsi d’expulser une personne en situation…",
-          "published": "2026-09-29T23:31:06+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine | Lutte contre les drones à réaction russes, préparation à l’hiver… Ce que Kiev envisage pour les mois à venir",
-          "link": "https://www.lemonde.fr/international/live/2026/09/30/en-direct-guerre-en-ukraine-lutte-contre-les-drones-a-reaction-russes-preparation-a-l-hiver-ce-que-kiev-envisage-pour-les-mois-a-venir_6783795_3210.html",
-          "source": "Le Monde",
-          "summary": "Volodymyr Zelensky veut accélérer la production de moyens permettant d’intercepter les drones à réaction russes et a fixé des objectifs précis pour octobre.",
-          "published": "2026-09-29T22:46:42+00:00"
-        },
-        {
-          "title": "OpenAI pousse la logique des agents IA en proposant un genre de collaborateur virtuel actif « vingt-quatre heures sur vingt-quatre »",
-          "link": "https://www.lemonde.fr/economie/article/2026/09/30/openai-pousse-la-logique-des-agents-ia-en-proposant-un-genre-de-collaborateur-virtuel-actif-vingt-quatre-heures-sur-vingt-quatre_6785725_3234.html",
-          "source": "Le Monde",
-          "summary": "Dots, la fonctionnalité annoncée par la start-up lors d’une conférence mardi, rappelle la logique d’assistants IA capables de réaliser des tâches en continu, comme Muse de Meta ou OpenClaw.",
-          "published": "2026-09-29T22:15:02+00:00"
-        },
-        {
-          "title": "Un ministre israélien prend la défense de Jordan Bardella après des accusations d'antisémitisme",
-          "link": "https://www.franceinfo.fr/politique/front-national/un-ministre-israelien-prend-la-defense-de-jordan-bardella-apres-des-accusations-d-antisemitisme_8215484.html#xtor=RSS-3-[lestitres]",
+          "title": "Sur un moteur de recherche de données piratées, des informations personnelles d'Edouard Philippe, Marine Tondelier ou François Ruffin parmi celles d'anonymes",
+          "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/edouard-philippe-marine-tondelier-francois-ruffin-parmi-les-nombreux-concernes-par-la-fuite-de-donnees-personnelles-en-ligne_8215367.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Amichaï Chikli considère que Jordan Bardella \"est l'une des voix les plus claires en Europe contre le Hamas\".",
-          "published": "2026-09-29T21:53:10+00:00"
+          "summary": "Votre numéro de téléphone, votre adresse, et parfois même vos coordonnées bancaires… Les données personnelles volées lors de fuites informatiques se retrouvent à portée de clic sur un moteur de recherche pirate. Des…",
+          "published": "2026-09-30T09:16:40+00:00"
         },
         {
-          "title": "États-Unis : un requin filmé dans une rue inondée d’une ville du New Jersey en proie à une violente tempête",
-          "link": "https://www.lefigaro.fr/international/etats-unis-un-requin-filme-dans-une-rue-inondee-d-une-ville-du-new-jersey-en-proie-a-une-violente-tempete-20260929",
+          "title": "« Un signe de renaissance » de l’Église de France : retrouvez l’intégralité du discours de Léon XIV après son voyage historique",
+          "link": "https://www.lefigaro.fr/actualite-france/un-signe-de-renaissance-de-l-eglise-de-france-retrouvez-l-integralite-du-discours-de-leon-xiv-apres-son-voyage-historique-20260930",
           "source": "Le Figaro",
-          "summary": "Un habitant de la commune, située au nord d’Atlantic City, a pu filmer la scène avec son téléphone alors que le squale remontait l’allée menant à sa maison. La vidéo a rapidement fait le tour des réseaux sociaux.",
-          "published": "2026-09-29T21:48:49+00:00"
+          "summary": "De retour à Rome, le pape Léon XIV a tiré un bilan élogieux de ce qu’il a vu en France ces derniers jours. La jeunesse catholique l’a notamment beaucoup impressionné.",
+          "published": "2026-09-30T09:15:39+00:00"
         },
         {
-          "title": "États-Unis : un parc d’attractions californien ferme définitivement une de ses attractions phares après des plaintes liées à des lésions cérébrales",
-          "link": "https://www.lefigaro.fr/international/etats-unis-un-parc-d-attractions-californien-ferme-definitivement-une-de-ces-attractions-phares-apres-des-plaintes-liees-a-des-lesions-cerebrales-20260929",
+          "title": "Tennis : Arthur Fils enchaîne à Tokyo",
+          "link": "https://www.lefigaro.fr/sports/tennis/tennis-arthur-fils-enchaine-a-tokyo-20260930",
           "source": "Le Figaro",
-          "summary": "Les montagnes russes X2, dans lequel les sièges peuvent effectuer une rotation contrôlée en avant et en arrière de 360 degrés, font l’objet d’une grave controverse après que trois personnes ont déposé plainte après les…",
-          "published": "2026-09-29T21:42:05+00:00"
+          "summary": "Le numéro un français a largement dominé son compatriote et ami Luca Van Assche (6-3, 6-2) en 16es de finale de l’ATP 500 de Tokyo.",
+          "published": "2026-09-30T09:12:51+00:00"
         },
         {
-          "title": "Mobilisation dans la Fonction Publique : 206 000 manifestants selon le ministère de l'Intérieur, 300 000 pour la CGT.",
-          "link": "https://www.franceinfo.fr/economie/greve/mobilisation-dans-la-fonction-publique-206-000-manifestants-selon-le-ministere-de-l-interieur-300-000-pour-la-cgt_8215472.html#xtor=RSS-3-[lestitres]",
+          "title": "Blocage des lycées : aux avant-postes de la contestation, le jeu trouble de Bally Bagayoko et des Insoumis",
+          "link": "https://www.lefigaro.fr/politique/blocage-des-lycees-aux-avant-postes-de-la-contestation-le-jeu-trouble-de-bally-bagayoko-et-des-insoumis-20260929",
+          "source": "Le Figaro",
+          "summary": "ANALYSE - Accusés par le gouvernement d’attiser les braises de la contestation, le maire de Saint-Denis, Bally Bagayoko, et ses camarades Insoumis n’hésitent pas à se mettre en scène aux côtés des lycéens qui bloquent…",
+          "published": "2026-09-30T09:11:35+00:00"
+        },
+        {
+          "title": "« Comme dans Scarface » : l’incroyable expédition punitive d’un vaste commando de tueurs marseillais aux Pays-Bas",
+          "link": "https://www.lefigaro.fr/marseille/comme-dans-scarface-l-incroyable-expedition-punitive-d-un-vaste-commando-de-tueurs-marseillais-aux-pays-bas-20260930",
+          "source": "Le Figaro",
+          "summary": "ENQUÊTE - 16 Français ont été arrêtés dans l’est du pays début septembre, aux côtés d’autres malfrats étrangers. L’opération, ratée, visait un trafiquant de cocaïne local.",
+          "published": "2026-09-30T09:10:58+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine : la Russie vise des sites énergétiques à Kiev et tue au moins quatre personnes",
+          "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-russie-vise-des-sites-energetiques-a-kiev-et-tue-au-moins-quatre-personnes_8215995.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Près de 10 % des agents de la fonction publique ont observé le mot d'ordre de grève pour protester contre le gel du point d'indice.",
-          "published": "2026-09-29T21:26:57+00:00"
+          "summary": "Depuis le début de l'été, Moscou mène des raids aériens quasi quotidiens, de jour comme de nuit, contre une série de cibles dans la capitale ukrainienne.",
+          "published": "2026-09-30T09:10:11+00:00"
         },
         {
-          "title": "Présidentielle 2027 : Edouard Philippe dévoile son projet de retraite à 65 ans et 45 annuités",
-          "link": "https://www.lemonde.fr/politique/article/2026/09/29/presidentielle-2027-edouard-philippe-devoile-son-projet-de-retraite-a-65-ans-et-45-annuites_6785692_823448.html",
-          "source": "Le Monde",
-          "summary": "Dévoilant les grandes lignes de la réforme qu’il entend mener, l’ancien premier ministre promet des mesures de justice sociale, en permettant notamment à « un Français sur trois » de continuer à partir entre 60 et 64…",
-          "published": "2026-09-29T21:19:14+00:00"
+          "title": "Séances de psy, crises ésotériques, jurons… Les étranges expériences d’Anthropic sur la «conscience de l’IA»",
+          "link": "https://www.liberation.fr/economie/economie-numerique/seances-de-psy-crises-esoteriques-jurons-les-etranges-experiences-danthropic-sur-la-conscience-de-lia-20260930_4LRIJSXSR5HPROGAIHNLCSI2P4/",
+          "source": "Liberation",
+          "summary": "Niché dans les coulisses de la firme californienne, un service dédié au «bien-être» du chatbot Claude mène de déroutantes recherches. Enquête sur l’activité de ces scientifiques, jugée «trompeuse» et «dangereuse» par…",
+          "published": "2026-09-30T09:10:09+00:00"
         },
         {
-          "title": "Le Rassemblement national fait bloc autour de Jordan Bardella, visé par des accusations d'antisémitisme",
-          "link": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-fait-bloc-autour-de-jordan-bardella-vise-par-des-accusations-d-antisemitisme_8215460.html#xtor=RSS-3-[lestitres]",
+          "title": "Guerre au Moyen-Orient : l’Iran affirme avoir reçu une réponse des États-Unis sur son plan pour mettre fin au conflit",
+          "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-iran-affirme-avoir-recu-une-reponse-des-etats-unis-sur-son-plan-pour-mettre-fin-au-conflit-20260930",
+          "source": "Le Figaro",
+          "summary": "Téhéran a annoncé mercredi avoir reçu une réponse officielle de Washington à ses conditions pour mettre fin au conflit, sans en dévoiler le contenu. Les échanges indirects ont repris la semaine dernière, après plus de…",
+          "published": "2026-09-30T09:08:38+00:00"
+        },
+        {
+          "title": "EN DIRECT - Présidentielle 2027 : «LFI se sert de notre jeunesse comme chair à canon politique», juge Gabriel Attal",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-nous-reclamons-la-publication-des-ecrits-attribues-a-jordan-bardella-exhorte-le-depute-rn-julien-odoul-20260930",
+          "source": "Le Figaro",
+          "summary": "Invité ce mercredi matin sur le plateau de La Grande interview Europe 1-Cnews, l’ancien premier ministre et candidat Renaissance à l’élection présidentielle Gabriel Attal, juge que «La France insoumise se sert de notre…",
+          "published": "2026-09-30T09:04:03+00:00"
+        },
+        {
+          "title": "Accord entre les Girondins de Bordeaux et le fonds d'investissement anglais Park Bench pour la vente du club pour \"un euro symbolique\"",
+          "link": "https://www.franceinfo.fr/sports/foot/girondins-de-bordeaux/accord-entre-les-girondins-de-bordeaux-et-le-fonds-d-investissement-anglais-park-bench-pour-la-vente-du-club-pour-un-euro-symbolique_8215934.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le Rassemblement national serre les rangs autour de Jordan Bardella. Mardi 29 septembre, les responsables du parti ont pris sa défense, jusqu'à ouvrir exceptionnellement à la presse leur réunion de groupe à l'Assemblée…",
-          "published": "2026-09-29T21:15:44+00:00"
-        },
-        {
-          "title": "En Espagne, Emmanuel Macron livre ses recettes contre la montée des \"extrêmes\" en Europe",
-          "link": "https://www.franceinfo.fr/monde/europe/en-espagne-emmanuel-macron-livre-ses-recettes-contre-la-montee-des-extremes-en-europe_8215454.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le Président de la République fait le constat d'une fatigue démocratique sur le vieux continent et appelle à \"reprendre le contrôle\".",
-          "published": "2026-09-29T21:07:56+00:00"
+          "summary": "Le club aquitain avait été rétrogradé administrativement en division régionale cet été.",
+          "published": "2026-09-30T09:03:06+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "On a enfin roulé avec le Range Rover Sport Electric : il ne fait plus de bruit, mais c’est toujours un vrai Range",
-          "link": "https://www.frandroid.com/survoltes/3263853_on-a-enfin-roule-avec-le-range-rover-sport-electric-il-ne-fait-plus-de-bruit-mais-cest-toujours-un-vrai-range",
+          "title": "Forfaits Orange (2026) : notre comparatif des forfaits mobiles et des offres internet Livebox",
+          "link": "https://www.frandroid.com/marques/1279963_orange-notre-avis-sur-les-offres-mobile-fibre-et-adsl-en-2023",
           "source": "Frandroid",
-          "summary": "Quelques jours après son grand frère, le Range Rover Sport passe lui aussi à l'électrique avec une immense batterie et deux moteurs. Fidèle à son positionnement luxueux, le SUV britannique privilégie la puissance, le…",
-          "published": "2026-09-29T23:01:00+00:00"
+          "summary": "Orange revendique depuis longtemps être le meilleur opérateur en France, que ce soit sur le réseau mobile, le service client ou le nombre de clients. Que l'on cherche un forfait mobile Orange, un forfait Livebox ou une…",
+          "published": "2026-09-30T09:17:05+00:00"
         },
         {
-          "title": "On est monté à bord de la BMW i3, la berline électrique aux 912 km d’autonomie qui peut inquiéter Tesla",
-          "link": "https://www.numerama.com/vroom/2342045-on-est-monte-a-bord-de-la-bmw-i3-la-berline-electrique-aux-912-km-dautonomie-qui-peut-inquieter-tesla.html",
+          "title": "Loewe neo : chère enceinte portable IP67 de 50 watts avec éclairage",
+          "link": "https://www.frandroid.com/marques/loewe/3267061_loewe-neo-chere-enceinte-portable-ip67-de-50-watts-avec-eclairage",
+          "source": "Frandroid",
+          "summary": "Loewe dévoile neo, une enceinte portable de 50 watts, étanche et dotée d'une bande lumineuse. La marque communique sur un prix de 400 euros.",
+          "published": "2026-09-30T09:17:02+00:00"
+        },
+        {
+          "title": "Code d’urgence, alerte au détournement : le mystère du vol flydubai FZ1073 qui a affolé Flightradar24",
+          "link": "https://www.numerama.com/sciences/2343803-code-durgence-alerte-au-detournement-le-mystere-du-vol-flydubai-fz1073-qui-a-affole-flightradar24.html",
           "source": "Numerama",
-          "summary": "La nouvelle BMW i3 est la première Série 3 100 % électrique. Elle sera vendue en France à partir de 59 900 €, avec jusqu'à 710 km d'autonomie WLTP. Au sommet de la gamme, une version revendique jusqu'à 912 km…",
-          "published": "2026-09-29T22:01:00+00:00"
+          "summary": "Parti de Dubaï pour Tel-Aviv ce mercredi 30 septembre, le vol flydubai FZ1073 a émis un code de détournement avant de se poser en Arabie saoudite. Sur Flightradar24, il est devenu le vol le plus suivi du moment.",
+          "published": "2026-09-30T09:16:15+00:00"
         },
         {
-          "title": "Je suis monté à bord de la BMW i3 : 912 km d’autonomie et une débauche de technologies pour faire taire les sceptiques",
-          "link": "https://www.frandroid.com/marques/bmw/3263677_je-suis-monte-a-bord-de-la-bmw-i3-912-km-dautonomie-et-une-debauche-de-technologies-pour-faire-taire-les-sceptiques",
+          "title": "OpenAI lance Dots, mais Elon Musk semble avoir préparé le troll ultime",
+          "link": "https://www.clubic.com/actualite-631936-openai-lance-dots-mais-elon-musk-semble-avoir-prepare-le-troll-ultime.html",
+          "source": "Clubic",
+          "summary": "OpenAI vient de présenter Dots, son nouvel agent d’IA. Mais l’adresse dot.com renvoie vers Grok, le chatbot d’Elon Musk. Sur X, certains y voient un troll préparé à l’avance.",
+          "published": "2026-09-30T09:15:00+00:00"
+        },
+        {
+          "title": "Brosse à dents à 479 euros : Dyson explique la raison des pannes et présente ses excuses",
+          "link": "https://www.numerama.com/tech/2343865-brosse-a-dents-a-479-euros-dyson-explique-la-raison-des-pannes-et-presente-ses-excuses.html",
+          "source": "Numerama",
+          "summary": "Après la suspension des ventes de sa CameraJet, Dyson précise l’origine des dysfonctionnements : un défaut de fabrication aurait permis à de l’eau de s’infiltrer dans certains appareils. La marque assure avoir isolé les…",
+          "published": "2026-09-30T09:14:58+00:00"
+        },
+        {
+          "title": "Apple et Microsoft ont-ils vraiment jeté l'éponge sur les interfaces de Windows et macOS ?",
+          "link": "https://www.clubic.com/actualite-631876-wip-scott-jenson-critique-liquid-glass-et-les-pubs-de-windows-deux-symptomes-d-un-bureau-delaisse.html",
+          "source": "Clubic",
+          "summary": "Scott Jenson a créé le groupe Interface chez Apple dans les années 1980 avant de diriger l'expérience mobile de Google pendant cinq ans. Dans une conférence publiée par la communauté KDE, il estime qu'Apple comme…",
+          "published": "2026-09-30T09:10:00+00:00"
+        },
+        {
+          "title": "On s’est penchés sur le SUV électrique à 16 000 € qui bat tous les records en Chine : Lynk & Co 20",
+          "link": "https://www.frandroid.com/marques/lynk-co/3266507_on-sest-penches-sur-le-suv-electrique-a-16-000-e-qui-bat-tous-les-records-en-chine-lynk-co-20",
           "source": "Frandroid",
-          "summary": "À l'occasion de la présentation de ses tarifs définitifs, j'ai pu monter à bord de la BMW i3. Avec 912 km d'autonomie et une recharge en 21 minutes, la berline électrique propose une polyvalence proche de la Série 3…",
-          "published": "2026-09-29T22:01:00+00:00"
+          "summary": "Tout juste lancé en Chine, le nouveau Lynk & Co 20 a récolté plus de 14 600 commandes fermes en une heure. Il faut dire que ce SUV électrique est vendu à un prix très bas sur son marché, et qu’il possède de nombreux…",
+          "published": "2026-09-30T09:09:22+00:00"
         },
         {
-          "title": "La BMW i3 électrique aux 912 km d’autonomie est (beaucoup) moins chère que la Série 3 thermique en France",
-          "link": "https://www.frandroid.com/marques/bmw/3264095_la-bmw-i3-electrique-aux-912-km-dautonomie-est-beaucoup-moins-chere-que-la-serie-3-thermique-en-france",
-          "source": "Frandroid",
-          "summary": "Après avoir présenté son modèle dans les grandes lignes, BMW dévoile désormais les fiches techniques, les finitions et les prix de sa nouvelle gamme de Série 3, incluant aussi la BMW i3 à plus de 900 km d'autonomie.…",
-          "published": "2026-09-29T22:01:00+00:00"
-        },
-        {
-          "title": "Dots, Spaces, Codex, GPT-6.1 Sol : OpenAI vide son sac au DevDay",
-          "link": "https://next.ink/259022/dots-spaces-codex-gpt-6-1-sol-openai-vide-son-sac-au-devday/",
+          "title": "Piratage de la DGFiP : pas d’attaque sophistiquée, mais une série de défaillances techniques",
+          "link": "https://next.ink/259041/piratage-de-la-dgfip-pas-dattaque-sophistiquee-mais-une-serie-de-defaillances-techniques/",
           "source": "Next",
-          "summary": "Dans le petit monde de l’IA, beaucoup se demandaient quand OpenAI allait réagir face à l’offensive de Meta avec son agent Muse. C’est chose faite ce soir avec la présentation de Dots, un agent accomplit des tâches au…",
-          "published": "2026-09-29T19:29:47+00:00"
+          "summary": "Cet été, la Direction générale des Finances publiques (DGFiP) reconnaissait une intrusion dans ses systèmes informatiques avec l’accès à des données concernant pas moins de 678 000 contribuables et entreprises. Deux…",
+          "published": "2026-09-30T09:01:00+00:00"
         },
         {
-          "title": "« Se connecter avec ChatGPT » : votre abonnement OpenAI devient un moyen de dépenser des tokens",
-          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3266397_se-connecter-avec-chatgpt-votre-abonnement-openai-devient-un-moyen-de-depenser-des-tokens",
+          "title": "Fuite de données chez Carrefour : pourquoi vous devez vous méfier de vos prochains SMS et mails",
+          "link": "https://www.frandroid.com/culture-tech/securite-applications/3266909_fuite-de-donnees-chez-carrefour-pourquoi-vous-devez-vous-mefier-de-vos-prochains-sms-et-mails",
           "source": "Frandroid",
-          "summary": "Avec « Se connecter avec ChatGPT », OpenAI permet d'utiliser les tokens de son abonnement dans des applications tierces. Seize partenaires au lancement, et une facture IA qui ne se dédouble plus. Le quota, lui, va…",
-          "published": "2026-09-29T18:41:02+00:00"
+          "summary": "Carrefour a prévenu une partie de ses clients qu’un « incident de sécurité » chez l’un de ses prestataires avait exposé leurs noms, prénoms, adresses e-mail et numéros de téléphone. L’enseigne n’a pas dit combien de…",
+          "published": "2026-09-30T08:54:16+00:00"
         },
         {
-          "title": "Vous avez raté la conférence OpenAI DevDay ? On vous résume les annonces (dots, GPT-6.1, etc.)",
-          "link": "https://www.numerama.com/tech/2342271-openai-devday-2026-resume-annonces-dots-gpt61.html",
-          "source": "Numerama",
-          "summary": "OpenAI a tenu ce 29 septembre son DevDay 2026. Au programme : dots, des agents IA toujours actifs, un nouveau modèle GPT-6.1 Sol, des outils collaboratifs pour concurrencer Microsoft et Google, et un abonnement à 500…",
-          "published": "2026-09-29T18:34:26+00:00"
-        },
-        {
-          "title": "OpenAI lance ses dots et un GPT-6.1 Sol, avec des capacités tout à fait impressionnantes",
-          "link": "https://www.clubic.com/actualite-631870-openai-lance-ses-dots-et-un-gpt-6-1-sol-avec-des-capacites-tout-a-fait-impressionnantes.html",
+          "title": "Avant même sa sortie, l'iPhone Duo s'apprête à chambouler le marché des pliables : les chiffres",
+          "link": "https://www.clubic.com/actualite-631900-avant-meme-sa-sortie-l-iphone-duo-s-apprete-a-chambouler-le-marche-des-pliables-les-chiffres.html",
           "source": "Clubic",
-          "summary": "Le géant OpenAI a lancé, ce mardi lors de son DevDay 2026, les dots, des agents IA toujours actifs, propulsés par GPT-6 Astra. Le créateur de ChatGPT a aussi présenté GPT-6.1, un modèle aux performances proches d'Astra.",
-          "published": "2026-09-29T18:22:00+00:00"
+          "summary": "Apple débarque tard sur le marché des smartphones pliables, mais les analystes lui promettent déjà une place de choix. Seule ombre au tableau : des usines qui peinent à suivre…",
+          "published": "2026-09-30T08:52:00+00:00"
         },
         {
-          "title": "Spaces : OpenAI s’attaque à Notion et Google Docs depuis ChatGPT",
-          "link": "https://www.frandroid.com/marques/openai/3266335_spaces-openai-sattaque-a-notion-et-google-docs-depuis-chatgpt",
-          "source": "Frandroid",
-          "summary": "OpenAI a profité du DevDay pour glisser Spaces derrière dots : un espace de travail collaboratif dans ChatGPT où pages, fichiers, collègues et agents cohabitent.",
-          "published": "2026-09-29T17:38:44+00:00"
-        },
-        {
-          "title": "GPT-6.1 Sol vs Astra : presque le même niveau pour un cinquième du prix",
-          "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3266265_gpt-6-1-sol-vs-astra-presque-le-meme-niveau-pour-un-cinquieme-du-prix",
-          "source": "Frandroid",
-          "summary": "OpenAI présente GPT-6.1 Sol au DevDay, sept jours après GPT-6 Sol, au même prix et avec des scores qui frôlent ceux d'Astra, son modèle haut de gamme. Derrière la course aux benchmarks et le mode Ultrafast à 300 tokens…",
-          "published": "2026-09-29T17:34:04+00:00"
-        },
-        {
-          "title": "Drôle de pub ! Anthropic alerte contre les \"risques existentiels pour l'humanité\" de l'IA dans son prospectus d'introduction en Bourse",
-          "link": "https://www.clubic.com/actualite-631867-drole-de-pub-anthropic-alerte-contre-les-risques-existentiels-pour-l-humanite-de-l-ia-dans-son-prospectus-d-introduction-en-bourse.html",
-          "source": "Clubic",
-          "summary": "Anthropic prépare son entrée en Bourse de la plus originale des manières. Le géant de l'IA consacre une bonne partie de son marketing à indiquer que sa technologie pourrait mener à la fin du monde !",
-          "published": "2026-09-29T17:28:00+00:00"
-        },
-        {
-          "title": "OpenAI lance déjà GPT-6.1 Sol, une semaine seulement après GPT-6 Sol",
-          "link": "https://www.numerama.com/tech/2343303-openai-lance-deja-gpt-6-1-sol-une-semaine-seulement-apres-gpt-6-sol.html",
+          "title": "« On attend désespérément les batteries Long Range » : pourquoi le made in France pénalise Citroën et Peugeot",
+          "link": "https://www.numerama.com/vroom/2343809-on-attend-desesperement-les-batteries-long-range-pourquoi-le-made-in-france-penalise-citroen-et-peugeot.html",
           "source": "Numerama",
-          "summary": "Sept jours seulement après GPT-6 Sol, OpenAI annonce déjà son successeur : GPT-6.1 Sol, toujours cinq fois moins cher que son modèle phare GPT-6 Astra. La course au meilleur modèle n'en finit plus.",
-          "published": "2026-09-29T17:17:58+00:00"
+          "summary": "Même si l'usine de batteries ACC à Douvrin a augmenté sa cadence de production, l'approvisionnement reste insuffisant pour suivre la demande chez Stellantis. Une situation paradoxale qui contraint le groupe à mettre…",
+          "published": "2026-09-30T08:50:04+00:00"
+        },
+        {
+          "title": "Une nouvelle série Spider-Man va s’attaquer à la saga la plus folle des comics",
+          "link": "https://www.numerama.com/pop-culture/2343811-une-nouvelle-serie-spider-man-va-sattaquer-a-la-saga-la-plus-folle-des-comics.html",
+          "source": "Numerama",
+          "summary": "Alors que la série Spider-Noir a été arrêtée début septembre après une seule saison, Prime Video et Sony Pictures Television ajustent déjà leur stratégie. Une nouvelle série en prise de vues réelles, centrée sur les…",
+          "published": "2026-09-30T08:44:59+00:00"
         }
       ]
     }
@@ -325,11 +325,165 @@
       "label": "Actualites diabete",
       "items": [
         {
-          "title": "Ozempic, Wegovy, Mounjaro : pourquoi l’antidopage commence à surveiller les médicaments amaigrissants",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlpjLUxfdWEtcl9WWnpfUkdMTVdEem5WRm5MaklVaUg3STVkN1k4cnl1Y3praHBEYXJsWHFIbllkWkpQZ1ZCdGxTb0IxMFNxVFdZUlRtSzU5ejljNFlZRHJHaUI0azB6ajBINHl6UDY0cWNmR0NqdnI4ZWdoVEZfbTN1eGxDV3c5c0l0Zm10RkRWdjl3aEx5M2xfOTRvTXNlSmZNbU9sTkFCa3N4SGRPOVNaTm9aTzI3U0tCWlFXUQ?oc=5",
-          "source": "u-Trail",
-          "summary": "Ozempic, Wegovy, Mounjaro : pourquoi l’antidopage commence à surveiller les médicaments amaigrissants u-Trail",
-          "published": "2026-09-29T23:39:16+00:00"
+          "title": "Huawei Watch GT 7 can now assess diabetes risk in selected markets",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1RXRzEwYVBVWWoxeDZXSHhmcElIOXdRbmVXV0hndDJGYV9PdVlwUUhFbHpLRHNhSk9NSG0tRUxqbmxnVUlKZUFuWGJvVmFXU3VuYm5xZ25yTmQwempkZEdZQnhWaDdmRFJ3SVZoWk1hQjhSc1dBQldxa0tham5QdmxBb1pILXAt?oc=5",
+          "source": "Gadgets & Wearables",
+          "summary": "Huawei Watch GT 7 can now assess diabetes risk in selected markets Gadgets & Wearables",
+          "published": "2026-09-30T09:00:44+00:00"
+        },
+        {
+          "title": "Prescriptions for most BD and some NovoFine insulin pen needles are changing - how this could affect people with diabetes",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVRYZ0QyZEY2c3lGUVFETFFfSFRydUJfWDBIT01LeGlVLTRTbUxfVEY4SzFwUVNjajRtTVJqVDk3d3VFWlBqM3hCaG8tbWRCNGdma250alN0Y0M0bHdkUW5FbVBCcUY5Z1N0WUFrRFhWUmN6bS1fNDJjeXR0TTFyTXpNNk9fWTdrcGJOU0h4cUtKS1VaRmJkZTVBQ1h0d3lHblNmQXpFWm5pTmRjWkhCOWJyeGtDUDd1OThRZnlkMTFxQQ?oc=5",
+          "source": "Diabetes UK",
+          "summary": "Prescriptions for most BD and some NovoFine insulin pen needles are changing - how this could affect people with diabetes Diabetes UK",
+          "published": "2026-09-30T08:58:33+00:00"
+        },
+        {
+          "title": "Comment la marche peut-elle contribuer à réduire le risque de diabète ?",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jcHlzcF80Q3VydmZTVmZzTkliQlNTTF9wMGN0Y2RIcFg3bXgzQkljNEVtSWZnUGNvSlVzUzN6VUJuOFUxX2tIS0JDNF9xWlVWNDFhMWVTSDJuMUs5RzlYYzVtc3pvUWc4cV90WnRjbkxMajZ3LWY0?oc=5",
+          "source": "Vietnam.vn",
+          "summary": "Comment la marche peut-elle contribuer à réduire le risque de diabète ? Vietnam.vn",
+          "published": "2026-09-30T08:36:24+00:00"
+        },
+        {
+          "title": "Grossesse et diabète de type 1 : résultat de l’étude sur leur vécu",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkswSjRoVEhUa2hyQ0pkRFdzUWhDNGhETkZOSnJtclhWRlhtdzNrX0RWeVdwWkcwMUdCOVBTNE9QS2ZSZzVZQ3liLW5ZRjc3Si1kWWdOVFh5bG1TaXpFaUlCcTZMMF9IY2VxUVZPV3VoanpubzllUXZwNXZYdE5aVDRmcURXQk8y?oc=5",
+          "source": "Fédération Française des Diabétiques",
+          "summary": "Grossesse et diabète de type 1 : résultat de l’étude sur leur vécu Fédération Française des Diabétiques",
+          "published": "2026-09-30T07:46:43+00:00"
+        },
+        {
+          "title": "One Sugar Found in Red Meat Was Linked to a 63% Higher Diabetes Risk",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmZ3b2xERllVMF9XNFhyZEN3M20zRUNBMVlfM2tERGZoc2pYWG81aU5JTFFwQnFFQy1ZVUJSeVdfMXBfSk52QnNmWXYtdXd0UDNIQjV3dVVYWUFabjVmUWNXanJncUYxYlNEbzFyM28zdGw3UUU4S1lOdkQwdHhnQkdocU5mNFVwdlRjcWJ0RW5UU0F0U1JBU1doaGhncml5N2hv?oc=5",
+          "source": "newsweek.com",
+          "summary": "One Sugar Found in Red Meat Was Linked to a 63% Higher Diabetes Risk newsweek.com",
+          "published": "2026-09-30T07:42:00+00:00"
+        },
+        {
+          "title": "Budget 2027 : \"Il y a trop d’obésité, trop de diabète\"… Une taxe sur les produits sucrés est \"sur la table\", la prime d’activité ne sera pas indexée sur l’inflation",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxObUdJN29DUWVCYlFMY2cwTGJFMXUzLUpQcTJUY0ZkSUpZazliVkFBV0QzUk5CUHRUVkFUVkJoNjN0RXVtb3V4ekMwQV9KdmFraWJwNlpzOV8wVVpXZ2JpNHI5ZUgyRmR0cWFvd0NGVWhkWGMxQXBoeHpua1h5NElPMUgwN3g2bUpZS1pDaGF4cWpTWVlrUnpDZ1k4ZmlnOWZyZWJCbnczVWxMc09XNzVfNHhGRnp1OXZLeWEyUnk2bHNOcThsdmVPSXRBN2JaQWxldUVGZk4xM1htNExIZ0hFTDN3ZlZUWFJjZXNwVW9XZDZHNkNFRi04YnRVYUNHSEFsRmU0dElXS2xNS3NQVHdLei1RakNkbEZOcEFlZ3J3?oc=5",
+          "source": "L'Indépendant",
+          "summary": "Budget 2027 : \"Il y a trop d’obésité, trop de diabète\"… Une taxe sur les produits sucrés est \"sur la table\", la prime d’activité ne sera pas indexée sur l’inflation L'Indépendant",
+          "published": "2026-09-30T07:38:00+00:00"
+        },
+        {
+          "title": "\"Il y a trop d'obésité, trop de diabète\": le ministre du Commerce confirme qu'une nouvelle taxe sur les produits sucrés est \"sur la table\" pour le budget 2027",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQTVNRX1NrOGJzY25UWTM3ZkphOFFaV2dzWFRyWWpueHE5MnJjTVp5SWtJcm1lWmVaU2tWc3dxWTNkeFd5YThvOVZndFBOamVRb2M0MUJXMXNrdFlvbmVNMjl4bC11NDhMYWdHNXJ0UFJha3NNZXE4M1NtaS05UUx1WHJ5YXVvSkJXc3dqVUpMSkY1a2hTN2xRdUQ5R3BiM0ZvUlljM1RjZkxTX3hBTUJZbkdYTkFWUzZGQVRnWDhuSmh2U1pBbUJ0b3hLd0FnVFNNNHRvVDNTTnE4REdZNmRLVE9WdzNkU0VHREZMbFh5SVh1TzBfWTJJU0s1bW9mMjN2LUUyc2pmbGxyT2lDX01NLTY3ZHR0NDdIb0VpalNZa3BvN2h3NEVxQ3ZmbkI4RjQyaWRoWXJoaHEwQ3hxelE?oc=5",
+          "source": "BFM",
+          "summary": "\"Il y a trop d'obésité, trop de diabète\": le ministre du Commerce confirme qu'une nouvelle taxe sur les produits sucrés est \"sur la table\" pour le budget 2027 BFM",
+          "published": "2026-09-30T07:37:38+00:00"
+        },
+        {
+          "title": "«Il y a dans ce pays un problème d’obésité et de diabète» : Serge Papin défend le bien-fondé d’un débat sur une nouvelle «taxe sucre»",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORk9ER3ltOEZlRGhxdmluVEJjVlJvOU13Qjl2MUoybjBucHp6cEpxMGduNkwtaWlFNEFGSkRtTWpaOU9hQnQtTXJlejVkbWRuSkNaNkpYX04td2N4Sk0wSWVnTUFNOXlJaDFVRXBqSXMyenpLNnBEMGpwWlZmZ25yVUYwZGF6cG9YNFNIalhpQnhIQVl0NHRLRHh1UkFodkd2NzAxbmhVdGNHdnRnV1FsRlZ3WDJrdU9JVnNrM3Vza2xHa01HcDFhSWNxZnVfUDlNa3RORmktZ2dvNXF0YndNUnQtSEU2aHhjcWlpdWVhQzRXUURvUkxGWnBVQUtBbFpJblE?oc=5",
+          "source": "Le Figaro",
+          "summary": "«Il y a dans ce pays un problème d’obésité et de diabète» : Serge Papin défend le bien-fondé d’un débat sur une nouvelle «taxe sucre» Le Figaro",
+          "published": "2026-09-30T07:35:19+00:00"
+        },
+        {
+          "title": "Immune Endotyping Enables Risk Stratification in T2D: EASD 2026",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjJ3dVFlY0t3WlRZMWFHUm5PMmFEUEo1RHFpbmRuT2R5U0s2aE96TlV6TVo3a2R3S0NnME1mTG85NWlWem1iMUhmWjJ5VmxLcnF1WmdCbVRPOEVmbFdkUjFXNzcxS0xGWmd1clBsemk2dlE5VTdFeTdHSGhRNFpEUGZqNnRzOFRUSW5PSFRQaUFjVEFWSm51R25VV0hCX1RsUkNTY3RtMA?oc=5",
+          "source": "European Medical Journal",
+          "summary": "Immune Endotyping Enables Risk Stratification in T2D: EASD 2026 European Medical Journal",
+          "published": "2026-09-30T07:29:55+00:00"
+        },
+        {
+          "title": "« Il y a trop d’obésité, trop de diabète » : bientôt une nouvelle taxe sur les produits sucrés ?",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZHVkQVhXYzhtbnBMdnRTcWhodGJkRWZuM283aGQ4TFk4VTI3SWlNSVl1eEEtcEVxMktOcUR5WDV2alVaUkZDNV9lUlVzSG5ZNUZzSEh0aFE1NW14eUxILS12X2t5UGowTGNneUpDY1RsMEhFcjV0Wl9ISDN5Qkp1ZE13OEtiZkJ4WjJoTU4xVGw3SjRCXy10SDlDcm5Bd2NMT2lUUDI5M1AwdzZwR2VNSUF3TWFRWU9hRHpUOHlhS2EwNlNtSHZROHRSaVA?oc=5",
+          "source": "letelegramme.fr",
+          "summary": "« Il y a trop d’obésité, trop de diabète » : bientôt une nouvelle taxe sur les produits sucrés ? letelegramme.fr",
+          "published": "2026-09-30T07:27:12+00:00"
+        },
+        {
+          "title": "The Myth of Brand Control: the case of Ozempic",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWZ2WlA4cjQwR1VqWkE3R0MtU1RRXzNYZk5tdEVxZWJ6UDB1Y2tiYzhGMmVwNGYtNEstQmpDeHlxdndpNHd2V055VEI4SDdzZHRuaXJRYVhKWHV5cjFiOFdLbEFfN2tWZUYwV00tM081WlNTakJndUJYOFZxMm5IX0VpSEdGYTlkMEpTVi1pMzFkc3lTSjFZNHFDLXF5WndyYXlaZTlhTGxCTklNQkF3?oc=5",
+          "source": "ScienceNorway",
+          "summary": "The Myth of Brand Control: the case of Ozempic ScienceNorway",
+          "published": "2026-09-30T06:56:15+00:00"
+        },
+        {
+          "title": "Diabetes tech company MiniMed hires ex-Incyte GC as next legal head",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUjZzQkpxVXhnUkxSWjBxWFUzMVc3ZmxES0lObDAtakVOaFdTaUZhNWR6RlZEWHowQ0o3YnhtRzhlZkpBdzBqb21HWGl1MTM4UVpGWDRrbnI0NjVEQVExdnltS3Z1YjJwWk1iMl8zamRTNzB0QTgxalItbzBHYVFuYUZjUkwxZ1RZdXhDMk9aeThPSzZfakU5U216N1EzenA4cUV1RnpHWWUtN0IweXJBdWJDdUo0dw?oc=5",
+          "source": "The Global Legal Post",
+          "summary": "Diabetes tech company MiniMed hires ex-Incyte GC as next legal head The Global Legal Post",
+          "published": "2026-09-30T06:50:00+00:00"
+        },
+        {
+          "title": "Cyberabad police register case against YouTuber Veeramachineni Ramakrishna over Type-1 Diabetes cure claims",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVlZ1MjVjSGgzNERoSlBLbGVSekFHbkpra0NjVFhmSzQ1U0ZnVFVCUGc3WVlKdnpTNjBJZmRja01jaG1HdkhfV2RBT1RqeHBfRmJ6SVhINzFqeVFpRldOamo3djJpa0I2RThjWEdhRWVkdlNpQkhubFVIbzlyUW05OGNlZVlxQWVqS2kyTDVKMHlEamE0M21RbmlTQVFiS2JaZ1hEaXgyQzBKdDIyN0VGRE5Rc0NLQ3Y5Qy0xbk9rTWl2UU1RSWJfbE9UMzRBdmJCNFM5NHBseXhzUWdX?oc=5",
+          "source": "The South First",
+          "summary": "Cyberabad police register case against YouTuber Veeramachineni Ramakrishna over Type-1 Diabetes cure claims The South First",
+          "published": "2026-09-30T05:37:13+00:00"
+        },
+        {
+          "title": "Le salon des aînés de Binche : êtes-vous diabétique ?",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1Z5eUN2elk0azJEVEQyVzMtZjV1a1NVZlJmSkhZd0JvUE9JamEwQ0VGbkp6MU9uTXlxNUJQZEdDWmJ6eld5WE02TVFzN29JNzM3U0VaeHd2YXVEUE4tT1lDTjVid0dQMFJnWjBOUTZaYXlIaWI0ZnhPWDdSRUN6MGwtNlQ4N2lnRjVQLW1raw?oc=5",
+          "source": "RTBF",
+          "summary": "Le salon des aînés de Binche : êtes-vous diabétique ? RTBF",
+          "published": "2026-09-30T05:26:20+00:00"
+        },
+        {
+          "title": "Ces signes dans votre voix pourraient révéler un diabète : un test de 20 secondes permet de déceler la maladie plus rapidement que les analyses de sang",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQNFRBS1pVVVZ0UHcxSExEdzhLVlJWenNxbjNOeHVqZ2sxeGkyakhBaWNLRzMxMldLbkY4eHZsaUJTNzA3OFJPZ01LSWd6N2lFdlRPbkZjQlJHcDc4NlpYdVZVRk9DeGpITW5jRzIzS2lnZ2lXZlJldUpmc3pwb3RpampYQU5LTGJoYnktRmU2WWxWRjE0NVB1NFlweFBnMElxdmpwX0RDY0lZdmlodWczS0ZLc3lVYjlGc3Z5cV82YVN1MTBxR1JpQmVYSUZHU3NFTHFJVWtZaVhtUFRLSkg3T3BGV0xpQ2VudThuQ1ZWcVNmNmQ3SGFVNWM4b29WZmlHcFZqV3dlWHppSzZRZFJRMHdNTkJyTlFTRXhCYm9Va1gzOW5fUE1pbjFYN3M5R19SNGtVQXd5dVBzUXNYMTNV?oc=5",
+          "source": "Top Santé",
+          "summary": "Ces signes dans votre voix pourraient révéler un diabète : un test de 20 secondes permet de déceler la maladie plus rapidement que les analyses de sang Top Santé",
+          "published": "2026-09-30T05:23:12+00:00"
+        },
+        {
+          "title": "EASD 2026: Study finds reassuring signs for diabetic and weight loss drug use around pregnancy, but questions remain",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTldRc1Nya0F4WjZFZTM4QWNsRjZFVUhGTUJuUFB2MFQ4Zzl4Q2VERVFoVWVrdDRvSkc1cXFCUnNZODg3YlRlM1RjMzRxa2VpS19EZ3JLY0lCWV91bE9CaEhxWXJwcUZVRHZzTU9DTVJ0T3VWY0NaVjVtM01tQXdMS0t4Q01IZTVFbGlqY010enNBWkV5dVliRU5teXdMQ0FCRld5bkV3ZDhNOG1xU2JtT0ZnNU5UdUNNT2ZTQ0lMZ0hybEtfNkZ2eGhMQWJ2ZVVoVzZkeDVwVmRNT0E?oc=5",
+          "source": "diabetestimes.co.uk",
+          "summary": "EASD 2026: Study finds reassuring signs for diabetic and weight loss drug use around pregnancy, but questions remain diabetestimes.co.uk",
+          "published": "2026-09-30T05:01:40+00:00"
+        },
+        {
+          "title": "Higher-dose semaglutide tied to lower cardiovascular risk than switch to tirzepatide in real-world study",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oYV9TVzVtbjlxQktzVklwYnZyWkY5aEEyZ2RhS3EwZ216SjZoLWJCRGo4UlU2dXY5dmtDT0lpbjlsamY1WWUzM0ZaeFN0MmYzaTVqOFFSWUM3M3FOSEY2WjNUMXhMUnUxTWZHd1pB0gFyQVVfeXFMTlBOWG9LeTA1ZkxBV2dwQ20wcHhldThxeU15dXpxRjlCc21QUnhUNWVrRllzMEg4dDFVd0NNTUduNV9NSzBtVzEycUdZajBJTENTa0hITFRlRUJiNU83dk5aRjBTczdKbFdZVFVadHBPUjBB?oc=5",
+          "source": "Korea Biomedical Review",
+          "summary": "Higher-dose semaglutide tied to lower cardiovascular risk than switch to tirzepatide in real-world study Korea Biomedical Review",
+          "published": "2026-09-30T05:00:11+00:00"
+        },
+        {
+          "title": "Worsening Time in Glucose Target Range Linked to Microvascular Complications in Type 1 Diabetes: Study",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb1pBaVd0d3VTaEZmZzVSQ2ZQRUI0UHRNMDhMWTNzRXR3Rm12TV8zeHZoUWlJN3ZqVmJyUXo3NWxwZHlFbmEwR19jVmttOUdLTVZuRTlBZ0x3NXJVNVF1QV9TYk01aWZqV0pvaGl0dGR5dGkzOGZtM0ZKM2k2NXVodUlDT2lZZkJLc0tVOW5sSGpCMkJFZXROQUZpLTBZcVR5MGk3SHhuQk56SjdUQy1FanV0YzlubHI5cl9hZi1feFJ5RUhjRUxIQUQzWmtLMk4zWFVSdW8yMEpNa0lXTFR4Nlc2MDd3X1B6VG4waUNXVWZDT2ZjSTY40gH8AUFVX3lxTE5yX1FVT01YUEc5QTZhR1N4MkdOZE9qRTdNUGZsR2s1ektMTDZ4VVI4QjZ3cTJxbWpDS2NYLTc4Y3dGYTVkV3JESHNMTDhZU2RPMnZZTzllUFJMb3lvbTdXYUpqSFBIWnI4MEsxd0p1YlNzSXA1MkM0T0RXRW5XUEYzcVJfcVhBVENRWG0wRFk2X0xqNDA2ejZoQ1FiR1N3S0l6Zmd6U1pSX3A5MUxVVzJXaUx6Wm5MdzZIdFFnNC1BaHMxb19fNjZMOV9VbGFEcmtuMGZfdXhtTVpLSEtJYUdoZWNFVTFyWDRDRHpacEtqbV9FZTQxeWtPdmJvTQ?oc=5",
+          "source": "Medical Dialogues",
+          "summary": "Worsening Time in Glucose Target Range Linked to Microvascular Complications in Type 1 Diabetes: Study Medical Dialogues",
+          "published": "2026-09-30T04:00:53+00:00"
+        },
+        {
+          "title": "Hoda Kotb Shares \"Worry\" Over Daughter Hope’s Health 3 Years After Diabetes Diagnosis",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTRqUVNmeDMwVHV2OFVxeUpWYjhHdW9rVkV2SVpFTlAxbmM3SHgwS0h5UDlaNzdJY3duOUR5MXhBQjkyWU1LV1lwd2JGeUFBeWp5QnQ2cVhiR25KSDE3NzRFeEh4QkRLVTB0ZDRXQmhOMjUxamJ3UzRzUDZqazZlM0NoZlRSd3ZkREFPSWVuSjNwSUFpTHc?oc=5",
+          "source": "E! News",
+          "summary": "Hoda Kotb Shares \"Worry\" Over Daughter Hope’s Health 3 Years After Diabetes Diagnosis E! News",
+          "published": "2026-09-30T02:43:00+00:00"
+        },
+        {
+          "title": "Diabète : Un contrôle strict de la glycémie n'est pas synonyme de mieux-être",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcEVlRlRuZi1jeEJkM3Q3VW0wMVJrUElOdXlDdUJ1NjI0dlhfTzZTcGJDQ3E0U3hIdTRITFVZY0EyQ3lULVRBdUhUblg1RkN3bmVjeG5uNVNQcUhYdW1sWjIxdm5LbmZoeHFvZXBHdUlnemJMMUlZYzJ4RWJDMmZxamMwZDY5eXcyVWxkVDBNVjNBUUFSUklDQzFoMFJqeGQ1Tl8xbEdhRlhHZlJFNzlyNXVEa3A0VVNNbHdlVjN5M2RUMk8tMVE?oc=5",
+          "source": "Fourchette et Bikini",
+          "summary": "Diabète : Un contrôle strict de la glycémie n'est pas synonyme de mieux-être Fourchette et Bikini",
+          "published": "2026-09-30T02:30:04+00:00"
+        },
+        {
+          "title": "Researchers find stem-like immune cells that may help type 1 diabetes persist",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWdZcnRtVDA3cXRsY0JaYVEtcnlRdk10eGRDT21WWUlqM3FBZGhFZkdzNDlVY0U5OVlwT0hhVjg2c3RrT2NSZDdZZ20zaS1kcVFFLTFqSGVaMHlucG9STzNJNVM4Q3hUVDkzb1YzbzJsOUdTRmFfZ3BIQnJqWkN2bEthX19wVE1JQ2NPQVNtS21fX3BOQm81M3NiVWZadlRCMWMxNFA5ZENQV2pFSElNUDJIMkhFUC1JMm0wVl8xMDI?oc=5",
+          "source": "diabetes.co.uk",
+          "summary": "Researchers find stem-like immune cells that may help type 1 diabetes persist diabetes.co.uk",
+          "published": "2026-09-30T01:10:25+00:00"
+        },
+        {
+          "title": "A Simple Pill Could Treat Diabetic Eye Damage Before Vision Is Lost",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDI5WTFwSkpBelc1TERsUG9qbWZZWE1NSFlwa0Y5UFRfNzhXT2R6Q0hLOFZPZ0xOTVg1ZkRjQTRXek4tam42Y0RJMXU1eHVudWlOaDkwbHNUb1U2VTFMWmpJd0VKNjdTV2JpSjg1UU9aQUk0THhsRXg2UHZpeW9nbVdPeElUSXlRTGNVaEdJRUFvLW56ams5Sw?oc=5",
+          "source": "SciTechDaily",
+          "summary": "A Simple Pill Could Treat Diabetic Eye Damage Before Vision Is Lost SciTechDaily",
+          "published": "2026-09-30T00:48:00+00:00"
+        },
+        {
+          "title": "Eli Lilly’s Retatrutide Shows Large Weight Loss in Two Published Trials",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVluMi1kekVvbjZubDVlU05UNXZYRWp1Vkg1dXZ1VVB4bm1SdkgxaEZTUjUzRnpBV2otSjB5TjNYWlFyRkFaeVZKWkVPRWJWVlZXVUpNTE5RNmdvMkc2amVnNTlZU0VVNl9jS2RZRlRSbExYaTRxRm1IUmhzNGlWU1JuMTdLbU1BSDJGa2tHT1pKR21DOHg4Skx1SmowRlJJSWhMbVdqSlVMb1BQS3VJ?oc=5",
+          "source": "northeasttimes.com",
+          "summary": "Eli Lilly’s Retatrutide Shows Large Weight Loss in Two Published Trials northeasttimes.com",
+          "published": "2026-09-30T00:06:59+00:00"
         },
         {
           "title": "Dr Oz links obesity epidemic to diabetes, heart attacks and soaring healthcare costs",
@@ -339,39 +493,32 @@
           "published": "2026-09-29T23:33:13+00:00"
         },
         {
-          "title": "Mary Tyler Moore’s Most Famous Fits Inspire a New Collection Benefiting Diabetes Research",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcTFBb2xzSm9YQXZWRWRMOW9uQ0xFdzl0ekRlUTd2WnBVaVBOV0hDQjIzLUdpcTVjcG9nYkRHOWFBaE9xUWdJMVJ4SGNaREIzWG4yVk5Dblh0UC1UUHVWbDEtM1pCUGNRNlZFbTRhLVVlX2JDLUR2b2NXY2JKU1VpYThqdWxnMExseHBSNFdLVXhZWjRaLUdJOU5R?oc=5",
-          "source": "Yahoo",
-          "summary": "Mary Tyler Moore’s Most Famous Fits Inspire a New Collection Benefiting Diabetes Research Yahoo",
-          "published": "2026-09-29T23:13:32+00:00"
-        },
-        {
           "title": "Harold Hamm gives $150m to Oklahoma for diabetes research",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTNPcC0wZFliaktaUHBRYzRQd0xVMmlPaHlDNjZwMDdQeGYyWUJ2STAxSkt6VjFQZHBIdVIweGdqQ2s4OXJTWklGSVNxSlZ5Z3NKWVZZa3dXcFBleWxlQVM5b29PXzNseTNLMi1GX0JiaUMzRm8tclZMV2x2LThoWUlQSVJiSW5qR2VyS0p4dGRKVFVlOXpySVpvRENLUGREZFZKSFpteXFfaXBqbXh6MVFvY2FROHlMZzFjc2VURUVOdw?oc=5",
           "source": "Billionaires.Africa",
           "summary": "Harold Hamm gives $150m to Oklahoma for diabetes research Billionaires.Africa",
-          "published": "2026-09-29T23:11:46+00:00"
+          "published": "2026-09-29T23:14:25+00:00"
         },
         {
-          "title": "Retatrutide Led to Significant Weight Loss in Newly Published Diabetes Trial",
+          "title": "Mary Tyler Moore’s Most Famous Fits Inspire a New Collection Benefiting Diabetes Research",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTlvVU83Tm9JbDFkOGJVRlhjSzVyYUZsYnNudWJIWl9ZdWgybkNtR1F1UHktOWhfRTdvdW15aTQ1SXZlYmt2QUo3X2xIT29TdzNESm91QXMxNzhwNEFqTWdnb1dlQS1kMzNGTW9xWmRqTDcyQ1FyVFRkbld1SDJCUXcxZEtpajJ4Y3JCTTRtSGdpUGNxeHpKMTdSdnRka2lISHZPemNtcElXTTlSUlhrN01leWVoRTRGQTFBX2VWV2pHUQ?oc=5",
+          "source": "The Hollywood Reporter",
+          "summary": "Mary Tyler Moore’s Most Famous Fits Inspire a New Collection Benefiting Diabetes Research The Hollywood Reporter",
+          "published": "2026-09-29T23:13:53+00:00"
+        },
+        {
+          "title": "Buzzy GLP-1 Drug Retatrutide Led to Dramatic Weight Loss in Diabetes Trial",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVy14VlVkRkNGSUVkZUEyYk1aazNGam5IRmh4OUphLVBYcTBWb3RCLXViemFXZFFlYUN4ZU1TUG9PenVUci1SVmV2QmQ0M3BEb0YzT3RIckE0Q09YTGpySHVEVzQxY0xZVnE4TGZheTB2bHEycTNIY21ud2NBVFVtWjRHVE9yZXhDeUltVG9ON3dsMTNjRk1YUmkxTXlRaFVmRFY1bUdsYTVGSUlHdXdXbQ?oc=5",
-          "source": "everydayhealth.com",
-          "summary": "Retatrutide Led to Significant Weight Loss in Newly Published Diabetes Trial everydayhealth.com",
+          "source": "Everyday Health",
+          "summary": "Buzzy GLP-1 Drug Retatrutide Led to Dramatic Weight Loss in Diabetes Trial Everyday Health",
           "published": "2026-09-29T22:54:34+00:00"
         },
         {
-          "title": "Lilly's triple agonist, retatrutide, delivered substantial weight loss and A1C reduction, underscoring its potential promise for people with obesity and type 2 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbzhld2VvZWl5VlRDY0g5Q2NPVWNWZ2VwcWU0bzY0V0I4NTlnRmhxU0czbTlFczNpM1VtTk5GOUxmaVFMdlQ3bUI1azFNYlVMcnNScUtIRUZ2WlNUbzhGc09UOWpDUTdVbWJwWDVUX2V4X3JYSk5lZVpRS2twZWdIVU42SnN1bHIza1NVODEweGtBN1U5LVpYTFpiTG5obzVlbzA0eWVXTERhTUFCWTZpeE1DbGFxZzdac09LdVItX2tZOHk3RHhyeTVvSU1MSXp6aC1oTE9uSzhLWEoxT2N1enFKNWpfOEY5aTlqOEtPeFpFR1FjSm1NcXFKandGcU56eE56MmZjaXQxOEI1Ulg2eFJvOGRwQUZ1YmxQeQ?oc=5",
-          "source": "Investing News Network",
-          "summary": "Lilly's triple agonist, retatrutide, delivered substantial weight loss and A1C reduction, underscoring its potential promise for people with obesity and type 2 diabetes Investing News Network",
-          "published": "2026-09-29T22:48:47+00:00"
-        },
-        {
           "title": "Lilly’s experimental drug cuts weight by 21% in diabetes trial",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlVMXzlQa19mc3R6RXFpeWVzYjZJX1d1U19xbzdvYVljYTdMbGI1bEpBdm9VY0F0akhTNWE2cC1qOHVrWmwwdHo4UnVfZ1ZDUWZ3RFZKV0IwdHF5dzZvSU5RRVh4WTdTYU8wQVpqOWZPNTRUczNzQ25yai1sSTh3dGJuZ0F1QkNQNW5rcGVlbk54RXM?oc=5",
-          "source": "WKZO",
-          "summary": "Lilly’s experimental drug cuts weight by 21% in diabetes trial WKZO",
-          "published": "2026-09-29T22:19:41+00:00"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGp5c1dQbmZDRzdIZVZQek5VanZlSXhWNGtteFV3bVBVM1M1YU5scGFHVnQxMEhOVURZQkw0eFByQ0EyaVhzaWctajEtLWprejVJZEZLTEx4ZjJnTWxiZ3BWNWVVY04zNXdRYmh4LXhKaVpnTGNMSTN2NUpNRnhoR1pNU1JrN0J3dUpYbWphbno2NldHcWc?oc=5",
+          "source": "WTVB",
+          "summary": "Lilly’s experimental drug cuts weight by 21% in diabetes trial WTVB",
+          "published": "2026-09-29T22:45:59+00:00"
         },
         {
           "title": "Lilly's experimental drug cuts weight by 21% in diabetes trial",
@@ -383,8 +530,8 @@
         {
           "title": "Le médicament expérimental de Lilly permet une perte de poids de 21% dans le cadre d'un essai clinique sur le diabète",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02b19nZF8ta2VWMXUyb3V0a2poQW84SjE2Q3R1RWhIa2dVTHREdElVVV81M25rUmstOThwY3hYLXpFMXFSbzM2VW4zejNVd1pkRGpWSXRZZXZPQmI1UVM4a05sSDBxd1RfbWhmN21Ea193dXl5c1pJ?oc=5",
-          "source": "TradingView",
-          "summary": "Le médicament expérimental de Lilly permet une perte de poids de 21% dans le cadre d'un essai clinique sur le diabète TradingView",
+          "source": "fr.tradingview.com",
+          "summary": "Le médicament expérimental de Lilly permet une perte de poids de 21% dans le cadre d'un essai clinique sur le diabète fr.tradingview.com",
           "published": "2026-09-29T22:07:00+00:00"
         },
         {
@@ -409,11 +556,18 @@
           "published": "2026-09-29T22:01:00+00:00"
         },
         {
-          "title": "Eli Lilly’s Experimental Weight-Loss Drug Shows Promising Results",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFRPNGJYOF85RWNQYUpGTGp5UW15UlNwUGdsanNzak9nbWM0aU5VdElvNk1SLTRXOHpPX1lUUC00aVp6bTc5UWNEc3Nwd054SmpnSzJOM1o2ZER2STR1bEN5UGRRR0s4Vmk5UkRVUXpnNXBXSHA0QkR6YTN3TDNGcE1CWk9KV1NCdUIzMl9NTmYxUkp4bndBS3o0dzBWMF93X2ozLXNUM0tVTzUtVTZ6Qg?oc=5",
-          "source": "Time Magazine",
-          "summary": "Eli Lilly’s Experimental Weight-Loss Drug Shows Promising Results Time Magazine",
-          "published": "2026-09-29T22:00:04+00:00"
+          "title": "Lilly's triple agonist, retatrutide, delivered substantial weight loss and A1C reduction, underscoring its potential promise for people with obesity and type 2 diabetes",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZVEybVR5TEhfdXpyS29qaVM3RVBvcGY4eU1UcjdRRDJKTkRjV2F0S3p6UDFBLUVrc1J1REtGU25Tc0QzVkVydTdSZ1IyWHRCWDRBZjM5X0o1d21xSkpyQWJvWHhDNlYzMThBdlpsYkZWT1pVTUpEeTdJMDlVdm12em1QdUZXX2NIU3J0dU52QUhNNl9kOGkzc3ZMbTJXNXlfX3JybFhUZnNneTdQbnlUM0pzRWFwRlZ1OXBwc29ZR2Fldw?oc=5",
+          "source": "Eli Lilly",
+          "summary": "Lilly's triple agonist, retatrutide, delivered substantial weight loss and A1C reduction, underscoring its potential promise for people with obesity and type 2 diabetes Eli Lilly",
+          "published": "2026-09-29T22:00:30+00:00"
+        },
+        {
+          "title": "43% Lower Risk of Hypoglycemia? The Data Explained",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjdjbzcySGJkc3JBcnJWNEpLWUs2WUxpZVBvQ3JjZ2pLLUlhQkNaWGZDSGpaV0lZX1dpbVNlN1BDVEtsT1hBU3R1LVJXRmxyUHhLTmJKel9MSWY4am5jaThKdWhBNDdRYnRIWUx6bGtuOER4RnNwTUFLSFpXZDkyVDgtWUNQUQ?oc=5",
+          "source": "HCPLive",
+          "summary": "43% Lower Risk of Hypoglycemia? The Data Explained HCPLive",
+          "published": "2026-09-29T21:30:00+00:00"
         },
         {
           "title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
@@ -428,13 +582,6 @@
           "source": "Cardiovascular Business",
           "summary": "Should patients on semaglutide increase their dose or try tirzepatide? A real-world look at cardiovascular outcomes Cardiovascular Business",
           "published": "2026-09-29T20:46:26+00:00"
-        },
-        {
-          "title": "GIP/GLP-1 Ups Beta-Cell Function, Insulin Sensitivity in T2D",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS09ibGtvX0ViamRYZEtGTlIxcFdzQUpYRFlZTmUtTnZQcnNuX0NJbS1PV3h6QzJNZWF6Rkg0clJ5LWpfUXNMYzEzejdObmVDRC1kRFRKM0ZMV1RoWV9mYUFRLTZwV2k4VkdPakxCODdiTEFfdVkzQXEtRDE0TXhXeUlfSUNlNWdVeFRMQkdOUEFJUjlMQ001NkltcEVobEJhRmQ4NGd6ejFqaHpRWU13?oc=5",
-          "source": "Medscape",
-          "summary": "GIP/GLP-1 Ups Beta-Cell Function, Insulin Sensitivity in T2D Medscape",
-          "published": "2026-09-29T20:45:10+00:00"
         },
         {
           "title": "Your Blood Sugar Can Look Normal While This Diabetes Warning Sign Appears",
@@ -455,154 +602,7 @@
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSnpuczdrMWdqdGhCU21NN2ZvZjFXWkhudXVPNXZNN1BWOExtbnRxZ3hzS0JyZU1XekpQRGo1dTl0QkR4Rk5Vcm16Zmlhbm1ac19MUkhNZWc1VUxQOE5yeTFnY3BLQnRyMmx0bXVIMXdGaG51S1E4am1xUWhadm9PU3piQWdsV01DVEFNb2ROaG1PMnRJVlZ1RldvcDM4aU5DTE9qUWVCVGphRWxiSGdQNVNVRHdjOTM3WkhXdkM2TXJ0WXhmaWM0NUFObVV1d3lOa2dnSQ?oc=5",
           "source": "Clinical Trials Arena",
           "summary": "EASD 2026: Semaglutide dose escalation shows lower CV risk vs tirzepatide in diabetes Clinical Trials Arena",
-          "published": "2026-09-29T19:41:33+00:00"
-        },
-        {
-          "title": "How International Pump Launch Has Changed Its Investment Story At Tandem Diabetes Care (TNDM)",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTktlMm1EXzJGajJWWk9hWkJEZ1NTX0NnWUR2RHY5MGRQQ0NIUW5fWTdQMVljTDRabEhKcHNkTEpJQ3F5S0llMXdCRi1DeUxpb2VKUUtGTnRZaXRqNE93NGV5QzVrTGxIWDEwTkRHZG56ZzV6X3hTUl9ESkxRc19BNHRUcDlSb05xX2pSaW8ybGlfNzhyYXUwTlJOSzNpRHpLcnJYSFc5S0pnSXdFT0Q3bFNLLXJvZ0tRZ2pDWVBnS0E5VmlqdVk4Y25GTVNFeXl2STE3WktjbUXSAd4BQVVfeXFMUFRxMmNySmctT0RlTG9XMkowUnRJT2ZyY1VxUnpXRG9JZ3ZHaG1uTXpsSEh6UXI0UlRUTW12Vy03alFZTkNQdlMtUHFDQ3JUUjMycTNfd1J5N3M1dlY3bndBT3lmNTVsdVE3OHBHWEJBTHF6UE81MkJ1eWtTRFBKb0pJUjJjamtzSEJfUkpSOElzOFFmUGsteThoSV9UbDVETjN0NnBMemJjQWoxeVg0ODVQN2p0YkRIYnJkY3dHSERSaFYzT1ZXOXMwLUFVVHBJN1BibVV6MU9xSWRJUV9B?oc=5",
-          "source": "simplywall.st",
-          "summary": "How International Pump Launch Has Changed Its Investment Story At Tandem Diabetes Care (TNDM) simplywall.st",
-          "published": "2026-09-29T19:32:37+00:00"
-        },
-        {
-          "title": "Study Finds a Hidden Cost of Trying to Keep Blood Sugar Perfectly Steady",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVc0X2NHb3c3VHMwUzQyd0V5MERKNE9UcENDd0ZjdS1qV01QNzdBSkx3UEhQbDFkcUQya1RYQnpRTWZscTZMM3d1b21IeDYyb2ljRW9WV1VfRjhsN2ZUMmg4azNCT2FCeVhHUmk5VE5BMk9DdFRwT05EUFF1ZE1SV1lEQ2ZlajNBbDZaOHVzUU9Oc2dxVWxDSzR4STFrSWhTelZVSnJiRlk?oc=5",
-          "source": "Men's Journal",
-          "summary": "Study Finds a Hidden Cost of Trying to Keep Blood Sugar Perfectly Steady Men's Journal",
-          "published": "2026-09-29T19:31:41+00:00"
-        },
-        {
-          "title": "Ninth annual Diabetes Rally returns to Mankato with matching grant support",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHlXalp4QndFaGt5QXVhT1M0cVliU2pUOWlOLU1vTlc5aGhqc0tKVWpVYUF6ZV9kYzl6ZXFOSW5aWk9ZWl9GZEdQLUhpZ1FvZUphdDlqZXF3bWtJRXhSckdsU09wS2JGZ1M3SnFJSU1WcVpJQ056bloyNTZYdHI1clpYclBSM0lxWlhYYWptd2Z6SWctd1RraGl4LWR6NmZQY0ZlZjRNTdIBuwFBVV95cUxOSTRHQnB2SHA3N1EtdkJReFJtU01GQ1p4bDZTMmdWUFlZUnhwSXc4dUwyV3lKR2VXWjAyaHJxS0NVd2lMcVVmUUh0RmNuTUo0MXF5YkVPQm9nbEZIckdwSy1nbV92NEJvc0Q2YUItRXBNMC1ScndkUHFEVERNbXdMM3h1TWRKX29NZjJfQnZRektRbkdyZE5yUDQ3cFh6azZfMUxRdS0xSXlWTW9EOHpVdmg4NDNvdW9HWE93?oc=5",
-          "source": "keyc.com",
-          "summary": "Ninth annual Diabetes Rally returns to Mankato with matching grant support keyc.com",
-          "published": "2026-09-29T19:31:00+00:00"
-        },
-        {
-          "title": "20 High-Protein Diabetes-Friendly Recipes for Fall",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUFpBdEl6ajM1X05YU1FDUDZxbElKUnM1ajNQMHJwMDlVUVhPWWJpOThfbG5aRGpYMXZPUG56QW9iYXFxZUdCSEUtWHR1cF9weGVhZk1uVGFrTTh6QzdMcEFPcy1Nc2xMY0t1cTR1WTdRVGV4QW1uTTZia25BNk05V0NSWjRvbllsc0gw?oc=5",
-          "source": "EatingWell",
-          "summary": "20 High-Protein Diabetes-Friendly Recipes for Fall EatingWell",
-          "published": "2026-09-29T19:30:00+00:00"
-        },
-        {
-          "title": "Wayne State researchers lead $5.7 million NIH study tackling insulin resistance and type 2 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2NfVVRoMGZjX3VpY25QQnFEdnNYMFhpbkpIMFBqTEFKSmkxZUUxV2YzM0pBLThiNjVGU0cyMFRvNjhEZWlLOV9Bc3dXQmgwXzBTQXQwaUZfMVZkcGg4emhDYjNRc3dtNENFeE1fR0laXy1WSDFndC1MUGFqdjdfVUtJd1FxQ2o0azlDajY2VUdRMGx5ZFh3TGpZaFlfYkhPeGtFS0IxRzNRc0ZxWXQwMVJQZERXUmVoR2ZfTTVLeXROV09UMjl2a1BwUkQ?oc=5",
-          "source": "Newswise",
-          "summary": "Wayne State researchers lead $5.7 million NIH study tackling insulin resistance and type 2 diabetes Newswise",
-          "published": "2026-09-29T19:10:00+00:00"
-        },
-        {
-          "title": "Thyroid Drug Recall Most Serious; GLP-1s and Vitamin Deficiency; New T1D Guidelines",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZdFpLOExGZm1mTUk0ZkhJVnZ0b0ZfZkVTTXBfX05URll1M2lDdXF0OWQ3ZlJpVm1vSk8yWlF6Q3pTRkZOazZVMmlSR0N6eDNvUGxKNVZmOUxtNmZoeXJPWllXRkNRaXgtUlFzZDIxYmxaUl9ZUXM4OUFB?oc=5",
-          "source": "MedPage Today",
-          "summary": "Thyroid Drug Recall Most Serious; GLP-1s and Vitamin Deficiency; New T1D Guidelines MedPage Today",
-          "published": "2026-09-29T18:49:33+00:00"
-        },
-        {
-          "title": "Twenty Seconds of Speech May Help Spot Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUk1ODk0bkZMNzYtNGh5WVc3S0ROeERqTXAzZ0lUQnNZUElBYUxmN3RFQVRmano5S2V4ZENpekNqaEYtOG5aRzlyX1h3Y2JoY0ZTNUdtb3dPUVZUMkExNFVvOFByZnoyODVPNEFuS3FxaDBvQjZOc2wyUVJIX29MZEJ0U3IxZFdrV3AxV0F5eEJQM0xJSm1fQjR1M09qWVJxR0VGUm1kZHNVSEZqZThPZDIyRzg?oc=5",
-          "source": "Inside Precision Medicine",
-          "summary": "Twenty Seconds of Speech May Help Spot Diabetes Inside Precision Medicine",
-          "published": "2026-09-29T18:39:16+00:00"
-        },
-        {
-          "title": "Teddy Bear Clinic launches at Countess of Chester Hospital to support young children with diabetes",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLUxNMl9US3pEYTNzbVR6RUNaSWJJcFVDS0xlVzhnbkUwalRIWFRhTlo5VVY2TkhtSTdsMi1uZUptbW05M045ZWQ5VjdXTFotVkdrc1pnWnRLQ21pbTY3X3NwVjkxY0FjM0YxLUJqWlBUS2ttOW9RZnoyNWczR3VnN0tmZUsxUlptSHh4YWtIdXpMV0VWQmNWYXFSZFZDTlVyWkNUVDJCNnRfUC1LUU0taFg0LWw4OGlMTE96TFRMa3lwUThZeTA5d1g5TS10bndWOGVGTTBR?oc=5",
-          "source": "dee1063.com",
-          "summary": "Teddy Bear Clinic launches at Countess of Chester Hospital to support young children with diabetes dee1063.com",
-          "published": "2026-09-29T18:17:14+00:00"
-        },
-        {
-          "title": "Tirzépatide ou Wegovy ? Novo Nordisk affirme qu'une dose plus élevée de sémaglutide montre un avantage cardiovasculaire sur le tirzépatide d'Eli Lilly",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbWd6YjRWRGdWSEVNbkVUZ3NGOHcxcG1UbHhtOXJZdjhGcXZGaE9OZzMxNzV1YmQ1WmtSQ0stc2ZxTXFfenNETktobnFqRGtQd1FPZkhIazFsUzRCUWxqbXh4bk1faGZ6Ml9Kem5OSlJ2MU1mQV9qUlBmZnR3WjdWQzZaOS1CaldNZWwyQ0VnMkY5akV0NHJaLWUwX1czRmRwcjRYY0JubS04ajVqRzZEczR2Q3pma0xyRjRoaElqSmlnbF8wSWZoRW9rS2oyc2o5UlVlVHlqWXF4Mmgxa3VhcHE2UEpPSUpuMmE5Zk9taE50UXJtLUp1X25zdlpmeDZuVkNCODlGX0VrLXFwUWRFM3A4NUlWUWZaalVn?oc=5",
-          "source": "Benzinga France",
-          "summary": "Tirzépatide ou Wegovy ? Novo Nordisk affirme qu'une dose plus élevée de sémaglutide montre un avantage cardiovasculaire sur le tirzépatide d'Eli Lilly Benzinga France",
-          "published": "2026-09-29T17:06:03+00:00"
-        },
-        {
-          "title": "Short steroid courses linked to higher risks of pneumonia and heart failure in adults with type 2 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFo1VWNsajY0Snc0aFlIU2p5d1RzS21CZERrUWlTN1o5QXZrYXdXY0xzSnBEUFFCck1lM0hGMHhoNlVrZHJTcUpBQTFwY0JMdFp0TExNVnN2STJxWi12QU9LazhmR2JaOWtERHFMQVIzenI4UWZkWnhmSFNHTC1OTW5KakhCQQ?oc=5",
-          "source": "Medical Xpress",
-          "summary": "Short steroid courses linked to higher risks of pneumonia and heart failure in adults with type 2 diabetes Medical Xpress",
-          "published": "2026-09-29T16:40:08+00:00"
-        },
-        {
-          "title": "Breakthrough T1D Piedmont Triad to Host Three Fall Events",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObklaRGNRaWVDTHhyUXVFVzdmOG5QaDNaNklSTXdoWXhpZGRMT0o0RmVsa2UyUER1OUx5TkRsS3NyREc2Wk9EdklWUFUtM0tkamROSmZYWUgyR3N0WkhKTHB1RjJxcmo1MWNWWTBIeF80OEo1YVJRZC1IQUlWdnhJeGhNbXVVS2lXY2RFLWstX2s0aHYtOVRhaDlpMVI5WGE5bkttVnBUY09Wb1VvY25xNjZwQUJNaERGOHk4QzVvaC1ORWx3VHFJN2pHQ1hHUzBGYmxGTlhqUnJacjlCUVE?oc=5",
-          "source": "yesweekly.com",
-          "summary": "Breakthrough T1D Piedmont Triad to Host Three Fall Events yesweekly.com",
-          "published": "2026-09-29T16:20:00+00:00"
-        },
-        {
-          "title": "More moderate to vigorous physical activity could reduce type 2 diabetes risk",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGQ0WThqTWZyc204NWdDOEtNRW5yQmd4dXZKdWYxcHQwRE1XcXpTbGdIa0FpOVdVN29GRVNjbGpLMldMcGtPcXN1eTZObll0Mk5XSXBtek5UdHRLUF96c1UtS3ZnWmc5bXBJQVFRRzFGd1NSRFpvVGRwT29KTUVQRkJWdW9GWEtqcHFiRg?oc=5",
-          "source": "AOL.com",
-          "summary": "More moderate to vigorous physical activity could reduce type 2 diabetes risk AOL.com",
-          "published": "2026-09-29T16:07:49+00:00"
-        },
-        {
-          "title": "Cancer rates rise faster among people with type 2 diabetes, study finds",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGxFZlJnZ21lSnBHdkxfRDJIeElEQm91eF9QWjhyVHJGazQtZjBvVlFUQlZXRmsxalBvM2ZJQ2dNNzlZd3JwMUc3ODFsMTUyTmozUGliQXVDNldmbWhuOGNoOEwyenFqSUJJVDFOdTFaRlpGMERDLTdIOEpwaUZFS2FBNDNZVVhlWHRJRS15MHVOcC1LU3c?oc=5",
-          "source": "Newsweek",
-          "summary": "Cancer rates rise faster among people with type 2 diabetes, study finds Newsweek",
-          "published": "2026-09-29T16:00:00+00:00"
-        },
-        {
-          "title": "Type 1 Diabetes Overall, Type 2 Diabetes in Kids on the Rise",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnRSdjBnZDVpY3ByWDZBUWpuZVZQNlpNR1htTlpBQmtJY0MzWUdweGs2d0VPZ1g4Z0lDVVgzNTM0cnRQY0dKLUFxVEFCdDVBVW9FT3B2alBYQnVvWVpuWXpfRHhOMU5mVF9JSkdIWFotMVo1T21aQXVfNW5lUktMMWN6OFBpalAzZkZEY0F2SDZ6NVpoaWx0SXF1bGI2SGV6?oc=5",
-          "source": "Medscape",
-          "summary": "Type 1 Diabetes Overall, Type 2 Diabetes in Kids on the Rise Medscape",
-          "published": "2026-09-29T15:58:33+00:00"
-        },
-        {
-          "title": "Diabète de type 1 chez l'enfant : et si leur microbiote pouvait aider à prédire le risque ?",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTy1pR010LUc1c3FDWjRQZFZRUEotZ0JoMHB1NWV3RjdidzdBOXFOdzlOcFlDSHJlUlN3MHFnWlN4S1NfUXlsc2swMU4xc1pMRW8wUWFUQU9EaWpNc0kzV1lidUwycWpfaUd1ak93YmFuZEx1U1ZzMHRJeC05NHZQR0FOM1psUmtfbVp5eVhKclZJc2lHTzhqay0tbDlEVlh0UW9ab0oybnlTRWFPS3R3emdWY3NpcDNaWjZiNEIxbVk1a1k?oc=5",
-          "source": "Pourquoi Docteur",
-          "summary": "Diabète de type 1 chez l'enfant : et si leur microbiote pouvait aider à prédire le risque ? Pourquoi Docteur",
-          "published": "2026-09-29T15:55:00+00:00"
-        },
-        {
-          "title": "Diabète de type 5 : une nouvelle forme officiellement reconnue, liée à la malnutrition",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUWRJcEJwU2xaTm0wUlRocTRZNmVCWHB0aFcxVjZhNUlhRmV6T3RCSmxtZVlVQkFyUEwwZVBjX2ZYQld6UVRUMDI0YVAwdDltM2ExTTdHNFh5NnVWZVlhSW5LdnhMRVFSMUo5U295c0ZnSmdzQVhNeGIzM3ZmcE1CTTRWbW1WNTVRVy1mYkdGaTFqTnk4cXhpMGlFVXk0OE1lSEZXRFhmQVIyNVctR2NhUGtYRjdLYklLbjlETU1mLXg3THhEejZ2ZWRZYzM2eUh4V2ZsWnZ5ZEROblZJNjJsV2IzOWRhSHM?oc=5",
-          "source": "Top Santé",
-          "summary": "Diabète de type 5 : une nouvelle forme officiellement reconnue, liée à la malnutrition Top Santé",
-          "published": "2026-09-29T15:45:00+00:00"
-        },
-        {
-          "title": "Rétinopathie diabétique : n’attendez pas l’apparition de symptômes oculaires pour consulter un médecin.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHVVMi1PdVNKXzcyMlBCcGE0YjN5SjF5RWRZZkdyaUlVX1hSMHZuQXZzTmVpU29kbXlMNllPVnZzZmlEWkVkTmVxSzBZaGcycThGMnh6bUpyTjNrRjUxS2xfdUhSYVgxVDZBWUlKVWVXQndlaGxrenVwWHYyTVpPaDZvdTZwOHQ0cXU3QS04aG9sVUpmVGptY2Vn?oc=5",
-          "source": "Vietnam.vn",
-          "summary": "Rétinopathie diabétique : n’attendez pas l’apparition de symptômes oculaires pour consulter un médecin. Vietnam.vn",
-          "published": "2026-09-29T15:41:04+00:00"
-        },
-        {
-          "title": "The Best Time to Eat Lunch If You Have Diabetes, According to Diabetes Educators",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEVGMFUtTUZtZThQQ2dISFlKYVBFR3dPeTd4eG1sMjFQcUZld2Q3aVBZVGl3N0VNZnd5X19kZ0sxTFZZNWpjTHpBSWg3enRrc0R5eDBiMFhOdFZTR3ZURG1waDZ5d1dadWFONzUzWF9vNWpET283emEtUWcxQTA5eWh6WWI4ZVF4bXZPZVNQNkhsNlBZZ2NYdFRsdEZzUU45RXVsek8wWHJsTkU?oc=5",
-          "source": "Yahoo Health",
-          "summary": "The Best Time to Eat Lunch If You Have Diabetes, According to Diabetes Educators Yahoo Health",
-          "published": "2026-09-29T15:30:00+00:00"
-        },
-        {
-          "title": "Novo, Lilly pit their GLP-1s against one another in diabetes and obesity as EASD kicks off in Milan",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSjBuY3NUZmJCQ3JyQldCcG0yOXVYRHVqMUVWMXdpbjFyREJnaVJWWjU2bUxWVEdsNG1MTnFlSmdnbnJ0YlpPU1Ezb29NWVZLNlE2b3JiaTJTN2RLb3Y5MWVIZGp4bXNUNlByVlFBRGpjU3c1YUgtdmNHZ3E1NmphTWpHdnU2eGIzYS16aGdCb2xnMTRrZFlkb1JFdjVXcTNvU2F6MGdKMW81Z3R2QlhFRDZfYVBIb3c0cjJXenRB?oc=5",
-          "source": "Fierce Pharma",
-          "summary": "Novo, Lilly pit their GLP-1s against one another in diabetes and obesity as EASD kicks off in Milan Fierce Pharma",
-          "published": "2026-09-29T15:20:54+00:00"
-        },
-        {
-          "title": "Treatment-Induced Neuropathy Presenting as Thoracic Radiculopathy and Abdominal Wall Protrusion After Marked Glycemic Improvement With Tirzepatide",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbVA2WDdFblV1VGxoSzBlVkJJdHBQQnU5dGZJYU5CMXZSejd5UlhCWG0taEZfYS1ra0lHY28yQlRFZldnLWxTVVctTmg1aXBkSzFEamwwTDlaRlFZTlZoM2dvQVZMWFcyVk9UYXBSd3VXcDJ3ZWFadGhTRGczRk52WkZqeVRqbGhGenJ6U016WnVVSUpuZjBYV21Ram1hNmFVTzdNck5DRmllYTlkenNJNzlybHJkdXZuVi02RDFWTk5EVmZmT1hGZHZrY3FLUUgxSUFzNlZnQlJGcUFURVhUaUZXekhyekZwTnV2UGVpMDNGdlZ4T0F5clVRNHFKQ2dvc3RFUVk5Xy1sZDFZTTg2Q0EzVQ?oc=5",
-          "source": "The Cureus Journal of Medical Science",
-          "summary": "Treatment-Induced Neuropathy Presenting as Thoracic Radiculopathy and Abdominal Wall Protrusion After Marked Glycemic Improvement With Tirzepatide The Cureus Journal of Medical Science",
-          "published": "2026-09-29T15:14:19+00:00"
-        },
-        {
-          "title": "Could Diabetes Be a Key Trigger for Bone Loss and Cognitive Decline?",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcjU4RmNPVzU1anhmRjdaajRjR3Q0bE1rNzE3ZXozV3puQmlhX3FMQkZJSnd1ekl6cjJ3VVAyUkVaVEhsSGlZMUJEczhzQ3MxMVFKMTRDT0tkTkhreWdzeFRQS0hVRDZmUV9lUE0xLWczZkdoNHNMYVcwaHE5YnJoRDh6OG5yTXo0SElOVWYwbHVxQ0I5?oc=5",
-          "source": "diagnosticimaging.com",
-          "summary": "Could Diabetes Be a Key Trigger for Bone Loss and Cognitive Decline? diagnosticimaging.com",
-          "published": "2026-09-29T15:13:32+00:00"
+          "published": "2026-09-29T19:42:32+00:00"
         }
       ]
     }
