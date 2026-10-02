@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-10-01T20:06:48.349663+00:00",
+  "generated_at": "2026-10-02T00:31:14.169995+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Le G20 de Milwaukee prend fin sans avancée sur les déséquilibres commerciaux",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20261002-g20-commerce-milwaukee-fin-sans-avancee-desequilibres-commerciaux-etats-unis-chine",
+          "source": "© Kayla Wolf, AP",
+          "summary": "À l'issue du G20 Commerce de Milwaukee, jeudi, les États-Unis ne sont pas parvenus à rallier les autres pays sur la question des \"surcapacités industrielles\", une attaque à peine voilée contre la concurrence chinoise,…",
+          "published": "2026-10-02T00:25:35+00:00"
+        },
+        {
+          "title": "Deuxième débat de la primaire de la gauche : une possible alliance avec LFI divise",
+          "link": "https://www.france24.com/fr/france/20261001-deuxieme-debat-primaire-gauche-possible-alliance-lfi-divise-genocide-gaza-glucksmann-faure",
+          "source": "© Julien de Rosa, AFP",
+          "summary": "Lors d'un deuxième débat télévisé, jeudi soir, les cinq candidats à la primaire de la gauche sociale-démocrate, et en particulier Raphaël Glucksmann et Olivier Faure, se sont opposés sur une possible alliance avec La…",
+          "published": "2026-10-01T23:14:26+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Kiev et Bruxelles s’accordent sur les modalités du financement de l’Ukraine jusqu’en 2027",
+          "link": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-kiev-et-bruxelles-s-accordent-sur-les-modalites-du-financement-de-l-ukraine-jusqu-en-2027_6783795_3210.html",
+          "source": "Le Monde",
+          "summary": "L’Union européenne a déjà accordé à Kiev un prêt de 90 milliards d’euros pour 2026 et 2027 et n’entend pas, à ce stade, augmenter son engagement, a-t-on expliqué à Bruxelles. L’Ukraine estime son déficit budgétaire à 20…",
+          "published": "2026-10-01T22:50:02+00:00"
+        },
+        {
+          "title": "Manifs étudiantes : les casseurs, une vieille histoire ?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261001-manifs-%C3%A9tudiantes-les-casseurs-une-vieille-histoire",
+          "source": "France 24",
+          "summary": "De mai 68 à aujourd’hui, en passant par le mouvement contre la loi Devaquet, les étudiants ont régulièrement fait trembler le pouvoir. Et les casseurs se sont souvent invités au sein de leurs rangs. Ce jeudi, la…",
+          "published": "2026-10-01T22:21:31+00:00"
+        },
+        {
+          "title": "Carburants : Donald Trump dit qu’il « pourrait » demander aux Européens de puiser dans leurs réserves de gazole pour faire baisser les prix",
+          "link": "https://www.lemonde.fr/international/article/2026/10/02/carburants-donald-trump-dit-qu-il-pourrait-demander-aux-europeens-de-puiser-dans-leurs-reserves-de-gazole-pour-faire-baisser-les-prix_6786592_3210.html",
+          "source": "Le Monde",
+          "summary": "Le ministre des finances américain, Scott Bessent, a appelé jeudi les Européens à mettre « immédiatement » du gazole sur le marché pour contrer l’envolée du prix du carburant, avant une réunion d’urgence des pays de…",
+          "published": "2026-10-01T21:59:57+00:00"
+        },
+        {
+          "title": "Hausse des prix du diesel : Washington presse les Européens de puiser dans leurs réserves",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20261001-hausse-prix-diesel-washington-presse-europeens-puiser-reserves",
+          "source": "© David Zalubowski, AP",
+          "summary": "À la veille d'une réunion d'urgence de l'UE, les États-Unis réclament une mise sur le marché \"immédiate\" de volumes supplémentaires de diesel, tout en menaçant selon la presse d'interdire ses exportations si les…",
+          "published": "2026-10-01T21:49:27+00:00"
+        },
+        {
+          "title": "Flydubaï : Un deepfake de la BBC incrimine l'Inde et Israël",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261001-flyduba%C3%AF-un-deepfake-de-la-bbc-incrimine-l-inde-et-isra%C3%ABl",
+          "source": "France 24",
+          "summary": "Au lendemain du vol Flydubaï dérouté, un faux reportage de la BBC a largement circulé. Il affirme qu'un ressortissant indien est à l'origine de la tentative de détournement. Des publications le relaient largement et…",
+          "published": "2026-10-01T21:08:16+00:00"
+        },
+        {
+          "title": "L'Érythrée rompt ses relations diplomatiques avec l'Ethiopie",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261001-l-%C3%A9rythr%C3%A9e-rompt-ses-relations-diplomatiques-avec-l-ethiopie",
+          "source": "France 24",
+          "summary": "L'Éthiopie a accusé jeudi l'Érythrée voisine \"d'actes d'hostilité et de belligérance\", fermé son ambassade sur place et sommé dix diplomates érythréens de faire leurs valises, Asmara répliquant en rompant ses relations…",
+          "published": "2026-10-01T20:37:52+00:00"
+        },
+        {
+          "title": "Ligue des Nations : pour Zinedine Zidane, un France-Italie au goût si particulier",
+          "link": "https://www.france24.com/fr/sports/20261001-ligue-nations-pour-zinedine-zidane-france-italie-go%C3%BBt-si-particulier",
+          "source": "© Franck Fife, AFP",
+          "summary": "Le sélectionneur de l'équipe de France, Zinedine Zidane, s'apprête à vivre une \"grosse émotion\" vendredi pour ses retrouvailles avec son jardin du Stade de France mais également avec l'Italie, 20 ans après le coup de…",
+          "published": "2026-10-01T20:09:07+00:00"
+        },
         {
           "title": "Budget 2027 : ce qu'il faut retenir des mesures annoncées par le gouvernement Lecornu",
           "link": "https://www.france24.com/fr/france/20261001-budget-2027-mesures-annonc%C3%A9es-gouvernement-lecornu",
           "source": "© Ludovic Marin, AFP",
           "summary": "Le gouvernement français a dévoilé jeudi son projet de budget pour 2027, qui prévoit 43 milliards d’euros d'économies. Objectif : ramener le déficit à 5 % du PIB en 2027, contre 5,6 % prévu pour 2026. Voici les…",
           "published": "2026-10-01T19:52:34+00:00"
-        },
-        {
-          "title": "Budget 2027 : qui va payer l'addition ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261001-budget-2027-qui-va-payer-l-addition",
-          "source": "France 24",
-          "summary": "Le Premier ministre, Sébastien Lecornu a présenté ce matin, le projet de loi de financement de la Sécurité sociale (PLFSS) en Conseil des ministres qui prévoit de diviser presque par deux le déficit en 2027, via…",
-          "published": "2026-10-01T19:40:11+00:00"
-        },
-        {
-          "title": "Pourquoi l’Algérie a élargi la peine de mort aux incendiaires et aux kidnappeurs d’enfants",
-          "link": "https://www.lemonde.fr/international/article/2026/10/01/pourquoi-l-algerie-a-elargi-la-peine-de-mort-aux-incendiaires-et-aux-kidnappeurs-d-enfants_6786586_3210.html",
-          "source": "Le Monde",
-          "summary": "Après les feux de forêts intenses et meurtriers de l’été, le chef de l’Etat, Abdelmadjid Tebboune, a souhaité élargir le nombre de « crimes capitaux », passibles de la peine de mort. Le pays respectait pourtant un…",
-          "published": "2026-10-01T19:07:04+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine rejette la proposition d’arrêt mutuel des frappes à longue portée entre Russie et Ukraine",
-          "link": "https://www.lemonde.fr/international/live/2026/10/01/en-direct-guerre-en-ukraine-vladimir-poutine-rejette-la-proposition-d-arret-mutuel-des-frappes-a-longue-portee-entre-russie-et-ukraine_6783795_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président russe a rejeté, jeudi, l’idée d’un arrêt mutuel des frappes à longue portée avec l’Ukraine, en réponse à des propositions formulées par Kiev et Washington.",
-          "published": "2026-10-01T18:51:18+00:00"
-        },
-        {
-          "title": "Cancer du sein : les épreuves de l'après",
-          "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261001-cancer-du-sein-les-%C3%A9preuves-de-l-apr%C3%A8s",
-          "source": "France 24",
-          "summary": "Coup d'envoi aujourd'hui de la nouvelle campagne d'Octobre Rose. L'objectif reste le même : sensibiliser au cancer du sein et rappeler l’importance du dépistage. En 2026, le constat est toujours le même, la maladie se…",
-          "published": "2026-10-01T18:31:20+00:00"
-        },
-        {
-          "title": "En Finlande, une enquête est ouverte suite à des intrusions dans des domiciles de députés",
-          "link": "https://www.lemonde.fr/international/article/2026/10/01/en-finlande-une-enquete-est-ouverte-suite-a-des-intrusions-dans-des-domiciles-de-deputes_6786584_3210.html",
-          "source": "Le Monde",
-          "summary": "Si aucun n’a constaté de dommage, ni de vol, les parlementaires concernés sont convaincus que leur logement a été visité pendant leur absence. Le pays s’interroge sur la possibilité d’une tentative de déstabilisation…",
-          "published": "2026-10-01T18:30:10+00:00"
-        },
-        {
-          "title": "Que disent les images de Gaza rendues publiques par Google?",
-          "link": "https://www.rfi.fr/fr/monde/20261001-que-disent-les-images-de-gaza-rendues-publiques-par-google",
-          "source": "© capture d'écran Google Earth / montage rfi",
-          "summary": "Dimanche 27 septembre, l'application Google Earth a réactualisé certaines des images satellites de la bande de Gaza, avec de nouveaux visuels datant de février 2026 qui concernent essentiellement le sud de l'enclave.…",
-          "published": "2026-10-01T18:03:34+00:00"
-        },
-        {
-          "title": "L'AfCRA, une agence de notation africaine pour contrer les biais des géants mondiaux",
-          "link": "https://www.france24.com/fr/afrique/20261001-afcra-agence-notation-africaine-credit-taux-moodys-fitch-g%C3%A9ants-mondiaux",
-          "source": "© studio graphique FMM",
-          "summary": "Le continent africain s'apprête à inaugurer sa propre agence de notation de crédit. Développée en collaboration avec l'Union Africaine, l'AfCRA compte fournir une évaluation du risque de crédit adaptée aux réalités…",
-          "published": "2026-10-01T17:50:40+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : un pont de Kiev frappé par des drones russes",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261001-guerre-en-ukraine-un-pont-de-kiev-frapp%C3%A9-par-des-drones-russes",
-          "source": "France 24",
-          "summary": "Deux drones russes ont frappé jeudi un important pont de Kiev enjambant le fleuve Dniepr et reliant l'est et l'ouest de la ville, a annoncé le maire, dans un contexte de nette intensification des frappes de Moscou sur…",
-          "published": "2026-10-01T17:30:27+00:00"
-        },
-        {
-          "title": "Malgré la chute des entrées irrégulières en Europe, les Etats veulent encore durcir la politique migratoire",
-          "link": "https://www.lemonde.fr/international/article/2026/10/01/malgre-la-chute-des-entrees-irregulieres-en-europe-les-etats-veulent-encore-durcir-la-politique-migratoire_6786572_3210.html",
-          "source": "Le Monde",
-          "summary": "Réunis le 1ᵉʳ octobre à Luxembourg, les ministres de l’intérieur de l’Union européenne ont officiellement validé le nouveau règlement européen sur les expulsions, qui ouvre la porte au développement de « plateformes de…",
-          "published": "2026-10-01T17:30:05+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Derniers jours de campagne | La CAQ compare Paul St-Pierre Plamondon à Donald Trump",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-01/derniers-jours-de-campagne/la-caq-compare-paul-st-pierre-plamondon-a-donald-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Ils l’ont fait | Sans voiture, il économise 4000 $ par année",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-10-01/ils-l-ont-fait/sans-voiture-il-economise-4000-par-annee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "À quelques jours du scrutin, Christine Fréchette lance des attaques frontales contre le meneur dans la course, Paul St-Pierre Plamondon. Selon elle, le chef péquiste « ne comprend pas l’économie ». Elle appelle les…",
-          "published": "2026-10-01T20:02:58+00:00"
+          "summary": "Maxime Tremblay aime les voitures. Il en a possédé 19 au cours de sa vie. Il y a quatre ans, sa mobilité a pris un virage. Métro, vélo, Communauto et Leo : il vit désormais sans voiture personnelle et sans regret.",
+          "published": "2026-10-02T00:00:00+00:00"
         },
         {
-          "title": "Desserte policière à Winneway | « On est assis sur une bombe à retardement »",
-          "link": "https://www.lapresse.ca/actualites/national/2026-10-01/desserte-policiere-a-winneway/on-est-assis-sur-une-bombe-a-retardement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Fonderie Horne à Rouyn-Noranda | Un parfum de plastique brûlé et de chlore dans l’air",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-10-01/fonderie-horne-a-rouyn-noranda/un-parfum-de-plastique-brule-et-de-chlore-dans-l-air.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Vingt ans après avoir perdu son service de police autogéré, la communauté anichinabée de Long Point tape du pied. Pendant que les négociations avec Québec et Ottawa achoppent, la criminalité et la consommation de…",
-          "published": "2026-10-01T20:00:00+00:00"
+          "summary": "Plastique brûlé et chlore : c’est ainsi que les résidants de Rouyn-Noranda décrivent les odeurs qui se sont répandues dans la ville ces derniers jours. Personne ne peut dire exactement ce qu’ils ont respiré, mais la…",
+          "published": "2026-10-01T23:45:00+00:00"
         },
         {
-          "title": "Formule 1 | Que la meilleure flèche l’emporte",
-          "link": "https://www.lapresse.ca/sports/course-automobile/2026-10-01/formule-1/que-la-meilleure-fleche-l-emporte.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Une fin de semaine compliquée sur les routes",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-01/une-fin-de-semaine-compliquee-sur-les-routes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "À moins d’une catastrophe, c’est un pilote Mercedes qui sera couronné champion de Formule 1 pour la première fois depuis 2020. La grande question demeure de savoir lequel.",
-          "published": "2026-10-01T19:30:00+00:00"
+          "summary": "La fin de semaine s’annonce compliquée pour les automobilistes dans le Grand Montréal, au moment où de nombreuses entraves sont prévues et pourraient engendrer de la congestion.",
+          "published": "2026-10-01T23:06:25+00:00"
         },
         {
-          "title": "Sonia Sarfati écrit la mort avec des mots bien vivants",
-          "link": "https://www.ledevoir.com/lire/1013336/sonia-sarfati-ecrit-mort-mots-bien-vivants",
-          "source": "Le Devoir",
-          "summary": "À 66 ans, l’autrice et journaliste publie «Départs», un premier livre de fiction destiné aux adultes.",
-          "published": "2026-10-01T18:58:13+00:00"
+          "title": "Digger, d’Alejandro González Iñárritu | L’insolent théâtre de l’absurde d’Iñárritu",
+          "link": "https://www.lapresse.ca/cinema/entrevues/2026-10-01/digger-d-alejandro-gonzalez-inarritu/l-insolent-theatre-de-l-absurde-d-inarritu.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Une décennie après The Revenant qui lui a valu l’Oscar du meilleur réalisateur (et le premier Oscar en carrière de Leonardo DiCaprio), le cinéaste mexicain Alejandro González Iñárritu est de retour dans une grande…",
+          "published": "2026-10-01T23:00:00+00:00"
         },
         {
-          "title": "Ryad Assani-Razaki en lice pour le Prix du roman de l’Académie française",
-          "link": "https://www.ledevoir.com/lire/1013678/ryad-assani-razaki-lice-prix-roman-academie-francaise",
+          "title": "Jamieson Greer estime qu’il est «difficile» de résoudre les problèmes avec le Canada",
+          "link": "https://www.ledevoir.com/economie/1013807/jamieson-greer-estime-il-est-difficile-resoudre-problemes-canada",
           "source": "Le Devoir",
-          "summary": "Le lauréat du Grand Prix du roman de l’Académie française 2026 sera dévoilé le 29 octobre prochain.",
-          "published": "2026-10-01T18:27:00+00:00"
+          "summary": "Il explique que Washington n’est pas prêt «à aller jusqu’à la suppression totale des droits de douane».",
+          "published": "2026-10-01T22:57:47+00:00"
         },
         {
-          "title": "Une charte pour encadrer l’IA… mais est-ce suffisant ?",
-          "link": "https://www.ledevoir.com/economie/techno/1013666/charte-encadrer-ia-mais-est-ce-suffisant",
+          "title": "Les liens Londres-Abou Dhabi à l’épreuve de l’affaire Manchester City",
+          "link": "https://www.ledevoir.com/sports/1013804/liens-londres-abou-dhabi-epreuve-affaire-manchester-city",
           "source": "Le Devoir",
-          "summary": "Présentée par la Maison-Blanche, cette charte est «décevante et insuffisante», selon un expert.",
-          "published": "2026-10-01T18:03:00+00:00"
+          "summary": "Le club est coupable de graves infractions aux règles financières de la Premier League.",
+          "published": "2026-10-01T22:42:53+00:00"
         },
         {
-          "title": "L’iPod a 25 ans: partagez-nous vos souvenirs",
-          "link": "https://www.ledevoir.com/culture/musique/1013663/ipod-25-ans-partagez-nous-souvenirs",
+          "title": "Un peu de couleurs et de bagarre",
+          "link": "https://www.ledevoir.com/politique/quebec/1013774/peu-couleurs-bagarre",
           "source": "Le Devoir",
-          "summary": "Comment cet appareil d’Apple a-t-il changé votre façon de consommer de la musique? Écrivez-nous!",
-          "published": "2026-10-01T17:50:42+00:00"
+          "summary": "France-Élaine Duranceau, comparativement à sa cheffe, a du bagou et va droit au but dans ses échanges avec les citoyens.",
+          "published": "2026-10-01T22:00:46+00:00"
         },
         {
-          "title": "Un agent IA aurait tenté de pirater Bibliothèque et Archives Canada, selon un rapport",
-          "link": "https://www.ledevoir.com/economie/techno/1013660/agent-ia-aurait-tente-pirater-bibliotheque-archives-canada-selon-rapport",
+          "title": "Quatre suggestions culturelles pour la fin de semaine",
+          "link": "https://www.ledevoir.com/culture/1013765/quatre-suggestions-culturelles-fin-semaine",
           "source": "Le Devoir",
-          "summary": "Aucun élément ne permet de conclure à une intrusion dans les systèmes, selon le Centre canadien pour la cybersécurité.",
-          "published": "2026-10-01T17:39:00+00:00"
+          "summary": "«Le Devoir» vous propose quelques sorties pour le week-end du 2 au 4 octobre.",
+          "published": "2026-10-01T21:28:17+00:00"
         },
         {
-          "title": "Ruba Ghazal compare PSPP à François Legault",
-          "link": "https://www.ledevoir.com/politique/quebec/1013654/ruba-ghazal-compare-pspp-francois-legault",
-          "source": "Le Devoir",
-          "summary": "La porte-parole de QS reproche au chef péquiste son manque d’ouverture à la critique et au débat.",
-          "published": "2026-10-01T17:18:00+00:00"
+          "title": "Montréal | Fausse alerte pour le cas d’Ebola suspecté au CHUM",
+          "link": "https://www.lapresse.ca/actualites/sante/2026-10-01/montreal/fausse-alerte-pour-le-cas-d-ebola-suspecte-au-chum.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La personne potentiellement atteinte d’Ebola au Centre hospitalier de l’Université de Montréal (CHUM) n’a pas le virus finalement, a confirmé le CHUM en jeudi en soirée.",
+          "published": "2026-10-01T21:18:36+00:00"
         },
         {
-          "title": "Duhaime promet quatre hôpitaux privés pour une santé «plus efficace»",
-          "link": "https://www.ledevoir.com/politique/quebec/1013651/duhaime-promet-quatre-hopitaux-prives-sante-plus-efficace",
+          "title": "Beaucoup de Latendresse pour la Palestine",
+          "link": "https://www.ledevoir.com/politique/quebec/1013756/beaucoup-latendresse-palestine",
           "source": "Le Devoir",
-          "summary": "Les conservateurs promettent un hôpital dans la capitale et un autre dans la métropole.",
-          "published": "2026-10-01T16:56:20+00:00"
+          "summary": "Anne Latendresse, la candidate solidaire dans Maurice-Richard, a la question palestinienne chevillée au corps.",
+          "published": "2026-10-01T21:10:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Crise des carburants: les pays membres de l’UE et la Commission européenne se réuniront vendredi 2 octobre",
-          "link": "https://www.lefigaro.fr/conjoncture/crise-des-carburants-les-pays-membres-de-l-ue-et-la-commission-europeenne-se-reuniront-vendredi-2-octobre-20261001",
+          "title": "Deux Américains, un Canadien et un Russe rejoignent l'ISS pour prendre la relève de Sophie Adenot",
+          "link": "https://www.lefigaro.fr/sciences/deux-americains-un-canadien-et-un-russe-rejoignent-l-iss-pour-prendre-la-releve-de-sophie-adenot-20261002",
           "source": "Le Figaro",
-          "summary": "Cette rencontre intervient alors que Donald Trump menace de suspendre les exportations de gazole vers le vieux continent.",
-          "published": "2026-10-01T20:05:26+00:00"
+          "summary": "Le voyage des quatre astronautes a duré 7h55. Il s’agit là du plus rapide jamais réalisé par un vaisseau américain pour rejoindre le laboratoire orbital, selon la Nasa.",
+          "published": "2026-10-01T23:57:53+00:00"
+        },
+        {
+          "title": "Injection létale, azote, peloton d’exécution… Ce que l'on sait des ratés de la peine capitale aux États-Unis",
+          "link": "https://www.lefigaro.fr/international/injection-letale-azote-peloton-d-execution-ce-que-l-on-sait-des-rates-de-la-peine-capitale-aux-etats-unis-20261002",
+          "source": "Le Figaro",
+          "summary": "Après l’échec de l’exécution d’une condamnée dans le Tennessee, le débat sur les méthodes de mise à mort ressurgit aux États-Unis.",
+          "published": "2026-10-01T23:36:29+00:00"
+        },
+        {
+          "title": "L’océan a aussi ses paysages",
+          "link": "https://www.liberation.fr/forums/locean-a-aussi-ses-paysages-20261002_USHG3S7QDNDNFKE6HJBMZRQ7ZQ/",
+          "source": "Liberation",
+          "summary": "Face aux enjeux écologiques et géopolitiques, les fonds marins incarnent des représentations paysagères sources d’un savoir empirique jusqu’ici peu étudié, utile à la valorisation et à la gestion de l’écosystème marin,…",
+          "published": "2026-10-01T23:24:00+00:00"
+        },
+        {
+          "title": "OpenAI exclut trois chercheurs accusés d’avoir transmis des informations sensibles",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/openai-exclut-trois-chercheurs-accuses-d-avoir-transmis-des-informations-sensibles-20261002",
+          "source": "Le Figaro",
+          "summary": "Le Wall Street Journal a identifié ces chercheurs, qui partageaient tous trois sur les réseaux sociaux leurs vives inquiétudes sur les dangers de l’IA.",
+          "published": "2026-10-01T23:11:13+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Kiev et Bruxelles s’accordent sur les modalités du financement de l’Ukraine jusqu’en 2027",
+          "link": "https://www.lemonde.fr/international/live/2026/10/02/en-direct-guerre-en-ukraine-kiev-et-bruxelles-s-accordent-sur-les-modalites-du-financement-de-l-ukraine-jusqu-en-2027_6783795_3210.html",
+          "source": "Le Monde",
+          "summary": "L’Union européenne a déjà accordé à Kiev un prêt de 90 milliards d’euros pour 2026 et 2027 et n’entend pas, à ce stade, augmenter son engagement, a-t-on expliqué à Bruxelles. L’Ukraine estime son déficit budgétaire à 20…",
+          "published": "2026-10-01T22:50:02+00:00"
         },
         {
           "title": "Affaire Bardella : après la publication de captures d’écran par Mediapart, le RN continue de faire bloc autour de son président",
           "link": "https://www.lefigaro.fr/elections/presidentielles/affaire-bardella-apres-la-publication-de-captures-d-ecran-par-mediapart-le-rn-continue-de-faire-bloc-autour-de-son-president-20261001",
           "source": "Le Figaro",
           "summary": "Après que le journal en ligne a publié ses preuves de l’authenticité des messages antisémites qu’il attribue au président du RN, ce dernier annonce une nouvelle plainte, pour faux et usage de faux.",
-          "published": "2026-10-01T20:05:23+00:00"
+          "published": "2026-10-01T22:44:08+00:00"
         },
         {
-          "title": "Crise des carburants : une réunion de coordination des pays de l’UE prévue vendredi matin",
-          "link": "https://www.liberation.fr/international/europe/crise-des-carburants-une-reunion-de-coordination-des-pays-de-lue-prevue-vendredi-matin-20261001_ZFS46IP33NAELLGTB2FZV77XXE/",
-          "source": "Liberation",
-          "summary": "Face à l’envolée des prix, le ministre américain des Finances, Scott Bessent, a appelé dans la soirée de ce jeudi 1er octobre l’UE à mettre «immédiatement» du gazole sur le marché pour contrer l’envolée du prix du…",
-          "published": "2026-10-01T20:03:45+00:00"
-        },
-        {
-          "title": "Primaire de la gauche : \"Jordan Bardella est disqualifié\" pour Olivier Faure alors que Ségolène Royal souhaite qu'il ne soit plus député européen",
-          "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-suivez-le-debat-des-candidats-a-la-primaire-du-pole-socialiste-sur-france-2-et-france-inter-a-20h40_8218531.html#xtor=RSS-3-[lestitres]",
+          "title": "\"Il m'a dit : 'On vous remplace par l'IA'\" : ces professionnels qui se tournent vers les métiers manuels pour survivre à l'intelligence artificielle",
+          "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/il-m-a-dit-on-vous-remplace-par-l-ia-ces-professionnels-qui-se-tournent-vers-les-metiers-manuels-pour-survivre-a-l-intelligence-artificielle_8218888.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Durant deux heures, Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal vont s'affronter lors du seul débat de la campagne de la primaire.",
-          "published": "2026-10-01T20:01:22+00:00"
+          "summary": "Changer de métier avant d’être remplacé par une machine, c'est le choix de certains salariés qui se tournent vers le travail manuel. Pour eux, apprendre à réparer une fuite ou à faire du pain, c’est retrouver un…",
+          "published": "2026-10-01T22:23:51+00:00"
         },
         {
-          "title": "EN DIRECT – Débat de la primaire de gauche : «le prochain président devra gérer une menace de guerre» estime Glucksmann",
-          "link": "https://www.liberation.fr/politique/elections/en-direct-primaire-de-la-gauche-sociale-democrate-suivez-le-deuxieme-debat-sur-liberationfr-20261001_WRIVWX3CDFBJXBZVMUK46FXJ7A/",
-          "source": "Liberation",
-          "summary": "Une semaine après le premier, Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel se retrouvent pour un deuxième débat sur France 2.",
-          "published": "2026-10-01T20:00:50+00:00"
+          "title": "\"La démission doit aller de soi\" : les adversaires du RN appellent Jordan Bardella \"à tirer des conséquences\" des nouvelles révélations de Mediapart",
+          "link": "https://www.franceinfo.fr/politique/jordan-bardella/la-demission-doit-aller-de-soi-les-adversaires-du-rn-appellent-jordan-bardella-a-tirer-des-consequences-des-nouvelles-revelations-de-mediapart_8218915.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le média en ligne affirme qu'il a pu authentifier des écrits antisémites du patron du RN lorsqu'il était jeune militant, ce que le parti à la flamme et son dirigeant contestent.",
+          "published": "2026-10-01T22:11:22+00:00"
         },
         {
-          "title": "Mobilisation dans les lycées : face à « l’aggravation de la situation », le ministre de l’intérieur Laurent Nuñez fait appel aux CRS et aux gendarmes mobiles",
-          "link": "https://www.lemonde.fr/societe/article/2026/10/01/mobilisation-dans-les-lycees-face-a-l-aggravation-de-la-situation-le-ministre-de-l-interieur-laurent-nunez-fait-appel-aux-crs-et-aux-gendarmes-mobiles_6786588_3224.html",
-          "source": "Le Monde",
-          "summary": "Alors que la question du maintien de l’ordre se pose depuis le début du mouvement lycéen, certains estimant que les forces de l’ordre participent de la montée de la tension, le gouvernement a décidé, jeudi, de durcir le…",
-          "published": "2026-10-01T19:56:48+00:00"
+          "title": "Budget 2027 : le Medef évalue à \"près de 20 milliards d'euros\" les prélèvements et taxes touchant les entreprises",
+          "link": "https://www.franceinfo.fr/economie/budget/direct-budget-2027-le-gouvernement-presente-ses-projets-de-loi-de-finances-et-de-financement-de-la-securite-sociale-en-conseil-des-ministres-a-partir-de-10h30_8216482.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Sébastien Lecornu et ses ministres ont dévoilé jeudi un \"budget de redressement\" pour la France, avec 54 milliards d'euros d'économies à trouver pour 2027, dont 43 milliards via des mesures nouvelles.",
+          "published": "2026-10-01T22:10:37+00:00"
         },
         {
-          "title": "Rennes : un groupe de policiers en civil agressé au restaurant, deux suspects placés en garde à vue",
-          "link": "https://www.lefigaro.fr/faits-divers/rennes-un-groupe-de-policiers-en-civil-agresse-au-restaurant-deux-suspects-places-en-garde-a-vue-20261001",
-          "source": "Le Figaro",
-          "summary": "L’un des fonctionnaires souffre d’une fracture du nez après avoir été frappé au visage par l’un des deux agresseurs interpellés.",
-          "published": "2026-10-01T19:56:09+00:00"
-        },
-        {
-          "title": "EN DIRECT - Présidentielle 2027 : Faure estime que Bardella est «disqualifié» après ses messages antisémites présumés",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-deuxieme-debat-de-la-primaire-de-la-gauche-avec-toujours-en-arriere-plan-l-alliance-avec-lfi-20261001",
-          "source": "Le Figaro",
-          "summary": "Olivier Faure, Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann et Jérôme Guedj s’opposent dans un deuxième débat, jeudi soir.",
-          "published": "2026-10-01T19:56:04+00:00"
-        },
-        {
-          "title": "Etats-Unis : Christa Pike, qui a survécu à son exécution au Tennessee, est dans un état critique selon ses avocats",
-          "link": "https://www.liberation.fr/international/amerique/etats-unis-une-femme-va-etre-executee-dans-le-tennessee-pour-la-premiere-fois-depuis-200-ans-20260930_7NBPGNXAMBCU7D2OMGQNKKQSPE/",
-          "source": "Liberation",
-          "summary": "Condamnée en 1996 pour le meurtre d’une camarade de classe, la quinquagénaire avait reçu mercredi un sursis avant que sa sentence ne soit validée par la Cour suprême. Une enquête a été ouverte et la prochaine exécution…",
-          "published": "2026-10-01T19:53:07+00:00"
-        },
-        {
-          "title": "EN DIRECT – Blocages des lycées : la chancellerie annonce 1 793 gardes à vue depuis lundi",
-          "link": "https://www.liberation.fr/societe/education/en-direct-blocus-des-lycees-le-mouvement-setend-les-eleves-esperent-jouer-ce-jeudi-lacte-deux-de-leur-contestation-20261001_6K4PB7THOJHMRKVFGWSNIUNNYU/",
-          "source": "Liberation",
-          "summary": "Le ministre de l’Education nationale, invité ce soir du «20 Heures» de France 2, a annoncé que 400 établissements scolaires allaient être fermés vendredi.",
-          "published": "2026-10-01T19:49:12+00:00"
+          "title": "Blocage des lycées : les manifestations seront interdites aux abords des établissements fermés",
+          "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/direct-blocage-des-lycees-les-eleves-et-les-etudiants-appeles-a-un-acte-deux-de-la-mobilisation-malgre-les-violences_8217775.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "La situation s'est tendue jeudi avec plusieurs incendies devant des établissements scolaires et des échauffourées entre lycéens et forces de l'ordre. Le Premier ministre a présidé une cellule interministérielle de crise…",
+          "published": "2026-10-01T22:08:32+00:00"
         }
       ]
     },
@@ -325,6 +325,104 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "Almost 1 in 3 adults develop cardiorenal disease or die within 5 years of type 2 diabetes diagnosis",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnN3ZG9DU1hEOElOd1ptaVJEWGZXcXQxVFR1RjdvY3E5X0hXbkVOUWg4WU9DbmhDOGp5ZDhPRWdIay0wenpkQllRY2treW1KaFEzTkpkT0ZqQU1CejVySW1XOWZBUVk5VUZURklMWk81cm5jdnkzbXZuRXYybWtfQ3hwMHNacTQ?oc=5",
+          "source": "Medical Xpress",
+          "summary": "Almost 1 in 3 adults develop cardiorenal disease or die within 5 years of type 2 diabetes diagnosis Medical Xpress",
+          "published": "2026-10-01T22:40:04+00:00"
+        },
+        {
+          "title": "Proposition visant à ajouter davantage de maladies pouvant être directement orientées vers des niveaux de traitement spécialisés et bénéficier d'une prise en charge à 100 % par l'assurance maladie.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlBnZ2RsbE8zYXVNd2VHZlBxNHNmWEZjRktvQ0U0TVBZS2N0YWhyekFpcEdDS0I2aG81ZkhULWtoR0FFWnMyYW1ZWWtSU1Q2TEphbHZWN2g2a245b1ZTYmJzOXcwMmZ0Ui0xQlN5UHVQNGtWbkh1ajZsd1ZQa3IyLUFQWXQxUmFPeEVpY25XXzgtYW1kV0FxcVZTVHdNUQ?oc=5",
+          "source": "Vietnam.vn",
+          "summary": "Proposition visant à ajouter davantage de maladies pouvant être directement orientées vers des niveaux de traitement spécialisés et bénéficier d'une prise en charge à 100 % par l'assurance maladie. Vietnam.vn",
+          "published": "2026-10-01T22:27:57+00:00"
+        },
+        {
+          "title": "Research Finds Type 1 Diabetes Screening Feasible Across Europe",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVhFLWQ2WkhFWGlvV2NNR0lDb0d3UzNYaWI3ZVJmeFlaaVRWQl8yV0pwM2ZWTXRDdTBsZVk1Um9BenhwbjBpbXV4Qk55Sm1GX1FhRkhMa253WkhXZmFlMnRUWWpPYkdRS0tkMWVLN2x3SjE2dDBRdnhpbnhWdldNd3J3?oc=5",
+          "source": "Mirage News",
+          "summary": "Research Finds Type 1 Diabetes Screening Feasible Across Europe Mirage News",
+          "published": "2026-10-01T22:18:00+00:00"
+        },
+        {
+          "title": "Hoda Kotb Shares the Hidden Stress Behind Daughter's Diabetes Diagnosis: ‘I Watch My Phone All Night’",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWtzemZLQ0U5VEtxT3o0UURqQU9PMFZXYkpNNm4zQUh5X0xuM3p0U0FlajJUR2pER01uZ043c05BMThwRno4UUxhb1R0enhDNkVNb0drYkc2MnNKQ1lkXzRMVXdxcFBFRWZ6cVlkVGdxOXViSDE0YXBYSXd6c21ENmRrMGVMSFdDTlM0X1dMYktxZ3J1YjJ6VDZxVkJuMEVGNWc?oc=5",
+          "source": "Yahoo",
+          "summary": "Hoda Kotb Shares the Hidden Stress Behind Daughter's Diabetes Diagnosis: ‘I Watch My Phone All Night’ Yahoo",
+          "published": "2026-10-01T22:16:14+00:00"
+        },
+        {
+          "title": "RDC : l'organisation de campagnes de dépistage gratuit permet de freiner l'explosion du diabète(Médecin)",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQS1nTWVyT1FEWmE5T2pQc1FrTGZNQzBMVXktM0I4TlhHVEk1NTFfNHhpZ3NHTTNzWndsdmNsX1NwTjZDM0dIR0l6d3prcGRkSElXMWtOaGVvTVJjT0txWm5QeUpFc0kxZXNKajdVSUdTYzI1blp5NzlmM2xza2stWGdDTDRIX2NZaElJX3NuR1hSZUtnZ0p2bkt6ZXNaSXlVVlN5ZGVzUUVxdzNLTlFnVGVOWUdJWHd6WDZHQm5BZERpVzVBWndmbVVDM0ZUV0E3MWVOSTlmWThBdw?oc=5",
+          "source": "ACP | Agence Congolaise de Presse",
+          "summary": "RDC : l'organisation de campagnes de dépistage gratuit permet de freiner l'explosion du diabète(Médecin) ACP | Agence Congolaise de Presse",
+          "published": "2026-10-01T21:45:39+00:00"
+        },
+        {
+          "title": "Striking Weight Loss Seen With Combo Drug in Diabetes Trial",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DbXBUaldJOVhYV3ZYaTdVWTRpOURYVEpfYjFBNDJiZzZCTEp6RWJMUXV1bVZBVEh1X0x3QURvLXN4NlY5VDcyYkEzQUpZUFZsNVZGaWVuNkRRNk9wNW1OY3RDWmtSS1k?oc=5",
+          "source": "MedPage Today",
+          "summary": "Striking Weight Loss Seen With Combo Drug in Diabetes Trial MedPage Today",
+          "published": "2026-10-01T21:29:46+00:00"
+        },
+        {
+          "title": "Have diabetes or high blood pressure? This free Philly event will explain what it means for your kidneys",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcGFsZ040ZmRMVVpqTUJ0NXktVXROckg1cjdiZGpmcEJMbWxaYmpWSXVMNDRkcE5DWEYyaGlKV2xLVGFCY2hwRXpnSjBNTUo1Yms0TkplR2FVSkthMTluNW4zRXV1SjBnSEMtZ19pdDBFNW9MWXo1QmFJeVpyUHExM3gxc1drQWNabG5TRW5icmk5dm90NFdWVl9va255SUJNdmc?oc=5",
+          "source": "PhillyVoice",
+          "summary": "Have diabetes or high blood pressure? This free Philly event will explain what it means for your kidneys PhillyVoice",
+          "published": "2026-10-01T21:04:42+00:00"
+        },
+        {
+          "title": "Eli Lilly (LLY) Posts Strong Late Stage Obesity And Diabetes Trial Results",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHlJSDhoTEhMOVlPaVR1SG8yQV9XaEE3dkY0aTZMaXRIRlNMYW5scDNIcHF4SDlmT0drU1ZJVGRwMS1WQm1KMmxFMDl4eGppanQxQzBKWjZ5Mmd0V0Z6OVZMZ0twcmVtZ0hfaFIwbWVfdzFBc3BMV21ydDB2aTZBOU1iSHlqTVVJZDVkV1Y1Q0FlOE5EeGNjWWplNGF6MmVJc2Fkc1g2bVI5U0Y0MlAtalk3N0lRczNiTFZzdzNMVlItT1FkSFRvSmstYTVIalltSDlnbHFUd9IB3AFBVV95cUxPSi1IVnpJa29iQzFMNkFVbUpnNjF5aWRFVmJZWlNvRDRMLU9XTW10bDJaUFZMUEh0RjdyOXdCV1B1ZktNel82bGxTUURXN1Zvc1RVVXRvaVpmNmJrSVJLR1NLX3FoaExXSnE2ZXdlY2xNS3IxVlYzQzdYT2RqVjJfdk1OSVFHTHJfMURmWHFlNGtlSEM2UDBHc3JCdkRLN3RXNlRBRnQ3cEN4M0NuMEZjeGNYdEhobWRiLTI1T3FOWlZNMUo1SEpWZXRBUTJlTVREenEtcmNjbktyUm5l?oc=5",
+          "source": "Simply Wall Street",
+          "summary": "Eli Lilly (LLY) Posts Strong Late Stage Obesity And Diabetes Trial Results Simply Wall Street",
+          "published": "2026-10-01T20:36:22+00:00"
+        },
+        {
+          "title": "GLP-1 prescriptions for new mothers have increased sharply",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYm1waU1zNnF5bmVGNHNzdzVYVU9ycEtud0tJWTExaWVkUjdJbFNMNFdUc1JleV9VY3F1RVVJQlFmOVZWeGpyYUV4S3lDa3hweEwyWElqLXNpbUpNQkMybDZJOTFrRU9hWkZrUHc5akFiMjgyZjZ4LVVjTEJMNG03OHJLWQ?oc=5",
+          "source": "Medical Xpress",
+          "summary": "GLP-1 prescriptions for new mothers have increased sharply Medical Xpress",
+          "published": "2026-10-01T20:20:14+00:00"
+        },
+        {
+          "title": "More new US moms are taking GLP-1 drugs",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMW1BZ3d3STR3UE1DQXYweE9tcGdUSFIwZkVfX2FwZWMxVVlKRTZxUFpvM01rRVdMRk9FYVp6NU53NWxuWUVtMU5uOVlHeVB1STFYTnI1Mm1aTUs4SXNFY0JHWGN4eDJ2VGtUQkU3WEpNVzM0YVJrWUFma1JHVjN5NWQxY1MtYi1xUjg2LXZHX3l1SGdXX0VWRnplWFY2dm8?oc=5",
+          "source": "The Independent",
+          "summary": "More new US moms are taking GLP-1 drugs The Independent",
+          "published": "2026-10-01T20:15:00+00:00"
+        },
+        {
+          "title": "Health of women with diabetes may deteriorate after menopause: study",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0dLcUpOMWxQekRYV2QwZ2xMVWVUbWgwa1c3SlhlNFBOVHlPQ3E5RGwwekc4VzZMSDN0YUNENG9JZGtHMVhTcUlER3M5V1VFWmx1MFBXVzkzT2JnUGsyR2Z2Zkhpd1RVUlZMTTFaNC1va2VwRTVBSWhYckFSUzlHbXdRM1NESjRXcVhDcWZtdGRmUEI1T0JSNzFLcmVnY3NYekVlY0hFMkFvZFlZS0NfeGhB?oc=5",
+          "source": "CP24",
+          "summary": "Health of women with diabetes may deteriorate after menopause: study CP24",
+          "published": "2026-10-01T20:13:13+00:00"
+        },
+        {
+          "title": "An insulin-delivery company will hold a results call Nov. 5 at 4:30 p.m. ET.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVdFN1BCeGoyR2VhLUlWUlctMkZPTlBqQWVqaDhEOUtfa2JadHliVlR6LWRFN0FoNVptdUxDbmRBV19mVjdqdUJuUmFZWEhxVndpdjdCUWYyNHNkWk5yaHo1NEEya2h2QlFJWlZLZEN4c24ySkJKdXJ5c21IbUVFZmlGdENjWkVpNWREV1JSMmI5clBkRlFRMy1JZ0E5Z2ZkODFnWWtyM2RGNFptdHJ2ckJaTmdFQlE?oc=5",
+          "source": "Stock Titan",
+          "summary": "An insulin-delivery company will hold a results call Nov. 5 at 4:30 p.m. ET. Stock Titan",
+          "published": "2026-10-01T20:05:00+00:00"
+        },
+        {
+          "title": "Novel GIP/GLP-1 Yields Uneven Findings in Diabetes Patients With Obesity",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12R1lDVkxVZnZBS1NpcGNwWkRkMWRydjhGZFlRdnNNNjlxS2VmNE1yUzlEdkZ5Z0MzNWlUZXBGRWI0OVFCUFVsZjAwcUp4SWtsaHdYcVJXMEY0LWtSS3R5Y19mYzBaVlE?oc=5",
+          "source": "MedPage Today",
+          "summary": "Novel GIP/GLP-1 Yields Uneven Findings in Diabetes Patients With Obesity MedPage Today",
+          "published": "2026-10-01T19:46:05+00:00"
+        },
+        {
+          "title": "More New Moms Are Starting GLP-1 Drugs",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12aGtKSGtDM0l1Rzd2d3hOWFMxemZFWnlEdVprSHpxdnhZdGRPdlgtcWFGdk0tY01nLVhBTmpjbmRLR0ZqWnBCVVNIb2VKeDVvdHowV2toYmpPVzYzTzJPZw?oc=5",
+          "source": "MedPage Today",
+          "summary": "More New Moms Are Starting GLP-1 Drugs MedPage Today",
+          "published": "2026-10-01T19:34:50+00:00"
+        },
+        {
           "title": "Type 2 Diabetes: Low-Energy Diet, Exercise Reverses Early Onset",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE9Fc3Y0RlhSUHl5VUFfNEdwRjZzaWRCTDA3SENQZklQRGhnU0tqYTk4enlQQXdacXlMLS1Yb3dydnVrQWZNTHV5a08wZTVmaWY4TDFsSlN5U09IU212Mng2Q2twME9YaWRQc1FBc2VXcFg3c2RqVlJRMGt1STdSNFRLdnd0blhCYWMtQjNPWUFjek5ablJVVHV1R2QxeGpYVUE?oc=5",
           "source": "Healthline",
@@ -346,18 +444,11 @@
           "published": "2026-10-01T18:16:36+00:00"
         },
         {
-          "title": "Nearly 1 in 6 Pediatric Patients Have Nutritional Deficiency With GLP-1s",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWliTTQyWUx3aUJXdkd2N2hMcHRuay1OWndHMkFrQWxTVHN0ZVFKeGE1RlpHY2NYUGRUamcyOWg4OGlPdEl2eUZSOTE2ZzZNSWluNnNfaUJOVzdIT2hNUHl1MXFULWQyb0hPNHdPTWRoRVZaU0tSYU5WanJrc3dhMkd1TUhOendXRkctVUJkOEtDS01yMGNYME9IaldaRDVLM3lTWGNjTQ?oc=5",
-          "source": "Drug Topics",
-          "summary": "Nearly 1 in 6 Pediatric Patients Have Nutritional Deficiency With GLP-1s Drug Topics",
-          "published": "2026-10-01T18:01:28+00:00"
-        },
-        {
           "title": "The Bidirectional Relationship Between Tuberculosis and Type 2 Diabetes Mellitus: Pathogenesis, Treatment Challenges, and Prevention Strategies",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaldhWjBJNlJMSU9vZzg0cmFkbFFNNGNOSXRGN0xZU0tpejVzQTk4cXVBYzdLbWVFN2UzakNSNnRZZ3ZQeW4zVGZLenNyeVVKbk5YRFV6cDdpVkhiSTJJdkdDU2xZSGFGTkVzR3E0cmVrLWpEWEV5T3hxdG1WZV8wQmR6eDZ5emd6U0ItWXNiT3lJY2xGcGROUGZGZkE1Y0M5VzVQRTdZclFLeHNnRXNaemFuaUllRWJSUXRfZk1kb1BOdVVDdWtpVlo4VHdTcGxlSHZwSjl5bS1fbEdMSUM5dmhoZXkyem5kODM1Z3ZidDRUeTRsRmFXX1AzelhvMFNqU2NTSFpTZHhCMmc?oc=5",
           "source": "Cureus",
           "summary": "The Bidirectional Relationship Between Tuberculosis and Type 2 Diabetes Mellitus: Pathogenesis, Treatment Challenges, and Prevention Strategies Cureus",
-          "published": "2026-10-01T16:45:35+00:00"
+          "published": "2026-10-01T17:15:03+00:00"
         },
         {
           "title": "Mauritius becomes first country to reverse type 2 diabetes epidemic",
@@ -367,18 +458,18 @@
           "published": "2026-10-01T16:25:00+00:00"
         },
         {
+          "title": "Diabetes Self-Care Habits Linked to HbA1c and Distress-EMJ",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVFlRmhVLVhER2NMbjBIcVYzN0ZFTHl1S3AtSVg1YUxYN1hyVzBLMk9acVFXTjB6OWNKV1A3Zk85SjJnRGZjOUJkX19heEFkRWxXQ0hqenhOa3JHN25vWm1IRzVsdlIwOU1GNFV6MjhpUGpPMm5pTXZVcEVtUWtTaEtmcmtQdlI3TTEtekEzcUpxN1FiQjFTTTltZUY?oc=5",
+          "source": "European Medical Journal",
+          "summary": "Diabetes Self-Care Habits Linked to HbA1c and Distress-EMJ European Medical Journal",
+          "published": "2026-10-01T16:22:55+00:00"
+        },
+        {
           "title": "Is Bariatric Surgery Linked to Better Outcomes in GDM? EASD 2026",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWxfbThuZXEzaWRjdWdmSXV6VDE2MHh0NDBnQXZMakVmRl9NUG9Xd0FiWDZ5djZUSnMyS2FnaTk1Mm1YZlBOZm1EOHQ1ME96UWQxN1BHaWtHUVhiN3ZOTHhyQWZqOXYzb2V3VXJqcnRCelRnU0FwQTZVeFNEcHY5WEszZHpsMHMzTDd6eTBwbEhQR2dDZTIwS3YwX1MwaFM5UnhaVVUxUEc?oc=5",
           "source": "European Medical Journal",
           "summary": "Is Bariatric Surgery Linked to Better Outcomes in GDM? EASD 2026 European Medical Journal",
           "published": "2026-10-01T16:22:55+00:00"
-        },
-        {
-          "title": "A Compound in Red Meat May Promote Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PVDJWY2FRQk90N25nYVhxUDJuMXZtZThKRVRKdFh0NVR6N2xidWxEc2gzYmVBM3hHQi1uV2x5UENKbkpKRkNDWVVVS2tKSXU2bEV0MFJoYUU0bk8zdHJQN2RmbjRVTUoxOEhJZjZYQ0VDY05NVXRIdjJzYw?oc=5",
-          "source": "Yahoo Style UK",
-          "summary": "A Compound in Red Meat May Promote Diabetes Yahoo Style UK",
-          "published": "2026-10-01T16:15:00+00:00"
         },
         {
           "title": "Lilly gives deeper glimpse at Foundayo's heart-helping odds in diabetes, obesity phase 3",
@@ -402,18 +493,25 @@
           "published": "2026-10-01T15:21:47+00:00"
         },
         {
-          "title": "Diabetes Self-Care Habits Linked to HbA1c and Distress-EMJ",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVFlRmhVLVhER2NMbjBIcVYzN0ZFTHl1S3AtSVg1YUxYN1hyVzBLMk9acVFXTjB6OWNKV1A3Zk85SjJnRGZjOUJkX19heEFkRWxXQ0hqenhOa3JHN25vWm1IRzVsdlIwOU1GNFV6MjhpUGpPMm5pTXZVcEVtUWtTaEtmcmtQdlI3TTEtekEzcUpxN1FiQjFTTTltZUY?oc=5",
-          "source": "European Medical Journal",
-          "summary": "Diabetes Self-Care Habits Linked to HbA1c and Distress-EMJ European Medical Journal",
-          "published": "2026-10-01T15:05:27+00:00"
-        },
-        {
           "title": "Assessment of Handgrip Strength and Cardiac Autonomic Neuropathy Using Cardiovascular Autonomic Reflex Tests and Heart Rate Variability in Adults With Type 2 Diabetes Mellitus: A Single-Center Comparative Cross-Sectional Study",
           "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPcXNvMU1ScjNFbnU2UllZNmgwQUsxZ2lwLXl2WUl2Sk1WZXk4d1dXcmQ2ZVNNZ3NxUHJ4NTB3R0RaeHBkMktjY0lMX2ZuMUFEZjdIR3ZDWjZzTVBhZEVyYWF1MFNRc1p6SWZvOEpwSURtbUVndGxNRkdqYmZTUUN2dVhxZWJhenhmUWM3N0I4c04zZlR5eGxieDJuV1QxMERoQ2pIV0ZvUkJBTlhGX21ULWJvdG44RXNqRVlIUVdBcjNMeDM3blJlU1VNSndLeWIySFo0OU9VMXY3LXJhZndBQlNiVWNMT3ZNWW5udmhFcjNNVUo0RlphMFE5MGtldDFoSnpsaFExU29UZmNzM2d6di1jSWtQZ0pUTFZPUy11VzIyakViY205aUZ2MkFpY2tMU0hObHpIZldwNU5DRVh2UWhpMS1GSUJNVVpqR0xfMkhBTWVfX1o0eHUzZTBQeUN3aXFyVC1WSEY5QnVQTlVrRmRmeWc4aTA3dHV5Rw?oc=5",
           "source": "Cureus",
           "summary": "Assessment of Handgrip Strength and Cardiac Autonomic Neuropathy Using Cardiovascular Autonomic Reflex Tests and Heart Rate Variability in Adults With Type 2 Diabetes Mellitus: A Single-Center Comparative…",
-          "published": "2026-10-01T14:50:22+00:00"
+          "published": "2026-10-01T15:05:02+00:00"
+        },
+        {
+          "title": "‘You want to see your kids grow up’: He drank too much, ate badly and barely thought about his health. Then came the lightbulb moment",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHYtZjhzUFJNeTZyVWpmLVBwWUM0ajVTeTF4Z2hyZlJhblliTHd1QTV4NlpjQ3U0aUtWczJCa1lHVjVzczhSTkFoM0Q4WUw3TkpVazFWNjRrMEJpS3BvbFgwMVl4c2VNZVoyQ0t3c25sOHdnazF5STJlRlFLckc5SlU3OUdSeE1sZlZQYTlEclcyTGhENmpVdGhyZ0NjdEtjTFZySEhoaVhrMndJaVN3VUw2VzRBdWxGbkY0MkctRGhaNHRHUjh0OW5QdkdiUjdBcjhv?oc=5",
+          "source": "stuff.co.nz",
+          "summary": "‘You want to see your kids grow up’: He drank too much, ate badly and barely thought about his health. Then came the lightbulb moment stuff.co.nz",
+          "published": "2026-10-01T15:00:00+00:00"
+        },
+        {
+          "title": "EloraTZP Boosts Weight Loss, A1c Reduction in T2D",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHRLOV9YMkFOWU10bGFBU0xKM3Y1VUFDQWdIbm9NMkEzUThuNndUYm1ld0o1ZGRtQmhYQzkyU0JJb2xKWlgzOGxBTjNYMEpFX1dnaDZ3cmp2a0JkLVE4NEVBTzNlOXpIa3hZeXBkbXJ3Vm1yVDNsRWVnNHBNaFJEc1kyQjF3b1dIaHg2QmEtcGJCb2VXS1JmZ1dfQVMzS1BVSnJiQU5fdkJqSEpO?oc=5",
+          "source": "Medscape",
+          "summary": "EloraTZP Boosts Weight Loss, A1c Reduction in T2D Medscape",
+          "published": "2026-10-01T14:52:04+00:00"
         },
         {
           "title": "Diabète de type 1: la santé physique et psychosociale serait moins bonne après la ménopause",
@@ -423,18 +521,32 @@
           "published": "2026-10-01T14:35:36+00:00"
         },
         {
-          "title": "Moultrie Federated Guild donates Diabetes Crash Boxes to Colquitt County Schools",
+          "title": "Moultrie Federated Guild donates Diabetes Crash Boxes to local schools",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbEFhZ1RUOE1Mc3ZBRWRkSHkyeEsxeEFjd1ZZTS1NdVc5eTBhVl9aNEZiOFNMVjFtMjB1MDRoRmhNT2tEa1BSeHR0U202Q3FPNS1md3podW10YUlaX21ndllmVUo0dE8xR1o5X3NIaVRfNHBHX211UDA2cXRMQlFCUTl2cms5M2k5V09mMTFtTGs3WW1uRXVsUEdtb19qWkFfRjdqdUh0TlFuNUJDM0NxZUxwREtWOFM5TDQ0d3FB?oc=5",
           "source": "Moultrie Observer",
-          "summary": "Moultrie Federated Guild donates Diabetes Crash Boxes to Colquitt County Schools Moultrie Observer",
-          "published": "2026-10-01T14:13:51+00:00"
+          "summary": "Moultrie Federated Guild donates Diabetes Crash Boxes to local schools Moultrie Observer",
+          "published": "2026-10-01T14:18:23+00:00"
+        },
+        {
+          "title": "Triple agonist drug retatrutide shows 21% weight loss in patients with diabetes",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXFpYjFaOW44dkhLVmMtUTNrNjlwYVIyUDRiTi1yMlZjZGJtY0FoSXpaSjZ1UlNfaWs0d09KRG9XeTd6V2l6T2Y2U0hyT1ltU1AwVWFUUjN2ckNWNnVaWUhOQmIydHFmZU1wczZjdjh6OTdyX19ZZ0pRU3NUSUtpa25TUU9qeEFIeE1reU82dUlaaFZSV3RnemtVMllhLWhZdU55ZjNaOTJjbmhhYXJLaXhFNEFmcmJEcEdBX2hCWnktR25U?oc=5",
+          "source": "The Pharmaceutical Journal",
+          "summary": "Triple agonist drug retatrutide shows 21% weight loss in patients with diabetes The Pharmaceutical Journal",
+          "published": "2026-10-01T14:10:06+00:00"
         },
         {
           "title": "Breakthrough T1D Walks Bring Communities Together and Raise Funds for Type 1 Diabetes Research",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObGtvNnZFX3RwcDJKVG5VVWQ5b1BiRUxCZWhUOTh6a2E4SkFyYzF1cDBOaXpMYU0zTVZmNG1CaXRld2ZnTUtFT3QtWkEzQkFXQ1JnVDJ4S1NXQ3JvdVFlUV9tRWtQdHlOMElTUjA4SGNsV1h6X0pVVkhrdDVzSlRHaHdBZElqQjI1WnpwMDhtRjFockRWdk15dHpnS1prNFJLc1VKM1dyZjE4MDUxRDhEczJLRzRKQ2ZlaldxeEtTSXViVDc5azFEQlFqTlBNX2U1c3hLbGQyVUM2VHdNZWdRNFJKRnE0MmFvb0pN?oc=5",
-          "source": "Morningstar",
-          "summary": "Breakthrough T1D Walks Bring Communities Together and Raise Funds for Type 1 Diabetes Research Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOU9EbFNTRWg0QTRpR0hyY0V5THNsSnRGYXE1S1Q4VUN4eW0wMTVzTmJCVlRKLXphVE1UZnUzeVpLeEI3bExpZGdibkJ4dVNpc21BcHN1VkpNcWRnX0U4LVFJZDdrVUJhUDZJck5oMVh0OVZUOFphUVFZbHBvbzluSXVUWUwyZ1AzVEowSkdPbDFkN0ZyY05Wa0xxcUVoa2NQSTM3dmNjVmlZMktVaUlXNFN5RExQbllxdUVLSHctUGlNTm5hNHR2Yk95YjROS1diT3BMQzFQcXlKUEVvS0xXb1l0Ym8?oc=5",
+          "source": "prnewswire.com",
+          "summary": "Breakthrough T1D Walks Bring Communities Together and Raise Funds for Type 1 Diabetes Research prnewswire.com",
           "published": "2026-10-01T14:08:00+00:00"
+        },
+        {
+          "title": "JACARDI – Réduire le fardeau des maladies cardiovasculaires et du diabète",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWtjeENmUUV1Z0plWUU4TGd3VXZIY2Y2djd3U18yTFpFbFJoR2F3alpiVEFwLUxUZURlR1ItOU14RDhtVGJOVEp3anZHbkdvMDhyMEFYZENadWJRSzNKWC1JeWFRX1R3T3VQZVJMdGp3YXlkVGp6Q1pkNjRvWGNiMzlkOWoyVjFIRjJHYzNzbjRIY2JRb1ZZd3BNLVhtRC1yZ1pfNTYzaWhtNWo2bm5kaDlGdlBGRUZmUEJpVUN4SlA?oc=5",
+          "source": "The European Times",
+          "summary": "JACARDI – Réduire le fardeau des maladies cardiovasculaires et du diabète The European Times",
+          "published": "2026-10-01T14:04:21+00:00"
         },
         {
           "title": "JACARDI – Reducing the burden of cardiovascular diseases (CVDs) and diabetes",
@@ -446,8 +558,8 @@
         {
           "title": "Dépistage de la santé mentale grâce à la voix dans le diabète de type 2",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGltSWJLZW0zOU5PX3V0QXR3QWU4T0packUyX09yOFNUeXNNQjNRR2s5Ykl2SVNIXzY5NmI4SkQ0X1JaWGRVOFA4c2E2UzVvd3Z5akdlMWZ4MTRpOGFsczhTRWIzTFlqMVdoT3docnhTcFAxaGdmdUNIRENGbmY4WWFubi1fZjVJSDdkWkpBWUxIMDU4UzFtY0JPa0stamRxY0RGOFdaY1k4bHJRS3Zr?oc=5",
-          "source": "Medscape",
-          "summary": "Dépistage de la santé mentale grâce à la voix dans le diabète de type 2 Medscape",
+          "source": "francais.medscape.com",
+          "summary": "Dépistage de la santé mentale grâce à la voix dans le diabète de type 2 francais.medscape.com",
           "published": "2026-10-01T13:56:46+00:00"
         },
         {
@@ -472,25 +584,11 @@
           "published": "2026-10-01T13:36:08+00:00"
         },
         {
-          "title": "Flen Health Advances VES Gel Toward U.S. Registration for Diabetic Foot Ulcers",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWs5Tll6WUg4dThGejBqekdVQ0hIaUphZFNSWHlva0VTNmVWMnRibmpfeXpLdGUyOWFkRFN6RmFSTnlSMXhWOXRJNHM1dF9qcWpaQUw5NUY5X2RkdTFqUC1jMEI5SDRweXdnVEc0UUJlUFZKNUEzclFZaWY2VXNwOHFqY3FGaC1yVnQ1SUdkenYtcVhMbHpTYkFHV0lZcGJOejFLNFFqM1VCUEQ3WV9TeDV5X0V3N21R?oc=5",
-          "source": "BioSpace",
-          "summary": "Flen Health Advances VES Gel Toward U.S. Registration for Diabetic Foot Ulcers BioSpace",
-          "published": "2026-10-01T13:30:19+00:00"
-        },
-        {
           "title": "New approach to diabetes education could strengthen health care workforce",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHRTWlU0ZWVRTmdkVEw0VmUxMWVVa1JjWGxJLXJsVTRiRDdZMGd5cW1yd05tZzRWcmk2eW1sRkpWM1JiTkZMaF8zNVZmM25WQmVraXNVcnAxeVdicHJUdDVva3lLY29SY2tSOEJiVXRIRUxFQVVMRzh5OVd2Ymk0cXVNeUo?oc=5",
           "source": "Medical Xpress",
           "summary": "New approach to diabetes education could strengthen health care workforce Medical Xpress",
           "published": "2026-10-01T13:20:16+00:00"
-        },
-        {
-          "title": "Flower-Dwelling Bacteria Turn Andean Tuber Sugar Into a Diabetes-Friendly Sweetener",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQby1zRWdJQXM0aUI5VWJPeW44TTU0S2szQnVBN0ljT2lzVDVnSktKbTJfU3c5YkxmWHUwNmhaWHI1Sld4N0c5WW9NblB4WGhIWVEzYTJnSzliR1p0OWxaUDlEQU9fZElIVFFXNkFLNm5NT0ROWHgyQlhfQmQ0cEZpMWY2NmlRQXh3cy1xVFZxcmRHSXJBZzA0UkVqTHBwdlhxa2d0bTNpVk9QUzgz?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Flower-Dwelling Bacteria Turn Andean Tuber Sugar Into a Diabetes-Friendly Sweetener Bioengineer.org",
-          "published": "2026-10-01T13:12:02+00:00"
         },
         {
           "title": "Femmes présentant un diabète de type 1 | La santé physique et psychosociale serait moins bonne après la ménopause",
@@ -505,104 +603,6 @@
           "source": "Noovo Info",
           "summary": "DT1: la santé physique et psychosociale serait moins bonne après la ménopause Noovo Info",
           "published": "2026-10-01T12:59:13+00:00"
-        },
-        {
-          "title": "Social Factors Linked to Dementia Risk in Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdjRGNGt3NU01RDd4WUh1RDVnMGhHYTNCREtXcTh0OGE2NzRGYXdRXzVaTS1nN3NOTGdJNWxqNnprZVM5S2JsOE9mRy0yVjRjcTVoblRBSGs3dWFySmdLQXNlVy1vbXNwMDFRdHVnYTUtNHhvYjR0Wmt4bmQzOWx1d0ZyNmRhdGUxSUE?oc=5",
-          "source": "miragenews.com",
-          "summary": "Social Factors Linked to Dementia Risk in Type 2 Diabetes miragenews.com",
-          "published": "2026-10-01T12:48:00+00:00"
-        },
-        {
-          "title": "EASD 2026: Primary care is ‘fundamental’ to tackling global burden of diabetes, researchers stress",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkl5bjZfWjJXYWt2ZThUckxiUkh0b2RkclZTdGpRUHBrVU1GQ0ttZkZsTzVZV3VXQ0liUVluX2RzT2w1R1ExakZJY2JQZ0dWWk5DTDYyNDU0Sy11blZ5RVBVOV8xeWxvdjRweDdzNTZTRWg1aGdlTnNzTWU0c0RRbklRanJhNHlKeFpxZWdSUE9UdUlmZmxxMWgwdU1pTkNidjFuTHdDOTJTcHJ0OUZZcnM4aw?oc=5",
-          "source": "The Diabetes Times",
-          "summary": "EASD 2026: Primary care is ‘fundamental’ to tackling global burden of diabetes, researchers stress The Diabetes Times",
-          "published": "2026-10-01T12:46:26+00:00"
-        },
-        {
-          "title": "Early data on a type 1 diabetes treatment include an insulin-production signal.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnFvQkhielo0UldIUVZQOWx1Z1BEYzIxUkJnUllsVWFoeW9XTzJkdXVoS0ZwbmZjRnlGdUxNZ2xsMXRycXE0NEJ5ckE1Q3JFLVJkOUFKT1h1dVVFejloOEVkY0JfMVZMbVJqcXFmcUlOd3pxUDF3cTNMT3ZYN3pqSzdxWlVCSEViUjlOYmdHTjBwUk5lZnZrblBzSFd1Ul84am9DT3RyRWhITzZUM3d2UUNEOEhUbWRuQkxrWQ?oc=5",
-          "source": "Stock Titan",
-          "summary": "Early data on a type 1 diabetes treatment include an insulin-production signal. Stock Titan",
-          "published": "2026-10-01T12:30:00+00:00"
-        },
-        {
-          "title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMFZhelBpd01ycnl3YW1BbXpDYUhISlpHNUhhRXdWZTI4UE5JeV9ydmhsTWx3WVBvTW83MmV4SHBZdkFOeDVmcEtIbTFFVkVmUFhrWmpqSVpiRjBzR2Ew?oc=5",
-          "source": "nature.com",
-          "summary": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial nature.com",
-          "published": "2026-10-01T12:25:11+00:00"
-        },
-        {
-          "title": "EASD26: Lilly strengthens Foundayo's case in diabetes with detailed CV outcomes data",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVaE9xOWFwc1J3enZCSkhqU2Z5MVZVYktfaE1Pc2hSYlJoc0djNGt0Q192azRIQnp5QWJzYXFSRkVINUxhM3RSOVdfMFk0dll5RTRZ?oc=5",
-          "source": "FirstWord PHARMA",
-          "summary": "EASD26: Lilly strengthens Foundayo's case in diabetes with detailed CV outcomes data FirstWord PHARMA",
-          "published": "2026-10-01T12:22:33+00:00"
-        },
-        {
-          "title": "Employment Status Tied to Heart-Protective Drug Use in T2D",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmo5MV9LejNEVGczNzdiZUFVVkJEN1NfYWNoSUZTVHRlYXNMZVA2VFU1ZXdyY3FBb3Bvdkl5V3FoT3VvMzlXTjlGSnZSMDNaWjdwLVozVW9FbmRMTmFqYVlINm1pVDM1XzNMQnhtb0JIajFkUGNOZVJFcEc1QUg5djdad3VBLUdQM3dEOWZhMjNHdjhCZHJPaXBCVHFINVdrWV8yUUJRNlA?oc=5",
-          "source": "Medscape",
-          "summary": "Employment Status Tied to Heart-Protective Drug Use in T2D Medscape",
-          "published": "2026-10-01T12:05:37+00:00"
-        },
-        {
-          "title": "Hoda Kotb shares very real fears for her daughter: 'I am concerned'",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzd0YmJnQWsxMU4ybXVXeGdpMkR2alhKV1NBd2tVUDAtbVpkSGNoSGE1V1dwT0NZY21NazlxY0RZY2N2MjJFX0FCNDIycGdIeUdIZUVKWFVJZzNNQUFpTUZnbHVKN2J4ZkRnOUN0c2RBMkNzd1B1bnoza204SXFiRUpnQmFMYmFmczhGT3dDQ1NrNDliSUYwUlRSUDRUQUJEejd0Rmsxc1A?oc=5",
-          "source": "hellomagazine.com",
-          "summary": "Hoda Kotb shares very real fears for her daughter: 'I am concerned' hellomagazine.com",
-          "published": "2026-10-01T12:01:06+00:00"
-        },
-        {
-          "title": "ViCentra Presents Large-Scale Real-World Evidence",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNVnEzZXRsZEROaHlNbmlpR3lWRHd3Wl83T3BaXzduNS1Pal9oRmduRU40dlY3dEUwM3BFWG9wTXo2ZHZHd2NEdUI0U2Y4RkVBZ2NmRTMzWEV4OGNEOUkxUjFUeEstNlU5MkwwY09LLWZCZnhhTzN1VGxBR09Wemg4QlN5elhmUGJaR3N6dW5MVHgyT2xFcTNDTEN6REsxbG8ycGdSa3NDbGRONkNZdFdIR21RMklSbFhoRXJfMTRINVZQZkRpS05maUNBVWM3eDhkVzZ0UXZLazM1eTBRMHlRUTVpUGtZQ1pVVHZqYnZGOFlaUnVLY2FRZlRLZGo3aC1uejVvRjhIV3JEU290QXFyRUt1VjMwZFd5bm85cHVnRWlIa2VPUDI1VnVYeXpiU0piRFd1YnUxcGtJdkx6RGFmTVBYOW04T2Y5SXNZMA?oc=5",
-          "source": "GlobeNewswire",
-          "summary": "ViCentra Presents Large-Scale Real-World Evidence GlobeNewswire",
-          "published": "2026-10-01T12:00:00+00:00"
-        },
-        {
-          "title": "Complaint Filed Against Telugu Health Influencer Over 'Type-1 Diabetes Cure' Claims: Why Stopping Insulin Can Be Fatal",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT0VnMXoxVnJ5MmprMUJYY2VjZi12LV9JdzF6bXdvdDN5RllTM3dTQVpidlFlUjJTMURodG1qNVk4V25BY1g3eGZ5cDR0VHJnNU41d0lJZFJyZXJqRjJnZmllTG9tdkZzSE5nSWdxOUVfbXJUSFRqU085SDdjQUE4aWx4bWNNMHFES3M4MmN3MkVqX1dsLTFjWkROclpmenFEd2FHbFc0R2xucmxXbUpqbWpkNlhKUlpldzVIWXVmZ0hyRVpheFFIQ3I0NElMcXg4aTY4WFBHR09Ibmx2ZzR1UEZGN19NNUpob1lEdnF5eWRRc1g4MmJvbG9VOA?oc=5",
-          "source": "NDTV",
-          "summary": "Complaint Filed Against Telugu Health Influencer Over 'Type-1 Diabetes Cure' Claims: Why Stopping Insulin Can Be Fatal NDTV",
-          "published": "2026-10-01T11:58:48+00:00"
-        },
-        {
-          "title": "Type 1 Diabetes: Student Nearly Dies After Diet Advice To Stop Insulin; Why Insulin Is Essential",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeGZvY0FMYlFMZGRpTjJqekd5OGN0YU1BcVZZUldBTHhEaThMeUd5QmpFWlppSFQtNnkwakJ5dlJzVjhQaE8tSkNENm1nTnBSZUhFam5BRTRNYjVhbDFGTTFjenptN1dDTGEwczRBRUE5dzVJLWM1dTROWWtxSUU2M1B3Z2dFeVdINUJzaHFVbWZCTkJuQ1ZxVl9rMlNXWTE1YnEydnFkaFFmdktia045RExuenBwdl9XTlNZazlydmdfN2lzbUpmSDA1NkZFWUI4dlpMWExYdjluOHZkQS1rOW5XSVNGalBFcUVfaw?oc=5",
-          "source": "Health and Me",
-          "summary": "Type 1 Diabetes: Student Nearly Dies After Diet Advice To Stop Insulin; Why Insulin Is Essential Health and Me",
-          "published": "2026-10-01T11:37:49+00:00"
-        },
-        {
-          "title": "Lilly Foundayo is predicted to cut diabetes risk by 57% in late-stage study",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHpXdG9yelJiM0dEQzZIdGR3SjJfV2t5dGFhb0N5dHpURWRjbHliY0hVOU1KTXR6RU80RVk5RlV1UHpnVktJaU50NmZxem4tbFJEUHlsSnZlOW5pU21MOEhaVE5mcjNNQWxUTjEyQkRKNmJOa0kzQnI2UW1RYXBBNHdn?oc=5",
-          "source": "Seeking Alpha",
-          "summary": "Lilly Foundayo is predicted to cut diabetes risk by 57% in late-stage study Seeking Alpha",
-          "published": "2026-10-01T11:37:04+00:00"
-        },
-        {
-          "title": "Youth Diagnosed with Type 2 Diabetes Before 20 Had Twice the ADHD Rate of Peers in Early Data",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmltT3hmaG1XWWFPc19fanNRVks1SXVNMUdEek1JZ0FQS2F4YTJQc3BVRHNndTFqWEgtOVRvOW0xTEdnSzByZG9VTEhWUWVKY2RZNGdzejhvYmoxQWw0R0VySVJycm5QRnJUaHZoQjlmQm8xTGQ2dmk0TGpvYlJndDdYemxCeFps?oc=5",
-          "source": "Medical Daily",
-          "summary": "Youth Diagnosed with Type 2 Diabetes Before 20 Had Twice the ADHD Rate of Peers in Early Data Medical Daily",
-          "published": "2026-10-01T11:30:07+00:00"
-        },
-        {
-          "title": "Donna Kuiken marks 60th year with Type I diabetes",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY2lpbE5PcmxUZkU3UFZIUW01OFNhOVphMml6bnIzTWppcU9pc2pJMmJtQWZfdTdvQ1g5ZzJrVnR6eHZrVU1xeVVNQzhnT2YwOVFXT25ucHZKUlhPRGo2QU1MVDAxeUx2dWVaM0lVSlB1SDFsaWxVWVd2Z2VyUGlvbldnaVpGNTBkLXBQWU1oNWdOcjhicWhwdmNiSDVrZ2hRN3pyZGFTYjlnc3NsVk5WRnYxNkpEWVFrYmlZYU50TEthZWhSVmNwN05ubGR6M2I4YmZURmZYOGFvTjZF?oc=5",
-          "source": "New Castle News",
-          "summary": "Donna Kuiken marks 60th year with Type I diabetes New Castle News",
-          "published": "2026-10-01T11:15:00+00:00"
-        },
-        {
-          "title": "Low-Energy Diet Plus Structured Exercise Reverses Early Onset Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczZjS29vMG8xbjM4SXU1RjZBRXNRSFpUN19SS0U1NjBKZUhUcy00dlNJTlN4dzhQWmNiQlZyLXJJSEVjVTNfbEgwRTBIbEV1aXNBWVJMdzludER2SmhmdGtwd3NyYkJHbHEzVElsOEEtbUl0TS1qVlpKQU1XWWJrUg?oc=5",
-          "source": "AOL.com",
-          "summary": "Low-Energy Diet Plus Structured Exercise Reverses Early Onset Diabetes AOL.com",
-          "published": "2026-10-01T11:08:46+00:00"
         }
       ]
     }
