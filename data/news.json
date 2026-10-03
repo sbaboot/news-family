@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-10-03T20:37:35.592849+00:00",
+  "generated_at": "2026-10-03T23:30:58.266605+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Cinq personnes mises en examen pour des soupçons de financement du Hamas par l’intermédiaire d’associations humanitaires",
+          "link": "https://www.lemonde.fr/societe/article/2026/10/04/cinq-personnes-mises-en-examen-pour-des-soupcons-de-financement-du-hamas-via-des-associations-humanitaires_6787959_3224.html",
+          "source": "Le Monde",
+          "summary": "Trois de ces suspects, dont deux présidents d’associations caritatives françaises, sont liés à une liste noire dévoilée par les autorités américaines. Washington a détaillé un système de collecte de fonds transférés…",
+          "published": "2026-10-03T22:50:22+00:00"
+        },
         {
           "title": "Les houthistes du Yémen revendiquent une frappe sur un site du géant pétrolier saoudien Aramco à Ryad",
           "link": "https://www.lemonde.fr/international/article/2026/10/03/les-houthistes-du-yemen-revendiquent-une-frappe-sur-un-site-du-geant-petrolier-saoudien-aramco-a-ryad_6787808_3211.html",
@@ -66,13 +73,6 @@
           "source": "Le Monde",
           "summary": "Christa Pike, 50 ans, devait être la première femme mise à mort depuis plus de deux cents ans dans cet Etat du Sud des Etats-Unis. Une enquête indépendante cherche à déterminer ce qui s’est passé mercredi, lorsque…",
           "published": "2026-10-03T16:51:38+00:00"
-        },
-        {
-          "title": "Guillaume Calafat, historien : « De nombreux historiens considèrent qu’avant la révolution industrielle existaient des capitalistes, mais sans capitalisme »",
-          "link": "https://www.lemonde.fr/histoire/article/2026/10/03/guillaume-calafat-historien-de-nombreux-historiens-considerent-qu-avant-la-revolution-industrielle-existaient-des-capitalistes-mais-sans-capitalisme_6787819_4655323.html",
-          "source": "Le Monde",
-          "summary": "Si le socle du monde marchand repose sur un commerce adossé à une famille et un patrimoine permettant l’investissement du capital dès le XIIIe siècle, il suppose aussi une véritable formation au négoce, observe…",
-          "published": "2026-10-03T16:30:10+00:00"
         }
       ]
     },
@@ -83,6 +83,48 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "« La balance du pouvoir, je m’en balance »",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-03/la-balance-du-pouvoir-je-m-en-balance.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Charles Milliard demande aux électeurs de renoncer au PCQ et de se tourner vers une formation politique qui peut leur offrir le pouvoir. Dans un blitz qui l’a porté dans les Laurentides, en Mauricie, à Québec puis en…",
+          "published": "2026-10-03T23:07:59+00:00"
+        },
+        {
+          "title": "Première période | Canadien 1 – Penguins 0",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-10-03/premiere-periode/canadien-1-penguins-0.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Suivez et commentez en direct le match du Canadien contre les Penguins de Pittsburgh avec notre journaliste Katherine Harvey-Pinard.",
+          "published": "2026-10-03T23:00:00+00:00"
+        },
+        {
+          "title": "L’enquête établit un «acte terroriste» dans l’attaque du vol de flydubai",
+          "link": "https://www.ledevoir.com/monde/1014191/enquete-etablit-acte-terroriste-attaque-vol-flydubai",
+          "source": "Le Devoir",
+          "summary": "L’avion qui reliait les Émirats à Israël avait dû atterrir mercredi en urgence en Arabie saoudite.",
+          "published": "2026-10-03T22:52:08+00:00"
+        },
+        {
+          "title": "Québec | Un deuxième homme retrouvé sans vie en 24 heures",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-03/quebec/un-deuxieme-homme-retrouve-sans-vie-en-24-heures.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les policiers du Service de police de la Ville de Québec (SPVQ) ont retrouvé un homme de 45 ans sans vie entre deux bâtiments commerciaux sur le boulevard Laurier, à Québec, samedi matin.",
+          "published": "2026-10-03T22:14:06+00:00"
+        },
+        {
+          "title": "«Les idées de M. Duhaime sont dangereuses», croit Ruba Ghazal",
+          "link": "https://www.ledevoir.com/politique/quebec/1014185/idees-duhaime-sont-dangereuses-croit-ruba-ghazal",
+          "source": "Le Devoir",
+          "summary": "La montée du camp conservateur, près d’obtenir le statut de groupe parlementaire reconnu, inquiète.",
+          "published": "2026-10-03T21:27:26+00:00"
+        },
+        {
+          "title": "Il sera possible dès lundi de faire réparer gratuitement de nombreux produits vendus au Québec",
+          "link": "https://www.ledevoir.com/economie/consommation/1014176/il-sera-possible-lundi-faire-reparer-gratuitement-nombreux-produits-vendus-quebec",
+          "source": "Le Devoir",
+          "summary": "Le Devoir vous propose un guide pour cette nouvelle « garantie de bon fonctionnement » sur certains produits électroniques.",
+          "published": "2026-10-03T20:46:00+00:00"
+        },
         {
           "title": "Les Houthis accusent Ryad de pilonner Sanaa, incendie sur un site d’Aramco",
           "link": "https://www.ledevoir.com/monde/moyen-orient/1014173/houthis-accusent-ryad-pilonner-sanaa-incendie-site-aramco",
@@ -110,48 +152,6 @@
           "source": "Le Devoir",
           "summary": "Une cinquantaine de membres de la Coalition contre le logement cher ont participé à une tournée des bureaux de campagne.",
           "published": "2026-10-03T19:23:11+00:00"
-        },
-        {
-          "title": "À 48 heures du vote | Ruba Ghazal en appelle aux libéraux montréalais « pris pour acquis »",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-03/a-48-heures-du-vote/ruba-ghazal-en-appelle-aux-liberaux-montrealais-pris-pour-acquis.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "En chaude lutte avec Charles Milliard dans plusieurs circonscriptions montréalaises, Ruba Ghazal lance un appel aux libéraux « pris pour acquis » dans la métropole. Au passage, elle attaque frontalement le conservateur…",
-          "published": "2026-10-03T19:07:13+00:00"
-        },
-        {
-          "title": "À deux jours du vote, PSPP dévoile le plan de ses 100 premiers jours à la tête d'un gouvernement péquiste",
-          "link": "https://www.journaldemontreal.com/2026/10/03/a-deux-jours-du-vote-pspp-devoile-le-plan-de-ses-100-premiers-jours-a-la-tete-dun-gouvernement-pequiste",
-          "source": "Journal de Montreal",
-          "summary": "Toujours en tête dans les intentions de vote, Paul St-Pierre Plamondon a étalé ce que ferait un gouvernement du PQ dans ses 100 premiers jours.",
-          "published": "2026-10-03T19:06:42+00:00"
-        },
-        {
-          "title": "Ruba Ghazal s'inquiète de l’influence d'Éric Duhaime sur PSPP et le Parlement",
-          "link": "https://www.journaldemontreal.com/2026/10/03/rubas-ghazal-sinquiete-de-linfluence-deric-duhaime-sur-pspp-et-le-parlement",
-          "source": "Journal de Montreal",
-          "summary": "Les idées d’Éric Duhaime sont dangereuses pour le Québec, affirme Ruba Ghazal en fin de campagne, préoccupée par l’influence du chef conservateur",
-          "published": "2026-10-03T18:59:35+00:00"
-        },
-        {
-          "title": "Plaisirs liquides du week-end: l’Italie, du nord au sud",
-          "link": "https://www.journaldemontreal.com/2026/10/03/plaisirs-liquides-du-week-end-litalie-du-nord-au-sud",
-          "source": "Journal de Montreal",
-          "summary": "Le vignoble italien compte des centaines de cépages autochtones et presque autant de façons de les interpréter.",
-          "published": "2026-10-03T18:55:19+00:00"
-        },
-        {
-          "title": "« Ne votez pas pour une opposition » mais un gouvernement, dit St-Pierre Plamondon",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-03/ne-votez-pas-pour-une-opposition-mais-un-gouvernement-dit-st-pierre-plamondon.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Paul St-Pierre Plamondon a trouvé une nouvelle formule pour tenter de dissuader les électeurs de voter pour le Parti conservateur du Québec. « On procède lundi à l’élection d’un gouvernement et non pas à l’élection…",
-          "published": "2026-10-03T18:43:16+00:00"
-        },
-        {
-          "title": "PSPP dénonce une manœuvre pour le coller à l’administration Trump dans un article The Gazette",
-          "link": "https://www.journaldemontreal.com/2026/10/03/pspp-denonce-une-manuvre-pour-le-coller-a-ladministration-trump-dans-un-article-the-gazette",
-          "source": "Journal de Montreal",
-          "summary": "Le chef péquiste assure n’avoir jamais tenté de fixer une rencontre avec l’administration Trump au printemps dernier",
-          "published": "2026-10-03T18:06:25+00:00"
         }
       ]
     },
@@ -159,11 +159,53 @@
       "label": "France",
       "items": [
         {
-          "title": "Le départ de l’ISS de Sophie Adenot reporté à mercredi au plus tôt en raison de la météo, annonce la Nasa",
-          "link": "https://www.lefigaro.fr/sciences/le-depart-de-l-iss-de-sophie-adenot-reporte-a-mercredi-au-plus-tot-en-raison-de-la-meteo-annonce-la-nasa-20261003",
+          "title": "Cinq personnes mises en examen pour des soupçons de financement du Hamas par l’intermédiaire d’associations humanitaires",
+          "link": "https://www.lemonde.fr/societe/article/2026/10/04/cinq-personnes-mises-en-examen-pour-des-soupcons-de-financement-du-hamas-via-des-associations-humanitaires_6787959_3224.html",
+          "source": "Le Monde",
+          "summary": "Trois de ces suspects, dont deux présidents d’associations caritatives françaises, sont liés à une liste noire dévoilée par les autorités américaines. Washington a détaillé un système de collecte de fonds transférés…",
+          "published": "2026-10-03T22:50:22+00:00"
+        },
+        {
+          "title": "Castres-Toulouse : l’alchimie générationnelle du Stade, Kouassi ça promet, Le Brun à contre-temps… Les tops et flops du derby",
+          "link": "https://www.lefigaro.fr/sports/rugby/top-14/castres-toulouse-les-tops-et-flops-du-derby-20261003",
           "source": "Le Figaro",
-          "summary": "Si le calendrier est maintenu, Sophie Adenot et ses équipiers pourraient alors amerrir jeudi vers 15h25 GMT dans l’océan Pacifique, avant d’être rapatriés à Houston (États-Unis), au siège de la Nasa.",
-          "published": "2026-10-03T20:34:20+00:00"
+          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire du Stade Toulousain face au Castres Olympique, samedi soir à Pierre-Fabre, lors de la 5e journée du Top 14.",
+          "published": "2026-10-03T22:09:07+00:00"
+        },
+        {
+          "title": "Espagne-République tchèque : Yamal (encore) étincelant, Rodri solide capitaine, des Tchèques frustrants… Les tops et les flops",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/espagne-republique-tcheque-yamal-encore-etincelant-rodri-solide-capitaine-des-tcheques-frustrants-les-tops-et-les-flops-20261004",
+          "source": "Le Figaro",
+          "summary": "DECRYPTAGE - L’Espagne s’est imposée contre la République tchèque en Ligue des nations ce samedi. Découvrez ce qui a retenu l’attention de la rédaction.",
+          "published": "2026-10-03T22:00:26+00:00"
+        },
+        {
+          "title": "Henri Maler, fondateur d’Acrimed et figure de la critique des médias, est mort à l’âge de 79 ans",
+          "link": "https://www.lemonde.fr/disparitions/article/2026/10/03/henri-maler-fondateur-d-acrimed-et-figure-de-la-critique-des-medias-est-mort-a-l-age-de-79-ans_6787926_3382.html",
+          "source": "Le Monde",
+          "summary": "Personnalité incontournable de la critique des médias, Henri Maler laisse derrière lui une œuvre marquée par l’engagement et la défense d’une information indépendante.",
+          "published": "2026-10-03T21:48:37+00:00"
+        },
+        {
+          "title": "Budget : Bercy évalue à 10 milliards d'euros l'effort des entreprises, moitié moins que le Medef",
+          "link": "https://www.lefigaro.fr/economie/budget-bercy-evalue-a-10-milliards-d-euros-l-effort-des-entreprises-moitie-moins-que-le-medef-20261003",
+          "source": "Le Figaro",
+          "summary": "Les plus grandes entreprises bénéficieront en 2027 d’une baisse de la surtaxe sur les bénéfices, dont le produit attendu doit passer de 7,3 milliards d’euros l’an dernier à 5 milliards.",
+          "published": "2026-10-03T21:10:20+00:00"
+        },
+        {
+          "title": "Lettonie : la majorité pro-européenne en tête des élections législatives, d’après les premières estimations",
+          "link": "https://www.lefigaro.fr/international/lettonie-la-majorite-pro-europeenne-en-tete-des-elections-legislatives-d-apres-les-premieres-estimations-20261003",
+          "source": "Le Figaro",
+          "summary": "Le parti Liste unie du premier ministre sortant obtiendrait 35,6 % des voix, selon les sondages à la sortie des urnes.",
+          "published": "2026-10-03T20:56:51+00:00"
+        },
+        {
+          "title": "L’Aude et les Pyrénées-Orientales en vigilance orange pluie et inondations dimanche",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/03/l-aude-et-les-pyrenees-orientales-en-vigilance-orange-pluie-et-inondations-dimanche_6787783_3245.html",
+          "source": "Le Monde",
+          "summary": "Météo-France prévoit de fortes intensités pluvieuses dans les deux départements, avec jusqu’à 80 millimètres en quelques heures et des cumuls pouvant localement atteindre 150 à 180 millimètres sur la journée.",
+          "published": "2026-10-03T20:47:56+00:00"
         },
         {
           "title": "L'Aude passe en vigilance orange aux pluies et aux inondations dès demain, 6 heures, en plus des Pyrénées-Orientales, annonce Météo-France",
@@ -185,48 +227,6 @@
           "source": "France Info",
           "summary": "Si son équipe a subi un gros revers sur la pelouse du Racing 95 (55-25), l'ouvreur de Perpignan est entré dans l'histoire du championnat de France de rugby, samedi.",
           "published": "2026-10-03T20:08:51+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : Gabriel Attal plaide pour un candidat unique rassemblant gauche social-démocrate et droite républicaine",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-gabriel-attal-plaide-pour-un-candidat-unique-rassemblant-gauche-social-democrate-et-droite-republicaine-20261003",
-          "source": "Le Figaro",
-          "summary": "Lancé depuis quatre mois dans une campagne hyperactive, l’ancien premier ministre cherche encore à instaurer une dynamique qui lui permettrait de prendre l’ascendant dans un espace saturé de candidatures.",
-          "published": "2026-10-03T20:06:23+00:00"
-        },
-        {
-          "title": "Blocage des lycées : Éric Ciotti va déposer une proposition de loi pour «faire payer les casseurs» et sanctionner «les gourous d’ultragauche»",
-          "link": "https://www.lefigaro.fr/actualite-france/blocage-des-lycees-eric-ciotti-va-deposer-une-proposition-de-loi-pour-faire-payer-les-casseurs-et-sanctionner-les-gourous-d-ultragauche-20261003",
-          "source": "Le Figaro",
-          "summary": "«Ce n’est pas au contribuable de payer la facture !», estime le maire de Nice. Le député des Alpes-Maritimes souhaite également créer «un délit spécifique de provocation d’un mineur au blocage d’un établissement…",
-          "published": "2026-10-03T19:47:15+00:00"
-        },
-        {
-          "title": "Gangs napolitains, technique du rétroviseur et prise de judo : la grande traque des voleurs de montres de luxe",
-          "link": "https://www.lefigaro.fr/actualite-france/gangs-napolitains-technique-du-retroviseur-et-prise-de-judo-la-grande-traque-des-voleurs-de-montres-de-luxe-20261003",
-          "source": "Le Figaro",
-          "summary": "RÉCIT - À Paris, Cannes ou Bordeaux, les malfrats mêlent ruse et ultraviolence pour dérober à leurs victimes des pièces d’horlogerie dont la valeur peut atteindre jusqu’à 500 000 euros. Sur le terrain, la police met les…",
-          "published": "2026-10-03T19:47:14+00:00"
-        },
-        {
-          "title": "Multilatéralisme ou Trumpisme ? Lula ou Bolsonaro ? À l’heure de l’élection présidentielle, le Brésil à la croisée des chemins",
-          "link": "https://www.lefigaro.fr/international/multilateralisme-ou-trumpisme-lula-ou-bolsonaro-a-l-approche-des-elections-le-bresil-a-la-croisee-des-chemins-20261003",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Les deux principaux candidats à l’élection présidentielle brésilienne, dont le premier tour est prévu dimanche, défendent des conceptions diamétralement opposées de la diplomatie.",
-          "published": "2026-10-03T19:46:16+00:00"
-        },
-        {
-          "title": "Véhicules électriques : «Si le contexte» le permet, Renault investira en France plus de 10 milliards d'euros sur cinq ans",
-          "link": "https://www.lefigaro.fr/economie/vehicules-electriques-si-le-contexte-le-permet-renault-investira-en-france-plus-de-10-milliards-d-euros-sur-cinq-ans-20261003",
-          "source": "Le Figaro",
-          "summary": "«Tout scénario d’instabilité en France aura un impact majeur pour Renault. Donc oui je suis inquiet», a avoué sur France Inter le directeur général du groupe François Provost.",
-          "published": "2026-10-03T19:43:10+00:00"
-        },
-        {
-          "title": "Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d’antisémitisme révélées par « Mediapart »",
-          "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-marine-le-pen-reaffirme-sa-confiance-en-jordan-bardella-malgre-les-accusations-d-antisemitisme-revelees-par-mediapart_6787860_6205049.html",
-          "source": "Le Monde",
-          "summary": "La candidate du RN à la présidentielle réagit pour la première fois depuis la publication par « Mediapart » de nouveaux éléments visant à authentifier les messages antisémites attribués à Jordan Bardella, qui nie…",
-          "published": "2026-10-03T19:41:57+00:00"
         }
       ]
     },
@@ -325,6 +325,41 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "the new diabetic drug for weight loss",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVDF5S2hIdnhLZUpzWVZ6cmRJektYQUszTmRFTjZPVW5HOXo3UGlodk9ET21veURIWHd6ZjhmMnFjLW54YlJaenNVZ2RrT2x1dmlYb0Mtd1JYZ1BXWGxNOWxLcTJtYmVBeWFlUVh1NHU3VGdUX3RieEVQVDJvM0RiZA?oc=5",
+          "source": "BusinessWorld Online",
+          "summary": "the new diabetic drug for weight loss BusinessWorld Online",
+          "published": "2026-10-03T22:34:41+00:00"
+        },
+        {
+          "title": "Girl, 11, Manages Her Type 1 Diabetes with the Help of Her Service Dog (Exclusive)",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnlLX19BaXpLQ2VnaUpuZS1GcmJCRW5IRGY0cldpN0liR3FLRkhkSE1GNjI4YXh6RVliMkJXci1jN3pZY0tlUWk5Z1JLdU96ZE0zRmlJb0NXR3l4cmNFQzNkRXVWUkFNNjloVGp3NlJuTy1yWjRYU0ZYTjNOTGRxaVhzUlVPX1F3Wkh6dHBSbG9ncHBuM2RSd2EyZlJpYlA0Z1FsMA?oc=5",
+          "source": "People.com",
+          "summary": "Girl, 11, Manages Her Type 1 Diabetes with the Help of Her Service Dog (Exclusive) People.com",
+          "published": "2026-10-03T22:00:00+00:00"
+        },
+        {
+          "title": "Finnish Questionnaire Tool Shows Promise for Sorting Diabetes Patients by Real Needs",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTZ5V1ZXRkdObWI5MWFwOUM3ZU93NUtXVlZNbDJnV2JDUmJjOWN5XzdVcnl3YV9xTkJPaGo2aTQ2X1Z5d1F0UVp0ZWN6c3RubEQtNlVKZTNXTFgxY09MQU9ERVRORlRhamV5WkV0UUVqS2ZMX0V6VGI0QWVhMThhdjBfMnZOZXVidEVMb1R0SXd0elhxUVNUMzk3Ukh1Z0I5VVYzMklCZHZHaHV3eHc?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Finnish Questionnaire Tool Shows Promise for Sorting Diabetes Patients by Real Needs Bioengineer.org",
+          "published": "2026-10-03T21:59:05+00:00"
+        },
+        {
+          "title": "is ozempic the new weight loss drug",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CVWZaV0RMY2tYRi1ON0hhUzJkQ2VZdEp1ckZidEZWaGVaOThoV3RIdjRtRkJ0MXdFbE1qWVBlSGRaS3U3N2MtQmh2TDJfbmFVdFZVaWl2UlB0dWk0bnI0Z1ljNzE5YUE5cUJkS0RXWFZrc0pCNWpRdDhlV0g2Mjg?oc=5",
+          "source": "BusinessWorld Online",
+          "summary": "is ozempic the new weight loss drug BusinessWorld Online",
+          "published": "2026-10-03T20:37:15+00:00"
+        },
+        {
+          "title": "How a Top Diabetes Nonprofit Reined In Its Venture-Capital Arm",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2g0cGJUTlRUTlVMQXJoLUdnZlAzZjFlZXBpN1JoT3pVLWJaZzRHczVxRzZIc1daelNmdG1VblVVWVA4Y0RqOU5lN2FXUFJCb2RTVjQ5UFlqaHQ4Q0M3VGpORmFTVmF3OXhBRC1haXhfQ0w2aERCUEpVejBQV1ZUZ2F5YThGX0MtZDZIeHFBNWx0aEROaHlIQnRYYUdHXzgtaUNVSjJyczBKcEtyWXFRaw?oc=5",
+          "source": "WSJ",
+          "summary": "How a Top Diabetes Nonprofit Reined In Its Venture-Capital Arm WSJ",
+          "published": "2026-10-03T20:10:28+00:00"
+        },
+        {
           "title": "Indirect Comparison Links Tirzepatide to Greater Weight Loss Than Semaglutide",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenh1QUtVRDM0eTNxTUIxdkxZMzhZT1Q5SkIzWjFIc2VUd0ozaTJxY3RFR0dxSWZGLVlEWUpZWG1Sd0o0QVZWWDVTcTFaZWV5S1ZwQkRSX0o1YjA0TzlEeW5JSGNiV2wxOXowb2dEbjVYX2IzLTRKZnpINzJFSjdNUFNEQWJSeUJMdkNTaURlN3ZGWjF4MkpGWXlRc3lvM1JhXy1rMHlsaHZCVld0UlE?oc=5",
           "source": "Drug Topics",
@@ -346,38 +381,38 @@
           "published": "2026-10-03T19:10:49+00:00"
         },
         {
-          "title": "Indians prone to diabetes risk decade earlier than Europeans",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWVTV1E5WlNnVTFSekRTOEhOQllnTDh4dlRIN0pHRUQ0MGYxcW9ITEZKbkZ4VjJFYjB2NGpUX0doOE8telA0M1lJeVhESkk2TUo5LWEyZmVfNFhmREtVbVhSV3MtQnltQU9BUTU3ZGZNakdNWWRwQkNuamNoblYxdHhyc0xBSkZYNjVzdlBHQTFIenFNOVBnWS1VTlNVQ2hMdnNaSnNrenhjWTFnRUhQQ0c5OWV5eE1hSy0zYm10MDNZcFFtRWlrNWJrRTRwekg3WURN0gHYAUFVX3lxTFBQRU5PVXQ5bTFZNm44U0VzUDJ6MGU4ZjlpVm1NaXc1NC0tNXUyTTAzcHJacHZPXzdHb2VfLVN5MTBnLUgxOEsyOEhzNXRYT2J0OElaa3poWWRSSmVOaG1CWGxrNnZFZ0NOamRPMlRVUTNxMGtaSm9mc08wemh0aVBYcHAtdG1LNURyR0YybWh2eVVaTFVWN1Q0ZXUyVmk4WktZaEpscTBwdk1PVDVuY3NuUnpZUm0wWEFQRXBUajNrVDljS3dCbXoybUZ6S1Zta05ocW5tMDhfbA?oc=5",
-          "source": "The Times of India",
-          "summary": "Indians prone to diabetes risk decade earlier than Europeans The Times of India",
-          "published": "2026-10-03T18:09:00+00:00"
+          "title": "Weekly Amylin Drug Achieves Up to 10.7% Weight Loss",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLTdSblRQOUV0UTUybXUzdFo2d3pLTjlHaHdELWhZYjRFVEcyeEFzVjBnaXVVWGdQZUhpMUdIMDEtX0VydmIxRVUxV1Q0anNWQ0R4NGotbTBLbUk4c1FFMnlWYWhxNXhlRDdVcUs2UkZ0dXR2NFRTQ01XMjgzS19HSlRjQ0dzVHBMSURsSVpSUVZGWTF4NF9r?oc=5",
+          "source": "European Medical Journal",
+          "summary": "Weekly Amylin Drug Achieves Up to 10.7% Weight Loss European Medical Journal",
+          "published": "2026-10-03T19:05:25+00:00"
         },
         {
-          "title": "How a Top Diabetes Nonprofit Reined In Its Venture-Capital Arm",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2g0cGJUTlRUTlVMQXJoLUdnZlAzZjFlZXBpN1JoT3pVLWJaZzRHczVxRzZIc1daelNmdG1VblVVWVA4Y0RqOU5lN2FXUFJCb2RTVjQ5UFlqaHQ4Q0M3VGpORmFTVmF3OXhBRC1haXhfQ0w2aERCUEpVejBQV1ZUZ2F5YThGX0MtZDZIeHFBNWx0aEROaHlIQnRYYUdHXzgtaUNVSjJyczBKcEtyWXFRaw?oc=5",
-          "source": "WSJ",
-          "summary": "How a Top Diabetes Nonprofit Reined In Its Venture-Capital Arm WSJ",
-          "published": "2026-10-03T17:10:25+00:00"
+          "title": "new drug for weight loss diabetes",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oSUZkbVgyWmppcDFJN0cycUQzSlA4cXdPaGFObXpkdUQ5cWJOYlNVNU95SWZQWi1OV3ZZVUV1SGxVSjNabDlLMzFRTnRKTjNDaWNYX0ZXOXJvWmoxWTZIYXRpb3phU1o1aGRxOTVIWGlXMEQ3VFJ5UVE3RUtLVnM?oc=5",
+          "source": "BusinessWorld Online",
+          "summary": "new drug for weight loss diabetes BusinessWorld Online",
+          "published": "2026-10-03T17:09:43+00:00"
         },
         {
           "title": "Psychotherapy for Type 2 Diabetes: Can It Lower A1C?",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdERkSWdJZWI3d0JWZGRJdjZsM2dBRHd5b00wcmNIOHhfQ0VVSVVHUnpPOURoNTh1SGVhS2pNX0NBX29WZUZOcGh6azhvQjRub2Q3ejBtNVZOMVd5cGdjaFVDM1ZhVWhybGx4ZUtoQ1Z2M2FSYk5CLWVuam04amdRUXhn?oc=5",
-          "source": "diabetesincontrol.com",
-          "summary": "Psychotherapy for Type 2 Diabetes: Can It Lower A1C? diabetesincontrol.com",
+          "source": "Diabetes In Control",
+          "summary": "Psychotherapy for Type 2 Diabetes: Can It Lower A1C? Diabetes In Control",
           "published": "2026-10-03T16:52:35+00:00"
-        },
-        {
-          "title": "Diabetes workshop covers what doctor visits can't",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelp6V3BoR3pZN2xndmtTU0pYM1lWZVRGcmtqVVNZNWlNU0ZZY1FKT1ZGUTUzcW15bVJWcEdsQlhzTjJCcWtnaUJldFN5NGYzS2d2dkh0RURIQ2ZlT1FkVXpCRlowSUlEeE1oMTNMdUtmcXB1UkJBM2ljMURrUHF3cTJ5d2IwRG5nUUtwd2hBYUw0Ty1zWWc0aGNuWkRXMVVPWno5QlNrcjlZeVdJRmxHSmxwdUdfcWdyQXZnYmZuSHJiVmgwaGctN3JlQ2JyNWNFVGk2YVlDMFRMNjNSblE?oc=5",
-          "source": "dailyadvance.com",
-          "summary": "Diabetes workshop covers what doctor visits can't dailyadvance.com",
-          "published": "2026-10-03T14:00:00+00:00"
         },
         {
           "title": "The surprising real cause of prediabetes (and how to reverse it)",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLRWRIVmg2Ymhodjl0UUhxX194Zl9Udnd0aUJTaWFrUnVjSTNVYms5a3FiaTM2YTBxOUVTdGpENlNLcE13NEFXN292UHNCOXo3bDM0eXk3YXozZGJoWklZT096MEJVaERibkZKZjFUQllZNXZGYmx0Ng?oc=5",
           "source": "BBC Science Focus Magazine",
           "summary": "The surprising real cause of prediabetes (and how to reverse it) BBC Science Focus Magazine",
+          "published": "2026-10-03T14:00:00+00:00"
+        },
+        {
+          "title": "Diabetes workshop covers what doctor visits can't",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelp6V3BoR3pZN2xndmtTU0pYM1lWZVRGcmtqVVNZNWlNU0ZZY1FKT1ZGUTUzcW15bVJWcEdsQlhzTjJCcWtnaUJldFN5NGYzS2d2dkh0RURIQ2ZlT1FkVXpCRlowSUlEeE1oMTNMdUtmcXB1UkJBM2ljMURrUHF3cTJ5d2IwRG5nUUtwd2hBYUw0Ty1zWWc0aGNuWkRXMVVPWno5QlNrcjlZeVdJRmxHSmxwdUdfcWdyQXZnYmZuSHJiVmgwaGctN3JlQ2JyNWNFVGk2YVlDMFRMNjNSblE?oc=5",
+          "source": "dailyadvance.com",
+          "summary": "Diabetes workshop covers what doctor visits can't dailyadvance.com",
           "published": "2026-10-03T14:00:00+00:00"
         },
         {
@@ -390,15 +425,22 @@
         {
           "title": "Maurice : premier pays au monde à enregistrer un recul du diabète de type 2",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT24wV0FMRTMzMkRUUXRVVFZQTm52RXMxM1M0LXJ1MzZ6ZjdNdldfVk9aT01hWDl0bkFIUDU1Z3ZkMVBtT0J2X1dIVHJCeDFwUDZySXZiZWRmM09tcTlRQmZJYUVPYnNjdTVCMFNkSjlvRDdkOFUweVdCS0lUV3YtRWZLR2c2bURGRk5RYmJtOGhZYVpuVUdWTVVR?oc=5",
-          "source": "Defimedia",
-          "summary": "Maurice : premier pays au monde à enregistrer un recul du diabète de type 2 Defimedia",
+          "source": "defimedia.info",
+          "summary": "Maurice : premier pays au monde à enregistrer un recul du diabète de type 2 defimedia.info",
           "published": "2026-10-03T11:33:56+00:00"
+        },
+        {
+          "title": "A new Diabetes Support Group in Scunthorpe have their first face to face meet TODAY. All details below 👇",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQk1IMFVHd3dUZDVjV1Z3R25xZURjWXN4czd0LUNEYlkwcWtCazVnOGNBZEtOdzdFVDhHTnZzQlNHTFJ5Q2pyYk1ZejBRQm1pOEZlUjZQSEd6RzVvRTEwQVF1UTRMOG1nb2toRDZPUFM3ZERqSXQzS0pNX2phOHRVRWRHSW1NU1ZVbVMzcE43bXhMRHVwbUFBYkh6dDRPSWFnMWRUNzRMdUl6Z3V6LWdUdk92N2RZc29oMGlEVElHVkR0TGQ3VXA5UmV3elBlc04yWVV0aEpReEx6QzhCenU1NC1HVmJTN3pFYjhJ?oc=5",
+          "source": "facebook.com",
+          "summary": "A new Diabetes Support Group in Scunthorpe have their first face to face meet TODAY. All details below 👇 facebook.com",
+          "published": "2026-10-03T09:58:11+00:00"
         },
         {
           "title": "Columbus Community Hospital Hosts Diabetes Awareness Day Oct. 22",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlY2a0hKU3FzZzBRaWdnOE51Z3l2UDZCaE1hTWRuSGtVUm1wdEd1NEItelVQbFNISHlJTjAyek9WMnNHcW82RjFPX0w3UUdiNnlqay1HNWdIaUkxeHJFeWQyckhrTXllMkt5VmdqakN6ZGU2bmRWamtvSDdncHAxWXZUcFc?oc=5",
-          "source": "midwestmedicaledition.com",
-          "summary": "Columbus Community Hospital Hosts Diabetes Awareness Day Oct. 22 midwestmedicaledition.com",
+          "source": "Midwest Medical Edition",
+          "summary": "Columbus Community Hospital Hosts Diabetes Awareness Day Oct. 22 Midwest Medical Edition",
           "published": "2026-10-03T08:44:46+00:00"
         },
         {
@@ -451,13 +493,6 @@
           "published": "2026-10-02T21:38:05+00:00"
         },
         {
-          "title": "What’s Next for Weight Loss Drugs? A Look at EloraTZP, Trevogrumab, and CBL-154",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenRsVDVDRE92anBxQXFSNEZjSHNKcENaMXZZRkNGbjdBemVNdTJjVFlTS0hLQWk4TXZfWThOWXFjU0lOYUJESmtYNDlhUXRwTk01NFRHZ2Z6d2JfRk9qM193aVVpUzUwX0wwVG9KNGR2WVpra1lLMkhaZUxucHNybGVMaUt6SHB1d1NQeS1nbVVtN3RE?oc=5",
-          "source": "Everyday Health",
-          "summary": "What’s Next for Weight Loss Drugs? A Look at EloraTZP, Trevogrumab, and CBL-154 Everyday Health",
-          "published": "2026-10-02T21:16:05+00:00"
-        },
-        {
           "title": "Retatrutide Delivers Substantial Weight Loss in Type 2 Diabetes",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qb2t0TC1HS3NLN1hPSUhfdFZkeU5kdjk3SDJYT3F6eVRRall0NlFYYzRic0tTaUtVRmlnVEVWU3RXaTNHbnNUeFM0cTdIbEVGOVdaaFZrdHgyRkZ6VzhhWmNIM3NMeGs?oc=5",
           "source": "MedPage Today",
@@ -495,15 +530,15 @@
         {
           "title": "Pros and Cons of At-Home A1C Testing for Type 2 Diabetes",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnhuWl9LX2dDM01ESlV2SXRBU1c3NUVxcEJIdU45TGY0SG9ybWlWQ2xXNmxXbUFHdmNON0RlQzQteEEzRFlVY3ZBcWhIc3B1Y282Nk5JaXc4ekdSVXc4SUEwSlZIdG9XYjQtNXJNWmNmNFo2eWtPd0luMW9fNG84ZXJOYWtka21SRzF6VmZjSXNSOG1lREhrdFBMMnJQa29JbXh2aVF5S0tza05XOS1CS2lTMjEwcUdKY3ZZYnFn?oc=5",
-          "source": "Yahoo Health",
-          "summary": "Pros and Cons of At-Home A1C Testing for Type 2 Diabetes Yahoo Health",
+          "source": "health.yahoo.com",
+          "summary": "Pros and Cons of At-Home A1C Testing for Type 2 Diabetes health.yahoo.com",
           "published": "2026-10-02T18:36:15+00:00"
         },
         {
           "title": "Key differences between diabetes in cats and dogs",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUdGUkNIRUViTmpvRkdqcmNoU1BLNnRzZXNQckdEUDdnZFZ1YlpUYWswanNKM2dOcFhXRmFuZEh5ZC1rYlpaOVJtTkQxbWJpSktkVWRjV3F0ZTBnSkpJcVFpY2VnT3AtNUE2RFJCQURKR3k5bUluTzg5WDRBQTZZa05MbUtQYi1wVVhUdUJGYmQxMnFMRTB6TU5rcDg4OUtJNUE?oc=5",
-          "source": "aaha.org",
-          "summary": "Key differences between diabetes in cats and dogs aaha.org",
+          "source": "American Animal Hospital Association - AAHA",
+          "summary": "Key differences between diabetes in cats and dogs American Animal Hospital Association - AAHA",
           "published": "2026-10-02T18:06:21+00:00"
         },
         {
@@ -535,13 +570,6 @@
           "published": "2026-10-02T13:30:00+00:00"
         },
         {
-          "title": "CareSens Air achieves maximum 5/5 rating in DSN Forum UK CGM Comparison Chart",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFZoSmhNTmRIT3Q2UTFVNDZuOVFfR3RXdVJxNVlHN3cwTW1IMkpfdy1jUXdKSEhCemZQM21tWmVhQW01UjZ4RE9DRUdRMlFaV0RRc24tT1phSDZqeTB5dXRMNkRKVXhpQll1cmhOV2RDeGhBQmwtMWhBVnZzbmZaWlE1TmROLWFVRG1hZlZGa3FSSS1UaUt1SnhzdmEzbW4tSFZZaGNBMnA4dw?oc=5",
-          "source": "The Diabetes Times",
-          "summary": "CareSens Air achieves maximum 5/5 rating in DSN Forum UK CGM Comparison Chart The Diabetes Times",
-          "published": "2026-10-02T12:57:03+00:00"
-        },
-        {
           "title": "79 deaths a day: South Africa’s diabetes crisis needs a new strategy",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVVqeG9QMS1pcVp6Nmpldk9jVTRLN3FnUUI2QzhmQ1Ywc3JtTk9YQ3BpcmJzeXl4andLbzVvU1ltdjItSTNteWp4LVZZTDQxbXFQZ09ZT3diUE9VRDZNQTNvTGQ0TDcwSVpCRHdtR2dxeURfMUNid2YyNDNhcHpZMzNPNG1JYm5LUjFETHZaOHVmT1RZWU82SGIzcUM3Ym5UM2gw?oc=5",
           "source": "The Conversation",
@@ -554,13 +582,6 @@
           "source": "Journal Saint-François",
           "summary": "Mobilisation contre le diabète à l’occasion d’une soirée-bénéfice Journal Saint-François",
           "published": "2026-10-02T12:53:31+00:00"
-        },
-        {
-          "title": "Living kidney donor uses platform to inspire others. ‘Life has changed for the better’",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0dKdy1tV2kySFpWRy03SS1nN3FxQXJVSUJKNUlMdTlGd0NXN2lReUJyVGFrMVZKUHkxdjlYZkVuWVNCek53VEV0U05xQThDRW1NdDNXaUgwT1FoMi1GazhRODlwREhXdUJhdUZiS2lQTUg0eVM2b0JOR0x2WUZqemZHQnbSAYQBQVVfeXFMTV9DSUN2VW9ONE8xdk9wTjF6Mk5ndklkdlM0TUFqN1E2NHo1aVVfemRMb3ZWV0thZVMwX0lLc2hVbU4yYU9FTzhUUndaTzNoaHgxcVBhc20tYTMycGhrdVZEdUpxeWFSOXhOdGE0RTBqMUlpUFVHdGJEdmhkR0p6WmRoc1px?oc=5",
-          "source": "fresnobee.com",
-          "summary": "Living kidney donor uses platform to inspire others. ‘Life has changed for the better’ fresnobee.com",
-          "published": "2026-10-02T12:27:00+00:00"
         },
         {
           "title": "Lilly's oral GLP-1 Foundayo shows cardiovascular non-inferiority in largest diabetes trial to date",
@@ -582,27 +603,6 @@
           "source": "cbs19.tv",
           "summary": "Low-carb diet may improve blood sugar control in children with Type 1 diabetes cbs19.tv",
           "published": "2026-10-02T11:10:00+00:00"
-        },
-        {
-          "title": "Family hopes service dog will help 4-year-old manage type 1 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2RIRXZoZFlWano2X3lYNGh6WW9zdjRZUWtCOFZja2FPWHF4eVFwUFdrOWF3aTY0bnQ1Ql9HU2p2ZzNEUnhQTFNBM2JaUlZsMmJQZUFmSHduWTVJTGVvMDRzU3ZkLXBfQzBOOVJrRW5qQVdRU3dNQldURU91bXBlbWxBSFF6RFE5MDNVYTd6dEpWa3JNTEhkRlVfbzAyN0xnRU5IRTVaYWZmQQ?oc=5",
-          "source": "WDSU",
-          "summary": "Family hopes service dog will help 4-year-old manage type 1 diabetes WDSU",
-          "published": "2026-10-02T11:01:00+00:00"
-        },
-        {
-          "title": "New diabetes and obesity studies making waves at EASD",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckVYSkFOeTdfdGxKN0xoclQyNWtnTHNwTW4xNThVX3lucW5tbUFsWkh6YnB1cC00c3ZPd2ozNUlRU0JleTQ3MWFrQXVCOWtyZHcwNkRJQ196RDZmb2EwV0E3Uy1Cd290Tll0MGRfbGJ2UnpwQ3I4OF9zT0hzTUZVSXNpLTZvSjA?oc=5",
-          "source": "pharmaphorum",
-          "summary": "New diabetes and obesity studies making waves at EASD pharmaphorum",
-          "published": "2026-10-02T10:42:48+00:00"
-        },
-        {
-          "title": "Common Anti-Inflammatories Linked to Lower DR Risk",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlVGR01lODBidVRlWWt0SkVFeDRzbzhrZzhNWWVJR2FFTUlITU03MWtmc2UyWVQ0eklIRDlzTUZwdFJWc1QxWUY1ZWJMT2VnRmo3S09yZWlYV3NSWkJvUlZZc0hqd29LMGZNRmRfdjMyWGhYRlhIVnpZUVR2eVlvSGxOb1gzemVnQjY5SmJOa0VZd2g3ejJzUW14UVE?oc=5",
-          "source": "Review of Optometry",
-          "summary": "Common Anti-Inflammatories Linked to Lower DR Risk Review of Optometry",
-          "published": "2026-10-02T10:14:18+00:00"
         }
       ]
     }
