@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-10-04T20:53:26.271257+00:00",
+  "generated_at": "2026-10-04T23:50:01.436749+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Gaza : Israël affirme avoir tué un membre du Hamas, dirigeant d’une ONG turque",
+          "link": "https://www.lemonde.fr/international/article/2026/10/04/gaza-israel-affirme-avoir-tue-un-membre-du-hamas-dirigeant-d-une-ong-turque_6788366_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon l’armée israélienne, Saqr Nabil Musa Qaisi, un Palestinien qui gérait l’organisation Deniz Feneri, était membre de l’unité d’élite Nukhba du Hamas, et entretenait des liens avec des responsables « des instances…",
+          "published": "2026-10-04T21:52:17+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : nouveau rendez-vous politique sur France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261004-pr%C3%A9sidentielle-2027-nouveau-rendez-vous-politique-sur-france-24",
+          "source": "France 24",
+          "summary": "Le nouveau rendez-vous politique de France 24, chaque dimanche soir à 21h10. Au menu de ce 4 octobre : la primaire à gauche, l'affaire Bardella et la mobilisation des lycéens. Avec Brice Soccol, politologue et…",
+          "published": "2026-10-04T21:48:36+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Kiev « achètera davantage d’armes et d’équipements à l’Allemagne », assure Volodymyr Zelensky lors d’une visite de Frierich Merz à Kiev",
+          "link": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-kiev-achetera-davantage-d-armes-et-d-equipements-a-l-allemagne-assure-volodymyr-zelensky-lors-d-une-visite-de-frierich-merz-a-kiev_6787996_3210.html",
+          "source": "Le Monde",
+          "summary": "« La collaboration visant à créer des unités de drones en Allemagne a déjà commencé, et nous sommes prêts à apporter notre aide en matière de formation et d’expertise », a ajouté le président ukrainien.",
+          "published": "2026-10-04T21:14:20+00:00"
+        },
         {
           "title": "Début du mois Octobre rose : sensibiliser, dépister et informer sur le cancer du sein",
           "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261004-d%C3%A9but-du-mois-octobre-rose-sensibiliser-d%C3%A9pister-et-informer-sur-le-cancer-du-sein",
@@ -50,29 +71,8 @@
           "title": "Le cycliste Remco Evenepoel sacré champion d'Europe en Slovénie à la photo-finish",
           "link": "https://www.france24.com/fr/sports/20261004-le-cycliste-remco-evenepoel-sacr%C3%A9-champion-d-europe-en-slov%C3%A9nie-%C3%A0-la-photo-finish",
           "source": "© Jure Makovec, AFP",
-          "summary": "Remco Evenepoel a été couronné champion d'Europe pour la première fois dimanche à Sencur sur les routes de Slovénie, où manquait le héros local Tadej Pogacar. Le cycliste belge a devancé d'un boyau l'Italien Giulio…",
+          "summary": "Remco Evenepoel a été couronné champion d'Europe pour la première fois dimanche à Sencur, sur les routes de Slovénie, où manquait le héros local Tadej Pogacar. Le cycliste belge a devancé d'un boyau l'Italien Giulio…",
           "published": "2026-10-04T18:37:00+00:00"
-        },
-        {
-          "title": "En Ethiopie, la prise de Makalé par l’armée fédérale ravive les craintes d’un conflit régional dans la Corne de l’Afrique",
-          "link": "https://www.lemonde.fr/afrique/article/2026/10/04/en-ethiopie-la-prise-de-makale-par-l-armee-federale-ravive-les-craintes-d-un-conflit-regional-dans-la-corne-de-l-afrique_6788328_3212.html",
-          "source": "Le Monde",
-          "summary": "Après des mois de tensions, les combats ont repris fin septembre dans le nord de l’Ethiopie, entre d’une part l’armée fédérale et, d’autre part, le Front populaire de libération du Tigré.",
-          "published": "2026-10-04T18:36:48+00:00"
-        },
-        {
-          "title": "Quand \"Lucky Luke\" en voit de toutes les couleurs",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261004-quand-lucky-luke-en-voit-de-toutes-les-couleurs-bande-dessin%C3%A9e-bd-morris-culture-prime",
-          "source": "France 24",
-          "summary": "Avez-vous déjà remarqué que certaines cases de la célèbre bande dessinée \"Lucky Luke\" n'avaient que deux couleurs ? Cette spécificité, typique du style de Morris, le papa du cowboy le plus rapide de l'Ouest, s'explique…",
-          "published": "2026-10-04T17:13:23+00:00"
-        },
-        {
-          "title": "Midterms 2026 : Donald Trump prend en main la campagne républicaine pour mieux assurer sa propre promotion",
-          "link": "https://www.lemonde.fr/international/article/2026/10/04/midterms-2026-donald-trump-prend-en-main-la-campagne-republicaine-pour-mieux-assurer-sa-propre-promotion_6788322_3210.html",
-          "source": "Le Monde",
-          "summary": "Le président américain, très impopulaire, s’est lancé dans une série de meetings avant les élections de mi-mandat le 3 novembre, mais il semble avoir perdu l’instinct politique qui lui a réussi jusqu’à présent.",
-          "published": "2026-10-04T17:00:13+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Flèche du PQ | « C’est en train de leur échapper », croit Duhaime",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-04/fleche-du-pq/c-est-en-train-de-leur-echapper-croit-duhaime.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Phénomène électoral | Le vote stratégique en cinq questions",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-04/phenomene-electoral/le-vote-strategique-en-cinq-questions.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les flèches de Paul St-Pierre Plamondon à son endroit révèlent que le Parti québécois voit sa majorité « lui glisser entre les doigts », croit Éric Duhaime. À moins de 24 heures du scrutin, le chef conservateur se dit «…",
-          "published": "2026-10-04T20:09:26+00:00"
+          "summary": "À quelques jours du 5 octobre, les appels au « vote stratégique » se font entendre. Pour comprendre ce phénomène électoral, La Presse a posé cinq questions au professeur agrégé à l’École de politique appliquée de…",
+          "published": "2026-10-04T23:00:00+00:00"
         },
         {
-          "title": "Le président yéménite annonce une offensive pour reprendre le pays aux Houthis",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1014263/president-yemenite-annonce-offensive-reprendre-pays-houthis",
-          "source": "Le Devoir",
-          "summary": "Alors que le gouvernement dispose de capacités aériennes limitées, un chercheur juge l’annonce «insignifiante».",
-          "published": "2026-10-04T20:03:15+00:00"
-        },
-        {
-          "title": "Bilan de campagne | « Tout le Québec n’a pas viré à droite », scande Ruba Ghazal",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-04/bilan-de-campagne/tout-le-quebec-n-a-pas-vire-a-droite-scande-ruba-ghazal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Après la kakistocratie, voici l’ochlocratie",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-10-04/apres-la-kakistocratie-voici-l-ochlocratie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Peu importe le nombre d’élus qu’elle obtiendra, Ruba Ghazal se dit « prête à jouer tous les rôles » à l’Assemblée nationale. Mais à 24 heures du vote, au moment où les sondages demeurent défavorables pour Québec…",
-          "published": "2026-10-04T19:01:50+00:00"
+          "summary": "",
+          "published": "2026-10-04T23:00:00+00:00"
         },
         {
-          "title": "Comment profiter de la soirée électorale au Québec?",
-          "link": "https://www.ledevoir.com/politique/quebec/1014260/comment-profiter-soiree-electorale-quebec",
-          "source": "Le Devoir",
-          "summary": "Sur nos plateformes, dans des événements festifs ou auprès des partis: «Le Devoir» vous fait quelques suggestions.",
-          "published": "2026-10-04T18:46:00+00:00"
-        },
-        {
-          "title": "Quoi lire cette semaine?",
-          "link": "https://www.ledevoir.com/lire/1014254/quoi-lire-cette-semaine",
-          "source": "Le Devoir",
-          "summary": "Une sélection de nos critiques pour guider vos lectures de la semaine.",
-          "published": "2026-10-04T18:01:55+00:00"
-        },
-        {
-          "title": "Dernier jour de campagne | Inquiète pour l’avenir de la troisième voie, Fréchette mobilise ses militants",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-04/dernier-jour-de-campagne/inquiete-pour-l-avenir-de-la-troisieme-voie-frechette-mobilise-ses-militants.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le chanteur de l’heure | Gabriel Fredette, le pompier qui enflamme TikTok",
+          "link": "https://www.lapresse.ca/arts/musique/2026-10-04/le-chanteur-de-l-heure/gabriel-fredette-le-pompier-qui-enflamme-tiktok.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Au dernier jour de la campagne électorale, Christine Fréchette admet qu’elle s’inquiète pour l’avenir de la « troisième voie » au Québec. À ses militants, elle rappelle que « chaque comté » peut devenir « un berceau »…",
-          "published": "2026-10-04T17:33:05+00:00"
+          "summary": "Il y a tout juste un an, Gabriel Fredette quittait son emploi de pompier pour se consacrer à la musique. Aujourd’hui, il est l’un des chanteurs les plus populaires au Québec. Si son nom ne vous dit rien, c’est parce que…",
+          "published": "2026-10-04T22:30:00+00:00"
         },
         {
-          "title": "L’abstention, entre désengagement citoyen et choix politique",
-          "link": "https://www.ledevoir.com/politique/quebec/1014248/abstention-entre-desengagement-citoyen-choix-politique",
-          "source": "Le Devoir",
-          "summary": "Élection après élection, la voix d’un nombre grandissant de Québécois échappe aux institutions.",
-          "published": "2026-10-04T17:25:00+00:00"
-        },
-        {
-          "title": "Les auteurs contre-attaquent face à l’IA",
-          "link": "https://www.ledevoir.com/lire/1014242/auteurs-contre-attaquent-contre-ia",
-          "source": "Le Devoir",
-          "summary": "Une demande d’action collective portée par l’autrice Anne Robillard contre les géants numériques sera étudiée dès lundi.",
-          "published": "2026-10-04T16:52:00+00:00"
-        },
-        {
-          "title": "Guide des élections 2026 | Où, comment, pour qui voter ?",
-          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-04/guide-des-elections-2026/ou-comment-pour-qui-voter.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Valérie Plante à Tout peut arriver | Faire face à la critique",
+          "link": "https://www.lapresse.ca/arts/chroniques/2026-10-04/valerie-plante-a-tout-peut-arriver/faire-face-a-la-critique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Après 39 jours de campagne électorale, près de 5 millions d’électeurs québécois sont attendus dans les bureaux de vote. Guide pour tout savoir sur les élections 2026.",
-          "published": "2026-10-04T16:30:00+00:00"
+          "summary": "Il s’est passé quelque chose de rare samedi à l’émission Tout peut arriver, dont le titre ne pouvait pas être plus approprié. Il a eu lieu durant le fameux segment où l’œuvre d’un artiste est soumise à la critique de…",
+          "published": "2026-10-04T22:00:00+00:00"
         },
         {
-          "title": "Les cours suspendus lundi dans «400 à 500» lycées en France",
-          "link": "https://www.ledevoir.com/monde/europe/1014239/cours-suspendus-lundi-400-500-lycees-france",
+          "title": "Présidentielle au Brésil | Flavio Bolsonaro largement devant Lula au premier tour",
+          "link": "https://www.lapresse.ca/international/amerique-latine/2026-10-04/presidentielle-au-bresil/flavio-bolsonaro-largement-devant-lula-au-premier-tour.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le sénateur conservateur Flavio Bolsonaro dispose dimanche d’une large avance sur le président sortant de gauche Lula après que près des deux tiers des urnes ont été dépouillées, au soir du premier tour de la…",
+          "published": "2026-10-04T21:51:34+00:00"
+        },
+        {
+          "title": "À quelques heures du vote, les chefs lancent leur dernier plaidoyer",
+          "link": "https://www.ledevoir.com/politique/quebec/1014326/quelques-heures-vote-chefs-lancent-dernier-plaidoyer",
           "source": "Le Devoir",
-          "summary": "Le gouvernement se défend de faire un usage disproportionné de la force contre le mouvement étudiant.",
-          "published": "2026-10-04T16:14:49+00:00"
+          "summary": "Les chefs ont lancé leur ultime appel aux indécis dimanche.",
+          "published": "2026-10-04T21:40:00+00:00"
+        },
+        {
+          "title": "Milliard termine sa campagne en Estrie et veut faire mentir les sondages",
+          "link": "https://www.lapresse.ca/elections-quebecoises/2026-10-04/milliard-termine-sa-campagne-en-estrie-et-veut-faire-mentir-les-sondages.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Charles Milliard y aura passé près du quart de sa campagne, et c’est en Estrie qu’il conclut son périple électoral, avec des arrêts dans Sherbrooke, Saint-François et Brome-Missisquoi. Ici, comme dans d’autres régions,…",
+          "published": "2026-10-04T21:14:41+00:00"
+        },
+        {
+          "title": "La gagnante du marathon de Québec veut inspirer les nouvelles mamans",
+          "link": "https://www.journaldemontreal.com/2026/10/04/la-gagnante-du-marathon-de-quebec-veut-inspirer-les-nouvelles-mamans",
+          "source": "Journal de Montreal",
+          "summary": "La gagnante du marathon de Québec veut inspirer les nouvelles mamans",
+          "published": "2026-10-04T21:04:08+00:00"
+        },
+        {
+          "title": "Éric Duhaime «très, très confiant» à la veille du vote",
+          "link": "https://www.ledevoir.com/politique/quebec/1014281/eric-duhaime-tres-tres-confiant-veille-vote",
+          "source": "Le Devoir",
+          "summary": "Le chef conservateur souhaite obtenir 20% des votes et former un groupe parlementaire reconnu.",
+          "published": "2026-10-04T21:01:00+00:00"
+        },
+        {
+          "title": "Jay Clayton, le nouveau référent IA de Trump, un pragmatique qui plait aux patrons et aux élus",
+          "link": "https://www.journaldemontreal.com/2026/10/04/jay-clayton-le-nouveau-referent-ia-de-trump-un-pragmatique-qui-plait-aux-patrons-et-aux-elus",
+          "source": "Journal de Montreal",
+          "summary": "Le nouveau référent du gouvernement américain pour l’intelligence artificielle Jay Clayton est un sobre avocat passé par plusieurs postes de prestige.",
+          "published": "2026-10-04T20:14:18+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT – Troisième débat de la primaire de la gauche : face à la Russie, Glucksmann ne veut pas «avoir la main qui tremble»",
+          "title": "Des ex-diplomates appellent l'UE à «agir» face à la colonisation en Cisjordanie",
+          "link": "https://www.lefigaro.fr/international/des-ex-diplomates-appellent-l-ue-a-agir-face-a-la-colonisation-en-cisjordanie-20261005",
+          "source": "Le Figaro",
+          "summary": "Le gouvernement israélien doit bientôt attribuer les «contrats pour la première tranche du projet de colonisation illégal E1», rappellent les diplomates dans cette tribune publiée Libération.",
+          "published": "2026-10-04T23:14:07+00:00"
+        },
+        {
+          "title": "La Palestine, un an après le «cessez-le-feu» : pourquoi aucune action de l’UE ? par 500 anciens ministres, ambassadeurs et hauts fonctionnaires européens",
+          "link": "https://www.liberation.fr/idees-et-debats/tribunes/la-palestine-un-an-apres-le-cessez-le-feu-pourquoi-aucune-action-de-lue-par-500-anciens-ministres-ambassadeurs-et-hauts-fonctionnaires-europeens-20261005_3OOT4YIHB5F5HMYKYQYH52TJLM/",
+          "source": "Liberation",
+          "summary": "Après une nouvelle année de violences et de nettoyage ethnique perpétrés par le gouvernement israélien contre la population palestinienne à Gaza et en Cisjordanie, 500 hauts responsables européens dont quatre…",
+          "published": "2026-10-04T23:00:00+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : revivez le troisième débat de la primaire de la gauche",
           "link": "https://www.liberation.fr/politique/elections/en-direct-presidentielle-2027-suivez-le-troisieme-debat-de-la-primaire-de-la-gauche-20261004_PZQMC734CFCOVDA5336QE7LLME/",
           "source": "Liberation",
-          "summary": "Trois jours après leur deuxième rencontre, Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel se font face sur BFM TV ce dimanche soir, en partenariat avec «Libération».",
-          "published": "2026-10-04T20:50:13+00:00"
+          "summary": "Trois jours après leur deuxième rencontre, Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel se sont fait face sur BFM TV ce dimanche soir, en partenariat avec «Libération».",
+          "published": "2026-10-04T22:43:47+00:00"
         },
         {
-          "title": "EN DIRECT - Débat de la primaire à gauche : les cinq candidats débattent sur la question de l’énergie",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-apres-la-diffusion-de-propos-prives-de-glucksmann-le-dernier-debat-des-candidats-de-la-primaire-de-la-gauche-s-annonce-tendu-20261004",
-          "source": "Le Figaro",
-          "summary": "Les cinq candidats répondent aux interrogations des électeurs indécis.",
-          "published": "2026-10-04T20:50:03+00:00"
-        },
-        {
-          "title": "Le rappeur Prince Waly est mort «des suites d’une longue maladie», annoncent ses proches",
-          "link": "https://www.lefigaro.fr/culture/le-rappeur-prince-waly-est-mort-des-suites-d-une-longue-maladie-annoncent-ses-proches-20261004",
-          "source": "Le Figaro",
-          "summary": "Figure du rap français, auteur de l’album Moussa en 2022, le natif de Montreuil, âgé de 34 ans, luttait depuis huit années contre une maladie rare associée à la présence d’une tumeur.",
-          "published": "2026-10-04T20:44:49+00:00"
-        },
-        {
-          "title": "Blocus des lycées : la feuille de route de Sébastien Lecornu à ses ministres pour éteindre la colère",
-          "link": "https://www.lefigaro.fr/politique/blocus-des-lycees-la-feuille-de-route-de-sebastien-lecornu-a-ses-ministres-pour-eteindre-la-colere-20261004",
-          "source": "Le Figaro",
-          "summary": "Remplacement des professeurs, transition climatique, représentation des lycéens… Le premier ministre attend des propositions avant la fin du mois d’octobre.",
-          "published": "2026-10-04T20:25:52+00:00"
-        },
-        {
-          "title": "Iran : le ministre du Pétrole démissionne dans un contexte de blocus naval américain des ports du pays",
-          "link": "https://www.lefigaro.fr/flash-actu/iran-le-ministre-du-petrole-demissionne-dans-un-contexte-de-blocus-naval-americain-des-ports-du-pays-20261004",
-          "source": "Le Figaro",
-          "summary": "",
-          "published": "2026-10-04T20:17:21+00:00"
-        },
-        {
-          "title": "Royaume-Uni : les Verts adoptent une motion disant que «le sionisme est du racisme»",
-          "link": "https://www.lefigaro.fr/international/royaume-uni-les-verts-adoptent-une-motion-disant-que-le-sionisme-est-du-racisme-20261004",
-          "source": "Le Figaro",
-          "summary": "Le texte, adopté lors d’un congrès politique, a divisé le parti. Le président israélien Isaac Herzog a qualifié cette motion de «honte» et de «disgrâce».",
-          "published": "2026-10-04T20:08:01+00:00"
-        },
-        {
-          "title": "Ségolène Royal dénonce \"une agression à connotation sexuelle\" après que Raphaël Glucksmann l'a accusé d'avoir fait \"la danse du ventre\" auprès d'Emmanuel Macron",
-          "link": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/segolene-royal-denonce-une-agression-a-connotation-sexuelle-apres-que-raphael-glucksmann-l-a-accuse-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron_8222578.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le candidat Place publique s'est défendu dimanche en expliquant que les vidéos diffusées par \"Le Media\" ont été filmées \"dans un cadre privé\" et en assurant qu'il \"n'y avait aucune connotation sexiste\".",
-          "published": "2026-10-04T19:50:24+00:00"
-        },
-        {
-          "title": "Maurice Berger et Alexandre Stobinsky : « Le casier judiciaire vierge des lycéens coupables de violences inquiète bien plus qu’il ne rassure »",
-          "link": "https://www.lefigaro.fr/vox/societe/maurice-berger-et-alexandre-stobinsky-le-casier-judiciaire-vierge-des-lyceens-coupables-de-violences-inquiete-bien-plus-qu-il-ne-rassure-20261004",
-          "source": "Le Figaro",
-          "summary": "TRIBUNE - La majorité des mineurs déférés par le parquet, dans le cadre des émeutes lycéennes qui ont secoué la France cette semaine, sont inconnus de la justice pénale. Or l’absence d’un antécédent pénal vaut souvent…",
-          "published": "2026-10-04T19:45:12+00:00"
-        },
-        {
-          "title": "Aux Etats-Unis, l’arme du coût de la vie pourrait bien se retourner contre Trump lors des midterms",
-          "link": "https://www.liberation.fr/international/amerique/aux-etats-unis-larme-du-cout-de-la-vie-pourrait-bien-se-retourner-contre-trump-20261004_PF25ZPFAEVBUPJIAZY7U7P4ULE/",
+          "title": "Propos polémiques de Glucksmann, LFI, lycées, retraites, Hollande : les 5 moments marquants du troisième débat de la primaire PS",
+          "link": "https://www.liberation.fr/politique/propos-polemiques-de-glucksmann-lfi-lycees-retraites-hollande-les-5-moments-marquants-du-troisieme-debat-de-la-primaire-ps-20261005_HCWNVLMA5ZHEJFREJWXD7J3XAY/",
           "source": "Liberation",
-          "summary": "Lors des élections de mi-mandat du 3 novembre, les élus républicains pourraient payer au prix fort le retour de l’inflation, la flambée des carburants et leur fidélité aveugle à un Président plus impopulaire que jamais.",
-          "published": "2026-10-04T19:26:48+00:00"
+          "summary": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel ont débattu, dimanche 4 octobre au soir, en direct sur BFMTV. «Libé» revient sur cette troisième et dernière confrontation avant le…",
+          "published": "2026-10-04T22:22:40+00:00"
         },
         {
-          "title": "\"Même pas en rêve\" : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal",
-          "link": "https://www.franceinfo.fr/elections/presidentielle/meme-pas-en-reve-le-camp-de-raphael-glucksmann-rejette-la-main-tendue-par-gabriel-attal_8222443.html#xtor=RSS-3-[lestitres]",
+          "title": "Au Brésil, le vote pour le premier tour de la présidentielle est clôturé, le pays suspendu au résultat du match entre Lula et Flavio Bolsonaro",
+          "link": "https://www.franceinfo.fr/monde/bresil/au-bresil-le-vote-pour-le-premier-tour-de-la-presidentielle-est-cloture-le-pays-suspendu-au-resultat-du-match-entre-lula-et-flavio-bolsonaro_8222623.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Samedi, dans un entretien au \"Parisien\", Gabriel Attal, candidat Renaissance à la présidentielle, avait dit vouloir un \"vrai et large rassemblement\" en vue de 2027 \"rassemblant des électeurs de la gauche…",
-          "published": "2026-10-04T19:05:59+00:00"
+          "summary": "Le premier tour de l'élection opposant le président brésilien sortant de gauche Lula et son rival conservateur Flavio Bolsonaro s'est achevé dimanche.",
+          "published": "2026-10-04T22:10:25+00:00"
+        },
+        {
+          "title": "Primaire à gauche : une thérapie collective pour les cinq candidats en guise de dernier débat",
+          "link": "https://www.liberation.fr/politique/elections/primaire-a-gauche-une-therapie-collective-pour-les-cinq-candidats-en-guise-de-dernier-debat-20261005_SRLHRWS6KJCCTPRFQEGIK5Q35M/",
+          "source": "Liberation",
+          "summary": "Pour leur ultime rendez-vous avant le premier tour sur BFM-TV, en partenariat avec «Libération», les cinq prétendants à l’investiture socialiste et sociale-démocrate ont creusé leur fracture sur leur rapport à Jean-Luc…",
+          "published": "2026-10-04T22:09:24+00:00"
+        },
+        {
+          "title": "Montpellier-Toulon : Tolofua impérial, Miotti précieux, un RCT sans réaction… Les tops et les flops",
+          "link": "https://www.lefigaro.fr/sports/rugby/top-14/montpellier-toulon-tolofua-imperial-miotti-precieux-un-rct-sans-reaction-les-tops-et-les-flops-20261004",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire de Montpellier face au Racing Club Toulonnais, en clôture de la 5e journée de Top 14.",
+          "published": "2026-10-04T22:02:07+00:00"
+        },
+        {
+          "title": "Élection présidentielle au Brésil : Flavio Bolsonaro largement devant Lula au 1er tour",
+          "link": "https://www.lefigaro.fr/international/election-presidentielle-au-bresil-flavio-bolsonaro-largement-devant-lula-au-1er-tour-20261004",
+          "source": "Le Figaro",
+          "summary": "Le fils de l’ancien président d’extrême droite Jair Bolsonaro comptait à minuit environ 50,2% des suffrages lors de ce décompte partiel, contre quelque 41,6% pour Luiz Inacio Lula da Silva. À 23h50, 47% des bulletins…",
+          "published": "2026-10-04T21:55:03+00:00"
+        },
+        {
+          "title": "Invectives, retraites, soutien aux lycéens... Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+          "link": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/invectives-retraites-soutien-aux-lyceens-ce-qu-il-faut-retenir-du-dernier-debat-de-la-primaire-socialiste_8222563.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les cinq candidats de la primaire socialiste se sont affrontés dimanche, durant près de trois heures, lors du troisième et dernier débat télévisé avant le scrutin qui devra désigner le représentant de la…",
+          "published": "2026-10-04T21:52:32+00:00"
+        },
+        {
+          "title": "Gaza : Israël affirme avoir tué un membre du Hamas, dirigeant d’une ONG turque",
+          "link": "https://www.lemonde.fr/international/article/2026/10/04/gaza-israel-affirme-avoir-tue-un-membre-du-hamas-dirigeant-d-une-ong-turque_6788366_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon l’armée israélienne, Saqr Nabil Musa Qaisi, un Palestinien qui gérait l’organisation Deniz Feneri, était membre de l’unité d’élite Nukhba du Hamas, et entretenait des liens avec des responsables « des instances…",
+          "published": "2026-10-04T21:52:17+00:00"
         }
       ]
     },
@@ -325,18 +325,67 @@
       "label": "Actualites diabete",
       "items": [
         {
-          "title": "Tesla towing U-Haul trailer crashes after driver suffers diabetic emergency",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzNoa19NaGpuMkdkSlUzTjZzbEtSS3NkN1pnVjJHUVhjUXlzRjZIVVk1WEZrdkcyZDgwaks4THBhVUFDcVJaRnNMd1JLbDFPSHZWYzliYlY0MTdidXRJTERKMThpaTRkNG12c2pMZ3gzTExObWpGZHYwanNjTGtWUDhOQnFpTmFtTTJZNGl4RlczN0ZUemdHcVNxNDF4cU9UY0IzZDJJWEtyTXhIN01TM1lyQkNjRzZL?oc=5",
-          "source": "kmph.com",
-          "summary": "Tesla towing U-Haul trailer crashes after driver suffers diabetic emergency kmph.com",
-          "published": "2026-10-04T20:13:45+00:00"
+          "title": "Could breakthrough new treatment cure Type 1 diabetes?",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlVYSktKTDk0ZXFDZXBLaFRxemFGcG1mZmIzUXFZTWdDaXdXd3E3TU1xRGR3V1ljeG1xNUxPSGNjSndXSHlpMGVmSTc1ZFlUSS1HeW9MMzV1dkhfOUNsRnZIeVRPNkp0Vk9HeXBGUXFXci1JUDFnVTJKY0tpVnlpUzZtRnRTNGdONTY5MFM5VVpFenZLZ29XRUZLNUdlRU0wRUhMU3NjcGxkczlsQnc?oc=5",
+          "source": "NBC News",
+          "summary": "Could breakthrough new treatment cure Type 1 diabetes? NBC News",
+          "published": "2026-10-04T23:45:04+00:00"
         },
         {
           "title": "How a Top Diabetes Nonprofit Reined In Its Venture-Capital Arm",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2g0cGJUTlRUTlVMQXJoLUdnZlAzZjFlZXBpN1JoT3pVLWJaZzRHczVxRzZIc1daelNmdG1VblVVWVA4Y0RqOU5lN2FXUFJCb2RTVjQ5UFlqaHQ4Q0M3VGpORmFTVmF3OXhBRC1haXhfQ0w2aERCUEpVejBQV1ZUZ2F5YThGX0MtZDZIeHFBNWx0aEROaHlIQnRYYUdHXzgtaUNVSjJyczBKcEtyWXFRaw?oc=5",
           "source": "WSJ",
           "summary": "How a Top Diabetes Nonprofit Reined In Its Venture-Capital Arm WSJ",
-          "published": "2026-10-04T20:10:42+00:00"
+          "published": "2026-10-04T23:10:44+00:00"
+        },
+        {
+          "title": "When HIV Therapy Meets Diabetes: Ugandan Study Maps Blood Sugar Control on Older Drug Regimens",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2plTGVRNlo1b01oclFCY01SZzhQV2RzV3BfOHd0ak1yVHp3YnhqUEZNYjFQR3k1R01xTlVHa1ZWZ0lSWVFuYW5uYUhSSWFkMHY5WUxUcnJ5UmViZHp4QmJkRS1nZkZuQXN1ZHNwU2RoWWwzTk13UHVFRU1lX185bVNGOWxSX0RycFhRMjZ1MGtqNG5HN0ZqQTdVQ2ZyYXpQSGJTME9BTzNmVTd3LUpBOV95T0FGM0VlZXc?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "When HIV Therapy Meets Diabetes: Ugandan Study Maps Blood Sugar Control on Older Drug Regimens Bioengineer.org",
+          "published": "2026-10-04T22:53:58+00:00"
+        },
+        {
+          "title": "Texas Tech program links dental care to diabetes screening",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXpUY3k3cDNIeDNtMEt0YkZHbDRuT0p1RkVvUUpGbkxkQzN3NUZkMDRoQXE2NnhTRGU1SjBzWGNLOFpoMDZFWEpNTk92eDBmZWdmOVlhcDc4TXZYXzdOOVZKTmJ5V0x4N2NZRVZqeW9iMUg2Tkl6WGcwMDN3eHZvX1lFVTlwNDdIX1J6aUxB0gGTAUFVX3lxTE1NME40S0trTmFsMkJSdVF5V1ZSblBMcENJNE03Rk1TM0xRV3UtYUN0LUJOenpiWk9BX0xVM1FycnRGWVVEZFAtVEhPVUFfRU5JNVN4NXBWdnU1NEdNM2tFNGE2VkdjRmVJVUdiZ3R0WDJPMGhEMTFCNjJfdUw3UzltcExZc05Wa3d1X3VWXzUxbWJfOA?oc=5",
+          "source": "KTSM 9 News",
+          "summary": "Texas Tech program links dental care to diabetes screening KTSM 9 News",
+          "published": "2026-10-04T22:51:06+00:00"
+        },
+        {
+          "title": "Is there any candy for diabetics?",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmZ2RGlZMkxuNTRHN0RURDY2U3hZOVVqOG41azQ4NXhINEFMcW1kRGx2X3huU0ZGX05QR0hWMUpJQnRTcWZuNmlTNnB2MkxIc0NmbGx3WXN4UzZJRklobXN0V2VIcThZVW9tSDlEMGFnNmxrVEFXS2NGV1FWaU04N3p3U2c3RTZSQ192dXZzNGc0d2JRcjU3LVNsWVJDV3Zaa1BQUHZ6VjRmYXJCamtGRGp0d2lQQQ?oc=5",
+          "source": "USA Today",
+          "summary": "Is there any candy for diabetics? USA Today",
+          "published": "2026-10-04T22:25:26+00:00"
+        },
+        {
+          "title": "Annual Type 1 Diabetes walk held on Belle Isle",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yX2ZQMlQzM1BwWWYwN1BodW01OXBGdDRJWW9qT3lNSGk0T2h5eTZkYzl0eGhxc0Fxankzb05La1RnS2F3SURMZ2RMYkRNN2g5dWJLeENVY3hiOEdEUy1HUk13aGLSAWpBVV95cUxQLUR1ZG1lMEpub1Uxam5EdnJNbEJRdThzUC1NdDBMSDNfN1Uyek5kd0VuZTR4QkdxU05JMTJrbG5oS1V1bXFvT1FrdDZndkdac0NoY3RDREFUdTlJMHBKM0sxRk80aVFqeWdn?oc=5",
+          "source": "FOX 2 Detroit",
+          "summary": "Annual Type 1 Diabetes walk held on Belle Isle FOX 2 Detroit",
+          "published": "2026-10-04T22:20:35+00:00"
+        },
+        {
+          "title": "In early clinical trial, people with Type 1 diabetes are able to go off insulin",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUtvS1p2dFpFVDNrZW13Rl9MRmNvbWY0cWgtVGJMRWFYQmZ2cjNxd1pndTlkQVlPWUVEQ19PZWNDclhycF84RjZCTnVnM25LNnZOX3lWaHdWTWo5SjhGX1RpUkxyTzQyUV81NXgyNGxfOGR0Wmd5dTdIakhyLURGSjk5T2lrdkxYbUZtcFJmbkpjZjNhN3FLT3FLVTlSNnhFWk9HUl9DY01sbHNUQm5Kd21ZZVRja3d2?oc=5",
+          "source": "NBC News",
+          "summary": "In early clinical trial, people with Type 1 diabetes are able to go off insulin NBC News",
+          "published": "2026-10-04T22:00:41+00:00"
+        },
+        {
+          "title": "Continuous Glucose Monitoring Market Size, Share [2026-2034]",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnRIeXBITXRoellWaFVTdEM0ZE41TFpwVjFIYU03Q195cHFnR0tRTnF0elJwbDFuaWdQaVR0bUJweVdxV21JY2lLbDljOU4yWTNsS25CcEdjQVhpak84V21lUkIzTDFERmdVSUxSdlNyZ2JBckFsekxFN1Bvc09lb2xlZ3M1Ullpbnpn?oc=5",
+          "source": "Fortune Business Insights",
+          "summary": "Continuous Glucose Monitoring Market Size, Share [2026-2034] Fortune Business Insights",
+          "published": "2026-10-04T20:58:57+00:00"
+        },
+        {
+          "title": "Tesla towing U-Haul trailer crashes after driver suffers diabetic emergency",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzNoa19NaGpuMkdkSlUzTjZzbEtSS3NkN1pnVjJHUVhjUXlzRjZIVVk1WEZrdkcyZDgwaks4THBhVUFDcVJaRnNMd1JLbDFPSHZWYzliYlY0MTdidXRJTERKMThpaTRkNG12c2pMZ3gzTExObWpGZHYwanNjTGtWUDhOQnFpTmFtTTJZNGl4RlczN0ZUemdHcVNxNDF4cU9UY0IzZDJJWEtyTXhIN01TM1lyQkNjRzZL?oc=5",
+          "source": "kmph.com",
+          "summary": "Tesla towing U-Haul trailer crashes after driver suffers diabetic emergency kmph.com",
+          "published": "2026-10-04T20:13:45+00:00"
         },
         {
           "title": "HTA, tabagisme, diabète : ces accompagnements sur le pas de la porte",
@@ -374,25 +423,11 @@
           "published": "2026-10-04T19:00:02+00:00"
         },
         {
-          "title": "Is there any candy for diabetics?",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmZ2RGlZMkxuNTRHN0RURDY2U3hZOVVqOG41azQ4NXhINEFMcW1kRGx2X3huU0ZGX05QR0hWMUpJQnRTcWZuNmlTNnB2MkxIc0NmbGx3WXN4UzZJRklobXN0V2VIcThZVW9tSDlEMGFnNmxrVEFXS2NGV1FWaU04N3p3U2c3RTZSQ192dXZzNGc0d2JRcjU3LVNsWVJDV3Zaa1BQUHZ6VjRmYXJCamtGRGp0d2lQQQ?oc=5",
-          "source": "USA Today",
-          "summary": "Is there any candy for diabetics? USA Today",
-          "published": "2026-10-04T18:58:57+00:00"
-        },
-        {
           "title": "Exercise Timing in Type 1 Diabetes: Before or After Meals?",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zQ2d6NFYzRFpLNEdUeGFqQzNIVHRPV055TzJvVFNhUlZsTHpPQTduSTdtbWZ3Tlo5elBrRTRCcGNPejhER2JxRmdVeDJlQ1diT2g1ZkE0MTN3dXBPbW9OVDBWVzBKQ0dUVGRieWV4ckpmaGd3?oc=5",
           "source": "Diabetes In Control",
           "summary": "Exercise Timing in Type 1 Diabetes: Before or After Meals? Diabetes In Control",
           "published": "2026-10-04T18:56:15+00:00"
-        },
-        {
-          "title": "Continuous Glucose Monitoring Market Size, Share [2026-2034]",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnRIeXBITXRoellWaFVTdEM0ZE41TFpwVjFIYU03Q195cHFnR0tRTnF0elJwbDFuaWdQaVR0bUJweVdxV21JY2lLbDljOU4yWTNsS25CcEdjQVhpak84V21lUkIzTDFERmdVSUxSdlNyZ2JBckFsekxFN1Bvc09lb2xlZ3M1Ullpbnpn?oc=5",
-          "source": "Fortune Business Insights",
-          "summary": "Continuous Glucose Monitoring Market Size, Share [2026-2034] Fortune Business Insights",
-          "published": "2026-10-04T17:02:00+00:00"
         },
         {
           "title": "Simple Blood Fat Ratio Flags Hidden Insulin Resistance Before Diabetes Strikes",
@@ -418,8 +453,8 @@
         {
           "title": "Debunking Myths About Diabetes",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxeDVoRk5SWURaWTJwemNTSjdweXJjZHNrb1NrR3kyeHlIOVoyYWlCc1NjX3hlNjh0WVpZU2pWbEMxT09uTHpGU25oeGFCT2da?oc=5",
-          "source": "The Rising Nepal",
-          "summary": "Debunking Myths About Diabetes The Rising Nepal",
+          "source": "risingnepaldaily.com",
+          "summary": "Debunking Myths About Diabetes risingnepaldaily.com",
           "published": "2026-10-04T14:02:33+00:00"
         },
         {
@@ -446,16 +481,9 @@
         {
           "title": "How delayed diabetes diagnosis cost former Kampala mechanic both legs",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbm1vZ251RW5tWmt3LWFhRjg5T0hFdFY2TEZOR1NkSkp4MnJjQmV2UW91S25DUXUwb0pNV0g4cVBiMENTRXRjTDlBMnQ5Y0l1SDBQdnRwNVFZOWgyZWZVdVlTdzNyMnFFMFdkRXpCVnZFV0dsbGFHazBqTF9oUXRVRHEybEt2eXRvV0hGTDFtV2ZJUFZBSmF5RUtEOGg1dFc3am90ZzVYUzFRZC1HLVpfZW41aHNOam1KWHRtRzNBZmh0QQ?oc=5",
-          "source": "Daily Monitor",
-          "summary": "How delayed diabetes diagnosis cost former Kampala mechanic both legs Daily Monitor",
+          "source": "monitor.co.ug",
+          "summary": "How delayed diabetes diagnosis cost former Kampala mechanic both legs monitor.co.ug",
           "published": "2026-10-04T11:37:42+00:00"
-        },
-        {
-          "title": "When Insomnia Meets Sleep Apnea: The Hidden Diabetes Link Scientists Are Chasing",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXREMFhYamRHSFY4eFFsWG16ZmpMRFIwV0NGSVY4M0g4eHpwQTlzbzlXNTJ1MC1WVHhQMU1YdWY1S09QakVQbmRZbTdlWlU0Ykxic3BNZzZvUHVGc1FnTEJCOTU1WDY3ZWRjSm5XSFFqaHZHVVo3NUk4UnhuekozRmRQRHdoMXI3amlkOGFlQTFWNENEUlFaUnBuSWNCejZqQWNjUlR2cw?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "When Insomnia Meets Sleep Apnea: The Hidden Diabetes Link Scientists Are Chasing Bioengineer.org",
-          "published": "2026-10-04T10:38:32+00:00"
         },
         {
           "title": "L’ordre des aliments dans l’assiette : fausse révolution ou vrai levier contre le diabète ?",
@@ -472,18 +500,18 @@
           "published": "2026-10-04T08:33:26+00:00"
         },
         {
-          "title": "Goat Milk Peptides Show Promise Against Diabetes and Gout Enzymes",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY25GTEVQWFNXbGY3YmJrX0FoazB5b1BIVjZfZ0RKUVFSck1QbXgzTmNqVzl0TndvOVo3U3cydDVYZ3A3ZXZYRWxRTEhMOXRJMlB3T2dwb2dWSFVuYy16ZGE4Ri04WFNJQk5KOG03ZkYxMmlqYmVPYloyNDl5YnNBVTBKUHA2a29DQjFtUGxQTVZ4bHpa?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Goat Milk Peptides Show Promise Against Diabetes and Gout Enzymes Bioengineer.org",
-          "published": "2026-10-04T07:46:56+00:00"
-        },
-        {
           "title": "Vitamin D drug may help crack pancreatic cancer’s protective shield",
           "link": "https://www.sciencedaily.com/releases/2026/09/260930225501.htm",
           "source": "ScienceDaily",
           "summary": "A vitamin D analog may help break down pancreatic cancer’s protective defenses, potentially making tumors more vulnerable to chemotherapy and immune attack. A small clinical trial found encouraging responses, especially…",
           "published": "2026-10-04T03:10:23+00:00"
+        },
+        {
+          "title": "The biggest T1D update in pediatric practice right now",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHdzOHJRcDdscG1UVEZadkZBTzlUTEZQMUYyclFFdGxGVUZiR0ZEcU9GUXo2WUFjWFBJRnZtUHNJN01hTXI4OXhPZ1IzRHlnc0luX2hSSUVnTHpOOWxDbmVXY2YzOUR0dHVSRFpqZWk1dlRuOHVmc2RQdURXNmJMVGdkbFBERHlkeWJHd2QwSjZNUGpwVEJRNUhic240V2RyNnc?oc=5",
+          "source": "Contemporary Pediatrics",
+          "summary": "The biggest T1D update in pediatric practice right now Contemporary Pediatrics",
+          "published": "2026-10-04T00:06:22+00:00"
         },
         {
           "title": "Girl, 11, Manages Her Type 1 Diabetes with the Help of Her Service Dog (Exclusive)",
@@ -556,10 +584,17 @@
           "published": "2026-10-03T02:30:45+00:00"
         },
         {
+          "title": "Evan’s Evangers Looking for a Breakthrough",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54X0tfUE52N0p0cndybmZWdkYxb1JPM2h5dUxtOXZfSWgwQjFJWUFiZUNNUEhFRkEzYWZqY0FBS0hQQ0FTUU9WbEFwdG8xSUcxUXNoYnc3VW5oNDdrWXJ1UmI4X1hBMnpvd1dMZlg0UE55d1hhNHc?oc=5",
+          "source": "Rafu Shimpo",
+          "summary": "Evan’s Evangers Looking for a Breakthrough Rafu Shimpo",
+          "published": "2026-10-03T01:02:37+00:00"
+        },
+        {
           "title": "Eli Lilly’s Foundayo delivers diabetes surprise in late-stage study",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhnSWlqdHB0ZGlLOWhRcDJGeHFVbnd1aC1yVEhaY0dWc2VWMFQ1YmIyU0tIX1djbWFmSmRhbklKbC04bmRHTG5YT185UzRZM1pqNVdNRUxVZ0xTWEtzN09FcU9uM3dNMG1XTDBWQXVYYi02T21ld21uNzUtdXJxZXZrWkEzRDBUQmFuVThiLWkxMTgtVWNNdnpoR3lDUQ?oc=5",
-          "source": "Yahoo Finance",
-          "summary": "Eli Lilly’s Foundayo delivers diabetes surprise in late-stage study Yahoo Finance",
+          "source": "finance.yahoo.com",
+          "summary": "Eli Lilly’s Foundayo delivers diabetes surprise in late-stage study finance.yahoo.com",
           "published": "2026-10-02T22:33:00+00:00"
         },
         {
@@ -568,41 +603,6 @@
           "source": "diabetes.co.uk",
           "summary": "Gestational diabetes is rising fastest in disadvantaged groups, major study finds diabetes.co.uk",
           "published": "2026-10-02T21:38:05+00:00"
-        },
-        {
-          "title": "What’s Next for Weight Loss Drugs? A Look at EloraTZP, Trevogrumab, and CBL-154",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenRsVDVDRE92anBxQXFSNEZjSHNKcENaMXZZRkNGbjdBemVNdTJjVFlTS0hLQWk4TXZfWThOWXFjU0lOYUJESmtYNDlhUXRwTk01NFRHZ2Z6d2JfRk9qM193aVVpUzUwX0wwVG9KNGR2WVpra1lLMkhaZUxucHNybGVMaUt6SHB1d1NQeS1nbVVtN3RE?oc=5",
-          "source": "Everyday Health",
-          "summary": "What’s Next for Weight Loss Drugs? A Look at EloraTZP, Trevogrumab, and CBL-154 Everyday Health",
-          "published": "2026-10-02T21:16:05+00:00"
-        },
-        {
-          "title": "Retatrutide Delivers Substantial Weight Loss in Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qb2t0TC1HS3NLN1hPSUhfdFZkeU5kdjk3SDJYT3F6eVRRall0NlFYYzRic0tTaUtVRmlnVEVWU3RXaTNHbnNUeFM0cTdIbEVGOVdaaFZrdHgyRkZ6VzhhWmNIM3NMeGs?oc=5",
-          "source": "MedPage Today",
-          "summary": "Retatrutide Delivers Substantial Weight Loss in Type 2 Diabetes MedPage Today",
-          "published": "2026-10-02T20:55:18+00:00"
-        },
-        {
-          "title": "Diabetes in pets is on the rise",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkLXlDQmczZDB0SzFXZVBvQ000N3VpbFhkZ3dXZ2Q3OGZTZHIzNXRHVFNLZkFJWlhaT0FmcVI1ZGlCaFdNOERldDBKWWdCRG03UjBKaDJWN3lGeGdQMk5sUnhWSzFVc3NnVTFoY0M2STRyWi1p?oc=5",
-          "source": "Brown County Democrat",
-          "summary": "Diabetes in pets is on the rise Brown County Democrat",
-          "published": "2026-10-02T20:54:34+00:00"
-        },
-        {
-          "title": "Peer-Reviewed Retatrutide Data Show 23.4% Weight Loss in Adults with Diabetes and BMI of 35 or Higher",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW03Q2Vtei12YnZvekxLVl9Vc1NjcHFGOEJrZy1HN0xDS0Fnc2tPNWJWV1I5dXFJM2VfZHhPT2VKdG9PNWhjRXJ6OEEyV3NXN2ttLXVjVHF0QVVBSkxIdndoWHVlMmtZcWVEU3B6R01oNE5oeUtRUll1dDhzRHlRZEF4SENRT0RTZUZKeVFzNjd1dWwyb0JzeVRNQ2JISFZHbThnZWFFZDg1bUtyQTNwZzB4UzBFVTRI?oc=5",
-          "source": "Medical Daily",
-          "summary": "Peer-Reviewed Retatrutide Data Show 23.4% Weight Loss in Adults with Diabetes and BMI of 35 or Higher Medical Daily",
-          "published": "2026-10-02T20:30:52+00:00"
-        },
-        {
-          "title": "Common in Clinical Practice: Thyroid Disease and Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tNko5S0wxdjAtLV9NeHRCcjh1S212NTFqTWp0OENVcFlac1FCWHkzeTRTZXpCbUdWNmFvQzVORS1QOENWUXU3bjVZR1FMMk1SYUZmNUg0MA?oc=5",
-          "source": "Medscape",
-          "summary": "Common in Clinical Practice: Thyroid Disease and Diabetes Medscape",
-          "published": "2026-10-02T20:20:11+00:00"
         }
       ]
     }
