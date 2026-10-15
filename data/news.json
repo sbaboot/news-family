@@ -1,15 +1,43 @@
 {
-  "generated_at": "2026-10-14T23:41:51.424548+00:00",
+  "generated_at": "2026-10-15T03:19:05.801030+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
+          "title": "Au Brésil, le Parlement adopte la réduction du temps de travail promise par Lula",
+          "link": "https://www.lemonde.fr/international/article/2026/10/15/au-bresil-le-parlement-adopte-la-reduction-du-temps-de-travail-promise-par-lula_6793931_3210.html",
+          "source": "Le Monde",
+          "summary": "Le dirigeant de gauche sortant espère que la baisse du temps de travail hebdomadaire de quarante-quatre à quarante heures renforcera sa position au second tour de l’élection présidentielle, le 25 octobre. Son rival, le…",
+          "published": "2026-10-15T02:16:10+00:00"
+        },
+        {
+          "title": "Colombie : des milliers de manifestants dans la rue contre le durcissement du gouvernement de droite",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261015-colombie-des-milliers-de-manifestants-dans-la-rue-contre-le-durcissement-du-gouvernement-de-droite",
+          "source": "France 24",
+          "summary": "Des milliers de personnes ont manifesté mercredi à Bogota contre les politiques du président Abelardo de la Espriella. Le président, au pouvoir depuis août, s'est aligné sur Washington et veut démanteler les reformes de…",
+          "published": "2026-10-15T00:12:54+00:00"
+        },
+        {
+          "title": "La Corée du Nord annonce procéder à des tests de missiles de croisière stratégiques depuis des sous-marins",
+          "link": "https://www.lemonde.fr/international/article/2026/10/15/la-coree-du-nord-annonce-proceder-a-des-tests-de-missiles-de-croisiere-strategiques-depuis-des-sous-marins_6793897_3210.html",
+          "source": "Le Monde",
+          "summary": "Des photos publiées par l’agence de presse officielle KCNA montrent un missile volant horizontalement au-dessus de la mer.",
+          "published": "2026-10-15T00:05:23+00:00"
+        },
+        {
+          "title": "L'Ukraine va devoir faire sans les Américains, même si c'est difficile, estime Ulrich Bounat",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261015-l-ukraine-va-devoir-faire-sans-les-am%C3%A9ricains-m%C3%AAme-si-c-est-difficile-estime-ulrich-bounat",
+          "source": "France 24",
+          "summary": "Pour l'Ukraine, \"il est compliqué de faire sans Starlink, il n'existe aucune constellation équivalente. Même chose pour le renseignement américain\", estime Ulrich Bounat, analyste géopolitique, sur le plateau de France…",
+          "published": "2026-10-15T00:00:20+00:00"
+        },
+        {
           "title": "EN DIRECT, guerre en Ukraine : des frappes russes font trois morts dans l’oblast de Kirovohrad, selon l’administration militaire régionale",
           "link": "https://www.lemonde.fr/international/live/2026/10/15/en-direct-guerre-en-ukraine-des-frappes-russes-font-trois-morts-dans-l-oblast-de-kirovohrad-selon-l-administration-militaire-regionale_6791198_3210.html",
           "source": "Le Monde",
           "summary": "L’offensive, survenue dans cette région centrale du pays, a également fait six blessés, a annoncé dans la nuit de mercredi à jeudi Andriy Raikovych, le chef de l’administration militaire de l’oblast.",
-          "published": "2026-10-14T23:27:19+00:00"
+          "published": "2026-10-14T23:27:16+00:00"
         },
         {
           "title": "Nouvelle journée de heurts entre manifestants et policiers en Albanie, des ministères attaqués",
@@ -26,7 +54,7 @@
           "published": "2026-10-14T22:40:48+00:00"
         },
         {
-          "title": "Présidentielle au Brésil : le parti de Lula accuse Meta d’« ingérence » à l’entre-deux-tours",
+          "title": "Présidentielle au Brésil : le parti de Lula accuse Meta d’« ingérence » pendant l’entre-deux-tours",
           "link": "https://www.lemonde.fr/international/article/2026/10/15/presidentielle-au-bresil-le-parti-de-lula-accuse-meta-d-ingerence-a-l-entre-deux-tours_6793863_3210.html",
           "source": "Le Monde",
           "summary": "Le Parti des travailleurs, la formation de gauche du président sortant, candidat à sa réélection, affirme que le groupe américain limite la diffusion de ses contenus sur Instagram et sur WhatsApp, et annonce vouloir…",
@@ -45,34 +73,6 @@
           "source": "© KCNA, via Reuters",
           "summary": "Des missiles de croisière stratégiques ont été tirés depuis des sous-marins par la Corée du Nord, mercredi en direction de la mer du Japon, a annoncé jeudi KCNA. Ces essais n'ont pas eu d'\"impact négatif sur la sécurité…",
           "published": "2026-10-14T22:15:53+00:00"
-        },
-        {
-          "title": "Ligue des champions : le PSG remporte un nouveau choc européen face à Manchester City",
-          "link": "https://www.france24.com/fr/sports/20261014-ligue-champions-psg-remporte-nouveau-choc-europeen-face-manchester-city-fc-barcelone-football-desire-doue-ousmane-dembele-vitinha",
-          "source": "© Jason Cairnduff, Action Images via Reuters",
-          "summary": "Au terme d'une rencontre haletante, le Paris SG s'est imposé à Manchester City (4-2), mercredi lors de la deuxième journée de la Ligue des champions. Les doubles champions d'Europe accueilleront mardi prochain le Barça,…",
-          "published": "2026-10-14T21:43:50+00:00"
-        },
-        {
-          "title": "Gazole russe aux Etats-Unis : déjà des livraisons ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261014-gazole-russe-aux-etats-unis-les-livraisons-n-ont-pas-commenc%C3%A9",
-          "source": "France 24",
-          "summary": "Dans la foulée de l'accord avec Vladimir Poutine annoncé par Donald Trump pour importer du gazole russe, des comptes pro-russes ont affirmé que les livraisons avaient déjà commencé. Elles prennent le cas d'un navire qui…",
-          "published": "2026-10-14T21:02:08+00:00"
-        },
-        {
-          "title": "Ebola : le Kenya annonce un deuxième cas, mais \"aucune propagation\" à grande échelle",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261014-ebola-le-kenya-annonce-un-deuxi%C3%A8me-cas-mais-aucune-propagation-%C3%A0-grande-%C3%A9chelle",
-          "source": "France 24",
-          "summary": "Au Kenya, le ministère de la santé vient de l’annoncer ce mercredi soir : il y a une deuxième cas d’Ebola dans le pays, et cette fois-ci il ne s’agit pas d’une personne ayant voyagé. Depuis une semaine les autorités…",
-          "published": "2026-10-14T20:22:17+00:00"
-        },
-        {
-          "title": "Depuis Londres, Zelensky exprime son amertume après avoir été \"trahi\" par Trump et Musk",
-          "link": "https://www.france24.com/fr/europe/20261014-depuis-londres-zelensky-exprime-son-amertume-apr%C3%A8s-avoir-%C3%A9t%C3%A9-trahi-par-trump-et-musk",
-          "source": "Henry Nicholls/Reuters Pool via  - Henry Nicholls",
-          "summary": "En visite à Londres mercredi, Volodymyr Zelensky a dit s'être senti trahi par les récentes annonces de Donald Trump et par les restrictions du réseau Starlink d'Elon Musk, essentiel aux opérations de l'armée…",
-          "published": "2026-10-14T20:06:06+00:00"
         }
       ]
     },
@@ -91,6 +91,55 @@
           "published": "2026-10-15T23:00:00+00:00"
         },
         {
+          "title": "Canadien 4 – Capitals 5 | Le Tricolore baisse pavillon à Washington",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-10-14/canadien-4-capitals-5/le-tricolore-baisse-pavillon-a-washington.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Lane Hutson aurait aimé un résultat différent lors de son premier duel contre son frère Cole dans la LNH.",
+          "published": "2026-10-15T02:36:03+00:00"
+        },
+        {
+          "title": "Tuerie de Tumbler Ridge | Un homme est inculpé pour complicité aux États-Unis",
+          "link": "https://www.lapresse.ca/actualites/national/2026-10-14/tuerie-de-tumbler-ridge/un-homme-est-inculpe-pour-complicite-aux-etats-unis.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Un grand jury de l’État de Washington a mis en accusation une personne présumée de complicité dans la tuerie de masse survenue à Tumbler Ridge, en Colombie-Britannique.",
+          "published": "2026-10-15T02:25:45+00:00"
+        },
+        {
+          "title": "CF Montréal 0 – Atlanta United 3 | Un bien triste spectacle",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-10-14/cf-montreal-0-atlanta-united-3/un-bien-triste-spectacle.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Il y avait comme une odeur de fin de saison, mercredi soir, au stade Saputo. Comme un malsain parfum émanant d’un CF Montréal qui n’avait plus d’enjeu, encore moins d’envie, tout en baignant dans une indifférence quasi…",
+          "published": "2026-10-15T01:36:45+00:00"
+        },
+        {
+          "title": "La première ministre de l’Alberta vote pour que la province reste au sein du Canada",
+          "link": "https://www.ledevoir.com/politique/canada/1017047/premiere-ministre-alberta-vote-province-reste-sein-canada",
+          "source": "Le Devoir",
+          "summary": "Le scrutin aura lieu officiellement lundi, mais le vote par anticipation a commencé cette semaine.",
+          "published": "2026-10-15T01:36:26+00:00"
+        },
+        {
+          "title": "Référendum en Alberta | La première ministre vote pour que la province reste au sein du Canada",
+          "link": "https://www.lapresse.ca/actualites/national/2026-10-14/referendum-en-alberta/la-premiere-ministre-vote-pour-que-la-province-reste-au-sein-du-canada.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La première ministre de l’Alberta, Danielle Smith, a déclaré avoir officiellement voté lors du référendum sur l’indépendance de la province – et son vote va en faveur d’un Canada uni.",
+          "published": "2026-10-15T01:15:26+00:00"
+        },
+        {
+          "title": "L’interdiction du hidjab à l’école démarre difficilement en Autriche",
+          "link": "https://www.ledevoir.com/monde/europe/1017044/interdiction-hidjab-ecole-demarre-difficilement-autriche",
+          "source": "Le Devoir",
+          "summary": "Environ 8% des neuf millions d’habitants du pays sont musulmans.",
+          "published": "2026-10-15T00:49:54+00:00"
+        },
+        {
+          "title": "Le président de Cornell admet n’avoir jamais donné suite à la plainte de Jane Doe",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1017041/president-cornell-admet-avoir-jamais-donne-suite-plainte-jane-doe",
+          "source": "Le Devoir",
+          "summary": "Elle accuse sept membres d’une fraternité de l’avoir agressée sexuellement en octobre 2024.",
+          "published": "2026-10-15T00:35:45+00:00"
+        },
+        {
           "title": "Guerre en Iran | Le commerce du fruit préféré des Nord-Américains perturbé",
           "link": "https://www.lapresse.ca/international/2026-10-14/guerre-en-iran/le-commerce-du-fruit-prefere-des-nord-americains-perturbe.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
@@ -98,60 +147,11 @@
           "published": "2026-10-14T23:30:00+00:00"
         },
         {
-          "title": "Canadien – Capitals | Suivez notre couverture en direct",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-10-14/canadien-capitals/suivez-notre-couverture-en-direct.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Plafond, falaise et autres limites sur la route des femmes en politique",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-10-14/plafond-falaise-et-autres-limites-sur-la-route-des-femmes-en-politique.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Suivez et commentez en direct le match entre le Canadien de Montréal et les Capitals de Washington avec notre journaliste Richard Labbé.",
+          "summary": "Une nouvelle génération de femmes prêtera serment comme députées ce jeudi à l’Assemblée nationale. Ces 57 élues arrivent dans un contexte où les idées antiféministes et le masculinisme sont en hausse au Québec. Comment…",
           "published": "2026-10-14T23:30:00+00:00"
-        },
-        {
-          "title": "Céline Dion a maintenant une Barbie à son effigie",
-          "link": "https://www.ledevoir.com/culture/musique/1017035/celine-dion-maintenant-barbie-effigie",
-          "source": "Le Devoir",
-          "summary": "La poupée est assortie de la réplique du pendentif «Cœur de l’océan» du film «Titanic».",
-          "published": "2026-10-14T22:52:00+00:00"
-        },
-        {
-          "title": "L’ex-comédien Russell Brand décrit comme un «prédateur sexuel» à son procès",
-          "link": "https://www.ledevoir.com/monde/europe/1017032/ex-comedien-russell-brand-decrit-comme-predateur-sexuel-proces",
-          "source": "Le Devoir",
-          "summary": "«Il était impitoyable, calculateur et manipulateur», assure la procureure.",
-          "published": "2026-10-14T22:41:52+00:00"
-        },
-        {
-          "title": "Le Canadien à la télé | La tradition ne continue plus",
-          "link": "https://www.lapresse.ca/arts/chroniques/2026-10-14/le-canadien-a-la-tele/la-tradition-ne-continue-plus.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Regarder les matchs du Canadien à la télé cette semaine était aussi simple que de battre les Hurricanes au printemps dernier. Mardi, c’était en direct à 18 h 30, à RDS ; ce mercredi, c’est à 19 h 30, sur Prime ; et…",
-          "published": "2026-10-14T22:30:00+00:00"
-        },
-        {
-          "title": "«Faites du bruit pour Jésus»: quand Dieu séduit les jeunes",
-          "link": "https://www.ledevoir.com/culture/ecrans/1016942/faites-bruit-jesus-quand-dieu-seduit-jeunes",
-          "source": "Le Devoir",
-          "summary": "Le documentaire décortique la montée en popularité de l’évangélisme chrétien chez les jeunes Québécois.",
-          "published": "2026-10-14T22:25:06+00:00"
-        },
-        {
-          "title": "Toronto | Des munitions volées à l’armée retrouvées lors d’une enquête sur un enlèvement",
-          "link": "https://www.lapresse.ca/actualites/national/2026-10-14/toronto/des-munitions-volees-a-l-armee-retrouvees-lors-d-une-enquete-sur-un-enlevement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Trois militaires ont été arrêtés pour leur implication présumée dans l’enlèvement du propriétaire d’une plateforme d’échange de cryptomonnaies, a annoncé mercredi la police de Toronto. Ce coup de filet a eu lieu dans le…",
-          "published": "2026-10-14T22:24:54+00:00"
-        },
-        {
-          "title": "«C’était ça ou mourir» restera en librairie",
-          "link": "https://www.ledevoir.com/lire/1016888/c-etait-ou-mourir-restera-librairie",
-          "source": "Le Devoir",
-          "summary": "Les Éditions du Boréal disent toutefois n’avoir aucune preuve que Thélyson Orélien n’a pas utilisé d’IA.",
-          "published": "2026-10-14T22:17:00+00:00"
-        },
-        {
-          "title": "Les ventes de propriétés résidentielles sont en baisse à Montréal et au Québec",
-          "link": "https://www.ledevoir.com/economie/1017020/ventes-proprietes-residentielles-sont-baisse-montreal-quebec",
-          "source": "Le Devoir",
-          "summary": "L’abordabilité continue de se détériorer, notamment en raison du contexte économique et géopolitique.",
-          "published": "2026-10-14T22:09:00+00:00"
         }
       ]
     },
@@ -159,11 +159,39 @@
       "label": "France",
       "items": [
         {
+          "title": "La Corée du Nord procède à des essais de tirs de missiles de croisière stratégiques",
+          "link": "https://www.lefigaro.fr/flash-actu/la-coree-du-nord-procede-a-des-essais-de-tirs-de-missiles-de-croisiere-strategiques-20261014",
+          "source": "Le Figaro",
+          "summary": "Depuis des sous-marins, la Corée du Nord a annoncé jeudi avoir testé deux types de missiles en direction de la mer du Japon.",
+          "published": "2026-10-15T02:50:27+00:00"
+        },
+        {
+          "title": "Au Brésil, le Parlement adopte la réduction du temps de travail promise par Lula",
+          "link": "https://www.lemonde.fr/international/article/2026/10/15/au-bresil-le-parlement-adopte-la-reduction-du-temps-de-travail-promise-par-lula_6793931_3210.html",
+          "source": "Le Monde",
+          "summary": "Le dirigeant de gauche sortant espère que la baisse du temps de travail hebdomadaire de quarante-quatre à quarante heures renforcera sa position au second tour de l’élection présidentielle, le 25 octobre. Son rival, le…",
+          "published": "2026-10-15T02:16:10+00:00"
+        },
+        {
+          "title": "Manchester City-PSG : un Paris à deux visages domine les Citizens au terme d’un match débridé",
+          "link": "https://www.lemonde.fr/sport/article/2026/10/15/manchester-city-psg-un-paris-a-deux-visages-domine-les-citizens-au-terme-d-un-match-debride_6793930_3242.html",
+          "source": "Le Monde",
+          "summary": "D’abord irrésistible, puis fébrile, le double champion d’Europe a livré une prestation paradoxale, mercredi 14 octobre, en Ligue des champions, sur la pelouse des Anglais. Une rencontre folle, que le club parisien a…",
+          "published": "2026-10-15T02:02:47+00:00"
+        },
+        {
+          "title": "La Corée du Nord annonce procéder à des tests de missiles de croisière stratégiques depuis des sous-marins",
+          "link": "https://www.lemonde.fr/international/article/2026/10/15/la-coree-du-nord-annonce-proceder-a-des-tests-de-missiles-de-croisiere-strategiques-depuis-des-sous-marins_6793897_3210.html",
+          "source": "Le Monde",
+          "summary": "Des photos publiées par l’agence de presse officielle KCNA montrent un missile volant horizontalement au-dessus de la mer.",
+          "published": "2026-10-15T00:05:23+00:00"
+        },
+        {
           "title": "EN DIRECT, guerre en Ukraine : des frappes russes font trois morts dans l’oblast de Kirovohrad, selon l’administration militaire régionale",
           "link": "https://www.lemonde.fr/international/live/2026/10/15/en-direct-guerre-en-ukraine-des-frappes-russes-font-trois-morts-dans-l-oblast-de-kirovohrad-selon-l-administration-militaire-regionale_6791198_3210.html",
           "source": "Le Monde",
           "summary": "L’offensive, survenue dans cette région centrale du pays, a également fait six blessés, a annoncé dans la nuit de mercredi à jeudi Andriy Raikovych, le chef de l’administration militaire de l’oblast.",
-          "published": "2026-10-14T23:27:19+00:00"
+          "published": "2026-10-14T23:27:16+00:00"
         },
         {
           "title": "Les notes du PSG à Manchester City : la classe de Doué et Vitinha pour des Parisiens aux deux visages",
@@ -194,39 +222,11 @@
           "published": "2026-10-14T22:40:48+00:00"
         },
         {
-          "title": "Présidentielle au Brésil : le parti de Lula accuse Meta d’« ingérence » à l’entre-deux-tours",
-          "link": "https://www.lemonde.fr/international/article/2026/10/15/presidentielle-au-bresil-le-parti-de-lula-accuse-meta-d-ingerence-a-l-entre-deux-tours_6793863_3210.html",
-          "source": "Le Monde",
-          "summary": "Le Parti des travailleurs, la formation de gauche du président sortant, candidat à sa réélection, affirme que le groupe américain limite la diffusion de ses contenus sur Instagram et sur WhatsApp, et annonce vouloir…",
-          "published": "2026-10-14T22:32:21+00:00"
-        },
-        {
           "title": "Présidentielle 2027 : David Lisnard double Bruno Retailleau à droite, selon un sondage",
           "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-david-lisnard-double-bruno-retailleau-a-droite-selon-un-sondage-20261014",
           "source": "Le Figaro",
           "summary": "DÉCRYPTAGE - En cas de candidatures simultanées du patron de LR et de son homologue de Nouvelle Énergie, le premier atteint la cote d’alerte, selon une étude Ifop-Fiducial pour LCI et Sud Radio. Après sa large victoire…",
           "published": "2026-10-14T22:19:42+00:00"
-        },
-        {
-          "title": "Mobilisation des lycéens : le syndicat de police Alliance porte plainte contre l’État pour mise en danger de la vie d’autrui",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-les-eleves-mobilises-souhaitent-que-les-etudiants-et-les-gilets-jaunes-poursuivent-le-mouvement-20261014",
-          "source": "Le Figaro",
-          "summary": "Avec 937 agents des forces de l’ordre blessés, le syndicat dénonce les «injonctions contradictoires» faites aux policiers, «exposés à la violence et livrés à la vindicte», dans le cadre du mouvement lycéen.",
-          "published": "2026-10-14T21:56:33+00:00"
-        },
-        {
-          "title": "Assemblée nationale : les députés adoptent la contribution française au budget de l'UE",
-          "link": "https://www.lefigaro.fr/politique/assemblee-nationale-les-deputes-adoptent-la-contribution-francaise-au-budget-de-l-ue-20261014",
-          "source": "Le Figaro",
-          "summary": "L’article prévoyant un prélèvement de 30,9 milliards d’euros au bénéfice de l’UE l’an prochain a été défendu par le ministre chargé de l’Europe, Benjamin Haddad.",
-          "published": "2026-10-14T21:53:10+00:00"
-        },
-        {
-          "title": "Mobilisation lycéenne : sur près de 8 000 gardes à vue depuis le début du mouvement, 2 735 ont donné lieu à des poursuites, annonce le ministère de la Justice",
-          "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-des-etablissements-toujours-bloques-aucune-perturbation-dans-les-trois-quarts-des-departements-ajoute-edouard-geffray_8236774.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Selon un nouveau bilan communiqué mercredi, 1 177 majeurs et 6 773 mineurs ont été interpellés depuis le début des mouvements de lycéens.",
-          "published": "2026-10-14T21:49:43+00:00"
         }
       ]
     },
@@ -325,11 +325,67 @@
       "label": "Actualites diabete",
       "items": [
         {
-          "title": "First 90 days after starting antipsychotics are critical for monitoring diabetes risk, study finds",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3VJS2l0eWM0NU1ISkpKb1JfV0U4NVZxdTNCWWx5cWtwRnFFS0FSSVRjMGVVTm5fQ201ZUJiVmJpT0pFZFVuZGxVZXJOeHg1NklNcDlxTElxWWlPUVc4VFlJWExCaDM3QlJEWE5OSzN6OEZTcDFRVi1TS290WlJBa2FRamhIYXVz?oc=5",
-          "source": "Medical Xpress",
-          "summary": "First 90 days after starting antipsychotics are critical for monitoring diabetes risk, study finds Medical Xpress",
-          "published": "2026-10-14T22:30:02+00:00"
+          "title": "Study: First 90 days of antipsychotic treatment critical for metabolic changes",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUd3bEV5YUNJUjA0bC12VTAtZWIxYWYzd2VDb0I1d3ZJRGtubmtXZmJiRkFTMUlIUGRrX3QtYk1rR25VQ1V3Q1JiSFNhZUNpX3BidjROMVFpdEpydWpiQXpIUVpUOVZaaENTY0RFVS1JbGNRYU12REQzSmpJdXhjaGt5ck53UFdaX3BhRktESzM1M29pRnNJZGtRc0k1aEc5ZjJFMVJCUEVnRUpZdHdrdEVDVlVRd2JENkc3Q3NYcmROaFk?oc=5",
+          "source": "News-Medical",
+          "summary": "Study: First 90 days of antipsychotic treatment critical for metabolic changes News-Medical",
+          "published": "2026-10-15T03:05:00+00:00"
+        },
+        {
+          "title": "Retatrutide delivers 18.8% average weight loss in Phase III trial of people with type 2 diabetes",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdmpMLTN6aVZRVlBCWnNUQm9ybElsOGlnUkNlZGVVMDN3Z09VZFBZVGFYUGtJcVZVUnlodlRBZWNxZzhybWdYTkFHdEQtSlRCM0w2MTFzdk5sSXBad1dOSXdqYWMyQTFEYWRMVU03dU1CTlhXUGlqTGZsVmZOV05pc2RVN1ZVRmhRMTJZTHNpT19ReEFKUHRrNXVwX1N3a25pcjZYYy15dXoybml4bVViQ1FzYjFMdlIxNHVyMGgxNXZaUmNKSk1LdDJGQnUwbF8yQUdqMURfRFY?oc=5",
+          "source": "www.diabetes.co.uk",
+          "summary": "Retatrutide delivers 18.8% average weight loss in Phase III trial of people with type 2 diabetes www.diabetes.co.uk",
+          "published": "2026-10-15T02:25:28+00:00"
+        },
+        {
+          "title": "two new weight-loss drugs available for patients with diabetes",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOFFiT2tta0EweUVYTkpkN0ZQSXM5LWNVcXB6dGZBY3Q4S3BYdFBVTmxvT0hMelFRLWp1TWNGNVI5TVpGX29ZaHZyc1hqLWxiSmRYNVp3dXpnbklTQnN1ajl2NW9JcjlhSUw2UExiNUwxcEVxUlZjVGhPb2ZqOFhNMTBLbTkzR0F6cUMweGVBaE15T081NGd4dlVVb2UwaVNxVk1XOHpDVQ?oc=5",
+          "source": "BusinessWorld Online",
+          "summary": "two new weight-loss drugs available for patients with diabetes BusinessWorld Online",
+          "published": "2026-10-15T02:15:25+00:00"
+        },
+        {
+          "title": "Signes du diabète affectant le foie",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2N1dm1jTUlBeTlYc3dVU19vLTg2d0xmbENHVVlLb0xfT1dlcEJwQ0VfYVFTX3d3aEhRaVI5VkFWS1l5Sm5iNnBuYk9SWldXb0xIVXctWGttQ2ZjNHR4VFpEN2ZQOUk1ZU01MkVISUFldHZpMy1IazRoM3JTcGljalBqWmlsZw?oc=5",
+          "source": "Laodong.vn",
+          "summary": "Signes du diabète affectant le foie Laodong.vn",
+          "published": "2026-10-15T02:00:00+00:00"
+        },
+        {
+          "title": "fda recent review glp-1 weight loss drugs prescribing patterns 2026",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1Q1THQ0QmE5aEJ2ZVF2d0JkenR2alpoMnNhM3pjbXBXanIydEtuU0VfNHNnU0FaY1kyNml3ZFBSUldEUy1aNkFDSS04LUR6Mk1Temp2RmNuWC1mV2Rjd2RTeUwzQUFYZjROZ1VXbnNneW9HZDNXdlB0WmRUeV9lU1d2T0ZYX1FldTNSMDIzZEkwbWhZOUhQWWxCZTlGaV9leks2OFhmOHFZdw?oc=5",
+          "source": "BusinessWorld Online",
+          "summary": "fda recent review glp-1 weight loss drugs prescribing patterns 2026 BusinessWorld Online",
+          "published": "2026-10-15T01:42:03+00:00"
+        },
+        {
+          "title": "Neighborhood walkability linked to lower type 2 diabetes risk in women with prior gestational diabetes:...",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRkdNRXJWR1hZS1hNY1dLSDlFXzlUTWdqZHBZbFNLczk0Ny1iLUFucmdxcWhEbEZvdl9QX2E1MEE5dzQ5aFBWek55MVdDdEFwOG5iYWRROHdOM1VaODdFTEx1ZVlkUVRHWFgtQW9RZDg4NUJmSlBsU2dUT0h3Wi1NcFppYV91dHhpQlZWZ2VyQkxqVWMzN3dZMkhLVDJJRnlGZGZiMTM5NWM2ZW1lVXZIRW9IMTBFek5lbFQxQmluT2xqVFF6bjV2aFViMGxGRGZDdjJ5aDJ1V0FFVnNDaF81Z2tfM1JXNlo4eXcxbUtwdXVZY3FfY2dXelRWV0tIbXMx0gGGAkFVX3lxTE5QZFdpNzJnUWtFMmlxLURJc2I2X1pkSXN1N19EVVc5a2J3MWt3ajZNRl9qRElPRmNsbFA1V0hPSl9PX1BHZW53YWgyRHFkRXRUYWQtWVB0RVpSVllVWUFNN1NTS3RxNmNlalVyY1huT2xKSUdoU1AyZTN2SnF0cG9yNDBTWHByZXhyUTY1ZGJUelpNT20xVy1waDBjQS1GaWNYTFZsaUR0NGw2R0E5SDBFUkRKRFFGQzY5LUpaeXdyZTI2MkJNckphUEwtX1BfSHZfVGR3Zkk1Xy1nY3pWaVgwWHJfRUNUa2dOVE94dVhEUHBiSjE2VGZrLXBodHdFZDZSN1J2T3c?oc=5",
+          "source": "Medical Dialogues",
+          "summary": "Neighborhood walkability linked to lower type 2 diabetes risk in women with prior gestational diabetes:... Medical Dialogues",
+          "published": "2026-10-15T01:15:51+00:00"
+        },
+        {
+          "title": "Who Should Get a CGM? Expanding the Primary Care Candidate Pool",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkVHSVljVGdUSnQzZ0dLSkc4VUgwa2dZQkZyS1pQTElGb0dqVmkyWXpaU1ZwVFVCY2hGZjNOc1V2WEhoZ0JwaUtsV0Z0QTVNOVV4YjhKa1pXVzA2SGV4ZmNxTkxuUnJkUnhzRTdvU2xqd0NLZDl2ZEZHZlZ6dFEzc0QzRG5uNXRna3JjdW0wNnhmMnVUeEx5Nl9vTDdiQVYwTGt3?oc=5",
+          "source": "Patient Care Online",
+          "summary": "Who Should Get a CGM? Expanding the Primary Care Candidate Pool Patient Care Online",
+          "published": "2026-10-15T01:07:30+00:00"
+        },
+        {
+          "title": "Living With Diabetes? This AI-Powered Tool Analyzes How Your Meals Can Affect Your Glucose",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSXh5MnV5VTM5QWFidmVyZWZKUklEUHptMlZ5ZDJfN0x0SEJJUFlISHV5QVRHSDlmT0NfMWY5Y1kzVFdlWEpTelJvd0hkVGNHSlpGdFdYUjZ3ZFh0dklCMEtuNXhSb2RPOHpNd2E4bVViN2Nzck0xYlhudHFnM3JTdA?oc=5",
+          "source": "AOL.com",
+          "summary": "Living With Diabetes? This AI-Powered Tool Analyzes How Your Meals Can Affect Your Glucose AOL.com",
+          "published": "2026-10-15T00:30:00+00:00"
+        },
+        {
+          "title": "Landmark Dexcom CONNECT Study Published in The New England Journal of Medicine, Redefining the Standard of Care for People with Type 2 Diabetes Not on Insulin",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQaWVpV2dROVBLVUZOdXZiNW1YdHZlR0tUR3lwY1NkMmdLbG1peDZoSGZ4b3Exa0FoSks5YVFsdWh4MlVhdmpIZWdvNnBBOGVhSV9McG9qa1JxTWtHQWpYODFyVDh0ZjJ6ZTFLY1ZMUm11aUFGYWlDLTAwS0xJdEdRMFZkRnpOaFlTYUZFdU80Y2pleGI3Q2NsTWd1LTRZcmZQdUFZOWZ5eFlDVzRGNU1HMFdaYjlUeTJoOHFfT1dLY25EUWtXWTZpTXpkak9YcXV1ZEJZLUU4aTBCbGR5a3ZBX2t3bnZCS1FUVVAwTHpEdFVyMFJhQmgwUVljY0tlQ2lkdHE4cGdUZE5YMGRGUzJwNHZ2TV9EdnhPNDNjamZkMUdHOVo3VEtQZzNhR2VPRHhkMlk4em40WW51OUloUjMw?oc=5",
+          "source": "StreetInsider",
+          "summary": "Landmark Dexcom CONNECT Study Published in The New England Journal of Medicine, Redefining the Standard of Care for People with Type 2 Diabetes Not on Insulin StreetInsider",
+          "published": "2026-10-14T23:11:45+00:00"
         },
         {
           "title": "GLP-1 Drugs Cut Schizophrenia Hospital Visits, Study Finds",
@@ -367,6 +423,13 @@
           "published": "2026-10-14T22:01:24+00:00"
         },
         {
+          "title": "Influencing online until there’s a cure for T1D",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGp1NVZxalk1RWs5OEhlMXp6TTV6Zm0xQ291QkdfcDNhRTBqeWZtOFJpa2loUHpjZXZ2aVJUMEpkblFMNzVVeF82V1dMZE5zQjB5aWg0NllIdzRSdzVKcUZHZ3B1MVRINVdWUGdGc0lrTUJ0elRteUdaNjJOdm5nWWNoWnUzeTQ?oc=5",
+          "source": "WTMJ",
+          "summary": "Influencing online until there’s a cure for T1D WTMJ",
+          "published": "2026-10-14T21:55:01+00:00"
+        },
+        {
           "title": "Dexcom Study Redefines Diabetes Care for Non-Insulin Type 2 Patients",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRTBUcnU2dks0dVAtRlAwSGZwT0hzazdtZkpPRENKY1JUWUJudlVjWVZNWFh2Zi0ybkZGbjduRzFBMXdnMU0tc192UHZ5cDNFTHoxQzZJVi1NQjQxVjhPYk13VmVCUzQtNWh5UGJ1UGZzdU5GWXZuOHdhY29vaVpEMWthMTBiR01HYjNSVS0xYnEtWHlXaVh4dGlRVU9IMXB0dnVBMFZQVnVMQURGbFd3ck1VTURSQzNWaWNKT1ZfQ2RhR21zZmk4NEVad3FmOU9JT01Xcw?oc=5",
           "source": "TradingView",
@@ -374,25 +437,18 @@
           "published": "2026-10-14T21:13:57+00:00"
         },
         {
-          "title": "Landmark Dexcom CONNECT Study Published in The New England Journal of Medicine, Redefining the Standard of Care for People with Type 2 Diabetes Not on Insulin",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNZ1hlYkp6aUl4U2RPSDBiSVo5MHEtd1dQQVYzTWhoR3VYejVScExlN2c3ejdUZGZqN0JScG0ybmJoS0h3T05UTW1kcEo2T1R0ZXBJNmg0NkZCZWF3ZGk3c2NjejM3QS1nVVVDUVJtSDZFdElqb0ZOX2IyNUhOdVBQQ2tJbGlpMHpBdGlWWW56cnctVkF2TXlaUTRsSC1od21QemZQYU9RTVRZZzByeHJDZnF5OTl5aHlMQjVqUlNNcUlNWlctOFlfdnFuczNRNmhkU1AtZXhnWmVoNGkyTEk1T05WUGtIajZMZ2QxZ1picnJNZ21hTmhTQkJjcFdRUjE5WGRfSm05TWhmU0hNU0VyRWJtRXE4ZUlZekIyMlVqcEx1bGdYU3pFeE50ZW9CX3pRNUFybnJRZ3M4dw?oc=5",
-          "source": "Business Wire",
-          "summary": "Landmark Dexcom CONNECT Study Published in The New England Journal of Medicine, Redefining the Standard of Care for People with Type 2 Diabetes Not on Insulin Business Wire",
-          "published": "2026-10-14T21:10:00+00:00"
-        },
-        {
           "title": "Continuous Glucose Monitoring Beneficial in Type 2 Diabetes Not Treated With Insulin",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Dc19FZGs5SDNkTmthTEMwUVpvelA2TTNZeExXN28tNGdlY1FKSGY2VmNiU0ZmZmEtZC1kaHhvZThmb19SVmwyS1ltdUNLcHFMWWJUY3czLWxVczBpYWlUT01hc1daRWM?oc=5",
           "source": "MedPage Today",
           "summary": "Continuous Glucose Monitoring Beneficial in Type 2 Diabetes Not Treated With Insulin MedPage Today",
-          "published": "2026-10-14T21:01:15+00:00"
+          "published": "2026-10-14T21:01:44+00:00"
         },
         {
           "title": "Poor Glycemic Control Associated With Cytokine Storm & Severe COVID-19 Outcomes",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1RNMUdTTkstVW4wYTV5TUdsVlQ2ZEVRY1hvdlltSjR2Z3VXMEFaeFFJWU9fOWJPWGtvSkVhdHNiS1pjVUVvdkIzNWZNVUxZV2ZfanlVLV9aMkstV1o3X1QwQUZqTXB2VWFYN3dKTDZvWUZ4YThXdDc5VVlfbUlOUkdBMFV3dklObkl6OU9tM2hQNGs4RE9GWDZxaWFHOFh1eU1DcHA2VG5pSWdoV2lFbXNRcW5jZw?oc=5",
           "source": "Physicians Weekly",
           "summary": "Poor Glycemic Control Associated With Cytokine Storm & Severe COVID-19 Outcomes Physicians Weekly",
-          "published": "2026-10-14T19:48:46+00:00"
+          "published": "2026-10-14T19:47:44+00:00"
         },
         {
           "title": "The mistake diabetes specialists see after people start GLP-1 meds",
@@ -407,6 +463,13 @@
           "source": "Diabetes In Control",
           "summary": "Metformin in Pregnancy: What Child Development Data Show Diabetes In Control",
           "published": "2026-10-14T19:03:09+00:00"
+        },
+        {
+          "title": "Diabetes Drug Acarbose Turns Sugar Into an Anti-Obesity Ally by Rewiring Gut Microbes",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVEzYTYybjNDQ0c2OVFVWXEyZzlmQWFhTlhvZi1GekFRUnBKcVdTMGs3UUtIYzhIQ1d5UEt6aVJ3LW1mYUdxSDlXWElYTmVoYS0xYjRMTU8tVFpJZXNuMVF6YmwxSFFTY2ZfV1E4QmY2b3F6WG1oZXpNSlRpclYzTDRIdUp4VVhmRm54NHFST0NQT3doWDdqNmxCRW1SNldzbFQzY012VHJlMTI2S0Ew?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Diabetes Drug Acarbose Turns Sugar Into an Anti-Obesity Ally by Rewiring Gut Microbes Bioengineer.org",
+          "published": "2026-10-14T18:28:52+00:00"
         },
         {
           "title": "Studies examine the connection between primary care provider resources and health outcomes for type 2 diabetes patients",
@@ -428,13 +491,6 @@
           "source": "HME News",
           "summary": "Sava receives $36M in funding, partners with Ascensia HME News",
           "published": "2026-10-14T18:02:00+00:00"
-        },
-        {
-          "title": "FDA Approves Once-Weekly Basal Insulin Efsitora for Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVTdleFJFLVBrLUtWUUdCcjE2WVIzam1oSERNaFlfR050V1psLTJ0QkJxVEREMktjeHE5UElMd09oMzJ0MDdhUllTN3M3eVVYY2NPbVoyQzhpOWlwUms4TThNeHp3QjRkOGduTFFfNmJOdjZ5QTVJZTlzcDVleWJRU2ZXaWpMTzlrTXFLM3ZtTGVHbG1mbTRPMklBaEpFeFh6aEZVWHNpM3U5M3luZGRvaklZZFVNMkxRTXVMbmVkN094MFhsNklsYWJ30gHPAUFVX3lxTFAya3VBMElNM2Q1dFk1Y0NXQ2ZtSzB1alVqU2M2M2pBbXFVV0NYdjgzbkt1eEN4bjJhbE0wdmwwRFd0VlZDaVRpSF9zUENCQ2oxNC1wb3BWOUxMelJvZXF3V0pXWTJwMjNJSVM0ZDMxRWtKaDdDSTh0eFRHSEFuNnhIRzJCUmxwVWNpV3Q0RmtiejhjR2lUdzg2ZlZXZUpTS3RrdjFyZjYyLVpRRUdsRWtTbGlGazV0Sl90REJ0RWJ6aFVub0FVeHNGMUg1b1BVWQ?oc=5",
-          "source": "Medical Dialogues",
-          "summary": "FDA Approves Once-Weekly Basal Insulin Efsitora for Type 2 Diabetes Medical Dialogues",
-          "published": "2026-10-14T17:00:51+00:00"
         },
         {
           "title": "Prevalence and Determinants of Diabetes and Pre-diabetes Among Adults in a Rural Region in India: A Community-Based Cross-Sectional Study",
@@ -507,13 +563,6 @@
           "published": "2026-10-14T14:40:47+00:00"
         },
         {
-          "title": "From NICU parent to pediatric nurse: Jenny Maness uses personal experience to care for others",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWll0cGx3ak5pQVp3VWNIdDNPUTc1bUJtczc1SU9BUXRkYTBiT3B3d2pIajRURzh5Yzc1UjV6dGNtSy1XVGR3VU5Oc2VsOFh6dldFcXZWNWRQMGVoai16dEk0Sml6aHpQb040dnZJSy1IRHdwMkJpNWllTVNuU0JKMlNMeVZSekVvdUY5VXhHQXVJREt1WUh6S3BQVXhuNkRCZ2Z1c1drUVNJTEVsNm9rM000d1JhQl9IbWhn?oc=5",
-          "source": "ECU Health",
-          "summary": "From NICU parent to pediatric nurse: Jenny Maness uses personal experience to care for others ECU Health",
-          "published": "2026-10-14T14:39:37+00:00"
-        },
-        {
           "title": "Boy who survived near-fatal diabetes emergency aims to raise £3,500 for hospital",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3FadUl0VElQRXJtSk8wd3JaRVBOYllZUlFsMmpuNUNhcDZtUXBybXBFRVpBR3JUTlozWHVSQWJJX1RlVzhpU0Y5TkJkMDFHRS03dEx2WXVSNlNLWnFROVlVN2xuMGxjRGk0OVplNUhvMnI0Q212T2hIYjRKV1p2anRGUVZIbzBOQWc0SGdwTDNvT05jdnlWdGZWZW83aVRBSnJiR1hKSjU4TXV5cGc3Ng?oc=5",
           "source": "The Impartial Reporter",
@@ -554,55 +603,6 @@
           "source": "The Diabetes Times",
           "summary": "Ascensia announces strategic partnership with Sava for innovative microsensor technology The Diabetes Times",
           "published": "2026-10-14T13:18:27+00:00"
-        },
-        {
-          "title": "Trail de Bourbon : Jean-Christophe Robert, diabétique de type 1, va courir pour \"montrer que la maladie n'empêche pas de se dépasser\"",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRHg3XzEtblM1UWR0QlE4ellsa0Y3RFpnREdMbFBVaWstSU9LWWtiOTBuQURrb0xleXhPTUxHWkJlWGRsQkREU0ZjbFgzNXdiVExfbEx4XzV6ZXNMMVQzZ0RtU2NIcjZnNFBLQ0tRZ2g1T2JaN2VnMzhmcVNNaG1fLWZXa0ZueFJMcGg1Z3ZFc01jS2ZDakVFWE41a1RhRWg2amcxaXY1dzFTMUhFYV9NcnpIVVhPZTdrVmNqaVJQbHI5VTEzZFJhQTQ1VEw5OXlfZWlsRzgtWjBPVUI1eExxb1Y4aHg2SXJwNGlCZkc4eDZQdw?oc=5",
-          "source": "Imaz Press",
-          "summary": "Trail de Bourbon : Jean-Christophe Robert, diabétique de type 1, va courir pour \"montrer que la maladie n'empêche pas de se dépasser\" Imaz Press",
-          "published": "2026-10-14T13:03:37+00:00"
-        },
-        {
-          "title": "Santé : la communauté médicale reconnaît officiellement un nouveau type de diabète, différent des types 1 et 2",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0stQ0ZsSUVpV3ZNX3RfbkVHZFpnTHB1SXBGVFZETDZrcUdEbzd6Q3Fvb3pqUUoyX2hLblJVS1JnQTNJMnVvR1RfbldmTlhxZ3BzWWQ5ODU2aEhBNWE5aWZRdTAyZVV0WDFTZ3hJUnBicFQyQm5GSEk3Rk00czlISVRrSGRwYVo3UjQ2UHY1SHh6OHJGNFh2WWEwS2hwVVVUOUVlMFhhYXJWVGlQQmg0ZklqREhaT1ozb29XYXNXUQ?oc=5",
-          "source": "Presse-citron",
-          "summary": "Santé : la communauté médicale reconnaît officiellement un nouveau type de diabète, différent des types 1 et 2 Presse-citron",
-          "published": "2026-10-14T13:02:52+00:00"
-        },
-        {
-          "title": "The 4 Best Nutritional Resources of 2026 for People With Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRG11Nkp6cHVoSk9QdlZNMzhicXNSMGlYSjV0TFpRMkFETGJ3dXNPdEhYZzlVRjJXXzhYZnFUVDljN3JrZkNsb010ZmM1R25KN08tU3FvLU9Ydkwzd3J1RWRhTVQ0d05nUk5mR01LOTZCRFlPMDMyY3lsYXhpV0RRcldfXzhvcFdPV0FIczI2SVoyajU3R2RMRFR5ZVVEX3NkaEg2SXBlblFFVGd0S2ZIR3dR?oc=5",
-          "source": "Yahoo Health",
-          "summary": "The 4 Best Nutritional Resources of 2026 for People With Diabetes Yahoo Health",
-          "published": "2026-10-14T13:01:03+00:00"
-        },
-        {
-          "title": "Le diabète de type 1, \"une charge mentale 24 heures sur 24\" : deux mamans de Narbonne témoignent de leur quotidien avec un enfant malade",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYVFsdGZBZ1pqY0xRZmZUczRMbUY1MHRPM01pNEU3MmNPcHdKX3dIRF9zblRwNXRUcTFHQ1BxZE5KSjhwWVNLempheGlVQVMtejdyU0dFbXdGU0Ntbms5MHRyZFhHYTJyX2J6eDNLMzJvRWRfWWJjSVlXeDB2SGthVFZ2VHVoVjlMVWJ1dEZ0X2NsMVJRNVRTSGJmSWhfYUVPbjRid0JQbUp3ZWE5Yll5elNKMi1KZjJtSnlkOEk5TWlOTGJQa2lhaTdpVHpoUFIwUmRfbDlCUldqTjV2R0ltYmJrU1ZYU3pqalB0d2VGMEVFNmJXakY4bWM1ei1KVUZ5MGlQdVpZeDB3S0RmZ0FxMQ?oc=5",
-          "source": "L'Indépendant",
-          "summary": "Le diabète de type 1, \"une charge mentale 24 heures sur 24\" : deux mamans de Narbonne témoignent de leur quotidien avec un enfant malade L'Indépendant",
-          "published": "2026-10-14T12:52:00+00:00"
-        },
-        {
-          "title": "Study shows low energy diet combined with structured exercise reverses early onset type 2 diabetes in half of participants",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORUJOM1U5a2gzNlF2d2VpYXFEUUVDNE1EcWVlb01MRDdnQmpHaDVwMkNaYVZXMmVYdi1kTzN5aWxsQnFUQmNOVGh1d01lRjBpUktQMDhNZ1VFbDlrLXVNcmhUazR5dk5xdDR4XzhueldaejBkeGZLNTZtVXZVUm1zVmdPcElmZmtKb3BISnZZekxpVE1lcjZqU2NMcGlmbll4MnBIWEMzUnJ1ZDdzUXFfX1ZWTkJGMTYxc0J3OFBaUWVkVE9kUnEzY2xicDJyX05HeFFPSzJhOGFKRjB1cndXRl9leWoxUQ?oc=5",
-          "source": "The Diabetes Times",
-          "summary": "Study shows low energy diet combined with structured exercise reverses early onset type 2 diabetes in half of participants The Diabetes Times",
-          "published": "2026-10-14T12:32:59+00:00"
-        },
-        {
-          "title": "Ilkley podiatrist named Diabetic Foot Champion at national awards",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHI4bDBmNkNBX29zeUhFaHVuVlRDUGlzeWM1dmFVTDRLWVJabFg4NFNFZ0RPY0RKNDB6QTBkd3VtNEpreEZOZWtmSmYwaEdIRkdQMk9MSWJmaURWZzVXSmVuNlR4X2VBRjFqTEtUeUJLNW9jLS1OSUtkel9pQ3VUSUk1aWhCRmNEUjhVUzVGS0FXU0RrdzFNYnN0TUg0UFFXN2k1NWh3?oc=5",
-          "source": "Wharfedale Observer",
-          "summary": "Ilkley podiatrist named Diabetic Foot Champion at national awards Wharfedale Observer",
-          "published": "2026-10-14T12:31:49+00:00"
-        },
-        {
-          "title": "MHRA approves weekly insulin jab Onswik",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nb1Z6bWZqYlZVUWxLb3AyQkZpX29rZWpXYVFsYThxd1JMRFJ3eFNkZzhLYWtHODJWbmhuckhkT192NjA0QS1rWi16UE9BMDd2ZWhWWWZfc3BneWZNWEtlMVFweGJOaGx5Z0R3?oc=5",
-          "source": "Pharmacy Business",
-          "summary": "MHRA approves weekly insulin jab Onswik Pharmacy Business",
-          "published": "2026-10-14T12:27:15+00:00"
         }
       ]
     }
