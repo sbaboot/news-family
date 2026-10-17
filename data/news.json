@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-10-17T17:50:19.808369+00:00",
+  "generated_at": "2026-10-17T20:09:36.853586+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "« L’économie du Brésil est en croissance grâce au niveau élevé des cours mondiaux des matières premières plus qu’à un succès du gouvernement Lula »",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/17/l-economie-du-bresil-est-en-croissance-grace-au-niveau-eleve-des-cours-mondiaux-des-matieres-premieres-plus-qu-a-un-succes-du-gouvernement-lula_6796586_3232.html",
+          "source": "Le Monde",
+          "summary": "Si, le 25 octobre, Lula échoue au second tour de la présidentielle au Brésil, sa défaite sera celle d’un homme du passé, mais aussi celle d’une gauche restée aveugle à la hausse du coût de la vie et aux menaces du crime…",
+          "published": "2026-10-17T18:00:12+00:00"
+        },
+        {
+          "title": "France : les grandes villes en proie aux pillages en marge des manifestations contre la \"vie chère\"",
+          "link": "https://www.france24.com/fr/france/20261017-france-les-grandes-villes-en-proie-aux-pillages-en-marge-des-manifestations",
+          "source": "© AFP, Jeff Pachoud",
+          "summary": "De Paris à Marseille, la journée de mobilisation contre la \"vie chère\" a réuni des centaines de milliers de personnes samedi mais s'est conclue par des affrontements et des scènes de chaos d'une intensité rare, des…",
+          "published": "2026-10-17T17:41:28+00:00"
+        },
         {
           "title": "En Albanie, les manifestants protestent un cinquième jour d’affilée pour exiger la démission du premier ministre",
           "link": "https://www.lemonde.fr/international/article/2026/10/17/en-albanie-les-manifestants-protestent-un-cinquieme-jour-d-affilee-pour-exiger-la-demission-du-premier-ministre_6796552_3210.html",
@@ -59,20 +73,6 @@
           "source": "France 24",
           "summary": "Stéphanie Michel, élue LFI de Fontenay-sous-Bois, est au micro de Johan Bodin.",
           "published": "2026-10-17T15:52:29+00:00"
-        },
-        {
-          "title": "Controverse électorale en Inde : le chef des \"cafards\" à nouveau arrêté",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-controverse-%C3%A9lectorale-en-inde-le-chef-des-cafards-%C3%A0-nouveau-arr%C3%AAt%C3%A9",
-          "source": "France 24",
-          "summary": "Le chef du mouvement indien des \"cafards\" a été arrêté vendredi à New Delhi avant une manifestation à laquelle il avait appelé pour dénoncer la révision des listes électorales, nouvelle péripétie de l'épreuve de force…",
-          "published": "2026-10-17T15:46:03+00:00"
-        },
-        {
-          "title": "Au Maroc, un nouveau gouvernement formé, mais peu de changement, sauf pour les femmes",
-          "link": "https://www.lemonde.fr/international/article/2026/10/17/au-maroc-un-nouveau-gouvernement-forme-mais-peu-de-changement-sauf-pour-les-femmes_6796443_3210.html",
-          "source": "Le Monde",
-          "summary": "Trente-deux ministres ont prêté serment devant le roi du pays, Mohammed VI, vendredi 16 octobre, mais 40 % d’entre eux étaient déjà en poste. Les femmes, elles, reculent dans la hiérarchie gouvernementale.",
-          "published": "2026-10-17T15:08:53+00:00"
         }
       ]
     },
@@ -83,6 +83,34 @@
     "quebec": {
       "label": "Quebec",
       "items": [
+        {
+          "title": "Centre-ville de Montréal | Des centaines de manifestants en solidarité à la mobilisation en France",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-17/centre-ville-de-montreal/des-centaines-de-manifestants-en-solidarite-a-la-mobilisation-en-france.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Des centaines de manifestants se sont regroupés au centre-ville de Montréal, en solidarité aux manifestations qui ont éclaté samedi aux quatre coins de la France. Aucune arrestation ni acte de vandalisme n’a pour…",
+          "published": "2026-10-17T19:45:55+00:00"
+        },
+        {
+          "title": "Utilisation alléguée de l’IA | Thélyson Orélien renonce à documenter les origines de son roman",
+          "link": "https://www.lapresse.ca/arts/litterature/2026-10-17/utilisation-alleguee-de-l-ia/thelyson-orelien-renonce-a-documenter-les-origines-de-son-roman.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’écrivain québécois d’origine haïtienne Thélyson Orélien a renoncé à rassembler des éléments de preuve pour étayer son démenti après des allégations selon lesquelles son roman aurait été rédigé par une intelligence…",
+          "published": "2026-10-17T18:35:27+00:00"
+        },
+        {
+          "title": "Pourquoi la colère contre la vie chère gagne-t-elle les rues de France?",
+          "link": "https://www.ledevoir.com/monde/europe/1017692/francais-mobilisent-contre-vie-chere",
+          "source": "Le Devoir",
+          "summary": "Dans la foulée des mobilisations lycéennes, les jeunes ont été rejoints samedi par plusieurs groupes de la société.",
+          "published": "2026-10-17T18:20:00+00:00"
+        },
+        {
+          "title": "L’Arabie saoudite intercepte des drones, l’Égypte envisage d’intervenir pour la défendre",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1017689/arabie-saoudite-intercepte-drones-egypte-envisage-intervenir-defendre",
+          "source": "Le Devoir",
+          "summary": "Le pays est sous le feu depuis début octobre d’attaques quasi-quotidiennes des Houthis pro-iraniens du Yémen.",
+          "published": "2026-10-17T18:10:00+00:00"
+        },
         {
           "title": "Élections de mi-mandat | Des milliers de rassemblements pour mobiliser le vote anti-Trump",
           "link": "https://www.lapresse.ca/international/etats-unis/2026-10-17/elections-de-mi-mandat/des-milliers-de-rassemblements-pour-mobiliser-le-vote-anti-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
@@ -112,46 +140,18 @@
           "published": "2026-10-17T16:40:00+00:00"
         },
         {
+          "title": "Une maison à hauteur d’enfant",
+          "link": "https://www.lapresse.ca/maison/2026-10-17/une-maison-a-hauteur-d-enfant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Dans cette maison du quartier Petit Laurier, à Montréal, tout tourne autour du jeu… mais ce n’est pas pour autant un univers juste pour enfants. Tout le monde y trouve son compte, petit coin par petit coin.",
+          "published": "2026-10-17T16:00:00+00:00"
+        },
+        {
           "title": "Deux femmes agressées en CHSLD | « Tout est bien qui finit bien », se réjouit un agresseur qui évite la prison",
           "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-17/deux-femmes-agressees-en-chsld/tout-est-bien-qui-finit-bien-se-rejouit-un-agresseur-qui-evite-la-prison.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "« Tout est bien qui finit bien », a philosophé Mohamed Zarrouk, à la fin de l’audience. Ce délinquant était visiblement satisfait d’éviter la prison mardi, alors qu’il a agressé sexuellement deux femmes très vulnérables…",
           "published": "2026-10-17T16:00:00+00:00"
-        },
-        {
-          "title": "Cisjordanie occupée | Des colons attaquent un convoi diplomatique européen et frappent un maire français",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-10-17/cisjordanie-occupee/des-colons-attaquent-un-convoi-diplomatique-europeen-et-frappent-un-maire-francais.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Des colons israéliens ont attaqué samedi un convoi de diplomates européens en visite en Cisjordanie occupée, rouant de coups un maire français, dans un contexte d’intensification des violences contre la récolte…",
-          "published": "2026-10-17T15:47:08+00:00"
-        },
-        {
-          "title": "Le pape Léon rentre au Vatican, quatre jours après une opération pour un cancer du poumon",
-          "link": "https://www.ledevoir.com/monde/europe/1017680/pape-leon-rentre-vatican-quatre-jours-apres-operation-cancer-poumon",
-          "source": "Le Devoir",
-          "summary": "Le souverain pontife a quelque semaines pour récupérer avant un voyage en Amérique latine en novembre.",
-          "published": "2026-10-17T15:30:00+00:00"
-        },
-        {
-          "title": "Charlevoix | Garder la flamme allumée toute l’année",
-          "link": "https://www.lapresse.ca/gourmand/restaurants/2026-10-17/charlevoix/garder-la-flamme-allumee-toute-l-annee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le fantasme ultime du chef Hugue Dufour ? Voir arriver, dans l’obscurité glaciale de l’hiver, une tablée d’habitués en motoneige venus se réchauffer avec ses plats et se mélanger à une clientèle hétéroclite de résidants…",
-          "published": "2026-10-17T15:00:00+00:00"
-        },
-        {
-          "title": "De Paris à Marseille, une mobilisation contre la «vie chère» émaillée de scènes de chaos",
-          "link": "https://www.ledevoir.com/monde/europe/1017677/france-mobilisation-contre-vie-chere-emaillee-scenes-chaos",
-          "source": "Le Devoir",
-          "summary": "Les manifestations un peu partout au pays réunissaient notamment des gilets jaunes, des lycéens et des salariés.",
-          "published": "2026-10-17T14:20:00+00:00"
-        },
-        {
-          "title": "Quoi voir sur vos écrans cette fin de semaine?",
-          "link": "https://www.ledevoir.com/culture/cinema/1017674/quoi-voir-ecrans-cette-fin-semaine",
-          "source": "Le Devoir",
-          "summary": "Une sélection de nos critiques pour guider vos visionnages du week-end.",
-          "published": "2026-10-17T14:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,94 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Manifestations du 17 octobre : de scènes de chaos, de violences et de pillages, «nous ne nous laisserons pas intimider», dit Sébastien Lecornu",
+          "title": "EN DIRECT - Multiplex Ligue 1 : Giroud permet à Lille de recoller, Lens prend le large à Troyes",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/en-direct-multiplex-ligue-1-giroud-et-lille-pour-reprendre-la-tete-lens-face-a-troyes-20261017",
+          "source": "Le Figaro",
+          "summary": "Suivez le multiplex de la 7e journée de Ligue 1 ce samedi avec deux rencontres au programme : Lille-Brest et Troyes-Lens.",
+          "published": "2026-10-17T20:09:02+00:00"
+        },
+        {
+          "title": "EN DIRECT - Manifestations du 17 octobre : Darmanin demande une réponse judiciaire «extrêmement ferme» face à des violences «d’une gravité inouïe»",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-gilets-jaunes-lyceens-syndicats-suivez-les-manifestations-et-les-blocages-du-17-octobre-20261017",
           "source": "Le Figaro",
           "summary": "Des «gilets jaunes», des lycéens et des étudiants, rejoints par des organisations syndicales, appelaient à manifester ce samedi 17 octobre contre la vie chère, la hausse des prix des carburants et les difficultés des…",
-          "published": "2026-10-17T17:49:02+00:00"
+          "published": "2026-10-17T20:08:59+00:00"
         },
         {
-          "title": "La main d'un manifestant arrachée à Saint-Étienne pendant une mobilisation du 17 octobre",
+          "title": "«J’espère que le nouveau président français va continuer d’aider l’Ukraine» : le cri du cœur du Parisien Illya Zabarnyi",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/j-espere-que-le-nouveau-president-francais-va-continuer-d-aider-l-ukraine-le-cri-du-coeur-du-parisien-illya-zabarnyi-20261017",
+          "source": "Le Figaro",
+          "summary": "Le défenseur ukrainien du Paris SG s’est exprimé après la rencontre contre Strasbourg, ce samedi à l’occasion de la 7e journée de Ligue 1.",
+          "published": "2026-10-17T20:01:18+00:00"
+        },
+        {
+          "title": "«J’en ai pour 1000 euros» : à Bordeaux, les manifestations du 17 octobre ont rapidement viré en pillages et en saccages",
+          "link": "https://www.lefigaro.fr/bordeaux/j-en-ai-pour-1000-euros-a-bordeaux-les-manifestations-du-17-octobre-ont-rapidement-vire-en-pillages-et-en-saccages-20261017",
+          "source": "Le Figaro",
+          "summary": "Le maire de Bordeaux, Thomas Cazenave, «condamne fermement les dégradations et violences dont se sont rendus coupables des groupes ultra-violent», ce samedi.",
+          "published": "2026-10-17T19:57:10+00:00"
+        },
+        {
+          "title": "«Il est en grande partie perdu» : les images terribles de l’incendie de l’hôtel de ville de Limoges, en marge de la manifestation du 17 octobre",
+          "link": "https://www.lefigaro.fr/actualite-france/les-images-terribles-de-l-incendie-de-l-hotel-de-ville-de-limoges-en-marge-de-la-manifestation-du-17-octobre-20261017",
+          "source": "Le Figaro",
+          "summary": "Un groupe d’individus cagoulés s’est introduit dans la mairie de Limoges avant qu’un incendie ne s’y déclare.",
+          "published": "2026-10-17T19:47:41+00:00"
+        },
+        {
+          "title": "Paris, Lyon, Marseille, Limoges… : les images des scènes de violences lors des manifestations du 17 octobre",
+          "link": "https://www.lefigaro.fr/actualite-france/paris-lyon-marseille-les-images-des-scenes-de-violences-et-de-scenes-lors-des-manifestations-du-17-octobre-20261017",
+          "source": "Le Figaro",
+          "summary": "Quelque 800 000 personnes ont participé aux actions et défilés partout en France, samedi, contre la «vie chère», selon plusieurs organisations associées à cette mobilisation nationale. Dans plusieurs villes, les…",
+          "published": "2026-10-17T19:47:37+00:00"
+        },
+        {
+          "title": "Dans la mobilisation le 17 octobre à Paris, les manifestants tentent de faire entendre une multitude de \"ras-le-bol\", malgré les violences en marge du cortège",
+          "link": "https://www.franceinfo.fr/economie/greve/reportage-a-paris-une-foule-compacte-et-une-multitude-de-ras-le-bol-dans-la-manifestation-du-17-octobre_8241868.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Plusieurs milliers de manifestants ont défilé samedi entre la place de la République à la place de Clichy. Tout au long des plus de trois kilomètres du tracé, ils ont crié des revendications diverses, alors que des…",
+          "published": "2026-10-17T19:40:05+00:00"
+        },
+        {
+          "title": "La mairie de Limoges incendiée, la résidence préfectorale de Bordeaux saccagée... La mobilisation du 17 octobre émaillée de violences dans plusieurs villes de France",
+          "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Plusieurs centaines de rassemblements et de manifestations sont organisés samedi dans le pays, soutenus par différents syndicats et partis politiques à gauche.",
+          "published": "2026-10-17T19:35:29+00:00"
+        },
+        {
+          "title": "La main d'un manifestant de 17 ans arrachée à Saint-Étienne pendant une mobilisation du 17 octobre, l'enquête confiée à l'IGPN",
           "link": "https://www.franceinfo.fr/economie/greve/a-saint-etienne-un-manifestant-grievement-blesse-a-la-main-a-saint-etienne-pendant-une-mobilisation-du-17-octobre_8241952.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Le jeune homme a été transporté au CHU de la ville, les circonstances du drame restent indéterminées pour le moment.",
-          "published": "2026-10-17T17:40:55+00:00"
+          "summary": "L'adolescent âgé de 17 ans a été transporté en urgence au CHU de la ville, les circonstances du drame restent indéterminées pour le moment.",
+          "published": "2026-10-17T19:32:53+00:00"
         },
         {
-          "title": "EN DIRECT – Mouvement du 17 octobre «contre la vie chère» : «nous ne nous laisserons pas intimider» par les violences, prévient Sébastien Lecornu",
+          "title": "EN DIRECT – Mobilisation du 17 octobre : 550 000 manifestants partout en France, annonce Laurent Nuñez ; situation toujours très tendue dans plusieurs villes",
           "link": "https://www.liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE/",
           "source": "Liberation",
           "summary": "Plus d’un an après «Bloquons tout» et plusieurs semaines de mobilisation lycéenne, la France a connu une nouvelle journée d’intense contestation sociale, ce samedi. Selon la CGT, 500 000 manifestants ont défilé.",
-          "published": "2026-10-17T17:40:09+00:00"
-        },
-        {
-          "title": "\"Nous ne nous laisserons pas intimider\", prévient Sébastien Lecornu, dénonçant les violences en marge des manifestations du 17 octobre",
-          "link": "https://www.franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le Premier ministre a apporté \"tout\" son soutien aux forces de l'ordre \"qui ont affronté une violence d'une extrême intensité\".",
-          "published": "2026-10-17T17:37:53+00:00"
-        },
-        {
-          "title": "Clermont-Leinster : Noah se distingue, des Leinstermen diesel, la mêlée de l’ASM dans le dur… Les tops et flops",
-          "link": "https://www.lefigaro.fr/sports/rugby/clermont-leinster-noah-se-distingue-des-leinstermen-diesel-la-melee-de-l-asm-dans-le-dur-les-tops-et-flops-20261017",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE – Découvrez ce qui a marqué la rédaction du Figaro après la défaite de Clermont face au Leinster (48-23), à l’occasion de la première journée de Champions Cup.",
-          "published": "2026-10-17T17:37:47+00:00"
-        },
-        {
-          "title": "À Saint-Étienne, une enquête ouverte après qu’un jeune homme de 17 ans a perdu sa main en ramassant une grenade",
-          "link": "https://www.lefigaro.fr/actualite-france/a-saint-etienne-un-jeune-homme-de-17-ans-perd-sa-main-en-ramassant-une-grenade-20261017",
-          "source": "Le Figaro",
-          "summary": "Le manifestant de 17 ans se serait saisi de l’objet lancé par les forces de l’ordre. Le modèle de la grenade n’est pas connu. Une enquête a été confiée à l’IGPN.",
-          "published": "2026-10-17T17:36:58+00:00"
-        },
-        {
-          "title": "Mobilisation du 17 octobre : 800 000 personnes ont manifesté dans toute la France, selon les organisateurs",
-          "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Des violences ont éclaté en marge des cortèges dans de nombreuses villes, comme à Paris, Lyon et Marseille.",
-          "published": "2026-10-17T17:35:47+00:00"
-        },
-        {
-          "title": "A Angers, un 17 octobre intergénérationnel : «Nos filles nous ont dit de nous bouger»",
-          "link": "https://www.liberation.fr/societe/a-angers-un-17-octobre-intergenerationnel-nos-filles-nous-ont-dit-de-nous-bouger-20261017_E6LQTJWSHZBT7BJHDIHSMNYG64/",
-          "source": "Liberation",
-          "summary": "Dans la capitale angevine, la manifestation a eu des airs de convergences des luttes, mais aussi des générations.",
-          "published": "2026-10-17T17:34:12+00:00"
-        },
-        {
-          "title": "Ligue 1 : avant son défi face au Barça, le PSG renverse Strasbourg grâce à un grand Dembélé",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-avant-son-defi-face-au-barca-le-psg-renverse-strasbourg-grace-a-un-grand-dembele-20261017",
-          "source": "Le Figaro",
-          "summary": "Le Paris Saint-Germain s’est imposé ce samedi à Strasbourg pour le compte de la 7e journée de Ligue 1. Les joueurs de Luis Enrique prennent provisoirement la tête.",
-          "published": "2026-10-17T17:29:34+00:00"
-        },
-        {
-          "title": "Liga : en vidéo, le nouveau chef-d’œuvre de l’intouchable Lamine Yamal avec le Barça",
-          "link": "https://www.lefigaro.fr/sports/football/espagne/liga-en-video-le-nouveau-chef-d-oeuvre-de-l-intouchable-lamine-yamal-avec-le-barca-20261017",
-          "source": "Le Figaro",
-          "summary": "D’une merveille du pied gauche, le prodige espagnol a ouvert le score face au Real Betis ce samedi.",
-          "published": "2026-10-17T17:27:33+00:00"
+          "published": "2026-10-17T19:19:25+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "« Un barbecue qui a mal tourné » : l’astronaute française Sophie Adenot nous décrit les odeurs surprenantes de l’espace",
+          "link": "https://www.numerama.com/sciences/2352895-un-barbecue-qui-a-mal-tourne-lastronaute-francaise-sophie-adenot-nous-decrit-les-odeurs-surprenantes-de-lespace.html",
+          "source": "Numerama",
+          "summary": "De retour après quasiment 8 mois dans l'espace, Sophie Adenot renoue avec des sensations bien terrestres. L'astronaute française redécouvre notamment les odeurs, après avoir connu celles de l'ISS. Elles se font plus…",
+          "published": "2026-10-17T18:15:00+00:00"
+        },
+        {
+          "title": "Des agents IA ont accédé aux données confidentielles d'entreprises sans être détectés",
+          "link": "https://www.clubic.com/actualite-634669-des-agents-ia-ont-accede-aux-donnees-confidentielles-d-entreprises-sans-etre-detectes.html",
+          "source": "Clubic",
+          "summary": "En Inde, des agents d’intelligence artificielle en cours de test ont fouillé les systèmes de plusieurs organisations et lu des données personnelles et des documents confidentiels. Dans ces organisations, personne n’a…",
+          "published": "2026-10-17T17:53:00+00:00"
+        },
         {
           "title": "Jouer en 5K à 165 Hz ou en QHD à 330 Hz : cet écran LG de 27″ suréquipé profite de 300 € de réduction",
           "link": "https://www.frandroid.com/bons-plans/3288375_jouer-en-5k-a-165-hz-ou-en-qhd-a-330-hz-cet-ecran-lg-de-27-surequipe-profite-de-300-e-de-reduction",
@@ -302,20 +316,6 @@
           "source": "Frandroid",
           "summary": "B&You propose un forfait 170 Go en 5G avec Deezer Premium inclus, à 19,99 euros par mois sans engagement. L’abonnement musical vaut à lui seul 11,99 euros par mois.",
           "published": "2026-10-17T15:35:46+00:00"
-        },
-        {
-          "title": "PowerColor Radeon RX 9050 8 Go low profile en fuite, une première du genre",
-          "link": "https://www.clubic.com/actualite-634663-powercolor-radeon-rx-9050-8-go-low-profile-en-fuite-une-premiere-du-genre.html",
-          "source": "Clubic",
-          "summary": "En l'espace de quelques semaines, deux fabricants lancent des Radeon RX 9000 dites low profile. NVIDIA n'est donc plus seul sur ce segment.",
-          "published": "2026-10-17T15:33:00+00:00"
-        },
-        {
-          "title": "L'ID. Buzz aura droit à une deuxième génération et Volkswagen veut corriger son principal défaut",
-          "link": "https://www.clubic.com/actualite-634666-l-id-buzz-aura-droit-a-une-deuxieme-generation-et-volkswagen-veut-corriger-son-principal-defaut.html",
-          "source": "Clubic",
-          "summary": "Thomas Schäfer, patron de Volkswagen, a confirmé qu’une deuxième génération de l’ID. Buzz était en préparation, à l’occasion du Mondial de l’Auto de Paris. Pour la vendre moins cher, le constructeur compte sur sa future…",
-          "published": "2026-10-17T15:15:00+00:00"
         }
       ]
     }
@@ -325,6 +325,55 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "Why diabetes patients skip their pills: motivation matters more than medication know-how",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUNzSy1laE9zT0dkVF9iRURBY015TzVwZnROa3JOc0xBcmg3QlU2ZnNVS2pGaE5FUHhUQm9sUkk3dHppY0w3QllVaDk5Qm9FVk4tY24zRkpQM05FeGJEYm5aUTg1bm5DZnlPM2RtaE1HcGVfSHh5ZUZkUFZ6cWF4VXI2WlBYbERDZlg4eTBWeHpMelJkcDJldlF6eUdzU2lyNmFrb1hyN2N6LXp0cTBRV25n?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Why diabetes patients skip their pills: motivation matters more than medication know-how Bioengineer.org",
+          "published": "2026-10-17T19:21:59+00:00"
+        },
+        {
+          "title": "new novo drug delivers significant weight-loss benefits in diabetes trial",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnNBOGNIRkdMZ0tHTTZyV0lGVU1Wbmd2ZFd1ODhaRFhQaXdMNHV6aXhKMDZFeElNVzdCSi1ZU1haS0hoWjYtd2d1R2t1dngzaVgycWtaUW1DYU9JVnVxdzRRMkl1aUxlako1RkkzZ2FrUVMxYlllQ1FlM2pwRkI5cUVRSDZmY3BWeE5FS3lKQjdBOWpHTzFtMlpabmI0ekVpb1JhY3J5U1dYX3hl?oc=5",
+          "source": "Meteo.gr",
+          "summary": "new novo drug delivers significant weight-loss benefits in diabetes trial Meteo.gr",
+          "published": "2026-10-17T19:21:01+00:00"
+        },
+        {
+          "title": "Continuous glucose monitors help type 2 diabetes patients spend 5 more hours a day in healthy blood sugar range",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRk1UcU9VSTZIWHh5YTRmVGNqbkpVc3NDMDRGaEFUbHAwM01jZ0pGV1FZbTJ6VkRwQ0h3d1hTUG45bzRaSUFCc2E2OC1waEdsNHNnY2RMMlV3NXZKYzJqT2lZazlmUEhnTEpndWloamFKbktKbXloMTJfMlloSVhyZFgzM2tfZw?oc=5",
+          "source": "Medical Xpress",
+          "summary": "Continuous glucose monitors help type 2 diabetes patients spend 5 more hours a day in healthy blood sugar range Medical Xpress",
+          "published": "2026-10-17T19:00:01+00:00"
+        },
+        {
+          "title": "what is the diabetes drug used for weight loss",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHV3ak5nTl9sRWZrNk5OQWJBZ2pXNUxtMlAzTGhsNlpDUUM4OE9ZbmpoeHM4NzdoZmhzQXJjMDJBa2hlS2dTbXMyLWxDNDVhckhOeW14NkkwdTdFMExJWDVRVFdMN0ZFOHZuQVBkdllibW5FVVpkV0ZBb2xmR2NmdHNaQmQxNEpm?oc=5",
+          "source": "Meteo.gr",
+          "summary": "what is the diabetes drug used for weight loss Meteo.gr",
+          "published": "2026-10-17T18:47:39+00:00"
+        },
+        {
+          "title": "Marché des dispositifs d’imagerie rétinienne : cap sur 2035, porté par le dépistage de la rétinopathie diabétique - Actualités et statistiques",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjQ1dTRyTkR1bGpHeWtlLXl2dWJRQ0gwOFc5N3VPeFVrdmdJOW52ZWFlQ3Yyd1JGSFAzMGhYVTV2NjVXSUV1cWFCNm4tT1FYNTZuNnU4TUtnZTItOG5sRVpCTloyQ1pUQWl2aDJsTGV0NnpKa0ZENURUNnBnd0J1QmRaOU05MFNrRkdId2RpYnQyZlU4UGpkdkdRRmRHMWVXaEVlbkdrRFhudDdCN2R1VXJuRWE4Z2lUQnRBb3ZnOUYzekNFczhRX2liRXg4Wnpl?oc=5",
+          "source": "IndexBox",
+          "summary": "Marché des dispositifs d’imagerie rétinienne : cap sur 2035, porté par le dépistage de la rétinopathie diabétique - Actualités et statistiques IndexBox",
+          "published": "2026-10-17T18:41:04+00:00"
+        },
+        {
+          "title": "Retinal Imaging Devices Market Forecast to 2035, Driven by Rising Diabetic Retinopathy Screening Demand",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjZmaWx2ZldmZnZCNDZFOWtuWWMtcjlUTzRSN3ZBNGQ3R0tkOXp3UE1VTHhudERMSEpGWnBtOU1UYVo0cW5FcllNODNlSFlJbHg1Z0hUZ1hVUy1HOVBDcHB0RDliSXBzMGpFUjl0ZXJ2aEo4QWdIaXdFT25ESXdhWjdPdlhFZmhJLTV4M1FqUXZkX2Q3SWh5LWFpdnZZZUtubkdFY1NjXzd4V3pnc1pmT0JYTmoyWkZNY29KSWZCam9JMU5xNkVsTC1qWEM?oc=5",
+          "source": "IndexBox",
+          "summary": "Retinal Imaging Devices Market Forecast to 2035, Driven by Rising Diabetic Retinopathy Screening Demand IndexBox",
+          "published": "2026-10-17T18:41:04+00:00"
+        },
+        {
+          "title": "Explainable AI spots diabetes risk stages with near-perfect accuracy",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWdvc25iVG43aUVLYzc3bEFsNmNCQWJyczN1dHJiQnpmWUNKNEV1M0VFTjEyaGVtWWVjeXotVHQ0Z0paa1JEZVhCdXlfU1VnZnh4M1lDNUpyQ2prdDVtSVNpV084S3gyc2FqWmdHMlZOdkpQSDJNNGtWaUdpb0pmTlRqQ0JDYVA5djFTZnhsbm1kUDNJTlVzSw?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Explainable AI spots diabetes risk stages with near-perfect accuracy Bioengineer.org",
+          "published": "2026-10-17T18:01:45+00:00"
+        },
+        {
           "title": "Half of Participants Reversed Early-Stage Type 2 Diabetes With a Low-Energy Diet and Exercise, Study Finds",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmZvSDNrNk9JYkdrNUU4Uk5PaUtxOWF2dzZqaDRTMnFySWN3NDJaU000VVBydXBMY20yN0RjQkI1OUdCN3hKWjJscS1IUlZoVWNUeGJvdTRWZ3BqR3ctZUstbnRwR3VERVNfcm90ckNCQWdxZXRLbFdOeklCMExLekdaeHVYRUJtMlBrY1FWdklHSlljQ1p5SFNCbGdlYi1nZDRDMWh4Wjgwd00taW00OThlUmY5ZUdkQmRxVFNFazREbjA3V3BweWpVT2NtQQ?oc=5",
           "source": "Yahoo Health",
@@ -332,18 +381,18 @@
           "published": "2026-10-17T17:38:35+00:00"
         },
         {
-          "title": "diabetes drug just approved for weight loss",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ3lIcU5CN05wdGVqTVJMS3lFSVdsSk5CRG1CV0NSc1BUcGJMZTZxdzVjYTZ5OW1hMTVUVGlVUFVtRmRNUU1kRFpVZ3gxRFEwazlZU2hvd0NCR3QxNzVwdnpyc0VKMzg4eXdDYXlXeU5ScnZweElwU25ib1Z1WElKT29NZw?oc=5",
-          "source": "Meteo.gr",
-          "summary": "diabetes drug just approved for weight loss Meteo.gr",
-          "published": "2026-10-17T17:37:24+00:00"
-        },
-        {
           "title": "diabetes drug for weight loss 2022",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBraG8tRU1vdzBWV2NfVXlyenljTXh0OFQ3VEZsMm1XZzhIZXk5XzhRU3ZoejVkZk5yZXlZbkxqN1g4NENxTUNic3BtbHBUaHVaUy1qdElHMEFibzk4ekZjS0NFN3dmT2dNZTQ3RXc4OWc1aUs1QWZB?oc=5",
           "source": "Meteo.gr",
           "summary": "diabetes drug for weight loss 2022 Meteo.gr",
           "published": "2026-10-17T17:37:16+00:00"
+        },
+        {
+          "title": "Why CGMs Are Becoming a Wellness Trend for Your Patients",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTElyb3NRZ05jTjJTNXRTd1NEQl9BNThSY01pTGxqRFhGY1cxTGJqa3hGcklEQndGNGR5cV9HNDF3VWVfeHJwblZ2ckNvYms3c0dvOS03djlnaGJNNUd0akpxS2hISlFybEdoU0RIOXp0YlQ5UHBvVVpjOWMyU1NSTlJjek04WVc3MzczZGUwM1V2TkZqR3pPTFlOVTI?oc=5",
+          "source": "Verywell Health",
+          "summary": "Why CGMs Are Becoming a Wellness Trend for Your Patients Verywell Health",
+          "published": "2026-10-17T17:30:00+00:00"
         },
         {
           "title": "How Risk Perception Drives Blood Sugar Decisions in Gestational Diabetes",
@@ -448,7 +497,7 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWotSzhkclZWNS1qUVJnc1hCSTFwVFVZRXJrLXQwc0hvcTV6dEpJa2F2NkIzYllGdm53SDA5YU9fQ2tmS2lWODd3eDNCcnFxdGlhQWxnQktwLXgxQjhrTWJjZ3hlVWw3X2l4NmdjY0JfUWY2Xzk5WjJUVzZVZTRXYzZzTEJsNlpiVkhhUlB1anh4VWszdEl4NGx5OXNBR2NqLVU3RWE1TWFjV0NoNjlnVy02NU1fWUxyb2NkYnh6c1VqQnM?oc=5",
           "source": "Bioengineer.org",
           "summary": "Obesity and Diabetes Together Quietly Weaken the Heart’s Right Ventricle, Speckle-Tracking Study Finds Bioengineer.org",
-          "published": "2026-10-17T13:47:27+00:00"
+          "published": "2026-10-17T13:51:15+00:00"
         },
         {
           "title": "Deion Sanders' daughter Shelomi talks hoops, living with diabetes, being Prime Time's kid",
@@ -483,7 +532,7 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDgzZjNpYV9WcjhGWm5YUzRnRnY4bFp6MHJQZXJrelhVQUFPWW1yak1fbWdIUFZrbEs3X0ZLSC1TLTlfOG5VOW9Rd3ZtcDE5Vmt3dEtsNXloUVFyS1JEcHNpUW1IWFhjR0pGTko3RVpLaUFlOHNvanlvZUhSUEpJb2Z1cGxBejYwLUlpUHE2OXJ2b0NDeHYxSjJjZ2FoTWdPZndrZlFvaERnQQ?oc=5",
           "source": "Bioengineer.org",
           "summary": "Why Social Support Alone Cannot Break the Toughest Barriers to Diabetes Self-Care Bioengineer.org",
-          "published": "2026-10-17T11:51:57+00:00"
+          "published": "2026-10-17T11:51:15+00:00"
         },
         {
           "title": "How a Global Health Team Plans to Map the Hidden Playbook for Merging Diabetes and HIV Care",
@@ -491,13 +540,6 @@
           "source": "Bioengineer.org",
           "summary": "How a Global Health Team Plans to Map the Hidden Playbook for Merging Diabetes and HIV Care Bioengineer.org",
           "published": "2026-10-17T11:36:15+00:00"
-        },
-        {
-          "title": "Single-Cell Sequencing Reveals Why Diabetic Foot Ulcers Refuse to Heal",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1F1OVdnbkpFUWxUanpEd3ZydkN2cjdxSmtWS3Q1WGU0cWJFRVJyb2FEYi02TXpwU1NHUGdzLUdTSV80Z3hUU2J4a0NLeXVQWWRNMklKZGZCSmRkYUFpUnByZHhGQlNNNWk0MjdaNXBJdnVLTW9hYm50TFd1MlJENE5VUlJpc2ZXUjZHbmFlSnVrTzJRc1NBSExudw?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Single-Cell Sequencing Reveals Why Diabetic Foot Ulcers Refuse to Heal Bioengineer.org",
-          "published": "2026-10-17T11:06:15+00:00"
         },
         {
           "title": "Mayotte: de faux stylos injectables contre le diabète et l'obésité interceptés par les douanes",
@@ -561,48 +603,6 @@
           "source": "InfOccitanie",
           "summary": "CHU de Nîmes : un mois de sensibilisation et de dépistage du diabète InfOccitanie",
           "published": "2026-10-17T09:11:00+00:00"
-        },
-        {
-          "title": "Smartphone AI spots early diabetes risk by reading movement and glucose together",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNG1aT0NNQUFaOVZJRjFyM2tlbWFlUmxCSXpsWGJ3aW9RUm96S0FHQWpZM2hlM01vUmo5RXB5aEt3WVBoM3RTVkFZZld1VkgzaDdvNlc3ZHNURVEwa1dieUlxX3dVal93d0QyRjZ4enpvQmRCNkticDJyOTZsUmdHYXNqRlF2QW9udk9qeEtnNWpjNm5QLW9SWG4tZkh1Ty1qLXlmWlBHVTg?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Smartphone AI spots early diabetes risk by reading movement and glucose together Bioengineer.org",
-          "published": "2026-10-17T09:01:15+00:00"
-        },
-        {
-          "title": "Diabetes prevention programme launched",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1NRSVZmbzdDV3RMV1BpMnJsQlRDbU9EczlaYThJOGNSWEtWbENYZDZ4Q1otcVU2djl2cHVNOERXRHpDVy1Mbm40UWp5RTVqVUhMSjdSRnJscTVuYThUWXB5NElSZ3RtYTlhWGdBY2lEdkh5TFNpU25FcGFZRkxEbTJDeklkMF9IRzR3ZGVR?oc=5",
-          "source": "Jersey Evening Post",
-          "summary": "Diabetes prevention programme launched Jersey Evening Post",
-          "published": "2026-10-17T08:10:00+00:00"
-        },
-        {
-          "title": "Mouvement lycéen : un adolescent fait un coma diabétique en garde à vue, l'État veut-il un mort ?",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3R4Y09ha1pVeWo0REU5bUgtcXpNdFpNZU5TeGV4LWk4RGNyejBlVGQ3WDFHZ2REQjhnQm1QM04tMzYweHRULVhBanYwTElpb25CQXNEVkJKSUl0QVpMNlBIYjZkTVV3c2FQZjBlLTFFM3lPYlU0NlVPV25uMUF6VG1nMnE2N1NJc0JRcXFNaEl0VGZUWWlZcjV2dk9xM0lab0RJc3JZS21yTS1wTmhmVE5WWFFrSVViMG9NbktXOWpoaXVVMklqZkxn?oc=5",
-          "source": "Contre Attaque",
-          "summary": "Mouvement lycéen : un adolescent fait un coma diabétique en garde à vue, l'État veut-il un mort ? Contre Attaque",
-          "published": "2026-10-17T07:37:20+00:00"
-        },
-        {
-          "title": "Diabetes Does Not Raise the Risk of Revision ACL Reconstruction, Large Real-World Study Finds",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWHAzRXI1Uzhla1U4VVFkdG9FMVFvR2pTOVlzRVJGRm5jaEJZcE91a0Z2U084WHhhcnZ1bmRoenBrdUlpd3VRbVFMSEkxZ3JTZVlnblRNbXVyT0pySG82eDctQjJ5VXFITGFwaXgycUk1QXhoQlRlUlZmbkROTzNDQ2l4Y0N3dWhKWXRlcDFkV0FlWkFzTi14eUZ4RDAzVkVONG1KMy1hdHJtRE00NHFWckJaSTFWVHAx?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Diabetes Does Not Raise the Risk of Revision ACL Reconstruction, Large Real-World Study Finds Bioengineer.org",
-          "published": "2026-10-17T07:01:15+00:00"
-        },
-        {
-          "title": "Simple Foot Risk Score Shows Striking Accuracy in Spotting Diabetic Ulcers",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGxWaHMzQ21qQkFwUWNrNlFoME83OXltX1h1R0NpcUFuRldQaTNUNnI2cjhzMHZ0emk4SUdobUx1MU9iLVdIdVNnd05JZ1ZqS0Jxc1QzbUVneDVmNXpHbzI3X1FQTkhudFo3NGprQ21rQUpSSVdiWnVkWERwQmhZMlc3RGk1MkFKdFFWUC1xVzJfTFFCcFpFUk1nTHpGb3pi?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Simple Foot Risk Score Shows Striking Accuracy in Spotting Diabetic Ulcers Bioengineer.org",
-          "published": "2026-10-17T06:36:15+00:00"
-        },
-        {
-          "title": "RAGE: The Diabetes Signaling Hub That Could Be Blocked Without Breaking the Brain",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWnlCTWY0OEpRNWkxSzk3eTJoMk1kRUR1VVpZTFQzYmdVZW11U095ZWJGaE04SF9Qc3JmTi1TRnp0ZDR6aEhxTjJWNTJ0dnVZNU5STFRqTUJzTUtHMjZsTG81ZXlIaDY5XzlIUFlqVmRzNkVkaFNPREF1QkdybDdENWN3bzdFRnIxUEVHTXRWdWlqZVpub1psaVZSeko4cVN6VkRvSFozSVg?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "RAGE: The Diabetes Signaling Hub That Could Be Blocked Without Breaking the Brain Bioengineer.org",
-          "published": "2026-10-17T06:16:15+00:00"
         }
       ]
     }
