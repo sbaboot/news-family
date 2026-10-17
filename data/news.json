@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-10-16T23:15:26.074764+00:00",
+  "generated_at": "2026-10-17T03:05:40.186355+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Face à Benyamin Nétanyahou, le combat du journal « Haaretz » pour son indépendance et la liberté d’informer",
+          "link": "https://www.lemonde.fr/m-le-mag/article/2026/10/17/face-a-benyamin-netanyahou-le-combat-du-journal-haaretz-pour-son-independance-et-la-liberte-d-informer_6795775_4500055.html",
+          "source": "Le Monde",
+          "summary": "Dans la campagne des législatives qui bat son plein en Israël, le quotidien progressiste est un des derniers médias critiques de la politique du premier ministre. A l’origine d’enquêtes mettant en cause la coalition de…",
+          "published": "2026-10-17T03:00:09+00:00"
+        },
+        {
+          "title": "Succession d’Antonio Guterres à l’ONU : aucun candidat ne fait consensus",
+          "link": "https://www.lemonde.fr/international/article/2026/10/17/prochain-secretaire-general-de-l-onu-aucun-candidat-ne-fait-consensus-pour-succeder-a-antonio-guterres_6795742_3210.html",
+          "source": "Le Monde",
+          "summary": "Les sept candidats déclarés ont tous obtenu un vote négatif de la Chine, des Etats-Unis, de la France, du Royaume-Uni ou de la Russie. Mais la Costaricaine Rebeca Grynspan reste en tête du scrutin, qui n’est encore…",
+          "published": "2026-10-17T00:34:22+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron critique l’accord entre Moscou et Washington sur le diesel russe, le qualifiant de mesure « inappropriée, inefficace »",
+          "link": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président français a également martelé, vendredi, que les Européens « ne lâcheront pas l’Ukraine » parce que « c’est une guerre de résistance face à la guerre d’agression russe ». Ursula von der Leyen a confirmé le…",
+          "published": "2026-10-17T00:10:50+00:00"
+        },
+        {
+          "title": "Fusillade dans l’Oregon : l’auteur présumé de la tuerie dans une école primaire y avait été élève en classe spécialisée",
+          "link": "https://www.lemonde.fr/international/article/2026/10/17/etats-unis-l-auteur-presume-d-une-tuerie-dans-une-ecole-primaire-de-l-oregon-y-avait-ete-eleve-en-classe-specialisee_6795709_3210.html",
+          "source": "Le Monde",
+          "summary": "L’adolescent, âgé de 16 ans, est soupçonné d’avoir tué trois enfants et une enseignante, jeudi, à l’école Silver Rail, à Bend, avant d’être abattu par le père de deux élèves.",
+          "published": "2026-10-16T23:45:17+00:00"
+        },
+        {
+          "title": "Au Yémen, des frappes houthistes s’abattent près de l’aéroport d’Aden ; l’Iran nie tout rôle dans les attaques visant l’Arabie saoudite",
+          "link": "https://www.lemonde.fr/international/article/2026/10/17/au-yemen-des-frappes-houthistes-s-abattent-pres-de-l-aeroport-d-aden-l-iran-nie-tout-role-dans-les-attaques-visant-l-arabie-saoudite_6795708_3210.html",
+          "source": "Le Monde",
+          "summary": "« L’Iran estime qu’une escalade des tensions ne sert les intérêts d’aucune des parties », a répondu Téhéra aux accusations de Riyad attribuant à la République islamique une part de responsabilité dans l’intensification…",
+          "published": "2026-10-16T23:40:18+00:00"
+        },
         {
           "title": "Aux Etats-Unis, Katie Zacharia bat un record de brièveté comme porte-parole de la Maison Blanche",
           "link": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
@@ -26,53 +61,18 @@
           "published": "2026-10-16T21:59:06+00:00"
         },
         {
+          "title": "Manifestations lycéennes : faut-il supprimer Parcoursup?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261016-manifestations-lyc%C3%A9ennes-faut-il-supprimer-parcoursup",
+          "source": "France 24",
+          "summary": "C'est l'une des revendications des lycéens en France : réformer voire abolir Parcoursup. Cette plateforme où ils doivent choisir leur orientation est devenue leur pire cauchemar. On en parle avec Pierre Mathiot,…",
+          "published": "2026-10-16T21:31:27+00:00"
+        },
+        {
           "title": "Guerre sans mrci au Sahel entre les jihadistes du JNIM et de l'EIS",
           "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261016-guerre-sans-mrci-au-sahel-entre-les-jihadistes-du-jnim-et-de-l-eis",
           "source": "France 24",
           "summary": "Au Sahel entre le Mali, le Burkina et au Niger, depuis plusieurs semaines, on assiste à des affrontements meurtriers entre les jihadistes de l’Etat islamique et ceux du Groupe de soutien à l’Islam et aux musulmans…",
           "published": "2026-10-16T21:11:20+00:00"
-        },
-        {
-          "title": "Boudé par Trump, Volodymyr Zelensky se tourne une nouvelle fois vers les Européens",
-          "link": "https://www.france24.com/fr/europe/20261016-boud%C3%A9-trump-volodymyr-zelensky-tourne-nouvelle-fois-vers-europ%C3%A9ens",
-          "source": "© Nicolas Tucat, AFP",
-          "summary": "S'adressant aux Européens lors d'un sommet à Bruxelles vendredi, Volodymyr Zelensky a demandé une aide de 70 milliards d'euros supplémentaires pour combattre la Russie. \"Nous ne lâcherons pas l'Ukraine\", a assuré…",
-          "published": "2026-10-16T20:38:01+00:00"
-        },
-        {
-          "title": "Brésil : la déforestation en Amazonie au plus bas depuis près de 40 ans",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20261016-br%C3%A9sil-la-d%C3%A9forestation-en-amazonie-au-plus-bas-depuis-pr%C3%A8s-de-40-ans",
-          "source": "© Pablo Porciuncula, AFP",
-          "summary": "Alors que la déforestation en Amazonie avait fortement augmenté sous le mandat de l'ex-président d'extrême droite Jair Bolsonaro, depuis quatre ans, celle-ci a baissé de 71,2 % sous la présidence de Luiz Inacio Lula da…",
-          "published": "2026-10-16T20:15:26+00:00"
-        },
-        {
-          "title": "Arrestation de 61 Marocains en Algérie : diffusion d'images truquées ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261016-arrestation-de-61-marocains-en-alg%C3%A9rie-diffusion-d-images-truqu%C3%A9es",
-          "source": "France 24",
-          "summary": "C'est une affaire qui fait couler beaucoup d'encre et qui alimente les tensions entre le Maroc et l'Algérie. 61 Marocains ont été arrêtés récemment près d'Oran, membres d'un réseau criminel selon les autorités d'Alger.…",
-          "published": "2026-10-16T19:59:33+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : l’Europe fait bloc derrière Kiev mais doit de nouveau étudier le financement de son soutien",
-          "link": "https://www.lemonde.fr/international/article/2026/10/16/guerre-en-ukraine-l-europe-fait-bloc-derriere-kiev-mais-doit-de-nouveau-etudier-le-financement-de-son-soutien_6795637_3210.html",
-          "source": "Le Monde",
-          "summary": "Invité, vendredi, au sommet des dirigeants européens à Bruxelles, Volodymyr Zelensky, fragilisé par la « trahison » de Donald Trump, a demandé à ses alliés une aide supplémentaire de 70 milliards d’euros pour l’année…",
-          "published": "2026-10-16T19:55:14+00:00"
-        },
-        {
-          "title": "Le suspect de la fusillade d’Aubagne au cœur de fausses théories",
-          "link": "https://www.france24.com/fr/france/20261016-suspect-fusillade-aubagne-coeur-fausses-th%C3%A9ories",
-          "source": "© Les Observateurs",
-          "summary": "Depuis son arrestation, l'adolescent de 14 ans, suspecté d’avoir ouvert le feu dans un collège à Aubagne en début de semaine, fait l’objet de fausses informations sur les réseaux sociaux, notamment de la part de…",
-          "published": "2026-10-16T19:41:12+00:00"
-        },
-        {
-          "title": "L’accord franco-allemand sur l’automobile ménage Stellantis mais n’épargne pas Renault",
-          "link": "https://www.lemonde.fr/economie/article/2026/10/16/l-accord-franco-allemand-sur-l-automobile-menage-stellantis-mais-n-epargne-pas-renault_6795636_3234.html",
-          "source": "Le Monde",
-          "summary": "Pour bénéficier de subventions, les véhicules devront être produits dans les pays de l’UE avec au moins 70 % de composants européens, un niveau plus bas qu’aujourd’hui et qui risque de désavantager la marque au losange.",
-          "published": "2026-10-16T19:40:56+00:00"
         }
       ]
     },
@@ -84,6 +84,55 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Trump exempte la Russie de nouvelles sanctions adoptées par le Congrès",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1017659/trump-exempte-russie-nouvelles-sanctions-adoptees-congres",
+          "source": "Le Devoir",
+          "summary": "Le « Graham Act » était soutenu avec force par le président ukrainien Volodymyr Zelensky.",
+          "published": "2026-10-17T03:03:34+00:00"
+        },
+        {
+          "title": "FC Supra 3 – Inter Toronto 0 | Le FC Supra continue sur sa lancée",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-10-16/fc-supra-3-inter-toronto-0/le-fc-supra-continue-sur-sa-lancee.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le FC Supra du Québec a bel et bien pris son envol. Le seul problème, c’est qu’il risque de manquer de temps.",
+          "published": "2026-10-17T01:05:49+00:00"
+        },
+        {
+          "title": "Le métissage était possiblement peu répandu à Montréal aux 17e et 18e siècles",
+          "link": "https://www.ledevoir.com/actualites/science/1017647/metissage-etait-possiblement-peu-repandu-montreal-17e-18e-siecles",
+          "source": "Le Devoir",
+          "summary": "Cette découverte entre en contraste avec les récits faisant état d’une coopération entre Français et Autochtones.",
+          "published": "2026-10-17T00:58:51+00:00"
+        },
+        {
+          "title": "Un mineur reconnu coupable de deux chefs liés au terrorisme à Ottawa",
+          "link": "https://www.ledevoir.com/actualites/justice/1017644/mineur-reconnu-coupable-deux-chefs-lies-terrorisme-ottawa",
+          "source": "Le Devoir",
+          "summary": "Le projet d’attaque visait à intimider les membres de la communauté juive, explique la juge.",
+          "published": "2026-10-17T00:30:39+00:00"
+        },
+        {
+          "title": "La mission commerciale en Inde a débouché sur 300 millions de contrats",
+          "link": "https://www.lapresse.ca/affaires/2026-10-16/la-mission-commerciale-en-inde-a-debouche-sur-300-millions-de-contrats.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le ministre du Commerce international, Maninder Sidhu, a déclaré que les négociations commerciales entre le Canada et l’Inde avaient progressé au cours de la semaine dernière, alors qu’il dirigeait une importante…",
+          "published": "2026-10-17T00:20:30+00:00"
+        },
+        {
+          "title": "Un homme salué pour son «héroïsme» après la tuerie scolaire en Oregon",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1017641/homme-salue-heroisme-apres-tuerie-scolaire-oregon",
+          "source": "Le Devoir",
+          "summary": "L’intervention de Kaylub Giamanco a ravivé le débat récurrent sur le contrôle des armes à feu aux États-Unis.",
+          "published": "2026-10-17T00:18:16+00:00"
+        },
+        {
+          "title": "Guerre en Ukraine | Livrer le courrier, même sous les bombes",
+          "link": "https://www.lapresse.ca/international/europe/2026-10-16/guerre-en-ukraine/livrer-le-courrier-meme-sous-les-bombes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "À quelques dizaines de kilomètres de la frontière russe, les employés de la Poste ukrainienne continuent de travailler sous les bombes dans la région de Soumy. Pour ces facteurs, qui représentent souvent le dernier lien…",
+          "published": "2026-10-16T23:30:00+00:00"
+        },
+        {
           "title": "Les antécédents sexuels peuvent être pris en compte selon le cas, dit la Cour suprême",
           "link": "https://www.ledevoir.com/actualites/justice/1017620/antecedents-sexuels-peuvent-etre-pris-compte-selon-cas-dit-cour-supreme",
           "source": "Le Devoir",
@@ -91,73 +140,59 @@
           "published": "2026-10-16T22:23:26+00:00"
         },
         {
+          "title": "Tuerie dans une école primaire de l’Oregon | Un Américain salué pour son « héroïsme »",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-10-16/tuerie-dans-une-ecole-primaire-de-l-oregon/un-americain-salue-pour-son-heroisme.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’homme qui a abattu l’adolescent auteur d’une nouvelle tuerie scolaire aux États-Unis était salué vendredi pour son « héroïsme », mais cette nouvelle tragédie relance l’éternel débat sur le port d’armes dans le pays.",
+          "published": "2026-10-16T22:17:57+00:00"
+        },
+        {
           "title": "Carney et Smith unissent leurs forces pour promouvoir un Canada uni",
           "link": "https://www.ledevoir.com/politique/canada/1017617/carney-smith-unissent-forces-promouvoir-canada-uni",
           "source": "Le Devoir",
           "summary": "Un dernier appel a été lancé aux Albertains afin qu’ils votent en faveur du maintien de la province au sein du pays.",
           "published": "2026-10-16T22:17:46+00:00"
-        },
-        {
-          "title": "Les démocrates lèvent plus d’argent que les républicains malgré les millions de Musk",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1017614/democrates-levent-plus-argent-republicains-malgre-millions-musk",
-          "source": "Le Devoir",
-          "summary": "L’homme le plus riche au monde a injecté des sommes records pour garder le parti de Donald Trump au pouvoir.",
-          "published": "2026-10-16T22:13:40+00:00"
-        },
-        {
-          "title": "Nétanyahou réplique à Obama | « Le peuple juif n’est pas un occupant »",
-          "link": "https://www.lapresse.ca/international/2026-10-16/netanyahou-replique-a-obama/le-peuple-juif-n-est-pas-un-occupant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le premier ministre israélien Benyamin Nétanyahou a déclaré, dans une vidéo diffusée vendredi, à l’ancien président américain Barack Obama que « le peuple juif n’est pas un occupant étranger ».",
-          "published": "2026-10-16T21:37:41+00:00"
-        },
-        {
-          "title": "Vaccination contre la grippe | Déjà 500 000 rendez-vous attribués",
-          "link": "https://www.lapresse.ca/actualites/sante/2026-10-16/vaccination-contre-la-grippe/deja-500-000-rendez-vous-attribues.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "La campagne vaccinale contre l’influenza et la COVID-19 commence en grand. Santé Québec recense 500 000 rendez-vous pris jusqu’à présent, soit deux fois et demie plus que lors de la même période de lancement l’an…",
-          "published": "2026-10-16T21:19:52+00:00"
-        },
-        {
-          "title": "Le Canadien | Le premier trio mérite un meilleur sort",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-10-16/le-canadien/le-premier-trio-merite-un-meilleur-sort.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« On est dans une industrie de résultats. »",
-          "published": "2026-10-16T20:58:24+00:00"
-        },
-        {
-          "title": "Est-ce qu’utiliser davantage de sel dans les rues de Montréal est une bonne idée?",
-          "link": "https://www.ledevoir.com/actualites/transports-urbanisme/1017539/est-ce-utiliser-davantage-sel-rues-montreal-est-bonne-idee",
-          "source": "Le Devoir",
-          "summary": "Cela pourrait nuire à l’environnement et aux infrastructures. La Ville se fournira notamment en Égypte.",
-          "published": "2026-10-16T20:40:24+00:00"
-        },
-        {
-          "title": "La révolte des lycéens gagnera-t-elle d’autres pays?",
-          "link": "https://www.ledevoir.com/monde/europe/1017536/revolte-lyceens-gagnera-elle-autres-pays",
-          "source": "Le Devoir",
-          "summary": "«Le Devoir» s’est entretenu avec des leaders étudiants en France, en Italie, en Belgique et au Québec.",
-          "published": "2026-10-16T20:25:00+00:00"
-        },
-        {
-          "title": "Les trois actus du 16 octobre",
-          "link": "https://www.ledevoir.com/actualites/1017533/trois-actus-16-octobre",
-          "source": "Le Devoir",
-          "summary": "Trump renvoie sa porte-parole, suspensions au SPVM et des familles d’accueuil vont en justice: ce qu’il faut retenir.",
-          "published": "2026-10-16T20:22:23+00:00"
-        },
-        {
-          "title": "«Félix, je me souviens»: rendre (superbement) à Félix ce qui lui appartient",
-          "link": "https://www.ledevoir.com/culture/theatre/1017530/felix-je-souviens-rendre-superbement-felix-ce-lui-appartient",
-          "source": "Le Devoir",
-          "summary": "Plusieurs disciplines artistiques convergent dans cet hommage réussi à un pilier de l’histoire culturelle québécoise.",
-          "published": "2026-10-16T20:13:00+00:00"
         }
       ]
     },
     "france": {
       "label": "France",
       "items": [
+        {
+          "title": "Succession d’Antonio Guterres à l’ONU : aucun candidat ne fait consensus",
+          "link": "https://www.lemonde.fr/international/article/2026/10/17/prochain-secretaire-general-de-l-onu-aucun-candidat-ne-fait-consensus-pour-succeder-a-antonio-guterres_6795742_3210.html",
+          "source": "Le Monde",
+          "summary": "Les sept candidats déclarés ont tous obtenu un vote négatif de la Chine, des Etats-Unis, de la France, du Royaume-Uni ou de la Russie. Mais la Costaricaine Rebeca Grynspan reste en tête du scrutin, qui n’est encore…",
+          "published": "2026-10-17T00:34:22+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron critique l’accord entre Moscou et Washington sur le diesel russe, le qualifiant de mesure « inappropriée, inefficace »",
+          "link": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président français a également martelé, vendredi, que les Européens « ne lâcheront pas l’Ukraine » parce que « c’est une guerre de résistance face à la guerre d’agression russe ». Ursula von der Leyen a confirmé le…",
+          "published": "2026-10-17T00:10:50+00:00"
+        },
+        {
+          "title": "Fusillade dans l’Oregon : l’auteur présumé de la tuerie dans une école primaire y avait été élève en classe spécialisée",
+          "link": "https://www.lemonde.fr/international/article/2026/10/17/etats-unis-l-auteur-presume-d-une-tuerie-dans-une-ecole-primaire-de-l-oregon-y-avait-ete-eleve-en-classe-specialisee_6795709_3210.html",
+          "source": "Le Monde",
+          "summary": "L’adolescent, âgé de 16 ans, est soupçonné d’avoir tué trois enfants et une enseignante, jeudi, à l’école Silver Rail, à Bend, avant d’être abattu par le père de deux élèves.",
+          "published": "2026-10-16T23:45:17+00:00"
+        },
+        {
+          "title": "Rugby, Champions Cup : en vidéo, les 10 essais du match nul de l’UBB sur la pelouse de Gloucester",
+          "link": "https://www.lefigaro.fr/sports/rugby/coupe-d-europe/rugby-champions-cup-le-resume-video-du-match-nul-de-l-ubb-sur-la-pelouse-de-gloucester-20261016",
+          "source": "Le Figaro",
+          "summary": "Vendredi, pour la première journée de Champions Cup, les doubles champions d’Europe de l’UBB et Gloucester se sont neutralisés (36-36).",
+          "published": "2026-10-16T23:45:11+00:00"
+        },
+        {
+          "title": "Au Yémen, des frappes houthistes s’abattent près de l’aéroport d’Aden ; l’Iran nie tout rôle dans les attaques visant l’Arabie saoudite",
+          "link": "https://www.lemonde.fr/international/article/2026/10/17/au-yemen-des-frappes-houthistes-s-abattent-pres-de-l-aeroport-d-aden-l-iran-nie-tout-role-dans-les-attaques-visant-l-arabie-saoudite_6795708_3210.html",
+          "source": "Le Monde",
+          "summary": "« L’Iran estime qu’une escalade des tensions ne sert les intérêts d’aucune des parties », a répondu Téhéra aux accusations de Riyad attribuant à la République islamique une part de responsabilité dans l’intensification…",
+          "published": "2026-10-16T23:40:18+00:00"
+        },
         {
           "title": "Aux Etats-Unis, Katie Zacharia bat un record de brièveté comme porte-parole de la Maison Blanche",
           "link": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
@@ -169,7 +204,7 @@
           "title": "Double meurtre à Ivry-sur-Seine : une tueuse à gages et un tireur présumés mis en examen et écroués",
           "link": "https://www.lemonde.fr/societe/article/2026/10/17/double-meurtre-a-ivry-sur-seine-une-tueuse-a-gages-et-un-tireur-presumes-mis-en-examen-et-ecroues_6795674_3224.html",
           "source": "Le Monde",
-          "summary": "Ces deux personnes et un autre homme, également placé en détention provisoire, sont poursuivis notamment pour meurtre en bande organisée.",
+          "summary": "Ces deux personnes et un autre homme, également placé en détention provisoire, sont poursuivis notamment pour meurtre en bande organisée. Le patron d’un bar à chicha a été abattu dans la nuit de dimanche à lundi, tandis…",
           "published": "2026-10-16T22:45:10+00:00"
         },
         {
@@ -192,41 +227,6 @@
           "source": "Le Figaro",
           "summary": "La marine française a saisi plus de 8,6 tonnes de drogue, essentiellement de la cocaïne, aux Antilles début octobre.",
           "published": "2026-10-16T21:56:48+00:00"
-        },
-        {
-          "title": "🥇 Qui est Hugo Deck, le vainqueur de la Diagonale des Fous 2026, la plus difficile des courses du Grand Raid ?",
-          "link": "https://la1ere.franceinfo.fr/reunion/qui-est-hugo-deck-le-vainqueur-de-la-diagonale-des-fous-2026-la-plus-dingue-des-courses-du-grand-raid-1748769.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le jeune Varois Hugo Deck a remporté sa première Diagonale des Fous quelques semaines avant ses 27 ans, ce vendredi 16 octobre 2026 à La Réunion. Un exploit que ce passionné d'ultra-trail attendait avec impatience de…",
-          "published": "2026-10-16T21:55:20+00:00"
-        },
-        {
-          "title": "Le Norvégien Nikolai Haram Svorte sacré meilleur sommelier du monde à Lisbonne",
-          "link": "https://www.lemonde.fr/le-monde-passe-a-table/article/2026/10/16/le-norvegien-nikolai-haram-svorte-sacre-meilleur-sommelier-du-monde-a-lisbonne_6795640_6082232.html",
-          "source": "Le Monde",
-          "summary": "La capitale portugaise vient d’accueillir la fine fleur de la sommellerie mondiale pour une série d’épreuves qui s’est achevée vendredi 16 octobre par la victoire du Norvégien Nikolai Haram Svorte. La candidate…",
-          "published": "2026-10-16T21:47:27+00:00"
-        },
-        {
-          "title": "Guerre en Ukraine : Zelensky réclame 70 milliards d’euros en plus en 2027 à l’UE, Emmanuel Macron assure que «nous ne lâcherons pas» Kiev",
-          "link": "https://www.lefigaro.fr/international/en-direct-guerre-en-ukraine-ce-n-est-pas-le-moment-de-cesser-d-aider-kiev-ni-de-lever-les-sanctions-contre-moscou-avertit-l-ue-20261016",
-          "source": "Le Figaro",
-          "summary": "L’Union européenne a une nouvelle fois assuré vendredi l’Ukraine de son soutien, promettant à son président Volodymyr Zelensky de ne pas l’abandonner, après les coups de boutoir répétés de Donald Trump, que Kiev vit…",
-          "published": "2026-10-16T21:46:58+00:00"
-        },
-        {
-          "title": "États-Unis : qui est Kaylub Giamanco, le «héros» qui a stoppé l’auteur de la fusillade dans une école de l’Oregon ?",
-          "link": "https://www.lefigaro.fr/international/etats-unis-qui-est-kaylub-giamanco-le-heros-qui-a-stoppe-l-auteur-de-la-fusillade-dans-une-ecole-de-l-oregon-20261016",
-          "source": "Le Figaro",
-          "summary": "PORTRAIT - Selon son frère Kyle, il rentrait chez lui pour la pause déjeuner lorsqu’il a entendu des coups de feu dans l’école où ses deux filles de 5 et 10 ans sont scolarisées. Détenteur d’un permis de port d’armes…",
-          "published": "2026-10-16T21:43:10+00:00"
-        },
-        {
-          "title": "«Je suis encore sous le choc, j’ai eu peur» : le traumatisme du lycéen (et des profs) de Paul-Eluard après la tentative d’arrestation au sein du lycée",
-          "link": "https://www.liberation.fr/societe/education/je-suis-encore-sous-le-choc-jai-eu-peur-le-traumatisme-du-lyceen-et-des-profs-de-paul-eluard-apres-la-tentative-darrestation-au-sein-du-lycee-20261016_UJYRVYY54ZEDFCEHTXZ2N3DJSM/",
-          "source": "Liberation",
-          "summary": "Au lendemain de l’interpellation avortée d’un élève de 15 ans dans l’enceinte de l’établissement de Saint-Denis, les personnels ont dénoncé ce vendredi une intervention violente, survenue dans un contexte de…",
-          "published": "2026-10-16T21:36:57+00:00"
         }
       ]
     },
@@ -325,11 +325,39 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "Ethnic inequalities in stroke explained by differences in stroke risk factors",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOXZ2aDdxQThYMnNGRGN0QVU5bm1pZlVsbE96VENHRm9Bb2NPYWRmcXlyM3habDU3WW5JME1WZ3ZMdHo5ZWN6QUdkQkZLRmpqMWM2MEI3NnYzVTVHMHBjblNuRFRIS2otanRYblA0OE9SZmtVQ180Y2VvT2VKQkFhZ2RUdzVuOHRRSUZ3?oc=5",
+          "source": "Medical Xpress",
+          "summary": "Ethnic inequalities in stroke explained by differences in stroke risk factors Medical Xpress",
+          "published": "2026-10-17T02:00:01+00:00"
+        },
+        {
+          "title": "Diabetes Damages Organs Through a Web of Stress and Inflammation, Landmark Collection Shows",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0NIdHFFU3VDeUY2b01qSVhGZURHUHJtUVdXeERfNkFrWlpZdUtWS2xhRWRqX0x2TDFYcm9SazQwUVhlN0J3aTMxQktsSzZFUmdwZ0RJcFZ3UGx4MmtvUG80cm9ZZDhNMS16RnZOZ1lHcEE0TjY1bkJTSUR3UWUzdUxfVDc1azlWVF9XcXZlQWhJOXh5MnhBT3plazZlSkF2dHo1cTM4Q3dRcjE1T2EwdFJtZ0k0QQ?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Diabetes Damages Organs Through a Web of Stress and Inflammation, Landmark Collection Shows Bioengineer.org",
+          "published": "2026-10-17T01:21:39+00:00"
+        },
+        {
+          "title": "Unwalkable Neighborhoods May Worsen Cholesterol Risks for Black Americans with Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGNueEJpRG5xSGxtZDA1aUJzMjdiZ2lmanY2RGtTS0NKVk5ka0M3Mkd2ZXhNb01TdXcwZG1mOWpqWkhULUptMjNkTU82NjN0TkVKLUp2dlM2enFxa05RcU9tbG1XQVFlaFhsODdYeVBmdmZNLVRyMm1UQ0prMFNTTV95a2lFNS1BMVZsNUp6Zm93V1JnVHh4dFk3T2pKVFYyQU16Z2E1YXY0S3pjeEttc1dB?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Unwalkable Neighborhoods May Worsen Cholesterol Risks for Black Americans with Diabetes Bioengineer.org",
+          "published": "2026-10-17T01:21:35+00:00"
+        },
+        {
           "title": "Metformin’s Hidden Cost: One in Four Diabetic Patients Show Low Vitamin B12",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGNvTlc4eGVRb2NUclJXcXpQNjNfTjgxbkJyVDQ2di1zeEhQaEJLamdSNDNvWlRXazA5TDBwNnF5QjdjcVdBM3hNVDB3czJIekZGVDRoVFBSOVByWWVua0xfU2JEdnljQ2RsRnRBWVpsTTU1dUJTVXhoUTN4aWxtbmtTV25qUGZQbFp5MC16YzhYRUg1U1FLeXczYzB1Ync?oc=5",
           "source": "Bioengineer.org",
           "summary": "Metformin’s Hidden Cost: One in Four Diabetic Patients Show Low Vitamin B12 Bioengineer.org",
           "published": "2026-10-16T21:41:12+00:00"
+        },
+        {
+          "title": "Cancers et diabète : plus de 250 personnes dépistées à Diourbel",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnNTSWR3Rnkwal9NSDVsRFJqZlVRNGRtWklPcFU2aHJMeUNvVFhxOXBXd2d0NkY1NktualFReHhVRXNBcGUxRV9DTl9OQm5SRzdvOWptSnRwYUVXa3ZmUGJoQWhGRFphel9lTVdCMjR4NkZTYmhqZkJPVXJKLXFPclZMSQ?oc=5",
+          "source": "APS - Agence de Presse Sénégalaise",
+          "summary": "Cancers et diabète : plus de 250 personnes dépistées à Diourbel APS - Agence de Presse Sénégalaise",
+          "published": "2026-10-16T21:25:00+00:00"
         },
         {
           "title": "Diet and exercise achieved diabetes remission in 27 of 50 participants — ScienceAlert",
@@ -343,7 +371,7 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmllYU1pMVgwNmhkT1lIMlRlWjZpS0pzUHhCYjl0eUVnWjlvcm5pUkVpbGlpb1dyZ05XNVhrcG9reGk5WVZQMTEySm1LYWRKNVJuSldqREtmMmR2ak4zYXZfUVo2cDVPV204VjRUbXFFanZqYkNKd0RSSU5mMmtvUEZaeGhSbFBRdVp0N1hyMzBUSk0tcVlGUmpyNWF6UFhsSWZ3ejhYMzBuN0J5a1lkLXE2U3ZkWW8?oc=5",
           "source": "WOAI",
           "summary": "We learned from Dr. Anila Bindal to see how a CGM can make everyday life easier WOAI",
-          "published": "2026-10-16T20:13:43+00:00"
+          "published": "2026-10-16T20:19:12+00:00"
         },
         {
           "title": "This Diet And Exercise Combination Put Early-Onset Diabetes Into Remission in Half of Participants",
@@ -353,39 +381,46 @@
           "published": "2026-10-16T20:00:38+00:00"
         },
         {
-          "title": "Obesity Paradox Emerges in Urban COVID-19 Cohort as Diabetes and Hyperglycemia Drive Mortality",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaldKbEh5ODBCTl9hTWxNNHFEVV9LOXQyd1dZY3BXMDBJcHBza1dRTVA4N0RieFZSVEY3V0JCeEpXZzZNaGN1RzI5c0NIcGIwV3BjdEVmU0JlTlNHZ3RrWUVkYUJfbFc0Z3N3U0JleDQ4UjJ3MGFZa3E5b3BCTVh1bzhrWHFDUkNCNzVhTmVKQmlIcUdkTlMxcWg5a0loNHhIVVNMRnU0OS1Xd3BHODZpNzJqczdkM3lHa1Jr?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Obesity Paradox Emerges in Urban COVID-19 Cohort as Diabetes and Hyperglycemia Drive Mortality Bioengineer.org",
-          "published": "2026-10-16T19:56:57+00:00"
-        },
-        {
           "title": "Diabetes drug reshapes pancreatic insulin response in horses with metabolic disease",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQczZLbEE0UllKaHZTbXRNdGpoR2hENFVFUlVpQ3paRUF3a0ZaWnNKOTR2UzQxMFZoOElrVGlDTUp0ZEdxbHhFWTAxNVFmVmNhYkl1UDdrVDA2Y1BEQlZyN0lDblhLM290MVVEZ2NCTkxpN2lySHJUeHBGSnV0aWhzSTdMQmdlVFFaQTdib3NDbkJMT0N6UkxWNWhlV0QxeEVTU1BEQVpkUXdvVXZ2?oc=5",
           "source": "Bioengineer.org",
           "summary": "Diabetes drug reshapes pancreatic insulin response in horses with metabolic disease Bioengineer.org",
-          "published": "2026-10-16T19:56:50+00:00"
+          "published": "2026-10-16T19:56:12+00:00"
+        },
+        {
+          "title": "Obesity Paradox Emerges in Urban COVID-19 Cohort as Diabetes and Hyperglycemia Drive Mortality",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaldKbEh5ODBCTl9hTWxNNHFEVV9LOXQyd1dZY3BXMDBJcHBza1dRTVA4N0RieFZSVEY3V0JCeEpXZzZNaGN1RzI5c0NIcGIwV3BjdEVmU0JlTlNHZ3RrWUVkYUJfbFc0Z3N3U0JleDQ4UjJ3MGFZa3E5b3BCTVh1bzhrWHFDUkNCNzVhTmVKQmlIcUdkTlMxcWg5a0loNHhIVVNMRnU0OS1Xd3BHODZpNzJqczdkM3lHa1Jr?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Obesity Paradox Emerges in Urban COVID-19 Cohort as Diabetes and Hyperglycemia Drive Mortality Bioengineer.org",
+          "published": "2026-10-16T19:56:12+00:00"
         },
         {
           "title": "Continuous Glucose Monitoring Options for Diabetics on Coast Live",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnZjTUJFWWxyX29ybWRJYkw5b0JXbXItc010MV9qY1o5TkpxVjVGcU15NEFNUkVQNXN5N3kyTll5NWtvMnRqRkMxTkdQWEp6S2dKZ0hBVVRMVEtLeDhVZVo5TzBTdTd6OVdnZHp6QVBpR3VER1MwbmZBZTVuNDBFZVNLUTdnUEtpNDlCVkljWEllX3NJOE9xUmdmbWJsZw?oc=5",
           "source": "WTKR",
           "summary": "Continuous Glucose Monitoring Options for Diabetics on Coast Live WTKR",
-          "published": "2026-10-16T19:35:18+00:00"
-        },
-        {
-          "title": "Why Adults at High Risk of Type 1 Diabetes Shrug Off Their Screening Results",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb003TkE2RVV0UndoMHBucU5hc0lTb0x5M2FwUXNNR19YMkhlalBEclA0dWMwUkRIaG9LQXBlODlid2cyR1VVUDR3bVYwQTljNEU0dnJPR1ZTOWFpZ2FfWHJDZVpLNHFTQ3kyaGI0WWl1N3BDSmxlZExydjRydUlGd0VVUEM0SUM5b2NvZWFkYzlIcHh1c2FzS1ByUjlhT0dBeFRr?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Why Adults at High Risk of Type 1 Diabetes Shrug Off Their Screening Results Bioengineer.org",
-          "published": "2026-10-16T19:27:09+00:00"
+          "published": "2026-10-16T19:48:53+00:00"
         },
         {
           "title": "Automated Insulin Delivery in T2D: Latest System FDA Cleared",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDRtdTFleWJ5M2VPcko1Z3ctTi1EVDJaT3RobnFtbkZ1WGJIR3hqbUVVdjJ5N3paZFppYU15QUUtNEFfQVdlbWhhY1dPTDlMZnpJcUhyczFzR2U3ZWlvZmF1WUo5VU1kWm44NGJ4TWNaUUd2d2pvUWgzSmg3dk9DZWZWdDlzMlVxWE9BRFU0VzJPT0NkTFJ4bzRzNWRSdDdhTkFHQVJpQ0twZw?oc=5",
           "source": "Medscape",
           "summary": "Automated Insulin Delivery in T2D: Latest System FDA Cleared Medscape",
-          "published": "2026-10-16T19:22:15+00:00"
+          "published": "2026-10-16T19:30:34+00:00"
+        },
+        {
+          "title": "Why Adults at High Risk of Type 1 Diabetes Shrug Off Their Screening Results",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb003TkE2RVV0UndoMHBucU5hc0lTb0x5M2FwUXNNR19YMkhlalBEclA0dWMwUkRIaG9LQXBlODlid2cyR1VVUDR3bVYwQTljNEU0dnJPR1ZTOWFpZ2FfWHJDZVpLNHFTQ3kyaGI0WWl1N3BDSmxlZExydjRydUlGd0VVUEM0SUM5b2NvZWFkYzlIcHh1c2FzS1ByUjlhT0dBeFRr?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Why Adults at High Risk of Type 1 Diabetes Shrug Off Their Screening Results Bioengineer.org",
+          "published": "2026-10-16T19:26:12+00:00"
+        },
+        {
+          "title": "In a Dominican Diabetes Clinic, Housework Didn’t Lower Blood Sugar — but the Network Says It Should Have",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdVJzNnVMRnJpN0ZCODlmdE52UGt5SGM3NFJjSW1DYlFldFdycXFpczA0bmpPZ1lhcUM2Y0lybzdUM3piRUJYUGJnX1JFM3V4enJOZTZxSEVZWVFHajRFbjdodVBYbXBwWld2QUJRaUtXczAxNDlIM0NjTjU0bFVfQWtXdFY0QUU0bU1IaXA4T3VIcVZCQl82WFljTUY3X3VUQUtQMnRfYUw2SDlzMURFNm5ROUpzZHdiMllxWjVOOU5IelU?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "In a Dominican Diabetes Clinic, Housework Didn’t Lower Blood Sugar — but the Network Says It Should Have Bioengineer.org",
+          "published": "2026-10-16T19:01:11+00:00"
         },
         {
           "title": "Experts warn of missed opportunities to detect kidney disease in people with diabetes",
@@ -402,32 +437,18 @@
           "published": "2026-10-16T18:38:46+00:00"
         },
         {
-          "title": "Nine in Ten Diabetic Patients Show Anxiety in Paraguay Pandemic Study",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanJLOVEzRDd0MGxkM3h1azJiWE5mQzN6SjB2UzhiaHlSaWd3bjNzWFdmQW5ESGZzMkVoZl9Tb0tuY0ExSmxmMzUxMDdsOFl0VDFjM2tQZDJEUXRJUHJoazZxX0c0UmoydHcwSzBMOUxGTV91UnEtak9GcG15MFBVQUtkbFl2S3RXaXBTaFFMLW90TG1KTERWMnV3?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Nine in Ten Diabetic Patients Show Anxiety in Paraguay Pandemic Study Bioengineer.org",
-          "published": "2026-10-16T18:21:26+00:00"
-        },
-        {
           "title": "When Sweat Stops, Skin Darkens: A Diabetes Case Reveals a Hidden Link",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFhEVk5BcHpoU2MzR04tLWpDZkJGNFlBb0ZTQ1ZzYW9IZE9rRFZSQklJcUpNZVhmY3dmSDZEX01FbVRpVVdHbXp1aDY5Sm9nNXl5SlN6R2ZuRnphaEFINDZnOHNPQ1BxYVcxVzNXWjM0QkVjSGp3X1NnXzZEU1k4S19NTktmUE53TmMzWG9iVzNHZUNPa1Vn?oc=5",
           "source": "Bioengineer.org",
           "summary": "When Sweat Stops, Skin Darkens: A Diabetes Case Reveals a Hidden Link Bioengineer.org",
-          "published": "2026-10-16T18:11:31+00:00"
+          "published": "2026-10-16T18:21:11+00:00"
         },
         {
           "title": "How Communities in South Asia’s Cities Are Fighting Diabetes and Heart Disease Themselves",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXh5UXdsejRZc3AzRWNrdVM5aUpEY0RXQ053bW1maTFmZXdlMjREZ3dvb2JpWlVTdXY0RnQzdGtHUDYyUW1YRUNGUXVBSEN0NFNneDRvU3hzeXU0ajZTWW11eDdLUGVKZGdkcmRjdm5teTRrdmZXaEtEZDVsekZ4Q21tS3oxSEJ0QmgxN3BjbVpfY3Z1UjBZcm1NRWFWR3pFMFA5NHhmWlNFUndiYnRSVkptMA?oc=5",
           "source": "Bioengineer.org",
           "summary": "How Communities in South Asia’s Cities Are Fighting Diabetes and Heart Disease Themselves Bioengineer.org",
-          "published": "2026-10-16T18:07:47+00:00"
-        },
-        {
-          "title": "Living Well with Diabetes program offered",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlNkc21EU2dlazZJQllVSnNkdXYzb0Q0OGM1LU9YNGxTMVRLbEYzR280aTdDZ1REbS1VRFAtazdaTFRWNC1SZmhFMENKSHpCR1N1Sk5HWkxVVWk1eGVuVHJkczRIY3lCcGhRdmtydHZMWjh1cWt2ZXI2Y2lXcjk5Tg?oc=5",
-          "source": "The Globe | Worthington, Minnesota",
-          "summary": "Living Well with Diabetes program offered The Globe | Worthington, Minnesota",
-          "published": "2026-10-16T17:18:13+00:00"
+          "published": "2026-10-16T18:11:11+00:00"
         },
         {
           "title": "Une journée romande du diabète pour sensibiliser sur le dépistage et les nouveaux traitements",
@@ -442,6 +463,13 @@
           "source": "Nature",
           "summary": "The β-cells in type 1 diabetes mellitus: findings from human pancreas studies Nature",
           "published": "2026-10-16T17:03:27+00:00"
+        },
+        {
+          "title": "EMA backs Lilly's Foundayo for obesity and diabetes",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmR1UUk4Z200OVAtQVBzUnJWTWhkaE1xUTFubDNNZmJsNVE0WEJpbXVGOVhyd2hRbXF4Ni0xNlhWSnYzZGtneGlUbE9GM211MXhMczJfbGs0dEFyNW9QYlFYMXQzSG9uYS02UnZqNl9kZUx4UXZZWTI4emJJU1ZmeDE3Y1YwMzJIdmN0enNXZGk?oc=5",
+          "source": "Briefs Finance",
+          "summary": "EMA backs Lilly's Foundayo for obesity and diabetes Briefs Finance",
+          "published": "2026-10-16T17:00:00+00:00"
         },
         {
           "title": "Eli Lilly se rapproche d'une autorisation européenne pour sa pilule anti-obésité Foundayo...",
@@ -575,34 +603,6 @@
           "source": "Clinical Trials Arena",
           "summary": "Temperature and air pollution associated with increased risk of type 2 diabetes Clinical Trials Arena",
           "published": "2026-10-16T13:57:05+00:00"
-        },
-        {
-          "title": "Walmart workers with Type 2 diabetes can get GLP-1 drugs free in 2027: How to qualify",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVpxSW9SU0pWWjRrUzZNLWpCUDdCYzJ0a013SThmZ3FxbUp0a25yMkd6ZnlfUE1SeENKbm92M0Rld29VaVhjcE9JN2VLSF81ZWRMbTFnbXhaQUpjYjJ6OC03SzNxcHdiNTJ4TEhialZMd1NuNVREOFFFQzVPY1pkU3hnTkdnMjRHM2I2bDdrOXFKSW0wNjcxTXdoOVpPSUxEUUszejFDeDFnV3BGWTRkWVBQZnI2aUNJa2Jv?oc=5",
-          "source": "El Cronista",
-          "summary": "Walmart workers with Type 2 diabetes can get GLP-1 drugs free in 2027: How to qualify El Cronista",
-          "published": "2026-10-16T13:49:59+00:00"
-        },
-        {
-          "title": "Mijas Lions diabetes awareness group get its marching orders",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFR6VlRsLThHZXlFamNJXy1lcjJSWGVJMk1BTk8wdEpwTS1ndjhkdFJFVFdiR0ptSjJnbnF3d3NQWndEVFVCUjNnU1ZyZTZ2TFZuWl9VQnprZ2h1Qk5iX2EwdVZNSWhwUDdfVlJfbG5vc3NIS1NVN2UyMTFUdzhyaHNIbkFyR2hXRGtTbHhadTlKdWwwNGFtM3BTZ0piWE1aTFozTThFVk1nbXhxblJ2dlFTNjNMYWdaenUwXw?oc=5",
-          "source": "Sur in English",
-          "summary": "Mijas Lions diabetes awareness group get its marching orders Sur in English",
-          "published": "2026-10-16T13:45:00+00:00"
-        },
-        {
-          "title": "Navigators Raised Diabetes Screening to 94% From 40% in Small Group of Chicago Medicaid Patients After Gestational Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN24tWWl1bW81Rk8tRXNPYXVncDBNd0REaFJwbGdsVTkwVGo1Y1hSRnVkVWRpamFhQmhHbWNKRVluWkNZeEVQczk1bi1BTlFUSDNXNWZMSl8wQXU0amVWSVc3RllPTlIwTkx0UmxxYktSdUlKaDJaYmM4Y3Y0ZV9lYVdCbnBrUDd0WkxEd3J5bnY3S19VTmJ6RTlBc2xCYXpm?oc=5",
-          "source": "Medical Daily",
-          "summary": "Navigators Raised Diabetes Screening to 94% From 40% in Small Group of Chicago Medicaid Patients After Gestational Diabetes Medical Daily",
-          "published": "2026-10-16T13:16:16+00:00"
-        },
-        {
-          "title": "Taking Antipsychotics? Diabetes Risk Runs High In First Few Months, Study Warns",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXVURzNLalU4dEZhY0FBS2JsWm01NHlVNElSc3ZUNENVUEhHcWw4eUZ6NFhWckNqSDlFOWtncUhWOGM4ZW41T3p2NFFYLVJkNDFMWUo1ZEdsNUdJR1lJd29oOXNCN0QzODB5dC1yR3RmcXJRNzBxanktVUJsTksyRjFnaGJRc1lpUkpEYlpJZUUzYVloNHA1ZHFvR05DRG0wS0FDTmh0cGVuSzlvYjl4Q2pZcFZkN1hmZ2EtMmluaFU2bXgwRWNxNXJzNDJ4RjY1NWZn?oc=5",
-          "source": "U.S. News & World Report",
-          "summary": "Taking Antipsychotics? Diabetes Risk Runs High In First Few Months, Study Warns U.S. News & World Report",
-          "published": "2026-10-16T12:51:51+00:00"
         }
       ]
     }
