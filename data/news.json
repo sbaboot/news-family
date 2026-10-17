@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-10-17T20:09:36.853586+00:00",
+  "generated_at": "2026-10-17T22:53:46.617053+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Un an après le casse du Louvre : le point sur l'enquête",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-un-an-apr%C3%A8s-le-casse-du-louvre-le-point-sur-l-enqu%C3%AAte",
+          "source": "France 24",
+          "summary": "Ce lundi marquera le premier anniversaire du casse du Louvre. Huit joyaux de la Couronne de France ont été dérobés lors de ce cambriolage et ils n'ont toujours pas été retrouvés. Où en est l'enquête? Notre invitée…",
+          "published": "2026-10-17T22:26:34+00:00"
+        },
+        {
+          "title": "Plus de 3000 personnes à Tunis contre la vie chère et pour les libertés publiques",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261017-plus-de-3000-personnes-%C3%A0-tunis-contre-la-vie-ch%C3%A8re-et-pour-les-libert%C3%A9s-publiques",
+          "source": "France 24",
+          "summary": "En Tunisie, plusieurs milliers de manifestants ont répondu à l'appel de la Centrale syndicale l'UGTT et de neuf organisations de la société civile pour descendre dans la rue et dénoncer l'échec selon leurs mots de la…",
+          "published": "2026-10-17T21:13:59+00:00"
+        },
+        {
+          "title": "Osvalde Lewat : du Cameroun à la littérature, le corps, la liberté et les interdits",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-osvalde-lewat-du-cameroun-%C3%A0-la-litt%C3%A9rature-le-corps-la-libert%C3%A9-et-les-interdits",
+          "source": "France 24",
+          "summary": "Comment rester libre lorsque la société, les conventions ou notre propre corps semblent décider à notre place ? Dans le Focus du samedi du Journal de l'Afrique sur France 24, Fatimata Wane reçoit Osvalde Lewat,…",
+          "published": "2026-10-17T21:08:40+00:00"
+        },
+        {
+          "title": "Mobilisation massive en France contre la vie chère suivie de scènes de chaos",
+          "link": "https://www.france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris",
+          "source": "© AFP, Christophe Archambault",
+          "summary": "Entre 550 000 et 800 000 personnes ont manifesté samedi en France contre la vie chère, selon la police et les organisateurs. Mais la mobilisation a été marquée par des violences, des pillages et des dégradations dans…",
+          "published": "2026-10-17T20:29:14+00:00"
+        },
         {
           "title": "« L’économie du Brésil est en croissance grâce au niveau élevé des cours mondiaux des matières premières plus qu’à un succès du gouvernement Lula »",
           "link": "https://www.lemonde.fr/idees/article/2026/10/17/l-economie-du-bresil-est-en-croissance-grace-au-niveau-eleve-des-cours-mondiaux-des-matieres-premieres-plus-qu-a-un-succes-du-gouvernement-lula_6796586_3232.html",
@@ -45,34 +73,6 @@
           "source": "© Abdul Saboor, Reuters",
           "summary": "Entre gaz lacrymogènes et musique techno, plusieurs dizaines de milliers de manifestants se sont rassemblés samedi à Paris pour une journée de \"convergence des luttes\". Au cœur d'un cortège aux revendications multiples,…",
           "published": "2026-10-17T16:33:01+00:00"
-        },
-        {
-          "title": "Au Brésil, le camp du président Lula accuse Meta d’« ingérence » électorale en faveur de son opposant d’extrême droite Flavio Bolsonaro",
-          "link": "https://www.lemonde.fr/international/article/2026/10/17/au-bresil-le-camp-du-president-lula-accuse-meta-d-ingerence-electorale-en-faveur-de-son-opposant-d-extreme-droite-flavio-bolsonaro_6796484_3210.html",
-          "source": "Le Monde",
-          "summary": "A l’approche du second tour de l’élection présidentielle, le 25 octobre, des restrictions touchant les contenus de la campagne du président sortant sur les réseaux sociaux de Meta suscitent l’indignation de la gauche.…",
-          "published": "2026-10-17T16:30:11+00:00"
-        },
-        {
-          "title": "Entre la RDC et la Belgique, des tensions après des perquisitions menées chez la famille du président congolais",
-          "link": "https://www.lemonde.fr/international/article/2026/10/17/entre-la-rdc-et-la-belgique-des-tensions-apres-des-perquisitions-menees-chez-la-famille-du-president-congolais_6796483_3210.html",
-          "source": "Le Monde",
-          "summary": "La première dame et huit autres proches de Félix Tshisekedi sont au cœur d’une instruction pour blanchiment d’argent, ouverte par la justice belge en 2025. Après des perquisitions menées dans le plat pays, mercredi 14…",
-          "published": "2026-10-17T16:30:08+00:00"
-        },
-        {
-          "title": "Dans le Michigan, une shérif contre Trump : « Dès que j’ai pris mes fonctions, nous avons arrêté toute coopération avec la police de l’immigration »",
-          "link": "https://www.lemonde.fr/m-le-mag/article/2026/10/17/dans-le-michigan-une-sherif-contre-trump-des-que-j-ai-pris-mes-fonctions-nous-avons-arrete-toute-cooperation-avec-la-police-de-l-immigration_6796481_4500055.html",
-          "source": "Le Monde",
-          "summary": "Elue en 2024, à seulement 33 ans, la shérif du comté de Washtenaw, dans le Michigan, Alyshia Dyer, a remporté une bataille décisive face à l’administration Trump et sa politique de lutte contre l’immigration illégale.…",
-          "published": "2026-10-17T16:00:07+00:00"
-        },
-        {
-          "title": "17 octobre : le \"Ras le bol face à la vie chère, à la répression\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-17-octobre-le-ras-le-bol-face-%C3%A0-la-vie-ch%C3%A8re-%C3%A0-la-r%C3%A9pression",
-          "source": "France 24",
-          "summary": "Stéphanie Michel, élue LFI de Fontenay-sous-Bois, est au micro de Johan Bodin.",
-          "published": "2026-10-17T15:52:29+00:00"
         }
       ]
     },
@@ -84,11 +84,67 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Alouettes 12 – Roughriders 16 | Sans leurs vedettes, les Alouettes s’inclinent face aux Roughriders",
+          "link": "https://www.lapresse.ca/sports/football/2026-10-17/alouettes-12-roughriders-16/sans-leurs-vedettes-les-alouettes-s-inclinent-face-aux-roughriders.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les Alouettes ont décidé de donner du repos à plusieurs joueurs importants pour un match sans enjeu, samedi, et les Roughriders de la Saskatchewan en ont profité pour mettre un terme à une série de quatre défaites et se…",
+          "published": "2026-10-17T22:25:21+00:00"
+        },
+        {
+          "title": "EN IMAGES | Scènes de chaos et pillages à l'issue des manifestations contre la «vie chère» en France",
+          "link": "https://www.journaldemontreal.com/2026/10/17/en-images--des-manifestations-massives-emaillees-de-pillages-et-daffrontements-en-france",
+          "source": "Journal de Montreal",
+          "summary": "Affrontements, casse, pillages: de violentes émeutes ont semé le chaos lors de la mobilisation du 17 octobre.",
+          "published": "2026-10-17T19:50:44+00:00"
+        },
+        {
           "title": "Centre-ville de Montréal | Des centaines de manifestants en solidarité à la mobilisation en France",
           "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-17/centre-ville-de-montreal/des-centaines-de-manifestants-en-solidarite-a-la-mobilisation-en-france.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Des centaines de manifestants se sont regroupés au centre-ville de Montréal, en solidarité aux manifestations qui ont éclaté samedi aux quatre coins de la France. Aucune arrestation ni acte de vandalisme n’a pour…",
+          "summary": "Des centaines de manifestants se sont regroupés au centre-ville de Montréal, en solidarité aux manifestations qui ont éclaté samedi aux quatre coins de la France. Aucune arrestation ni acte de vandalisme n’avait été…",
           "published": "2026-10-17T19:45:55+00:00"
+        },
+        {
+          "title": "Des Québécois sont au cœur des manifestations françaises lors desquelles se sont unis les lycéens et les Gilets jaunes",
+          "link": "https://www.journaldemontreal.com/2026/10/17/des-quebecois-sont-au-cur-des-manifestations-francaises-lors-desquelles-se-sont-unis-les-lyceens-et-les-gilets-jaunes",
+          "source": "Journal de Montreal",
+          "summary": "En France, des Québecois se sont retrouvés aux premières loges des manifestations qui ont secoué l'Hexagone après un mois de mobilisation des lycéens.",
+          "published": "2026-10-17T19:44:20+00:00"
+        },
+        {
+          "title": "«J'avais jamais eu de gaz lacrymogène au visage»: un Québécois au cœur des émeutes à Paris",
+          "link": "https://www.journaldemontreal.com/2026/10/17/javais-jamais-eu-de-gaz-lacrymogene-au-visage-un-quebecois-au-cur-des-emeutes-a-paris",
+          "source": "Journal de Montreal",
+          "summary": "Venu pour le travail, Guillaume Mathieu s'est retrouvé coincé entre manifestants et policiers. Il raconte l'odeur des gaz, les feux et la peur.",
+          "published": "2026-10-17T19:27:14+00:00"
+        },
+        {
+          "title": "Blessé, Félix Auger-Aliassime prend une pause",
+          "link": "https://www.journaldemontreal.com/2026/10/17/blesse-felix-auger-aliassime-prend-une-pause",
+          "source": "Journal de Montreal",
+          "summary": "Le Québécois Félix Auger-Aliassime sera tenu à l’écart des courts pour au moins deux semaines.",
+          "published": "2026-10-17T19:14:40+00:00"
+        },
+        {
+          "title": "Canadien contre Sabres : 5 choses à surveiller",
+          "link": "https://www.journaldemontreal.com/2026/10/17/canadien-contre-sabres--5-choses-a-surveiller",
+          "source": "Journal de Montreal",
+          "summary": "Le Canadien reçoit les Sabres au Centre Bell pour une deuxième fois cette semaine. Voici ce que nous surveillons en marge de ce match.",
+          "published": "2026-10-17T19:00:00+00:00"
+        },
+        {
+          "title": "Des manifestants cagoulés mettent le feu à l'hôtel de ville de Limoges lors d'affrontements",
+          "link": "https://www.journaldemontreal.com/2026/10/17/des-manifestants-cagoules-mettent-le-feu-a-lhotel-de-ville-de-limoges-lors-daffrontements",
+          "source": "Journal de Montreal",
+          "summary": "Un incendie est en cours à l'hôtel de ville de Limoges, après qu'un groupe d'individus a attaqué le bâtiment.",
+          "published": "2026-10-17T18:55:53+00:00"
+        },
+        {
+          "title": "EN VIDÉO | Plus de 400 interpellations après les manifestations massives en France",
+          "link": "https://www.journaldemontreal.com/2026/10/17/en-video--journee-de-manifestations-en-france-la-tension-monte-dans-les-premiers-rassemblements",
+          "source": "Journal de Montreal",
+          "summary": "Des centaines de milliers de personnes ont participé samedi en France à une mobilisation contre «la vie chère».",
+          "published": "2026-10-17T18:40:25+00:00"
         },
         {
           "title": "Utilisation alléguée de l’IA | Thélyson Orélien renonce à documenter les origines de son roman",
@@ -96,62 +152,6 @@
           "source": "La Presse",
           "summary": "L’écrivain québécois d’origine haïtienne Thélyson Orélien a renoncé à rassembler des éléments de preuve pour étayer son démenti après des allégations selon lesquelles son roman aurait été rédigé par une intelligence…",
           "published": "2026-10-17T18:35:27+00:00"
-        },
-        {
-          "title": "Pourquoi la colère contre la vie chère gagne-t-elle les rues de France?",
-          "link": "https://www.ledevoir.com/monde/europe/1017692/francais-mobilisent-contre-vie-chere",
-          "source": "Le Devoir",
-          "summary": "Dans la foulée des mobilisations lycéennes, les jeunes ont été rejoints samedi par plusieurs groupes de la société.",
-          "published": "2026-10-17T18:20:00+00:00"
-        },
-        {
-          "title": "L’Arabie saoudite intercepte des drones, l’Égypte envisage d’intervenir pour la défendre",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1017689/arabie-saoudite-intercepte-drones-egypte-envisage-intervenir-defendre",
-          "source": "Le Devoir",
-          "summary": "Le pays est sous le feu depuis début octobre d’attaques quasi-quotidiennes des Houthis pro-iraniens du Yémen.",
-          "published": "2026-10-17T18:10:00+00:00"
-        },
-        {
-          "title": "Élections de mi-mandat | Des milliers de rassemblements pour mobiliser le vote anti-Trump",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-10-17/elections-de-mi-mandat/des-milliers-de-rassemblements-pour-mobiliser-le-vote-anti-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Votre vote est votre voix » : à un peu plus de deux semaines des élections de mi-mandat, le principal mouvement de contestation anti-Trump tient samedi des milliers d’évènements à travers le pays pour encourager les…",
-          "published": "2026-10-17T17:26:08+00:00"
-        },
-        {
-          "title": "Thélyson Orélien a renoncé à documenter les origines de son roman",
-          "link": "https://www.ledevoir.com/lire/1017686/thelyson-orelien-renonce-documenter-origines-roman",
-          "source": "Le Devoir",
-          "summary": "L’écrivain avait annoncé en septembre préparer un dossier de preuves réfutant les allégations d’IA.",
-          "published": "2026-10-17T17:00:00+00:00"
-        },
-        {
-          "title": "Sabres – Canadien | La rentrée de Reinbacher et de Kapanen, Fowler devant le filet",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-10-17/sabres-canadien/la-rentree-de-reinbacher-et-de-kapanen-fowler-devant-le-filet.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "À ses camps d’entraînement 2024 et 2025, David Reinbacher n’avait jamais vraiment eu à se faire dire non ; c’était plutôt son corps qui avait décidé pour lui, puisqu’il avait été chaque fois blessé.",
-          "published": "2026-10-17T16:59:55+00:00"
-        },
-        {
-          "title": "Tiff Macklem met en garde contre une résilience mondiale «mise à rude épreuve»",
-          "link": "https://www.ledevoir.com/economie/1017683/tiff-macklem-met-garde-contre-resilience-mondiale-mise-rude-epreuve",
-          "source": "Le Devoir",
-          "summary": "Les prix élevés de l’énergie à l’échelle mondiale vont faire grimper l’inflation au niveau national, prévient-il.",
-          "published": "2026-10-17T16:40:00+00:00"
-        },
-        {
-          "title": "Une maison à hauteur d’enfant",
-          "link": "https://www.lapresse.ca/maison/2026-10-17/une-maison-a-hauteur-d-enfant.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Dans cette maison du quartier Petit Laurier, à Montréal, tout tourne autour du jeu… mais ce n’est pas pour autant un univers juste pour enfants. Tout le monde y trouve son compte, petit coin par petit coin.",
-          "published": "2026-10-17T16:00:00+00:00"
-        },
-        {
-          "title": "Deux femmes agressées en CHSLD | « Tout est bien qui finit bien », se réjouit un agresseur qui évite la prison",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-17/deux-femmes-agressees-en-chsld/tout-est-bien-qui-finit-bien-se-rejouit-un-agresseur-qui-evite-la-prison.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "« Tout est bien qui finit bien », a philosophé Mohamed Zarrouk, à la fin de l’audience. Ce délinquant était visiblement satisfait d’éviter la prison mardi, alors qu’il a agressé sexuellement deux femmes très vulnérables…",
-          "published": "2026-10-17T16:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Multiplex Ligue 1 : Giroud permet à Lille de recoller, Lens prend le large à Troyes",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/en-direct-multiplex-ligue-1-giroud-et-lille-pour-reprendre-la-tete-lens-face-a-troyes-20261017",
-          "source": "Le Figaro",
-          "summary": "Suivez le multiplex de la 7e journée de Ligue 1 ce samedi avec deux rencontres au programme : Lille-Brest et Troyes-Lens.",
-          "published": "2026-10-17T20:09:02+00:00"
-        },
-        {
-          "title": "EN DIRECT - Manifestations du 17 octobre : Darmanin demande une réponse judiciaire «extrêmement ferme» face à des violences «d’une gravité inouïe»",
+          "title": "EN DIRECT - Manifestations du 17 octobre : Sébastien Lecornu annonce 1 200 interpellations ce samedi",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-gilets-jaunes-lyceens-syndicats-suivez-les-manifestations-et-les-blocages-du-17-octobre-20261017",
           "source": "Le Figaro",
           "summary": "Des «gilets jaunes», des lycéens et des étudiants, rejoints par des organisations syndicales, appelaient à manifester ce samedi 17 octobre contre la vie chère, la hausse des prix des carburants et les difficultés des…",
-          "published": "2026-10-17T20:08:59+00:00"
+          "published": "2026-10-17T22:35:03+00:00"
         },
         {
-          "title": "«J’espère que le nouveau président français va continuer d’aider l’Ukraine» : le cri du cœur du Parisien Illya Zabarnyi",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-1/j-espere-que-le-nouveau-president-francais-va-continuer-d-aider-l-ukraine-le-cri-du-coeur-du-parisien-illya-zabarnyi-20261017",
+          "title": "Des scènes de guérilla urbaine et des pillages à la chaîne : notre récit d’une journée de violences débridées qui ont enflammé la France",
+          "link": "https://www.lefigaro.fr/actualite-france/des-scenes-de-guerilla-urbaine-et-des-pillages-a-la-chaine-notre-recit-d-une-journee-de-violences-debridees-qui-ont-enflamme-la-france-20261017",
           "source": "Le Figaro",
-          "summary": "Le défenseur ukrainien du Paris SG s’est exprimé après la rencontre contre Strasbourg, ce samedi à l’occasion de la 7e journée de Ligue 1.",
-          "published": "2026-10-17T20:01:18+00:00"
+          "summary": "REPORTAGE - Dès leurs prémices, les manifestations «contre la vie chère» du 17 octobre ont dégénéré, donnant lieu à des flambées de violences inédites dans de nombreuses villes françaises.",
+          "published": "2026-10-17T21:54:05+00:00"
+        },
+        {
+          "title": "« Je m’ennuie déjà de vous » : Céline Dion, impériale à la Plénitude Arena lors du dernier concert de sa résidence parisienne",
+          "link": "https://www.lefigaro.fr/musique/je-m-ennuie-deja-de-vous-celine-dion-imperiale-a-la-plenitude-arena-lors-du-dernier-concert-de-sa-residence-parisienne-20261017",
+          "source": "Le Figaro",
+          "summary": "RÉCIT - La star québécoise a refermé le cycle de ses représentations automnales avec un show d’une fluidité éblouissante.",
+          "published": "2026-10-17T21:51:47+00:00"
+        },
+        {
+          "title": "«Chaos», «casseurs déterminés», «pourrissement»… La classe politique condamne la violence des manifestations mais ne s’accorde pas sur les causes",
+          "link": "https://www.lefigaro.fr/politique/chaos-casseurs-determines-pourrissement-la-classe-politique-condamne-la-violence-des-manifestations-mais-ne-s-accorde-pas-sur-les-causes-20261017",
+          "source": "Le Figaro",
+          "summary": "Pour une partie de la gauche, le pourrissement de la mobilisation qui a rassemblé entre 550.000 et 800.000 personnes en France est surtout le fruit d’une «doctrine de maintien de l’ordre» violente.",
+          "published": "2026-10-17T21:51:33+00:00"
         },
         {
           "title": "«J’en ai pour 1000 euros» : à Bordeaux, les manifestations du 17 octobre ont rapidement viré en pillages et en saccages",
           "link": "https://www.lefigaro.fr/bordeaux/j-en-ai-pour-1000-euros-a-bordeaux-les-manifestations-du-17-octobre-ont-rapidement-vire-en-pillages-et-en-saccages-20261017",
           "source": "Le Figaro",
-          "summary": "Le maire de Bordeaux, Thomas Cazenave, «condamne fermement les dégradations et violences dont se sont rendus coupables des groupes ultra-violent», ce samedi.",
-          "published": "2026-10-17T19:57:10+00:00"
+          "summary": "Le maire de Bordeaux, Thomas Cazenave, «condamne fermement les dégradations et violences dont se sont rendus coupables des groupes ultra-violents», ce samedi.",
+          "published": "2026-10-17T21:35:06+00:00"
         },
         {
-          "title": "«Il est en grande partie perdu» : les images terribles de l’incendie de l’hôtel de ville de Limoges, en marge de la manifestation du 17 octobre",
-          "link": "https://www.lefigaro.fr/actualite-france/les-images-terribles-de-l-incendie-de-l-hotel-de-ville-de-limoges-en-marge-de-la-manifestation-du-17-octobre-20261017",
+          "title": "Violences lors de la journée du 17 octobre : «Le dispositif n’était pas sous-dimensionné», défend Laurent Nuñez",
+          "link": "https://www.lefigaro.fr/actualite-france/violences-lors-de-la-journee-du-17-octobre-le-dispositif-n-etait-pas-sous-dimensionne-defend-laurent-nunez-20261017",
           "source": "Le Figaro",
-          "summary": "Un groupe d’individus cagoulés s’est introduit dans la mairie de Limoges avant qu’un incendie ne s’y déclare.",
-          "published": "2026-10-17T19:47:41+00:00"
+          "summary": "Le ministre de l’Intérieur a expliqué que des «délinquants d’opportunité» avaient profité de la journée de mobilisation «pour s’en prendre à des commerces» et les «piller».",
+          "published": "2026-10-17T21:19:48+00:00"
         },
         {
-          "title": "Paris, Lyon, Marseille, Limoges… : les images des scènes de violences lors des manifestations du 17 octobre",
-          "link": "https://www.lefigaro.fr/actualite-france/paris-lyon-marseille-les-images-des-scenes-de-violences-et-de-scenes-lors-des-manifestations-du-17-octobre-20261017",
-          "source": "Le Figaro",
-          "summary": "Quelque 800 000 personnes ont participé aux actions et défilés partout en France, samedi, contre la «vie chère», selon plusieurs organisations associées à cette mobilisation nationale. Dans plusieurs villes, les…",
-          "published": "2026-10-17T19:47:37+00:00"
-        },
-        {
-          "title": "Dans la mobilisation le 17 octobre à Paris, les manifestants tentent de faire entendre une multitude de \"ras-le-bol\", malgré les violences en marge du cortège",
-          "link": "https://www.franceinfo.fr/economie/greve/reportage-a-paris-une-foule-compacte-et-une-multitude-de-ras-le-bol-dans-la-manifestation-du-17-octobre_8241868.html#xtor=RSS-3-[lestitres]",
+          "title": "Mobilisation du 17 octobre : \"Ceux qui ont cassé, attaqué les préfectures comme les commerces, seront poursuivis et punis\", affirme Emmanuel Macron",
+          "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Plusieurs milliers de manifestants ont défilé samedi entre la place de la République à la place de Clichy. Tout au long des plus de trois kilomètres du tracé, ils ont crié des revendications diverses, alors que des…",
-          "published": "2026-10-17T19:40:05+00:00"
+          "summary": "Des violences ont éclaté en marge des cortèges dans de nombreuses villes, comme à Paris, Lyon et Marseille.",
+          "published": "2026-10-17T21:01:00+00:00"
+        },
+        {
+          "title": "La main d'un manifestant de 17 ans arrachée par une grenade à Saint-Étienne pendant une mobilisation du 17 octobre, l'enquête confiée à l'IGPN",
+          "link": "https://www.franceinfo.fr/economie/greve/a-saint-etienne-un-manifestant-grievement-blesse-a-la-main-a-saint-etienne-pendant-une-mobilisation-du-17-octobre_8241952.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "L'adolescent âgé de 17 ans a été transporté en urgence au CHU de la ville, les circonstances du drame restent indéterminées pour le moment.",
+          "published": "2026-10-17T21:00:37+00:00"
         },
         {
           "title": "La mairie de Limoges incendiée, la résidence préfectorale de Bordeaux saccagée... La mobilisation du 17 octobre émaillée de violences dans plusieurs villes de France",
           "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Plusieurs centaines de rassemblements et de manifestations sont organisés samedi dans le pays, soutenus par différents syndicats et partis politiques à gauche.",
-          "published": "2026-10-17T19:35:29+00:00"
+          "summary": "Plusieurs centaines de rassemblements et de manifestations ont été organisés samedi dans le pays, soutenus par différents syndicats et partis politiques à gauche. Environ 550 000 manifestants ont été comptés sur…",
+          "published": "2026-10-17T20:56:48+00:00"
         },
         {
-          "title": "La main d'un manifestant de 17 ans arrachée à Saint-Étienne pendant une mobilisation du 17 octobre, l'enquête confiée à l'IGPN",
-          "link": "https://www.franceinfo.fr/economie/greve/a-saint-etienne-un-manifestant-grievement-blesse-a-la-main-a-saint-etienne-pendant-une-mobilisation-du-17-octobre_8241952.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'adolescent âgé de 17 ans a été transporté en urgence au CHU de la ville, les circonstances du drame restent indéterminées pour le moment.",
-          "published": "2026-10-17T19:32:53+00:00"
-        },
-        {
-          "title": "EN DIRECT – Mobilisation du 17 octobre : 550 000 manifestants partout en France, annonce Laurent Nuñez ; situation toujours très tendue dans plusieurs villes",
-          "link": "https://www.liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE/",
-          "source": "Liberation",
-          "summary": "Plus d’un an après «Bloquons tout» et plusieurs semaines de mobilisation lycéenne, la France a connu une nouvelle journée d’intense contestation sociale, ce samedi. Selon la CGT, 500 000 manifestants ont défilé.",
-          "published": "2026-10-17T19:19:25+00:00"
+          "title": "Le siège de CNews et Europe 1 dégradé, des actes «d’intimidation» qui ont conduit à l’interpellation de 21 personnes",
+          "link": "https://www.lefigaro.fr/medias/a-paris-le-siege-de-cnews-cible-par-des-manifestants-21-personnes-interpellees-20261017",
+          "source": "Le Figaro",
+          "summary": "Sur les réseaux sociaux, des images montraient des barrières renversées, tandis que des manifestants ont jeté des projectiles et brisé des vitres.",
+          "published": "2026-10-17T20:55:38+00:00"
         }
       ]
     },
@@ -325,6 +325,34 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "CagriSema Shows Strong Dose-Specific Benefits for Type 2 Diabetes in Landmark Meta-Analysis",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa0x0T05TX0RvbmR0aTItMjNwemZ3MlF0bmhjQ0NnSDBnQ1EwcVZ6dkpvODI3UUZobGZmcW56NnVCcUF0YXowTEFJbk9LdUdCUEdHdVc5T1J3Q2ZwbU5YazIzVjdsY1hFWVMybGFRU1ZKTmJEeGJCcEJhTGNUNU80UENHWXdXSWp1NmtZUUFYdzdPMXdUVkV2NzNVRHljd0I3WGxpWWh2cUlyZXE0S1A4M09QbDV2a2s?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "CagriSema Shows Strong Dose-Specific Benefits for Type 2 Diabetes in Landmark Meta-Analysis Bioengineer.org",
+          "published": "2026-10-17T22:24:33+00:00"
+        },
+        {
+          "title": "eli lilly new diabetes drug weight loss",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXFBOTdFZ1FSZUpUem5IbklnanZ1Nkg4ZFNCbUp2SVpYeGhBZXJtWmdGZzNLZEhEcWpDb1N6c1p3d1Q2ZEwxeDdXWHE0TjVENHZEWFQwM3VhaGN4T0t2a25wbWQ5bzY0eTFFYko3SC1lNTFYSk52Y2pKbjB1RWs4c0pB?oc=5",
+          "source": "Meteo.gr",
+          "summary": "eli lilly new diabetes drug weight loss Meteo.gr",
+          "published": "2026-10-17T21:27:53+00:00"
+        },
+        {
+          "title": "Mitochondria Emerge as the Central Hub Driving Diabetic Nerve Damage",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3MwMFRabHlfVmx4VkZfcU12dGtZcGh3eHo2MkcwYUdLMmE0M09KRzBOb0lTcnZCNEQ0enloRXNUV1ZZNld5c2t0ejQ5ZHpxLWJwbmlYbzVmdWpSRXdGSzQ1Tl96X29jS3FoV1h3RjRnNHI2SS1TcmlsTy1ENlZDU0x3Sm5DcFczcW9Dd1ZNYlI2WG5YSlgteg?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Mitochondria Emerge as the Central Hub Driving Diabetic Nerve Damage Bioengineer.org",
+          "published": "2026-10-17T21:01:18+00:00"
+        },
+        {
+          "title": "Cholesterol Swings May Signal Deadly Diabetes Risk in Older Adults",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ014LS1HVHI5SjJUaUFKOWpyRV84ZzNtUTNhXzFIcjJtSlpJR2NGSGFDVTNtanBmVzVFMnBoNm5oNGVHbDREQllxR09VRG90UGR6bndnTVlPbmw4bUU0dVFLYjNGRXNDeHdQNTdzbVdCeEowSzlObDlfMkExakxDMUJiUy1qTUlpak4zOFhtV0RLcENZYUE?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Cholesterol Swings May Signal Deadly Diabetes Risk in Older Adults Bioengineer.org",
+          "published": "2026-10-17T20:56:18+00:00"
+        },
+        {
           "title": "Why diabetes patients skip their pills: motivation matters more than medication know-how",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUNzSy1laE9zT0dkVF9iRURBY015TzVwZnROa3JOc0xBcmg3QlU2ZnNVS2pGaE5FUHhUQm9sUkk3dHppY0w3QllVaDk5Qm9FVk4tY24zRkpQM05FeGJEYm5aUTg1bm5DZnlPM2RtaE1HcGVfSHh5ZUZkUFZ6cWF4VXI2WlBYbERDZlg4eTBWeHpMelJkcDJldlF6eUdzU2lyNmFrb1hyN2N6LXp0cTBRV25n?oc=5",
           "source": "Bioengineer.org",
@@ -416,25 +444,18 @@
           "published": "2026-10-17T16:03:06+00:00"
         },
         {
+          "title": "Family, Money and Language Shape Diabetes Self-Care Among Immigrants, Review Finds",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFdhSmlfcEJlZTgxY2ZBRXBSclFOQmNWaEw0VFVhNnhJQVhLeWdESmxQVnFNTFFod1RjS2Y4VkUxLVVFalBLYjlWOVMyVEJ4VHlYMV9LNzV2d1hwRTFHYWxNclRFNlkyWWg5ZHAwR254Q3BSTzY5bnZkYUM1cXpzaG5sZU91NWRzaVkwMlh3Wnd4cmlqWVNuY0tRek5fcHpDTjFyU2tiZEM?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Family, Money and Language Shape Diabetes Self-Care Among Immigrants, Review Finds Bioengineer.org",
+          "published": "2026-10-17T16:01:17+00:00"
+        },
+        {
           "title": "people are using diabetes drugs for weight loss",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzlNM2hqeHlCY0xqUEh3T3VQX2U4M0xwdEkxRnl3OFRGeEQxdVBfdkFHUk44b3VBYUE4WlgxeFVBcVh0STA1Tzg0dUVISkR4ZFZJRFBsaDZlNnhtVzNjWGtBU2NZMkJ5WjFnRElDM1pQb3Y0SDVhbzVNazVUd1ZJYlpLcHhDUW9rT3BlQ0xOelNKUQ?oc=5",
           "source": "BusinessWorld Online",
           "summary": "people are using diabetes drugs for weight loss BusinessWorld Online",
           "published": "2026-10-17T16:01:09+00:00"
-        },
-        {
-          "title": "Family, Money and Language Shape Diabetes Self-Care Among Immigrants, Review Finds",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFdhSmlfcEJlZTgxY2ZBRXBSclFOQmNWaEw0VFVhNnhJQVhLeWdESmxQVnFNTFFod1RjS2Y4VkUxLVVFalBLYjlWOVMyVEJ4VHlYMV9LNzV2d1hwRTFHYWxNclRFNlkyWWg5ZHAwR254Q3BSTzY5bnZkYUM1cXpzaG5sZU91NWRzaVkwMlh3Wnd4cmlqWVNuY0tRek5fcHpDTjFyU2tiZEM?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Family, Money and Language Shape Diabetes Self-Care Among Immigrants, Review Finds Bioengineer.org",
-          "published": "2026-10-17T15:56:34+00:00"
-        },
-        {
-          "title": "which weight loss drug is for diabetes",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFpUdVNYRHBtWGIzcF8yckkwSDJsdHRIdWYzNXdabGRqMDlYVE5Ja0FGR2NzQWFSWXRhREVkZ3BZQ2M2Y0pTTWVleVIyMFlJR0lmeEVMVTRYWktzM0tJZnFoYjdjX1E4UzF6NTI1bVQ0ZDBLSnFqUVdoZFlpQjhoaUt2d2I?oc=5",
-          "source": "Meteo.gr",
-          "summary": "which weight loss drug is for diabetes Meteo.gr",
-          "published": "2026-10-17T15:49:03+00:00"
         },
         {
           "title": "Immunocore Holdings (IMCR) Enters Type 1 Diabetes Following Trial Debut And An Undervalued View",
@@ -444,13 +465,6 @@
           "published": "2026-10-17T15:46:57+00:00"
         },
         {
-          "title": "Financial Toxicity Hits Type 2 Diabetes Patients Far Harder Than Type 1, Survey Finds",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2FPVVZqN3Q5NkNnSWpBZHFOUDBFOHNOQWc1VjlMNFFHempVQWR6WGlJdFlWTm5WZFJmR1JsYkowbFRsT3o1R0pwX2gzem84OHVVTmRWamRXT3JpU3pmdUN2NXF0cGNqVDVfTnJ2Nl9pTjdhOTRIZXRoYll0bDZhNVRKaEh2dmVXVU9DWE5sb3dIV3ItWTNBVmE5M0ZMWWlLV1hYTTE4TDlRYl9VbEE?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Financial Toxicity Hits Type 2 Diabetes Patients Far Harder Than Type 1, Survey Finds Bioengineer.org",
-          "published": "2026-10-17T15:36:40+00:00"
-        },
-        {
           "title": "AI Listens for Diabetes: Six Vowels Reveal Type 2 Diabetes in Voice Recordings",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVlqMXpyWXh5clk2Vi1ranBsM0lEcnpyczhHLWNoNE5vVC1KaUNaMkl5WG1Sbm9sWFg1bk82bW1ncHhnbVl5ZWJaYjEwQXU5Q3p1bW4zQlNEbGpoNmFiQjd6THJWakJ6dlhTdUxnSkxiSmNqMnk5MU5Lc2xNbnhIR1FiSVVzSHl5THl6TTBUc0c1VVB5cFZFc0VBanU1am1LTEVpZA?oc=5",
           "source": "Bioengineer.org",
@@ -458,11 +472,18 @@
           "published": "2026-10-17T15:36:15+00:00"
         },
         {
+          "title": "Financial Toxicity Hits Type 2 Diabetes Patients Far Harder Than Type 1, Survey Finds",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2FPVVZqN3Q5NkNnSWpBZHFOUDBFOHNOQWc1VjlMNFFHempVQWR6WGlJdFlWTm5WZFJmR1JsYkowbFRsT3o1R0pwX2gzem84OHVVTmRWamRXT3JpU3pmdUN2NXF0cGNqVDVfTnJ2Nl9pTjdhOTRIZXRoYll0bDZhNVRKaEh2dmVXVU9DWE5sb3dIV3ItWTNBVmE5M0ZMWWlLV1hYTTE4TDlRYl9VbEE?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Financial Toxicity Hits Type 2 Diabetes Patients Far Harder Than Type 1, Survey Finds Bioengineer.org",
+          "published": "2026-10-17T15:36:15+00:00"
+        },
+        {
           "title": "Cooking Classes and Cultural Adaptation Show Promise for Boosting Diabetes Prevention Engagement",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQVpRbjRwZlE5ZWdxemZrYXpmaDh0WXNoYXp4aXRwSHRueUYzelNDRTJRRXI0RDVadFpCWlNqM3FkMUp0N2taNExZN0x0Z1hLOHVyY3V5VFFVOHk2eHVxRHJTZ2tFRXh6X1l1dERHbWd5eW81ZE9INFRLRkVrQXEzSWtoSGNYcGdGdEQycTdlUjNmXzltWkNUU3ItQXgtZHdRS0xKdXlzaTdUcng1MkUyQlpWVm43Ql9JRUU1OV9B?oc=5",
           "source": "Bioengineer.org",
           "summary": "Cooking Classes and Cultural Adaptation Show Promise for Boosting Diabetes Prevention Engagement Bioengineer.org",
-          "published": "2026-10-17T15:16:57+00:00"
+          "published": "2026-10-17T15:15:26+00:00"
         },
         {
           "title": "Longford diabetes patient denied life-saving device for 16 months due to ‘HSE error’",
@@ -535,13 +556,6 @@
           "published": "2026-10-17T11:51:15+00:00"
         },
         {
-          "title": "How a Global Health Team Plans to Map the Hidden Playbook for Merging Diabetes and HIV Care",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVRBRXU2QWlyMU1sUXVZUzJJdmV4YzN4R0JTTUwxN1I3aGQxZXM2bHI4OEEtem5icUt2RFRfV0pOUlFBN01kNnUyLW5vd0o5VUU5SlZOSWo4ZHNvRS1mRXREUWpUcjd2Q3p1eEFCX013YjMxTWdoMzc2YkhrWk9FaGtZSmhUUmxncDdjaUcyWkI4OWZJMXh2X1ZxcjAyTGxUWXN3eUU1NzlQT2dXR3JHN0JHU2YzZHM?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "How a Global Health Team Plans to Map the Hidden Playbook for Merging Diabetes and HIV Care Bioengineer.org",
-          "published": "2026-10-17T11:36:15+00:00"
-        },
-        {
           "title": "Mayotte: de faux stylos injectables contre le diabète et l'obésité interceptés par les douanes",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGNnOXZYOElDcXQwRlBKS1pYbWVxZl9Ob3FnQl9Ic2RWbGFxZTNzQ3gzaTRwZ2xOVmJXa3VMdFEwWGRHYUtWU2cxRF9udlg2Y2k1TjhHaVpaR0RlUXlrTkpZcGVPN0JKRlNiNWNyeE1wZ2dBcmc3Wm9hQXhLSEtoLTU2YUVTVGloeVJTSklTTnpZenBkY3NXZUQwUVVMZnVrbTVXNS0yU0p0emRGN2xUcHhXbWxtYkdfZ3pUYVAzVkt4WkRDdC1hMmxLQ1R1WTVXTHZ3?oc=5",
           "source": "Outremers 360",
@@ -589,20 +603,6 @@
           "source": "Bioengineer.org",
           "summary": "Social Inequalities Drive a Heavy Share of Brazil’s Diabetes and Hypertension Burden Bioengineer.org",
           "published": "2026-10-17T09:31:15+00:00"
-        },
-        {
-          "title": "Rat Incisors Reveal How Diabetes Drives Inflammatory Cell Death in Teeth",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVjJiTHJNMV85VTJ2eml1U01aM1NqSm5Gakpwd2d0WXFfMms4enhST05mVWttNW0zc2VVYzctaTNXc0k1T0FZZDZfRzBfMHg4aHNLbzhWRERKY3BXeDBBYWdpSmxkNF9UTXFiSUZOTVBzTjY3dGJCdTZybTZLM3QwUVdINWtxM1hCc3Fkc0hPSlAzOC1ZSm1ad08zd0RWZw?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Rat Incisors Reveal How Diabetes Drives Inflammatory Cell Death in Teeth Bioengineer.org",
-          "published": "2026-10-17T09:16:15+00:00"
-        },
-        {
-          "title": "CHU de Nîmes : un mois de sensibilisation et de dépistage du diabète",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnVfUkNETnJPMjgzUzc0VkxEQmV6dUxzNncyZS1UMS1PRXZGN2JLUFNzemVmVDZsazFnSXFMeEVOaVFpdUVsV053TkpzTWF5N3l6ck9GenNCTEt4enBwOGp4dkp1blhCOHlkUllnRkFXV1p5aE9JSFl0QzZmWjlCX2RFaFg0SXliLXI0NXpOZ0tGaWlUUUE?oc=5",
-          "source": "InfOccitanie",
-          "summary": "CHU de Nîmes : un mois de sensibilisation et de dépistage du diabète InfOccitanie",
-          "published": "2026-10-17T09:11:00+00:00"
         }
       ]
     }
