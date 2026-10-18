@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-10-18T20:08:21.228191+00:00",
+  "generated_at": "2026-10-18T22:47:15.423205+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Un vol reliant Tel Aviv à Vienne dérouté vers la Bulgarie en raison d’une alerte à la bombe",
+          "link": "https://www.lemonde.fr/international/article/2026/10/19/un-vol-reliant-tel-aviv-a-vienne-deroute-vers-la-bulgarie-en-raison-d-une-alerte-a-la-bombe_6797300_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon la compagnie aérienne, Austrian Airlines, 51 passagers et six membres d’équipage se trouvaient à bord de l’avion et une fouille de sécurité a été entamée après son atterrissage à Sofia.",
+          "published": "2026-10-18T22:28:43+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Donald Trump accuse Volodymyr Zelensky de « ne pas vouloir mettre fin » à la guerre avec la Russie",
+          "link": "https://www.lemonde.fr/international/live/2026/10/18/en-direct-guerre-en-ukraine-donald-trump-accuse-volodymyr-zelensky-de-ne-pas-vouloir-mettre-fin-a-la-guerre-avec-la-russie_6796922_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien « ne veut pas mettre fin à cette guerre, et ne l’a probablement jamais voulu », a attaqué son homologue américain, sur Truth Social, dans un message justifiant ses récentes décisions favorables à…",
+          "published": "2026-10-18T21:31:57+00:00"
+        },
+        {
+          "title": "Pillages, affrontements, gaz lacrymogènes... de nouvelles violences à Paris, Lyon et Marseille",
+          "link": "https://www.france24.com/fr/france/20261018-pillages-affrontements-gaz-lacrymog%C3%A8nes-de-nouvelles-violences-%C3%A0-paris-lyon-et-marseille",
+          "source": "© AFP, Matthieu Rondel",
+          "summary": "Au lendemain des violences des casseurs, en marge des manifestations du 17 octobre, de nouveaux affrontements et pillages ont éclaté dimanche à Paris, notamment autour de la place de la République et dans le…",
+          "published": "2026-10-18T20:39:08+00:00"
+        },
+        {
+          "title": "Cameroun : Hemley Boum, « Nos vies sauvages » raconte un pays sous emprise",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261018-cameroun-hemley-boum-nos-vies-sauvages-raconte-un-pays-sous-emprise",
+          "source": "France 24",
+          "summary": "Que fait un pouvoir qui dure plus de quatre décennies à un pays et à ses habitants ? Dans son nouveau roman Nos vies sauvages, paru chez Gallimard, l'écrivaine camerounaise Hemley Boum raconte les destins de femmes…",
+          "published": "2026-10-18T20:28:54+00:00"
+        },
         {
           "title": "🔴\"Colère et honte\", \"transparence\" attendue... Ce qu'il faut retenir de l'allocution d'Emmanuel Macron",
           "link": "https://www.france24.com/fr/france/20261018-col%C3%A8re-et-honte-transparence-attendue-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron",
@@ -45,34 +73,6 @@
           "source": "France 24",
           "summary": "",
           "published": "2026-10-18T17:55:32+00:00"
-        },
-        {
-          "title": "À une semaine des législatives en Israël, Trump apporte son \"soutien plein et entier\" à Netanyahu",
-          "link": "https://www.france24.com/fr/moyen-orient/20261018-%C3%A0-une-semaine-des-l%C3%A9gislatives-en-isra%C3%ABl-trump-apporte-son-soutien-plein-et-entier-%C3%A0-netanyahu",
-          "source": "© Jonathan Ernst, Reuters",
-          "summary": "Le président américain a apporté, dimanche 18 octobre, son \"soutien plein et entier\" à Benjamin Netanyahu pour les législatives du 27 octobre en Israël. Le principal rival du Premier ministre israélien, Gadi Eisenkot, a…",
-          "published": "2026-10-18T16:54:20+00:00"
-        },
-        {
-          "title": "Elections législatives en Israël : les candidats inondent la campagne de « deepfakes » générés par l’IA",
-          "link": "https://www.lemonde.fr/international/article/2026/10/18/elections-legislatives-en-israel-les-candidats-inondent-la-campagne-de-deepfakes-generes-par-l-ia_6797124_3210.html",
-          "source": "Le Monde",
-          "summary": "A dix jours du scrutin prévu le 27 octobre, tous les partis en lice s’affrontent à coups de vidéos truquées dans lesquelles leurs adversaires sont tournés en ridicule. L’intelligence artificielle n’a jamais été utilisée…",
-          "published": "2026-10-18T16:30:02+00:00"
-        },
-        {
-          "title": "17 octobre : policiers et experts décrivent une situation \"dramatique\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261018-17-octobre-policiers-et-experts-d%C3%A9crivent-une-situation-dramatique",
-          "source": "France 24",
-          "summary": "\"Etat dépassé\", \"mauvaise anticipation\", \"dispositif policier sous-dimensionné\", défaut \"de réponse politique\": au lendemain d'une mobilisation contre la \"vie chère\" émaillée de violences et pillages, élus, policiers et…",
-          "published": "2026-10-18T16:15:07+00:00"
-        },
-        {
-          "title": "Manifestations du 17 Octobre : Emmanuel Macron prendra la parole à 20h",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261018-manifestations-du-17-octobre-emmanuel-macron-prendra-la-parole-%C3%A0-20h",
-          "source": "France 24",
-          "summary": "Antoine Mariotti analyse la situation.",
-          "published": "2026-10-18T16:02:21+00:00"
         }
       ]
     },
@@ -84,11 +84,25 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Le Canadien | Les trajectoires inverses de Bolduc et Kreider",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-10-18/le-canadien/les-trajectoires-inverses-de-bolduc-et-kreider.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Le chanteur des Classels, Gilles Girard, est décédé",
+          "link": "https://www.ledevoir.com/culture/musique/1017806/chanteur-classels-gilles-girard-est-decede",
+          "source": "Le Devoir",
+          "summary": "Il avait rejoint les quatre musiciens des Special Tones en 1960, groupe qui deviendra Les Classels quatre ans plus tard.",
+          "published": "2026-10-18T22:03:13+00:00"
+        },
+        {
+          "title": "Coupable d’un meurtre en 1984 | Un tueur condamné inscrit à des cours de l’Université McGill",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-18/coupable-d-un-meurtre-en-1984/un-tueur-condamne-inscrit-a-des-cours-de-l-universite-mcgill.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Il a joué au sein du premier avantage numérique, a eu droit à une audition aux côtés de Cole Caufield et Nick Suzuki, mais a fini par perdre ces deux affectations convoitées.",
-          "published": "2026-10-18T19:25:56+00:00"
+          "summary": "En 1984, Jeffrey George Ewert a été reconnu coupable de meurtre au deuxième degré et de tentative de meurtre pour deux évènements distincts, en Colombie-Britannique. Quatre décennies plus tard, malgré sa peine à…",
+          "published": "2026-10-18T21:53:46+00:00"
+        },
+        {
+          "title": "Le chanteur Gilles Girard est mort",
+          "link": "https://www.lapresse.ca/arts/musique/2026-10-18/le-chanteur-gilles-girard-est-mort.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le chanteur du groupe québécois Les Classels, Gilles Girard, est mort à l’âge de 84 ans.",
+          "published": "2026-10-18T21:21:41+00:00"
         },
         {
           "title": "Le nouveau visage de «Cendrillon»",
@@ -119,13 +133,6 @@
           "published": "2026-10-18T17:45:00+00:00"
         },
         {
-          "title": "Mort suspecte: un corps découvert dans un stationnement à Amos",
-          "link": "https://www.journaldemontreal.com/2026/10/18/mort-suspecte-un-corps-decouvert-dans-un-stationnement-a-amos",
-          "source": "Journal de Montreal",
-          "summary": "Une enquête pour mort suspecte est en cours après la découverte d’une personne inconsciente dans un stationnement du centre-ville d’Amos, dimanche.",
-          "published": "2026-10-18T17:41:54+00:00"
-        },
-        {
           "title": "Le Canadien continue d’avoir de la difficulté à se séparer de ses rivaux",
           "link": "https://www.ledevoir.com/sports/1017752/canadien-continue-avoir-difficulte-separer-rivaux",
           "source": "Le Devoir",
@@ -133,8 +140,8 @@
           "published": "2026-10-18T17:10:00+00:00"
         },
         {
-          "title": "Alberta | Au moins quatre morts dans l’incendie sur une base militaire",
-          "link": "https://www.lapresse.ca/actualites/national/2026-10-18/alberta/au-moins-quatre-morts-dans-l-incendie-sur-une-base-militaire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Alberta | Un feu de broussailles a enlevé la vie à quatre militaires canadiens",
+          "link": "https://www.lapresse.ca/actualites/national/2026-10-18/alberta/un-feu-de-broussailles-a-enleve-la-vie-a-quatre-militaires-canadiens.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "La base militaire de Wainwright en Alberta a été le théâtre de « l’une des pires tragédies qu’ont connues les Forces armées canadiennes en sol canadien en temps de paix », a déclaré le premier ministre Mark Carney…",
           "published": "2026-10-18T16:31:58+00:00"
@@ -145,13 +152,6 @@
           "source": "Le Devoir",
           "summary": "Le quotidien en Arabie saoudite est bousculé par les frappes répétées des Houthis contre le royaume.",
           "published": "2026-10-18T16:10:00+00:00"
-        },
-        {
-          "title": "Un prof au secondaire fait quatre victimes | « Il a exploité mon innocence et ma naïveté », confie une victime",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-18/un-prof-au-secondaire-fait-quatre-victimes/il-a-exploite-mon-innocence-et-ma-naivete-confie-une-victime.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Des adolescentes vulnérables. Un jeune prof charmeur. Kevin Parent a profité de sa position d’autorité pour s’en prendre à quatre élèves de 2012 à 2023. Deux adolescentes se sont exprimées mardi dans l’espoir qu’il ne…",
-          "published": "2026-10-18T16:00:00+00:00"
         }
       ]
     },
@@ -159,80 +159,115 @@
       "label": "France",
       "items": [
         {
-          "title": "Défaut d’anticipation, effectifs débordés, bâtiments sans protection : les raisons d’un fiasco sécuritaire",
-          "link": "https://www.lefigaro.fr/actualite-france/defaut-d-anticipation-effectifs-debordes-batiments-sans-protection-les-raisons-d-un-fiasco-securitaire-20261018",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Alors que le pays s’est enfoncé dans le chaos samedi 17 octobre, les forces de l’ordre ont été submergées par le nombre des casseurs et la multiplicité des foyers d’insurrection. Jusqu’à perdre le contrôle…",
-          "published": "2026-10-18T20:06:26+00:00"
-        },
-        {
-          "title": "EN DIRECT - Violences du 17 octobre : les pillages continuent à Paris, des «groupes hostiles» à Châtelet-les-Halles, le BHV vandalisé",
+          "title": "EN DIRECT - Violences du 17 octobre : les pillages se poursuivent en pleine nuit à Paris, des «groupes hostiles» à Châtelet-les-Halles",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-au-lendemain-des-violences-du-17-octobre-la-france-se-reveille-sous-le-choc-20261018",
           "source": "Le Figaro",
-          "summary": "De nouveaux pillages sont recensés à Paris, selon la préfecture de Police ce dimanche soir, notamment à Belleville, Étienne Marcel ou encore Châtelet-les-Halles. 42 interpellations ont eu lieu pour l’heure.",
-          "published": "2026-10-18T20:05:03+00:00"
+          "summary": "De nouveaux pillages sont recensés à Paris, selon la préfecture de Police ce dimanche soir, notamment à Belleville, Étienne Marcel ou encore Châtelet-les-Halles. 92 interpellations ont eu lieu pour l’heure.",
+          "published": "2026-10-18T22:34:57+00:00"
         },
         {
-          "title": "Le jeu trouble de Jean-Luc Mélenchon dans l’engrenage de la violence",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/le-jeu-trouble-de-jean-luc-melenchon-dans-l-engrenage-de-la-violence-20261018",
+          "title": "Un vol reliant Tel Aviv à Vienne dérouté vers la Bulgarie en raison d’une alerte à la bombe",
+          "link": "https://www.lemonde.fr/international/article/2026/10/19/un-vol-reliant-tel-aviv-a-vienne-deroute-vers-la-bulgarie-en-raison-d-une-alerte-a-la-bombe_6797300_3210.html",
+          "source": "Le Monde",
+          "summary": "Selon la compagnie aérienne, Austrian Airlines, 51 passagers et six membres d’équipage se trouvaient à bord de l’avion et une fouille de sécurité a été entamée après son atterrissage à Sofia.",
+          "published": "2026-10-18T22:28:43+00:00"
+        },
+        {
+          "title": "«Un pays plus fracturé que jamais» : la presse étrangère sidérée par les violences en France",
+          "link": "https://www.lefigaro.fr/international/un-pays-plus-fracture-que-jamais-la-presse-etrangere-sideree-par-les-violences-en-france-20261019",
           "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Après les scènes de pillages et d’émeutes urbaines qui ont émaillé la mobilisation du 17 octobre, le leader Insoumis a rejeté la responsabilité du chaos sur le gouvernement, sans dénoncer clairement les…",
-          "published": "2026-10-18T20:04:27+00:00"
+          "summary": "REVUE DE PRESSE - Les images des violences qui secouent la France ont fait le tour du monde. Au-delà de la sidération face aux émeutes, les médias étrangers y voient le symbole d’un pouvoir à bout de souffle et d’un…",
+          "published": "2026-10-18T22:06:26+00:00"
         },
         {
-          "title": "EN DIRECT – Lendemain du 17 octobre : les scènes de dégradations ont repris ce dimanche soir au Forum des Halles à Paris",
+          "title": "«Même si LFI passe, on continuera !» : un dimanche après-midi à République, entre riverains affligés, courses-poursuites avec les CRS et pillages",
+          "link": "https://www.lefigaro.fr/actualite-france/meme-si-lfi-passe-on-continuera-un-dimanche-a-republique-entre-pillages-et-courses-poursuites-avec-les-crs-20261018",
+          "source": "Le Figaro",
+          "summary": "REPORTAGE - Place de la République à Paris, la tension n’est pas retombée et les affrontements entre les manifestants, essentiellement des casseurs, et la police s’est poursuivie en fin d’après-midi ce 18 octobre.",
+          "published": "2026-10-18T22:04:20+00:00"
+        },
+        {
+          "title": "Lyon-Nice : l’OL s’impose dans la souffrance, Athekame impressionne, Nice se réveille trop tard… Les tops et les flops",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-1/lyon-nice-l-ol-s-impose-dans-la-souffrance-athekame-impressionne-nice-se-reveille-trop-tard-les-tops-et-les-flops-20261018",
+          "source": "Le Figaro",
+          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire de l’Olympique Lyonnais face à L’OGC Nice, dimanche soir au Groupama Stadium, en clôture de la 7e journée de Ligue 1.",
+          "published": "2026-10-18T21:58:35+00:00"
+        },
+        {
+          "title": "Trump accuse Zelensky de «ne pas vouloir mettre fin» à la guerre avec la Russie",
+          "link": "https://www.lefigaro.fr/international/trump-accuse-zelensky-de-ne-pas-vouloir-mettre-fin-a-la-guerre-avec-la-russie-20261018",
+          "source": "Le Figaro",
+          "summary": "Le président républicain répète inlassablement le lien qu’il fait entre les attaques ukrainiennes contre les raffineries russes et la flambée des prix du gazole à la pompe.",
+          "published": "2026-10-18T21:53:23+00:00"
+        },
+        {
+          "title": "«Totalement dépassé», «artisan du chaos» : de LFI au RN, la classe politique étrille l’allocution d’Emmanuel Macron, jugée pas à la hauteur de la crise",
+          "link": "https://www.lefigaro.fr/politique/totalement-depasse-artisan-du-chaos-de-lfi-au-rn-la-classe-politique-etrille-l-allocution-d-emmanuel-macron-jugee-pas-a-la-hauteur-de-la-crise-20261018",
+          "source": "Le Figaro",
+          "summary": "Alors que des violences secouent encore Paris ce dimanche soir, l’allocution du chef de l’État n’a pas convaincu les représentants politiques. À gauche, on dénonce l’absence de réponses aux revendications sociales,…",
+          "published": "2026-10-18T21:41:48+00:00"
+        },
+        {
+          "title": "Des scènes de dégradations et de pillages ce dimanche soir près du Forum des Halles à Paris",
           "link": "https://www.liberation.fr/economie/social/en-direct-mobilisation-du-17-octobre-gerald-darmanin-demande-aux-parquets-une-reponse-extremement-ferme-20261018_OXTKJ7XVGFBXXNVJP34RG2BQCI/",
           "source": "Liberation",
           "summary": "Après une journée émaillée d’épisodes violents samedi 17 octobre, Emmanuel Macron a pris la parole ce dimanche à 20 heures pour dire sa «honte» et «colère», sans pour autant faire d’annonces concrètes.",
-          "published": "2026-10-18T19:58:43+00:00"
+          "published": "2026-10-18T21:37:22+00:00"
         },
         {
-          "title": "Violences en France : «Colère et honte», «transparence» demandée, 2027… Ce qu’il faut retenir de l’allocution d’Emmanuel Macron",
-          "link": "https://www.lefigaro.fr/politique/violences-en-france-colere-et-honte-transparence-attendue-2027-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-20261018",
-          "source": "Le Figaro",
-          "summary": "Au lendemain des violences et pillages survenus dans plusieurs villes en marge des manifestations du 17 octobre, le président a promis dimanche soir une réponse ferme contre les casseurs.",
-          "published": "2026-10-18T19:51:04+00:00"
-        },
-        {
-          "title": "Après le 17 octobre, Édouard Philippe s’alarme d’un « niveau de violence hallucinant » et charge LFI",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/apres-le-17-octobre-edouard-philippe-s-alarme-d-un-niveau-de-violence-hallucinant-et-charge-lfi-20261018",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE - Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », au lendemain des saccages qui ont émaillé les manifestations contre la vie chère, le candidat Horizons à la présidentielle estime que « rien ne…",
-          "published": "2026-10-18T19:48:57+00:00"
-        },
-        {
-          "title": "« Les gens sont énervés, il y a beaucoup de colère accumulée » : à Paris, le jour d’après, à l’heure de compter les plaies",
-          "link": "https://www.lemonde.fr/societe/article/2026/10/18/les-gens-sont-enerves-il-y-a-beaucoup-de-colere-accumulee-a-paris-le-jour-d-apres-a-l-heure-de-compter-les-plaies_6797232_3224.html",
+          "title": "EN DIRECT, guerre en Ukraine : Donald Trump accuse Volodymyr Zelensky de « ne pas vouloir mettre fin » à la guerre avec la Russie",
+          "link": "https://www.lemonde.fr/international/live/2026/10/18/en-direct-guerre-en-ukraine-donald-trump-accuse-volodymyr-zelensky-de-ne-pas-vouloir-mettre-fin-a-la-guerre-avec-la-russie_6796922_3210.html",
           "source": "Le Monde",
-          "summary": "Dans plusieurs quartiers, les stigmates des débordements des manifestations du 17 octobre sont visibles sur de nombreuses artères. Entre écœurement et compréhension, chacun tente de trouver un sens aux événements. En…",
-          "published": "2026-10-18T19:44:04+00:00"
+          "summary": "Le président ukrainien « ne veut pas mettre fin à cette guerre, et ne l’a probablement jamais voulu », a attaqué son homologue américain, sur Truth Social, dans un message justifiant ses récentes décisions favorables à…",
+          "published": "2026-10-18T21:31:57+00:00"
         },
         {
-          "title": "Violences du 17 octobre : critiqué de toutes parts, Emmanuel Macron promet d’être « intraitable »",
-          "link": "https://www.lefigaro.fr/politique/violences-du-17-octobre-febrile-le-gouvernement-voit-sa-strategie-de-maintien-de-l-ordre-contestee-20261018",
-          "source": "Le Figaro",
-          "summary": "RÉCIT - De la mobilisation lycéenne jusqu’au chaos du 17 octobre, la réponse du pouvoir exécutif, pris au dépourvu, s’est révélée fluctuante. Évoquant la «honte» et la «colère» face aux violences, Emmanuel Macron a…",
-          "published": "2026-10-18T19:39:39+00:00"
-        },
-        {
-          "title": "Milan, Bologne, Turin… L’Italie également secouée par des scènes de chaos et de pillages",
-          "link": "https://www.lefigaro.fr/international/milan-bologne-turin-l-italie-egalement-secouee-par-des-scenes-de-chaos-et-de-pillages-20261018",
-          "source": "Le Figaro",
-          "summary": "Les affrontements entre émeutiers et policiers ont commencé samedi à Milan en marge d’une manifestation autorisée contre la vie chère. Des scènes de chaos similaires à celle de la France se sont produites dans d’autres…",
-          "published": "2026-10-18T19:38:09+00:00"
-        },
-        {
-          "title": "Mobilisations du 17 octobre : en réponse aux casseurs, Macron évoque des interdictions de manifester",
-          "link": "https://www.liberation.fr/politique/mobilisations-du-17-octobre-en-reponse-aux-casseurs-macron-evoque-des-interdictions-de-manifester-20261018_NJ3T6UWGVRDVNEEA5PL55FU2VM/",
-          "source": "Liberation",
-          "summary": "Dimanche soir, lors d’une allocution télévisée, le chef de l’Etat a proposé un débouché politique encore flou aux manifestants sincères, et demandé des explications au ministre de l’Intérieur sur de possibles…",
-          "published": "2026-10-18T19:28:58+00:00"
+          "title": "\"On a été en sous-nombre toute la journée\" : les forces de l'ordre, asphyxiées par le manque de moyens ?",
+          "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-a-ete-en-sous-nombre-toute-la-journee-les-forces-de-l-ordre-asphyxiees-par-le-manque-de-moyens_8243182.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Près de 1 000 policiers, gendarmes et sapeurs pompiers ont été blessés lors d’affrontement, samedi 17 octobre. Ces derniers ont parfois été débordés par l’ampleur des attaques et des groupes multiples qui ont alimenté…",
+          "published": "2026-10-18T21:05:59+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Votre Plex mine de la crypto Monero à votre insu : voici comment c’est possible",
+          "link": "https://www.frandroid.com/culture-tech/securite-applications/3290191_votre-plex-mine-de-la-crypto-monero-a-votre-insu-voici-comment-cest-possible",
+          "source": "Frandroid",
+          "summary": "Quatre failles Plex combinées permettent de prendre le contrôle d'un serveur multimédia exposé sur Internet, sans mot de passe. Le code d'attaque est public depuis ce vendredi 16 octobre, et des pirates l'utilisent déjà…",
+          "published": "2026-10-18T21:30:44+00:00"
+        },
+        {
+          "title": "Samsung voudrait tout changer avec One UI 10, à commencer par le Galaxy Z Fold 9",
+          "link": "https://www.frandroid.com/marques/samsung/3290067_samsung-voudrait-tout-changer-avec-one-ui-10-a-commencer-par-le-galaxy-z-fold-9",
+          "source": "Frandroid",
+          "summary": "Samsung préparerait pour 2027, voire début 2028, une refonte « sans précédent » de son interface avec One UI 10, d'après le leaker Ice Universe et une source interne citée par le site Nokia Power User. Depuis le…",
+          "published": "2026-10-18T20:53:21+00:00"
+        },
+        {
+          "title": "Nvidia jure que la RTX 5090 n’est pas arrêtée, juste rationnée",
+          "link": "https://www.frandroid.com/marques/nvidia/3290057_nvidia-jure-que-la-rtx-5090-nest-pas-arretee-juste-rationnee",
+          "source": "Frandroid",
+          "summary": "Jeff Fisher, vice-président senior de Nvidia, a démenti le 16 octobre à Taipei l'arrêt de la RTX 5090, mais il a reconnu dans la même réponse que la chaîne d'approvisionnement ne suivait pas. La carte venait de…",
+          "published": "2026-10-18T20:47:10+00:00"
+        },
+        {
+          "title": "Google TV lent et envahi par les pubs : le projet tv-vibehack corrige tout ça grâce à l’IA, j’ai tenté l’expérience",
+          "link": "https://www.frandroid.com/android/google-tv/3290159_google-tv-lent-et-envahi-par-les-pubs-le-projet-tv-vibehack-corrige-tout-ca-grace-a-lia-jai-tente-lexperience",
+          "source": "Frandroid",
+          "summary": "Un dépôt GitHub, une IA et dix minutes : il ne m'en a pas fallu plus pour débarrasser ma télé Philips de ses pubs et lui offrir un accueil façon Apple TV. Ça marche très bien, à condition de savoir ce qu'on touche.",
+          "published": "2026-10-18T20:43:09+00:00"
+        },
+        {
+          "title": "Super Nt+ et Mega Sg+ : Analogue relance ses consoles Super Nintendo et Mega Drive, sans fil cette fois",
+          "link": "https://www.frandroid.com/produits-android/console/console-de-jeux/3289995_super-nt-et-mega-sg-analogue-relance-ses-consoles-super-nintendo-et-mega-drive-sans-fil-cette-fois",
+          "source": "Frandroid",
+          "summary": "Analogue annonce la Super Nt+ et la Mega Sg+, deux consoles FPGA vendues 219,99 dollars (environ 195 euros hors taxes) pour rejouer aux cartouches Super Nintendo et Mega Drive. Les modèles d'origine avaient quitté le…",
+          "published": "2026-10-18T20:15:01+00:00"
+        },
         {
           "title": "Test de la Boox Note Air6 C : le meilleur bloc-notes numérique sous Android ?",
           "link": "https://www.frandroid.com/test/3265011_test-de-la-boox-note-air6-c-le-meilleur-bloc-notes-numerique-sous-android",
@@ -281,41 +316,6 @@
           "source": "Frandroid",
           "summary": "Xiaomi se fait-il prendre à son propre piège en accélérant le rythme de ses sorties ? En tout cas, le nouveau Redmi Note 17 pâlit en comparaison de son aîné, le Redmi Note 15, qui recevait l'an dernier une note bien…",
           "published": "2026-10-18T16:00:00+00:00"
-        },
-        {
-          "title": "Amazon fait -28 % sur ce futuriste chargeur 3-en-1 Ugreen MagFlow Pro Qi2 25W",
-          "link": "https://www.frandroid.com/bons-plans/3288631_amazon-fait-28-sur-ce-futuriste-chargeur-3-en-1-ugreen-magflow-pro-qi2-25w",
-          "source": "Frandroid",
-          "summary": "Le Ugreen MagFlow Pro 3-en-1 est un chargeur qui s'occupe de trois appareils en même temps et qui propose un écran intelligent ainsi qu'un système de refroidissement actif. Il est disponible sur Amazon pour 115,49 euros…",
-          "published": "2026-10-18T15:26:00+00:00"
-        },
-        {
-          "title": "L’IA vous fait croire à des événements qui n’ont jamais existé",
-          "link": "https://www.clubic.com/actualite-634714-l-ia-vous-fait-croire-a-des-evenements-qui-n-ont-jamais-existe.html",
-          "source": "Clubic",
-          "summary": "Quelques photos retouchées par IA, un faux résumé d’une vidéo d’accident, et des centaines de volontaires ont gardé en mémoire des détails inventés de toutes pièces. Dans l’une de ces expériences, les participants ont…",
-          "published": "2026-10-18T15:15:00+00:00"
-        },
-        {
-          "title": "On a tenté de remplacer ChatGPT par une IA gratuite et sans Internet sur le Nvidia RTX Spark (vidéo)",
-          "link": "https://www.frandroid.com/marques/nvidia/3290147_on-a-tente-de-remplacer-chatgpt-par-une-ia-gratuite-et-sans-internet-sur-le-nvidia-rtx-spark-video",
-          "source": "Frandroid",
-          "summary": "Une puce révolutionnaire signée Nvidia peut-elle mettre à la retraite nos abonnements à ChatGPT ou Claude ? On a embarqué un ordinateur portable Asus équipé de la puce ARM Nvidia RTX Spark dans un vol de 11 heures sans…",
-          "published": "2026-10-18T14:37:11+00:00"
-        },
-        {
-          "title": "Cette peau intelligente pourrait rendre les jeux en réalité virtuelle plus immersifs",
-          "link": "https://www.clubic.com/actualite-634711-cette-peau-intelligente-pourrait-rendre-les-jeux-en-realite-virtuelle-plus-immersifs.html",
-          "source": "Clubic",
-          "summary": "Pliez cette feuille de silicone conçue au MIT, et l’écran affiche presque aussitôt sa forme en 3D. Les trois chercheurs en génie mécanique qui l’ont fabriquée l’imaginent un jour cousue dans un vêtement de joueur, même…",
-          "published": "2026-10-18T14:30:00+00:00"
-        },
-        {
-          "title": "À force d'utiliser l'IA, risque-t-on tous de finir par penser pareil ?",
-          "link": "https://www.clubic.com/dossier-634396-a-force-d-utiliser-l-ia-risque-t-on-tous-de-finir-par-penser-pareil.html",
-          "source": "Clubic",
-          "summary": "Il y a les idées que l’IA nous aide à trouver, et celles que ses suggestions nous font peut-être manquer. À mesure que les chatbots prennent place dans notre quotidien, c’est toute la diversité de nos façons de penser,…",
-          "published": "2026-10-18T14:19:00+00:00"
         }
       ]
     }
@@ -325,11 +325,32 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "diabetes drug for weight loss 2022",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iNFhSQTY2dnBOSGFFQXJsay11Y2pOMEtmM3JQbk9Bc1J2ZDg3ZWNTM01panJDSGdwY3ZYZ3ZYM0ZrMmo4MUNmd0Q2R2prakNESU9yV0t0UE9kdlZCOGdqRlNEZkstVVFlWkhCX1ppc29JVElzUWlQWXN3?oc=5",
+          "source": "Meteo.gr",
+          "summary": "diabetes drug for weight loss 2022 Meteo.gr",
+          "published": "2026-10-18T20:25:29+00:00"
+        },
+        {
           "title": "One Blood Type Seems to Carry a Higher Risk of Type 2 Diabetes",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXMzNHpJdUp0bEhXZFFXQ05FekdDOEItUFV3Q2cxZFZJMjNrbmZxLVBrbjVpcGs4STM3dWFsdHQ1dGd2WHNOdXA4NndBcjloSU95VTlQQ0lxZktkeHl6Qm53RG94NzJnTWJsaE1zbWh6UVV4ZS11QkJCM1h6dUd0M1hXdDliTjQ0a09oVGYtcWltZjlic2c?oc=5",
           "source": "ScienceAlert",
           "summary": "One Blood Type Seems to Carry a Higher Risk of Type 2 Diabetes ScienceAlert",
-          "published": "2026-10-18T20:01:58+00:00"
+          "published": "2026-10-18T20:02:50+00:00"
+        },
+        {
+          "title": "Bulgaria Faces Soaring €1.39 Billion Burden from Age-Related Macular Degeneration and Diabetic Macular Edema",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb19WdGRfRmlDLTBOc3pCY3E1ZEFPeDFWLWNQV3UxVkJEdW5UeWo4SmNrU1lSeFdiT1Q0WmJsR09DaHlWN1lLVmRIQ2Z5TEtSaUYxemxLVFhWYU45Ym9ONDlUc1dGY3ZhWFg3UmNIS1F5Q3VhWXY5OUVtb3B0N0ZvTHg2QlQtbkc5Ylg5cDNlMXl3Tks2NUpzMTBId3JfcTBnOXRBeEQ5cFJ5LVlvM2hxYmJiQzR6bG5obkNDZ2pLa2xaVHA2MEMxekhDWFpHQQ?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Bulgaria Faces Soaring €1.39 Billion Burden from Age-Related Macular Degeneration and Diabetic Macular Edema Bioengineer.org",
+          "published": "2026-10-18T19:36:20+00:00"
+        },
+        {
+          "title": "Lilly’s Foundayo pill wins EU panel backing for obesity and diabetes",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlhXbUlkOU1mWUE3WG9VYUdld3AzdVhoaVY0NXhLUlJHNXRGMHJjcldQVGVwbzFBUXVySjA3LUhpTlBLdXZWUWRNSzhUY0JaNlBpX244VHBKdUpkdEFVNFRpc092ZUtCTzhqN2JydkZ3ZXZBVnZMWDc3TjU3VEhULXhLcWFMYTFNZDM0UmtRYXdPZkdveUhTZV9FUExwMGxPcXNpWmZkSkVXTG45YUV6dVZ3ODJNR0hYdkZZTw?oc=5",
+          "source": "finchannel",
+          "summary": "Lilly’s Foundayo pill wins EU panel backing for obesity and diabetes finchannel",
+          "published": "2026-10-18T19:03:35+00:00"
         },
         {
           "title": "Canet-en-Roussillon/ Retour : sur les dépistages du diabète et des déficiences visuelles avec Le LIONS Club Doyen",
@@ -339,11 +360,11 @@
           "published": "2026-10-18T19:02:05+00:00"
         },
         {
-          "title": "GLP-1 drugs linked to lower risk of serious heart-related complications and infections after surgery",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFpyZWtoUy1WWFpjcFdjRWdXSVNfcTZoZjFodzlTdU1aOHZFLTI3dGJWYlI0MUo2aGRNeEZmaWtOUnpkODR6Wm1oWVlTRFVERnhVSElHNVZZQW9qTDc4MjJFRWVqNzRnRU5qRVQybTlnQUFEMEsxVU50b0NTclRQSklDakt2OFE?oc=5",
-          "source": "Medical Xpress",
-          "summary": "GLP-1 drugs linked to lower risk of serious heart-related complications and infections after surgery Medical Xpress",
-          "published": "2026-10-18T18:30:01+00:00"
+          "title": "How I’ve managed diabetes for 30 years — Jide Kosoko",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONzZoMDJmLU0zNVhLMHdQT0xSWmhMXzgzLUFjTF8zQnp0X1FZSmVkcmtPbzA2QlptU2pSUXJwNGlBbzR0U1BEMmg4YWIxVlQ0bkN5Qm1iOExPenJlZEM4Z3AtWEFhLVRtU3Z2R0g5eVg3ZnZMTGdTRWh6YnZuSlNUR0EwQVJSbFZ1bkJTWWs0Rzd4SkZ5OGZpX0U3cE5FSjYyTGFROXpXVUdzc1RDZzZIemFwOVF6UDNhUld4TQ?oc=5",
+          "source": "Premium Times Nigeria",
+          "summary": "How I’ve managed diabetes for 30 years — Jide Kosoko Premium Times Nigeria",
+          "published": "2026-10-18T19:00:42+00:00"
         },
         {
           "title": "Normal blood sugar tests may miss hidden risks to heart health",
@@ -353,17 +374,10 @@
           "published": "2026-10-18T18:17:42+00:00"
         },
         {
-          "title": "Smart Gel Accelerates Healing of Infected Diabetic Wounds",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWVqZmtWUVY4eWV0OU9IaFZYc09RUTBpUDhqbnpSeEJRMXU4TGFBS3JwMXVKN1BsQnp5N19HbTh5ZVc4a3RsZUJVd210SUM2VnBwZi1QOXpvWTNCQnJYYzlaQS1hbWFKUExmbzZHdHVPRkd6Ukc3Nk1ydEZMNHB3czdzcXVISjRwVWc?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Smart Gel Accelerates Healing of Infected Diabetic Wounds Bioengineer.org",
-          "published": "2026-10-18T18:16:27+00:00"
-        },
-        {
           "title": "Jets WR AD Mitchell Opens Up About the Diabetes Battle NFL Fans Never See",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONk9mWl94ekNWcEVQT3lHVUdDc0pLQnc0bXhkSU1teWNYTEp4bzdLVVprVVZfbjJ1R05XWnZoZHNtemZYNmpWNUkzekhmMkpFS3JYT21iNWhENUd1NlI0QzA3U3BMZFBSZllHVnF3eVZVeVB2Qy1JbTBPZlloYlBBWlpGd1JKdmVvUkhRc2N4MVhxMkFIakNtTkZJNFZvOGJTN1dOZVQ1TVhhS0Jy?oc=5",
-          "source": "Men's Journal",
-          "summary": "Jets WR AD Mitchell Opens Up About the Diabetes Battle NFL Fans Never See Men's Journal",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FQUR2M2llZnBwaHhUakFXd1MzS0dSWXJYdUVhcU5IbkVBMEVPYlBLQjI2MXhGTnVnWXJaMDkzT2oyb0IxNFhoV2hnbHc4LUcxaTNDci1KMVJFTUR6cEhuOEtRNnViQ1FRWkhMSnN0V3JfQ0Nsak82TXE2c0E4dw?oc=5",
+          "source": "Yahoo",
+          "summary": "Jets WR AD Mitchell Opens Up About the Diabetes Battle NFL Fans Never See Yahoo",
           "published": "2026-10-18T18:14:35+00:00"
         },
         {
@@ -399,7 +413,7 @@
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNV21FLVo2NURZOVF6R01PYmJEeFppNGZSOW1uUlhRaTVWSEtwRVVTbmlZdEk5VnFqSUhYRVRCNl9uYUR4VWZJMDlITlA4aDlkZ0xzS2dBZVBsZDdXSkdBaTJqeEFVelk0amN2eUU5Wk1nRUt2aC13WTJkWkdiMWxhMVpCTXdLRDJOa0NJdEVIYmFUOGdMX3VMUk51MWNnRnV3UVMwN0wweWJ4SjRSVXhKaTNma3ZjUGY3Q3FWWXlRbGExRDl6TDlsUk1kYmY3RVhxQm9ueTQ0RUFfRTVaczBNQzhBMGw0QWR1d3VzOHY4WHBYeFJFV01zS2pNT1AyZkUxek96Vko5dGVUdlU5Si1ncFlRYzZJbzA?oc=5",
           "source": "Bioengineer.org",
           "summary": "Helcococcus kunzii as a rare etiological agent of spondylodiscitis Bioengineer.org",
-          "published": "2026-10-18T15:21:37+00:00"
+          "published": "2026-10-18T15:56:19+00:00"
         },
         {
           "title": "new drug for type 2 diabetes helps with weight loss",
@@ -556,13 +570,6 @@
           "published": "2026-10-18T00:24:04+00:00"
         },
         {
-          "title": "Tandem Diabetes Care (TNDM) Following App Recall Is The Undervalued Case Still Intact",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa3BuNDNhcGwtTWVuY1haLTNPR0t2aUZGU3BhRjNxejVLMkx4N1V5cUZyenVHbHo1MG5zSmpKR05DelBGM2FZT0FrYXRreVE5b2dlLWRaeFNPVzFuVFJUU2V3aDJVMEpSejhka0ZHQWROZTV5ZWdKX05idTFWbktnZTc1Q2U0dkJUR2F0YVhNWkw0d2E0ZTdpOG51Q2tHZFFkT2Rma0IyRkZWZVRBbkdPcDVhaFhidEc3aFh5bmpYQ2NZbzE4UHJjQTlJY1ZFQmZ3bnUyQTZONXDSAd4BQVVfeXFMTTRtRWN0bFFyakJqM0tMRXRlTWNfenBRcWs3b0VZa2txRVhlSU5meGgwUFlzR1VGWnlGcENhVTdiVnZQMm1EWTIzdllyZGo5VUNqQVRGVS1jNllOaVRJUFg0T3ZuQWs3ZDRqWGhqN29qdWVDWlFGWnFaN2hMQjdleElVaFJHWllxaEVTaVNuUXFjSlZpSTFsR05DYkhaVGxrQTFyeERRd19Ka2V5X3JWZlF4dDJCdmZPVWtBQVlNS05DRVBYQ2VCRzlPNFBiUm1jRzduX1JrZ1pLamtHUXRn?oc=5",
-          "source": "Simply Wall Street",
-          "summary": "Tandem Diabetes Care (TNDM) Following App Recall Is The Undervalued Case Still Intact Simply Wall Street",
-          "published": "2026-10-17T23:45:21+00:00"
-        },
-        {
           "title": "Deion Sanders' daughter Shelomi talks hoops, living with diabetes, being Prime Time's kid",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGJGaGlVS0Y1SlgxTkpxQXA4NUdRVGZqSmphc0VvYTZCaDBidzFPblBjNG50clpxUFUwNHZ2dThyYU1vcjNaLU9MSmowZ3VPZ0E3VzQtaTZKakJBZFJwZmRNUmowRTZQZzVSR0VwSXZEZ3phckZ0U3dpT3Izd3R5M0dHN2c2TTh4NFo1NlY0VlplZVJrelY2dE85bzdVWjhzMkZNY3l4a1N1TEI0NzJaelFydWlpQ1d1aUlNZmtSWjZDWEJWd1hXMTZXR3Q5UER5RHRr?oc=5",
           "source": "USA Today",
@@ -596,13 +603,6 @@
           "source": "Bioengineer.org",
           "summary": "Family, Money and Language Shape Diabetes Self-Care Among Immigrants, Review Finds Bioengineer.org",
           "published": "2026-10-17T16:01:17+00:00"
-        },
-        {
-          "title": "Cooking Classes and Cultural Adaptation Show Promise for Boosting Diabetes Prevention Engagement",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQVpRbjRwZlE5ZWdxemZrYXpmaDh0WXNoYXp4aXRwSHRueUYzelNDRTJRRXI0RDVadFpCWlNqM3FkMUp0N2taNExZN0x0Z1hLOHVyY3V5VFFVOHk2eHVxRHJTZ2tFRXh6X1l1dERHbWd5eW81ZE9INFRLRkVrQXEzSWtoSGNYcGdGdEQycTdlUjNmXzltWkNUU3ItQXgtZHdRS0xKdXlzaTdUcng1MkUyQlpWVm43Ql9JRUU1OV9B?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Cooking Classes and Cultural Adaptation Show Promise for Boosting Diabetes Prevention Engagement Bioengineer.org",
-          "published": "2026-10-17T15:15:26+00:00"
         }
       ]
     }
