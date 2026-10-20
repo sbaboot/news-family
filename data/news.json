@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-10-19T20:22:08.853096+00:00",
+  "generated_at": "2026-10-20T00:06:31.046854+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Les rapatriés d’Indochine obtiennent reconnaissance et réparation de la France, soixante-dix ans après",
+          "link": "https://www.lemonde.fr/politique/article/2026/10/20/les-rapatries-d-indochine-obtiennent-reconnaissance-et-reparation-de-la-france-soixante-dix-ans-apres_6797718_823448.html",
+          "source": "Le Monde",
+          "summary": "Après les députés en 2025, ce sont les sénateurs, lundi, qui ont adopté un texte ouvrant la voie à des « réparations de préjudices » pour le traitement réservé aux milliers de personnes placées dans des camps aux…",
+          "published": "2026-10-20T00:00:42+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accuse Washington de retarder la livraison à Kiev de missiles « déjà payés »",
+          "link": "https://www.lemonde.fr/international/live/2026/10/20/en-direct-guerre-en-ukraine-volodymyr-zelensky-accuse-washington-de-retarder-la-livraison-a-kiev-de-missiles-deja-payes_6796922_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a également assuré que des pays européens étaient prêts à livrer des missiles intercepteurs Patriot, les seuls à pouvoir abattre les engins russes les plus sophistiqués et dont Kiev manque…",
+          "published": "2026-10-19T22:40:35+00:00"
+        },
+        {
+          "title": "Des pluies intenses provoquent des inondations meurtrières dans l'est de Espagne",
+          "link": "https://www.france24.com/fr/europe/20261019-espagne-pluies-inondations-quatre-morts-valence",
+          "source": "© Ana Beltran, Reuters",
+          "summary": "Des pluies diluviennes ont transformé certaines rues en torrents dans l'est de l'Espagne où des centaines d'opérations de sauvetage ont été menées. Le bilan était de quatre morts lundi soir. Les autorités demandent à la…",
+          "published": "2026-10-19T22:28:55+00:00"
+        },
+        {
+          "title": "Manifestations du 17 octobre : près de 3000 commerces vandalisés",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261019-manifestations-du-17-octobre-pr%C3%A8s-de-3000-commerces-vandalis%C3%A9s",
+          "source": "France 24",
+          "summary": "Selon les premiers bilans, près de 3.000 commerces, restaurants et hôtels auraient été pris pour cible par des pillards en marge des manifestations du 17 octobre, il y en aurait pour des centaines de millions d'euros de…",
+          "published": "2026-10-19T22:16:31+00:00"
+        },
+        {
+          "title": "Au Sénégal, des appels à manifester et à une grève générale juste avant les JOJ",
+          "link": "https://www.france24.com/fr/afrique/20261019-senegal-appels-manifester-greve-generale-juste-avant-joj-jeux-olympiques-jeunesse-syndicats",
+          "source": "© Patrick Meinhardt, AFP",
+          "summary": "Le Front syndical pour la défense des travailleurs prévoit une marche mardi à Dakar puis trois jours de grève générale dès mercredi pour exiger l’application d’accords sur les retraites, les primes et l’indemnité…",
+          "published": "2026-10-19T21:46:43+00:00"
+        },
+        {
+          "title": "17 octobre : un couple d'octogénaires agressé et dépouillé à Paris ?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261019-17-octobre-un-couple-d-octog%C3%A9naires-agress%C3%A9-et-d%C3%A9pouill%C3%A9-%C3%A0-paris",
+          "source": "France 24",
+          "summary": "Depuis la manifestation du 17 octobre à Paris, des clichés montrant un couple de personnes âgées en sous-vêtements, prétendument dépouillé par des manifestants, cumulent des millions de vues sur les réseaux sociaux.…",
+          "published": "2026-10-19T21:37:28+00:00"
+        },
+        {
+          "title": "À l'approche des législatives en Israël, Netanyahu met en avant son alliance avec Trump",
+          "link": "https://www.france24.com/fr/moyen-orient/20261019-%C3%A0-l-approche-des-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-met-en-avant-son-alliance-avec-trump",
+          "source": "© Evan Vucci, AP",
+          "summary": "En pleine campagne pour les élections législatives en Israël, Benjamin Netanyahu a affiché, lundi, sa proximité avec Donald Trump en diffusant sur ses réseaux sociaux un appel entre lui et le président américain. Ce…",
+          "published": "2026-10-19T20:35:46+00:00"
+        },
         {
           "title": "En tournée dans le golfe Persique, Emmanuel Macron cherche une issue à la flambée des prix du carburant",
           "link": "https://www.lemonde.fr/international/article/2026/10/19/en-tournee-dans-le-golfe-persique-emmanuel-macron-cherche-une-issue-a-la-flambee-des-prix-du-carburant_6797585_3210.html",
@@ -24,55 +73,6 @@
           "source": "Le Monde",
           "summary": "Dimanche, le président américain a apporté son soutien au premier ministre israélien avant les élections législatives israéliennes très disputées du 27 octobre.",
           "published": "2026-10-19T18:52:52+00:00"
-        },
-        {
-          "title": "Kenya : Paul Mackenzie, reconnu coupable pour le meurtre de 191 personnes",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-kenya-paul-mackenzie-reconnu-coupable-pour-le-meurtre-de-191-personnes",
-          "source": "France 24",
-          "summary": "🇰🇪 Au Kenya, Paul Mackenzie et ses 29 coaccusés ont été reconnus coupables du meurtre de 191 personnes, dont 190 enfants, retrouvées dans la forêt de Shakahola. Le pasteur prêchait le jeûne extrême pour « rencontrer…",
-          "published": "2026-10-19T18:40:44+00:00"
-        },
-        {
-          "title": "Violences lors de manifestations : Gérald Darmanin veut faire passer les gardes à vue de 48 à 72 heures",
-          "link": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-10-19T18:37:03+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : un sommet russo-américano-chinois ne ferait qu’alimenter « l’appétit de grandeur » de Vladimir Poutine, juge le ministre des affaires étrangères ukrainien",
-          "link": "https://www.lemonde.fr/international/live/2026/10/19/en-direct-guerre-en-ukraine-un-sommet-russo-americano-chinois-ne-ferait-qu-alimenter-l-appetit-de-grandeur-de-vladimir-poutine-juge-le-ministre-des-affaires-etrangeres-ukrainien_6796922_3210.html",
-          "source": "Le Monde",
-          "summary": "« Inviter Poutine à une telle rencontre lui conférerait une stature qu’il ne mérite pas. Ce n’est pas un leader mondial ; c’est un criminel de guerre », a estimé Andrii Sybiha, qui plaide en revanche pour un sommet…",
-          "published": "2026-10-19T17:48:56+00:00"
-        },
-        {
-          "title": "Le mandat de Giorgia Meloni, des marges italiennes au cœur de la politique européenne",
-          "link": "https://www.lemonde.fr/international/article/2026/10/19/le-mandat-de-giorgia-meloni-des-marges-italiennes-au-c-ur-de-la-politique-europeenne_6797578_3210.html",
-          "source": "Le Monde",
-          "summary": "« Meloni, quatre années au pouvoir » (1/6). La présidente du conseil affiche le plus long mandat d’un chef de l’exécutif de l’histoire de la République italienne. « Le Monde » raconte en six épisodes comment, sans rien…",
-          "published": "2026-10-19T17:46:49+00:00"
-        },
-        {
-          "title": "Au Chili, le monde de la culture s’émeut des coupes budgétaires prévues par José Antonio Kast",
-          "link": "https://www.lemonde.fr/international/article/2026/10/19/au-chili-le-monde-de-la-culture-s-emeut-des-coupes-budgetaires-prevues-par-jose-antonio-kast_6797577_3210.html",
-          "source": "Le Monde",
-          "summary": "Le ministère de la culture voit son budget 2027 chuter de 10 % dans le projet présenté par le gouvernement d’extrême droite. Les artistes dénoncent une attaque sans précédent, qui touche aussi les lieux de mémoire de la…",
-          "published": "2026-10-19T17:40:14+00:00"
-        },
-        {
-          "title": "Panthère rose arrêtée, Paris en feu, Philippe Etchebest… ces images du 17 octobre sont fausses",
-          "link": "https://www.france24.com/fr/france/20261019-panth%C3%A8re-rose-arr%C3%AAt%C3%A9e-paris-en-feu-philippe-etchebest-ces-images-du-17-octobre-sont-fausses",
-          "source": "© X",
-          "summary": "Sur les réseaux sociaux, de nombreuses images prétendent documenter la journée de mobilisation nationale en France du 17 octobre contre la vie chère et les violences qui sont survenues en marge. Un certain nombre de ces…",
-          "published": "2026-10-19T16:54:10+00:00"
-        },
-        {
-          "title": "Bilan, finances, énergies fossiles... les enjeux de la COP17 biodiversité d’Erevan",
-          "link": "https://www.france24.com/fr/plan%C3%A8te/20261019-bilan-finances-%C3%A9nergies-fossiles-les-enjeux-de-la-cop17-biodiversit%C3%A9-d-erevan",
-          "source": "© Emrah Gurel, AP Photo",
-          "summary": "La 17e conférence mondiale (COP17) sur la biodiversité a démarré, lundi, à Erevan, en Arménie. Quatre ans après l’ambitieux accord de Kunming-Montréal, qui avait fixé une vingtaine d’objectifs à atteindre d’ici 2030, la…",
-          "published": "2026-10-19T16:40:30+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Ancien collaborateur de La Presse | John Parisella obtient un doctorat honorifique de McGill",
-          "link": "https://www.lapresse.ca/actualites/2026-10-19/ancien-collaborateur-de-la-presse/john-parisella-obtient-un-doctorat-honorifique-de-mcgill.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "France | « Je n’aimerais pas être à la place du gouvernement en ce moment »",
+          "link": "https://www.lapresse.ca/international/europe/2026-10-19/france/je-n-aimerais-pas-etre-a-la-place-du-gouvernement-en-ce-moment.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "John Parisella, ancien organisateur politique, diplomate canadien et chroniqueur dans les médias, dont La Presse, a obtenu ce lundi un doctorat honorifique de la part de l’Université McGill.",
-          "published": "2026-10-19T20:14:37+00:00"
+          "summary": "À quelques mois de l’élection présidentielle, la crise sociale qui secoue la France a de fortes implications politiques, alors que le gouvernement vient d’imposer des couvre-feux « partiels et très localisés » dans le…",
+          "published": "2026-10-19T23:45:00+00:00"
         },
         {
-          "title": "Les trois actus du 20 octobre",
-          "link": "https://www.ledevoir.com/actualites/1018046/trois-actus-20-octobre",
-          "source": "Le Devoir",
-          "summary": "Orélien aurait plagié «Le Devoir», la CAQ veut sa place à l’Assemblée nationale et jour de vote en Alberta: ce qu’il faut retenir.",
-          "published": "2026-10-19T20:09:43+00:00"
-        },
-        {
-          "title": "Au tour des libéraux de prêter serment au peuple québécois",
-          "link": "https://www.ledevoir.com/politique/quebec/1018040/tour-liberaux-preter-serment-peuple-quebecois",
-          "source": "Le Devoir",
-          "summary": "Le PLQ passe lui aussi outre le serment au roi, mais ne fait pas l’impasse de l’anglais.",
-          "published": "2026-10-19T19:42:07+00:00"
-        },
-        {
-          "title": "Métro de Montréal | La STM va remplacer une soixantaine d’escaliers mécaniques",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-19/metro-de-montreal/la-stm-va-remplacer-une-soixantaine-d-escaliers-mecaniques.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Relance de la mine à Murdochville | Peut-on encore fermer une ville ?",
+          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-10-19/relance-de-la-mine-a-murdochville/peut-on-encore-fermer-une-ville.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "La Société de transport de Montréal (STM) s’engage à réparer un escalier mécanique sur cinq dans le réseau du métro d’ici 2031. En incluant les nouvelles infrastructures du futur prolongement de la ligne bleue,…",
-          "published": "2026-10-19T19:39:10+00:00"
+          "summary": "Fermer un village pour ouvrir une mine ?",
+          "published": "2026-10-19T23:00:00+00:00"
         },
         {
-          "title": "Haïti: quatre soldats de la force contre les gangs portés disparus après une attaque",
-          "link": "https://www.journaldemontreal.com/2026/10/19/haiti-quatre-soldats-de-la-force-contre-les-gangs-portes-disparus-apres-une-attaque",
+          "title": "Le fédéral «n’imagine pas» désigner tout le Québec comme zone où accélérer les projets",
+          "link": "https://www.ledevoir.com/politique/canada/1018106/federal-imagine-pas-designer-tout-quebec-comme-zone-ou-accelerer-projets",
+          "source": "Le Devoir",
+          "summary": "Le projet de loi C-39 propose la création de «régions d’intérêt national» qui sont mal définies, selon ses détracteurs.",
+          "published": "2026-10-19T22:59:00+00:00"
+        },
+        {
+          "title": "Le futur ministre de la Culture interpellé dans une lettre ouverte «pour l’avenir de nos musiques»",
+          "link": "https://www.ledevoir.com/culture/musique/1018094/futur-ministre-culture-interpelle-lettre-ouverte-avenir-musiques",
+          "source": "Le Devoir",
+          "summary": "Une trentaine d’organismes du milieu musical misent sur la «découvrabilité hors ligne» des œuvres d’ici.",
+          "published": "2026-10-19T22:34:38+00:00"
+        },
+        {
+          "title": "Prestation de serment des députés libéraux | Le PLQ n'a pas terminé sa « reconstruction »",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-10-19/prestation-de-serment-des-deputes-liberaux/le-plq-n-a-pas-termine-sa-reconstruction.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Malgré une députation qui a doublé, la « reconstruction » du Parti libéral du Québec (PLQ) n’est pas terminée, prévient Charles Milliard. En contexte minoritaire, il se place comme le « gouvernement en attente » et tend…",
+          "published": "2026-10-19T22:20:16+00:00"
+        },
+        {
+          "title": "Plan stratégique: la Ville de Bécancour veut s’attaquer au vieillissement de ses infrastructures",
+          "link": "https://www.journaldemontreal.com/2026/10/19/plan-strategique-la-ville-de-becancour-veut-sattaquer-au-vieillissement-de-ses-infrastructures",
           "source": "Journal de Montreal",
-          "summary": "Quatre soldats salvadoriens membres de la Force de répression des gangs (FRG) soutenue par l'ONU sont portés disparus lundi en Haïti.",
-          "published": "2026-10-19T19:14:37+00:00"
+          "summary": "Le vieillissement des infrastructures représente l’un des plus grands défis de Bécancour pour les dix prochaines années.",
+          "published": "2026-10-19T22:12:58+00:00"
         },
         {
-          "title": "Trump veut changer le nom du Nouveau-Mexique pour «Nouvelle-Amérique»",
-          "link": "https://www.journaldemontreal.com/2026/10/19/trump-veut-changer-le-nom-du-nouveau-mexique-pour-nouvelle-amerique",
+          "title": "Le Canadien rassemble encore, de Charlevoix jusqu’au Québec tout entier",
+          "link": "https://www.journaldemontreal.com/2026/10/19/le-canadien-rassemble-encore-de-charlevoix-jusquau-quebec-tout-entier",
           "source": "Journal de Montreal",
-          "summary": "Donald Trump souhaite changer le nom de l'État du Nouveau-Mexique pour «Nouvelle-Amérique».",
-          "published": "2026-10-19T19:14:07+00:00"
+          "summary": "Ils étaient 36, partis de Drummondville, samedi midi, à bord de l’autobus des Voltigeurs, en direction de Charlevoix.",
+          "published": "2026-10-19T22:10:00+00:00"
         },
         {
-          "title": "Saint-Michel | Un incendie jette une centaine de locataires à la rue",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-19/saint-michel/un-incendie-jette-une-centaine-de-locataires-a-la-rue.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Un incendie majeur, qui a mobilisé plus de 150 pompiers et forcé le sauvetage de plusieurs locataires coincés aux étages supérieurs, a ravagé un immeuble à logements à l’intersection des boulevards Crémazie et…",
-          "published": "2026-10-19T19:13:27+00:00"
-        },
-        {
-          "title": "L’opposition à Montréal veut convoquer le chef du SPVM",
-          "link": "https://www.ledevoir.com/actualites/justice/1018028/opposition-montreal-veut-convoquer-chef-spvm",
+          "title": "Québec reporte à 2028 le déploiement complet des guichets pour accélérer les diagnostics de cancer",
+          "link": "https://www.ledevoir.com/actualites/sante/1018070/quebec-reporte-2028-deploiement-complet-guichets-accelerer-diagnostics-cancer",
           "source": "Le Devoir",
-          "summary": "Fady Dagher doit revenir s’expliquer après de nouvelles allégations visant un policier qui aurait uriné sur un sans-abri.",
-          "published": "2026-10-19T18:58:04+00:00"
+          "summary": "L’objectif, qui devait initialement être atteint en 2026, a entre autres été ralenti par le manque de personnel.",
+          "published": "2026-10-19T21:57:00+00:00"
         },
         {
-          "title": "Des éditeurs de presse canadiens poursuivent l’entreprise d’IA Anthropic",
-          "link": "https://www.ledevoir.com/culture/1018022/editeurs-presse-canadiens-poursuivent-entreprise-ia-anthropic",
+          "title": "Une trentaine de familles à la rue après un incendie majeur dans l’est de Montréal",
+          "link": "https://www.ledevoir.com/actualites/societe/1018088/trentaine-familles-rue-apres-incendie-majeur-est-montreal",
           "source": "Le Devoir",
-          "summary": "Le géant américain de l’intelligence artificielle aurait porté atteinte à leurs droits d’auteur.",
-          "published": "2026-10-19T18:40:12+00:00"
+          "summary": "On ne rapporte aucun blessé grave ni de décès.",
+          "published": "2026-10-19T21:49:06+00:00"
         },
         {
-          "title": "Escapade nordique pour Yannick Nézet-Séguin et l’OM chez Deutsche Grammophon",
-          "link": "https://www.ledevoir.com/culture/musique/1018019/escapade-nordique-yannick-nezet-seguin-om-deutsche-grammophon",
+          "title": "Une voie cyclable de la rue de Terrebonne sera retirée pour l’hiver",
+          "link": "https://www.ledevoir.com/politique/montreal/1018091/voie-cyclable-rue-terrebonne-sera-retiree-hiver",
           "source": "Le Devoir",
-          "summary": "Un rare concerto pour violon avec une grande soliste, publié presque en catimini par le label jaune.",
-          "published": "2026-10-19T18:38:00+00:00"
+          "summary": "L’arrondissement invoque une baisse d’achalandage importante pendant la saison froide pour justifier sa décision.",
+          "published": "2026-10-19T21:49:00+00:00"
         }
       ]
     },
@@ -159,80 +159,101 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT - Violences urbaines : les gardes à vue pourront passer de 48 à 72 heures pour «crime organisé», couvre-feux à Paris, Lyon, Nice et Lille",
+          "title": "EN DIRECT, manifestations du 17 octobre : Laurent Nuñez, venu lundi soir à Marseille, promet au maire davantage de forces de l’ordre pour encadrer la prochaine manifestation prévue samedi",
+          "link": "https://www.lemonde.fr/societe/live/2026/10/20/en-direct-manifestations-du-17-octobre-laurent-nunez-venu-lundi-soir-a-marseille-promet-au-maire-davantage-de-forces-de-l-ordre-pour-encadrer-la-prochaine-manifestation-prevue-samedi_6795855_3224.html",
+          "source": "Le Monde",
+          "summary": "Benoît Payan, qui avait réclamé la venue à Marseille du ministre de l’intérieur, a salué, lundi soir, une discussion « franche » et « salutaire ». L’édile avait vivement critiqué, depuis samedi, un sous-effectif des…",
+          "published": "2026-10-20T00:02:48+00:00"
+        },
+        {
+          "title": "Le nombre de morts sur les routes de France métropolitaine recule de 5 % sur un an",
+          "link": "https://www.lemonde.fr/societe/article/2026/10/20/le-nombre-de-morts-sur-les-routes-de-france-metropolitaine-recule-de-5-sur-un-an_6797685_3224.html",
+          "source": "Le Monde",
+          "summary": "En septembre, 268 personnes ont été tuées sur les routes tricolores, soit 15 de moins qu’un an plus tôt, selon la Sécurité routière. En revanche, le nombre de blessés graves a progressé de 15 %, sur la même période.",
+          "published": "2026-10-19T23:27:49+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accuse Washington de retarder la livraison à Kiev de missiles « déjà payés »",
+          "link": "https://www.lemonde.fr/international/live/2026/10/20/en-direct-guerre-en-ukraine-volodymyr-zelensky-accuse-washington-de-retarder-la-livraison-a-kiev-de-missiles-deja-payes_6796922_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président ukrainien a également assuré que des pays européens étaient prêts à livrer des missiles intercepteurs Patriot, les seuls à pouvoir abattre les engins russes les plus sophistiqués et dont Kiev manque…",
+          "published": "2026-10-19T22:40:35+00:00"
+        },
+        {
+          "title": "Météo-France place neuf départements du Sud en vigilance orange pour la journée de mardi",
+          "link": "https://www.franceinfo.fr/environnement/meteo/la-lozere-bascule-en-vigilance-orange-pluie-inondation-rejoignant-le-gard-et-l-herault-egalement-en-alerte-pour-des-risques-de-crues-et-d-orages-violents_8243632.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Il s'agit de l'Aveyron, des Bouches-du-Rhône, du Gard, du Var, du Vaucluse, de l'Hérault, de la Lozère, de l'Ardèche et de la Haute-Corse, pour des alertes pluie-inondation, orages et crues.",
+          "published": "2026-10-19T22:07:14+00:00"
+        },
+        {
+          "title": "Narcobanditisme : journée sous tension au procès de l’assassinat du demi-frère d’Amine Kessaci",
+          "link": "https://www.lemonde.fr/societe/article/2026/10/19/narcobanditisme-journee-sous-tension-au-proces-de-l-assassinat-du-demi-frere-d-amine-kessaci_6797619_3224.html",
+          "source": "Le Monde",
+          "summary": "Le président de la cour d’assises a dû suspendre l’audience momentanément après un geste d’Amine Oualane interprété comme une menace visant les parties civiles. Le jeune homme, considéré comme un des principaux leaders…",
+          "published": "2026-10-19T21:52:22+00:00"
+        },
+        {
+          "title": "Le ministre de l'Intérieur promet \"un dispositif policier plus nombreux\" à Marseille pour la nouvelle journée de manifestation prévue samedi",
+          "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-ministre-de-l-interieur-promet-un-dispositif-policier-plus-nombreux-a-marseille-pour-la-nouvelle-journee-de-manifestation-prevue-samedi_8244700.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Laurent Nuñez s'est déplacé dans la cité phocéenne lundi soir. Il s'est entretenu pendant 45 minutes avec le maire Benoît Payan.",
+          "published": "2026-10-19T21:50:21+00:00"
+        },
+        {
+          "title": "Cristiano Ronaldo suspendu 30 jours pour avoir quitté sans autorisation le stage de la sélection portugaise",
+          "link": "https://www.franceinfo.fr/sports/foot/cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-portugaise_8244691.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le Conseil de discipline de la Fédération portugaise de football avait ouvert une procédure disciplinaire contre la star, après son départ en plein rassemblement.",
+          "published": "2026-10-19T21:37:52+00:00"
+        },
+        {
+          "title": "EN DIRECT - Violences urbaines : couvre-feux à Paris, Lyon, Nice et Lille, Nuñez promet un «dispositif très important» samedi prochain",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-violences-manifestations-pillages-degats-paris-allocution-macron-17-octobre-emutes-20261019",
           "source": "Le Figaro",
           "summary": "Des couvre-feux ont été mis en place ce lundi soir dans certains quartiers à Paris, Lyon, Nice et Lille. 2513 gardes à vue, 67 personnes incarcérées, et des «dizaines d’informations judiciaires» ont été ouvertes, a…",
-          "published": "2026-10-19T20:19:03+00:00"
+          "published": "2026-10-19T21:33:02+00:00"
         },
         {
-          "title": "Violences urbaines : Gérald Darmanin sort l’artillerie lourde du Code de procédure pénale",
-          "link": "https://www.lefigaro.fr/flash-actu/violences-urbaines-gerald-darmanin-sort-l-artillerie-lourde-du-code-de-procedure-penal-20261019",
-          "source": "Le Figaro",
-          "summary": "Le ministre de la justice tape du poing sur la table demandant que ceux qui ont «trahi la République» soient lourdement poursuivis et punis.",
-          "published": "2026-10-19T20:17:57+00:00"
-        },
-        {
-          "title": "Midterms 2026 : comment Barack Obama et les Clinton se mobilisent pour les démocrates",
-          "link": "https://www.lefigaro.fr/international/midterms-2026-comment-barack-obama-et-les-clinton-se-mobilisent-pour-les-democrates-20261019",
-          "source": "Le Figaro",
-          "summary": "Les trois anciens cadres du parti Démocrate reviennent sur le devant de la scène pour tenter de récupérer les deux chambres, aux mains des Républicains, à l’occasion des élections de mi-mandat du 3 novembre.",
-          "published": "2026-10-19T20:15:12+00:00"
-        },
-        {
-          "title": "Main d’un mineur arrachée à Saint-Étienne : plaintes déposées contre l'auteur du tir et Laurent Nuñez",
-          "link": "https://www.lefigaro.fr/actualite-france/main-arrachee-a-saint-etienne-plaintes-deposees-contre-l-auteur-du-tir-et-laurent-nunez-20261019",
-          "source": "Le Figaro",
-          "summary": "Dans sa plainte déposée devant la Cour de justice de la République, Me Yassine Bouzrou reproche au ministre de l’Intérieur d’avoir réautorisé l’usage de grenades malgré les risques de mutilation.",
-          "published": "2026-10-19T20:13:44+00:00"
-        },
-        {
-          "title": "Violences du 17 octobre : le ministre de l'Intérieur Laurent Nuñez est à Marseille, entretien en cours avec le maire Benoît Payan",
-          "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-paris-lyon-et-nantes-touches-par-de-nouveaux-heurts-et-pillages-dimanche-au-moins-108-interpellations-dans-la-capitale_8243455.html#xtor=RSS-3-[lestitres]",
+          "title": "Des couvre-feux partiels mis en place à Paris, Lyon, Lille et Nice après un week-end de violences et de pillages",
+          "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/des-couvre-feux-partiels-mis-en-place-a-paris-lyon-lille-et-nice_8244511.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Initialement attendu en début d'après-midi, Laurent Nuñez est arrivé vers 21h30.",
-          "published": "2026-10-19T20:13:23+00:00"
+          "summary": "Dans la capitale, seuls les secteurs des Halles et de la place de la République sont concernés. Dans le Nord et à Nice, les interdictions de circulation concernent uniquement les mineurs.",
+          "published": "2026-10-19T21:26:14+00:00"
         },
         {
-          "title": "Violences du 17 octobre : la ministre des Outre-mer reconnaît \"les difficultés du quotidien\" et en appelle \"à la responsabilité de chacun\"",
-          "link": "https://la1ere.franceinfo.fr/violences-du-17-octobre-la-ministre-des-outre-mer-en-appelle-a-la-responsabilite-de-chacun-et-reconnait-les-difficultes-du-quotidien-1749705.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Alors que plusieurs territoires des Outre-mer sont touchés par des incidents et des violences urbaines depuis le 17 octobre, Naïma Moutchou explique s'être entretenue lundi 19 octobre avec les préfets Outre-mer sur les…",
-          "published": "2026-10-19T20:08:04+00:00"
-        },
-        {
-          "title": "«Pas une seule fois je n’ai baissé le regard», assure Amine Kessaci au procès de l’assassinat de son frère",
-          "link": "https://www.liberation.fr/societe/police-justice/pas-une-seule-fois-je-nai-baisse-le-regard-assure-amine-kessaci-au-proces-de-lassassinat-de-son-frere-20261019_DENHHAQOLFGMDDKWD57GTUTNII/",
-          "source": "Liberation",
-          "summary": "Sous haute surveillance policière, les cinq personnes accusées du triple narchomicide, commis en 2020, ont été entendues pour la première fois, ce lundi 19 octobre, devant la cour d’assises des Bouches-du-Rhône.",
-          "published": "2026-10-19T20:06:16+00:00"
-        },
-        {
-          "title": "Violences du 17 octobre : découvrez la carte des villes concernées par les couvre-feux",
-          "link": "https://www.lefigaro.fr/actualite-france/violences-du-17-octobre-decouvrez-la-carte-des-villes-concernees-par-les-couvre-feux-20261019",
+          "title": "Guerre en Ukraine : Zelensky accuse les États-Unis de retarder la livraison de missiles intercepteurs à l'Ukraine",
+          "link": "https://www.lefigaro.fr/flash-actu/guerre-en-ukraine-zelensky-accuse-les-etats-unis-de-retarder-la-livraison-de-missiles-intercepteurs-a-l-ukraine-20261019",
           "source": "Le Figaro",
-          "summary": "Matignon a annoncé de premiers couvre-feux pour lundi et mardi à partir de 20 heures et jusqu’à 6 heures du matin dans quatre communes du Nord.",
-          "published": "2026-10-19T20:03:05+00:00"
-        },
-        {
-          "title": "Violences : Laurent Nuñez est arrivé à Marseille pour rencontrer le maire",
-          "link": "https://www.liberation.fr/societe/en-direct-violences-du-17-octobre-sebastien-lecornu-convoque-une-reunion-crise-20261019_4DH7XPWBNZHJFHVAQ2YZQPS52Q/",
-          "source": "Liberation",
-          "summary": "Le ministre de l’Intérieur a rencontré Benoît Payan ce lundi 19 octobre au soir tandis qu’un couvre-feu partiel a été décrété dans plusieurs villes, dont Paris, Lyon et Nice.",
-          "published": "2026-10-19T20:02:43+00:00"
-        },
-        {
-          "title": "« Je n’ai jamais vu ça » : les étudiants étrangers médusés par les scènes de violences partout en France",
-          "link": "https://etudiant.lefigaro.fr/article/etudes/je-n-ai-jamais-vu-ca-les-etudiants-etrangers-meduses-par-les-scenes-de-violences-partout-en-france-20261019/",
-          "source": "Le Figaro",
-          "summary": "REPORTAGE - Venus en France pour étudier dans les meilleures écoles et universités d’Europe, ces jeunes internationaux se retrouvent plongés dans un climat délétère. Le Figaro Étudiant est allé à leur rencontre.",
-          "published": "2026-10-19T20:00:00+00:00"
+          "summary": "S’exprimant devant des sénateurs américains lundi soir, Volodymyr Zelensky a assuré que «le Pentagone retarde la livraison de missiles déjà payés» par les Européens pour l’Ukraine dans le cadre du programme PURL.",
+          "published": "2026-10-19T21:20:45+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "\"La première d'une longue série\", Elon Musk va donner une action SpaceX à des millions d'enfants",
+          "link": "https://www.clubic.com/actualite-634951-la-premiere-d-une-longue-serie-elon-musk-va-donner-une-action-spacex-a-des-millions-d-enfants.html",
+          "source": "Clubic",
+          "summary": "Elon Musk s’est engagé, lundi soir sur son réseau social, à offrir une action SpaceX à chaque enfant américain en 2027. Le don est évalué à plus de 10 milliards de dollars, et ne serait qu'un début.",
+          "published": "2026-10-19T21:00:00+00:00"
+        },
+        {
+          "title": "OVHcloud alerte ses clients : changez tous les secrets stockés sur votre PC",
+          "link": "https://www.frandroid.com/culture-tech/securite-applications/3291645_ovhcloud-alerte-ses-clients-changez-tous-les-secrets-stockes-sur-votre-pc",
+          "source": "Frandroid",
+          "summary": "Le 19 octobre 2026, un pirate a glissé un programme dans l'outil officiel en ligne de commande d'OVHcloud. Il est passé par le compte GitHub d'un développeur de l'entreprise.",
+          "published": "2026-10-19T20:51:56+00:00"
+        },
+        {
+          "title": "Après le GPS et Google Maps, Spotify tente le QR code pour traquer le partage de compte",
+          "link": "https://www.frandroid.com/services/streaming-musical/3291639_apres-le-gps-et-google-maps-spotify-tente-le-qr-code-pour-traquer-le-partage-de-compte",
+          "source": "Frandroid",
+          "summary": "Spotify demande désormais à certains membres de ses abonnements Famille de scanner, en personne, un QR code affiché sur le téléphone du titulaire. Sans scan sous sept jours, le compte repasse en gratuit et ne peut plus…",
+          "published": "2026-10-19T20:49:07+00:00"
+        },
         {
           "title": "Toyota Corolla électrique : le modèle le plus vendu passe enfin au 100 % électrique",
           "link": "https://www.clubic.com/actualite-634945-toyota-corolla-electrique-le-modele-le-plus-vendu-passe-enfin-au-100-electrique.html",
@@ -295,27 +316,6 @@
           "source": "Frandroid",
           "summary": "Ce lot, on le doit à Anker et sa marque dédiée Eufy, qui propose quatre caméras pour l'intérieur et l'extérieur ainsi qu'une base pour faciliter l'installation. Il est en promo à 160,55 euros au lieu de 379 euros sur…",
           "published": "2026-10-19T16:35:00+00:00"
-        },
-        {
-          "title": "☕️ Les États-Unis bannissent l’IA chinoise DeepSeek dans l’administration civile fédérale",
-          "link": "https://next.ink/brief-article/les-etats-unis-bannissent-lia-chinoise-deepseek-dans-ladministration-civile-federale/",
-          "source": "Next",
-          "summary": "Le département états-unien de la Sécurité intérieure (DHS) ordonne le retrait des produits DeepSeek et services tiers utilisant le modèle d’IA chinois des systèmes informatiques des agences civiles fédérales, rapporte…",
-          "published": "2026-10-19T16:24:34+00:00"
-        },
-        {
-          "title": "L'informatique quantique va-t-elle rendre obsolète toute la cryptographie actuelle des PME ?",
-          "link": "https://www.clubic.com/dossier-630031-l-informatique-quantique-va-t-elle-rendre-obsolete-toute-la-cryptographie-actuelle-des-pme.html",
-          "source": "Clubic",
-          "summary": "Des pirates informatiques stockent des données chiffrées dans plusieurs secteurs, en attendant qu'un ordinateur quantique suffisamment puissant puisse les déchiffrer. Si les PME françaises ne sont pas concernées par…",
-          "published": "2026-10-19T16:24:00+00:00"
-        },
-        {
-          "title": "250€ de moins sur la barre de son Samsung HW-S810D chez Boulanger aujourd'hui",
-          "link": "https://www.clubic.com/bons-plans-634798-de-moins-sur-la-barre-de-son-samsung-hw-s810d-chez-boulanger-aujourd-hui.html",
-          "source": "Clubic",
-          "summary": "Boulanger affiche la Samsung HW-S810D à 399 €, 250 € sous son prix de référence, et Darty comme Cdiscount suivent. Cette barre 3.1.2 très fine, livrée avec son caisson sans fil, vise les salons sans place pour des…",
-          "published": "2026-10-19T16:09:00+00:00"
         }
       ]
     }
@@ -324,6 +324,83 @@
     "actualites": {
       "label": "Actualites diabete",
       "items": [
+        {
+          "title": "The 450,000-square-foot facility, located at the former site of the Joslin Diabetes Center along Brookline Avenue, is expected to feature 300 inpatient beds across 10 floors.",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnlxcGRvaFNpTXlvbEZ3elVBQUk5VGcyY2Jxenp1dzdqR2NOZGluNmZTbFhJQkQ2VjlLbXNrZ0hILUtFb2pMZHNDdGFaSEhmZmk4YlRLSjJYbVlWLVJ6SFpvbzFJdHlUUXBqTURZSGxUYUpYYU8yTlBhMmFiM3pCZTZycnVvN3pXOXY1TEJtTUhTbmI2cFYwaERPdXlmWHlXQTlueDNwU2FsZGRXOTViajF1RVZvNVBVM3U3N0xoZU5tcjM1LS1rekwwcnVlaTgyNU00SGpmOHB4dw?oc=5",
+          "source": "Facebook",
+          "summary": "The 450,000-square-foot facility, located at the former site of the Joslin Diabetes Center along Brookline Avenue, is expected to feature 300 inpatient beds across 10 floors. Facebook",
+          "published": "2026-10-19T23:49:43+00:00"
+        },
+        {
+          "title": "Real-world renoprotective effects of polyethylene glycol-loxenatide in type 2 diabetes: a multicenter, ambispective cohort study",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvbmNyel9OZ3pkVlhmaG8wWVltcktYOEF0LWtnZzFPT19UQ056XzJyMlpfU2s4RVRTYnpNOHphRjFGZGlwNWpMT01RMnFFWnJhVDQ1STNUMWJMWXJWcXVR?oc=5",
+          "source": "Nature",
+          "summary": "Real-world renoprotective effects of polyethylene glycol-loxenatide in type 2 diabetes: a multicenter, ambispective cohort study Nature",
+          "published": "2026-10-19T23:41:31+00:00"
+        },
+        {
+          "title": "Form 4 Tandem Diabetes Care Inc: Jean-Claude Kyrillos (EVP & Chief Operating Officer) For: 15 October",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRnBXZEtpTTUta3NTZ0RSUnBrVjkxTGFPLTAwc1JiZVlQOXhUZ0dMQ0xieFZLUTRvdmJ4MlEtUXJEamxqRFl0ZVlaOUM4Rzh5bHM3NTBQbUZad2FLamhzbFc3RHI2RWVjaGhVMWx3V090OVVFT3FycGprZEZ1LUR2TVoxcFRIcmRDc2Q5SVgxd0pHd1pMd0t2Uy1PSXFaT0J4YVh0Z0pnd0Nwd1l2aE5rcGhKUnBiUkpvLXNaUkJBZ1RrcDNmYUpZbE5YWTU4VVhIamtPNUNtdk5yWWJHbi1QVGY2NHBFdFRKWkRyUg?oc=5",
+          "source": "Investing.com Canada",
+          "summary": "Form 4 Tandem Diabetes Care Inc: Jean-Claude Kyrillos (EVP & Chief Operating Officer) For: 15 October Investing.com Canada",
+          "published": "2026-10-19T23:08:40+00:00"
+        },
+        {
+          "title": "Adult-Onset Autoimmune Diabetes in a Physician: Diagnostic Uncertainty and Insulin Acceptance in a Case Consistent With Latent Autoimmune Diabetes in Adults (LADA)",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmNoSFFSOUJicW9WN3NnZTY4VDJtNnFrcEpQQ25KMzQzLUtVSm9GX0RDanB4alNYVS1sekpLaU9sMS1VeWRxVl9NS2RWczNiT0NXQ1ItVHNCMUhkdk9NenluWW9CYnoxU0g3bWNDN0F2emJ6YjF4SmxXeVBJYzMxTm9JWVF4YTB4MXF2ZktadkVVV083d2tWWHpodW9pQXBaTi10MU1TcUVxNUhoanlzWS1YcnJXUW5vcElySWxDMkRCbGxtd1BaT2xOWl9hWjc3XzhFRDR1OFk4aWFHSF9xcHJZSjhzUVdDbTRicW44OHBBeHVLRzlqREttaDNDeHF0ZUR1bWVGWmttcmhndUFkcXV0MU90Z1ZpM0VpOTRnZHp4Uno1eXc?oc=5",
+          "source": "Cureus",
+          "summary": "Adult-Onset Autoimmune Diabetes in a Physician: Diagnostic Uncertainty and Insulin Acceptance in a Case Consistent With Latent Autoimmune Diabetes in Adults (LADA) Cureus",
+          "published": "2026-10-19T22:36:45+00:00"
+        },
+        {
+          "title": "After a COO stock conversion, Tandem Diabetes Care (TNDM) withheld 1,926 shares for taxes; none were sold.",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFBRMVBVYjE2UlRlb3NRTzJSSFJvUGY0aGFfRWtQZ2xvQTBfcF9zTTVZeUJYYmNzTk5nR1l0NFYyUi1rbXBFc1hJaXUtZ0RTN2UtbVNTMElKSkpIcjROY2NSMGZUMGhLVDdTekM1LTV5Z1ZjQm9jRkx3b3N0aklXM2VQSXRTSkRNYUw5ZjZ6YUsxNzRCRDhBcHI2MU5jU2VRVUpSWE56aE4xTGNhMVRpUmFHOFNBbHpiWnc?oc=5",
+          "source": "Stock Titan",
+          "summary": "After a COO stock conversion, Tandem Diabetes Care (TNDM) withheld 1,926 shares for taxes; none were sold. Stock Titan",
+          "published": "2026-10-19T22:20:32+00:00"
+        },
+        {
+          "title": "U of I Extension, DMH offer free diabetes education class",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnVIcWtUeXlqa3UwS1Q4OVVZdHNyR3FhdnFzZm4tTksxdEhkVEJjNFFXc1V4TUtZdnhySHdfNTlnQWRoR3lRMTExSDdtbEFIY1RzZmRSYmF6TV9MYXRrelh2NmxSb1JkZHJTalRsckVvaGYxczBFVm16bTc4OG4zMC0zS2ZrUTY2Q0JlaFFJSFdQNVBHV2cyOURn?oc=5",
+          "source": "wandtv.com",
+          "summary": "U of I Extension, DMH offer free diabetes education class wandtv.com",
+          "published": "2026-10-19T22:04:00+00:00"
+        },
+        {
+          "title": "Breakthrough T1D hosts North Texas benefit walks and luncheon for Type 1 diabetes",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLU9OR2RrSEJqYzA3MHY3QmRkZ1pvMUFyaVJzcjZJN1ItalhNMWEtOVdZNUZlU3Bhdlg3MXVPLTVrd0RqNzE0bmZXQzZrbFZHbGwtX2FjOGNKT1MxWWhPMGtjN3RaMy1tVW5TaF9iekF4aFAxcVFyU2cyVWhtMDFpc29MZmRSMmVkem55c1VGNEthSDZqXzJMdWNFLXl0UWVwTW1UNHE4S1EtLUVZMDRCbG90a2FOOU5MWkE?oc=5",
+          "source": "CBS News",
+          "summary": "Breakthrough T1D hosts North Texas benefit walks and luncheon for Type 1 diabetes CBS News",
+          "published": "2026-10-19T21:44:00+00:00"
+        },
+        {
+          "title": "Healthcare Network establishes Florida's first integrated FQHC model for pediatric type 1 diabetes care",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUzkxQXVENl9mdElHallQTHI1bEZsR3pYWjFMVjd1emVqQ3RacVVGVGxWRFpWdUZCMVlMT3JvWmx4RTRBNlVEaTRGNzI2S2c0NUMyT2pkLUxrbS1odlJwQ0FZTFlXbjFwRGMtNnVEcmJ6MXNsU1RTNXZ4R0pQYVFpMktoOG9NbXNkNURnWkVQTVlNenVYenItSGhiUVNXcDJNa21Yc3EtbFM3THczN0VsaFFTZUtiY3NmNWE0OEJ0VUZDVDIzcmhFdUx1RDN1Zw?oc=5",
+          "source": "Priority Marketing",
+          "summary": "Healthcare Network establishes Florida's first integrated FQHC model for pediatric type 1 diabetes care Priority Marketing",
+          "published": "2026-10-19T21:17:45+00:00"
+        },
+        {
+          "title": "The domestic outpatient prescription market for diabetes treatment is expected to exceed 2 trillion",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFRXcyR0I2Ykd3aEtzbkcwQU50WFBadUFIbE1xblUybU9kTTQ0czVDVEVUZ21kdWtiQUZMTHlteFJHTWp0aXMyLW8tMA?oc=5",
+          "source": "매일경제",
+          "summary": "The domestic outpatient prescription market for diabetes treatment is expected to exceed 2 trillion 매일경제",
+          "published": "2026-10-19T21:15:29+00:00"
+        },
+        {
+          "title": "Scientists see new vocal patterns associated with type 2 diabetes",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGUtUmE1ZllGYURQT2JFVHZvMEtlbGpKdkpKcmc4MEVic0Fjd1U3aDV2c3NqTUt1VUExZEk3UjljVko1My1EYmJqMEd5S0NCaHNLV0lmUG1fN0lCRURTZUFWcWIyQ2c4eHlONjNEOVVxVnpCWDFqTjViaWhNOGdobThXbjY?oc=5",
+          "source": "Medical Xpress",
+          "summary": "Scientists see new vocal patterns associated with type 2 diabetes Medical Xpress",
+          "published": "2026-10-19T20:40:09+00:00"
+        },
+        {
+          "title": "Diabetes Conversation Tool Pleases Docs, but Misses the Mark on Clinical Outcomes",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1abWhHVkdSUi1HZ2RFQjI4YjZ4R240bGZMLUxCWkVLVF9mUExTYUc5UnBfTUc0X3ZLSnFiMkM1VWVzbG94RXJnNGprQl9XRGJDVkF5Q21JdUlicFZxODB2b2VVNE1KMDQ?oc=5",
+          "source": "MedPage Today",
+          "summary": "Diabetes Conversation Tool Pleases Docs, but Misses the Mark on Clinical Outcomes MedPage Today",
+          "published": "2026-10-19T20:35:11+00:00"
+        },
         {
           "title": "GLP-1 drugs linked to lower kidney failure risk in bipolar disorder",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDl0TllUeDEtWjBrdlRKbFdkQ1NlTVBranVwWVJsalFCd1lzYW9lNnVuTWgyanUwb0QyT3RMbXp6LXNITDJNRTFGWThNRkc2MzdjNnQwYjR2cVcxaFR1amtkSFI5aHJYSEF0dnIwaG03b0ZRajRDZk5vbENid0NFYQ?oc=5",
@@ -337,13 +414,6 @@
           "source": "KOHA.net",
           "summary": "5 aliments à consommer chaque semaine pour maintenir une glycémie stable KOHA.net",
           "published": "2026-10-19T19:22:00+00:00"
-        },
-        {
-          "title": "eli lilly new diabetes drug weight loss",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0lfc1EzQTRPTUdkNUlvRkMzc1JiS3A3TFB5MkRNS3JHZWZMdFJtd2tQWHFtR2F5RDJaRDk0bUQ1d2I5a2FyZDVDV1VIdzE1RFNidkZzSXFjQWw5N2xqX184VmdxMzBoWktsQXBKdVZRNmdxeEdlTEJrRWFIMzFoVg?oc=5",
-          "source": "Meteo.gr",
-          "summary": "eli lilly new diabetes drug weight loss Meteo.gr",
-          "published": "2026-10-19T19:21:41+00:00"
         },
         {
           "title": "5 Ways to Balance Blood Sugar at Every Meal, According to Dietitians",
@@ -381,6 +451,13 @@
           "published": "2026-10-19T18:57:00+00:00"
         },
         {
+          "title": "Concurrent Thyroid Storm and Diabetic Ketoacidosis Associated With Evolving Autoimmune Diabetes in a Patient With Untreated Hyperthyroidism",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMUtQQkdUaDJBa21GdXNZTUw0OV9EX3hXOW5Pb3BBRzlnQ0lLa2t3RE40dDZiVGRXdGdQaVl1UVNJOFU3b2p5VjFBQXp4RllteWhQRVUyRTJ5a3UtMmUybjdYa2lRdzJfMkRkS0xUeDZLUGIydnlmRmFQZDE1QmhpVWZyWElfbzdBdnZOeDBxRUFWR3RFRlpONF9CLXpWcm1mVzhMVWJIYUdNWEMxdlpsWHFDWktFV24zRmpRSlhLTk5hcDdCYUpXcW0yOVZVZW1DSlVZbEoyc1Q0Ym9OSkg1dWVjVk9XTXVFYlVURU96d0JqZnZhT0IySE5rdXVsSUJpSFZWVWxKTDR5Zw?oc=5",
+          "source": "Cureus",
+          "summary": "Concurrent Thyroid Storm and Diabetic Ketoacidosis Associated With Evolving Autoimmune Diabetes in a Patient With Untreated Hyperthyroidism Cureus",
+          "published": "2026-10-19T18:36:46+00:00"
+        },
+        {
           "title": "Manger trop de viande rouge pourrait favoriser le diabète de type 2, selon une étude",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSFdLSnFTbGdFMjJFQUQ2MXFHdUhrQUdtY19pZmNzUXA3ek9qdVRBTko5QlZMbFM0RHRROTA1bC1BV25QdTY2UWtvOFpfQnhzS3UwTzFvcExYNGoyWW1RVjZpTUhjcDEzU0tEaVVjSjMxQnVmVzNtUlBBVGo0aHlxR0h6T0xxTnRrdnllazFUa2Zkc3BjRlRlUmdPSm5UWnVSaENMV2hsei1obTBUQWFWOFFOTzZiS013MlphMEp5LUVZaGl0ZTF4LU5SWjdxV0NSakx1UmN5YUREUEYxRGJ2X2dQWmhxZXM?oc=5",
           "source": "Top Santé",
@@ -402,6 +479,13 @@
           "published": "2026-10-19T18:20:14+00:00"
         },
         {
+          "title": "Miro1 mediates skeletal muscle insulin resistance in type 2 diabetes",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ISm45WVY0cW5IZWhkSzlMNS1IQW5IbEl6MFRaTDBTbkdVbVh3NkxoV3JpQ2VLSWE5YlNIUG9kY1NmMXpTOEs2Y284dnozZ3hHdHFndVFZVW1RVzE2c1Jj?oc=5",
+          "source": "Nature",
+          "summary": "Miro1 mediates skeletal muscle insulin resistance in type 2 diabetes Nature",
+          "published": "2026-10-19T18:05:05+00:00"
+        },
+        {
           "title": "Keeping the Love of Food with Type 2 Diabetes",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjMyY0pnWU1wcmQ3aUtDOGtvZnBaUFNPSkRsZjlMWndWRXVYRU5UcFV4djIxMHJ6MlJsYktNRWhMZFJqaGN2VWFMLV9WcEJMRm5id01jNVZnZlJ2ZWRCMWVWS0Ixemgxa2VMdEtYaVJqbi1fenloOXpIbFhrb0ZKQjZ4SVJlQUs1NVcxODJ1b1ZtWkhMYV80dVo3MA?oc=5",
           "source": "The Times Weekly",
@@ -414,13 +498,6 @@
           "source": "Franklin County Free Press",
           "summary": "Keystone Health to Hold Free Diabetes Health Fair Nov. 7 Franklin County Free Press",
           "published": "2026-10-19T17:46:26+00:00"
-        },
-        {
-          "title": "Efforts to prevent diabetes through new programme",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2NLRUdPdWF3ZzVXdDFERW0zWVh1M2ItQXI2RGEtOWJiX3VzVktHRGRPYUFsRzk3blRJNTJsMURTeE0xSFpRWlJSclJFYmtnUVN4bmloSFQ5czBGcDFQdjJhakFwWHprTDhDR1ZkX3hlek9zYnlCeFgzZ3ZSbVdPVk9ieTZPMU9Bd0xCOGMyZDFKcEpTZnc?oc=5",
-          "source": "Yahoo",
-          "summary": "Efforts to prevent diabetes through new programme Yahoo",
-          "published": "2026-10-19T17:32:42+00:00"
         },
         {
           "title": "Efforts to prevent diabetes in Jersey through new programme",
@@ -444,11 +521,32 @@
           "published": "2026-10-19T16:59:02+00:00"
         },
         {
+          "title": "Investigation of the Effects of Calendula officinalis on Gingival Tissue in Streptozotocin-Induced Diabetic Rats",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZm5FeHktb3hZbHpBeFB2S3BNdjF5V3ktQUhMU2VoZ0REVWhfMFF0WjRoUVp1Yk5HM084b3d0Wm9HNzRHdkp5cy1pR1NnSS1XM0J6dVREZEVUNEozemFZRGtKeDVLQXc0WWt4UnFWS1JIVGJWRWl6QlI2OVVaQlN1MVZ2SEszdzRORHIyUzhCdlA0amFNd2poOHZDOXhEeEZUY0xzdG9tMDRVWXo2S3JRNkJIRnladmFpM1RNN01fVHpLMWJQUk56bWJpbXF3TzBFTXpmMW5PNGxSUERXbHA0UEV0OEdyUQ?oc=5",
+          "source": "Cureus",
+          "summary": "Investigation of the Effects of Calendula officinalis on Gingival Tissue in Streptozotocin-Induced Diabetic Rats Cureus",
+          "published": "2026-10-19T16:51:33+00:00"
+        },
+        {
+          "title": "Looking Earlier: Searching for the First Signs of Diabetes Risk in Children",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1BfbzJlUTJKYzRHakUyc3VlUE14dVoyNWd1dTJaa1NGSW9YbmpoVmp1d1l5YTJtMWc4RzlKel91U2xxcUZkMjB2OWhiTS1MUzZCSHl5X2REaEdCMElJYm9RNmpRRmV0SUdmamhQallmLTJzWm0wZzU5QTIyQVphQkI3OXFXZjJJMF8zNFNvSm50MjQ3bHJNczhFSWVNZnc?oc=5",
+          "source": "UTHSC News",
+          "summary": "Looking Earlier: Searching for the First Signs of Diabetes Risk in Children UTHSC News",
+          "published": "2026-10-19T16:37:52+00:00"
+        },
+        {
           "title": "Miro1 protein linked to insulin resistance in type 2 diabetes",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUV4TEo2aDYweEI3S3F5S2dqU2g2c0NRTDdMUXJ1TGNvSUZWRjJBakdILVhsZF92YVduVnFnMHkyZ0J2ajFzUndTaGNSTDJEcDlUVkV5N0RNbFNqTk1CREx6RkxEYkJfZzdFVjJPaDRWRXRlalRDSk4xbW9sNGR6R2xxY3RHRURHTE9wQ01CTkJlUFl1NHNmb2JSQzNjemEtVnI5Tk5PcVNzZGxYbEE?oc=5",
           "source": "News-Medical",
           "summary": "Miro1 protein linked to insulin resistance in type 2 diabetes News-Medical",
           "published": "2026-10-19T16:35:00+00:00"
+        },
+        {
+          "title": "OKC Scientists Find Protein Linked To Type 2 Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHl6Z2hqUFBtQVljS3g5OUdfSjNJZ2FIZzdtc1RCY05iY1FDZHR0cm9oSFNQMmxobWdfbTJDS2QyOWxKakEzTzVkWVBwVUZvUVNkd3JaNXZjdVlSdXdobVB2QUZlMzV5YUllVXRBOTJwZWJLMTdFalU1dVlZM1RFZThLZ1lVY0swQmF1LVVzbGRZem9hT3hfUEFtTmdCY05fNUxLUUl2b2Rlak02N01mRFNNdEFSbmJJb0Z3?oc=5",
+          "source": "NewsRadio 1000 KTOK",
+          "summary": "OKC Scientists Find Protein Linked To Type 2 Diabetes NewsRadio 1000 KTOK",
+          "published": "2026-10-19T16:33:00+00:00"
         },
         {
           "title": "The GLP-1 access gap in type 2 diabetes isn’t coverage — it’s physician awareness | HSES 2026",
@@ -458,10 +556,17 @@
           "published": "2026-10-19T16:26:08+00:00"
         },
         {
+          "title": "Treating Depression in Type 2 Diabetes: New Review Weighs Mood, Metabolism and Heart Risk",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd3dzV2JfS041eGQtcDBRMWlrVEszV1FGc0hxR3pvakJDZHNFdy0wUDJaekp4SGJWSEk4MkU4TmpxQjZnSVdrNVBESGlfNEo4NWtuaVUzRW05Ujluc3h1Y2RNUlVudXFYamI2OWpjODRNLW5JWUwwc2NWeU5NbUJVRTFGOXRhZEZhMFJCMk4zS1pFTWM2VWRfeWlzTEpSZlg5MEkzeEgwTHBvY3JBMDVNUHZn?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Treating Depression in Type 2 Diabetes: New Review Weighs Mood, Metabolism and Heart Risk Bioengineer.org",
+          "published": "2026-10-19T16:16:57+00:00"
+        },
+        {
           "title": "U of I Extension, Decatur Memorial Hospital offer free diabetes program",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa1FGQnBjZkhya3o1ZW5HRDRNNTlZaEpqVEptbzZOdkpHOVpzZm1TWUJKMWpxUS1sdnNHZUd6aXVGQmZSaHp0aWt5TS1RWGN4SnVwdFNUSWZBRS1WTUtIeFFEaGhwbWZ5WkxnVlNPTEpXS3ROdzRvLTR3VlBCUGJOVVNsejRQV2pYSXJLTS1PcDNlaUJ2VkVsOTdZYlQ5LUJLTFc5S3pfNHNxaDNXUW9FY2dkTlprWS1wRTNTNUVYdEkxcHpqUUplXzVPWjkwUGxOaHd5UFl0aG56NmMyNkJKdDVkem9uS2ZrMjAxZ0xBdGw?oc=5",
-          "source": "FOX Illinois",
-          "summary": "U of I Extension, Decatur Memorial Hospital offer free diabetes program FOX Illinois",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOHFKUU1zMlRHLUw1MVZ2Vmt0MkZSNl9yaHBxeUZieDVlbUpqQ3RKQ180SDloWnNtQ2lLcVBfemwydlgtVkx3UFBoQ2V5RHJPM0dmVlhqNE5LdFpIbzBOVEdwVVFrd3dtSEhFZG4zMGJrcUpWWWRkZWI0U19EZUFGVEh4U0VxUHpfSEhwS21IVEdPWXhqd2RxTGxsUEt0LWhLd05WOGJSbHptckZpNkZmUnlNekt2MTJtLUp1Z1NXTUJrUEFZOXlrckVEYnFoOW5DalJIQzJXSUJkRmpjano4ZEVYWmxLRjVIR2IzRG0wcDR2cVk?oc=5",
+          "source": "NewsChannel20",
+          "summary": "U of I Extension, Decatur Memorial Hospital offer free diabetes program NewsChannel20",
           "published": "2026-10-19T16:04:00+00:00"
         },
         {
@@ -472,18 +577,11 @@
           "published": "2026-10-19T16:00:19+00:00"
         },
         {
-          "title": "‘Silence Has Never Saved a Single Life’ Advocates Says as Paterson Establishes Diabetes Day",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVkFwTkhWaTRlZjVCUjItMGpfaE53ajhscC00cVVHeFZsb0Z1VnlUa28wUEJkeS1TMEk2MjB2aDVXdEVZaFpsU2ROS2JMalAtc3gtT2hQRzF2cFYtazlIS3Bld041eVpHeXU2Vy03VHJyV2RnX2I3akcxYWotSDFwcU90MV9iaExfSWJqMk5zUTkzSlRoUmZpdl81MHVaQVgxNkV2T09KNU1jMUpzaXpJVXY1SkZYNzlhZ2xyX3BNNHpfbkMzSkF4WXotdm9uVjRJQ1lF?oc=5",
-          "source": "TAPinto",
-          "summary": "‘Silence Has Never Saved a Single Life’ Advocates Says as Paterson Establishes Diabetes Day TAPinto",
-          "published": "2026-10-19T15:50:48+00:00"
-        },
-        {
           "title": "AAO 2026: Closing the Screening Gap in Diabetic Retinopathy",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hQTnNza1FGSkk4SFNsN0tTbUdnSU13MWtjaFRlZ0w4S3gzb0RtTnhoa0lVWGFnZU9GZ000Wndqc0p6a1ZpX2VGbDA4ODN0akttZmRFcTlmZ0NnTnZCVzFOdFRfR2ZYaVp0QWZUa29NY1ZUbjlvOS1QQ3Rrd0IyUExfZ0g5dXRCbGZwOFRvU3RxN04wRFVWRTFSWWVHTHJaSkxOTFp5Vng3N1B3WWFURw?oc=5",
           "source": "The American Journal of Managed Care",
           "summary": "AAO 2026: Closing the Screening Gap in Diabetic Retinopathy The American Journal of Managed Care",
-          "published": "2026-10-19T15:50:35+00:00"
+          "published": "2026-10-19T15:52:22+00:00"
         },
         {
           "title": "Helping children diagnosed with prediabetes or diabetes",
@@ -493,116 +591,18 @@
           "published": "2026-10-19T15:33:57+00:00"
         },
         {
+          "title": "Voice frequency patterns reveal clues linked to type 2 diabetes",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVJjU2VFazkweURhV3BOT1otWVJlcTV5Nm9OSHFYczVtUnVyTnNQRGdqMnpaRUZSZFQzM0V6QVg1VWtDRlJhdzFMZWdsbEZQLTFVaWo0OEVZNVd0clUzTFVFSXhzNUJRdEtuVnBMM2dKYkpOS3VqQ29US3pMckoyMHhHdXY5MnRDVEFxajl4SXN1OHFkRWxrTENmeFBEZy01c1QtYjhkeU82VjcxNWVCVg?oc=5",
+          "source": "News-Medical",
+          "summary": "Voice frequency patterns reveal clues linked to type 2 diabetes News-Medical",
+          "published": "2026-10-19T15:27:00+00:00"
+        },
+        {
           "title": "Breakthrough T1D Golf Tournament Hits Solana Beach",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbk82RktNNWRZcEMzMThHUnlPaWVHNEp2OWdtM3EyNUw2T2VEUjhKOHZ3U2JCanFsd0c3WDhscGVYXzFsT1Q0S29IMjRrOC1pQmkwbzJVWktoakZxZ1F2Y2Z2SkhsWEFydWlRbEhjVzVGZlpCd21qekZGQWtrbjVKNDVDMVg1SEc0ZmZLdU1rREROWV9UUkdYZk5najY0aThQdzdFVXRnbjhYUQ?oc=5",
           "source": "Hoodline",
           "summary": "Breakthrough T1D Golf Tournament Hits Solana Beach Hoodline",
           "published": "2026-10-19T15:21:52+00:00"
-        },
-        {
-          "title": "New Triple-Action Drug Helps People With Diabetes Lose Up to 15% of Their Body Weight",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWG9ZcEFTYlBvWWliR2gtWWFfNWZMeTBiM1hEUG5xRXNkRElYbDhoZThvWkxKLWNiaF9pN3dLSlkzOG5kTmxzUGFtemoyQk1XOFRYYU5MeXc5SmxuUDZfc1lfbGhhc2ZfUmVuaXhaOUQ0Nm1zTFRRaV9IX1h2cjFmbHpBVDBDTWxQaVlFd2xGWVFqZl9fVnhXMXhWdlFWRVN0cDdlMWViWU95bFNpamp3?oc=5",
-          "source": "SciTechDaily",
-          "summary": "New Triple-Action Drug Helps People With Diabetes Lose Up to 15% of Their Body Weight SciTechDaily",
-          "published": "2026-10-19T14:46:10+00:00"
-        },
-        {
-          "title": "Advancing Ketone Monitoring for Type 1 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVEFORElwUkM4MWZmQnJaR29yYThhaDhsbGJmZ1U2Z184NUlqOExXbVFSa2plZnhNSFIwc2lTTHFuU0RwY1RRbkxfbWJTdV80UVdta1Frd3lmeDdJUjc4amtia01yUkxxdjNoRmRSNzdncF9yUlp3TlNJV3Y1ZW5zOW9fb0I5a2pWLTdNQnNB?oc=5",
-          "source": "Breakthrough T1D",
-          "summary": "Advancing Ketone Monitoring for Type 1 Diabetes Breakthrough T1D",
-          "published": "2026-10-19T14:37:08+00:00"
-        },
-        {
-          "title": "GLP-1 drugs linked to lower kidney failure risk in bipolar disorder | Newswise",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdVpTMEY1MXNPdnRtclVOTzVEQWU5cTB0SnY4ZmpUdW4tWXNzVm8yMnNndXBfd3Rhel9qN2M5aktOS2JKbVB0X0xUcDAtM3FJdDlLdG8zSFpNcnNxcm5pRjlLQVVBMkg4R3FuMVB4c00wT3N5amMyUWRWR2FSU2t0TWQ3d0ZYTVRnQnFpblNValpzTWZEY0RRd2JHeUZaY0NibThn0gGjAUFVX3lxTE91WlMwRjUxc092dG1yVU5PNURBZTlxMHRKdjhmalR1bi1Zc3NWbzIyc2d1cF93dGF6X2o3YzlqS05LYkptUHRfTFRwMC0zcUl0OUt0bzNIWk1yc3FybmlGOUtBVUEySDhHcW4xUHhzTTBPc3lqYzJRZFZHYVJTa3RNZDd3RlhNVGdCcWluU1VqWnNNZkRjRFF3Ykd5RlpjQ2JtOGc?oc=5",
-          "source": "Newswise",
-          "summary": "GLP-1 drugs linked to lower kidney failure risk in bipolar disorder | Newswise Newswise",
-          "published": "2026-10-19T14:30:00+00:00"
-        },
-        {
-          "title": "FDA clears Sequel’s insulin delivery system in Type 2 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmNJbl94WTFqQXdZaE4xSjdDVW1ROEpSNUlvOS03ZEFUOXlUbzAwT1BzNVZjZzMtZVhyOGlUQVdIRHp1alk4dkNMWnNKcWFpOUs3S2VfMDVqSURHOExzTklSdE5pSUtVQkRlQnlrdkRmZi1iaWZlMWUycFNKcEROMlhIRDkwTkc3V19hSndNbWxGaFVMdXk1NWVRTDVmV2hRNlcyZg?oc=5",
-          "source": "MedTech Dive",
-          "summary": "FDA clears Sequel’s insulin delivery system in Type 2 diabetes MedTech Dive",
-          "published": "2026-10-19T14:18:31+00:00"
-        },
-        {
-          "title": "FDA clears Sequel Med Tech’s twiist system for type 2 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYll5emZVZXF3eE9KU2ZMZmhubGRjeHlEN0hoTDlTeThBMHNMbFlPczF5SEFUemMxU1pNYnB4eEZsSXN3MWFHU0FiRXFiVGNLbmZBRFlCWk85RjZoeGxmeGw2R3Y5N0RpeWlnU0ltekVRVlN4ZUZBVzRrWlcxNkZQaWZrcHg?oc=5",
-          "source": "Medical Device Network",
-          "summary": "FDA clears Sequel Med Tech’s twiist system for type 2 diabetes Medical Device Network",
-          "published": "2026-10-19T14:15:45+00:00"
-        },
-        {
-          "title": "Low Fat Vegan Diet Cuts Liver Fat 33% In Adults With Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fLWFUS0RqQi01X1FkSll5OEk5YUtLMTdWbGpOdlVJd2hnenpZU1k1d0Z0ckJDQUhEcWlhSFg2TmxoeTloSjVHVnpvczcxaTdwajBPVVhSSFRkWXhkeUlGVG1wSFZiWXRmNTVwWkdlWQ?oc=5",
-          "source": "Dr. Axe",
-          "summary": "Low Fat Vegan Diet Cuts Liver Fat 33% In Adults With Type 2 Diabetes Dr. Axe",
-          "published": "2026-10-19T14:03:09+00:00"
-        },
-        {
-          "title": "Injection Needles Market To 2035: Diabetes Care and Biologics Fuel Forward Growth - News and Statistics",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdHNyMmxOOGtDbE1kM3BBd2FQMnR1d2VWTTBTMkF3anRMLWFvYnBLUE4zR3RpU3R2azFUMUU0dE5mcXhaZHJlcWdsOWhtcEZrcHpyXzlDSExudkl5LTJMdlp2dmd0UDdicEg2Z0Nza1kzeE44cVM4NzhTbWNNUWwxaklsQzhYQnFNeEw0U1NyaGphaFBxMDhZaEFpRGFPanBkNFdPeHdxQ3h2eWlKYTJheFBOMTJ5MElGR2xnb2lqcFVDSTM2ejc3aFJHd3U?oc=5",
-          "source": "IndexBox",
-          "summary": "Injection Needles Market To 2035: Diabetes Care and Biologics Fuel Forward Growth - News and Statistics IndexBox",
-          "published": "2026-10-19T13:51:05+00:00"
-        },
-        {
-          "title": "Reformulated Biologic Shows Duration in Diabetic Retinopathy",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0Q3dV9heS1YVDZjZlJFcmFwTlBNTkFLTGRXdmpuNl9FLWlSWnZEc1FzUHJnbEltVF84dUlSQjNzX0lFM0djQkpRY3FlZ0pOZlFOVVVxSnRrWHkwV2F0ZlVaVTVtdTktdUp4NElkano0bnNFbVZBQzZ6SzJacVRyNE56cktoY1ZYQ1N0Y1o5RlBXVXdTdm5sLXpiLXVsYkUtOGlCSFA3a0Q1bXM?oc=5",
-          "source": "Medscape",
-          "summary": "Reformulated Biologic Shows Duration in Diabetic Retinopathy Medscape",
-          "published": "2026-10-19T13:50:44+00:00"
-        },
-        {
-          "title": "Glucose Monitors Can Help Type 2 Diabetics Who Don't Yet Need Insulin, Trial Shows",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR1VTRTRpNlMydGstVVlfaElvWXFaSm5rZ08tZ0ZJWGo3dlU5OVpKOHFaS3ZSY0pPTkdRX1o2amltaFVjVk8xc3oybnFDbVRQT3V0SExsejU2WjNuck9xZUNmNTFQMXktVUxMVG0wTnByUHdjNkxQQU5mWHp3Sk9zVzkyV0paTkx6N0RLbHFqUVBwb1lzQUgwNDJydGxNNklmUFZLdC1iR1ppMFE3TGloSTU2dGRreHgzVkx5SjlDdW05ZkowRXJsYnVvZU9mbGs0VC1oU3dhQQ?oc=5",
-          "source": "U.S. News & World Report",
-          "summary": "Glucose Monitors Can Help Type 2 Diabetics Who Don't Yet Need Insulin, Trial Shows U.S. News & World Report",
-          "published": "2026-10-19T13:48:00+00:00"
-        },
-        {
-          "title": "weight loss trend diabetes drug",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12Y2U2LUVWSXNqYU51Tm5oM0V1RGxCNVpUZkYyTkt5NUlMY1ZCa1E1R3JFa2QtZGE5dkJmc2xPOTZ1OW9vOG9XZGRmd3ByMGIxd0diT1F5b2JGUHdEVHczOEt2NHM0UFlnWHU1d01BUGw3TlByaGY1TmwzUQ?oc=5",
-          "source": "Philstar Life",
-          "summary": "weight loss trend diabetes drug Philstar Life",
-          "published": "2026-10-19T13:22:08+00:00"
-        },
-        {
-          "title": "Real-time glucose data helps patients with type 2 diabetes lower A1C",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlpQckZkWGZwWDZxai01WXJRN2hVYVJHYm9JUHZkX3lkMGpuU0FxS2lvVGlfMk5fWHhPT1hibnFmU3MtRmx5VE1jX1F3UVdUQnJKYVNzTVZLdEZzMDZNUEZ6RVBxUm9SUkZGZmg1ZUFrdTZtcjdXOUhmRTZhdy1SNFpaOHhVdGFTdGZabVZiTHA3MmwyQmFtN3ViNTY0dVliM0dTRVhheUxCeFQxaXhhZUlIMUJlS1U5Znc?oc=5",
-          "source": "Managed Healthcare Executive",
-          "summary": "Real-time glucose data helps patients with type 2 diabetes lower A1C Managed Healthcare Executive",
-          "published": "2026-10-19T13:10:59+00:00"
-        },
-        {
-          "title": "TB screening tools may miss cases among people with diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmZ1RGx1S2FuMDBORXVhWXdIUmYxTWtiS3pIRjZPdkU2dklsVEdkRl9aNHNmNEV2M0h1WnpyWG5KMlNVTDUzenBXY2MzakxPZ1o0UERnczgtMkFKallVbGpqLXMyaTJPbjNpekpEZzdJd3U3WjFIeHNIb1dRQnNXUDRCbFItV3dzaGNJRUlTc05qMWg3Y0ZQRGZmcWJseVZ3NzlZNzB3Q1E2eW8?oc=5",
-          "source": "UCT News",
-          "summary": "TB screening tools may miss cases among people with diabetes UCT News",
-          "published": "2026-10-19T13:00:55+00:00"
-        },
-        {
-          "title": "Rutgers Study Links GLP-1 Drugs to Small Rise in Ischemic Optic Neuropathy in Adults With Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHZka2JCVnJWS0pkZlZ6SVo4MGVWODE1LWVRZnFyVnB1ZGpuTHd2VUt6a2xOLXc3UDdtcjI0ME9fSUVxQTdjUWt4V25xalQxYTR2LUxqVFo0cHZ2MzRMbjF4Ul9MaXhCYVdoVXZwRHpjYzR2MzZRRlNtTy1vRWpueXp4UENXSnVwTU1fT2RR0gGWAUFVX3lxTE1UNnhMZ3ZZM0lhMjFMZ2RVRWNsS2lWREE0U0Jlckk2ek5JSUwzUDJCSGdwWkpUelA1bHYtMTRGLVFDdkNveGVmbEppVTZPR3dsQVNLTDlOenhRQ1VDc0VJUHVReUpzV1R4TFdxM19HUnJPMDVpbFRCMDExT1o2OHU3Tl8zM1E1S3c1bWhWby1kT0NYUmxxdw?oc=5",
-          "source": "FindArticles",
-          "summary": "Rutgers Study Links GLP-1 Drugs to Small Rise in Ischemic Optic Neuropathy in Adults With Type 2 Diabetes FindArticles",
-          "published": "2026-10-19T12:52:47+00:00"
-        },
-        {
-          "title": "Scientists See New Vocal Patterns Associated with Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2tSelE4cHlmWE1oY3BidUNJdXN6UlFjMWc5MkpxQ0N2LTVNcGJtNFlSVjlxbnJLTzdLdFpNV2RSTmpjUm1OV3JkS09UTzR3THFNdGFRR05HSzMwLVVoT3h6SE41QURvWHNUTW90aUpHTXlxZVZvQW5VczFVTEVhenk4eDVFbVVtNkFiaWdGMENtQ2d0NlczQk9ndTlqQ0RVSHUzMU4wajFHY0ZPQXM5OHVXSGZwamVzTWpKODU2bw?oc=5",
-          "source": "Business Wire",
-          "summary": "Scientists See New Vocal Patterns Associated with Type 2 Diabetes Business Wire",
-          "published": "2026-10-19T12:44:00+00:00"
-        },
-        {
-          "title": "‘10 years of insulin’: Aishwarya Sakhuja opens up about life with Type 1 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUxVbnFQam1SazZ4WEZ1YmVfaFhBV0tjQ1NPTFU0Unp5dEYtZ1psXzh5RkRJVHh3dTFXLXZCNHczZmRic1h0NWpMbnlabGFZVGdOTzVvZE1Mb3o0R0NRRnlRbnJDQXZWLUF0eXlVSTlkcFBzN1lORjdmTzhQczdodEhOQU5HMmpSVlVwd0tWTk5mSFVvUVRJRVBSajNhenFZQWljVkZQQkdXakxVODBUN2F6bEN4ZUFlX05ZZ0x4bnpMalVrSkNJaXhFcm9COVkwMTNzNUNB0gHcAUFVX3lxTE1zY2dQaE1wWFYyeEtmWTBtdUZXT0VKdVU3ZWpJWEh0dl9MRzQzUUxiZ2IwNU5RejVBclFCa3I0eC15Y3ZIX1Z3UjQ4MlkzUlU3STY3RUtyQXp1NlBJSjRaeVRDcVF2aXlqaFZNY2ZTVVZOdldIVVFuLXVQcEczUW1xRS1TNUFsaXlQQVhTT21xTVlMeUdiWERMU2Y0VU9SSXVXZ09BUzJ2dEtDRnZ6NXV0NGhLQW55TFVCVXM0WFdCNThRQWo1dEhRbHhwa0h5ZGpVZzNWZ2FobjZRZW4?oc=5",
-          "source": "The Indian Express",
-          "summary": "‘10 years of insulin’: Aishwarya Sakhuja opens up about life with Type 1 diabetes The Indian Express",
-          "published": "2026-10-19T12:24:14+00:00"
         }
       ]
     }
