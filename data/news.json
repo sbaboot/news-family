@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-10-20T23:37:36.343940+00:00",
+  "generated_at": "2026-10-21T03:24:57.512783+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Au Japon, les médias alternatifs imprimés ont de beaux jours devant eux",
+          "link": "https://www.lemonde.fr/international/article/2026/10/21/au-japon-les-medias-alternatifs-imprimes-ont-de-beaux-jours-devant-eux_6798120_3210.html",
+          "source": "Le Monde",
+          "summary": "Malgré le déclin de leurs éditions sur papier, les quotidiens japonais restent de puissants empires dans le pays. Historiquement, le papier est un support très apprécié, en témoigne le succès rencontré par les…",
+          "published": "2026-10-21T03:00:32+00:00"
+        },
+        {
+          "title": "Sanae Takaichi, conservatrice de choc au pouvoir au Japon depuis un an, en quête de longévité à la tête du gouvernement",
+          "link": "https://www.lemonde.fr/international/article/2026/10/21/sanae-takaichi-conservatrice-de-choc-au-pouvoir-au-japon-depuis-un-an-en-quete-de-longevite-a-la-tete-du-gouvernement_6798119_3210.html",
+          "source": "Le Monde",
+          "summary": "La première ministre japonaise, première femme de l’histoire à occuper le poste dans le pays, a mis sa popularité au service d’une politique qui s’inscrit dans les pas de son mentor Shinzo Abe. Mais la baisse de sa…",
+          "published": "2026-10-21T03:00:20+00:00"
+        },
+        {
+          "title": "France en direct : Sébastien Lecornu reçoit les syndicats avant de nouvelles manifestations",
+          "link": "https://www.france24.com/fr/france/20261020-en-direct-france-sebastien-lecornu-recoit-syndicats-avant-nouvelles-manifestations-police-lyceens",
+          "source": "© Julien De Rosa, AFP via AP",
+          "summary": "Après une nouvelle nuit de couvre-feux localisés pour empêcher les violences du week-end de se reproduire, Sébastien Lecornu reçoit mercredi les organisations syndicales, pour évoquer avec elles la sécurisation des…",
+          "published": "2026-10-20T23:40:07+00:00"
+        },
         {
           "title": "17 octobre : le retour des courtes peines",
           "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261020-17-octobre-le-retour-des-courtes-peines",
@@ -52,27 +73,6 @@
           "source": "Le Monde",
           "summary": "Le président ukrainien, qui a émis le souhait d’une « réunion trilatérale de dirigeants », a confirmé que l’envoyé spécial de Donald Trump va rencontrer son homologue russe, mercredi.",
           "published": "2026-10-20T20:35:33+00:00"
-        },
-        {
-          "title": "La \"GenZ\" peut-elle être entendue ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261020-la-genz-peut-elle-%C3%AAtre-entendue",
-          "source": "France 24",
-          "summary": "Ils ont pour la plupart moins de 30 ans et sont en colère, inquiets. De Paris à Athènes en passant par Tirana et Bruxelles, ces dernières semaines, les jeunes descendent dans les rues. Ils dénoncent le coût de la vie,…",
-          "published": "2026-10-20T20:10:57+00:00"
-        },
-        {
-          "title": "En Pologne, les députés votent un assouplissement du droit à l’avortement, menacé d’un veto présidentiel",
-          "link": "https://www.lemonde.fr/international/article/2026/10/20/en-pologne-les-deputes-votent-un-assouplissement-du-droit-a-l-avortement-menace-d-un-veto-presidentiel_6797982_3210.html",
-          "source": "Le Monde",
-          "summary": "Dans ce pays traditionnellement catholique, l’avortement n’est autorisé que dans deux circonstances : lorsque la grossesse résulte d’un acte criminel – comme un viol ou un inceste – ou lorsqu’elle met en danger la vie…",
-          "published": "2026-10-20T19:54:19+00:00"
-        },
-        {
-          "title": "La junte du Burkina Faso rétablit la peine de mort",
-          "link": "https://www.lemonde.fr/afrique/article/2026/10/20/la-junte-du-burkina-faso-retablit-la-peine-de-mort_6797981_3212.html",
-          "source": "Le Monde",
-          "summary": "Le régime militaire avait annoncé officiellement son intention de rétablir la peine de mort en adoptant un projet de loi en décembre dernier. Elle avait été abolie en 2018.",
-          "published": "2026-10-20T19:23:02+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Des manifestations françaises de plus en plus violentes",
-          "link": "https://www.lapresse.ca/international/2026-10-20/des-manifestations-francaises-de-plus-en-plus-violentes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Sharks 4 - Canadien 3 (P) | Macklin Celebrini coule le Tricolore en prolongation",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-10-20/sharks-4-canadien-3-p/macklin-celebrini-coule-le-tricolore-en-prolongation.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le disque continue de sauter chez le Canadien, alors que les mêmes problèmes nuisent à l’équipe match après match en ce début de saison.",
+          "published": "2026-10-21T02:04:25+00:00"
+        },
+        {
+          "title": "La question de la séparation est désormais close, estime Danielle Smith",
+          "link": "https://www.ledevoir.com/politique/canada/1018394/question-separation-est-desormais-close-estime-danielle-smith",
+          "source": "Le Devoir",
+          "summary": "La première ministre albertaine avait organisé ce scrutin pour mettre fin à un débat houleux.",
+          "published": "2026-10-21T01:59:00+00:00"
+        },
+        {
+          "title": "Un suspect recherché par le SPVM à la suite d’un possible crime haineux dans le Village",
+          "link": "https://www.ledevoir.com/actualites/justice/1018388/suspect-recherche-spvm-suite-possible-crime-haineux-village",
+          "source": "Le Devoir",
+          "summary": "Deux personnes auraient été la cible d’insultes homophobes et d’une attaque au poivre de Cayenne en juillet dernier.",
+          "published": "2026-10-21T01:46:27+00:00"
+        },
+        {
+          "title": "Référendum en Alberta | Quatre choses à retenir des résultats",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-10-20/referendum-en-alberta/quatre-choses-a-retenir-des-resultats.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Si les Albertains ont voté en faveur de rester une province au sein du Canada, sa population devait cependant se prononcer sur neuf autres questions, qui avaient notamment comme thème le contrôle de l’immigration et la…",
+          "published": "2026-10-21T00:27:24+00:00"
+        },
+        {
+          "title": "Extradition de Jean-François Malo confirmée | « Je ne retournerai pas pour aller me faire poignarder »",
+          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/extradition-de-jean-francois-malo-confirmee/je-ne-retournerai-pas-pour-aller-me-faire-poignarder.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le fugitif Jean-François Malo n’a pas l’intention de revenir derrière les barreaux de sitôt. Même si la Cour de cassation de France vient de refuser d’entendre son appel contre son extradition, le promoteur déchu compte…",
+          "published": "2026-10-21T00:15:50+00:00"
+        },
+        {
+          "title": "Elon Musk serait responsable des restrictions de Starshield en Ukraine",
+          "link": "https://www.ledevoir.com/monde/europe/1018391/elon-musk-serait-responsable-restrictions-starshield-ukraine",
+          "source": "Le Devoir",
+          "summary": "Le multimilliardaire assure pourtant que le ralentissement de service avait été décidé par Donald Trump.",
+          "published": "2026-10-21T00:09:27+00:00"
+        },
+        {
+          "title": "Vie numérique | Petites révolutions dans les écouteurs sans fil",
+          "link": "https://www.lapresse.ca/affaires/techno/2026-10-20/vie-numerique/petites-revolutions-dans-les-ecouteurs-sans-fil.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Chaque semaine semble apporter son lot de nouveaux écouteurs Bluetooth. Au-delà de leur forme et de leur couleur, la plupart ont des caractéristiques à peu près similaires. Sauf ces trois-ci, qui repoussent à leur façon…",
+          "published": "2026-10-21T00:00:00+00:00"
+        },
+        {
+          "title": "Taux hypothécaires | Après la spéculation, la hausse prend forme",
+          "link": "https://www.lapresse.ca/affaires/2026-10-20/taux-hypothecaires/apres-la-speculation-la-hausse-prend-forme.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La tendance est à la hausse des taux dans le monde de l’hypothèque. Les taux fixes ont augmenté ces derniers jours en réaction à la hausse des taux obligataires. Quant aux taux variables, la décision de la Banque du…",
+          "published": "2026-10-20T23:45:00+00:00"
+        },
+        {
+          "title": "La Cour du Québec ordonne un dépouillement judiciaire dans Champlain",
+          "link": "https://www.ledevoir.com/politique/quebec/1018385/cour-quebec-ordonne-depouillement-judiciaire-champlain",
+          "source": "Le Devoir",
+          "summary": "Le péquiste René Branchaud y a subi la défaite aux mains de la conservatrice Adriana Szalontai.",
+          "published": "2026-10-20T23:31:13+00:00"
+        },
+        {
+          "title": "France | Des manifestations de plus en plus violentes",
+          "link": "https://www.lapresse.ca/international/2026-10-20/france/des-manifestations-de-plus-en-plus-violentes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
           "summary": "Centres-villes dévastés, commerces pillés, bâtiments incendiés, policiers et manifestants blessés – certains grièvement –, interpellations et gardes à vue par centaines…",
           "published": "2026-10-20T23:00:00+00:00"
-        },
-        {
-          "title": "Première période | Sharks 1 - Canadien 0",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-10-20/premiere-periode/sharks-1-canadien-0.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Suivez en direct le match du Canadien contre les Sharks de San Jose avec notre journaliste Katherine Harvey-Pinard.",
-          "published": "2026-10-20T23:00:00+00:00"
-        },
-        {
-          "title": "Grande entrevue avec France Charbonneau | Le parcours extraordinaire d’une femme pas « ordinaire »",
-          "link": "https://www.lapresse.ca/dialogue/chroniques/2026-10-20/grande-entrevue-avec-france-charbonneau/le-parcours-extraordinaire-d-une-femme-pas-ordinaire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Dans son autobiographie Inébranlable, France Charbonneau raconte son parcours exceptionnel. Entre l’intime et le professionnel, on y découvre une femme sensible, doublée d’une juriste qui n’a pas froid aux yeux. Notre…",
-          "published": "2026-10-20T23:00:00+00:00"
-        },
-        {
-          "title": "La colère des jeunes en France devrait «nous alerter», plaide Ghazal",
-          "link": "https://www.ledevoir.com/politique/quebec/1018379/colere-jeunes-france-devrait-nous-alerter-plaide-ghazal",
-          "source": "Le Devoir",
-          "summary": "La co-porte-parole de QS réclame qu’on écoute davantage les jeunes et qu’on réinvestisse dans les services publics.",
-          "published": "2026-10-20T22:36:00+00:00"
-        },
-        {
-          "title": "Procès d’un entraîneur équestre : une deuxième victime alléguée témoigne contre Dorian Escalon",
-          "link": "https://www.journaldemontreal.com/2026/10/20/proces-dun-entraineur-equestre--une-deuxieme-victime-alleguee-temoigne-contre-dorian-escalon",
-          "source": "Journal de Montreal",
-          "summary": "Une deuxième victime alléguée de l’entraîneur équestre de Sutton Dorian Escalon a témoigné mardi, à son procès pour des crimes sexuels allégués.",
-          "published": "2026-10-20T22:21:31+00:00"
-        },
-        {
-          "title": "Championnats du monde de sumo en Azerbaïdjan: une ancienne étudiante de l’UQTR sur le podium",
-          "link": "https://www.journaldemontreal.com/2026/10/20/championnats-du-monde-de-sumo-en-azerbaidjan-une-ancienne-etudiante-de-luqtr-sur-le-podium",
-          "source": "Journal de Montreal",
-          "summary": "Une ancienne étudiante de l’UQTR s’est hissée sur le podium aux Championnats du monde de sumo en Azerbaïdjan.",
-          "published": "2026-10-20T22:20:43+00:00"
-        },
-        {
-          "title": "«Le Canada, tel qu’il est, ne fonctionne pas», déclare PSPP",
-          "link": "https://www.ledevoir.com/politique/quebec/1018370/canada-tel-il-est-ne-fonctionne-pas-declare-pspp",
-          "source": "Le Devoir",
-          "summary": "Selon le premier ministre désigné, les Albertains constatent que «la fédération canadienne est un carcan».",
-          "published": "2026-10-20T22:16:27+00:00"
-        },
-        {
-          "title": "Bolduc doit jouer avec Demidov à son retour",
-          "link": "https://www.journaldemontreal.com/2026/10/20/bolduc-doit-jouer-avec-demidov-a-son-retour",
-          "source": "Journal de Montreal",
-          "summary": "Réglons une affaire en partant: je trouve ridicule le débat à savoir si on doit démanteler ou non le trio francophone.",
-          "published": "2026-10-20T22:10:00+00:00"
-        },
-        {
-          "title": "Bokondji Imama a enfin une vraie chance de s’établir",
-          "link": "https://www.journaldemontreal.com/2026/10/20/bokondji-imama-a-enfin-une-vraie-chance-de-setablir",
-          "source": "Journal de Montreal",
-          "summary": "À 30 ans, Bokondji Imama semble se diriger vers une première saison complète dans la LNH, lui qui a gagné la confiance des Panthers de la Floride.",
-          "published": "2026-10-20T21:55:00+00:00"
-        },
-        {
-          "title": "Un recomptage judiciaire autorisé dans Champlain",
-          "link": "https://www.journaldemontreal.com/2026/10/20/un-recomptage-judiciaire-autorise-dans-champlain",
-          "source": "Journal de Montreal",
-          "summary": "Un dépouillement judiciaire aura lieu jeudi dans la circonscription de Champlain après que la Cour du Québec a autorisé la requête du Parti Québécois.",
-          "published": "2026-10-20T21:44:22+00:00"
         }
       ]
     },
@@ -159,11 +159,60 @@
       "label": "France",
       "items": [
         {
+          "title": "EN DIRECT, manifestations du 17 octobre : les syndicats reçus par Sébastien Lecornu à Matignon, mercredi matin",
+          "link": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-les-syndicats-recus-par-sebastien-lecornu-a-matignon-mercredi-matin_6795855_3224.html",
+          "source": "Le Monde",
+          "summary": "Après une nouvelle nuit de couvre-feux localisés dans plusieurs villes de France, les organisations syndicales vont rencontrer le premier ministre pour évoquer la sécurisation des cortèges pour le 5 novembre, et les…",
+          "published": "2026-10-21T03:18:45+00:00"
+        },
+        {
+          "title": "Avec «Une femme d’aujourd’hui», Robert Guédiguian donne du mou",
+          "link": "https://www.liberation.fr/culture/cinema/avec-une-femme-daujourdhui-robert-guediguian-donne-du-mou-20261021_OK63MTK6IJEKVEHUJKRP52A2BQ/",
+          "source": "Liberation",
+          "summary": "Malgré ses airs de téléfilm pantouflard, le film, qui raconte la reconstruction d’une femme après un viol, réussit çà et là à sauver des instants d’émotion sincère.",
+          "published": "2026-10-21T03:14:00+00:00"
+        },
+        {
+          "title": "Les films à l’affiche : « La Gradiva », « L’Ile des souvenirs », « Marie Madeleine », « Karma »…",
+          "link": "https://www.lemonde.fr/les-envies-du-monde/article/2026/10/21/les-films-a-l-affiche-la-gradiva-l-ile-des-souvenirs-marie-madeleine-karma_6798121_6024727.html",
+          "source": "Le Monde",
+          "summary": "Chaque mercredi dans La Matinale, les journalistes cinéma du « Monde » livrent leurs critiques des films à découvrir en salle. Aujourd’hui, notamment, le périple paranormal de « L’Ile des souvenirs », la nouvelle grosse…",
+          "published": "2026-10-21T03:00:36+00:00"
+        },
+        {
+          "title": "PSG-Barcelone : Paris l’emporte au terme d’un match spectaculaire, grâce à la force de son milieu et à Lucas Hernandez en héros inattendu",
+          "link": "https://www.lemonde.fr/sport/article/2026/10/21/psg-barcelone-paris-l-emporte-au-terme-d-un-match-spectaculaire-grace-a-la-force-de-son-milieu-et-a-lucas-hernandez-en-heros-inattendu_6798117_3242.html",
+          "source": "Le Monde",
+          "summary": "Le double champion d’Europe a confirmé sa suprématie sur la scène continentale en dominant le Barça (4-2), mardi, en Ligue des champions. Un succès de prestige après une fin de rencontre assez folle.",
+          "published": "2026-10-21T03:00:11+00:00"
+        },
+        {
+          "title": "Violences sexuelles : le Sénat adopte la proposition de loi obligeant à informer les victimes lors de la libération de leur agresseur",
+          "link": "https://www.lemonde.fr/societe/article/2026/10/21/violences-sexuelles-le-senat-adopte-la-proposition-de-loi-obligeant-a-informer-les-victimes-lors-de-la-liberation-de-leur-agresseur_6798083_3224.html",
+          "source": "Le Monde",
+          "summary": "Le texte soutenu par le gouvernement et les associations de défense des victimes a été modifié par les sénateurs. Il devra faire l’objet d’un accord entre les deux chambres lors d’une commission mixte paritaire avant…",
+          "published": "2026-10-21T01:10:08+00:00"
+        },
+        {
+          "title": "Ligue des champions : le PSG s’offre le Barça et marque (encore) les esprits",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/irresistible-le-paris-sg-remporte-un-formidable-choc-face-a-barcelone-en-ligue-des-champions-20261020",
+          "source": "Le Figaro",
+          "summary": "Les hommes de Luis Enrique l’ont emporté face au FC Barcelone ce mardi, au Parc des Princes, lors de la 3e journée de C1. Un nouveau chef d’oeuvre.œuvre",
+          "published": "2026-10-21T00:27:31+00:00"
+        },
+        {
           "title": "Les notes du PSG contre le Barça : Hernandez dévore Yamal, Vitinha le virtuose et Doué le magicien",
           "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/les-notes-du-psg-contre-le-barca-hernandez-devore-yamal-vitinha-le-virtuose-et-doue-le-magicien-20261020",
           "source": "Le Figaro",
           "summary": "Découvrez les notes des envoyés spéciaux du Figaro au Parc des Princes après la victoire du Paris SG devant le FC Barcelone (4-2) lors de la 3e journée de Ligue des champions mardi soir.",
-          "published": "2026-10-20T23:19:47+00:00"
+          "published": "2026-10-21T00:19:06+00:00"
+        },
+        {
+          "title": "Au procès de Rima Hassan pour apologie du terrorisme, la défense très politique de l’eurodéputée LFI",
+          "link": "https://www.lemonde.fr/societe/article/2026/10/21/au-proces-de-rima-hassan-pour-apologie-du-terrorisme-la-defense-tres-politique-de-l-eurodeputee-lfi_6798050_3224.html",
+          "source": "Le Monde",
+          "summary": "Dix mois de prison avec sursis et deux années d’inéligibilité ont été requis contre l’élue européenne, pour avoir publié un post sur X citant un militant propalestinien de l’Armée rouge japonaise, auteur de l’attentat…",
+          "published": "2026-10-20T23:32:07+00:00"
         },
         {
           "title": "Au terme d'un feu d'artifice offensif, le PSG éteint le FC Barcelone (4-2) et continue son sans-faute en Ligue des champions",
@@ -173,60 +222,11 @@
           "published": "2026-10-20T22:23:30+00:00"
         },
         {
-          "title": "EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; les partis se positionnent avant la réunion de jeudi à Matignon",
-          "link": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-nouveaux-couvre-feux-mardi-soir-les-partis-se-positionnent-avant-la-reunion-de-jeudi-a-matignon_6795855_3224.html",
-          "source": "Le Monde",
-          "summary": "À Paris, Lyon, Bordeaux et Nice, des couvre-feux ont été annoncés dans certains quartiers. Six communes martiniquaises sont également concernées. Dans la capitale, l’interdiction de manifester dans certains secteurs a…",
-          "published": "2026-10-20T22:09:03+00:00"
-        },
-        {
           "title": "\"Chaque jour compte\" : la ville de Limoges lance une souscription publique pour sauvegarder sa mairie ravagée par un incendie lors des violences du 17 octobre",
           "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/chaque-jour-compte-la-ville-de-limoges-lance-une-souscription-publique-pour-sauvegarder-sa-mairie-ravagee-par-un-incendie-lors-des-violences-du-17-octobre_8246293.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
           "summary": "\"L'urgence est désormais de préserver les parties encore intactes et de sauvegarder les éléments qui peuvent l'être\", explique la municipalité de Haute-Vienne qui s'est associée à la Fondation du patrimoine.",
           "published": "2026-10-20T22:04:36+00:00"
-        },
-        {
-          "title": "«Clayface» : le dernier avatar des studios DC sur des chemins argileux",
-          "link": "https://www.liberation.fr/culture/cinema/clayface-le-dernier-avatar-des-studios-dc-sur-des-chemins-argileux-20261021_ZI5BJURF7NBEXPBFNRUYF27XSM/",
-          "source": "Liberation",
-          "summary": "Entre film de super-héros et body horror, la nouvelle création de James Watkins adopte un ton trop gentillet.",
-          "published": "2026-10-20T22:00:00+00:00"
-        },
-        {
-          "title": "Ligue des champions : Liverpool renversant, le City de Cherki s’amuse, 40 buts, ce qu’il faut retenir de la soirée",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-liverpool-renversant-le-city-de-rayan-cherki-en-demonstration-face-aux-grecs-les-italiens-se-relancent-apres-la-semaine-noire-une-soiree-europeenne-riche-en-buts-20261020",
-          "source": "Le Figaro",
-          "summary": "Manchester City et Rome qui cartonnent, festival de but à Naples et à Liverpool, tout ce qu’il faut retenir de la troisième journée de Ligue des champions ce mercredi.",
-          "published": "2026-10-20T21:43:23+00:00"
-        },
-        {
-          "title": "Ligue des champions : le PSG s’offre le Barça et marque (encore) les esprits",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/irresistible-le-paris-sg-remporte-un-formidable-choc-face-a-barcelone-en-ligue-des-champions-20261020",
-          "source": "Le Figaro",
-          "summary": "Les hommes de Luis Enrique l’ont emporté face au FC Barcelone ce mardi, au Parc des Princes, lors de la 3e journée de C1.",
-          "published": "2026-10-20T21:42:44+00:00"
-        },
-        {
-          "title": "Choc au sommet, le héros Lucas Hernandez et un Parc des Princes qui chavire, PSG-Barça en images",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/choc-au-sommet-le-heros-lucas-hernandez-et-un-parc-des-princes-qui-chavire-psg-barca-en-images-20261020",
-          "source": "Le Figaro",
-          "summary": "DIAPORAMA - Revivez le choc de titans au Parc des Princes entre le tenant du titre et les Catalans.",
-          "published": "2026-10-20T21:39:15+00:00"
-        },
-        {
-          "title": "PSG-Barcelone : le résumé de la nouvelle victoire remarquable des Parisiens en Ligue des champions",
-          "link": "https://www.lemonde.fr/sport/article/2026/10/20/psg-barcelone-le-resume-de-la-nouvelle-victoire-remarquable-des-parisiens-toutefois-impactes-par-plusieurs-blessures-en-ligue-des-champions_6798017_3242.html",
-          "source": "Le Monde",
-          "summary": "Le club de la capitale a fait preuve d’une solidité admirable en s’imposant avec la manière contre le Barça (4-2), mardi au Parc des Princes, malgré les blessures de trois de ses cadres : Ousmane Dembélé, Khvicha…",
-          "published": "2026-10-20T21:26:46+00:00"
-        },
-        {
-          "title": "Procès de l'explosion rue de Trévise à Paris : \"Une espèce de scène de guerre au réveil\", les victimes racontent",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/proces-de-l-explosion-rue-de-trevise-a-paris-une-espece-de-scene-de-guerre-au-reveil-les-victimes-racontent_8246269.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "Le 12 janvier 2019, en plein Paris, une explosion de gaz éventrait les immeubles de la rue de Trévise, faisant quatre morts et plus de 200 blessés. Sept ans après, les victimes attendent des réponses. Le procès s’est…",
-          "published": "2026-10-20T21:24:05+00:00"
         }
       ]
     },
@@ -325,11 +325,67 @@
       "label": "Actualites diabete",
       "items": [
         {
-          "title": "Eco-Logics Updates Advanced Healing Diabetic Skin Care Lotion Formulation Using Dimethicone",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHpoXzlMNklnQUEwUDdSVjRKLW91WlJaRHR3bHJzdzRhZGZwT0d3ZlRLWjFaYXUyR0VVZFhLaVRlZGU5a18tVWZNajNjWXNPSFZQTmhydTVsb0FOclphQmlsVnN6cWdvbW1seTIzTzdxTjBNS2NubXp6Yko1MW1iNFlOYjctbWN4MGYtNDJZdThUVXlTQ19aaDg1UkV6RG1oOWdPWmpPZENpWEFjT0lRa3M0ckRuQUpGSE1V?oc=5",
-          "source": "GeneOnline",
-          "summary": "Eco-Logics Updates Advanced Healing Diabetic Skin Care Lotion Formulation Using Dimethicone GeneOnline",
-          "published": "2026-10-20T23:33:36+00:00"
+          "title": "A Man's Red, Swollen Calf Looked Like a Blood Clot, but MRI Found Fat Crowding Into the Muscle",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSlg0MGlkck5BQk5LbHhpcW16X2x5Z0swU1lfWFdSRGJKZ2U3eWFQUENqOTVKTTNxcWpjMUI3b3FRVXc0Zlc1Z1FaT2NWTnlzNDJ0SDlGN2lLcVZnc2RjeldMdEF4aVRwZmZHZm5pSzZMOHMwSDhRUm40WWdDeDdNMWRieVRMbE9lWm45X2J3eDY?oc=5",
+          "source": "Medical Daily",
+          "summary": "A Man's Red, Swollen Calf Looked Like a Blood Clot, but MRI Found Fat Crowding Into the Muscle Medical Daily",
+          "published": "2026-10-21T02:52:25+00:00"
+        },
+        {
+          "title": "Visage inhabituellement rond et peau sujette aux ecchymoses après la prise de médicaments contre le diabète achetés en ligne.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS2RPcG0tQlNUUm1ldmdFRk1TQ2ZGSnJManZJQW1zU3FnZXBvZlRVdlpkTmlNWnRlWXFEbzEwUjR1RDNVM3p6MXRiZG1YaDBZTXp5Tjk2NGtuYS1TOVhvV2VOd095c1dIR1Nua3pJMEZsXzNFUDZUY1k1cUJ1UWU3NnVjS1ZGLUxfMy11WWVzVlZYekRwd0hLMUVpQjZ2ZmpSRlE?oc=5",
+          "source": "Vietnam.vn",
+          "summary": "Visage inhabituellement rond et peau sujette aux ecchymoses après la prise de médicaments contre le diabète achetés en ligne. Vietnam.vn",
+          "published": "2026-10-21T01:52:13+00:00"
+        },
+        {
+          "title": "Diabetes Cell Therapy Merger Nears Close Ahead of Q1 2027 First Patient Dosing",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEFBNGc0SVkweURLckhGSk1YTWszcGNGZFFjQWlBX3dFNUthRFMwSkpWZE5scDFkb25leUJsTTMzUlNoUUliTjZXa05ZbDFkUEZIaTJ2eU5rM19zTWFaZzM3QjZLWVI3ZW1HeHJQQTdVZ2dGZ19RclJJbUw2VUVaYlRSMTNwbVJJUGJUdFJBUlQ0NTU1bTBIcXJDemFidWR2SFd2RVZlTU1sSzBEVlMwaV9DdTlyYlFGU3EyYjViNmRKcnJqcENSWVNwRFpDanNyREE?oc=5",
+          "source": "Streetwise Reports",
+          "summary": "Diabetes Cell Therapy Merger Nears Close Ahead of Q1 2027 First Patient Dosing Streetwise Reports",
+          "published": "2026-10-21T01:30:00+00:00"
+        },
+        {
+          "title": "new novo drug delivers significant weight-loss benefits in diabetes trial",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmZ6ZGdjd09VaWVPNFVaTU1mUjNfU0tqTkxzRGt1dEpLTmhyX081X3duYnlkTGFXcXNja2xaSzhWR3NXekFpWFhDT0s4R21xN0E1d2hoTVFfa3IwcDVycGdoeVc2ejRGX01fOWwxVjgwd29WanlRMUlMRE1WcGNsSzRrdzh1WHQtRDBwQzJPY1FkU3BKektYTF9ydy1GSWM0UmZXZ09jX2dNRElG?oc=5",
+          "source": "ΕΜΥ",
+          "summary": "new novo drug delivers significant weight-loss benefits in diabetes trial ΕΜΥ",
+          "published": "2026-10-21T01:07:07+00:00"
+        },
+        {
+          "title": "Type 2 diabetes adults favor larger, personal physical activity incentives",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkRHWmQydm9pSm1EYnJYRkVubzhmRkRhXzFCTGdtdjRXNkNWN2I3eGRtcnBUeFVDM2Q0VWdZMEhiUFVmRXhjWVVqbGotSHBsZGsta0h2YnpSSFNwSkVfdUlEWHVpTzY3YUxxcjVHTk5aWTFUbndxOUJZcHN4dmZpOXFkdUluZnRaYTlmeXp3bGc5S25rcHFONWRYTXpXRXc?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Type 2 diabetes adults favor larger, personal physical activity incentives Bioengineer.org",
+          "published": "2026-10-21T00:33:14+00:00"
+        },
+        {
+          "title": "Committee Advances Diabetes Center Bill as Lawmakers Propose Funding Rewrite",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeG1ra3YzbEJvdUhyRHVTTDE0U3Zwa0FHaFNVd05tWUdCMG41TUJpRWdvQlpLMENhLXhfWWYtNEsxZnRjSlNHY2RVVTdjWWVNWDN3UFhaNU9VcUw1VnF0NThGanE3VzlnN0NxVGRrcjRmWC02Mm51a1AxbjNZc01vT0hvOVZxaHBQVW1rMUwtV1hRdzdBVTlKRHpYa3VXdTE1d3EzcnR0ak51LTFHYVZCTFFpM1FCZFFQSDdteGZfU18?oc=5",
+          "source": "St. Thomas Source",
+          "summary": "Committee Advances Diabetes Center Bill as Lawmakers Propose Funding Rewrite St. Thomas Source",
+          "published": "2026-10-21T00:23:58+00:00"
+        },
+        {
+          "title": "Un médecin explique comment protéger la vue et prévenir les complications de la rétine diabétique",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGxNekJWS1NURUE1d3BHaDBsWC10bUljdkNDWV8xcVF1S25FeVZQcU1VQWpDMTZMdERFbm9YcU42ZmxSZ2dEemI0RkVHUkVRanFEM0xCOXhDSHh1Yi1FYUFSbUlMcm9kblhXXzBkZnplNXNFT21BS3gyWkVtY19Fa090RGZNTi0zakthR0lBektGa05XZXZULVFEa3JBUGR1MGZiMDA5akVzaHRhOWVzUVJXWkFYekhl?oc=5",
+          "source": "Laodong.vn",
+          "summary": "Un médecin explique comment protéger la vue et prévenir les complications de la rétine diabétique Laodong.vn",
+          "published": "2026-10-21T00:02:20+00:00"
+        },
+        {
+          "title": "vTv Therapeutics Highlights Cadisegliatin’s Phase III Push to Tackle Type 1 Hypoglycemia",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkNhUmZxSVRwc2RYNjFSZWZvdWR2MVByVl9WdDZ0bHNOLWxPcEdoV3hNUXVNbUFicnIzamVrSEZ4bThjSWh6Zzg2MU9BdFhDRDEta1RmUlBVYUU0OVhCVkZGRXlPRWhBU19rXzFIS2VPWWUyQVNpRXVKTHpXenlnNmNIVUx5UGc1a0NsZnhLa2RsbjBha01sVTU2cGU3U2VjRjVMa2czcTJ4a0Ri?oc=5",
+          "source": "Yahoo Finance",
+          "summary": "vTv Therapeutics Highlights Cadisegliatin’s Phase III Push to Tackle Type 1 Hypoglycemia Yahoo Finance",
+          "published": "2026-10-21T00:02:00+00:00"
+        },
+        {
+          "title": "Plano residents lead Breakthrough T1D Walk at Grandscape Nov. 7",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTb0Z6SXR1aEpCQ0hLRUl1YmEwYl9pbHN5amFFTUdqUU5kWU1JMnlRM3l2VENZSkpGckJLeWQ0UHVrWkFWdkVGUnliZDFPZWpvT1RUa3BZZUlsMVN4blg0WF9mYnF2Q3k1REpN?oc=5",
+          "source": "Plano Magazine",
+          "summary": "Plano residents lead Breakthrough T1D Walk at Grandscape Nov. 7 Plano Magazine",
+          "published": "2026-10-20T23:55:05+00:00"
         },
         {
           "title": "Monument Health expanding diabetes care",
@@ -364,7 +420,14 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3ZQMkpsM0NLZW5TWWRQbDd3dk5ham1NS1BONkZNbjN2VVJ3SlNhdXhXMUIyWEJtYkE1Z2g4cG9EUTU0TDZGd0ZyX2hnSTZjbWlTUTRQVl9iTVFGNlR2NlQ1aXZXUGRRZG1ueENuQnhZNnVYaFJjeGVkTDlQVVI1Zk9VVlBBcVRrdkdNa1owdTFGSG9raFBXLW4zZFcyQWZtMV80ZHhMX0hNZWxjOVdEc1Fmdkp2dUtLUmk4?oc=5",
           "source": "Bioengineer.org",
           "summary": "MPO and NE mRNA associated with severe albuminuric diabetic kidney disease in 70-patient study Bioengineer.org",
-          "published": "2026-10-20T20:39:06+00:00"
+          "published": "2026-10-20T20:43:14+00:00"
+        },
+        {
+          "title": "Should You Eat Carbs Last If You Have Type 1 Diabetes?",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvOFF2aHkwRWFIRHNFVjU1NG42b2I2T1BHUFhORzR4aW8yWDVRYm1aQ2g1LWprYUJ1bThYeFRZVnJWaXZfSm40Rl8yZXZNQURKUDd6amt0czJLSzNuazdsUVpOd1hpY3BpTWVIZQ?oc=5",
+          "source": "Beyond Type 1",
+          "summary": "Should You Eat Carbs Last If You Have Type 1 Diabetes? Beyond Type 1",
+          "published": "2026-10-20T20:35:06+00:00"
         },
         {
           "title": "Does Intensive Therapy Targeting Modifiable Risk Factors Prevent Diabetic",
@@ -374,11 +437,25 @@
           "published": "2026-10-20T20:28:14+00:00"
         },
         {
+          "title": "Euthyroid diabetes study finds no independent thyroid-nodule link",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1RzR0dlbG5qYkJBejNoeFlFYVRPMWZSUWxjV29LaDA1TktPZ2xqTGdUOEMxLWdQVGRsUVlrY3ptQWMtSGxKWnRSdTB3NmRIbm9iTmdHYmFtWE5ZTHk2U3NYNFg5NTQtNVVLQWN5MTBWeTZBXzk0VzdnYTJTYXFWUEJYVEpzSk9RTUNDUlh1a3FuaUxy?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Euthyroid diabetes study finds no independent thyroid-nodule link Bioengineer.org",
+          "published": "2026-10-20T20:23:14+00:00"
+        },
+        {
           "title": "VA pilot program targets food insecurity among veterans with diabetes",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXZXWHZqWjdsSTVETGwtM2huT01OQjN4djZwNWxadV9Ea2xvbWUyeVdWUVMwLTFkcWlYSUFJQVNQRU5KaG95MUJLS0dPOGpmcGNpNjBuNUkwQWZIRElfbHFsY1c2ZlZWUlhMajY2R0JBYWVOeWVkMDdCMk5KWE5kMHdUNU9qbTRlbkozWW1Ma3p5Qm5NbWt6bDhCRDJiY0l4Vm1Rcy1qSEh5Q3pmRGs1VGx5YWdIZw?oc=5",
           "source": "Bay News 9",
           "summary": "VA pilot program targets food insecurity among veterans with diabetes Bay News 9",
           "published": "2026-10-20T20:21:00+00:00"
+        },
+        {
+          "title": "New To Insulin Pumps? Twiist Gets FDA-Clearance For Type 2 Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LSWlBVkF2SkVSTDlmZk5rMnhabXZCQ3VScHZNUWhad21wS0NvU01USFQtMUt0cEF4a2psS191ZjVPbGdFVVdMVlRjNVJRQUtuUk95eFpPcU9IOTVadTVvMzk5aXZ2dzBEWFlJ?oc=5",
+          "source": "Beyond Type 1",
+          "summary": "New To Insulin Pumps? Twiist Gets FDA-Clearance For Type 2 Diabetes Beyond Type 1",
+          "published": "2026-10-20T20:20:06+00:00"
         },
         {
           "title": "2026 ADA/EASD Consensus Report Recommends Screening for Hypercortisolism in Patients with Difficult-to-Control Type 2 Diabetes",
@@ -406,7 +483,7 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSE51ZS1GVkp2YjRwWlJsX0xkdHZTLUNmeW9sZDhGZ2k4aWFjcEtmS3JZWFZvVXhIaXFvblRKa1E3MVBxVS1WYjdvZFYwYTQtQnp5b2lOT2xkS0ZPSFVLSldZLUsxdnlQQVM4ekJQdUhnS1JWVlhIOV9IVHJ6bXpFTW5lVm5mMlUxTGhob1lGYWg0WGtYVXE1VkhscGVPX1BQYUo3TFNNWlRPVmJ2Z0NJT1c3ZUNFQQ?oc=5",
           "source": "Bioengineer.org",
           "summary": "Retrospective machine learning models predict amputation risk in diabetic arterial disease Bioengineer.org",
-          "published": "2026-10-20T19:29:25+00:00"
+          "published": "2026-10-20T19:28:14+00:00"
         },
         {
           "title": "Started a GLP-1 drug like Ozempic or Mounjaro? Here’s what you need to know about nutrition",
@@ -416,25 +493,11 @@
           "published": "2026-10-20T19:02:47+00:00"
         },
         {
-          "title": "Cross-sectional study links eGDR to cerebrovascular burden in non-diabetic adults",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGNtX1A0YldUWklzY0hPWGpFb2c4akVIRW1teURBMlVlMjFfSGE1M1FubnN3ajlQTmdjblVNUUxOZ01SeWpxNkFQeU9RRjh0b3FLY3dNU05BdUd0dkxORHBicG9LaFVwaHdnUm5LT0dKbF9iaVczWG1CRkhRUnhVOENSdEZoMFk1Y2RpVVZsaUFxMWlzenJXMWVVQ2ZCckE1NFhoRUI3dDhfQQ?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Cross-sectional study links eGDR to cerebrovascular burden in non-diabetic adults Bioengineer.org",
-          "published": "2026-10-20T18:18:13+00:00"
-        },
-        {
           "title": "Cancer du sein et diabète: Le CRA organise 2 campagnes de prévention",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUs4cUg4dWpBNFRmOGwzMU5qY0dBLWIteDFxMGZhT3JPYlZXckVtT1N1YUZVZVNlVWRPSHU2bWhKeDFJS0FjNmxwRk90YWZvbnQyN1dvZElEQ2lDdXI2c19ZSjNfRGx1SDZRZWM0bkhrOHNuby14WGFZRHc1YWRGbVYwNG1lVkNGRGpEby1aeFZaZmxYNDIzZHlnN3owTXhBbWc?oc=5",
           "source": "www.horizons.dz",
           "summary": "Cancer du sein et diabète: Le CRA organise 2 campagnes de prévention www.horizons.dz",
           "published": "2026-10-20T18:10:56+00:00"
-        },
-        {
-          "title": "Les experts conseillent aux personnes diabétiques de déjeuner à cette heure-ci.",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWliVzhnYWVtYURWMW5KT1ZnSzhtcVJtYW04aGxGR2kxYk4xcGcxMkRMRkhHUWZvaERHRFhNZEg1eVJ5TnZscDhpUWNINE5IWTI2S01ZQmltalhNUmlYandtV2tGU0dzZHlIVTdNMFlJMmlvT2ZfaGltejF1a29WY3RNRTBKMjNRdkpLdlRhOA?oc=5",
-          "source": "Vietnam.vn",
-          "summary": "Les experts conseillent aux personnes diabétiques de déjeuner à cette heure-ci. Vietnam.vn",
-          "published": "2026-10-20T17:45:18+00:00"
         },
         {
           "title": "Langerhans Cell Histiocytosis of the CNS Presenting With Diabetes Insipidus and Fever of Unknown Origin: A Case Report",
@@ -451,13 +514,6 @@
           "published": "2026-10-20T17:14:00+00:00"
         },
         {
-          "title": "Paul Whitehouse admits 'torture' diet change after diabetes diagnosis",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXBiQWJrQzNrSk9meDdhNTNFYkxfWG9JRWpJNlNqNFBiSDE2OGlLeElTTjZXUVhyRF9abDRzcXo2YmRKSWRUVHVXVmlralVMeWVYenV1Z0xuWHg2N0licWIzd3FHUlB6N0Rzd3JjTDJ3TUROR0dUbDg5X21XYldhbTlSNFhZb095ZmxHUDgtM1A1SFFH0gGaAUFVX3lxTE1vU290NEd1Wm5VYk5HVktxeklHdHlJQVBzaV9nNElDWnhNejRRVGh5TG93N013Q1NtZUxNeTdrN0U0WVUxT2tTN1hrV3VvbUt0dG1NakRzUVRCZVFPelhTU1hSdXJxdzdHT3I0WDNQODNjOVRNS1JwMlFiNUxaZVY0OG1MQ1h0eWFwbGx3ZlllQWZWUzUzazYwRVE?oc=5",
-          "source": "Daily Express",
-          "summary": "Paul Whitehouse admits 'torture' diet change after diabetes diagnosis Daily Express",
-          "published": "2026-10-20T16:31:00+00:00"
-        },
-        {
           "title": "Ultrasound-activated channel improves glucose control in diabetic mice within dose window",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQems2M0JtazNWdWl3RmlvbnBYczNMVFlwaVlOTHBINVhyT25GMzI1VHRYSWRidUM0Rkt2bU0xS1RQcF9iZE5UT2k1V1MwSmVObDdpelZCT2VROUdOTU5UOEE2UGc3bnZRS1pNTGFsSHJhSnVRMjYxaGpyLXdhTkRFeWgxSTNycUxoVElhWkVBR1VPeEYzdVlXZTBPQUhVeE1RNVdSQ0pnbXZDRnlja2Z0cFVCa3c?oc=5",
           "source": "Bioengineer.org",
@@ -465,11 +521,11 @@
           "published": "2026-10-20T16:30:45+00:00"
         },
         {
-          "title": "Shear wave elastography tracks earlier exercise responses in type 2 diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzBVQ3Zudlc0ZXctVWw4aktVelh1eGxWZU50bUUwdmlUc2R2TjA3WS1NenRnUHBSX3c5QWpIdWh0ZHotNjJPbWRUNFZhNEg2V2xQRVVYX1VfWEpRWEtFQzE3bHRHQ1lXcDZUS3dPTk5EaXQ4OFBId1BxbVpWVmRYN3g4aEVGWXlsRzMyNHdXTTBUM3k5WFZUUjR6Vk4zZ2ZzMVNJ?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Shear wave elastography tracks earlier exercise responses in type 2 diabetes Bioengineer.org",
-          "published": "2026-10-20T16:03:13+00:00"
+          "title": "Compounded tirzepatide recalled after FDA warning",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWMzc2dNaHlsVnFOaEo0My0wdW1iUHBqZTNMb2VRYkc3UTNWdjhFdmpNUjBYZk42OVRhS184dGwzOEZVU1RrOXE3cDhvSkFvaDdMQnZuaC0zZm1WQkNkbC14UDg0WGw1aUlBRENobVk3MHMxcXVTR1VQVkdYcUM4ZF9tY1NkQQ?oc=5",
+          "source": "pharmaphorum",
+          "summary": "Compounded tirzepatide recalled after FDA warning pharmaphorum",
+          "published": "2026-10-20T16:08:42+00:00"
         },
         {
           "title": "Pre-infection COVID-19 vaccination linked to fewer complaints in Indonesian patients with diabetes",
@@ -547,62 +603,6 @@
           "source": "Bioengineer.org",
           "summary": "Survey finds gaps in Jakarta diabetic retinopathy screening Bioengineer.org",
           "published": "2026-10-20T13:43:07+00:00"
-        },
-        {
-          "title": "What Happens to Your Blood Sugar When You Take Vitamin D Every Day",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04QUVBc2ZtYkhTUWxRR19Fek5IUVBzczZwVmRNVXpoOWFQT1VtY2oxRVBKZktfNE83T1JJMXpKTTZ4MFZkamlXQ3ZRbzBaYTh3UnJoemdkRzdUOWVwN0YyUlNWZU40SEQxR2JSaHd3?oc=5",
-          "source": "Health.com",
-          "summary": "What Happens to Your Blood Sugar When You Take Vitamin D Every Day Health.com",
-          "published": "2026-10-20T13:27:20+00:00"
-        },
-        {
-          "title": "Sleep Deprivation May Be Quietly Fueling India’s Diabetes Burden",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFVsOEJIeEpSRVRCVjAxLTViSXFQR09adHNBVjdjX3R1ZFotanN3cUl4Q3ZLN09tNFhZVE1CX09aMklnOXN2VDJVZ3lkWFZfaC1vdTRmRzRybjdqLS1Zbm5LQnJnV3p1U00tdllGbHY4MGtoSDY4NmFNVWxtdmlIanRkaUR1TGo3Vzc5Sjk4V2FjVERKaFVIc0ZULU8teVlQcmlueE04WkEtSlVaMDlEdVVsaw?oc=5",
-          "source": "BW Healthcare",
-          "summary": "Sleep Deprivation May Be Quietly Fueling India’s Diabetes Burden BW Healthcare",
-          "published": "2026-10-20T13:24:21+00:00"
-        },
-        {
-          "title": "Détection du diabète de type 2 par IA vocale : une révolution ?",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBNmZiMlpid21Xb0RjMG9ZcnZDZElqVFI1WDRKZmNUX0lvczlucEdHZHJISGVaNTNEdmRPZ21GWEVZOElLUm0tOFJ0VlowbWVlejVIT1E1OE04ZXFHcEE?oc=5",
-          "source": "AirZen Radio",
-          "summary": "Détection du diabète de type 2 par IA vocale : une révolution ? AirZen Radio",
-          "published": "2026-10-20T11:58:00+00:00"
-        },
-        {
-          "title": "Telsey analyse l’impact des médicaments GLP-1 sur la consommation",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1J0SndpdnlSdVBNeUxCZnV6Y0ozU0NxQ2RzUWNiRnJsaDVQNlBMbTR6YloyOU1GY29wckpwZDlOWUdUTnRSN0JBR0UtclFONmhsVG8zNkpPVUxpYTFiWHdXTk1Mc3JwRE5RVERZSWhnSThULXlWM2NqeFBZT01KRUlBMl91UnhNY29NejJXak5IOHJhU0NuOEE0STk2Y2FfN0w1eUllWWxBbVg2Y0M4bE1FT2tLT3FmRDV3d240NnRiUQ?oc=5",
-          "source": "Investing.com France",
-          "summary": "Telsey analyse l’impact des médicaments GLP-1 sur la consommation Investing.com France",
-          "published": "2026-10-20T11:51:00+00:00"
-        },
-        {
-          "title": "Identifying early stage type 1 diabetes takes centre stage at CVRM Professional Care",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMEVDNkoxejM5YVh4UEFPTnZFR25mY2RJSVRIQlVkUDRZU1d5WkVSakF4SkFucGx3enlHYnd3Qk94Unhack9US2VnRmQwWnFQWnhhUjBzeHFQNGpHNHJ4YmdNTU84bS1kS0YyS3l3WFhwV0x6SXY2dGlQRXhoVHBCVHl3eW1Fc3lPNklkbVF0MWpnZkVJdlVXM2toMHJHRDdoTHJGWkVkTERZX05qZXhTV05kWQ?oc=5",
-          "source": "The Diabetes Times",
-          "summary": "Identifying early stage type 1 diabetes takes centre stage at CVRM Professional Care The Diabetes Times",
-          "published": "2026-10-20T11:43:13+00:00"
-        },
-        {
-          "title": "Study identifies protein that could lead to new Type 2 diabetes treatments",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLVdrXzBJVkY1SGNqd0VzdzhEVHVwWnlvZ2NFSksyYktneFViMXh5VTVOaUthT25CdjJwNDNvMzNySzlnMnhtZ3JwWk41UWpKcnBRS3RubVc5TmRzRXg4VGp6MjNjeVdVRVdFc1RPdkN5WWlfNW41VjZSMkNVd1FWNWtVcHI3VDdiajFDZVphT0N3SzhXRzljVUtmMHU0Ym1Qa0dHc0JWVTA1VXRWRjlGWWdaZldFTkZGMkl4SkFPN01xR3NEYldiNVZHOS1GUkhpY0hXUTRxR24tUnRWQm1lTUo1bUZRcm92?oc=5",
-          "source": "cbs19.tv",
-          "summary": "Study identifies protein that could lead to new Type 2 diabetes treatments cbs19.tv",
-          "published": "2026-10-20T10:55:00+00:00"
-        },
-        {
-          "title": "Diabète et surpoids : des scientifiques découvrent que ce régime alimentaire fait mieux que les médicaments",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTGw5WU9XckdVblRCZTFxdHpCd1ZUU3lrYUc0MWRlZ3RTMlNzLTNNeHY5MXlON2NzN1JxZWphVVNvQ1d6UktEN2JZTWdXOE1NOThua2VqemQ1S3RmOVFxNlFxbWdDRUtBaHBjMzJReDJtSTZULUNURDBSR1NUbTZ0a214Sy0xWnBISWFzb0daSnZ0Y191Mk1iNFRuRWtxbUxmNTdzZGQ3S2xaX2tUcHB0RW5QWXVTbEh1UkllclV2dUpsYlFrWFRGTzhkQWc1RVA3OHdkSHJYdFF6ZzluSVZjY3ZseEJ4d0dZcl9FdXpHSQ?oc=5",
-          "source": "Futura, le média qui explore le monde",
-          "summary": "Diabète et surpoids : des scientifiques découvrent que ce régime alimentaire fait mieux que les médicaments Futura, le média qui explore le monde",
-          "published": "2026-10-20T10:15:00+00:00"
-        },
-        {
-          "title": "Cardiovascular, renal and metabolic care needs “complete re-think”, says chair of CVRM Professional Care",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNW05QWtyMXhnZ0F2MVRQckJ0VkRVdGg4cmw5cjc3ZXNIQkVPZUJRcFMtdHdWeWNKa1VhdkdTaDNVZXNZVGJtMldsSHVZbldrdTVCNUVzZmg1cEstdEFOd3U3Y3NENF9FRm5VV0EzdFJjWVFubFJXMzE2Q1NKUWRlcWVPQzhBank5ZHliOGVRRTJIeTB0T3FONjYzcmp2NzRUd184aWNlblNxQ3RIRjNuVHRhbkFEYTlFUlZLbmlMemRFOGpnTjIxbw?oc=5",
-          "source": "The Diabetes Times",
-          "summary": "Cardiovascular, renal and metabolic care needs “complete re-think”, says chair of CVRM Professional Care The Diabetes Times",
-          "published": "2026-10-20T10:12:59+00:00"
         }
       ]
     }
