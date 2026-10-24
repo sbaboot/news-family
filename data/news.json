@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-10-23T21:01:10.775884+00:00",
+  "generated_at": "2026-10-24T03:23:43.326405+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Donald Trump a fait déposer un recours préventif en cas de défaite du candidat républicain lors du scrutin sénatorial en Alaska",
+          "link": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président américain a dit avoir demandé à son administration de bloquer la validation des résultats en cas de succès démocrate, arguant que la présence d’un candidat homonyme au sénateur républicain sortant pouvait…",
+          "published": "2026-10-24T01:26:30+00:00"
+        },
+        {
+          "title": "Le secrétaire d’Etat américain, Marco Rubio, invite les opposants cubains à collaborer avec la CIA",
+          "link": "https://www.lemonde.fr/international/article/2026/10/24/le-secretaire-d-etat-americain-marco-rubio-invite-les-opposants-cubains-a-collaborer-avec-la-cia_6799313_3210.html",
+          "source": "Le Monde",
+          "summary": "Washington intensifie encore sa pression sur le régime castriste par cette démarche, inédite dans la politique américaine envers l’île, pourtant marquée par plus de six décennies de tentatives de déstabilisation.",
+          "published": "2026-10-24T00:14:51+00:00"
+        },
+        {
+          "title": "Argentine : non-lieu pour le président Javier Milei dans l’affaire d’une cryptomonnaie effondrée",
+          "link": "https://www.lemonde.fr/international/article/2026/10/24/argentine-non-lieu-pour-le-president-javier-milei-dans-l-affaire-d-une-cryptomonnaie-effondree_6799280_3210.html",
+          "source": "Le Monde",
+          "summary": "Le dirigeant ultralibéral avait relayé, sur X, le lancement de la $LIBRA en 2025, avant d’effacer son message. Entretemps, la monnaie avait bondi puis s’était effondrée, provoquant des pertes pour plus de 114 000…",
+          "published": "2026-10-23T23:44:16+00:00"
+        },
+        {
+          "title": "Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
+          "source": "Le Monde",
+          "summary": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaïre, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
+          "published": "2026-10-23T23:07:05+00:00"
+        },
+        {
+          "title": "Manifestations du 24 octobre : 70 000 policiers et gendarmes déployés, les lycéens toujours mobilisés",
+          "link": "https://www.france24.com/fr/france/20261023-manifestations-du-24-octobre-70-000-policiers-et-gendarmes-d%C3%A9ploy%C3%A9s-les-lyc%C3%A9ens-toujours-mobilis%C3%A9s",
+          "source": "©  Abdul Saboor, Reuters",
+          "summary": "Plusieurs représentants lycéens ont été reçus à l'Élysée vendredi pour échanger avec Emmanuel Macron, à la veille d'une nouvelle journée de contestation qui mobilise plus de 70 000 policiers et gendarmes. Globalement…",
+          "published": "2026-10-23T21:13:14+00:00"
+        },
+        {
+          "title": "🔴 L'agence Moody's maintient la note souveraine de la France à Aa3 avec perspective négative",
+          "link": "https://www.france24.com/fr/france/20261022-notation-de-la-france-un-abaissement-de-la-note-par-moody-s-jug%C3%A9-tr%C3%A8s-plausible",
+          "source": "France 24",
+          "summary": "",
+          "published": "2026-10-23T21:12:03+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne dit qu’elle observera une trêve à Olechky à partir de mardi pour permettre des opérations humanitaires",
+          "link": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
+          "source": "Le Monde",
+          "summary": "La Maison Blanche avait annoncé que Moscou et Kiev avaient « accepté de suspendre temporairement toutes les opérations militaires dans cette ville afin de permettre l’acheminement de l’aide humanitaire et de préparer…",
+          "published": "2026-10-23T21:02:42+00:00"
+        },
+        {
+          "title": "FC Barcelone vs Real Madrid : un Clásico équilibré ?",
+          "link": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261023-fc-barcelone-vs-real-madrid-un-cl%C3%A1sico-%C3%A9quilibr%C3%A9",
+          "source": "France 24",
+          "summary": "C’est le match que toute la planète foot attend avec impatience : le FC Barcelone reçoit le Real Madrid au Camp Nou dimanche. Allons-nous assister, pour ce match aller, à un Clásico équilibré ?",
+          "published": "2026-10-23T20:57:03+00:00"
+        },
         {
           "title": "Les États-Unis pourraient frapper l'Iran dès ce week-end, avance un diplomate américain",
           "link": "https://www.france24.com/fr/moyen-orient/20261023-les-%C3%A9tats-unis-pourraient-frapper-l-iran-d%C3%A8s-ce-week-end-avance-un-diplomate-am%C3%A9ricain",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "À Paris, la foire d'art contemporain africain AKAA accueille une installation monumentale du photographe sénégalais Gabriel Dia. Avec Mother's Heritage, l'artiste revisite ses souvenirs d'enfance dans l'atelier de…",
           "published": "2026-10-23T20:40:29+00:00"
-        },
-        {
-          "title": "Gabon: Ali Bongo revient en politique et revendique la tête du PDG",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261023-gabon-ali-bongo-revient-en-politique-et-revendique-la-t%C3%AAte-du-pdg",
-          "source": "France 24",
-          "summary": "Au Gabon, Ali Bongo sort de son silence. Dans une vidéo publiée depuis Paris, l'ancien président gabonais annonce son retour en politique. Son objectif immédiat : reprendre la tête du Parti démocratique gabonais, le…",
-          "published": "2026-10-23T20:38:23+00:00"
-        },
-        {
-          "title": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
-          "link": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
-          "source": "© Hannah McKay,  AFP",
-          "summary": "Le président Emmanuel Macron a dénoncé vendredi soir à Trappes un \"attentat terroriste raciste\" et a appelé à l'unité, après la fusillade survenue dans la matinée, qui a fait un mort et plusieurs blessés. Une enquête a…",
-          "published": "2026-10-23T19:57:19+00:00"
-        },
-        {
-          "title": "A Dubaï, la rupture commerciale avec Téhéran met à mal les entreprises iraniennes et leurs circuits de financement",
-          "link": "https://www.lemonde.fr/international/article/2026/10/23/a-dubai-la-rupture-commerciale-avec-teheran-met-a-mal-les-entreprises-iraniennes-et-leurs-circuits-de-financement_6799141_3210.html",
-          "source": "Le Monde",
-          "summary": "La suspension des échanges entre les Emirats arabes unis et l’Iran bouleverse les circuits d’approvisionnement et de paiement dont dépendent les sociétés iraniennes. Les commerçants de la République islamique tentent de…",
-          "published": "2026-10-23T18:30:03+00:00"
-        },
-        {
-          "title": "Roumanie : deux attaques au couteau, dont l’une en lien avec la mouvance True Crime Community, ont fait quatre blessés dans des écoles",
-          "link": "https://www.lemonde.fr/international/article/2026/10/23/roumanie-deux-attaques-au-couteau-dont-l-une-en-lien-avec-la-mouvance-true-crime-community-ont-fait-quatre-blesses-dans-des-ecoles_6799140_3210.html",
-          "source": "Le Monde",
-          "summary": "En moins d’une semaine, deux agressions à l’arme blanche ont eu lieu dans deux établissements roumains. L’un des auteurs serait lié à la communauté en ligne TCC glorifiant la violence extrême et qui aurait influencé le…",
-          "published": "2026-10-23T18:25:27+00:00"
-        },
-        {
-          "title": "🔴 En direct : Macron évoque \"un tournant\" et dénonce un \"attentat\" commis \"sur la base d'une idéologie raciste\"",
-          "link": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-10-23T18:15:49+00:00"
-        },
-        {
-          "title": "Tirs dans les Yvelines : le maire dénonce \"un attentat à connotation raciste\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
-          "source": "France 24",
-          "summary": "Qualifiant l'attaque meurtrière des Yvelines d'attentat à \"connotation raciste\" et \"objectivement islamophobe\", le maire de Trappes, Ali Rabeh, a exhorté vendredi à la \"concorde républicaine\".",
-          "published": "2026-10-23T18:08:49+00:00"
-        },
-        {
-          "title": "Cisjordanie : en réponse à une attaque contre des militaires israéliens, Nétanyahou promet des destructions d’ampleur et encore plus de colonies",
-          "link": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
-          "source": "Le Monde",
-          "summary": "Après la mort de deux soldats près d’Hébron, le premier ministre israélien a promis « une opération très vaste de l’armée », mais l’état-major semble plus modéré, à quatre jours d’élections législatives décisives.",
-          "published": "2026-10-23T18:01:39+00:00"
-        },
-        {
-          "title": "La diplomatie de Giorgia Meloni, une politique au cœur de l’internationale réactionnaire",
-          "link": "https://www.lemonde.fr/international/article/2026/10/23/la-diplomatie-de-giorgia-meloni-une-politique-au-c-ur-de-l-internationale-reactionnaire_6799132_3210.html",
-          "source": "Le Monde",
-          "summary": "« Meloni, quatre années au pouvoir » (5/6). La présidente du conseil italien, d’extrême droite, cultive ses affinités idéologiques avec les dirigeants les plus conservateurs, comme Donald Trump, Javier Milei ou Viktor…",
-          "published": "2026-10-23T17:30:11+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Les États-Unis vont lever certains droits de douane sur les exportations canadiennes",
-          "link": "https://www.ledevoir.com/economie/1019372/etats-unis-vont-lever-certains-droits-douane-exportations-canadiennes",
-          "source": "Le Devoir",
-          "summary": "Les exemptions concernent des produits essentiels pour des producteurs agricoles du Maine.",
-          "published": "2026-10-23T20:06:00+00:00"
-        },
-        {
-          "title": "Guerre commerciale | Nouveau chapitre de va-et-vient tarifaire à Washington",
-          "link": "https://www.lapresse.ca/affaires/economie/2026-10-23/guerre-commerciale/nouveau-chapitre-de-va-et-vient-tarifaire-a-washington.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Canadien 4 – Blackhawks 1 | Jake Evans inscrit deux buts dans une victoire du Tricolore",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-10-23/canadien-4-blackhawks-1/jake-evans-inscrit-deux-buts-dans-une-victoire-du-tricolore.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Des droits de douane qui disparaissent pour certains types de papiers, de produits du bois ainsi que de la machinerie, mais d’autres qui s’ajoutent pour le shampoing, les tapis et certains types de déchets. Le…",
-          "published": "2026-10-23T19:55:52+00:00"
+          "summary": "En l’absence de Nick Suzuki, c’est un autre vétéran qui s’est levé pour le Canadien, vendredi soir au United Center.",
+          "published": "2026-10-24T03:06:02+00:00"
         },
         {
-          "title": "Mélanie Joly veut faire construire un laminoir d’aluminium au Canada",
-          "link": "https://www.ledevoir.com/politique/canada/1019369/melanie-joly-veut-faire-construire-laminoir-aluminium-canada",
-          "source": "Le Devoir",
-          "summary": "«Notre gouvernement considère l’aluminium comme un secteur stratégique pour l’économie canadienne.»",
-          "published": "2026-10-23T19:53:26+00:00"
+          "title": "Lula et Bolsonaro modèrent leur ton à leur dernier débat avant le second tour au Brésil",
+          "link": "https://www.journaldemontreal.com/2026/10/23/lula-et-bolsonaro-moderent-leur-ton-a-leur-dernier-debat-avant-le-second-tour-au-bresil",
+          "source": "Journal de Montreal",
+          "summary": "Après un premier débat truffé d'insultes, le président brésilien Lula et Flavio Bolsonaro ont modéré le ton lors de leur dernier face à face.",
+          "published": "2026-10-24T02:54:15+00:00"
         },
         {
-          "title": "Élections de mi-mandat | L’administration Trump dépose une plainte pour empêcher une victoire démocrate en Alaska",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-10-23/elections-de-mi-mandat/l-administration-trump-depose-une-plainte-pour-empecher-une-victoire-democrate-en-alaska.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Premier test réussi pour le CH",
+          "link": "https://www.journaldemontreal.com/2026/10/23/sans-suzuki-le-ch-vise-la-victoire-a-chicago",
+          "source": "Journal de Montreal",
+          "summary": "À son premier match sans Nick Suzuki, le Canadien s'impose 4 à 1 devant les Blackhawks.",
+          "published": "2026-10-24T02:41:53+00:00"
+        },
+        {
+          "title": "Les Alouettes terminent la saison en beauté avec une 14e victoire",
+          "link": "https://www.journaldemontreal.com/2026/10/23/les-alouettes-terminent-la-saison-en-beaute-avec-une-14e-victoire",
+          "source": "Journal de Montreal",
+          "summary": "Cette victoire contre les Argonauts permet au club montréalais de boucler cette campagne avec un dossier de 14-4.",
+          "published": "2026-10-24T02:22:02+00:00"
+        },
+        {
+          "title": "Arabie saoudite: deux explosions entendues à Riyad après une alerte",
+          "link": "https://www.journaldemontreal.com/2026/10/23/arabie-saoudite-deux-explosions-entendues-a-riyad-apres-une-alerte",
+          "source": "Journal de Montreal",
+          "summary": "Deux détonations ont retenti à Riyad en début de matinée samedi, peu après qu'un drone a été signalé comme intercepté.",
+          "published": "2026-10-24T02:21:07+00:00"
+        },
+        {
+          "title": "L'intelligence artificielle bouleverse le quotidien des coiffeurs, selon le propriétaire d'un salon",
+          "link": "https://www.journaldemontreal.com/2026/10/23/lintelligence-artificielle-bouleverse-le-quotidien-des-coiffeurs-selon-le-proprietaire-dun-salon",
+          "source": "Journal de Montreal",
+          "summary": "La place grandissante de l’IA devient un fléau dans plusieurs industries, notamment pour les coiffeurs, selon le propriétaire d’un salon de coiffure.",
+          "published": "2026-10-24T02:10:42+00:00"
+        },
+        {
+          "title": "Alouettes 33 – Argonauts 16 | Une victoire avant les éliminatoires",
+          "link": "https://www.lapresse.ca/sports/football/2026-10-23/alouettes-33-argonauts-16/une-victoire-avant-les-eliminatoires.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Le président Donald Trump a déclaré vendredi avoir demandé à son administration d’intenter une action en justice pour bloquer la validation des résultats de l’élection sénatoriale en Alaska si le sénateur républicain…",
-          "published": "2026-10-23T19:49:43+00:00"
+          "summary": "Les Alouettes de Montréal ont conclu leur saison régulière, vendredi, sur un gain convaincant de 33-16 face aux Argonauts de Toronto, leurs éternels rivaux. La troupe de Jason Maas termine donc la campagne 2026 avec une…",
+          "published": "2026-10-24T02:10:13+00:00"
         },
         {
-          "title": "Les trois actus du 23 octobre",
-          "link": "https://www.ledevoir.com/actualites/1019360/trois-actus-23-octobre",
+          "title": "Une septième victoire de suite pour le Rocket",
+          "link": "https://www.journaldemontreal.com/2026/10/23/une-septieme-victoire-de-suite-pour-le-rocket",
+          "source": "Journal de Montreal",
+          "summary": "Ça va vraiment bien.",
+          "published": "2026-10-24T02:09:52+00:00"
+        },
+        {
+          "title": "Un essai de vaccin contre Ebola débute en République démocratique du Congo",
+          "link": "https://www.journaldemontreal.com/2026/10/23/un-essai-de-vaccin-contre-ebola-debute-en-republique-democratique-du-congo",
+          "source": "Journal de Montreal",
+          "summary": "Un essai de vaccin contre Ebola débute en République démocratique du Congo.",
+          "published": "2026-10-24T02:00:04+00:00"
+        },
+        {
+          "title": "Une pétition en soutien à Ruba Ghazal recueille plus de 36 000 signatures",
+          "link": "https://www.ledevoir.com/politique/quebec/1019414/petition-soutien-ruba-ghazal-recueille-plus-36-000-signatures",
           "source": "Le Devoir",
-          "summary": "PSPP débloque une aide en itinérance, deux femmes tuées à Rivière-du-Loup et fusillade en France: quoi retenir.",
-          "published": "2026-10-23T19:30:00+00:00"
-        },
-        {
-          "title": "Deux femmes tuées par balles à Rivière-du-Loup: elles n’avaient que 19 et 25 ans",
-          "link": "https://www.journaldemontreal.com/2026/10/23/double-meurtre-a-riviere-du-loup-deux-femmes-tuees-par-balles",
-          "source": "Journal de Montreal",
-          "summary": "Deux jeunes femmes sont mortes après avoir été retrouvées dans une voiture criblée de balles derrière un restaurant de Rivière-du-Loup, jeudi soir.",
-          "published": "2026-10-23T19:30:00+00:00"
-        },
-        {
-          "title": "Wicker, Clayface, Violence du corps de l’autre... | Nos critiques de films cette semaine",
-          "link": "https://www.lapresse.ca/cinema/critiques/2026-10-23/wicker-clayface-violence-du-corps-de-l-autre/nos-critiques-de-films-cette-semaine.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Quoi voir cette semaine ? Voici nos critiques des derniers films sortis en salle.",
-          "published": "2026-10-23T18:30:00+00:00"
-        },
-        {
-          "title": "Devant l’absence de serment au roi, un avocat veut bloquer le début des travaux",
-          "link": "https://www.ledevoir.com/politique/quebec/1019318/serment-roi-avocat-veut-bloquer-debut-travaux",
-          "source": "Le Devoir",
-          "summary": "Selon lui, la levée de l’obligation de prêter serment au roi est une violation manifeste de la Constitution.",
-          "published": "2026-10-23T18:26:00+00:00"
-        },
-        {
-          "title": "Des négociations Russie-Ukraine sous médiation américaine «prévues» à Abou Dhabi en novembre, selon Moscou",
-          "link": "https://www.journaldemontreal.com/2026/10/23/des-negociations-russie-ukraine-sous-mediation-americaine-prevues-a-abou-dhabi-en-novembre-selon-moscou",
-          "source": "Journal de Montreal",
-          "summary": "Des négociations directes entre la Russie et l'Ukraine sous médiation américaine sont «prévues» en novembre à Abou Dhabi aux Émirats arabes unis.",
-          "published": "2026-10-23T18:08:06+00:00"
-        },
-        {
-          "title": "Attaque meurtrière en France: le tireur avait piégé son appartement",
-          "link": "https://www.journaldemontreal.com/2026/10/23/attaque-meurtriere-en-france-le-tireur-avait-piege-son-appartement",
-          "source": "Journal de Montreal",
-          "summary": "L'homme qui a tué à l'arme à feu une personne et fait cinq blessés vendredi en région parisienne avait piégé son logement avec des bouteilles de gaz.",
-          "published": "2026-10-23T17:56:04+00:00"
+          "summary": "Elle a été lancée en réponse à la pétition demandant la démission de la co-porte-parole de Québec solidaire.",
+          "published": "2026-10-24T01:33:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "La dette française sous Sarkozy, Hollande et Macron : récit de quinze ans de dérapage incontrôlé",
-          "link": "https://www.lefigaro.fr/economie/la-dette-francaise-sous-sarkozy-hollande-et-macron-recit-de-quinze-ans-de-derapage-incontrole-20261022",
+          "title": "Allemagne : un suspect arrêté après un incendie d’ampleur au «Nid d’Aigle» de Hitler",
+          "link": "https://www.lefigaro.fr/international/allemagne-un-suspect-arrete-apres-un-incendie-d-ampleur-au-nid-d-aigle-de-hitler-20261024",
           "source": "Le Figaro",
-          "summary": "RÉCIT - Depuis qu’elle a perdu sa note « triple A » en janvier 2012, la France n’a jamais redressé la barre de ses comptes publics. Elle s’est enfoncée par paliers et se retrouve aujourd’hui plongée dans une crise…",
-          "published": "2026-10-23T20:59:28+00:00"
+          "summary": "La résidence Kehlsteinhaus d’Adolf Hitler, également connue sous le nom de Nid d’Aigle, servait aux réceptions des dignitaires nazis, perchée dans les Alpes bavaroises.",
+          "published": "2026-10-24T03:03:22+00:00"
         },
         {
-          "title": "EN DIRECT - «Acte II» le 24 octobre : la préfecture interdit le parcours Bastille-Nation de la manifestation parisienne demain",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
+          "title": "Arabie saoudite : un missile balistique lancé en direction de Ryad intercepté",
+          "link": "https://www.lefigaro.fr/international/arabie-saoudite-deux-explosions-entendues-a-ryad-20261024",
           "source": "Le Figaro",
-          "summary": "Après plus d’un mois de crise, Emmanuel Macron est monté en première ligne vendredi dans la contestation des lycéens en recevant pour la première fois leurs représentants, à la veille d’une nouvelle journée de…",
-          "published": "2026-10-23T20:59:02+00:00"
+          "summary": "La défense civile saoudienne a indiqué qu’un système d’alerte précoce avait été activé pour prévenir les habitants d’une menace potentielle.",
+          "published": "2026-10-24T02:38:55+00:00"
+        },
+        {
+          "title": "Donald Trump a fait déposer un recours préventif en cas de défaite du candidat républicain lors du scrutin sénatorial en Alaska",
+          "link": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html",
+          "source": "Le Monde",
+          "summary": "Le président américain a dit avoir demandé à son administration de bloquer la validation des résultats en cas de succès démocrate, arguant que la présence d’un candidat homonyme au sénateur républicain sortant pouvait…",
+          "published": "2026-10-24T01:26:30+00:00"
         },
         {
           "title": "«Première fois» qu’un acte terroriste vise à tuer «en raison de la couleur de peau ou de la religion» supposées : la lourde erreur de Macron sur les tirs des Yvelines",
           "link": "https://www.lefigaro.fr/politique/premiere-fois-qu-un-acte-terroriste-vise-a-tuer-en-raison-de-la-couleur-de-peau-ou-de-la-religion-supposees-la-lourde-erreur-de-macron-sur-les-tirs-des-yvelines-20261023",
           "source": "Le Figaro",
-          "summary": "En déplacement vendredi soir à Trappes, l’une des deux communes touchées, avec La Verrière, le président a qualifié de «tournant» l’attaque «terroriste raciste» qui a tué une personne et en a blessé cinq autres, la…",
-          "published": "2026-10-23T20:56:53+00:00"
+          "summary": "En déplacement vendredi soir à Trappes, le président a présenté l’attaque «terroriste raciste» survenue dans la commune, et à La Verrière, comme un «tournant» sans précédent. Une affirmation démentie par les faits,…",
+          "published": "2026-10-24T00:24:25+00:00"
         },
         {
-          "title": "Dette : à la surprise générale, Moody’s ne dégrade pas la France",
-          "link": "https://www.lefigaro.fr/conjoncture/dette-a-la-surprise-generale-moody-s-ne-degrade-pas-la-france-20261023",
+          "title": "Le secrétaire d’Etat américain, Marco Rubio, invite les opposants cubains à collaborer avec la CIA",
+          "link": "https://www.lemonde.fr/international/article/2026/10/24/le-secretaire-d-etat-americain-marco-rubio-invite-les-opposants-cubains-a-collaborer-avec-la-cia_6799313_3210.html",
+          "source": "Le Monde",
+          "summary": "Washington intensifie encore sa pression sur le régime castriste par cette démarche, inédite dans la politique américaine envers l’île, pourtant marquée par plus de six décennies de tentatives de déstabilisation.",
+          "published": "2026-10-24T00:14:51+00:00"
+        },
+        {
+          "title": "Argentine : plus de 2000 évacués en raison d'inondations liées à El Niño",
+          "link": "https://www.lefigaro.fr/international/argentine-plus-de-2000-evacues-en-raison-d-inondations-liees-a-el-nino-20261024",
           "source": "Le Figaro",
-          "summary": "L’agence de notation américaine a maintenu l’échelon Aa3, avec une perspective négative. La plupart des observateurs s’attendaient à un passage en A1 en raison de l’incapacité du gouvernement à redresser les finances…",
-          "published": "2026-10-23T20:53:46+00:00"
+          "summary": "Les précipitations de ces dernières semaines ont accru le débit des fleuves Paraná, Uruguay et Iguazú, qui bordent distinctement l’Argentine, le Brésil, le Paraguay ou encore l’Uruguay.",
+          "published": "2026-10-23T23:59:38+00:00"
         },
         {
-          "title": "Mobilisations du 24 octobre : \"le niveau de menace reste élevé\", affirme Sébastien Lecornu, ciblant \"l'ultragauche\" et \"la délinquance\"",
-          "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
+          "title": "«Acte II» le 24 octobre : la préfecture interdit le parcours Bastille-Nation de la manifestation parisienne demain",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
+          "source": "Le Figaro",
+          "summary": "Après plus d’un mois de crise, Emmanuel Macron est monté en première ligne vendredi dans la contestation des lycéens en recevant pour la première fois leurs représentants, à la veille d’une nouvelle journée de…",
+          "published": "2026-10-23T23:27:25+00:00"
+        },
+        {
+          "title": "Tireur des Yvelines : Emmanuel Macron affirme que l’attentat terroriste en banlieue parisienne marque un tournant pour la France",
+          "link": "https://www.lefigaro.fr/faits-divers/en-direct-fusillade-mortelle-a-trappes-le-tireur-voulait-faire-un-carnage-le-parquet-national-antiterroriste-se-place-en-observation-20261023",
+          "source": "Le Figaro",
+          "summary": "Emmanuel Macron sur place a dénoncé un «attentat» commis «sur la base d’une idéologie raciste». Le président a invité à ne «rien céder» et à ne pas «baisser la tête» face aux «idées qui s’installent.»",
+          "published": "2026-10-23T23:22:25+00:00"
+        },
+        {
+          "title": "L’agence Moody’s ne dégrade pas la note de la France malgré l’incertitude budgétaire et politique",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/24/l-agence-moody-s-ne-degrade-pas-la-note-de-la-france-malgre-l-incertitude-budgetaire-et-politique_6799214_3234.html",
+          "source": "Le Monde",
+          "summary": "Contrairement aux prévisions de beaucoup d’économistes, l’entreprise américaine de notation a maintenu, vendredi, la note de la dette souveraine à Aa3, se démarquant de l’appréciation portée par les agences S&P et Fitch…",
+          "published": "2026-10-23T22:52:22+00:00"
+        },
+        {
+          "title": "Le congrès du Rassemblement national à Orléans, épicentre d'une nouvelle journée de manifestations à haut risque",
+          "link": "https://www.franceinfo.fr/politique/front-national/a-orleans-le-parcours-de-la-manifestation-anti-rassemblement-national-est-modifie-pour-eviter-le-centre-ville_8251546.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Il a assuré que le \"retour d'expérience\" du 17 octobre permettait au dispositif de sécurité d'être ajusté, notamment dans \"la manière dont les forces vont être utilisées\".",
-          "published": "2026-10-23T20:47:30+00:00"
-        },
-        {
-          "title": "Manifestation à Paris : la préfecture interdit le parcours entre les places de la Bastille et de la Nation, le parcours alternatif refusé par l’intersyndicale",
-          "link": "https://www.lefigaro.fr/actualite-france/manifestation-a-paris-la-prefecture-interdit-le-parcours-entre-les-places-de-la-bastille-et-de-la-nation-le-parcours-alternatif-refuse-par-l-intersyndicale-20261023",
-          "source": "Le Figaro",
-          "summary": "Malgré l’interdiction du parcours initial, les organisations syndicales et étudiantes maintiennent leur volonté de se rendre place de la Bastille samedi. Elles dénoncent un «revirement de dernière minute» de la…",
-          "published": "2026-10-23T20:44:50+00:00"
-        },
-        {
-          "title": "Attaque dans les Yvelines : Emmanuel Macron dénonce «un acte terroriste et raciste» qui constitue un «tournant»",
-          "link": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU/",
-          "source": "Liberation",
-          "summary": "Le Parquet national antiterroriste (Pnat) a annoncé se saisir des faits commis par un homme qui a tiré en rafales dans la rue vendredi 23 octobre au matin dans les Yvelines, tuant une personne et en blessant cinq autres.",
-          "published": "2026-10-23T20:41:41+00:00"
-        },
-        {
-          "title": "Affaire «band of connasses» : condamnée en première instance, Tara Heuzé-Sarmini obtient gain de cause en appel",
-          "link": "https://www.liberation.fr/societe/police-justice/affaire-band-of-connasses-condamnee-en-premiere-instance-tara-heuze-sarmini-obtient-gain-de-cause-en-appel-20261023_5HTG25H6RRFOTKUOMYN4EOQIWE/",
-          "source": "Liberation",
-          "summary": "L’entrepreneuse avait diffusé une conversation privée avec un confrère qui la traitait de «connasse» sur le réseau social LinkedIn, sans le consentement de ce dernier.",
-          "published": "2026-10-23T20:32:30+00:00"
-        },
-        {
-          "title": "Elena Nagapetyan, humoriste : «J’ai peur pour la santé des Rolling Stones»",
-          "link": "https://www.liberation.fr/culture/musique/elena-nagapetyan-humoriste-jai-peur-pour-la-sante-des-rolling-stones-20261023_XI3I2PYYC5FELPMT7N2HWL7W6U/",
-          "source": "Liberation",
-          "summary": "",
-          "published": "2026-10-23T20:25:00+00:00"
-        },
-        {
-          "title": "Mouvement social : «Le maintien de l’ordre ne se gère pas avec un sourire et un bisou», cingle le préfet de Paris",
-          "link": "https://www.liberation.fr/societe/police-justice/mouvement-social-le-maintien-de-lordre-ne-se-gere-pas-avec-un-sourire-et-un-bisou-cingle-le-prefet-de-paris-20261023_C4BUY7PFVVFTHHJ5TBG3BB4K5U/",
-          "source": "Liberation",
-          "summary": "Dans une interview donnée à «l’Opinion» le 23 octobre, Patrice Faure a défendu les dispositifs employés par les forces de l’ordre place de la République, avant même le début de la manifestation le 17 octobre.",
-          "published": "2026-10-23T20:19:52+00:00"
+          "summary": "Les autorités attendent jusqu'à 30 000 personnes samedi dès 10h30, sur un parcours modifié pour éviter le centre-ville. Deux fois plus de monde qu'à l'acmé du mouvement contre la dernière réforme des retraites.",
+          "published": "2026-10-23T22:32:31+00:00"
         }
       ]
     },
@@ -325,6 +325,62 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "Denville Township Elementary School Student Is Raising Money For Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWHRfcjFSRG1jOTlUcndzc2FBblpudFNyTHBTQWZQNnJTdXBVbkFKd1daUzRQVTRhTDcxdTNGQ1Zic1RqUEY0YmFCYy0yVXlCRDB3anh1NGx1MU5HWG5qY3p6QzdoM2I3S19Bd3JEckx6bDA0UWptdXhBbHVSSzRoWGlqNENscHdtRUdJU3UyTHctaVY1UUJ3RGJZMWFyRy10NVRZS3pUZGdWQmk1OFBoSWZwNXg0ajRkZW9HTWhIOTRIWmRTalNVUnRZZ09vNlU1Z0dQZUtfeXdoZw?oc=5",
+          "source": "TAPinto",
+          "summary": "Denville Township Elementary School Student Is Raising Money For Diabetes TAPinto",
+          "published": "2026-10-24T03:00:00+00:00"
+        },
+        {
+          "title": "Local girl raises thousands for type 1 diabetes research ahead of charity walk",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObS1Sc1ZJZ2NULUYwcVF6S2JIaXdPNGd2NFk2a0kwOVFteTlZYVRlaGt5U1lXNWNKZ1JtWHRoRzZPRWFfV05BZjJ6eWxuRVpnZk1Pa3c5LW4xb0xxY21SbkFpa3pxbVhvWElER1hyT1Y5cHVJOVFjWTNfOTBUdEJpQUp2NG52STJ0SThzOTRGTmtKR29uaWlkdi1LM3Y3V0R3bjlENVN4ZUNkUVdYWjR6eE9hVlc2WUVrb1ZVZDJkQzVVcUctOEFmVVBRUTF6N1RVVmxMRWxTckxkZFhMbFVqR3JRN0hnck0xNVlqdGVNYlQ1U0E?oc=5",
+          "source": "fox43.com",
+          "summary": "Local girl raises thousands for type 1 diabetes research ahead of charity walk fox43.com",
+          "published": "2026-10-24T02:27:00+00:00"
+        },
+        {
+          "title": "Education support limit frustrates parents with type 1 diabetic children",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWFRaXNmNWFLdXM0SktYUEtNRXNMWFplUjdUSF9FNVVxc2RfMVhHSHliWGpzVlZVcEFhZVVocy1LTzFFTl8zMmhJUmNlWE9pV0pwVENOUlg1bFVER3BZbWF5MnZvTnpLWWZfUTBnZWdnLXdtMUltYWVoRE1IVFVkMVNEbDd1RUw3Wk1POGRBQkV1MHZza2dpTXNXSmJmV0Q0VWh3UUNQYlgtRVRnc0E?oc=5",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "summary": "Education support limit frustrates parents with type 1 diabetic children ABC News & Headlines – Australian Broadcasting Corporation",
+          "published": "2026-10-23T23:58:17+00:00"
+        },
+        {
+          "title": "U of I Extension to host class on diabetes at Decatur Memorial Hospital",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDVJeS1JeVBpbVpDNmJMUE11TEtiaFRYbWFOSTR3ZmZsX1kxZkF3WVk4OVZycWtSU2dEeEdPQllBZko0QmhFNXVUUWF6V1RtX2NOWDZRLVV2LVNvVl9xTWV6Yi10RFRKMUZFMnpvNE1pTl9zaWxFSTlXTDNRdi1wZjV0Y0Z2c1hwUnVaNkJBa1Vqelh1MGxsdFVR0gGuAUFVX3lxTFA0ekp1ZXJoX2s2VGNDalExWS0zWkdMWUVCMnBLakJ5M04tc29lM3RheTZQVDFJZW82NHZzYWJSZERadnRpUkozRkdMNzlDcTBEUUhuaWdOamRmT09sZWx5QVBzc29USjRjQUJwNzNJTnE3cFZXbjI5TWQtc2Y0YV9kenFDS3k4d0otaFBfNFBxbnA2SGVGS2pEN0JfdWVMZm9fZW9mMTNZNlNhZGZyQQ?oc=5",
+          "source": "WAND",
+          "summary": "U of I Extension to host class on diabetes at Decatur Memorial Hospital WAND",
+          "published": "2026-10-23T23:17:00+00:00"
+        },
+        {
+          "title": "Heat and Itaconate Combine to Rebuild Bone in Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFRhMTdKSTFiMlhPZnJXM3dwZ0ZIOUllRldPemJhWEZjZWhHN3laVlhWU1pfS3JtMlJ1aEZBeFJEN0lGVWdqWGRLRXFrZGlHaDZ3dUhMTndoV1R2M3o4THFNRDJXdm82QlJtdW1zajVDVWl3dnBHR1Rfd1BtUVRlRy0zcWo5dw?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Heat and Itaconate Combine to Rebuild Bone in Diabetes Bioengineer.org",
+          "published": "2026-10-23T21:49:15+00:00"
+        },
+        {
+          "title": "The connection between diabetes, cardio-kidney-metabolic health",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZm9WQkQzWHBkYjk5RncxUG5MTmpUSU81cWRaUU9UV0VxcksyTVBMYmNQcFVyUmI0LXFsVjRLTDd0NHRKX0lSYUxfYmtoMndrYUpSTV9vQ0Y4bzVGUGZhbkNENlpaQ3hnTWcxbWtJbGVNZWExRUU0ZE9qNm1YUW1BSFdwUDlXY09SR1BGcURSUDlESHRUOG05dnpxZDcwQU5mSmh4cUJyOUZvdw?oc=5",
+          "source": "KSAT",
+          "summary": "The connection between diabetes, cardio-kidney-metabolic health KSAT",
+          "published": "2026-10-23T21:30:30+00:00"
+        },
+        {
+          "title": "Diabetes Dialogue: MiniMed Vivera Data and Twiist Type 2 Clearance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTZqQ2pWRFVHdk1wUllTa2FzakJzTXhab3FPUkxEemFVdDBxLTlQTmxWOFBuZE5vODFOVkwydG82aExDRFE5eUc1M0cxdWZmcTFsOHJPc2RzM2xVajl3NGlid0gtM3hRZnZ4Y2FlVWZNSGZhU1IycTRQNFNSRndOTlUydnEtT0dQREd2OGlhODRXSG5QeXpLQXdR?oc=5",
+          "source": "HCPLive",
+          "summary": "Diabetes Dialogue: MiniMed Vivera Data and Twiist Type 2 Clearance HCPLive",
+          "published": "2026-10-23T21:07:18+00:00"
+        },
+        {
+          "title": "Don’t Turn Back the Clock on Diabetes Care",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEg4Z19aY1hlQ0xETEtWTUxma3ZyMmFBV211YWtHV3IzOU16VjBiLXRxekJvenp5QnZ2SllxUU4yYlFsemI2ald3MGdJbVA5Q3ZsTU40SngzUEVFLVY5Q3A5cmFBTEZRd2lDa01tWlhaaWlnT1BYMzhpWjNGWWh3bkdHRQ?oc=5",
+          "source": "The Well News",
+          "summary": "Don’t Turn Back the Clock on Diabetes Care The Well News",
+          "published": "2026-10-23T19:58:30+00:00"
+        },
+        {
           "title": "Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQW5JUGRSelA4N3hPSFptR21kZ05SaWFKanJNcUoyMEwwSXhYeU5oMFNTMUdRSXpHbVVEZWEzTk4yX3pUZlliNUpMU1VHc2ZzVnZ6NlU1NjlOQlVocnlGTmRsVVlkTjlUMmZQN09EZ2kzcl9xclBnSFFLTFNFZmxFeS1OVi10M1ViVGhhTU9fNm90bzJidU53QktybUJZeUVuMXJYRDVacWNRUQ?oc=5",
           "source": "STAT",
@@ -353,20 +409,6 @@
           "published": "2026-10-23T19:06:44+00:00"
         },
         {
-          "title": "Don’t Turn Back the Clock on Diabetes Care",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEg4Z19aY1hlQ0xETEtWTUxma3ZyMmFBV211YWtHV3IzOU16VjBiLXRxekJvenp5QnZ2SllxUU4yYlFsemI2ald3MGdJbVA5Q3ZsTU40SngzUEVFLVY5Q3A5cmFBTEZRd2lDa01tWlhaaWlnT1BYMzhpWjNGWWh3bkdHRQ?oc=5",
-          "source": "The Well News",
-          "summary": "Don’t Turn Back the Clock on Diabetes Care The Well News",
-          "published": "2026-10-23T18:56:15+00:00"
-        },
-        {
-          "title": "newsweek people are using a diabetes drug for weight loss",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2RjN0tPM3FaaFREUkdsX1cxaEMxTGtkWGVtelBXUjhYbkxGd3hyZFJiQzlnM1VzVHVBc0lHeWJ0QVliUWhLdkQ0T3V5MWhOa1dGWF9RcmYzMmZqZHl6YjBNU3VydHQ2cThiNjV5N3dlcFh5Z2FjOG1xMW4zTWpKbXpVV3VXMF95OElHNDNKTWw4RWhCM2ZN?oc=5",
-          "source": "ΕΜΥ",
-          "summary": "newsweek people are using a diabetes drug for weight loss ΕΜΥ",
-          "published": "2026-10-23T18:40:42+00:00"
-        },
-        {
           "title": "Novo's Awiqli® receives FDA approval as the first and only once-weekly insulin for children 10 years of age and older with type 2 diabetes",
           "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQXZDN054TEp4eDlUbkVIU1Q1eXQwVmRYMEk1ejRLLVM1N0hUZVFvRk1VM3FnZkY0R2RLRW5mVFBqX1pGZmtoUEI0U3o2TGtlQW1vTG9FOFBOU3E2c2kwZ2JmaFBmaGVWNnlIbTlQV1RydjljN3o5MjJHRklLWkVZYUc4SE13ZDFDaS0xa19BVXZUMEVIZG9lOXVyQThtLUMyS01lLW1KWnJ4MVNJOE1HcnFITzdFVHNXdzhValhSVWotS05EbWhLTFhIUEN0Y0hHMDhkQU92WE5MSjBrMVlwcUxRMjdTUDEwZmJheFpnR2tzcFBOV2lKR25nanJqSGVWWUlEVHpTZjZzeFBTYS1Obkhfa0lDTk5ZU18wVQ?oc=5",
           "source": "PR Newswire",
@@ -386,6 +428,13 @@
           "source": "fox43.com",
           "summary": "Three women share their Type 1 diabetes journeys ahead of Breakthrough T1D Walk in Cumberland County fox43.com",
           "published": "2026-10-23T17:45:00+00:00"
+        },
+        {
+          "title": "Women share Type 1 diabetes journeys ahead of T1D event",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2lJQUVlYmRtWmNMVlpFT2tVTVVUQi1zYjZPZjA4eXh0SF9MT1I2eGhpUk9yUVcwNk12NjgyRmU0TXRqVjlhTXdOUUt3LTlDUEZhNm1uUjNyWFNldlhMWVlvWE5Zdzg3akFlcDJBcWJ6WnFORWhzRWJFaGN2WWdhNHRrT0t2QW54NXRUQjE4SUQ1YWRGOTN5dTVkSHBtcFZaSFZxMElSRWdnR3ladmtlZlExRzFuUTFiLVF0MDdOSjV1akpNYTZHNGJMbWNyLVFLZnc?oc=5",
+          "source": "fox43.com",
+          "summary": "Women share Type 1 diabetes journeys ahead of T1D event fox43.com",
+          "published": "2026-10-23T17:44:00+00:00"
         },
         {
           "title": "Women share Type 1 diabetes journeys ahead of TD1 event in East Pennsboro",
@@ -409,13 +458,6 @@
           "published": "2026-10-23T17:37:00+00:00"
         },
         {
-          "title": "Women share Type 1 diabetes journeies ahead of T1D event",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2lJQUVlYmRtWmNMVlpFT2tVTVVUQi1zYjZPZjA4eXh0SF9MT1I2eGhpUk9yUVcwNk12NjgyRmU0TXRqVjlhTXdOUUt3LTlDUEZhNm1uUjNyWFNldlhMWVlvWE5Zdzg3akFlcDJBcWJ6WnFORWhzRWJFaGN2WWdhNHRrT0t2QW54NXRUQjE4SUQ1YWRGOTN5dTVkSHBtcFZaSFZxMElSRWdnR3ladmtlZlExRzFuUTFiLVF0MDdOSjV1akpNYTZHNGJMbWNyLVFLZnc?oc=5",
-          "source": "fox43.com",
-          "summary": "Women share Type 1 diabetes journeies ahead of T1D event fox43.com",
-          "published": "2026-10-23T17:33:00+00:00"
-        },
-        {
           "title": "Finerenone Evidence Broadens Across CKD Types: Hiddo Heerspink, PhD",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZEhHbS1TT2RmSzljNzhDcWNvYkd1TGtpRGtacFJpeVhtV3Zxdk9MY0lzVXBtS3hkT1pWYjhwcEdRMUxPMHpiOWtzY1NzaXFkenVvVm45U2d4bk56OV9RLUxhbEtRSzlvMnViVS1BY052V1BQMUR2bjdfWjE3MjlEQmhGR1pxYXdMZ01YMFJ6amlIOXBLb0E?oc=5",
           "source": "AJMC",
@@ -423,10 +465,17 @@
           "published": "2026-10-23T17:29:31+00:00"
         },
         {
+          "title": "Boost NHS access to weight-loss drugs and transform obesity treatment, MPs tell government",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWndxVjVhWjNGQURHeHdseHJadGF5cTlmMDIwLWRQU21QcUhVUmZUZGRxVWdTeUhpUUJrbHA3WXlULWVHOUlRRU9EV0hQY0NVejJWeGp4bERJVWt1ZmVEdzlZaUNxUlpJWTJEX0dBQnNGTFJnLTJJRDZoZE9Dc1ZmWGJfUkI1SFpXQWZWdTRYVnZUN0pIZVZWUE9TMTQ4Vk5zVkJvRnN4S0wxMnJYTUVFeVVoekZRQnh4N1dkekhsVW1ydXFrYzFLLXllUGdxVmZaOWduZy0yNVV6TndhdjVKbm9QN3MtS3lFZmk4?oc=5",
+          "source": "Wired-Gov",
+          "summary": "Boost NHS access to weight-loss drugs and transform obesity treatment, MPs tell government Wired-Gov",
+          "published": "2026-10-23T16:35:40+00:00"
+        },
+        {
           "title": "Remote Endocrinology Support for Primary Care Clinicians Managing Type 2 Diabetes: A Systematic Review of Randomized Controlled Trials",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdHlJX3BtSGlQbmhjNGRURm9TaGFrbDVocE5VaXJCSWliV3h1Rm4zUGlMUlp0OUtDXzBWV0Y5LVkwcEs2MjlOZXFOS1hVOWV4ZWF2VXR2LTM4aDVSVXZiTlF4TTRxWUlnQ293RGtuUnczbVJtR28wT25QejlBSzQzMDF0UXZCR2tfVnlJc2ZJOTA4UlZkNjZBWWVRYTJkdVNDU29uUFNnRXp5REJJak5QNy1ZQkVxTno2UFhPUWJQaVJzOGE1UXN4RW1tZ016cVVtUjF1WGphU0VHM1VWbWt4ZDJSMEZCcnZWR3gzdnNLaldHeVdma0pZd29nb2NxMVlrd3c?oc=5",
-          "source": "The Cureus Journal of Medical Science",
-          "summary": "Remote Endocrinology Support for Primary Care Clinicians Managing Type 2 Diabetes: A Systematic Review of Randomized Controlled Trials The Cureus Journal of Medical Science",
+          "source": "Cureus",
+          "summary": "Remote Endocrinology Support for Primary Care Clinicians Managing Type 2 Diabetes: A Systematic Review of Randomized Controlled Trials Cureus",
           "published": "2026-10-23T16:08:28+00:00"
         },
         {
@@ -444,6 +493,13 @@
           "published": "2026-10-23T15:53:39+00:00"
         },
         {
+          "title": "GLP-1 Drugs Linked to Fewer Psychiatric Hospitalizations in People With Schizophrenia and Type 2 Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbG56Znc2eTBFOFN2a1ZJLWVzR21hYnlzT28xQXpLM0o0Nm9Celc5TUJIaGhPdFNrXzUwNWFzTks4ZjVva19MeEZ4ZHVBUVdDOGY0LVZBSXZSTlpQZFg0YWUtSzhObmk5N21WenBsZVB1TktZdXRoN2VqSkJEZlhMX19YYnNOUGdfMTRGcXhxVFowSm5ob2xnZU5MRWYtcFNNa1I2MmVfV2ZWa1NhSWI2S1UzTTIwMy1nckxEdmU5UXBQbVFYTHZMNXBNODYxaFZyaGxBZ2tCSldlU1Z3b3ZkRTBXUWhjVFA1VEM3YU9iRTkycmphZVdF?oc=5",
+          "source": "The Clinical Trial Vanguard",
+          "summary": "GLP-1 Drugs Linked to Fewer Psychiatric Hospitalizations in People With Schizophrenia and Type 2 Diabetes The Clinical Trial Vanguard",
+          "published": "2026-10-23T15:49:30+00:00"
+        },
+        {
           "title": "26th annual Dancing for Diabetes fundraiser cuts a rug in Orlando Nov. 14",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWczaFZYVEd4d0lDX2tYcWNiaGJ5eXIxUDdtUlQydWxKLUlkMlJKTlpPYTJxa29OYmhoTERVR29qUHRnOV9WTUJlMV9nX3BRbkJBcWpiMzlVb2VpenBueGE4VWQxaUlDTzc0Tjc1RV85dGlnb05PUUZVb214VnNFQ3ktSkpCalRxb0JsNkUxVUNQZTZSX2E4d0tIcHVOU1dUN3kzeFlidU1pdw?oc=5",
           "source": "352Today.com",
@@ -453,8 +509,8 @@
         {
           "title": "This implant zaps away high blood sugar in mice",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkUtVEhTWTJ0Z1pWN3N6SS10cTg2NFFmcjU2TU5nU2Q1OW5PUUsxMWZnTHN2T2dhOFpYZWZEczdjc01TdWlEd2o0a1NoTFZZeHQ5NzFSMDI4eUFuVFRVa3lZeWdzb19ackU2WFM3dDZJck54aHV6OVFVSVZRd1hIZVdsbWRxUkw3Y181bThQaUMzZGpyOW9VQkIxZGdEal93N3JLS1doblVGMTk3WDl2eG11enNHX3RVaTFjU2FRQ0wwQkk?oc=5",
-          "source": "Chemical & Engineering News",
-          "summary": "This implant zaps away high blood sugar in mice Chemical & Engineering News",
+          "source": "C&EN",
+          "summary": "This implant zaps away high blood sugar in mice C&EN",
           "published": "2026-10-23T15:25:26+00:00"
         },
         {
@@ -469,7 +525,7 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFo1N2NjQjREX2tHU1pKNGdUT1M2UXJLNW5QWHptdXMyVnVzTEFpTmM5RUtzMTBGZnVLc3M4OEJFQlBYYll2dVRvcXJuX3ZJdUNHa0xkRDlKZWxEMnFDeEo4bTV1WlhzS2FGa3ZoUVEzOXdvUC1acUZLMHNFVEx0SkRPb0VHUy1WWXU3ckc4WTZ2WU52LUNMRFJnUQ?oc=5",
           "source": "Bioengineer.org",
           "summary": "Artificial Pancreas Delivers Mixed Results in Year-Long Diabetes Trial Bioengineer.org",
-          "published": "2026-10-23T15:09:13+00:00"
+          "published": "2026-10-23T15:18:39+00:00"
         },
         {
           "title": "CGM benefits ripple beyond glucose control, study finds",
@@ -479,11 +535,25 @@
           "published": "2026-10-23T14:34:00+00:00"
         },
         {
+          "title": "Tackling diabetes with an electronic implant: How a tiny catalyst lowers blood sugar",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUU0cnVLNnkya19FZmZEcGZtYm5IYzZTUVJ4VjZobzVfN1Zsa003bWxFMDFLOEdCaFgzemVkeUd3R04tOUJlTUk5MjFDTE5OTl9jcDJfd0pXai00MnJSTkFDeFQzRmlnZTl2ZE1ydzQwSXpRZXZjMTE1c1NsSnQ2ekE2SDlSVXZmTHY1VVJR?oc=5",
+          "source": "Medical Xpress",
+          "summary": "Tackling diabetes with an electronic implant: How a tiny catalyst lowers blood sugar Medical Xpress",
+          "published": "2026-10-23T14:20:14+00:00"
+        },
+        {
           "title": "Et si un implant pouvait éliminer le sucre consommé en excès? Cette technologie suisse pourrait révolutionner la prise en charge du diabète et de l’obésité",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS1JTNmV5bGtjOU5FUjNyWHhtNi1QeDBraXBZVUlSWHljYkN5TFlyN3dnb3oxYjZETGUtM1dRNEx6ZVRlSGR0Mm5maEJxbDdyWjlQX0ZrWWFuMUR1VG0tWTk5aEpMcEo1RkdBc0NXeUdjb3RRVVpFeTZvWTdmYzlXbUFBSUoxTnItS3ZQWGlBS2ZiTzhZelBqVjV0NUlKSkFobUh5S090STZCMHJjbkkwOEtmM3NON1luVzBCUmd3S0ZYbVpUbDAyaTRPelBpOXRjQXlNaDF1aw?oc=5",
           "source": "La Liberté",
           "summary": "Et si un implant pouvait éliminer le sucre consommé en excès? Cette technologie suisse pourrait révolutionner la prise en charge du diabète et de l’obésité La Liberté",
-          "published": "2026-10-23T14:23:40+00:00"
+          "published": "2026-10-23T14:18:00+00:00"
+        },
+        {
+          "title": "Asymptomatic Very Severe Hypertriglyceridemia in Poorly Controlled Type 2 Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHBXTldBckpIamJyRktDQjlxRVQtQmswMWVGTFVtVDNKTXdFc3JKZ0l2ckZmUHJVdXhPMG1VaEZGZUN4RUd3cVdVb0ZLb0xOeF9aZ1BKZURWXzJhUFZPN0ZSalpaVEtUeUc3MURQWERQQTRUWmZkd0lPQlAtdDZzcFlRdXp5Nmlra3FaUjRvWk1fMHJ4eE5kV3MxbzlWOERQOTdkOV8xejY1b3R6X1l3Rm1OTTl6UWI4ZWg0QWV3?oc=5",
+          "source": "Cureus",
+          "summary": "Asymptomatic Very Severe Hypertriglyceridemia in Poorly Controlled Type 2 Diabetes Cureus",
+          "published": "2026-10-23T14:05:41+00:00"
         },
         {
           "title": "Digital Diabetes Management: Who Controls Care?",
@@ -533,76 +603,6 @@
           "source": "Le Spécialiste",
           "summary": "Le diabète et ses conséquences sur la santé sexuelle encore trop méconnus Le Spécialiste",
           "published": "2026-10-23T12:59:44+00:00"
-        },
-        {
-          "title": "Orange Biomed to Participate in the 2026 Diabetes Technology Meeting",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVG90Y3ByQ2prUWFCbE1UdkhYZFdScm94enRuTDVhdDNZcHh0bkhlU2JLRUdyczgzd1JkaXEtWjU3X3RDT2RLaVJobFg1aGE1TEE5MXhrT2U0YTc1MkFLMGpBd3Z2TzZ4VGhsVHY0ZGRVRkFLbHRzcXdVNkxURGszbnBuVWVYT2JETXBudFhCUjl1bllhbE5ZUVAwQWVLanJ6cG5WMlg1VUwwQ19WVEFv?oc=5",
-          "source": "EIN News",
-          "summary": "Orange Biomed to Participate in the 2026 Diabetes Technology Meeting EIN News",
-          "published": "2026-10-23T12:45:00+00:00"
-        },
-        {
-          "title": "3 Health Benefits of Metformin Beyond Blood Sugar, According to a PharmD",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXJIWHB5RGJ6STJwcmxWZHBmY3JGaloyS3BPWm9neXR3NU5KbHBvTGk4WUhSSXRfWVBTUTV5REtKc2pLT0MxSE5rdHVyN3dCcHQ3bGFoSmJ1ME1jRnlRVDU3c1NxanhsTjd2SDZhV0hYM3ZXN1Z5NDhodExCZUFNaUlvdjFBc28?oc=5",
-          "source": "Verywell Health",
-          "summary": "3 Health Benefits of Metformin Beyond Blood Sugar, According to a PharmD Verywell Health",
-          "published": "2026-10-23T12:42:58+00:00"
-        },
-        {
-          "title": "Ride Pat Ride: From the Pacific to the Atlantic, for T1D",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbnZJcldJaGYwYTF3SWhlWml5YkFsSkNVdkVXdGp4eUdMOFJoWDdIR3B5dUhqUVA1Q1lfTWZzc1RqSVkyNGdab1pfNTViMlUtSUVkVE5SM0VEdnlQclVCSXJPdlNmU1lwMWYzZ3NzNGxfT2lsNWZBNUZyOUw0eGJ0U0hFUklCRTNyem1yay1qLXVoNGpZeFpYUmxta1NBN2tvYi1uTHBqWTA0RzRC?oc=5",
-          "source": "Breakthrough T1D",
-          "summary": "Ride Pat Ride: From the Pacific to the Atlantic, for T1D Breakthrough T1D",
-          "published": "2026-10-23T12:32:19+00:00"
-        },
-        {
-          "title": "Empagliflozin Shows Anti-Inflammatory Effects in Women",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1VfbHdDQ3hVN2haZ053Y1pGSm9MQWhkOG9nRFVXbWpYZGVUcmpJRGJ0R0dkSWxJckRuek1MYUZaWDc2dDFWamRrSUFGbXBTT3UwR0hpdUJGZFdVMGZNMFhCbmhEMjkxWUtGMHNSVTlWUmZBOXg4X3htS0RyLVNnUTlzcVFCS2ZtWHZhSGpycTdFUXFnb0lfMXRoNDRyM1ktd1QybzlTZw?oc=5",
-          "source": "Technology Networks",
-          "summary": "Empagliflozin Shows Anti-Inflammatory Effects in Women Technology Networks",
-          "published": "2026-10-23T12:00:05+00:00"
-        },
-        {
-          "title": "Healthcare professionals unite to champion joined up care at inaugural CVRM Professional Care",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeUc2Vy0yLUZiNl9NcEFTUU5OQlE2NjRqTC05SUNSR2lSVVBnSzY1SkxqNW9Ndy1yaC1Mc2tQcV8zZDZUaGFodFlyOUdIckw4MEh5ZWt6ZzE0eU1IQTlBT0R3QmJyeGk4Z2t5SUF4anYtdzhTdG5xUlY5R0VCNk42aW1XaDhHVXhpbzF1eUNlb2RydjBnZDM4RDVvTkxiUV94QVhjMDIxbDRjOGJSUHlscXpFY2FNQlRZdHZ6cHhQaw?oc=5",
-          "source": "The Diabetes Times",
-          "summary": "Healthcare professionals unite to champion joined up care at inaugural CVRM Professional Care The Diabetes Times",
-          "published": "2026-10-23T11:52:02+00:00"
-        },
-        {
-          "title": "Amylin drug cuts weight up to 9.2% in diabetes trial",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYlJiOVYxd3BUMkYwcmZvUU9sYlJVdW9Vdk9SeG81d2t3TGcycjZuaHltV3pFVWZBY01hbFFVTXVXRUh5QXNvOHVST1lBOXo2YXRUWkRMSXF5TC0xMXVwTFRtMFdCS180clE4WUszZmFGelliVU9Hck1yb1hULW1DZ3V6RlhtdkI2WEJ4X3ZMQQ?oc=5",
-          "source": "Longevity.Technology",
-          "summary": "Amylin drug cuts weight up to 9.2% in diabetes trial Longevity.Technology",
-          "published": "2026-10-23T11:41:41+00:00"
-        },
-        {
-          "title": "Diabetes’ Overlooked Burden Reaches the Upper Limb",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGhvT1l2aUs2bmIxTUpSRkR3cjhzNC1RTkxfR2VDUWROdU9aczA1dVZYUGl2RFBLQTRRLVVueTJVdU9QT3VyZXczVkpYRmFEbURnY2xzM2xlSUhBSDE0Q01CMFAtVU8tUVB6aGZ4Sjl1YXhQV2lPZHVXcWVYSTZDYkxVVVAwdzZ1ZUQyeVY2WU0wZElVVWlYV2FOQQ?oc=5",
-          "source": "Medscape",
-          "summary": "Diabetes’ Overlooked Burden Reaches the Upper Limb Medscape",
-          "published": "2026-10-23T11:40:24+00:00"
-        },
-        {
-          "title": "Fewer Than Half of Children with New-Onset Type 1 Diabetes Receive Autoantibody Testing, Though Rates Are Rising",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmN3eTA5TDlDVFA1cS1NTUZZMzhvSjduYllvZ0c1eDIwMVpDVUJhclJxU1J2UFN4U2lWcUZxSlh0Q1Rac1d0ZTBETENtbEhiMTBSTG5HWkE4VGhJWUNVX0xKUFNFYi1GaHpRZ19oZWEwdW5FT0taeUNCaG9oVWxWN05QUFgyQURrQ3BUZkQwc0UwSURhRDB5YTJuWGJyZHhQa0lKTDhZX3VISWxtM243WnIxU3FHN19xSFlXODVrNjZZUDVsTGZZZHc4NW5qekhWYm5pM21IR1N3c0dKYXRJRlduYlI?oc=5",
-          "source": "Epic Research",
-          "summary": "Fewer Than Half of Children with New-Onset Type 1 Diabetes Receive Autoantibody Testing, Though Rates Are Rising Epic Research",
-          "published": "2026-10-23T11:14:49+00:00"
-        },
-        {
-          "title": "Le Teich : une journée de prévention et de dépistage du diabète ce samedi",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVp5TkJfUWhTOFhRZk1nNkM5XzUtTEI4S0NBaUtfOUQybmNGV012b3RMcGNZMVBDZnhlQnRmWXNBQk54UDFsdjUwbmFELTNtTThvRjdmTGtFcjNrRm1VWHFMczZ0bkdCVExnLTVHRGg4ZDJ4Ti1wZk9tY3RtYXdhNzhpQ1k?oc=5",
-          "source": "TVBA",
-          "summary": "Le Teich : une journée de prévention et de dépistage du diabète ce samedi TVBA",
-          "published": "2026-10-23T10:50:11+00:00"
-        },
-        {
-          "title": "Could ADHD And Diabetes Medication Help People With Dementia?",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWEs1SV9CZ0p4Q0p0QllXMVdzVmU3NW5yU0lQOGxReGV2SkZIZnY2dEhrVHJ4SWZZU2dwRDMtME1xdFpGUzBOaGwzT3hMeFlaQUVYUVU2blpOZTFRNk1MeTE2RjgwODNHcHYwWDM2T0JMamk0Z0Q2NTQ3T2NpbnNVdjlqWi1hRFpzeW9UN01wd2FjLWFRUm91cTQwMm9rNDBVNXZ4QnNpOUNPQmlXSnBxLUZTU283a2JXRWRLYkUyblo5RHVrejZz?oc=5",
-          "source": "HuffPost UK",
-          "summary": "Could ADHD And Diabetes Medication Help People With Dementia? HuffPost UK",
-          "published": "2026-10-23T09:53:01+00:00"
         }
       ]
     }
