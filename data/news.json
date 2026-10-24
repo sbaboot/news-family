@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-10-24T03:23:43.326405+00:00",
+  "generated_at": "2026-10-24T10:19:24.578700+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Donald Trump a fait déposer un recours préventif en cas de défaite du candidat républicain lors du scrutin sénatorial en Alaska",
-          "link": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html",
+          "title": "À la Une: un attentat «terroriste» et «raciste» en banlieue parisienne",
+          "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261024-%C3%A0-la-une-un-attentat-terroriste-et-raciste-en-banlieue-parisienne",
+          "source": "RFI",
+          "summary": "",
+          "published": "2026-10-24T10:15:53+00:00"
+        },
+        {
+          "title": "Géorgie : 60 ans après Martin Luther King, la communauté noire doit toujours lutter pour voter",
+          "link": "https://www.france24.com/fr/am%C3%A9riques/20261024-g%C3%A9orgie-60-ans-apr%C3%A8s-martin-luther-king-la-communaut%C3%A9-noire-doit-toujours-lutter-pour-voter",
+          "source": "© Brynn Anderson, AP",
+          "summary": "À moins d'un mois des élections de mi-mandat, la Géorgie est de nouveau le théâtre d'une âpre bataille politique. Alors que les démocrates misent sur une forte mobilisation de l'électorat afro-américain, les…",
+          "published": "2026-10-24T10:11:31+00:00"
+        },
+        {
+          "title": "En Albanie, nouvelle journée de mobilisation pour réclamer la démission du premier ministre, Edi Rama",
+          "link": "https://www.lemonde.fr/international/article/2026/10/24/en-albanie-nouvelle-journee-de-mobilisation-pour-reclamer-la-demission-du-premier-ministre-edi-rama_6799688_3210.html",
           "source": "Le Monde",
-          "summary": "Le président américain a dit avoir demandé à son administration de bloquer la validation des résultats en cas de succès démocrate, arguant que la présence d’un candidat homonyme au sénateur républicain sortant pouvait…",
-          "published": "2026-10-24T01:26:30+00:00"
+          "summary": "Le mouvement entamé pour demander l’annulation d’un projet touristique lié au gendre de Donald Trump, Jared Kushner, s’est ensuite étendu aux conditions d’enseignement et au manque de perspective.",
+          "published": "2026-10-24T10:00:28+00:00"
         },
         {
-          "title": "Le secrétaire d’Etat américain, Marco Rubio, invite les opposants cubains à collaborer avec la CIA",
-          "link": "https://www.lemonde.fr/international/article/2026/10/24/le-secretaire-d-etat-americain-marco-rubio-invite-les-opposants-cubains-a-collaborer-avec-la-cia_6799313_3210.html",
-          "source": "Le Monde",
-          "summary": "Washington intensifie encore sa pression sur le régime castriste par cette démarche, inédite dans la politique américaine envers l’île, pourtant marquée par plus de six décennies de tentatives de déstabilisation.",
-          "published": "2026-10-24T00:14:51+00:00"
+          "title": "L'Ukraine affirme avoir retrouvé une \"connexion stable\" au système Starshield",
+          "link": "https://www.france24.com/fr/europe/20261024-l-ukraine-affirme-avoir-retrouv%C3%A9-une-connexion-stable-au-syst%C3%A8me-starshield",
+          "source": "© Inna Varenytsia, Reuters",
+          "summary": "L'Ukraine a affirmé, samedi, avoir retrouvé une \"connexion stable\" au système de communication Starshield, la déclinaison militaire de Starlink, essentielle à son armée. Kiev fait état d'une \"vitesse supérieure à 400…",
+          "published": "2026-10-24T09:36:56+00:00"
         },
         {
-          "title": "Argentine : non-lieu pour le président Javier Milei dans l’affaire d’une cryptomonnaie effondrée",
-          "link": "https://www.lemonde.fr/international/article/2026/10/24/argentine-non-lieu-pour-le-president-javier-milei-dans-l-affaire-d-une-cryptomonnaie-effondree_6799280_3210.html",
-          "source": "Le Monde",
-          "summary": "Le dirigeant ultralibéral avait relayé, sur X, le lancement de la $LIBRA en 2025, avant d’effacer son message. Entretemps, la monnaie avait bondi puis s’était effondrée, provoquant des pertes pour plus de 114 000…",
-          "published": "2026-10-23T23:44:16+00:00"
-        },
-        {
-          "title": "Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS",
-          "link": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
-          "source": "Le Monde",
-          "summary": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaïre, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
-          "published": "2026-10-23T23:07:05+00:00"
-        },
-        {
-          "title": "Manifestations du 24 octobre : 70 000 policiers et gendarmes déployés, les lycéens toujours mobilisés",
-          "link": "https://www.france24.com/fr/france/20261023-manifestations-du-24-octobre-70-000-policiers-et-gendarmes-d%C3%A9ploy%C3%A9s-les-lyc%C3%A9ens-toujours-mobilis%C3%A9s",
-          "source": "©  Abdul Saboor, Reuters",
-          "summary": "Plusieurs représentants lycéens ont été reçus à l'Élysée vendredi pour échanger avec Emmanuel Macron, à la veille d'une nouvelle journée de contestation qui mobilise plus de 70 000 policiers et gendarmes. Globalement…",
-          "published": "2026-10-23T21:13:14+00:00"
-        },
-        {
-          "title": "🔴 L'agence Moody's maintient la note souveraine de la France à Aa3 avec perspective négative",
-          "link": "https://www.france24.com/fr/france/20261022-notation-de-la-france-un-abaissement-de-la-note-par-moody-s-jug%C3%A9-tr%C3%A8s-plausible",
+          "title": "🔴 Mobilisation du 24 octobre en direct : le tribunal entérine le parcours imposé par la préfecture de Paris",
+          "link": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
           "source": "France 24",
           "summary": "",
-          "published": "2026-10-23T21:12:03+00:00"
+          "published": "2026-10-24T09:12:50+00:00"
         },
         {
-          "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne dit qu’elle observera une trêve à Olechky à partir de mardi pour permettre des opérations humanitaires",
-          "link": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
+          "title": "Neuf ans après l’incendie dramatique de la tour Grenfell, à Londres, la très lente mise aux normes des immeubles britanniques",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/24/neuf-ans-apres-l-incendie-dramatique-de-la-tour-grenfell-a-londres-la-tres-lente-mise-aux-normes-des-immeubles-britanniques_6799682_3234.html",
           "source": "Le Monde",
-          "summary": "La Maison Blanche avait annoncé que Moscou et Kiev avaient « accepté de suspendre temporairement toutes les opérations militaires dans cette ville afin de permettre l’acheminement de l’aide humanitaire et de préparer…",
-          "published": "2026-10-23T21:02:42+00:00"
+          "summary": "Moins de 40 % des immeubles britanniques recouverts d’un dangereux revêtement inflammable ont été assainis depuis le drame qui a causé la mort de 72 personnes en 2017. Le gouvernement a déposé un projet de loi pour…",
+          "published": "2026-10-24T09:00:01+00:00"
         },
         {
-          "title": "FC Barcelone vs Real Madrid : un Clásico équilibré ?",
-          "link": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261023-fc-barcelone-vs-real-madrid-un-cl%C3%A1sico-%C3%A9quilibr%C3%A9",
-          "source": "France 24",
-          "summary": "C’est le match que toute la planète foot attend avec impatience : le FC Barcelone reçoit le Real Madrid au Camp Nou dimanche. Allons-nous assister, pour ce match aller, à un Clásico équilibré ?",
-          "published": "2026-10-23T20:57:03+00:00"
+          "title": "En Israël, les impasses de la campagne des législatives",
+          "link": "https://www.lemonde.fr/idees/article/2026/10/24/en-israel-les-impasses-de-la-campagne-des-legislatives_6799681_3232.html",
+          "source": "Le Monde",
+          "summary": "Les électeurs israéliens votent le 27 octobre. Gadi Eisenkot, l’adversaire centriste de Benyamin Nétanyahou, désapprouve le projet de colonisation E1, qui couperait en deux le plus grand territoire palestinien. Mais il…",
+          "published": "2026-10-24T08:30:05+00:00"
         },
         {
-          "title": "Les États-Unis pourraient frapper l'Iran dès ce week-end, avance un diplomate américain",
-          "link": "https://www.france24.com/fr/moyen-orient/20261023-les-%C3%A9tats-unis-pourraient-frapper-l-iran-d%C3%A8s-ce-week-end-avance-un-diplomate-am%C3%A9ricain",
-          "source": "ZUMA Press Wire via Reuters Conn - Marek Ladzinski",
-          "summary": "L'émissaire américain Tom Barrack a déclaré vendredi lors d'un entretien que les États-Unis pourraient frapper l'Iran dès ce week-end. Des propos qui interviennent après de nombreuses menaces en ce sens de Washington et…",
-          "published": "2026-10-23T20:42:44+00:00"
+          "title": "Présidentielle au Brésil : Flavio Bolsonaro plus policé, Lula plus offensif lors d’un second débat crucial",
+          "link": "https://www.lemonde.fr/international/article/2026/10/24/presidentielle-au-bresil-flavio-bolsonaro-plus-police-lula-plus-offensif-lors-d-un-second-debat-crucial_6799678_3210.html",
+          "source": "Le Monde",
+          "summary": "Alors que les deux candidats sont à égalité dans les sondages, le dernier débat télévisé pouvait faire basculer les indécis avant le second tour, dimanche 25 octobre. Si Flavio Bolsonaro a pu développer ses propositions…",
+          "published": "2026-10-24T08:16:35+00:00"
         },
         {
-          "title": "Gabriel Dia à AKAA : l'art, les tabous et l'homosexualité au Sénégal",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261023-gabriel-dia-%C3%A0-akaa-l-art-les-tabous-et-l-homosexualit%C3%A9-au-s%C3%A9n%C3%A9gal",
-          "source": "France 24",
-          "summary": "À Paris, la foire d'art contemporain africain AKAA accueille une installation monumentale du photographe sénégalais Gabriel Dia. Avec Mother's Heritage, l'artiste revisite ses souvenirs d'enfance dans l'atelier de…",
-          "published": "2026-10-23T20:40:29+00:00"
+          "title": "En Jordanie, le choc et l’unité après une attaque meurtrière contre une église orthodoxe",
+          "link": "https://www.lemonde.fr/international/article/2026/10/24/en-jordanie-le-choc-et-l-unite-apres-une-attaque-meurtriere-contre-une-eglise-orthodoxe_6799670_3210.html",
+          "source": "Le Monde",
+          "summary": "Les tirs de trois attaquants ont fait au moins sept morts dans un village situé à une centaine de kilomètres au sud d’Amman, vendredi. Le royaume, qui a fait de la stabilité une de ses priorités, craint d’être affecté…",
+          "published": "2026-10-24T07:10:48+00:00"
+        },
+        {
+          "title": "En Italie, des manifestations contre la vie chère et l'austérité prévues sous haute surveillance",
+          "link": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance",
+          "source": "© Luca Bruno, AP",
+          "summary": "L'Italie se prépare à une nouvelle journée de manifestations samedi contre les coupes budgétaires et la vie chère, dans huit villes dont Rome et Milan. Après les violences du week-end dernier, les autorités prévoient un…",
+          "published": "2026-10-24T06:53:52+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Canadien 4 – Blackhawks 1 | Jake Evans inscrit deux buts dans une victoire du Tricolore",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-10-23/canadien-4-blackhawks-1/jake-evans-inscrit-deux-buts-dans-une-victoire-du-tricolore.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "La Presse aux Pays-Bas | Le grand éveil contre la solitude",
+          "link": "https://www.lapresse.ca/international/europe/2026-10-24/la-presse-aux-pays-bas/le-grand-eveil-contre-la-solitude.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "En l’absence de Nick Suzuki, c’est un autre vétéran qui s’est levé pour le Canadien, vendredi soir au United Center.",
-          "published": "2026-10-24T03:06:02+00:00"
+          "summary": "La découverte du corps d’une septuagénaire, 10 ans après sa mort dans son logement de Rotterdam, a provoqué un véritable électrochoc aux Pays-Bas. Depuis, la lutte contre la solitude est devenue une priorité nationale.…",
+          "published": "2026-10-24T09:00:00+00:00"
         },
         {
-          "title": "Lula et Bolsonaro modèrent leur ton à leur dernier débat avant le second tour au Brésil",
-          "link": "https://www.journaldemontreal.com/2026/10/23/lula-et-bolsonaro-moderent-leur-ton-a-leur-dernier-debat-avant-le-second-tour-au-bresil",
-          "source": "Journal de Montreal",
-          "summary": "Après un premier débat truffé d'insultes, le président brésilien Lula et Flavio Bolsonaro ont modéré le ton lors de leur dernier face à face.",
-          "published": "2026-10-24T02:54:15+00:00"
-        },
-        {
-          "title": "Premier test réussi pour le CH",
-          "link": "https://www.journaldemontreal.com/2026/10/23/sans-suzuki-le-ch-vise-la-victoire-a-chicago",
-          "source": "Journal de Montreal",
-          "summary": "À son premier match sans Nick Suzuki, le Canadien s'impose 4 à 1 devant les Blackhawks.",
-          "published": "2026-10-24T02:41:53+00:00"
-        },
-        {
-          "title": "Les Alouettes terminent la saison en beauté avec une 14e victoire",
-          "link": "https://www.journaldemontreal.com/2026/10/23/les-alouettes-terminent-la-saison-en-beaute-avec-une-14e-victoire",
-          "source": "Journal de Montreal",
-          "summary": "Cette victoire contre les Argonauts permet au club montréalais de boucler cette campagne avec un dossier de 14-4.",
-          "published": "2026-10-24T02:22:02+00:00"
-        },
-        {
-          "title": "Arabie saoudite: deux explosions entendues à Riyad après une alerte",
-          "link": "https://www.journaldemontreal.com/2026/10/23/arabie-saoudite-deux-explosions-entendues-a-riyad-apres-une-alerte",
-          "source": "Journal de Montreal",
-          "summary": "Deux détonations ont retenti à Riyad en début de matinée samedi, peu après qu'un drone a été signalé comme intercepté.",
-          "published": "2026-10-24T02:21:07+00:00"
-        },
-        {
-          "title": "L'intelligence artificielle bouleverse le quotidien des coiffeurs, selon le propriétaire d'un salon",
-          "link": "https://www.journaldemontreal.com/2026/10/23/lintelligence-artificielle-bouleverse-le-quotidien-des-coiffeurs-selon-le-proprietaire-dun-salon",
-          "source": "Journal de Montreal",
-          "summary": "La place grandissante de l’IA devient un fléau dans plusieurs industries, notamment pour les coiffeurs, selon le propriétaire d’un salon de coiffure.",
-          "published": "2026-10-24T02:10:42+00:00"
-        },
-        {
-          "title": "Alouettes 33 – Argonauts 16 | Une victoire avant les éliminatoires",
-          "link": "https://www.lapresse.ca/sports/football/2026-10-23/alouettes-33-argonauts-16/une-victoire-avant-les-eliminatoires.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "La Presse aux Pays-Bas | En vidéo : un voisinage rassembleur",
+          "link": "https://www.lapresse.ca/international/europe/2026-10-24/la-presse-aux-pays-bas/en-video-un-voisinage-rassembleur.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les Alouettes de Montréal ont conclu leur saison régulière, vendredi, sur un gain convaincant de 33-16 face aux Argonauts de Toronto, leurs éternels rivaux. La troupe de Jason Maas termine donc la campagne 2026 avec une…",
-          "published": "2026-10-24T02:10:13+00:00"
+          "summary": "Chaque année, aux Pays-Bas, a lieu une semaine nationale contre la solitude. Des centaines d’initiatives ont lieu, dont la Burendag : la journée des voisins.",
+          "published": "2026-10-24T09:00:00+00:00"
         },
         {
-          "title": "Une septième victoire de suite pour le Rocket",
-          "link": "https://www.journaldemontreal.com/2026/10/23/une-septieme-victoire-de-suite-pour-le-rocket",
-          "source": "Journal de Montreal",
-          "summary": "Ça va vraiment bien.",
-          "published": "2026-10-24T02:09:52+00:00"
+          "title": "Itinérance | Au-delà de la « crise »",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-24/itinerance/au-dela-de-la-crise.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "L’accueil a été positif et unanime.",
+          "published": "2026-10-24T09:00:00+00:00"
         },
         {
-          "title": "Un essai de vaccin contre Ebola débute en République démocratique du Congo",
-          "link": "https://www.journaldemontreal.com/2026/10/23/un-essai-de-vaccin-contre-ebola-debute-en-republique-democratique-du-congo",
-          "source": "Journal de Montreal",
-          "summary": "Un essai de vaccin contre Ebola débute en République démocratique du Congo.",
-          "published": "2026-10-24T02:00:04+00:00"
+          "title": "Élections de mi-mandat | Neuf États où tout peut se jouer",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-10-24/elections-de-mi-mandat/neuf-etats-ou-tout-peut-se-jouer.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Démocrates comme républicains espèrent remporter une majorité au Congrès. Mais avec des électeurs souvent acquis à un parti, les chances des candidats ne sont pas toutes égales. Quelques courses à suivre.",
+          "published": "2026-10-24T09:00:00+00:00"
         },
         {
-          "title": "Une pétition en soutien à Ruba Ghazal recueille plus de 36 000 signatures",
-          "link": "https://www.ledevoir.com/politique/quebec/1019414/petition-soutien-ruba-ghazal-recueille-plus-36-000-signatures",
+          "title": "Gouvernement St-Pierre Plamondon | Les chefs de cabinet commencent à être nommés",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Deux jours après le dévoilement du Conseil des ministres, une première cohorte de chefs de cabinet du gouvernement St-Pierre Plamondon a été embauchée vendredi. Une surprise : une cadre du ministère de la Santé devient…",
+          "published": "2026-10-24T09:00:00+00:00"
+        },
+        {
+          "title": "Réforme de l’open banking | De nouvelles banques pourraient arriver au Canada en 2027",
+          "link": "https://www.lapresse.ca/affaires/2026-10-24/reforme-de-l-open-banking/de-nouvelles-banques-pourraient-arriver-au-canada-en-2027.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "À l’international, on vante la solidité et la fiabilité du secteur bancaire canadien. C’est une industrie hautement protégée. Mais le gouvernement fédéral veut relâcher un peu les règles pour accroître la concurrence,…",
+          "published": "2026-10-24T09:00:00+00:00"
+        },
+        {
+          "title": "Ramener l’immigration sur terre… en douceur",
+          "link": "https://www.lapresse.ca/actualites/editoriaux/2026-10-24/ramener-l-immigration-sur-terre-en-douceur.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "La nouvelle vice-première ministre du Québec devra faire preuve de beaucoup d’adresse pour jongler avec les nombreux mandats que le premier ministre Paul St-Pierre Plamondon lui a confiés cette semaine.",
+          "published": "2026-10-24T09:00:00+00:00"
+        },
+        {
+          "title": "Dans les traces d’Alain Gravel, le «chat de ruelle»",
+          "link": "https://www.ledevoir.com/lire/1019312/traces-alain-gravel-chat-ruelle",
           "source": "Le Devoir",
-          "summary": "Elle a été lancée en réponse à la pétition demandant la démission de la co-porte-parole de Québec solidaire.",
-          "published": "2026-10-24T01:33:00+00:00"
+          "summary": "L’animateur raconte les coulisses de ses reportages et fait part de son amour du métier dans un nouveau livre.",
+          "published": "2026-10-24T04:00:00+00:00"
+        },
+        {
+          "title": "Les valeurs stratégiques de Mark Carney",
+          "link": "https://www.ledevoir.com/opinion/chroniques/1019396/valeurs-strategiques-mark-carney",
+          "source": "Le Devoir",
+          "summary": "Quel est le prix de la diversification économique que recherche le premier ministre canadien?",
+          "published": "2026-10-24T04:00:00+00:00"
+        },
+        {
+          "title": "«Les Russes, dehors!»: 70 ans plus tard, l’insurrection de Budapest résonne toujours",
+          "link": "https://www.ledevoir.com/monde/europe/1019345/russes-dehors-70-ans-plus-tard-insurrection-budapest-resonne-toujours",
+          "source": "Le Devoir",
+          "summary": "La révolte sanglante qui avait fait fuir près de 40 000 Hongrois vers le Canada trouve écho aujourd’hui.",
+          "published": "2026-10-24T04:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Allemagne : un suspect arrêté après un incendie d’ampleur au «Nid d’Aigle» de Hitler",
-          "link": "https://www.lefigaro.fr/international/allemagne-un-suspect-arrete-apres-un-incendie-d-ampleur-au-nid-d-aigle-de-hitler-20261024",
-          "source": "Le Figaro",
-          "summary": "La résidence Kehlsteinhaus d’Adolf Hitler, également connue sous le nom de Nid d’Aigle, servait aux réceptions des dignitaires nazis, perchée dans les Alpes bavaroises.",
-          "published": "2026-10-24T03:03:22+00:00"
+          "title": "EN DIRECT – Mouvement social : à Paris, les organisateurs acceptent le parcours imposé par la préfecture, de porte d’Italie à porte de Vincennes",
+          "link": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/",
+          "source": "Liberation",
+          "summary": "Une semaine après les manifestations du 17 octobre marquées par des violences et des pillages, les préfets ont interdit les cortèges dans des dizaines de villes. A Paris, le cortège s’élancera à 14 heures et suivra…",
+          "published": "2026-10-24T10:16:24+00:00"
         },
         {
-          "title": "Arabie saoudite : un missile balistique lancé en direction de Ryad intercepté",
-          "link": "https://www.lefigaro.fr/international/arabie-saoudite-deux-explosions-entendues-a-ryad-20261024",
-          "source": "Le Figaro",
-          "summary": "La défense civile saoudienne a indiqué qu’un système d’alerte précoce avait été activé pour prévenir les habitants d’une menace potentielle.",
-          "published": "2026-10-24T02:38:55+00:00"
+          "title": "EN DIRECT – Attaque dans les Yvelines : un club de MMA francilien rend hommage à Pengo, le jeune homme de 26 ans tué à Trappes",
+          "link": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-un-club-mma-francilien-rend-hommage-a-pengo-le-jeune-homme-de-26-ans-tue-a-trappes-20261024_QFOWDJ375JGU5CQVNCE3TCO2OM/",
+          "source": "Liberation",
+          "summary": "Un homme soupçonné d’avoir voulu s’en prendre à des personnes issues de l’immigration a tué vendredi 23 octobre une personne, fait cinq blessés à Trappes et à La Verrière après avoir tiré en rafale depuis une voiture.",
+          "published": "2026-10-24T10:15:46+00:00"
         },
         {
-          "title": "Donald Trump a fait déposer un recours préventif en cas de défaite du candidat républicain lors du scrutin sénatorial en Alaska",
-          "link": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html",
+          "title": "Pourquoi Moody’s a maintenu la note française malgré le dérapage budgétaire ?",
+          "link": "https://www.lefigaro.fr/conjoncture/pourquoi-moody-s-a-maintenu-la-note-francaise-malgre-le-derapage-budgetaire-20261024",
+          "source": "Le Figaro",
+          "summary": "ENTRETIEN - Pour Raphaël Gallardo, chef économiste de la société de gestion d’actifs Carmignac, la non-dégradation de la note tricolore par Moody’s, vendredi soir, est difficile à comprendre. Elle ne devrait avoir que…",
+          "published": "2026-10-24T10:13:31+00:00"
+        },
+        {
+          "title": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 120 000 foyers sans électricité dans l’Ouest et le Nord",
+          "link": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-120-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
           "source": "Le Monde",
-          "summary": "Le président américain a dit avoir demandé à son administration de bloquer la validation des résultats en cas de succès démocrate, arguant que la présence d’un candidat homonyme au sénateur républicain sortant pouvait…",
-          "published": "2026-10-24T01:26:30+00:00"
+          "summary": "Le département entrera en alerte orange à 21 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
+          "published": "2026-10-24T10:12:09+00:00"
         },
         {
-          "title": "«Première fois» qu’un acte terroriste vise à tuer «en raison de la couleur de peau ou de la religion» supposées : la lourde erreur de Macron sur les tirs des Yvelines",
-          "link": "https://www.lefigaro.fr/politique/premiere-fois-qu-un-acte-terroriste-vise-a-tuer-en-raison-de-la-couleur-de-peau-ou-de-la-religion-supposees-la-lourde-erreur-de-macron-sur-les-tirs-des-yvelines-20261023",
-          "source": "Le Figaro",
-          "summary": "En déplacement vendredi soir à Trappes, le président a présenté l’attaque «terroriste raciste» survenue dans la commune, et à La Verrière, comme un «tournant» sans précédent. Une affirmation démentie par les faits,…",
-          "published": "2026-10-24T00:24:25+00:00"
-        },
-        {
-          "title": "Le secrétaire d’Etat américain, Marco Rubio, invite les opposants cubains à collaborer avec la CIA",
-          "link": "https://www.lemonde.fr/international/article/2026/10/24/le-secretaire-d-etat-americain-marco-rubio-invite-les-opposants-cubains-a-collaborer-avec-la-cia_6799313_3210.html",
-          "source": "Le Monde",
-          "summary": "Washington intensifie encore sa pression sur le régime castriste par cette démarche, inédite dans la politique américaine envers l’île, pourtant marquée par plus de six décennies de tentatives de déstabilisation.",
-          "published": "2026-10-24T00:14:51+00:00"
-        },
-        {
-          "title": "Argentine : plus de 2000 évacués en raison d'inondations liées à El Niño",
-          "link": "https://www.lefigaro.fr/international/argentine-plus-de-2000-evacues-en-raison-d-inondations-liees-a-el-nino-20261024",
-          "source": "Le Figaro",
-          "summary": "Les précipitations de ces dernières semaines ont accru le débit des fleuves Paraná, Uruguay et Iguazú, qui bordent distinctement l’Argentine, le Brésil, le Paraguay ou encore l’Uruguay.",
-          "published": "2026-10-23T23:59:38+00:00"
-        },
-        {
-          "title": "«Acte II» le 24 octobre : la préfecture interdit le parcours Bastille-Nation de la manifestation parisienne demain",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
-          "source": "Le Figaro",
-          "summary": "Après plus d’un mois de crise, Emmanuel Macron est monté en première ligne vendredi dans la contestation des lycéens en recevant pour la première fois leurs représentants, à la veille d’une nouvelle journée de…",
-          "published": "2026-10-23T23:27:25+00:00"
-        },
-        {
-          "title": "Tireur des Yvelines : Emmanuel Macron affirme que l’attentat terroriste en banlieue parisienne marque un tournant pour la France",
-          "link": "https://www.lefigaro.fr/faits-divers/en-direct-fusillade-mortelle-a-trappes-le-tireur-voulait-faire-un-carnage-le-parquet-national-antiterroriste-se-place-en-observation-20261023",
-          "source": "Le Figaro",
-          "summary": "Emmanuel Macron sur place a dénoncé un «attentat» commis «sur la base d’une idéologie raciste». Le président a invité à ne «rien céder» et à ne pas «baisser la tête» face aux «idées qui s’installent.»",
-          "published": "2026-10-23T23:22:25+00:00"
-        },
-        {
-          "title": "L’agence Moody’s ne dégrade pas la note de la France malgré l’incertitude budgétaire et politique",
-          "link": "https://www.lemonde.fr/economie/article/2026/10/24/l-agence-moody-s-ne-degrade-pas-la-note-de-la-france-malgre-l-incertitude-budgetaire-et-politique_6799214_3234.html",
-          "source": "Le Monde",
-          "summary": "Contrairement aux prévisions de beaucoup d’économistes, l’entreprise américaine de notation a maintenu, vendredi, la note de la dette souveraine à Aa3, se démarquant de l’appréciation portée par les agences S&P et Fitch…",
-          "published": "2026-10-23T22:52:22+00:00"
-        },
-        {
-          "title": "Le congrès du Rassemblement national à Orléans, épicentre d'une nouvelle journée de manifestations à haut risque",
-          "link": "https://www.franceinfo.fr/politique/front-national/a-orleans-le-parcours-de-la-manifestation-anti-rassemblement-national-est-modifie-pour-eviter-le-centre-ville_8251546.html#xtor=RSS-3-[lestitres]",
+          "title": "\"La meilleure voiture au départ\" : avant la Route du Rhum, Charles Caudrelier mise sur Gitana 18, un maxi-trimaran dernier cri",
+          "link": "https://www.franceinfo.fr/sports/voile/route-du-rhum/la-meilleure-voiture-au-depart-avant-la-route-du-rhum-charles-caudrelier-mise-sur-gitana-18-un-maxi-trimaran-dernier-cri_8252068.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Les autorités attendent jusqu'à 30 000 personnes samedi dès 10h30, sur un parcours modifié pour éviter le centre-ville. Deux fois plus de monde qu'à l'acmé du mouvement contre la dernière réforme des retraites.",
-          "published": "2026-10-23T22:32:31+00:00"
+          "summary": "À une semaine du départ, le tenant du titre s'apprête à prendre la mer sur son maxi-trimaran à 18 millions d’euros, présenté comme le plus rapide du monde. Des problèmes techniques l'ont toutefois empêché de s'entraîner…",
+          "published": "2026-10-24T10:03:34+00:00"
+        },
+        {
+          "title": "La semaine vue par Coco : de la casse et de la répression",
+          "link": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-de-la-casse-et-de-la-repression-20261024_KWR2BQJFZFD6VK6KDF2BI3O7RY/",
+          "source": "Liberation",
+          "summary": "L’actualité croquée par notre dessinatrice.",
+          "published": "2026-10-24T10:00:00+00:00"
+        },
+        {
+          "title": "Des milliers de personnes ont commencé à manifester à Orléans contre le congrès du Rassemblement national",
+          "link": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "En prévisions de ce rassemblement, la municipalité a fermé l'office de tourisme, la médiathèque, les parcs et jardins, et ordonné aux restaurants de ne pas ouvrir leurs terrasses. Les tramways sont à l'arrêt et la…",
+          "published": "2026-10-24T09:56:15+00:00"
+        },
+        {
+          "title": "Manifestations du 24 octobre : à Paris, les organisateurs acceptent de défiler entre porte d'Italie et porte de Vincennes, seul parcours autorisé, après le rejet de leur recours",
+          "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Les organisations syndicales, étudiantes et lycéennes ont annoncé qu'elles acceptaient de suivre ce nouveau parcours, après que la préfecture a interdit le défilé prévu entre la place de la Bastille et Nation.",
+          "published": "2026-10-24T09:53:13+00:00"
+        },
+        {
+          "title": "Incendie de la mairie de Limoges : deux suspects placés en détention provisoire",
+          "link": "https://www.lefigaro.fr/faits-divers/incendie-de-la-mairie-de-limoges-deux-suspects-places-en-detention-provisoire-20261024",
+          "source": "Le Figaro",
+          "summary": "Les deux mis en cause sont âgés respectivement de 34 ans et 66 ans.",
+          "published": "2026-10-24T09:48:02+00:00"
+        },
+        {
+          "title": "Un combattant de MMA, une fillette de 12 ans… Qui sont les victimes du tireur de Trappes ?",
+          "link": "https://www.lefigaro.fr/faits-divers/un-combattant-de-mma-une-fillette-de-12-ans-qui-sont-les-cinq-victimes-du-tireur-de-trappes-20261023",
+          "source": "Le Figaro",
+          "summary": "Dans les Yvelines, une fusillade a fait un mort et quatre blessés, dont plusieurs en urgence absolue. Selon le maire de Trappes, il s’agit d’un «attentat probablement islamophobe».",
+          "published": "2026-10-24T09:47:24+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "SpaceX prépare la retraite de Falcon 9, un problème pour l'armée américaine",
-          "link": "https://www.clubic.com/actualite-635764-spacex-prepare-la-retraite-de-falcon-9-un-probleme-pour-l-armee-americaine.html",
+          "title": "Un mois après sa sortie, l’Ecovacs Deebot T90S Pro Omni passe à 649€",
+          "link": "https://www.clubic.com/bons-plans-635713-un-mois-apres-sa-sortie-l-ecovacs-deebot-t90s-pro-omni-passe-a-649.html",
           "source": "Clubic",
-          "summary": "Chez SpaceX, on se prépare petit à petit à mettre la fusée Falcon 9 à la retraite. Mais ça pourrait créer de belles difficultés pour les États-Unis.",
-          "published": "2026-10-23T17:33:00+00:00"
+          "summary": "Un mois après son lancement à 799 €, le nouveau robot laveur milieu de gamme d’Ecovacs passe 50 € sous le prix de sa promotion de lancement. Le Deebot T90S Pro Omni est à 649 € chez Amazon, vendu par la boutique…",
+          "published": "2026-10-24T10:10:00+00:00"
         },
         {
-          "title": "Ils vivent sans Microsoft depuis 20 ans, eux : le choix payant de la gendarmerie et du fisc",
-          "link": "https://www.clubic.com/actualite-635755-ils-vivent-sans-microsoft-depuis-20-ans-le-choix-payant-de-la-gendarmerie-et-du-fisc.html",
+          "title": "Microsoft veut fermer Arkane Lyon : 217 emplois menacés chez le studio de jeux vidéo",
+          "link": "https://www.clubic.com/actualite-635803-microsoft-veut-fermer-arkane-lyon-217-emplois-menaces-chez-le-studio-de-jeux-video.html",
           "source": "Clubic",
-          "summary": "Si la plupart des ministères paient chaque année leurs licences Microsoft, la gendarmerie et le fisc ont remplacé la suite Office par des logiciels libres il y a une vingtaine d'années déjà. Un choix que la Cour des…",
-          "published": "2026-10-23T17:14:00+00:00"
+          "summary": "Il avait suffi d’un courriel interne, en mai 2024, pour que Microsoft ferme Arkane Austin au Texas. À Lyon, le groupe doit d’abord chercher un repreneur pour l’autre studio Arkane, où 217 emplois sont menacés, et les…",
+          "published": "2026-10-24T10:09:00+00:00"
         },
         {
-          "title": "Test de l’Oppo Find X10 : un excellent photophone haut de gamme, malgré quelques compromis",
-          "link": "https://www.frandroid.com/marques/oppo/3268259_test-oppo-find-x10-un-excellent-photophone-haut-de-gamme-malgre-quelques-compromis",
+          "title": "« Je n’ai jamais entendu quelque chose d’artificiel qui sonnait si… humain » : cette IA parle comme nous",
+          "link": "https://www.numerama.com/tech/2360367-je-nai-jamais-entendu-quelque-chose-dartificiel-qui-sonnait-si-humain-cette-ia-parle-comme-nous.html",
+          "source": "Numerama",
+          "summary": "Elle vous coupe la parole, réagit à une surprise et retrouve le film dont vous avez oublié le nom. Dessa, l’IA de Block, reproduit les petits réflexes de nos conversations. Ses créateurs affirment lui avoir appris à…",
+          "published": "2026-10-24T10:06:19+00:00"
+        },
+        {
+          "title": "Comment j’ai utilisé l’IA pour m’entraîner pendant six mois et battre mon record sur 10 km",
+          "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/3291031_comment-jai-utilise-lia-pour-mentrainer-pendant-six-mois-et-battre-mon-record-sur-10-km",
           "source": "Frandroid",
-          "summary": "Oppo renouvelle son haut de gamme avec le Find X10. Équipé d'une batterie colossale de 7150 mAh, d'une puce Dimensity 9600M et de deux capteurs de 200 mégapixels, ce modèle compact entend rivaliser avec l'élite du…",
-          "published": "2026-10-23T17:06:00+00:00"
+          "summary": "Peut-on remplacer une application de course à pied par une intelligence artificielle ? Pour préparer mon 10 km, j'ai confié mon entraînement à Google Gemini. Entre promesses de personnalisation extrême, manipulations…",
+          "published": "2026-10-24T10:03:00+00:00"
         },
         {
-          "title": "La Switch 2 déjà piratée : un premier lanceur d'applications non officielles fait trembler Nintendo",
-          "link": "https://www.clubic.com/actualite-635767-la-switch-2-deja-piratee-un-premier-lanceur-d-applications-amateurs-fait-trembler-nintendo.html",
-          "source": "Clubic",
-          "summary": "Les choses s’accélèrent pour les bidouilleurs de la Nintendo Switch 2. À peine le premier jailbreak logiciel dévoilé, un développeur est parvenu à faire fonctionner un premier homebrew. Une avancée prometteuse, même si…",
-          "published": "2026-10-23T16:58:00+00:00"
-        },
-        {
-          "title": "Avis aux fans d’Apple : l’iPad Pro M5 de 13\" bénéficie de plus de 380€ de réduction chez Amazon ce week-end",
-          "link": "https://www.clubic.com/bons-plans-635701-avis-aux-fans-d-apple-l-ipad-pro-m5-de-13-pouces-beneficie-de-plus-de-380-de-reduction-chez-amazon-ce-week-end.html",
-          "source": "Clubic",
-          "summary": "Le très haut de gamme iPad Pro M5 de 13 pouces profite actuellement de 16% de réduction chez Amazon : la tablette sous iPadOS passe, ainsi, de 2 399 € à 2 017,51 € dans sa version de 1 To.",
-          "published": "2026-10-23T16:50:00+00:00"
-        },
-        {
-          "title": "Ce chargeur Ugreen 100 W peut recharger 4 appareils en même temps et coûte 25 % de moins",
-          "link": "https://www.frandroid.com/bons-plans/3186965_ce-chargeur-ugreen-100-w-peut-recharger-4-appareils-en-meme-temps-et-coute-25-de-moins",
+          "title": "Un TV géant de 75 pouces pour moins de 700 € ? C’est possible avec ce TV QNED signé LG",
+          "link": "https://www.frandroid.com/bons-plans/3294361_un-tv-geant-de-75-pouces-pour-moins-de-700-e-cest-possible-avec-ce-tv-qned-signe-lg",
           "source": "Frandroid",
-          "summary": "L'Ugreen Nexode Pro est le compagnon idéal pour simplifier vos recharges au quotidien : ce chargeur compact permet d'alimenter jusqu'à 4 appareils simultanément grâce à ses trois ports USB-C et son port USB-A. Avec sa…",
-          "published": "2026-10-23T16:21:30+00:00"
+          "summary": "Le LG 75QNED8E, un téléviseur QNED 4K de 75 pouces de la gamme 2025, est affiché à 699 euros sur Amazon au lieu de 1 799 euros à son lancement. De quoi profiter d'une grande diagonale dans son salon sans se ruiner.",
+          "published": "2026-10-24T09:32:00+00:00"
         },
         {
-          "title": "Point Vision : accès non autorisé, vos données personnelles ont fuité",
-          "link": "https://www.clubic.com/actualite-635761-point-vision-acces-non-autorise-vos-donnees-personnelles-ont-fuite.html",
+          "title": "J'ai testé la Logitech G Pro X3 Superstrike : ses clics haptiques bluffent, son prix donne le vertige",
+          "link": "https://www.clubic.com/test-produit-635377-j-ai-teste-la-logitech-g-pro-x3-superstrike-ses-clics-haptiques-bluffent-son-prix-donne-le-vertige.html",
           "source": "Clubic",
-          "summary": "Une faille chez le prestataire qui gère les rendez-vous des centres Point Vision a permis à une personne non autorisée d’accéder à l’agenda interne et d’y télécharger des données de patients. Le groupement met en garde…",
-          "published": "2026-10-23T16:17:00+00:00"
+          "summary": "Légère, parfaitement équilibrée et toujours aussi redoutable avec ses clics haptiques, la nouvelle souris gaming de Logitech m’a fait forte impression. Mais les améliorations restent modestes face à l’excellente X2…",
+          "published": "2026-10-24T09:31:00+00:00"
         },
         {
-          "title": "L’intensité du typhon champi a un coupable tout désigné : El Niño",
-          "link": "https://www.numerama.com/sciences/2359781-lintensite-du-typhon-champi-a-un-coupable-tout-designe-el-nino.html",
-          "source": "Numerama",
-          "summary": "Avec des vents soutenus proches de 300 km/h à son pic, le typhon Champi est la tempête la plus violente de l'année. Il longe ce vendredi 23 octobre les côtes de Taïwan et devrait ensuite atteindre la Chine et le Japon.",
-          "published": "2026-10-23T16:11:26+00:00"
-        },
-        {
-          "title": "1Password a un plan pour laisser les agents IA accéder à vos comptes, sans exposer vos mots de passe",
-          "link": "https://www.numerama.com/tech/2359721-1password-a-un-plan-pour-laisser-les-agents-ia-acceder-a-vos-comptes-sans-exposer-vos-mots-de-passe.html",
-          "source": "Numerama",
-          "summary": "1Password a lancé 1Password for Agents, un système qui permet aux agents IA de se connecter aux comptes de leurs utilisateurs sans jamais voir les mots de passe. Dans un premier temps, seuls Muse, l'agent de Meta, et…",
-          "published": "2026-10-23T16:08:05+00:00"
-        },
-        {
-          "title": "Éco-score : derrière le faux cadeau aux véhicules familiaux, le piège pour les citadines électriques",
-          "link": "https://www.numerama.com/vroom/2360213-eco-score-derriere-le-faux-cadeau-aux-vehicules-familiaux-le-piege-pour-les-citadines-electriques.html",
-          "source": "Numerama",
-          "summary": "Publié ce 23 octobre, le nouvel arrêté sur l’éco-score fait mine d’aider les véhicules électriques familiaux. En réalité, ce sont certaines citadines électriques qui prennent un coup de rabot.",
-          "published": "2026-10-23T15:55:15+00:00"
-        },
-        {
-          "title": "☕️ Le jeu vidéo français dans le rouge : Arkane et Don’t Nod en péril",
-          "link": "https://next.ink/brief-article/le-jeu-video-francais-dans-le-rouge-arkane-et-dont-nod-en-peril/",
-          "source": "Next",
-          "summary": "À l’image de l’industrie occidentale du jeu vidéo, la situation en France est très difficile. Deux représentants hexagonaux du secteur, Arkane et Don’t Nod, pourraient en faire les frais. Le sort d’Arkane et de ses 217…",
-          "published": "2026-10-23T15:32:05+00:00"
-        },
-        {
-          "title": "Google sait tout ce que vous faites : voici comment l’en empêcher",
-          "link": "https://www.clubic.com/actualite-634747-google-sait-tout-ce-que-vous-faites-voici-comment-l-en-empecher.html",
+          "title": "Tempête Austen : plus de 400 antennes mobiles en panne dans l’Ouest, comment vérifier la vôtre et ce que vous pouvez réclamer",
+          "link": "https://www.clubic.com/actualite-635800-tempete-austen-plus-de-400-antennes-mobiles-en-panne-dans-l-ouest-comment-verifier-la-votre-et-ce-que-vous-pouvez-reclamer.html",
           "source": "Clubic",
-          "summary": "Recherches web, vidéos regardées, déplacements, habitudes de navigation… Votre compte Google peut conserver une quantité (très) impressionnante d’informations sur vous. Bonne nouvelle : en dix minutes, quelques réglages…",
-          "published": "2026-10-23T15:30:00+00:00"
+          "summary": "Deux jours après la longue panne d’Orange, plus de 400 sites mobiles de l’Ouest avaient au moins un service coupé ou dégradé au passage de la tempête Austen. Si votre téléphone ne capte plus, vous pouvez vérifier l’état…",
+          "published": "2026-10-24T09:10:00+00:00"
+        },
+        {
+          "title": "Brave vend son index aux IA, entre un flou juridique et une confidentialité à prouver",
+          "link": "https://www.clubic.com/dossier-634783-dollars-les-1-000-requetes-comment-brave-monetise-son-index-aupres-des-ia.html",
+          "source": "Clubic",
+          "summary": "Brave se présente comme un navigateur privé, mais depuis quelque temps, la société vend aussi l’accès à son index de recherche aux assistants d’IA. En plus d’un flou juridique pour cette activité, on peut alors se…",
+          "published": "2026-10-24T09:02:00+00:00"
+        },
+        {
+          "title": "Après la purge Black Ops 7, Call of Duty: Modern Warfare 4 revient au grand cinéma",
+          "link": "https://www.numerama.com/pop-culture/2359975-apres-la-purge-black-ops-7-call-of-duty-modern-warfare-4-revient-au-grand-cinema.html",
+          "source": "Numerama",
+          "summary": "La campagne solo de Call of Duty: Black Ops 7 relevait du grand n'importe quoi. Celle de Call of Duty: Modern Warfare 4 renoue avec les grandes qualités hollywoodiennes de la saga. Ouf.",
+          "published": "2026-10-24T09:00:00+00:00"
+        },
+        {
+          "title": "Trop risquées une fois connectées ? OpenAI entraîne ses IA les plus puissantes sans Internet",
+          "link": "https://www.frandroid.com/marques/openai/3298215_trop-risquees-une-fois-connectees-openai-entraine-ses-ia-les-plus-puissantes-sans-internet",
+          "source": "Frandroid",
+          "summary": "Après plusieurs incidents de sécurité, OpenAI annonce que ses modèles les plus avancés seront entraînés sans accès au web réel. La mesure, déjà appliquée depuis le 1er octobre, restera en vigueur jusqu'à nouvel ordre.",
+          "published": "2026-10-24T09:00:00+00:00"
+        },
+        {
+          "title": "Avengers : Doomsday dévoile des images inédites (avec deux Captain America)",
+          "link": "https://www.numerama.com/pop-culture/2360345-avengers-doomsday-devoile-des-images-inedites-avec-deux-captain-america.html",
+          "source": "Numerama",
+          "summary": "Marvel Studios a diffusé un spot d'environ une minute d'Avengers : Doomsday pendant le premier match des World Series de baseball, ce vendredi 23 octobre aux États-Unis. On y voit les Quatre Fantastiques dans un stade,…",
+          "published": "2026-10-24T08:47:17+00:00"
+        },
+        {
+          "title": "Un PC OLED à 949,99€ : 14 pouces et 1,2 kg pour bosser de partout",
+          "link": "https://www.clubic.com/bons-plans-635710-un-pc-oled-a-949-99-14-pouces-et-1-2-kg-pour-bosser-de-partout.html",
+          "source": "Clubic",
+          "summary": "Le Zenbook 14 OLED d’Asus, dans sa version Ryzen AI 7 445 avec 16 Go de mémoire, passe à 949,99 € chez Fnac comme chez Darty. Un ultraportable de 1,2 kg pensé pour le travail en mobilité, avec une dalle OLED soignée…",
+          "published": "2026-10-24T08:41:00+00:00"
         }
       ]
     }
@@ -325,11 +325,46 @@
       "label": "Actualites diabete",
       "items": [
         {
-          "title": "Denville Township Elementary School Student Is Raising Money For Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWHRfcjFSRG1jOTlUcndzc2FBblpudFNyTHBTQWZQNnJTdXBVbkFKd1daUzRQVTRhTDcxdTNGQ1Zic1RqUEY0YmFCYy0yVXlCRDB3anh1NGx1MU5HWG5qY3p6QzdoM2I3S19Bd3JEckx6bDA0UWptdXhBbHVSSzRoWGlqNENscHdtRUdJU3UyTHctaVY1UUJ3RGJZMWFyRy10NVRZS3pUZGdWQmk1OFBoSWZwNXg0ajRkZW9HTWhIOTRIWmRTalNVUnRZZ09vNlU1Z0dQZUtfeXdoZw?oc=5",
-          "source": "TAPinto",
-          "summary": "Denville Township Elementary School Student Is Raising Money For Diabetes TAPinto",
-          "published": "2026-10-24T03:00:00+00:00"
+          "title": "Pancréas, diabète, cellules : ce que change cette carte inédite",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWR1bG9HS2tHa2lQd0d5TlE3NFNHS01KdWlaSTQzbzc2OWw4UmN4alVyMWN3d1FJbVVOb3lmT0ZsaDlVc2ozUTZXaVdBODlQUFBCT2NaSzFrQk5WX1ZzVmlHZmJKcTFJbUR3Z2M4QlFOMkhGY1dhc1kxbUZ1dHl2X1RNVjFkZG8tbXhhVGVsUi02VDNrM3c?oc=5",
+          "source": "24matins",
+          "summary": "Pancréas, diabète, cellules : ce que change cette carte inédite 24matins",
+          "published": "2026-10-24T09:00:40+00:00"
+        },
+        {
+          "title": "Médicaments amaigrissants : les saisies rebondissent, le marché parallèle inquiète",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR1JnaVBiWk1qTVdkdEdTUTRkUlFyeFl2MktINC1qa1p4NHlFUVBNelBHVEs2VENSOWFNUVJiYUhQUVBYYTVCVC1oUHFyRk9JTkRsUnc1a05pbkFjN1Jscm56Z0M2cEtUVmhFZjAyOFpMclRrMzFfX2JLTTdHLUdxYTVTa1dpNVV1dm1JcVBxUDJCQm1ENHF0NjFxRlhJRHRqelJLQmp4Z0NKY3dKTHBYTWVsUUpiSWtTcmhLellKaUJWSWY0OGZqQVRNYUs?oc=5",
+          "source": "Le Spécialiste",
+          "summary": "Médicaments amaigrissants : les saisies rebondissent, le marché parallèle inquiète Le Spécialiste",
+          "published": "2026-10-24T08:08:01+00:00"
+        },
+        {
+          "title": "Predicting the incidence of type 2 diabetes using FINDRISC and machine",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHJYeWNSZkhLSl9qSmw2Zl9zN01RTkp0WUg2MGtnMC1iejFxaDJZR2ZWa09CQTkzaGZSdFhjTzV1Q0t1c21CLWFwVzR5QXVkelNpdnhORlhuQzRTeFdUdDhzRmtBMFlWVWhWSmRnUzFka1MtanA3RWtoMnpGU19vSHY2eWFhUXVhVHRzbTBRUVBQdHlqNk9DYjdaWENVWTEyTkVWRXRPdnZQaUhNUXFpbmpUbVJRdWQ5ZEltcXMwXzItb1NCYV9pQWR0b29PMmhNTVNoWGFvQnkxdzNtZEktSHZzeEN3bndwQ0x3?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Predicting the incidence of type 2 diabetes using FINDRISC and machine Bioengineer.org",
+          "published": "2026-10-24T08:03:45+00:00"
+        },
+        {
+          "title": "Le Lions Club de Châteaudun mobilisé contre le diabète",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTQyenY2TVNYeHUxdmxKZGdQLVBwTjBLaUpKRFJ3d2tzSi1PVEt1X2dFTURWU3lwdGQ4WlBhaDJQNi02OFJrTEdDOGpoZGlVbEhnMWZwTXZvaWE5a0FOVDB3bF9MYThobU94YUFxOE1ZZnJSZUx1Q1huUUFHUlVEVlJ3aUJ2b2M?oc=5",
+          "source": "Radio Intensité",
+          "summary": "Le Lions Club de Châteaudun mobilisé contre le diabète Radio Intensité",
+          "published": "2026-10-24T06:43:19+00:00"
+        },
+        {
+          "title": "Number of seizures of weight-loss medicines rises again as parallel market causes concern",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSFcyZTRIVlpOMVNiejBTRy13SHJWQ0Y4cFVPcWZNOUVuMkM5THdfa0lZbjEzOGxwdHBobmo2S09jTURfZ0hYVnR3YnpwYy1yVVRYTHdOLTBBS1hpTThueUxsM1ZkUVd0TGpTa0llUF93cDVhdlBNdkcyc1lWSTRVc28xbHFIT1JPUWl0TW5aenJQU0RaSzlkS2RoRHhjbThicGhINzk1ZUdWRVM4SEpMSkFLN0FGci1HSk1WV0FHNU9UaENWNkVtVGFhOEs3YTdhN3RrQXdMTGFTcThKS0tzWkhBeGZOOWhKR19n?oc=5",
+          "source": "Belga English",
+          "summary": "Number of seizures of weight-loss medicines rises again as parallel market causes concern Belga English",
+          "published": "2026-10-24T05:08:35+00:00"
+        },
+        {
+          "title": "Un poids idéal après 40 ans aide à réduire le risque de troubles de la glycémie",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFJoUUtsclRnY0o1cmpiVVMyUjhEbEJ2VjBGYmJfSEdFbDZZZFY1MEczaFhzNk9ERnpKRGt4bGI0YkpSc2czMThWNGhZY1VsTjVXaHdiX2k0cGlwVTV3WHZpTFRfazBJSUpFY2duV2xoNjNBaEZBbzlGQWxxUkVKQ3lrY2d3dFNNUktraE5hMmNMUDY5amdpdlJpcHl3VHZTM3ZsU0pUb3pKX0lzMnhXTw?oc=5",
+          "source": "Laodong.vn",
+          "summary": "Un poids idéal après 40 ans aide à réduire le risque de troubles de la glycémie Laodong.vn",
+          "published": "2026-10-24T02:50:32+00:00"
         },
         {
           "title": "Local girl raises thousands for type 1 diabetes research ahead of charity walk",
@@ -339,10 +374,17 @@
           "published": "2026-10-24T02:27:00+00:00"
         },
         {
-          "title": "Education support limit frustrates parents with type 1 diabetic children",
+          "title": "Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQW5JUGRSelA4N3hPSFptR21kZ05SaWFKanJNcUoyMEwwSXhYeU5oMFNTMUdRSXpHbVVEZWEzTk4yX3pUZlliNUpMU1VHc2ZzVnZ6NlU1NjlOQlVocnlGTmRsVVlkTjlUMmZQN09EZ2kzcl9xclBnSFFLTFNFZmxFeS1OVi10M1ViVGhhTU9fNm90bzJidU53QktybUJZeUVuMXJYRDVacWNRUQ?oc=5",
+          "source": "STAT",
+          "summary": "Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear STAT",
+          "published": "2026-10-24T01:56:46+00:00"
+        },
+        {
+          "title": "Mother says monitoring type 1 diabetes should not be left to children as young as seven",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWFRaXNmNWFLdXM0SktYUEtNRXNMWFplUjdUSF9FNVVxc2RfMVhHSHliWGpzVlZVcEFhZVVocy1LTzFFTl8zMmhJUmNlWE9pV0pwVENOUlg1bFVER3BZbWF5MnZvTnpLWWZfUTBnZWdnLXdtMUltYWVoRE1IVFVkMVNEbDd1RUw3Wk1POGRBQkV1MHZza2dpTXNXSmJmV0Q0VWh3UUNQYlgtRVRnc0E?oc=5",
           "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "summary": "Education support limit frustrates parents with type 1 diabetic children ABC News & Headlines – Australian Broadcasting Corporation",
+          "summary": "Mother says monitoring type 1 diabetes should not be left to children as young as seven ABC News & Headlines – Australian Broadcasting Corporation",
           "published": "2026-10-23T23:58:17+00:00"
         },
         {
@@ -357,7 +399,7 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFRhMTdKSTFiMlhPZnJXM3dwZ0ZIOUllRldPemJhWEZjZWhHN3laVlhWU1pfS3JtMlJ1aEZBeFJEN0lGVWdqWGRLRXFrZGlHaDZ3dUhMTndoV1R2M3o4THFNRDJXdm82QlJtdW1zajVDVWl3dnBHR1Rfd1BtUVRlRy0zcWo5dw?oc=5",
           "source": "Bioengineer.org",
           "summary": "Heat and Itaconate Combine to Rebuild Bone in Diabetes Bioengineer.org",
-          "published": "2026-10-23T21:49:15+00:00"
+          "published": "2026-10-23T21:53:40+00:00"
         },
         {
           "title": "The connection between diabetes, cardio-kidney-metabolic health",
@@ -381,11 +423,11 @@
           "published": "2026-10-23T19:58:30+00:00"
         },
         {
-          "title": "Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQW5JUGRSelA4N3hPSFptR21kZ05SaWFKanJNcUoyMEwwSXhYeU5oMFNTMUdRSXpHbVVEZWEzTk4yX3pUZlliNUpMU1VHc2ZzVnZ6NlU1NjlOQlVocnlGTmRsVVlkTjlUMmZQN09EZ2kzcl9xclBnSFFLTFNFZmxFeS1OVi10M1ViVGhhTU9fNm90bzJidU53QktybUJZeUVuMXJYRDVacWNRUQ?oc=5",
-          "source": "STAT",
-          "summary": "Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear STAT",
-          "published": "2026-10-23T19:42:46+00:00"
+          "title": "NIH grant supports Wayne State research into mechanisms of diabetic vision loss",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOclp0WnBIWHp3SzVDa190Z01RbVRLbEU3b2VOMmhIeEdHTi1xSVpmSnpZTFA1MWN3TVRobmZ5S3R4b0M2MWp3YnVRSXJHR2sxeXFlS2JhOGxzVjFYZ2R1cUxBdEVEVjFPeEpORVNqTzRzTm9pMWY2UVVwdEZ2UGVRVldRREdLdGVDVXBGVmZ0dlZ5VUJmY0hNN29GX2IzZzNYbDBqakRfT0ZidFVCRENvVWdnXzdtU1B2bFRaZ1VhMW9XbVhDZzk3U0dWR19DUlU?oc=5",
+          "source": "Today@Wayne",
+          "summary": "NIH grant supports Wayne State research into mechanisms of diabetic vision loss Today@Wayne",
+          "published": "2026-10-23T19:53:47+00:00"
         },
         {
           "title": "Nonverbal woman with diabetes dies locked in dog crate; mother indicted",
@@ -395,18 +437,11 @@
           "published": "2026-10-23T19:40:00+00:00"
         },
         {
-          "title": "The Best Time To Exercise for Better Blood Sugar, According to Research",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaTWhQQ1FxbFQxX29VTVVHWExmUlFFVnF1U25lU3R5VWtYeXdnZGlrclloTVdTYlFGRW1KSU1fbE4xZHhobDJyYlhGaUViWDQ1ZElTck5RRGIzaFZsQ1A0WXBadHVkRlFuR05qVC1RNGxCakN5MnhyTTBHZG1CS00?oc=5",
-          "source": "Health.com",
-          "summary": "The Best Time To Exercise for Better Blood Sugar, According to Research Health.com",
-          "published": "2026-10-23T19:27:35+00:00"
-        },
-        {
-          "title": "Endocrinology conference focuses on advances in diabetes care",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMU9Xb2d6Ukt0cDdMbDg1UGt1aTZmb2w2anVUWVBBQ2RPeGFzSXozX1hEbVZrOFBGVHpYY1BFTjJNNEdodEJLeDlyUVlPUVlmVHRtVXR2R3BQdGpfVkhIOHlEM0I0V0d1MHNNWFdwTGVSRGlCTi0tNTE2NE9SUTVOUG9ZTFBieW9JcDNsemJBa296X1lrSWliUEJJaUZrdXkyQnQzcHdqZ3FZMmFSSFEwb1hFOHdNVkZ0QVBkaE1LNF80NnF00gHLAUFVX3lxTFA1STVDX0tyQ3kwSTFiOHRXd19qYkxjYksxXy1hUzd3anZNZjRaZmNEa0g4LVVlblltak53SGRkX3F5TXZRS3RDQi1UcUFBaGtqdmFhNUEzOTlscjY1NjJIN2NjQm9nTjg4OVBHV09qbWl0WUt1bDEyMTNTZ25sMTlFSG95ZWE1V3JMemd1eWEzWmF2UWhXZnlNUjBLSzY5Z2ZJMW5QNDkxMzZhaXc4dEpRZ0VjanF0VmlzT2hPTVNlTXlLUEp4cFlJRnRj?oc=5",
-          "source": "The Hindu",
-          "summary": "Endocrinology conference focuses on advances in diabetes care The Hindu",
-          "published": "2026-10-23T19:06:44+00:00"
+          "title": "Managing Diabetes Together: Aspirus Keweenaw Offers Free Community Support Group",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNTF5YTBSMWs1dUtESFJMYnl3RVFWVjhDcHh1NENINndhX245NWowNGdRX2VwdzBHUGl4OW42WHlCMG5HaVNLYWVqU0NVMzV3QWs5cDRrNVR3R0pTSElRaTRVei10WWkxU1E4a09qWE5CSnVaMi1oR0g2UjJMSjZyd1FzWnh4d1B6VllsRG5URFdaVVMz?oc=5",
+          "source": "Aspirus Health",
+          "summary": "Managing Diabetes Together: Aspirus Keweenaw Offers Free Community Support Group Aspirus Health",
+          "published": "2026-10-23T18:58:37+00:00"
         },
         {
           "title": "Novo's Awiqli® receives FDA approval as the first and only once-weekly insulin for children 10 years of age and older with type 2 diabetes",
@@ -460,8 +495,8 @@
         {
           "title": "Finerenone Evidence Broadens Across CKD Types: Hiddo Heerspink, PhD",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZEhHbS1TT2RmSzljNzhDcWNvYkd1TGtpRGtacFJpeVhtV3Zxdk9MY0lzVXBtS3hkT1pWYjhwcEdRMUxPMHpiOWtzY1NzaXFkenVvVm45U2d4bk56OV9RLUxhbEtRSzlvMnViVS1BY052V1BQMUR2bjdfWjE3MjlEQmhGR1pxYXdMZ01YMFJ6amlIOXBLb0E?oc=5",
-          "source": "AJMC",
-          "summary": "Finerenone Evidence Broadens Across CKD Types: Hiddo Heerspink, PhD AJMC",
+          "source": "The American Journal of Managed Care",
+          "summary": "Finerenone Evidence Broadens Across CKD Types: Hiddo Heerspink, PhD The American Journal of Managed Care",
           "published": "2026-10-23T17:29:31+00:00"
         },
         {
@@ -479,18 +514,18 @@
           "published": "2026-10-23T16:08:28+00:00"
         },
         {
-          "title": "Kelsey Bascom Has Diabetes in 'Quarter' Coming-of-Age Film Trailer",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUFI1aWZCREdRMmI3QUpNZnRuMFUxaHEtZm9VV0p1anhPWnYxdHZON3hRaWpWS2NDY0drQW5DSkJWZ2NlS3BfcS02VUp3TjdoY0Npb0c0ZnVrREw3cHMwczZNWllpWTBiVXVGcldzcHVtZ203Wnk2b2ZRaGdJd3dqS2NWUzVweXhBQldQYjk2NnhXM3VjUnE4ckpRUkVLU1Mt?oc=5",
-          "source": "FirstShowing",
-          "summary": "Kelsey Bascom Has Diabetes in 'Quarter' Coming-of-Age Film Trailer FirstShowing",
-          "published": "2026-10-23T15:57:06+00:00"
+          "title": "Pollution de l’air et chaleur, signal sur glycémie avant diabète",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmZmSHpFTkZWTllTR1V0Ml96c0U2SlBHNW5XMWxUaHZDaDlZQk90OW8zMTZDdk5XaEo5dkZSWlppX2ZmSTBld3pYRDMtaEtfbE5HMTlfMEpKX0huci1WZFJCeEZVQ0JRV0loN1M0RWFVUnRlRmZlWmlia3BQaHJrVmFmUjBoOHNaSXRiOThTTkx4eXE4Sl9EOGZEUlRaZU5F?oc=5",
+          "source": "Actusante.net",
+          "summary": "Pollution de l’air et chaleur, signal sur glycémie avant diabète Actusante.net",
+          "published": "2026-10-23T16:00:37+00:00"
         },
         {
-          "title": "Autonomous AI eye exam closes diabetic retinopathy screening gap in minority youth",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTgtdWVuMGdXNk1Xb2k5c0xYOXB6OFBYSTkxNWljaWNmVWttNFhfNk1WS2x4ZndwbEpoVFU4TGpBSnRCbnJsZWZyRVZLcVVQZkhlOTlSbjM4N05icWtGeDZGQkotVHUtMkZUN2twR09uSkd5RnNQOXVLcVhobWNUem90OGRxRXlobFNhLVJuN2ZLSWdsT0wxLThlUUwxR0MyWWlGUDBHM2hWeW8?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Autonomous AI eye exam closes diabetic retinopathy screening gap in minority youth Bioengineer.org",
-          "published": "2026-10-23T15:53:39+00:00"
+          "title": "Kelsey Bascom Has Diabetes in 'Quarter' Coming-of-Age Film Trailer",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUFI1aWZCREdRMmI3QUpNZnRuMFUxaHEtZm9VV0p1anhPWnYxdHZON3hRaWpWS2NDY0drQW5DSkJWZ2NlS3BfcS02VUp3TjdoY0Npb0c0ZnVrREw3cHMwczZNWllpWTBiVXVGcldzcHVtZ203Wnk2b2ZRaGdJd3dqS2NWUzVweXhBQldQYjk2NnhXM3VjUnE4ckpRUkVLU1Mt?oc=5",
+          "source": "FirstShowing.net",
+          "summary": "Kelsey Bascom Has Diabetes in 'Quarter' Coming-of-Age Film Trailer FirstShowing.net",
+          "published": "2026-10-23T15:57:06+00:00"
         },
         {
           "title": "GLP-1 Drugs Linked to Fewer Psychiatric Hospitalizations in People With Schizophrenia and Type 2 Diabetes",
@@ -512,13 +547,6 @@
           "source": "C&EN",
           "summary": "This implant zaps away high blood sugar in mice C&EN",
           "published": "2026-10-23T15:25:26+00:00"
-        },
-        {
-          "title": "Wirelessly Powered Electronic Implant, ECHO, Enables Drug-Free Management of 'Diabesity'",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONGVicS02NmJSX2s2aWRrdnNfeHJnY0dDaS1rS3UwQXBZTllvUGUxSC13S1Y2OU02VWhkQVpQaWNzSFoyY2Jjc0MtcHpfUW5BWk1vdkI5SjVBQWFUUHpMeUZZMV9lWlVpMW5vcm9pUE1ucmloUXV5dzZNMEZLa0k4cFpfTjdlbS1TTzl1LTZrOTdnRVc5SmRJYURRSE9yZThXVzlqNXRHT0ttaFZEeExsSFFKeVFyYlRtVkVZemxoUUx5T3RtYlVJenNpRV95eVlOUTlXeTJ4eEc5dw?oc=5",
-          "source": "Genetic Engineering and Biotechnology News",
-          "summary": "Wirelessly Powered Electronic Implant, ECHO, Enables Drug-Free Management of 'Diabesity' Genetic Engineering and Biotechnology News",
-          "published": "2026-10-23T15:21:24+00:00"
         },
         {
           "title": "Artificial Pancreas Delivers Mixed Results in Year-Long Diabetes Trial",
@@ -575,34 +603,6 @@
           "source": "Yale Medicine",
           "summary": "A Different Way to Think About Weight and Chronic Disease Yale Medicine",
           "published": "2026-10-23T13:44:36+00:00"
-        },
-        {
-          "title": "From Food to Function: Dietary Interventions for T2D, T1D",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlhXOTVNZDFNTEg5by04U3dqcGZaTF9rWU5CbHU0UnNrV0laR0gyaFZJdmFudU9XZzhvRm1QNHVFbkNWSS1kREYyQnJOOUR5OVc5akktMWcyMkwxVUpMYm1YY1kzVHNOQXA4T2xjYkFfUDdFc0h3bHZSUVRlWThZRnlnM2xrRGZwUWVmcEJWUnBCOHRObGRxWXpCYXRYSU00NExCN1F1V0Q2dw?oc=5",
-          "source": "Medscape",
-          "summary": "From Food to Function: Dietary Interventions for T2D, T1D Medscape",
-          "published": "2026-10-23T13:44:30+00:00"
-        },
-        {
-          "title": "5 Best Fruits for Better Blood Sugar, According to a Dietitian",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CSGVCbTE5RXlOdG9IblRlQ0RwOGtnS0M5clZXN0pOaWNMekszbVktdzNWSWRPSTRkYUlnenVyOGZobUhTYjk2LVp5UWlQS1hfVW9ZWER3d2MwTks4Q3VkbkEtQmpkclZNNnRn?oc=5",
-          "source": "Health.com",
-          "summary": "5 Best Fruits for Better Blood Sugar, According to a Dietitian Health.com",
-          "published": "2026-10-23T13:42:35+00:00"
-        },
-        {
-          "title": "Novel Prediction Tools and New Therapeutic Targets for DPN",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUU3YkcyTTZaekw1MUVPOTB0anlDOGF5dFA1aXBWdUoxc25KS0pfR0ozQXNVWEFYdXN3dVZvdTJ5NEhPMHVIUmN5a0hlR0pXNERxVURaZEFHcXVPM2tiaThfUVV3Z3F4cFA2TGhVUzc0cWw3dlZLbEJ1UmphckV4dGUtdEFZOFdrQThaVXd6VzJrNXJvNUNmR3B1Zmc1LVVGZU85RVlxVXRvSWxld2c?oc=5",
-          "source": "Medscape",
-          "summary": "Novel Prediction Tools and New Therapeutic Targets for DPN Medscape",
-          "published": "2026-10-23T13:34:30+00:00"
-        },
-        {
-          "title": "Le diabète et ses conséquences sur la santé sexuelle encore trop méconnus",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcXFxejV6aTcyamx0SzQ5UHJlTGlDMzhBdDZ4Y3Ezc0syMjZveENuSEpSSFdlV0NOc2J0T3dwMWcxNmhtOHRvaGtNT3kyZ0V2VWVXNTRzOGJITDNHeVEzc3A4VGIycmtxNEctN3NUWHZfMkxGMGZDamxFb05UaEg0RXVJOHhDY2VGZHp3RGZTZUxadkZhblgzSUtESzdZWmdMNUFma0hRcmZGeDR0QTdKblZXMFBBVEpxSWY3NXFR?oc=5",
-          "source": "Le Spécialiste",
-          "summary": "Le diabète et ses conséquences sur la santé sexuelle encore trop méconnus Le Spécialiste",
-          "published": "2026-10-23T12:59:44+00:00"
         }
       ]
     }
