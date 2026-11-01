@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-11-01T17:39:40.483237+00:00",
+  "generated_at": "2026-11-01T21:43:03.542911+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "Le crash d’un petit avion privé en Floride fait neuf morts, selon le ministre des transports",
+          "link": "https://www.lemonde.fr/international/article/2026/11/01/le-crash-d-un-petit-avion-prive-en-floride-fait-neuf-morts-selon-le-ministre-des-transports_6804672_3210.html",
+          "source": "Le Monde",
+          "summary": "Le régulateur aérien américain a annoncé qu’il mènerait une enquête avec l’agence fédérale américaine de sécurité des transports pour faire la lumière sur l’incident.",
+          "published": "2026-11-01T21:41:25+00:00"
+        },
+        {
+          "title": "Jean-Pierre Filiu : \"Gaza est un laboratoire pour l'ensemble du système international\"",
+          "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261101-jean-pierre-filiu-gaza-est-un-laboratoire-pour-l-ensemble-du-syst%C3%A8me-international",
+          "source": "France 24",
+          "summary": "Un an après la proclamation d'un cessez-le-feu dans la bande de Gaza, l'enclave est toujours largement occupée par l'armée israélienne, les bombardements quotidiens et meurtriers, et les conditions de vie extrêmes.…",
+          "published": "2026-11-01T21:04:00+00:00"
+        },
+        {
+          "title": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de \"division\"",
+          "link": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
+          "source": "AFP - JULIEN DE ROSA",
+          "summary": "Le candidat Horizons à l'élection présidentielle, Édouard Philippe, a confirmé dimanche son refus de participer à une éventuelle primaire de la droite et du centre. L'idée d'une \"primaire des démocrates\" a été proposée…",
+          "published": "2026-11-01T20:35:14+00:00"
+        },
+        {
+          "title": "EN DIRECT, midterms 2026 : Michigan : l’élue démocrate Haley Stevens soutient le républicain Mike Rogers dans le Michigan",
+          "link": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-midterms-2026-michigan-l-elue-democrate-haley-stevens-soutient-le-republicain-mike-rogers-dans-le-michigan_6801590_3210.html",
+          "source": "Le Monde",
+          "summary": "Le soutien de la représentante démocrate Haley Stevens au républicain Mike Rogers dans la course au Sénat dans le Michigan a provoqué des démissions dans son équipe et la colère de son parti, à quelques jours du scrutin.",
+          "published": "2026-11-01T20:34:44+00:00"
+        },
+        {
+          "title": "Ukraine : au dernier jour de trêve à Olechky, la population se prépare à une reprise de la guerre",
+          "link": "https://www.france24.com/fr/europe/20261101-ukraine-au-dernier-jour-de-tr%C3%AAve-%C3%A0-olechky-la-population-se-pr%C3%A9pare-%C3%A0-une-reprise-de-la-guerre",
+          "source": "© Evgeniy Maloletka, AP",
+          "summary": "Les habitants d'Olechky et de ses environs se préparent dimanche soir à la fin de la trêve exceptionnelle débutée mardi, Moscou ayant refusé une proposition de l'Ukraine de prolonger ce cessez-le-feu. Sur place, les…",
+          "published": "2026-11-01T19:27:20+00:00"
+        },
+        {
+          "title": "Présidentielle en Bulgarie : Iliana Iotova remporte l’élection, selon plusieurs sondages à la sortie des urnes",
+          "link": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
+          "source": "Le Monde",
+          "summary": "Ces estimations provisoires doivent être confirmées par les résultats officiels. Les Bulgares ont voté dimanche dans un contexte marqué par les menaces sécuritaires dans la région et les inquiétudes économiques dans le…",
+          "published": "2026-11-01T19:07:41+00:00"
+        },
+        {
+          "title": "En Israël, la rue divisée face à l’impasse politique",
+          "link": "https://www.lemonde.fr/international/article/2026/11/01/en-israel-la-rue-divisee-face-a-l-impasse-politique_6804570_3210.html",
+          "source": "Le Monde",
+          "summary": "Plusieurs milliers de personnes se sont rassemblées à travers le pays pour appeler à la formation d’un gouvernement « judéo-arabe ». A Tel-Aviv, une contre-manifestation s’est tenue pour rejeter toute participation des…",
+          "published": "2026-11-01T18:50:51+00:00"
+        },
+        {
+          "title": "JOJ Dakar 2026 : les coulisses de l'édition spéciale du dimanche",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-m%C3%A9dailles-temps-forts-et-r%C3%A9sultats-rendez-vous-dimanche-21h42-de-paris",
+          "source": "France 24",
+          "summary": "JOJ Dakar 2026 🇸🇳 Les coulisses de l'édition spéciale du Journal de l'Afrique. Médailles et temps forts des Jeux olympiques de la jeunesse : rendez-vous dimanche à 21h42 (Paris), 20h42 à Dakar, avec Fatimata Wane sur…",
+          "published": "2026-11-01T18:05:50+00:00"
+        },
+        {
+          "title": "Réédition de « De la démocratie en Amérique » de Tocqueville : « Devrions-nous nous pencher sur l’évolution récente de la société états-unienne pour analyser comment meurent les démocraties ? »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/01/reedition-de-de-la-democratie-en-amerique-de-tocqueville-devrions-nous-nous-pencher-sur-l-evolution-recente-de-la-societe-etats-unienne-pour-analyser-comment-meurent-les-democraties_6804534_3232.html",
+          "source": "Le Monde",
+          "summary": "A quelques jours des élections cruciales de mi-mandat qui se tiendront aux Etats-Unis le 3 novembre, les éditions Calmann-Lévy rééditent l’essai majeur d’Alexis de Tocqueville, « De la démocratie en Amérique » (1835).…",
+          "published": "2026-11-01T18:00:10+00:00"
+        },
         {
           "title": "Allemagne : plusieurs partis condamnent les violences et appellent à écouter la \"Gen Z\"",
           "link": "https://www.france24.com/fr/europe/20261101-allemagne-plusieurs-partis-condamnent-violences-appellent-%C3%A9couter-gen-z",
           "source": "© Kai Pfaffenbach, Reuters",
           "summary": "Des responsables politiques des Verts et de la gauche radicale ont affirmé leur soutien, dimanche, à la jeunesse, tout en condamnant les violences survenues en marge des manifestations samedi. Le gouvernement a de son…",
           "published": "2026-11-01T17:19:29+00:00"
-        },
-        {
-          "title": "Départ de la 13e Route du Rhum sous une \"très belle journée ensoleillée\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-d%C3%A9part-de-la-13e-route-du-rhum-sous-une-tr%C3%A8s-belle-journ%C3%A9e-ensoleill%C3%A9e",
-          "source": "France 24",
-          "summary": "Les 115 marins engagés sur la Route du Rhum se sont lancés dimanche, au large de Saint-Malo dans des conditions météo clémentes, à l'assaut de l'Atlantique, pour une traversée en solitaire que les plus rapides…",
-          "published": "2026-11-01T17:18:35+00:00"
-        },
-        {
-          "title": "Pologne : pourquoi ce bras de fer entre Tusk et Nawrocki ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-pologne-pourquoi-ce-bras-de-fer-entre-tusk-et-nawrocki",
-          "source": "France 24",
-          "summary": "La Commission européenne a pris le parti du Premier ministre polonais Donald Tusk samedi 31 octobre en appelant le président polonais Karol Nawrocki à valider la nomination de juges pour dénouer une profonde crise…",
-          "published": "2026-11-01T17:14:49+00:00"
-        },
-        {
-          "title": "Halloween : les images impressionnantes des cortèges des quatre coins du monde",
-          "link": "https://www.lemonde.fr/flux-video-immersif/video/2026/11/01/halloween-les-images-impressionnantes-des-corteges-des-quatre-coins-du-monde_6804530_6717263.html",
-          "source": "Le Monde",
-          "summary": "De New York à Hongkong, les traditionnels cortèges d’Halloween ont défilé dans les villes du monde entier pour la terrifiante soirée du 31 octobre.",
-          "published": "2026-11-01T17:10:19+00:00"
-        },
-        {
-          "title": "JOJ Dakar 2026 : la relève de la boxe féminine kenyane à l'assaut des podiums",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-la-rel%C3%A8ve-de-la-boxe-f%C3%A9minine-kenyane-%C3%A0-l-assaut-des-podiums",
-          "source": "France 24",
-          "summary": "🇰🇪 Avec la deuxième plus grande délégation des JOJ de Dakar, juste derrière le Sénégal, le Kenya compte sur sa nouvelle génération d’athlètes pour briller. Après avoir terminé en tête des nations africaines à Paris 2024…",
-          "published": "2026-11-01T17:04:58+00:00"
-        },
-        {
-          "title": "En Ukraine, les habitants d’Olechky évacués : « Nous ne savons pas où aller, mais une chose est sûre : nous survivrons »",
-          "link": "https://www.lemonde.fr/international/article/2026/11/01/en-ukraine-les-habitants-d-olechky-evacues-nous-ne-savons-pas-ou-aller-mais-une-chose-est-sure-nous-survivrons_6804529_3210.html",
-          "source": "Le Monde",
-          "summary": "A la faveur d’un cessez-le-feu de six jours entre Moscou et Kiev, environ 700 personnes ont pu sortir d’Olechky, un « no man’s land » situé en pleine ligne de front où la population, abandonnée, souffrait de très graves…",
-          "published": "2026-11-01T16:56:32+00:00"
-        },
-        {
-          "title": "EN DIRECT, midterms 2026 : Donald Trump prévient qu’il pourrait devenir « Monsieur Veto » si les démocrates remportent la majorité au Congrès",
-          "link": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-midterms-2026-donald-trump-preveint-qu-il-pourrait-devenir-monsieur-veto-si-les-democrates-remportent-la-majorite-au-congres_6801590_3210.html",
-          "source": "Le Monde",
-          "summary": "A quelques jours des élections, le président américain a aussi menacé samedi de nouvelles frappes contre des installations nucléaires iraniennes.",
-          "published": "2026-11-01T16:50:25+00:00"
-        },
-        {
-          "title": "Ukraine : dernier jour d'une trêve exceptionnelle à Olechky",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-ukraine-dernier-jour-d-une-tr%C3%AAve-exceptionnelle-%C3%A0-olechky",
-          "source": "France 24",
-          "summary": "La trêve qui a permis l'évacuation d'habitants d'Olechky, ville occupée par la Russie dans le sud de l'Ukraine, doit prendre fin dimanche soir, un répit exceptionnel mais circonscrit alors que Kiev et Moscou poursuivent…",
-          "published": "2026-11-01T16:41:18+00:00"
-        },
-        {
-          "title": "Inde : des milliers de manifestants contre la révision des listes électorales",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-inde-des-milliers-de-manifestants-contre-la-r%C3%A9vision-des-listes-%C3%A9lectorales",
-          "source": "France 24",
-          "summary": "Des milliers de personnes se sont rassemblées dimanche à New Delhi à l'appel des partis d'opposition pour exiger la démission du chef de la Commission électorale à la suite de la révision controversée des listes…",
-          "published": "2026-11-01T16:39:04+00:00"
-        },
-        {
-          "title": "A Tokyo, le Festival international du film affiche ses ambitions culturelles et financières",
-          "link": "https://www.lemonde.fr/culture/article/2026/11/01/a-tokyo-le-festival-international-du-film-affiche-ses-ambitions-culturelles-et-financieres_6804528_3246.html",
-          "source": "Le Monde",
-          "summary": "La 39ᵉ édition de l’événement a reflété les différentes facettes de la production cinématographique japonaise, et, parmi elles, quelques thèmes récurrents : la crise du modèle familial ou encore la difficulté du rapport…",
-          "published": "2026-11-01T16:38:29+00:00"
         }
       ]
     },
@@ -84,10 +84,59 @@
       "label": "Quebec",
       "items": [
         {
+          "title": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Après une semaine laborieuse entre Québec et Ottawa, la main tendue du premier ministre Mark Carney pour une rencontre bilatérale a trouvé preneur. Paul St-Pierre Plamondon accepte de s’entretenir avec son homologue…",
+          "published": "2026-11-01T20:23:32+00:00"
+        },
+        {
+          "title": "Les soupçons d’irrégularités ne remettront pas en cause les résultats des élections en Israël",
+          "link": "https://www.ledevoir.com/monde/moyen-orient/1021364/soupcons-irregularites-ne-remettront-pas-cause-resultats-elections-israel",
+          "source": "Le Devoir",
+          "summary": "Les partis arabes, qui ont connu une percée historique, ont été visés par des accusations de fraude.",
+          "published": "2026-11-01T19:45:00+00:00"
+        },
+        {
+          "title": "Courte piste | Danaé Blais et Courtney Sarault sur le podium à Montréal",
+          "link": "https://www.lapresse.ca/sports/sports-d-hiver/2026-11-01/courte-piste/danae-blais-et-courtney-sarault-sur-le-podium-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les Canadiennes Danaé Blais et Courtney Sarault sont montées sur le podium lors de l’épreuve de 500 mètres durant l’étape du Circuit mondial de patinage de vitesse courte piste à Montréal, dimanche à l’aréna…",
+          "published": "2026-11-01T19:06:10+00:00"
+        },
+        {
+          "title": "Élections de mi-mandat au Michigan | Une représentante démocrate appuie le candidat républicain pour le Sénat",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-11-01/elections-de-mi-mandat-au-michigan/une-representante-democrate-appuie-le-candidat-republicain-pour-le-senat.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Haley Stevens, l’ancienne adversaire d’Abdul El-Sayed lors des primaires démocrates au Michigan pour la candidature au Sénat américain, a surpris dimanche les dirigeants du parti en offrant son appui au républicain Mike…",
+          "published": "2026-11-01T19:03:37+00:00"
+        },
+        {
+          "title": "À la barre de Méchant changement | Math Duff ne craint pas de devenir « la vedette qu’on s’écœure de voir »",
+          "link": "https://www.lapresse.ca/arts/television/2026-11-01/a-la-barre-de-mechant-changement/math-duff-ne-craint-pas-de-devenir-la-vedette-qu-on-s-ecoeure-de-voir.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Mathieu Dufour enchaîne les projets presque à la même vitesse qu’il articule. Sur les réseaux sociaux, à la télé, et même bientôt au cinéma : le flamboyant humoriste est partout. L’animateur de la nouvelle mouture de…",
+          "published": "2026-11-01T19:00:00+00:00"
+        },
+        {
+          "title": "La Serbie commémore la tragédie qui a déclenché le mouvement étudiant",
+          "link": "https://www.ledevoir.com/monde/europe/1021349/serbie-commemore-tragedie-declenche-mouvement-etudiant",
+          "source": "Le Devoir",
+          "summary": "Une catastrophe survenue à Novi Sad a initié la mobilisation qui a récemment renversé le parti de droite au pouvoir.",
+          "published": "2026-11-01T17:50:00+00:00"
+        },
+        {
+          "title": "Mark Carney dit avoir eu une «bonne conversation» avec Donald Trump",
+          "link": "https://www.ledevoir.com/politique/canada/1021346/mark-carney-dit-avoir-eu-bonne-conversation-donald-trump",
+          "source": "Le Devoir",
+          "summary": "Celle-ci a porté sur « l’avenir des échanges commerciaux entre le Canada et les États-Unis », dit le premier ministre.",
+          "published": "2026-11-01T17:40:00+00:00"
+        },
+        {
           "title": "Guerre commerciale | Mark Carney dit avoir eu une « bonne conversation » avec Donald Trump",
           "link": "https://www.lapresse.ca/actualites/politique/2026-11-01/guerre-commerciale/mark-carney-dit-avoir-eu-une-bonne-conversation-avec-donald-trump.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Mark Carney et Donald Trump auraient échangé au sujet de la guerre commerciale entre Ottawa et Washington, dimanche avant-midi. Le premier ministre canadien fait état d’une « bonne conversation » et semble évoquer un…",
+          "summary": "Mark Carney et Donald Trump auraient échangé au sujet de la guerre commerciale entre Ottawa et Washington, samedi. Le premier ministre canadien fait état d’une « bonne conversation » et semble évoquer un résultat dans…",
           "published": "2026-11-01T17:02:43+00:00"
         },
         {
@@ -103,55 +152,6 @@
           "source": "Journal de Montreal",
           "summary": "Pour que le parrain Vito Rizzuto se retrouve derrière les barreaux, il y a 20 ans, il a fallu qu’un ténor de la mafia new-yorkaise le trahisse.",
           "published": "2026-11-01T17:00:00+00:00"
-        },
-        {
-          "title": "Je me suis fait hacker et c'est vraiment stressant!",
-          "link": "https://www.journaldemontreal.com/2026/11/01/je-me-suis-fait-hacker-et-cest-vraiment-stressant",
-          "source": "Journal de Montreal",
-          "summary": "J’ai un coup de chaud. Mes jambes vacillent. Je n’arrive pas à croire ce qui est en train de m’arriver.",
-          "published": "2026-11-01T17:00:00+00:00"
-        },
-        {
-          "title": "Adieu viaduc Van Horne ? | Le Plateau et Rosemont prêts à couper le pont",
-          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-01/adieu-viaduc-van-horne/le-plateau-et-rosemont-prets-a-couper-le-pont.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Exit le viaduc Van Horne. C’est ce que proposent les maires de Rosemont–La-Petite-Patrie et du Plateau-Mont-Royal, quitte à perdre ce lien routier entre leurs arrondissements.",
-          "published": "2026-11-01T17:00:00+00:00"
-        },
-        {
-          "title": "Chris Kreider: quand un bûcheron tente de s'intégrer chez les microchirurgiens",
-          "link": "https://www.journaldemontreal.com/2026/11/01/chris-kreider-quand-un-bucheron-tente-de-sintegrer-chez-les-mircochirurgiens",
-          "source": "Journal de Montreal",
-          "summary": "Face aux Penguins, il a eu l’air de l’attaquant de puissance que l'on connaît",
-          "published": "2026-11-01T16:50:13+00:00"
-        },
-        {
-          "title": "Guerre commerciale: Carney et Trump ont eu une «bonne conversation»",
-          "link": "https://www.journaldemontreal.com/2026/11/01/guerre-commerciale-carney-et-trump-ont-eu-une-bonne-conversation",
-          "source": "Journal de Montreal",
-          "summary": "Mark Carney et Donald Trump ont discuté ensemble des relations économiques entre leurs deux pays.",
-          "published": "2026-11-01T16:40:55+00:00"
-        },
-        {
-          "title": "Le chef du Bloc québécois se dit optimiste face au déclenchement des partielles",
-          "link": "https://www.ledevoir.com/politique/canada/1021343/chef-bloc-quebecois-dit-optimiste-face-declenchement-partielles",
-          "source": "Le Devoir",
-          "summary": "Les candidats du parti feront valoir «la différence québécoise», notamment en matière d’environnement et de culture.",
-          "published": "2026-11-01T16:30:00+00:00"
-        },
-        {
-          "title": "Élections de mi-mandat: Trump veut miser sur les «électeurs moins politisés», une recette gagnante de 2024",
-          "link": "https://www.journaldemontreal.com/2026/11/01/elections-de-mi-mandat-trump-veut-miser-sur-les-electeurs-moins-politises-une-recette-gagnante-de-2024",
-          "source": "Journal de Montreal",
-          "summary": "À deux jours des élections de mi-mandat, Donald Trump reprend la route pour tenter de mobiliser les électeurs républicains moins enclins à voter.",
-          "published": "2026-11-01T16:22:23+00:00"
-        },
-        {
-          "title": "Halloween | Deux signalements d’aiguille et de broche de métal dans des friandises",
-          "link": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-01/halloween/deux-signalements-d-aiguille-et-de-broche-de-metal-dans-des-friandises.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Déjà deux signalements de parents ont été faits à la police concernant des objets dangereux insérés dans des friandises distribuées aux enfants durant la soirée de l’Halloween, samedi, au Québec.",
-          "published": "2026-11-01T15:49:07+00:00"
         }
       ]
     },
@@ -159,80 +159,108 @@
       "label": "France",
       "items": [
         {
-          "title": "Incendie mortel à Clermont-Ferrand : un homme mis en examen et écroué",
-          "link": "https://www.lefigaro.fr/flash-actu/incendie-mortel-a-clermont-ferrand-un-homme-mis-en-examen-et-ecroue-20261101",
+          "title": "EN DIRECT - Pau-Toulouse : les Béarnais reprennent les commandes mais la jeune garde toulousaine est toujours là",
+          "link": "https://www.lefigaro.fr/sports/rugby/live/top-14/2027/952526/pau-toulouse",
           "source": "Le Figaro",
-          "summary": "L’homme avait été placé en garde à vue vendredi matin dans le cadre de l’enquête sur l’origine de l’incendie, possiblement criminelle. Quatre corps avaient été retrouvés dans les décombres.",
-          "published": "2026-11-01T17:38:02+00:00"
+          "summary": "Le leader toulousain se déplace sur la pelouse de Pau, ce dimanche, en clôture de la 8e journée de Top 14.",
+          "published": "2026-11-01T21:42:03+00:00"
         },
         {
-          "title": "EN DIRECT - Mobilisation du 31 octobre : 779 interpellations en France, 116 membres des forces de l’ordre blessés et 36 commerces dégradés",
+          "title": "EN DIRECT - Formule 1 : drapeau rouge à Mexico, grande bataille finale à venir",
+          "link": "https://www.lefigaro.fr/sports/formule-1/en-direct-formule-1-jour-de-gloire-pour-kimi-antonelli-au-mexique-20261101",
+          "source": "Le Figaro",
+          "summary": "Le GP du Mexique, ce dimanche, pourrait bien voir l’Italien Kimi Antonelli devenir champion du monde pour la première fois. Il partira en troisième position sur la grille de départ.",
+          "published": "2026-11-01T21:34:03+00:00"
+        },
+        {
+          "title": "EN DIRECT - Colère sociale : Édouard Philippe invite les lycéens à «saisir la main tendue par le gouvernement» et à «reprendre leur année scolaire»",
           "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101",
           "source": "Le Figaro",
-          "summary": "En début de soirée, Laurent Nuñez avait qualifié de «tentative de meurtre» le lancement d’un cocktail molotov contre un gendarme mobile à Paris, en dénonçant «la violence inouïe » de groupes de casseurs.",
-          "published": "2026-11-01T17:36:03+00:00"
+          "summary": "Invité du 20 Heures de TF1, le candidat Horizons à la présidentielle a déclaré qu’il est désormais «important que les lycéens puissent reprendre leur année scolaire», alors que de nouveaux blocages sont prévus lundi.",
+          "published": "2026-11-01T21:26:03+00:00"
         },
         {
-          "title": "Liga : aucunement affaibli par la polémique en Chine, Mbappé porte le Real Madrid à Santander",
-          "link": "https://www.lefigaro.fr/sports/football/espagne/liga-aucunement-affaibli-par-la-polemique-en-chine-mbappe-porte-le-real-madrid-a-santander-20261101",
+          "title": "Floride : un jet privé s’écrase et explose dans un quartier résidentiel, 9 morts",
+          "link": "https://www.lefigaro.fr/international/floride-un-jet-prive-s-ecrase-et-explose-dans-un-quartier-residentiel-9-morts-20261101",
           "source": "Le Figaro",
-          "summary": "Grâce à une première période de grande qualité et un Kylian Mbappé buteur, le Real Madrid a fait le boulot sur la pelouse du Racing Santander ce dimanche.",
-          "published": "2026-11-01T17:36:02+00:00"
+          "summary": "Tous les occupants de l’appareil sont décédés, a annoncé dimanche le ministre américain des Transports, qui évoque une «terrible tragédie». L’avion assurait une liaison entre le Texas et les Bahamas.",
+          "published": "2026-11-01T21:24:19+00:00"
         },
         {
-          "title": "Ce qu’il faut retenir de l’actualité du week-end des 31 octobre et 1er novembre",
-          "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/01/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-31-octobre-et-1er-novembre_6804531_4355770.html",
+          "title": "Guerre en Iran : Trump aurait échangé avec Netanyahou sur les suites à donner au conflit",
+          "link": "https://www.lefigaro.fr/international/guerre-en-iran-trump-aurait-echange-avec-netanyahou-sur-les-suites-a-donner-au-conflit-20261101",
+          "source": "Le Figaro",
+          "summary": "Selon Axios, le président américain a dit vouloir privilégier la voie diplomatique pour résoudre le conflit,",
+          "published": "2026-11-01T21:07:18+00:00"
+        },
+        {
+          "title": "Pierre-Olivier Costa retrouve la présidence du Mucem après sa suspension",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/01/pierre-olivier-costa-retrouve-la-presidence-du-mucem-apres-sa-suspension_6804671_3224.html",
           "source": "Le Monde",
-          "summary": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
-          "published": "2026-11-01T17:30:09+00:00"
-        },
-        {
-          "title": "Michael Mann, réalisateur du film Heat, se tire accidentellement dans la jambe à Los Angeles",
-          "link": "https://www.lefigaro.fr/culture/michael-mann-realisateur-du-film-heat-se-tire-accidentellement-dans-la-jambe-a-los-angeles-20261101",
-          "source": "Le Figaro",
-          "summary": "L’accident s’est produit dimanche sur un stand de tir, en Californie. Le metteur en scène américain, 83 ans, a été transporté à l’hôpital. Il ne souffre que d’une blessure «superficielle», selon son entourage.",
-          "published": "2026-11-01T17:30:05+00:00"
+          "summary": "Pierre-Olivier Costa, suspendu depuis fin juin dans un contexte de tensions sociales et d’enquêtes sur des faits de « mal-être au sein du musée marseillais », a retrouvé ses fonctions et entend se rendre à son bureau…",
+          "published": "2026-11-01T21:06:15+00:00"
         },
         {
           "title": "Un sapeur-pompier grièvement blessé par balle près de Marseille alors qu’il intervenait sur un feu, un homme interpellé",
           "link": "https://www.lefigaro.fr/marseille/un-sapeur-pompier-blesse-par-balle-dans-les-bouches-du-rhone-alors-qu-il-intervenait-sur-un-feu-20261101",
           "source": "Le Figaro",
-          "summary": "Le tireur s’était retranché dans une zone commerciale aux Pennes-Mirabeau, entre Aix-en-Provence et Marseille. La victime est «très grièvement blessée», selon le préfet.",
-          "published": "2026-11-01T17:30:04+00:00"
+          "summary": "Le tireur s’était retranché dans une zone commerciale aux Pennes-Mirabeau, dans les Bouches-du-Rhône. La victime, un père de famille âgé de 51 ans, est «très grièvement blessée», selon le préfet.",
+          "published": "2026-11-01T20:55:19+00:00"
         },
         {
-          "title": "Guillaume Tabard : «Primaire du bloc central, quand la peur remplace le projet»",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-primaire-du-bloc-central-quand-la-peur-remplace-le-projet-20261101",
+          "title": "Présidentielle 2027 : Édouard Philippe rejette la «primaire des démocrates» proposée par Gabriel Attal",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-rejette-la-primaire-des-democrates-proposee-par-gabriel-attal-20261101",
           "source": "Le Figaro",
-          "summary": "CONTRE-POINT - L’erreur d’approche est de croire qu’une primaire est la parade automatique à un tassement électoral.",
-          "published": "2026-11-01T17:30:00+00:00"
+          "summary": "Invité dimanche soir du «20 heures» de TF1, le candidat Horizons à la présidentielle a fustigé une idée qui «se propose de rassembler des gens qui ne sont pas d’accord».",
+          "published": "2026-11-01T20:43:54+00:00"
         },
         {
-          "title": "Mort de Juan Atkins, père fondateur de la techno",
-          "link": "https://www.liberation.fr/culture/musique/mort-de-juan-atkins-pere-fondateur-de-la-techno-20261101_NMPXUNVMHNGEFFVBR6KZIVVS4E/",
-          "source": "Liberation",
-          "summary": "Pionnier central de la scène techno, le musicien américain originaire de Détroit est mort dimanche 1er novembre à 64 ans.",
-          "published": "2026-11-01T17:25:56+00:00"
-        },
-        {
-          "title": "Un pompier blessé par balle lors d’une intervention près de Marseille, un suspect interpellé",
-          "link": "https://www.liberation.fr/societe/police-justice/un-pompier-blesse-par-balle-lors-dune-intervention-pres-de-marseille-20261101_EMZOSQO5TJBJNO47KZODFM5BK4/",
-          "source": "Liberation",
-          "summary": "La victime a été prise pour cible ce dimanche lors d’une intervention pour éteindre un feu dans la commune des Pennes-Mirabeau (Bouches-du-Rhône), selon le ministre de l’Intérieur. Les circonstances restent encore…",
-          "published": "2026-11-01T17:25:15+00:00"
-        },
-        {
-          "title": "Un sapeur-pompier blessé par balle lors d'une intervention près de Marseille, un homme interpellé",
+          "title": "Un sapeur-pompier gravement blessé par balle lors d'une intervention près de Marseille, un homme interpellé",
           "link": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "\"Je veux dire toute mon indignation face à cette agression violente gratuite à l'encontre de nos pompiers qui s’engagent pour protéger\", a réagi le ministre de l'Intérieur sur X.",
-          "published": "2026-11-01T17:21:11+00:00"
+          "summary": "Un autre sapeur-pompier et un véhicule ont été touchés, selon le préfet des Bouches-du-Rhône. \"Je veux dire toute mon indignation face à cette agression violente gratuite\", a réagi le ministre de l'Intérieur sur X.",
+          "published": "2026-11-01T20:40:59+00:00"
+        },
+        {
+          "title": "Edouard Philippe dit (encore) non à une primaire de la droite et du centre",
+          "link": "https://www.liberation.fr/politique/edouard-philippe-dit-encore-non-a-une-primaire-de-la-droite-et-du-centre-20261101_7GXIKX5P3ZGXRGN74DOPZ6KKGM/",
+          "source": "Liberation",
+          "summary": "Le candidat Horizons a de nouveau fermé la porte à cette éventualité sur le plateau du 20 heures de TF1, ce dimanche 1er novembre. De nombreuses voix au sein du bloc central et de la droite, dont celle de son concurrent…",
+          "published": "2026-11-01T20:24:01+00:00"
         }
       ]
     },
     "tech": {
       "label": "Veille technologique",
       "items": [
+        {
+          "title": "Mars et Jupiter vont se rapprocher dans le ciel de novembre et le phénomène sera visible à l'œil nu",
+          "link": "https://www.clubic.com/actualite-637030-mars-et-jupiter-vont-se-rapprocher-dans-le-ciel-de-novembre-et-le-phenomene-sera-visible-a-l-il-nu.html",
+          "source": "Clubic",
+          "summary": "Chaque matin de novembre, entre 6 heures et 7 heures, Mars gagne un peu de terrain sur Jupiter au-dessus de l'horizon sud-est, jusqu'à la dépasser le 15 novembre. Un ciel dégagé et un réveil matinal vous offriront ce…",
+          "published": "2026-11-01T20:45:00+00:00"
+        },
+        {
+          "title": "« Conçu pour les situations d’urgence » : cette IA hors ligne veut vous aider à survivre à la fin du monde, ou au moins à une panne de courant",
+          "link": "https://www.numerama.com/tech/2364545-concu-pour-les-situations-durgence-cette-ia-hors-ligne-veut-vous-aider-a-survivre-a-la-fin-du-monde-ou-au-moins-a-une-panne-de-courant.html",
+          "source": "Numerama",
+          "summary": "Survival LLM est un assistant gratuit qui fonctionne entièrement sur votre ordinateur, sans connexion à Internet. Il répond aux questions de premiers secours ou de survie en s’appuyant sur une bibliothèque de références…",
+          "published": "2026-11-01T19:30:00+00:00"
+        },
+        {
+          "title": "Quel smartphone Samsung Galaxy choisir en 2026 ? Nos recommandations par budget",
+          "link": "https://www.frandroid.com/guide-dachat/386688_quels-smartphone-samsung-choisir-parmi-les-differentes-gammes-galaxy",
+          "source": "Frandroid",
+          "summary": "La firme coréenne propose l'une des gammes de smartphones les plus complètes sur le marché. Quel est le téléphone Samsung qui est fait pour vous ? Nous les avons tous testés : voici notre avis sur la gamme de mobiles…",
+          "published": "2026-11-01T18:00:00+00:00"
+        },
+        {
+          "title": "Black Friday : pCloud fait gagner jusqu'à 10 To de stockage à vie",
+          "link": "https://www.clubic.com/bons-plans-636904-black-friday-pcloud-fait-gagner-jusqu-a-10-to-de-stockage-a-vie.html",
+          "source": "Clubic",
+          "summary": "Pour le Black Friday, pCloud mise sur un jeu-concours : du 1er au 12 novembre, il fait gagner du stockage en ligne à vie. Trois plans de 2, 5 et 10 To sont en jeu pour qui s’inscrit au service, premier de notre…",
+          "published": "2026-11-01T17:45:00+00:00"
+        },
         {
           "title": "Le diesel ne représente plus que 1 % des ventes de voitures neuves en France contre 41 % pour l'électrique",
           "link": "https://www.clubic.com/actualite-637024-le-diesel-ne-represente-plus-que-1-des-ventes-de-voitures-neuves-en-france-contre-41-pour-l-electrique.html",
@@ -288,34 +316,6 @@
           "source": "Clubic",
           "summary": "Le mois du Black Friday s’ouvre chez AliExpress avec les Singles’ Day du 11.11, et c’est le moment de miser sur un mini PC barebone pour réutiliser la DDR5 et le SSD d’une ancienne machine. Du 1er au 18 novembre, le…",
           "published": "2026-11-01T16:22:00+00:00"
-        },
-        {
-          "title": "Pixel Watch 4, Garmin Venu 4 et Huawei Watch D3 : le Black Friday commence fort sur les montres connectées",
-          "link": "https://www.frandroid.com/bons-plans/3305637_pixel-watch-4-garmin-venu-4-et-huawei-watch-d3-le-black-friday-commence-fort-sur-les-montres-connectees",
-          "source": "Frandroid",
-          "summary": "L'avant-première du Black Friday démarre et les montres connectées sont déjà dans le viseur. Plusieurs modèles ressortent, dont la Google Pixel Watch 4, la Garmin Venu 4, la Huawei Watch D3 ou encore la Honor Watch 6.",
-          "published": "2026-11-01T16:04:36+00:00"
-        },
-        {
-          "title": "82,68 € au lieu de 179,90 € : la Honor Watch 6 perd plus de la moitié de son prix",
-          "link": "https://www.frandroid.com/bons-plans/3305925_8268-e-au-lieu-de-17990-e-la-honor-watch-6-perd-plus-de-la-moitie-de-son-prix",
-          "source": "Frandroid",
-          "summary": "La Honor Watch 6 est la montre connectée haut de gamme que Honor a enfin lancée en France. Pendant le 11.11, elle est à 82,68 euros au lieu de 179,90 euros sur AliExpress, avec un code promo.",
-          "published": "2026-11-01T15:58:03+00:00"
-        },
-        {
-          "title": "Intel Nova Lake-S : jusqu’à +20 % de performances en jeu face au Core Ultra 9 285K",
-          "link": "https://www.clubic.com/actualite-636964-intel-nova-lake-s-jusqu-a-20-de-performances-en-jeu-face-au-core-ultra-9-285k.html",
-          "source": "Clubic",
-          "summary": "Pas question de complètement révolutionner le monde du processeur, la génération Nova Lake devrait toutefois offrir d'intéressants gains par rapport à la vieillissante architecture Arrow Lake.",
-          "published": "2026-11-01T15:38:00+00:00"
-        },
-        {
-          "title": "J’ai testé la batterie solaire Anker Solix S2000 pour protéger mes NAS et box",
-          "link": "https://www.frandroid.com/marques/anker/3297651_jai-teste-lanker-solix-s2000-2-kwh-dans-une-valise-de-16-kg-onduleur-compris",
-          "source": "Frandroid",
-          "summary": "Avec la Solix S2000, Anker range 2 kWh de batterie dans une station de 16 kg, vendue 899,99 € et régulièrement sous les 700 € en promotion. Elle sert aussi d'onduleur à la maison : branchée sur le secteur, elle ne…",
-          "published": "2026-11-01T15:35:00+00:00"
         }
       ]
     }
@@ -325,11 +325,60 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "Scientists Say This Medication Could Be the Next “Wonder Drug”",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnh1bGdKRkNpdTFtOURJd2FDR2xOMUlVWXFMMjhLQi1DNnlMSzJFclVGdkFwN19WX21hOUVzYVZjYXN1Y3VqWVg3XzVrR0VUcTlUOWlaemlIZDg0RlBsUkxyWTJkNTJOWm02c3A2blhQMmJEM0tab0dpRlliaU9nVGNYY2NuTnVjXzJVSm9DMA?oc=5",
+          "source": "SciTechDaily",
+          "summary": "Scientists Say This Medication Could Be the Next “Wonder Drug” SciTechDaily",
+          "published": "2026-11-01T21:15:57+00:00"
+        },
+        {
+          "title": "Common diabetes medications may trigger side effects that require even more drugs to fix: study",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2pBeVRYNXM1ZElSRTkyalpFRlBjYWxZNTJfM3ZlYXNfcExPcTEyYlcyc3RXN1YyRjJtMUxVbzBiWGN5Y01IblJwbHotR3V0OUZ2MG5aRXY1ZGdQY2tTaEVMTUlYbmNaamJsbFlMd1R1ZHE4aU9QRmFjR2sxRU5pajBRc2M0eGNBdkl3X3VQeHc4dklVTHBPVHJwdmI2SFQ4Tm9hRXF5Z3EtZXM?oc=5",
+          "source": "New York Post",
+          "summary": "Common diabetes medications may trigger side effects that require even more drugs to fix: study New York Post",
+          "published": "2026-11-01T20:09:00+00:00"
+        },
+        {
+          "title": "We Asked A Doctor What High Blood Sugar Can Do to Your Brain",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3RsaERDNXUzTFRNQkROZlhveVJ0cHQyMDBDSXdLUm9qOF9NUkFMLXBkMUtreFZ2UGFGR2l1TlVVSWtNSWZpX1R4ZEJabDRXWmZudTF2clYxSnhLSm14UjEycGxzTGMtd01ya2NoYVRlaWt4VExwbU14Y3NfblNFYQ?oc=5",
+          "source": "Verywell Health",
+          "summary": "We Asked A Doctor What High Blood Sugar Can Do to Your Brain Verywell Health",
+          "published": "2026-11-01T19:24:19+00:00"
+        },
+        {
+          "title": "Eat, Snack, Stay on Track: Managing Diabetes During the Holidays",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW43YXlheGlqRW9hMWhSMHFSY0FHeDRZTVNnM2VhSjl2OXdyUTJ3R1FsdUVJSXFNYllKanVNTFlndFc4azFfLVR6ZG44LUJWNUVGTXBBbHpLR0poSWx0ZGJwNmt6bFhOZ3ZuRU1PbHM0SF96X05ZSUtxOGJkTlhnWUEySGlNaURDNktncFEzM0hFLXdwTGRVaTln?oc=5",
+          "source": "Prince William Living",
+          "summary": "Eat, Snack, Stay on Track: Managing Diabetes During the Holidays Prince William Living",
+          "published": "2026-11-01T19:20:26+00:00"
+        },
+        {
+          "title": "Sorority organising diabetes information session",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGVBMFo4UTF1VHVRVGJtNHBwUGFVUEQ3SUxxTGVwSjQzQWw1cjRFSEhXMWFDT3Z0Q0NSN2h0Mlo0bW1UeS05UHlLSXdGNVdfV3VvY1JPVEktR096YVh2NVZUNzk4dlA1VVd0YXJ1clJBMWQxV3VvUkJKSzBNd3UxMjV1bVFIUjktMjdadmVPZkFKSTZzNXk0dHVqM1Z0M0FjNENKS1dCVUs1Qm8?oc=5",
+          "source": "Royal Gazette | Bermuda",
+          "summary": "Sorority organising diabetes information session Royal Gazette | Bermuda",
+          "published": "2026-11-01T19:04:57+00:00"
+        },
+        {
+          "title": "Study finds diet and exercise can help young adults put Type 2 Diabetes into remission",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2w0ajd1U3FSVWk1M0NmU2tnemhLNGYzd0F2dl95ekRtVHMySElFb1lfTklDSEd0NkFWV3Z4TDVyc0JjRXhDcTlSMlVncGZoT2otZXRzZ2RVd1RSQ3g1aDVCQkgzdGFkVkxrdWNWTU9XbTVlN3pGbkxKQlVUOHNUZXZhNVpLMXNrTENWVll6MTh1Ni16bU5uUXppUDh1QzhBOTNSR2szTFV1WWxmdFpvb3lkUjlVZnpBUF9fNXllREZuc2dFRDRWRg?oc=5",
+          "source": "The Eastleigh Voice",
+          "summary": "Study finds diet and exercise can help young adults put Type 2 Diabetes into remission The Eastleigh Voice",
+          "published": "2026-11-01T18:35:23+00:00"
+        },
+        {
+          "title": "Diet and Exercise: 27 of 50 Young Type 2 Diabetics in Remission",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBteWhOY3VldUpldEpCbkk5N1hZWnBHUGQyZ3I4ODN0ZlZxSDZoVVJZZjAwbzA5NlBHT0VPeDhic1RINVZfQTVWUlp6bFVmSXpEalZFRzg2R21qZDFoMlh1OGNKZ1ZwSTNaUko2LUhlQWdwTl9WTWl3eEktTUVRNXc?oc=5",
+          "source": "Denkstrom",
+          "summary": "Diet and Exercise: 27 of 50 Young Type 2 Diabetics in Remission Denkstrom",
+          "published": "2026-11-01T18:20:33+00:00"
+        },
+        {
           "title": "Forbach. Diabète, alimentation et prévention seront au cœur de plusieurs rendez-vous gratuits en novembre",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnp6NG5SM2tkQWMtQUx5eEdLYnlaczBEbThocHhfZ0ZTbEZ0aGMwTktLR2RBV1ZITU1VNHU4QjUtNGtYd3d1QXRrSzkyaUpCQ29aaEZTRHJDRWlZRy1McFcxaHBHSlQycE14N1hLSkgyd0dIMGs1NFE4R1pzam1UVGh6UWJka0xjaTUya3lsZGU0cXE2NFQ1ajlhNTRmZHRsbzNRM1d6MkVOY2hidnBlV3pKVFhLak5odGFOVi1FMlIxR2VtTmVIVlhwTnMtSmg4cjA3MDlQclR5UUhnY3NCaEtn?oc=5",
           "source": "Le Republicain Lorrain",
           "summary": "Forbach. Diabète, alimentation et prévention seront au cœur de plusieurs rendez-vous gratuits en novembre Le Republicain Lorrain",
-          "published": "2026-11-01T17:33:16+00:00"
+          "published": "2026-11-01T17:34:47+00:00"
         },
         {
           "title": "Diabetes Awareness Month Opens Amid New T1D, T2D Approvals",
@@ -358,6 +407,13 @@
           "source": "finchannel",
           "summary": "Can Drinking Water Lower Blood Sugar? Cleveland Clinic Explains Diabetes and Dehydration Risks finchannel",
           "published": "2026-11-01T16:35:30+00:00"
+        },
+        {
+          "title": "‘Should you be eating that?’: How everyday comments shape diabetes stigma",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcXZSb2NONGk2OFhDNEVVLWloRFA0Z3Nuck9tT1RiQkZlMkxVNWNCZnJyYk15SHdsZndoOVd5cktmd3Q2dkV3NHFocFdUaE1RRmVSekRJenR0aENsUVU2T216X3NzdndhalpURVBmRzBCLUxETlAwUXhWSHRFQXNBZm50MHM5Zzd5ZVA1OTNMZGV0MXMzS2xGaFYzWnN2WUZoUXFRYml1ZGY?oc=5",
+          "source": "Stuff",
+          "summary": "‘Should you be eating that?’: How everyday comments shape diabetes stigma Stuff",
+          "published": "2026-11-01T16:00:00+00:00"
         },
         {
           "title": "Diabète : un implant électronique élimine le sucre du sang sans aucun médicament",
@@ -392,21 +448,7 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnRZY0Q5dVkzVmlhYkJtMUx0YTFCU0duUVJFdWtyZmIxNGQyVldaMk5CMXBQZGs5cGR6d0lRSWtsbzg3Q1lvRjdka0ROYUJNV0ExTTlyZTlTYlRkcDhUalppMVpzUFJnNWtmMF82dVNWWkZLTEJhbXFVamU5RUR5d29pb1RyejJuV2c?oc=5",
           "source": "Breakthrough T1D",
           "summary": "See T1D. See Our Community in Action. Breakthrough T1D",
-          "published": "2026-11-01T13:03:50+00:00"
-        },
-        {
-          "title": "India 2030: Who Supplies the Next 10 Million?",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOTExYWNyWE56S1BMMjR5dk5meDZaekx3TEsyRnJFMEhRMGpORDdfZEx3REtZNmVTZS1wMTgwOTQ2REVTX3VTYmlWS3Z0TWdHN0psaElTemJQZWhpOWtaOVN0eEpDY3MzbnkyX3BadDBROUtnLU5BMmNvbFpYN280V2VzRFFhYTFwMGVhNHpmVTA4S3RVVXI3dTEyQmNvMjQ4?oc=5",
-          "source": "BioSpectrum India",
-          "summary": "India 2030: Who Supplies the Next 10 Million? BioSpectrum India",
-          "published": "2026-11-01T12:54:07+00:00"
-        },
-        {
-          "title": "We Asked A Doctor What High Blood Sugar Can Do to Your Brain",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3RsaERDNXUzTFRNQkROZlhveVJ0cHQyMDBDSXdLUm9qOF9NUkFMLXBkMUtreFZ2UGFGR2l1TlVVSWtNSWZpX1R4ZEJabDRXWmZudTF2clYxSnhLSm14UjEycGxzTGMtd01ya2NoYVRlaWt4VExwbU14Y3NfblNFYQ?oc=5",
-          "source": "Verywell Health",
-          "summary": "We Asked A Doctor What High Blood Sugar Can Do to Your Brain Verywell Health",
-          "published": "2026-11-01T12:00:00+00:00"
+          "published": "2026-11-01T13:03:03+00:00"
         },
         {
           "title": "Le Wegovy arrive en comprimé dans les pharmacies : ce médicament anti-obésité sera-t-il remboursé ?",
@@ -444,25 +486,18 @@
           "published": "2026-11-01T10:15:02+00:00"
         },
         {
+          "title": "Take simple steps to protect your vision from diabetic retinopathy",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMU14YkNVTnVGcUVKZ1dWZ0VmN3JpY2RzT056TlpyWFBGOGZ0dEVvY0JXZ1BlUGVPZ0RrQzFQTUtMbGstWFJaUEtrTl93MkJrMkZqQnFIckxDdzhyOFVEaUU5eXc1ejVXZlBodF9BSThOVWg3WjhWX09SYWNiLWlWdmppQ0c1SXJBaUtnTFVVZ1ZNTzZMb1BSYXNpdGhBWWhPWXlMU3FHbEZNTWZkUWY3Z2ptVTRXbVQyT3NBbG44NjF4emZSclJiLXhHUHVrN05uUUJpQmstZVN4NjI0MDJZWGl0SUFxQVFPNllXYWdKd0dsWTlRLV83Q054X3JuMmNlRHdqekR0aGRoZw?oc=5",
+          "source": "lincolnjournal.com",
+          "summary": "Take simple steps to protect your vision from diabetic retinopathy lincolnjournal.com",
+          "published": "2026-11-01T10:14:03+00:00"
+        },
+        {
           "title": "Diabète : les 3 fromages les moins adaptés en cas de glycémie élevée",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdlctemE1bWhjck5IQkhuLVloNEhka1JtcEpMbUlGendqbTNNYVRGOTZtQ043cmdLSGVSaGVrdV93WnBfQmFQOS1LRVBUclJwT3pqSVhVUkpzZnlpVEgxd1IyRjR5V3AyZDdPRFhOVzUwaF95a1JkcWlOZ3BVVVJITmJSVlMtZGpZaWZpX01IMV9CWFNVVXNVUTYwYktPNnozOUhVc2FjNVFtV2JEUmpZNEdzUS1kUGpjaWpfMlE5Vnd3aUNTbzBsbkVRRWp0UXlG?oc=5",
           "source": "Top Santé",
           "summary": "Diabète : les 3 fromages les moins adaptés en cas de glycémie élevée Top Santé",
           "published": "2026-11-01T09:51:00+00:00"
-        },
-        {
-          "title": "# is 94 a good blood sugar level after eating",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzdoLUI0bGx3djBqNHJKOTFGUFptckpSaXZQeXV6Rm5hdHRpcnZsZ254dEF4QWdwaVZBNHFwVTRHMlROc2xGTVRNMTJfTW9aRGZ6blZ1MmMyaEtsN0UwNU4zOVZpXy1iQmdkT2E4WHJvaUxyVGk0R3U4LXJ0bldSbjdDUXozWXp6eXpTUmlLd1ZfTmJGWlFZ?oc=5",
-          "source": "NTNU",
-          "summary": "# is 94 a good blood sugar level after eating NTNU",
-          "published": "2026-11-01T09:24:42+00:00"
-        },
-        {
-          "title": "\"I Was Relieved It Wasn't Diabetes\"... Fasting Blood Sugar Above 'This Number' Is a Warning Sign",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRFo0bndSTHNuSFNJYS1ENlB0bWRFeVBBbnNWOV9udDM2cTlLWVdwTXNWdjFiRnczTGo0QWFOZ0xMNk94V3ZwS0REU0ZMNzZpbGVXNTUzdktPU2pwVWZVREpPZEk?oc=5",
-          "source": "아시아경제",
-          "summary": "\"I Was Relieved It Wasn't Diabetes\"... Fasting Blood Sugar Above 'This Number' Is a Warning Sign 아시아경제",
-          "published": "2026-11-01T09:06:29+00:00"
         },
         {
           "title": "COURSE À PIED/ MARCHE : Conty se mobilise en ce début novembre pour le diabète de type 1",
@@ -507,13 +542,6 @@
           "published": "2026-11-01T03:46:45+00:00"
         },
         {
-          "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wSFpKRFpKQXA0QzEwQTVkRjNaUFJuY0xnLWllNU1ibThhdXMzVWtkVE8za2JMOGFHeDhrM3FWbzBxTlloZEkyOUg1VmJ5X0hQY1ZQWXVzOWVCelQ3eU03RmFSaDVVQ29STW1mckJn?oc=5",
-          "source": "Science Daily",
-          "summary": "Scientists discover a hidden driver of high cholesterol and a way to stop it Science Daily",
-          "published": "2026-11-01T02:01:16+00:00"
-        },
-        {
           "title": "Rupt-sur-Moselle – Une journée de mobilisation contre le diabète vendredi 13 novembre 2026",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkJxdnhZbGVqbWhXY3hjT1dQLXBPdlBhVjVfLVlFMENkLVJsNzhPaUVCYnEtLW84THlXUlVkS2JJcEMxcmNPRHlLTUU0Q2V1b3dzVF9EMmRDTi00cFMtWkFQeVRDd2E2cUJlSjVIaUJnU3dwUUtSTWp6ZWhfY1JSUmRWbEhMWTdBdWFHWXY1NHRsaERQSGs3ZWlFTVF0WGdoQ0F6SldIR3ktbmpGNnJtUDZFb25LZi1LTlNrRU1UN3lwTnN2WlFPNk5B?oc=5",
           "source": "Remiremont Vallées",
@@ -526,13 +554,6 @@
           "source": "KRGV",
           "summary": "Unidos Contra la Diabetes hosts free November events to promote holiday health KRGV",
           "published": "2026-11-01T00:25:44+00:00"
-        },
-        {
-          "title": "Are you at risk of frozen shoulder? What to know about the painful condition",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeThrMVpSY2RkTDVNN3RER2hGaWR3RllFY1UyX29JbnJXVkhXTW9Ya2staUhvX251Wk5KZ2R3TjRxMDhuazlsRjBCdGVxeDduYjhKd3dRQm1DUUg1b184V0pna3hYYVVrSUtLT0gzWmF2SU9yOXFGdFNfT2pXc2lyOVExcDVFaWRFRjlDR1REdmdRc0JjQlctcXM3UDUyRUhhdEM5QmFIS25JTld4ZTBadHlrNGFITlJCVUtiaWsyX21VcGJucFkxY9IByAFBVV95cUxPYnNxa0JEOUdqeFRvdEZ1OGhnRXo3aFEtdWFYUjlYTHlhNHJDXzl5NHAzRlZrUnkweFNBeVM5MUZUSXQ2Z0RXc25MNTU0QnlXQV9nMTRQUUM4WVZ6TGhycmJTZFh3QUxCYWdBeHVjTS13NUgxZTdseS11eDRfS0dUU2k1UUFjVWp1cXlnd3VGNnBnMUtzQTFMaFFpMEFEcmNKNHJIREozRjdjbWlERkJfMl91UjhDajF0bmljVTNSUmFacHVFQVVveg?oc=5",
-          "source": "South China Morning Post",
-          "summary": "Are you at risk of frozen shoulder? What to know about the painful condition South China Morning Post",
-          "published": "2026-10-31T23:15:07+00:00"
         },
         {
           "title": "Triad chapter of Breakthrough Walk T1D holds walk to end diabetes",
@@ -549,6 +570,13 @@
           "published": "2026-10-31T20:53:19+00:00"
         },
         {
+          "title": "\"Tu peux le faire assis ou debout\" cet exercice simple permet de baisser sa glycémie jusqu'à 52% selon cette experte !",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZEUtZmdxbEozWnZ0eUc3RGlER3FUSm9Ld2ZRMzYyeFQ5bDYwM0VWWlJ5ZUM5SmlYUkdHLUpabEpva2E0WFc3S21pSnowT3V2NGpnbUdPaDV3Yzg2emRIMWk1QnpodHdoTlk2MWt3MzF3QVBCY3kyakEzck9Ba0RDbTJlVDcyUXc0OFpyM0N5LXQxYm9ZcnZjaVprNURDcU5ZTXBuZA?oc=5",
+          "source": "PasseportSanté",
+          "summary": "\"Tu peux le faire assis ou debout\" cet exercice simple permet de baisser sa glycémie jusqu'à 52% selon cette experte ! PasseportSanté",
+          "published": "2026-10-31T20:15:46+00:00"
+        },
+        {
           "title": "Oahu camp helps keiki with diabetes build confidence, connect with peers",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjF0TnJVRGFfNnFPRnMwc1hfUXk5Q1BiRTN4QnpaRXJ0X1ZyYVpkV3MyMVFxV0VCU1lfOG0wUExRZHJWQVhIUzNEY0NCeFZOZlBFdDkzM0lqbFB2ekxNXzRKbjJSZVE0bmg4YlJYVm1XOHpSWFlTMkgyM0RNYjVtUkJnT1BFT3BaMzV2QzhPODBRTVFveXl4akpHVnZoNzVzRlo2cElmZDV4SXpsbkpOOGxGMNIBxwFBVV95cUxORFM1N0Vuc0hJWGd2djIxa3QwU09HZE0wdkp6ZDVocUx0c0I0d2lqTm1rQlpHaFNqQjg1T25pT0c2bnU5TExZYXZOazJDb2lrRFhrRm1qdHh0bDk1S05EOU1Uc3ZTZEgzX25Gdk9vVUljbkgzMkhTeEU1WjFES01XdWl2S3k5VkNqU1FGSmc1eHNwM1ZybnBzNUM4U29iUDhvZW0xbTVTc0FleE9tOHJsYXJPdmp1Rk5tMDQ3SjFXbXU0Rm1oVkM4?oc=5",
           "source": "Hawaii News Now",
@@ -556,11 +584,11 @@
           "published": "2026-10-31T19:28:00+00:00"
         },
         {
-          "title": "Ayur AI Integrative Diabetes Centre launched in Chennai",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlpDOU1TV3drNi1JMTcwMFJZRHBsU0YxZnR6VkFmYmt5aFBuUDZCUjFvNElMdUo0WU5tQzFwOE9VRWt1TXhIRU5OcEY3Y3N4UkRlVUVLU01oY1Z5Wk1RT01xNHNBVnl6azNDODBrSnVRaTVLRGtWRk5UWTBvRXZPeXZzSVRZSnNNZUZWcFpYZ0E3REN0a1JsWEJsXzVoY05KX3kyVnQ2amFSMDJMS09OQmczSUVKcVN2aFJKbtIBwwFBVV95cUxNenphRUQtR084Y1NYMzNBT3dZdzZEVTlSNkx1X1JGa192azA2WjRPeGlGajl1Rnp1WnA1eUxmVll1UUdoS0diNkF2ZFB3T3FyMVR2UWpwTlpBTDk5LUZPcVBNdHJOekFySkJqcnExWmw2TTFZeWpMSmczZWdLc2k2LXhySUY3SDlKTXF0RVNCRUFPNTZVRzdrVU5MY0VkeWNoeVNyVkZBQWxKbjhlZzd2X0ZDSGREMUxlUUp4ME5yRVNwUTA?oc=5",
-          "source": "The Hindu",
-          "summary": "Ayur AI Integrative Diabetes Centre launched in Chennai The Hindu",
-          "published": "2026-10-31T19:25:28+00:00"
+          "title": "Le traitement Norrin prévient la perte de vision chez les rats diabétiques",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0FMVUVLbVFSOHFKLUZUaHFTa3VYSVQzZ2hNRUxxS1dVaWJaTU42MTZPSE8tNGpHSWdDajlNREtoUGNGRGM4UWFEY0JhdnUzc21JWGd0dGtQdGtKeXZNVURwWDh5dWJHd3RaUm5nQW9ZMjFUWUNBc3FlMDlGWE1tTEFxMEREUWw0Y3g4dHU1R1pWcDJKemV2MURoejdkUQ?oc=5",
+          "source": "Ma Clinique",
+          "summary": "Le traitement Norrin prévient la perte de vision chez les rats diabétiques Ma Clinique",
+          "published": "2026-10-31T19:20:23+00:00"
         },
         {
           "title": "Brooklyn's Amira Gee Runs NYC Marathon With Type 1 Diabetes",
@@ -575,34 +603,6 @@
           "source": "Actu.fr",
           "summary": "Diabète : plus de 4,4 millions de personnes touchées en France, ce que peut apporter cette unité spécialisée de Chartres Actu.fr",
           "published": "2026-10-31T16:46:01+00:00"
-        },
-        {
-          "title": "Higher BMI May Explain Lower Breastfeeding Rates in Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVhxXzJqdnR4dDAtbWJzbl9WWVRfN2U2dnlwX2pvcGcxRFgyejlsTzI4NDhYRnNuV1JrR3F2MTkxQ3J1RzVKTURlVHgzSWNheTZ3R0xVYmNSdFJCcGpqM294bzdZN3VpNVJKZy1IZW4wbzhOT21kbTZGWkFuSWxScGJNTEQtd0Y5OEtoc0w4eGhpNlhUdnAzNHhzcUVLZGdQTmpSSQ?oc=5",
-          "source": "EMJ",
-          "summary": "Higher BMI May Explain Lower Breastfeeding Rates in Diabetes EMJ",
-          "published": "2026-10-31T16:02:03+00:00"
-        },
-        {
-          "title": "5 surprising penis symptoms that could be signs of diabetes, kidney problems or cancer",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkNOSEFVamExaUcxbUltUTZfWmRxUFJKZTJ6emtES3BncWE0VEdUZy02d0U0QnF2R2M3dDVOQWRQWk8yV1Jva283b0xoZjRRNkl6enFqZmRud1Y3SWc2X25fUjlLdk4zYUVnZVI3blE4UFlLUlU0NEFqSFZUclp6NW9EMk8yS1hfdXhhSGg4bEVibWIyUUppandyaHBCV1d1UmtVUDBXRQ?oc=5",
-          "source": "New York Post",
-          "summary": "5 surprising penis symptoms that could be signs of diabetes, kidney problems or cancer New York Post",
-          "published": "2026-10-31T15:17:00+00:00"
-        },
-        {
-          "title": "WHO warns of rising diabetes cases in Africa, urges early diagnosis",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjBCYTdHMDd2TjJYNjBfY1I0bHVOZFEwWE1qelh2Q3hpQ185MV9KX0RSZTJDRzRzZnNJbUE5Vkc0ejFkbWl5ZFAtMi02ZHMwVHFNNkxjU3BFWFd0Zk5iZ1VCTjB2b1JjcGZzaXNZdFNLa3hTemRVNHZwUmZsMHdfWWNYT3VGV3BPNGJsVzI2Zkg0U0dzSnc2NnlIYw?oc=5",
-          "source": "The ICIR",
-          "summary": "WHO warns of rising diabetes cases in Africa, urges early diagnosis The ICIR",
-          "published": "2026-10-31T11:06:39+00:00"
-        },
-        {
-          "title": "SGLT2 Inhibitors Linked to Higher Haemoglobin and Haematocrit",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU1vbFZYeGc2em9Odll1NUZRNEdaWEJLaWo4dVE4YkNMOV9hUHVDTHNEX3BWME85cTNZWlMtYm5kanFxV3lBNld0aW9uLTdXSTlYR1BPRGtZZkFyOUU1T1VQWkIyaGViRDctOVV0OFlEdVFFUmdlcWhEbER5Z0xqM2RwRktwSk02RnFocVV0T2s4ZGVaQ3JUWVpmenE0ZjdHdFlUc2RuaGU?oc=5",
-          "source": "EMJ",
-          "summary": "SGLT2 Inhibitors Linked to Higher Haemoglobin and Haematocrit EMJ",
-          "published": "2026-10-31T11:01:52+00:00"
         }
       ]
     }
