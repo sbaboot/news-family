@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-11-01T00:01:18.131545+00:00",
+  "generated_at": "2026-11-01T10:05:31.714806+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "Le salon Euronaval 2026 marque le retour de la puissance navale",
-          "link": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261031-le-salon-euronaval-2026-marque-le-retour-de-la-puissance-navale",
+          "title": "VIDEO Au Texas, le projet de construction du plus grand data center au monde qui divise le camp de Trump",
+          "link": "https://www.lemonde.fr/international/video/2026/11/01/au-texas-le-chantier-du-plus-grand-data-center-au-monde-divise-le-camp-de-trump_6804134_3210.html",
+          "source": "Le Monde",
+          "summary": "Au fin fond de cet Etat américain, le gigantesque projet Matador s’annonce comme le plus gros data center du pays. A l’approche des midterms, le chantier est de plus en plus controversé et pourrait détourner des…",
+          "published": "2026-11-01T10:00:13+00:00"
+        },
+        {
+          "title": "En Espagne, Vox durcit le ton contre le gouvernement et poursuit son ascension dans les sondages",
+          "link": "https://www.lemonde.fr/international/article/2026/11/01/en-espagne-vox-durcit-le-ton-contre-le-gouvernement-et-poursuit-son-ascension-dans-les-sondages_6804132_3210.html",
+          "source": "Le Monde",
+          "summary": "Déjà allié au Parti populaire dans quatre régions espagnoles, Vox pourrait devenir indispensable aux conservateurs afin de constituer une majorité absolue lors des élections législatives du 29 novembre.",
+          "published": "2026-11-01T09:30:11+00:00"
+        },
+        {
+          "title": "À la Une: la défaite annoncée des républicains aux États-Unis",
+          "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-des-hebdomadaires-fran%C3%A7ais/20261101-%C3%A0-la-une-la-d%C3%A9faite-annonc%C3%A9e-des-r%C3%A9publicains-aux-%C3%A9tats-unis",
           "source": "RFI",
-          "summary": "C'est un rendez-vous incontournable pour le naval de défense, le salon Euronaval ouvre ses portes ce mardi 3 novembre au parc des expositions de Paris Nord Villepinte, et il promet d’être stratégique dans un contexte…",
-          "published": "2026-10-31T23:02:24+00:00"
-        },
-        {
-          "title": "Crise politique en Pologne : Bruxelles appelle le président Karol Nawrocki à valider la nomination de nouveaux juges au Tribunal constitutionnel",
-          "link": "https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html",
-          "source": "Le Monde",
-          "summary": "Après l’intervention de la police dans les locaux de l’institution et l’annonce de la suspension de son président controversé, le chef de l’Etat a réuni samedi les représentants des partis de la majorité centriste et de…",
-          "published": "2026-10-31T22:57:51+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : au moins 700 habitants d’Olechky, ville située sur la ligne de front, ont été évacués dans le nord de l’Ukraine après une opération d’aide humanitaire",
-          "link": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html",
-          "source": "Le Monde",
-          "summary": "L’évacuation a été faite en bus ou en avion, en passant par la Russie puis la Biélorussie. « Je remercie la délégation américaine et la première dame des Etats-Unis, Melania Trump, pour leur médiation », a déclaré le…",
-          "published": "2026-10-31T22:33:20+00:00"
-        },
-        {
-          "title": "Allemagne : la \"Gen Z\" demande des réformes pour l’éducation, inspirée par le mouvement français",
-          "link": "https://www.france24.com/fr/europe/20261031-allemagne-gen-z-demande-r%C3%A9formes-pour-%C3%A9ducation-inspir%C3%A9e-par-mouvement-fran%C3%A7ais-manifestations-polices-jeunesse",
-          "source": "© Ralf Hirschberger, AFP",
-          "summary": "Des dizaines de milliers de jeunes sont descendus dans la rue samedi en Allemagne à l'appel du collectif \"GenZ regelt\". Comme en France, les manifestants demandaient davantage de moyens pour l'éducation.",
-          "published": "2026-10-31T20:58:38+00:00"
-        },
-        {
-          "title": "Cinq Britanniques d’ultradroite interpellés près de Dunkerque pour des « actions d’intimidation » contre des migrants",
-          "link": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html",
-          "source": "Le Monde",
-          "summary": "A l’issue de leurs gardes à vue, ces militants, qui étaient notamment en possession de quatre bombes lacrymogènes, devraient être placés en rétention dans la perspective de leur expulsion du territoire français, selon…",
-          "published": "2026-10-31T20:44:54+00:00"
-        },
-        {
-          "title": "« La Pologne ne s’est pas éteinte et ne s’éteindra pas », déclare Donald Tusk alors que le pays est plongé dans une grave crise politique liée au Tribunal constitutionnel",
-          "link": "https://www.lemonde.fr/international/article/2026/10/31/la-pologne-ne-s-est-pas-eteinte-et-ne-s-eteindra-pas-declare-donald-tusk-alors-que-le-pays-est-plonge-dans-une-grave-crise-politique-liee-au-tribunal-constitutionnel_6803486_3211.html",
-          "source": "Le Monde",
-          "summary": "Le refus du président nationaliste Karol Nawrocki de valider les nominations de juges au Tribunal constitutionnel a déclenché une grave crise au sein de l’institution, dont le président controversé a été écarté par…",
-          "published": "2026-10-31T20:32:46+00:00"
-        },
-        {
-          "title": "Sénégal : les Jeux olympiques de la jeunesse sont officiellement ouverts",
-          "link": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar",
-          "source": "France 24",
           "summary": "",
-          "published": "2026-10-31T19:14:02+00:00"
+          "published": "2026-11-01T09:23:47+00:00"
         },
         {
-          "title": "« De l’argent pour les systèmes sociaux plutôt que pour la guerre » : dans une trentaine de villes allemandes, des manifestants hostiles au service militaire",
-          "link": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html",
+          "title": "En Bulgarie, le second tour de l’élection présidentielle est ouvert, duel serré en vue sur fond de tensions avec la Russie",
+          "link": "https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html",
           "source": "Le Monde",
-          "summary": "De Cologne à Berlin en passant par Hambourg, les rassemblements se sont déroulés sans débordement. Au sein des cortèges, constitués principalement de jeunes, le coût de la vie, le refus de la conscription ou la…",
-          "published": "2026-10-31T18:31:53+00:00"
+          "summary": "La présidente sortante Iliana Iotova, 62 ans, qui plaide pour le dialogue avec Moscou afin de mettre fin à la guerre en Ukraine, affronte Andreï Guiourov, 50 ans, ancien premier ministre intérimaire soutenu par…",
+          "published": "2026-11-01T08:42:19+00:00"
         },
         {
-          "title": "En Roumanie, les citoyens s’emparent du problème de la désinformation en ligne",
-          "link": "https://www.lemonde.fr/international/article/2026/10/31/en-roumanie-les-citoyens-s-emparent-du-probleme-de-la-desinformation-en-ligne_6803728_3210.html",
+          "title": "Gabby Williams remporte le titre de WNBA et se hisse au sommet du basket nord-américain",
+          "link": "https://www.france24.com/fr/sports/20261101-gabby-williams-remporte-le-titre-de-wbna-et-se-hisse-au-sommet-du-basket-nord-am%C3%A9ricain",
+          "source": "© Jose Carlos Fajardo, Bay Area New",
+          "summary": "La capitaine des Bleues, Gabby Williams, a été magistrale pour conquérir le titre de WNBA avec les Valkyries de San Fransisco face à Atlanta, au terme d'une finale où elle a inscrit 30 points sur 63 et a été élue…",
+          "published": "2026-11-01T08:33:56+00:00"
+        },
+        {
+          "title": "Hemley Boum, dont le nouveau roman évoque la dictature camerounaise : « Déployer dans la langue une violence assumée »",
+          "link": "https://www.lemonde.fr/livres/article/2026/11/01/hemley-boum-dont-le-nouveau-roman-evoque-la-dictature-camerounaise-deployer-dans-la-langue-une-violence-assumee_6804126_3260.html",
           "source": "Le Monde",
-          "summary": "Le premier tour de la présidentielle de 2024, finalement annulé, a révélé des manipulations en ligne. Auparavant présente dans la rue, la société civile est désormais très investie sur les réseaux sociaux contre les…",
-          "published": "2026-10-31T18:16:48+00:00"
+          "summary": "L’écrivaine confie n’avoir pas été très politisée lors de sa jeunesse au Cameroun. Elle se rattrape depuis, tout particulièrement avec « Nos vies sauvages », le roman de celles et ceux qui luttent pour la démocratie…",
+          "published": "2026-11-01T08:00:05+00:00"
         },
         {
-          "title": "Face aux spéculations de nouvelles frappes sur l'Iran, Mojtaba Khamenei menace de riposter",
-          "link": "https://www.france24.com/fr/moyen-orient/20261031-iran-%C3%A9tats-unis-isra%C3%ABl-guere-face-aux-sp%C3%A9culations-de-nouvelles-frappes-mojtaba-khamenei-menace-d-une-riposte-imm%C3%A9diate",
-          "source": "© Vahid Salemi, AP",
-          "summary": "Le guide suprême iranien, Mojtaba Khamenei, a menacé samedi \"d'une riposte immédiate, puissante et sans limite géographique\" si les spéculations autour d'une reprise de la guerre par les États-Unis et Israël voyaient le…",
-          "published": "2026-10-31T17:47:09+00:00"
+          "title": "Aux États-Unis, la grogne monte contre les caméras d'identification de véhicules Flock",
+          "link": "https://www.rfi.fr/fr/monde/20261101-%C3%A9tats-unis-en-californie-la-grogne-monte-contre-les-cam%C3%A9ras-d-identification-de-v%C3%A9hicules-flock",
+          "source": "© Justin Sullivan / AFP",
+          "summary": "Après les data centers, c’est le sujet qui enflamme les réseaux sociaux et suscite la colère de nombreux citoyens aux États-Unis. Plus de 120 000 caméras capables d’identifier les plaques d’immatriculation des véhicules…",
+          "published": "2026-11-01T07:58:51+00:00"
+        },
+        {
+          "title": "Toussaint: célébrer la mort en Équateur, en Espagne, en Roumanie et au Ghana",
+          "link": "https://www.rfi.fr/fr/podcasts/tour-du-monde-des-correspondants/20261101-toussaint-c%C3%A9l%C3%A9brer-la-mort-en-%C3%A9quateur-en-espagne-en-roumanie-et-au-ghana",
+          "source": "RFI",
+          "summary": "Ce dimanche 1er novembre, les chrétiens célèbrent le jour de la Toussaint : les morts sont à l'honneur. Mais d'un pays à l'autre, la manière de se souvenir des disparus varie considérablement. On connaît les…",
+          "published": "2026-11-01T07:33:30+00:00"
+        },
+        {
+          "title": "En Inde, l'opposition manifeste pour demander la démission du chef de la commission électorale",
+          "link": "https://www.france24.com/fr/asie-pacifique/20261101-en-inde-opposition-manifestation-contre-r%C3%A9forme-listes-%C3%A9lectorales",
+          "source": "© Vipin, AP",
+          "summary": "Une grande manifestation réunissant les partis d'opposition, les organisations étudiantes et le mouvement des \"cafards\" se tient à Delhi dimanche, où un dispositif anti-émeute a été mis en place. Ils demandent la…",
+          "published": "2026-11-01T06:57:32+00:00"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : le site pétrolier de Kstovo, l’une des plus grandes raffineries de Russie, visé par une attaque",
+          "link": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-guerre-en-ukraine-le-site-petrolier-de-kstovo-l-une-des-plus-grandes-raffineries-de-russie-vise-par-une-attaque_6803934_3210.html",
+          "source": "Le Monde",
+          "summary": "Le gouverneur de la région de Nijni Novgorod, Gleb Nikitine, a rapporté « une attaque massive de drones » dans la nuit et dimanche matin, au cours de laquelle « une entreprise industrielle dans le district de Kstovo a…",
+          "published": "2026-11-01T06:30:19+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Vies réelles, vies virtuelles | Cette époque tue l’ennui à petit feu",
-          "link": "https://www.lapresse.ca/actualites/chroniques/2026-10-31/vies-reelles-vies-virtuelles/cette-epoque-tue-l-ennui-a-petit-feu.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Éric Duhaime, chef du Parti conservateur du Québec | L’homme de l’heure",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-11-01/eric-duhaime-chef-du-parti-conservateur-du-quebec/l-homme-de-l-heure.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les feuilles rougissaient, le soleil était glorieux dans le ciel d’automne nouvellement débarqué et j’avais de la route à faire de l’Estrie au Centre-du-Québec.",
-          "published": "2026-10-31T23:15:00+00:00"
+          "summary": "L’insolente radio de Québec lui a fourni le porte-voix pour promouvoir les idées conservatrices qu’il chérit depuis qu’il est tout jeune. La pandémie a été l’étincelle qui l’a lancé dans l’arène politique. Héros pour…",
+          "published": "2026-11-01T10:00:00+00:00"
         },
         {
-          "title": "Premier entracte | Penguins 2 – Canadien 2",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-10-31/premier-entracte/penguins-2-canadien-2.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Élections de mi-mandat | Comment Trump et ses alliés peuvent contester leurs défaites",
+          "link": "https://www.lapresse.ca/international/chroniques/2026-11-01/elections-de-mi-mandat/comment-trump-et-ses-allies-peuvent-contester-leurs-defaites.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Suivez et commentez le match du Canadien contre les Penguins de Pittsburgh avec notre journaliste Simon-Olivier Lorange.",
-          "published": "2026-10-31T23:00:00+00:00"
+          "summary": "Ce n’est pas une prédiction, c’est déjà annoncé : Donald Trump contestera les résultats électoraux qui ne feront pas son affaire mardi soir.",
+          "published": "2026-11-01T10:00:00+00:00"
         },
         {
-          "title": "Washington veut expulser des migrants vers l’Afghanistan, malgré les risques de persécution",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1021292/washington-veut-expulser-migrants-vers-afghanistan-malgre-risques-persecution",
-          "source": "Le Devoir",
-          "summary": "Au total, plus de 150 Afghans se trouvant sur le sol américain pourraient être expulsés vers le Pakistan.",
-          "published": "2026-10-31T20:15:07+00:00"
-        },
-        {
-          "title": "De passage à Montréal | La présidente de la Commission européenne chante du Céline Dion",
-          "link": "https://www.lapresse.ca/actualites/politique/2026-10-31/de-passage-a-montreal/la-presidente-de-la-commission-europeenne-chante-du-celine-dion.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Élections de mi-mandat | Le portefeuille des électeurs pourrait parler fort",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-11-01/elections-de-mi-mandat/le-portefeuille-des-electeurs-pourrait-parler-fort.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "En fin de passage à Montréal, la présidente de la Commission européenne, Ursula von der Leyen, a publié samedi une vidéo dans laquelle elle parle français… et chante My Heart Will Go On de Céline Dion, au sommet du mont…",
-          "published": "2026-10-31T20:03:21+00:00"
+          "summary": "Guerre en Iran, épicerie, prix à la pompe… Les enjeux susceptibles de mobiliser les Américains aux élections de mi-mandat ont un point en commun : le portefeuille. Un dossier de Janie Gosselin",
+          "published": "2026-11-01T10:00:00+00:00"
         },
         {
-          "title": "L’OSM finit en fanfare à San Diego",
-          "link": "https://www.ledevoir.com/culture/musique/1021289/osm-finit-fanfare-san-diego",
-          "source": "Le Devoir",
-          "summary": "Un concert hautement symbolique clôt la tournée californienne de l’OSM.",
-          "published": "2026-10-31T19:50:46+00:00"
-        },
-        {
-          "title": "Courte piste | Roussel et Laoun réussissent un doublé canadien au 500 m à Montréal",
-          "link": "https://www.lapresse.ca/sports/sports-d-hiver/2026-10-31/courte-piste/roussel-et-laoun-reussissent-un-double-canadien-au-500-m-a-montreal.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "La solution pour vider les urgences se trouve dans votre assiette",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-01/la-solution-pour-vider-les-urgences-se-trouve-dans-votre-assiette.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Félix Roussel est parti comme une fusée au départ de la finale de l’épreuve de 500 mètres lors de l’étape du Circuit mondial de patinage de vitesse courte piste à Montréal, samedi, et il a brièvement regretté sa…",
-          "published": "2026-10-31T19:09:04+00:00"
+          "summary": "Je croyais que ma mère était la plus grande admiratrice de Ricardo, jusqu’à ce que je rencontre le gastroentérologue Michaël Bensoussan. Pas un mot sur ses émissions de télé et son fameux pain aux bananes. Il a plutôt…",
+          "published": "2026-11-01T10:00:00+00:00"
         },
         {
-          "title": "Votre regard sur l’actualité",
-          "link": "https://www.lapresse.ca/dialogue/courrier-des-lecteurs/2026-10-31/votre-regard-sur-l-actualite.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Bas-Saint-Laurent | Une base navale dans la ligne de mire",
+          "link": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Vous êtes nombreux à réagir aux textes que nous publions. Voici un éventail de commentaires que vous nous avez fait parvenir ces derniers jours.",
-          "published": "2026-10-31T18:00:00+00:00"
+          "summary": "Trois maires, une seule mission : convaincre le gouvernement Carney d’établir une base navale permanente dans le Bas-Saint-Laurent.",
+          "published": "2026-11-01T10:00:00+00:00"
         },
         {
-          "title": "Le SPVM enquête sur le 20e meurtre de l’année sur l’île de Montréal",
-          "link": "https://www.ledevoir.com/actualites/justice/1021283/spvm-enquete-20e-meurtre-annee-ile-montreal",
-          "source": "Le Devoir",
-          "summary": "La victime est un homme de 20 ans, mort de ses blessures après une bagarre.",
-          "published": "2026-10-31T17:50:00+00:00"
+          "title": "Démystifier la science | Pourquoi les sportifs crachent-ils tout le temps ?",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-11-01/demystifier-la-science/pourquoi-les-sportifs-crachent-ils-tout-le-temps.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Chaque semaine, notre journaliste répond aux questions scientifiques de lecteurs.",
+          "published": "2026-11-01T10:00:00+00:00"
         },
         {
-          "title": "C’est dans un véhicule volé que l’automobiliste aurait happé mortellement un cycliste vendredi",
-          "link": "https://www.ledevoir.com/actualites/justice/1021280/c-est-vehicule-vole-automobiliste-aurait-happe-mortellement-cycliste-ahuntsic",
-          "source": "Le Devoir",
-          "summary": "L’identification du conducteur risque par conséquent d’être plus difficile, affirme le SPVM.",
-          "published": "2026-10-31T17:35:00+00:00"
+          "title": "À quand remonte la colonisation des Amériques par le détroit de Béring ?",
+          "link": "https://www.lapresse.ca/actualites/sciences/2026-11-01/a-quand-remonte-la-colonisation-des-ameriques-par-le-detroit-de-bering.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Les Amériques ont été peuplées par le détroit de Béring. Mais quand et comment ? Une nouvelle étude montre que les échanges avec l’Asie ont continué pendant longtemps après le premier passage du détroit. Bienvenue dans…",
+          "published": "2026-11-01T10:00:00+00:00"
         },
         {
-          "title": "Des agriculteurs et des écologistes réclament un meilleur encadrement des pesticides au Canada",
-          "link": "https://www.ledevoir.com/actualites/environnement/1021277/agriculteurs-ecologistes-reclament-meilleur-encadrement-pesticides-canada",
+          "title": "L’action en justice intentée par Trump contre le «Wall Street Journal» est rejetée",
+          "link": "https://www.ledevoir.com/monde/etats-unis/1021316/action-justice-intentee-trump-contre-wall-street-journal-est-rejetee",
           "source": "Le Devoir",
-          "summary": "Au Québec et en Ontario, des centaines de personnes ont manifesté contre de récentes décisions du gouvernement Carney.",
-          "published": "2026-10-31T17:00:00+00:00"
+          "summary": "L’affaire ne pourra pas être réintroduite, la plainte ayant été rejetée sans possibilité de recours.",
+          "published": "2026-11-01T03:11:53+00:00"
+        },
+        {
+          "title": "Le dirigeant britannique Burnham laisse entrevoir des excuses pour la traite négrière",
+          "link": "https://www.ledevoir.com/monde/europe/1021313/dirigeant-britannique-burnham-laisse-entrevoir-excuses-traite-negriere",
+          "source": "Le Devoir",
+          "summary": "Il a toutefois rejeté les appels demandant au pays de verser des réparations.",
+          "published": "2026-11-01T02:44:43+00:00"
+        },
+        {
+          "title": "Anderson mène le Canadien vers un cinquième gain de suite",
+          "link": "https://www.ledevoir.com/sports/1021310/anderson-amasse-mene-canadien-vers-cinquieme-gain-suite",
+          "source": "Le Devoir",
+          "summary": "L’ailier droit a connu sa meilleure soirée à l’attaque de la jeune saison.",
+          "published": "2026-11-01T02:29:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Perpignan-Toulon : Kpoku l’antihéros, RCT 2.0, Noël avant l’heure pour l’Usap… Les tops et flops",
-          "link": "https://www.lefigaro.fr/sports/rugby/top-14/perpignan-toulon-kpoku-l-anti-heros-rct-2-0-l-usap-avant-noel-les-tops-et-flops-20261031",
-          "source": "Le Figaro",
-          "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire de Toulon à Perpignan, samedi soir à Aimé-Giral, lors de la 8e journée du Top 14.",
-          "published": "2026-10-31T23:29:01+00:00"
-        },
-        {
-          "title": "Boxe : pas de miracle pour le Français Mbilli, maîtrisé par la légende Canelo",
-          "link": "https://www.lefigaro.fr/sports/autres-sports/boxe-pas-de-miracle-pour-le-francais-mbilli-maitrise-par-la-legende-canelo-20261031",
-          "source": "Le Figaro",
-          "summary": "L’icône mexicaine de 36 ans a nettement dominé le désormais ex-champion WBC français des super-moyens, ce samedi, à Ryad (Arabie saoudite), sur décision des juges.",
-          "published": "2026-10-31T23:04:37+00:00"
-        },
-        {
-          "title": "Crise politique en Pologne : Bruxelles appelle le président Karol Nawrocki à valider la nomination de nouveaux juges au Tribunal constitutionnel",
-          "link": "https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html",
+          "title": "Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle »",
+          "link": "https://www.lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-la-plateforme-annonce-rouvrir-les-retraits-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408997.html",
           "source": "Le Monde",
-          "summary": "Après l’intervention de la police dans les locaux de l’institution et l’annonce de la suspension de son président controversé, le chef de l’Etat a réuni samedi les représentants des partis de la majorité centriste et de…",
-          "published": "2026-10-31T22:57:51+00:00"
+          "summary": "La plateforme mondiale a annoncé, dimanche, avoir ouvert « la première série de retraits » à ses utilisateurs, procédant « par étapes » après le plus grand vol de cryptomonnaies jamais enregistré, pour lequel la police…",
+          "published": "2026-11-01T10:04:17+00:00"
         },
         {
-          "title": "Manifestations du 31 octobre : une mobilisation toujours dense, minée par la «violence inouïe» des casseurs d’ultragauche",
-          "link": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-une-mobilisation-toujours-dense-minee-par-la-violence-inouie-des-casseurs-d-ultragauche-20261031",
+          "title": "Non, la situation à Berlin n’est pas «totalement folle» après les manifestations de samedi",
+          "link": "https://www.liberation.fr/checknews/non-la-situation-a-berlin-nest-pas-totalement-folle-apres-les-manifestations-de-samedi-20261101_L4VFI5CTKZHS7ON5NH3VAX5BGM/",
+          "source": "Liberation",
+          "summary": "Une vidéo montrant des flammes géantes a été présentée comme le symbole d’une capitale allemande plongée dans le chaos ce week-end. La scène s’est en fait déroulée à Chypre, en marge des fêtes de Pâques, en mai 2024.",
+          "published": "2026-11-01T09:57:41+00:00"
+        },
+        {
+          "title": "EN DIRECT - Colère sociale : l’organisation Les Lycéens! appelle au blocus des établissements «dès lundi»",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-plusieurs-centaines-de-milliers-de-manifestants-samedi-dans-l-hexagone-avant-la-journee-de-greve-du-5-novembre-20261101",
           "source": "Le Figaro",
-          "summary": "REPORTAGE - Pour cette troisième journée de mobilisation en trois semaines, les cortèges ont majoritairement progressé dans le calme hors des centres-villes. Avant que des casseurs et pilleurs n’entament des…",
-          "published": "2026-10-31T22:55:50+00:00"
+          "summary": "Quelques jours plus tôt, les ministres de l’Éducation nationale et de l’Enseignement supérieur avaient annoncé plusieurs mesures pour répondre à la crise lycéenne et étudiante qui dure depuis maintenant six semaines,…",
+          "published": "2026-11-01T09:53:45+00:00"
         },
         {
-          "title": "EN DIRECT - Manifestations du 31 octobre : Nuñez fustige des «centaines» de «casseurs et pilleurs» animés par la «mouvance d’ultragauche», 565 interpellations en France",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-manifestation-du-31-octobre-le-parcours-bastille-nation-a-paris-finalement-interdit-par-le-conseil-d-etat-20261031",
-          "source": "Le Figaro",
-          "summary": "L’acte III des manifestations a mobilisé 320.000 personnes dans l’ensemble du pays, dont 70.000 à Paris selon la préfecture de police.",
-          "published": "2026-10-31T22:40:03+00:00"
+          "title": "«Je tiens avec l’adrénaline» : les vacances à plein régime des lycéens mobilisés",
+          "link": "https://www.liberation.fr/societe/education/je-tiens-avec-ladrenaline-les-vacances-a-plein-regime-des-lyceens-mobilises-20261101_MGXMYEA7BJBCDBNJXZT6M6IOQM/",
+          "source": "Liberation",
+          "summary": "Manifs, réunions, interviews… Pendant les deux semaines de la Toussaint, les élèves les plus engagés n’ont pas décroché, déterminés à obtenir des réponses plus fortes du gouvernement et prêts à relancer le mouvement à…",
+          "published": "2026-11-01T09:50:37+00:00"
         },
         {
-          "title": "Carburants : après TotalEnergies, E. Leclerc baisse également le prix du gazole",
-          "link": "https://www.lefigaro.fr/conso/carburants-apres-totalenergies-e-leclerc-baisse-egalement-le-prix-du-gazole-20261031",
-          "source": "Le Figaro",
-          "summary": "Coopérative U, qui achète ses carburants en commun avec E. Leclerc, proposera elle aussi une baisse «jusqu’à 21 centimes» par litre.",
-          "published": "2026-10-31T22:34:39+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : au moins 700 habitants d’Olechky, ville située sur la ligne de front, ont été évacués dans le nord de l’Ukraine après une opération d’aide humanitaire",
-          "link": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html",
-          "source": "Le Monde",
-          "summary": "L’évacuation a été faite en bus ou en avion, en passant par la Russie puis la Biélorussie. « Je remercie la délégation américaine et la première dame des Etats-Unis, Melania Trump, pour leur médiation », a déclaré le…",
-          "published": "2026-10-31T22:33:20+00:00"
-        },
-        {
-          "title": "Marie Lavigne, spécialiste de l’économie de l’URSS et des pays socialistes, est morte",
-          "link": "https://www.lemonde.fr/disparitions/article/2026/10/31/marie-lavigne-specialiste-de-l-economie-de-l-urss-et-des-pays-socialistes-est-morte_6803767_3382.html",
-          "source": "Le Monde",
-          "summary": "L’universitaire était à la pointe de la recherche en « soviétologie économique » puis sur la transition post-communiste vers l’économie de marché. Elle s’est éteinte le 28 octobre, à l’âge de 91 ans.",
-          "published": "2026-10-31T22:00:44+00:00"
-        },
-        {
-          "title": "Mobilisation du 31 octobre : le ministère de l'Intérieur annonce 565 interpellations en France à 21 heures",
-          "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
+          "title": "Les ventes de voitures neuves progressent de 7% en octobre grâce au marché de l'électrique",
+          "link": "https://www.franceinfo.fr/economie/automobile/les-ventes-de-voitures-neuves-progressent-en-octobre-en-france-grace-au-marche-de-l-electrique-domine-par-tesla-et-le-groupe-stellantis_8262515.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "A Paris, la manifestation s'est globalement déroulée dans le calme, de la porte de Bagnolet à la porte de Charenton. Puis des tensions ont eu lieu au moment de la dispersion.",
-          "published": "2026-10-31T21:59:28+00:00"
+          "summary": "Près de 150 000 véhicules ont été immatriculés le mois dernier, d'après les chiffres de l'organisation professionnelle du secteur automobile.",
+          "published": "2026-11-01T09:49:05+00:00"
         },
         {
-          "title": "Un gendarme mobile victime d'un jet de cocktail molotov à Paris, à la fin de la manifestation du samedi 31 octobre",
-          "link": "https://www.franceinfo.fr/societe/manifestations/un-gendarme-mobile-victime-d-un-jet-de-cocktail-molotov-a-paris-a-la-fin-de-la-manifestation-du-samedi-31-octobre_8262191.html#xtor=RSS-3-[lestitres]",
+          "title": "Les Bulgares élisent leur président, sur fond de tensions sécuritaires en mer Noire",
+          "link": "https://www.lefigaro.fr/international/les-bulgares-elisent-leur-president-sur-fond-de-tensions-securitaires-en-mer-noire-20261101",
+          "source": "Le Figaro",
+          "summary": "Les deux candidats ont des visions opposées sur la guerre en Ukraine et les relations avec la Russie, sur fond de tensions accrues en mer Noire.",
+          "published": "2026-11-01T09:45:38+00:00"
+        },
+        {
+          "title": "20 fois le seuil recommandé par l’OMS : à New Delhi, de nouvelles restrictions pour lutter contre la pollution",
+          "link": "https://www.lefigaro.fr/international/20-fois-le-seuil-recommande-par-l-oms-a-new-delhi-de-nouvelles-restrictions-pour-lutter-contre-la-pollution-20261101",
+          "source": "Le Figaro",
+          "summary": "Ces mesures comprennent un doublement des frais de stationnement et le recours au télétravail dans les secteurs public et privé afin de limiter les émissions liées à la circulation.",
+          "published": "2026-11-01T09:41:57+00:00"
+        },
+        {
+          "title": "Auto : les ventes de voitures neuves progressent de 7% en octobre, tirées par l'électrique",
+          "link": "https://www.lefigaro.fr/conso/auto-les-ventes-de-voitures-neuves-progressent-de-7-en-octobre-tirees-par-l-electrique-20261101",
+          "source": "Le Figaro",
+          "summary": "Quelque 149.341 voitures particulières ont été immatriculées le mois dernier. Les véhicules électriques (motorisation 100% électrique et hydrogène) représentent 41 % des immatriculations et 49% avec les hybrides…",
+          "published": "2026-11-01T09:36:14+00:00"
+        },
+        {
+          "title": "\"Le budget sera refusé par le Parlement\", prévoit Philippe Juvin, rapporteur général du projet de loi de finances, qui plaide pour un recours au 49.3",
+          "link": "https://www.franceinfo.fr/economie/budget/le-budget-sera-refuse-par-le-parlement-prevoit-philippe-juvin-rapporteur-general-du-projet-de-loi-de-finances-qui-plaide-pour-un-recours-au-49-3_8262554.html#xtor=RSS-3-[lestitres]",
           "source": "France Info",
-          "summary": "Une bombe artisanale a explosé aux pieds d'un membre des forces de sécurité lors d'affrontements à la fin de la manifestation à Paris, près de la porte de Charenton, enflammant sa protection sur les jambes.",
-          "published": "2026-10-31T21:58:02+00:00"
+          "summary": "Le député Les Républicains des Hauts-de-Seine plaide pour une baisse des dépenses d'environ 10% pour le budget 2027.",
+          "published": "2026-11-01T09:34:04+00:00"
+        },
+        {
+          "title": "La plateforme de cryptomonnaies Binance annonce une reprise des retraits, après un piratage commis par des hackers de Corée du Nord selon les accusations du FBI.",
+          "link": "https://www.franceinfo.fr/economie/bitcoin/la-plateforme-de-cryptomonnaies-binance-annonce-une-reprise-des-retraits-apres-un-piratage-commis-par-des-hackers-de-coree-du-nord-selon-les-accusations-du-fbi_8262545.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le montant de ce piratage s'élèverait à plus de six milliards de dollars alors que Donald Trump émet des doutes sur l'intervention du régime de Pyongyang.",
+          "published": "2026-11-01T09:32:53+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Moins de panneaux solaires chinois pour l’Europe, Octopus renonce au nom Tempo face à EDF",
-          "link": "https://www.frandroid.com/survoltes/3305461_moins-de-panneaux-solaires-chinois-pour-leurope-octopus-renonce-au-nom-tempo-face-a-edf",
-          "source": "Frandroid",
-          "summary": "Une offre d'électricité rebaptisée sous la pression d'EDF, un VTT électrique qui troque son dérailleur contre une boîte à variation continue, des panneaux solaires chinois qui se vendent moins bien en Europe : la…",
-          "published": "2026-10-31T19:01:00+00:00"
-        },
-        {
-          "title": "Test Arlo Essential 3 2K PTZ Intérieure : une caméra de sécurité mécanisée et boostée à l’IA",
-          "link": "https://www.frandroid.com/test/3132035_test-arlo-essential-3-2k-ptz-interieure-une-camera-de-securite-mecanisee-et-boostee-a-lia",
-          "source": "Frandroid",
-          "summary": "Arlo motorise pour la première fois une de ses caméras de surveillance : l’Essential 3 2K PTZ Intérieure pivote, suit les mouvements et embarque les mêmes fonctions d’IA que le reste de la gamme. Nous l’avons testée…",
-          "published": "2026-10-31T19:00:00+00:00"
-        },
-        {
-          "title": "Mini LED, 144 Hz, 75″ : ce TV 4K XXL signé Samsung profite du Black Friday pour perdre 200 €",
-          "link": "https://www.frandroid.com/bons-plans/3304699_mini-led-144-hz-75-ce-tv-4k-xxl-signe-samsung-profite-du-black-friday-pour-perdre-200-e",
-          "source": "Frandroid",
-          "summary": "Le TV 4K Samsung TQ75QN82H est un modèle qui pourrait autant intéresser les amateurs de cinéma que les joueurs, avec sa dalle Neo QLED dont la fréquence de rafraîchissement peut atteindre 144 Hz. Avant le Black Friday,…",
-          "published": "2026-10-31T18:15:00+00:00"
-        },
-        {
-          "title": "« Ignares incompétents » : Xavier Niel fustige les députés socialistes à l’origine de la taxe de 5,5 centimes par gigaoctet",
-          "link": "https://www.numerama.com/tech/2365207-ignares-incompetents-xavier-niel-fustige-les-deputes-socialistes-a-lorigine-de-la-taxe-de-55-centimes-par-gigaoctet.html",
-          "source": "Numerama",
-          "summary": "Le fondateur de Free n'a pas mâché ses mots. Interrogé sur X à propos de la taxe sur les données numériques votée vendredi à l'Assemblée, Xavier Niel a qualifié ses auteurs d'« ignares incompétents ».",
-          "published": "2026-10-31T18:02:17+00:00"
-        },
-        {
-          "title": "Meilleur casque Bluetooth pas cher, pour quel modèle opter en 2026 ?",
-          "link": "https://www.frandroid.com/guide-dachat/guide-audio/688056_meilleurs-casques-audio-filaires-bluetooth-moins-de-100-euros",
-          "source": "Frandroid",
-          "summary": "Si la plupart des casques audio sans-fil sont assez coûteux, il existe tout de même de bons produits à moins de 100 euros. Voici notre sélection des meilleurs casques pas chers en 2026.",
-          "published": "2026-10-31T18:01:00+00:00"
-        },
-        {
-          "title": "« Ce sont des ignares incompétents » : Xavier Niel réagit vivement à la taxe au gigaoctet",
-          "link": "https://www.frandroid.com/marques/free/3305679_ce-sont-des-ignares-incompetents-xavier-niel-reagit-vivement-a-la-taxe-au-gigaoctet",
-          "source": "Frandroid",
-          "summary": "« Ce sont des ignares incompétents » : Xavier Niel, fondateur de Free, a répondu ainsi ce samedi 31 octobre sur X à un internaute qui l'interpellait sur la taxe de 5,5 centimes par gigaoctet votée la veille par…",
-          "published": "2026-10-31T17:44:56+00:00"
-        },
-        {
-          "title": "Boulanger lance le Black Friday en avance et fait chuter la Honor MagicPad 4 avec clavier de 200 €",
-          "link": "https://www.frandroid.com/bons-plans/3305655_boulanger-lance-le-black-friday-en-avance-et-fait-chuter-la-honor-magicpad-4-avec-clavier-de-200-e",
-          "source": "Frandroid",
-          "summary": "La Honor MagicPad 4, tablette Android de 4,8 mm d'épaisseur, est proposée en pack avec son clavier chez Boulanger. Le tout passe à 599,99 euros au lieu de 799,99 euros, dans le cadre des offres en avant-première du…",
-          "published": "2026-10-31T17:21:00+00:00"
-        },
-        {
-          "title": "Les scènes les plus marquantes du cinéma d’horreur qui resteront à jamais dans votre mémoire",
-          "link": "https://www.numerama.com/pop-culture/2364755-les-scenes-les-plus-marquantes-du-cinema-dhorreur-qui-resteront-a-jamais-dans-votre-memoire.html",
-          "source": "Numerama",
-          "summary": "Du simple champ-contrechamp habile au pur cauchemar, le cinéma de genre regorge de moments de bravoure capables de traumatiser des générations entières. Voici dix des scènes les plus angoissantes du cinéma d'horreur.",
-          "published": "2026-10-31T17:15:00+00:00"
-        },
-        {
-          "title": "J’ai testé le TV Philips 65OLED951 : l’OLED Ambilight qui veut reprendre la tête de la course",
-          "link": "https://www.frandroid.com/marques/philips/3282771_jai-teste-le-tv-philips-65oled951-loled-ambilight-qui-veut-reprendre-la-tete-de-la-course",
-          "source": "Frandroid",
-          "summary": "Le téléviseur Philips 65OLED951 est le nouveau fleuron OLED de la marque. Il reçoit ce qui se fait de mieux actuellement dans le domaine avec une dalle META 4.0 Tandem plus lumineuse, le Dolby Vision 2 Max, quatre HDMI…",
-          "published": "2026-10-31T17:01:00+00:00"
-        },
-        {
-          "title": "Boulanger avance le Black Friday : le Dyson V16 Piston Animal passe à -23%",
-          "link": "https://www.clubic.com/bons-plans-636772-boulanger-avance-le-black-friday-le-dyson-v16-piston-animal-passe-a--23.html",
+          "title": "Même parfaitement calibré, votre téléviseur n’affiche pas les mêmes couleurs pour tout le monde",
+          "link": "https://www.clubic.com/dossier-636487-meme-parfaitement-calibre-votre-televiseur-n-affiche-pas-les-memes-couleurs-pour-tout-le-monde.html",
           "source": "Clubic",
-          "summary": "Boulanger affiche déjà « C’est parti pour le Black Friday », près d’un mois avant le 27 novembre. Voici donc le Dyson V16 Piston Animal, pensé pour les poils d’animaux, qui passe à 649 € au lieu de 849 € : très puissant…",
-          "published": "2026-10-31T16:55:00+00:00"
+          "summary": "Deux téléviseurs peuvent respecter les mêmes normes colorimétriques sans que leurs images paraissent identiques à tous les spectateurs. Une étude scientifique publiée début octobre dans la revue Optics Express montre…",
+          "published": "2026-11-01T10:05:00+00:00"
         },
         {
-          "title": "L'IA de Google donne accès à des centaines de manuels gratuits et aide même à réviser",
-          "link": "https://www.clubic.com/actualite-636994-l-ia-de-google-donne-acces-a-des-centaines-de-manuels-gratuits-et-aide-meme-a-les-reviser.html",
-          "source": "Clubic",
-          "summary": "Google propose gratuitement plusieurs centaines de manuels dans Gemini Notebook, et son IA construit à partir de leurs chapitres des fiches de révision et des quiz. Mais Google a constitué ce catalogue pour les cursus…",
-          "published": "2026-10-31T16:50:00+00:00"
-        },
-        {
-          "title": "Black Friday : on a sélectionné 8 smartphones à prix cassés chez Amazon, Boulanger…",
-          "link": "https://www.frandroid.com/bons-plans/3304227_black-friday-on-a-selectionne-cinq-smartphones-a-prix-casses-chez-amazon-et-boulanger",
+          "title": "PC portables à moins de 1000 € : les 6 meilleurs modèles du moment, testés et comparés",
+          "link": "https://www.frandroid.com/guide-dachat/638396_quels-sont-les-meilleurs-pc-portables-a-moins-de-1000-euros-en-2019",
           "source": "Frandroid",
-          "summary": "Le Black Friday est l'occasion de trouver des smartphones en promotion chez Amazon, Boulanger et bien d'autres e-commerçants. Cette sélection réunit huit modèles, de l'entrée de gamme aux pliants les plus prestigieux.",
-          "published": "2026-10-31T16:37:33+00:00"
+          "summary": "On trouve aujourd'hui d'excellents ordinateurs portables avec un rapport qualité-prix remarquable pour un budget inférieur à 1000 €. Comment choisir le meilleur ordinateur portable adapté à vos besoins ? Voici nos…",
+          "published": "2026-11-01T10:00:00+00:00"
+        },
+        {
+          "title": "Après le « Crackgate », voici le « Gapgate », un autre problème embarrassant pour l'iPhone Duo",
+          "link": "https://www.clubic.com/actualite-637003-apres-le-crackgate-voici-le-gapgate-un-autre-probleme-embarrassant-pour-l-iphone-duo.html",
+          "source": "Clubic",
+          "summary": "Des propriétaires d’iPhone Duo aperçoivent le mécanisme de la charnière par un interstice ouvert entre le dos de leur appareil et la tranche, sur un smartphone censé résister à l’eau et à la poussière.",
+          "published": "2026-11-01T10:00:00+00:00"
+        },
+        {
+          "title": "Quels sont les meilleurs téléviseurs OLED en 2026 ?",
+          "link": "https://www.clubic.com/television-tv/televiseur/best-pick-398703-quelles-sont-les-meilleurs-televiseurs-oled-comparatif.html",
+          "source": "Clubic",
+          "summary": "L’OLED n’est plus seulement synonyme de noirs parfaits et de contraste infini. Les dernières générations ont énormément progressé en luminosité, tandis que le QD-OLED et les nouvelles dalles Tandem repoussent encore les…",
+          "published": "2026-11-01T09:45:00+00:00"
+        },
+        {
+          "title": "Black Friday TV : voici les 6 meilleures offres LCD, QLED, OLED et SQD Mini LED",
+          "link": "https://www.frandroid.com/bons-plans/3302553_black-friday-tv-les-offres-mini-led-et-loled-accessibles-de-699-euros-a-2-499-euros",
+          "source": "Frandroid",
+          "summary": "Le pré-Black Friday commence avec de premières offres sur tous les produits. Nous avons sélectionné les meilleures promotions sur les TV.",
+          "published": "2026-11-01T09:43:36+00:00"
+        },
+        {
+          "title": "La France soumet une ex-frégate à une explosion sous-marine, une première depuis des années",
+          "link": "https://www.clubic.com/actualite-637007-la-france-soumet-une-ex-fregate-a-une-explosion-sous-marine-une-premiere-depuis-des-annees.html",
+          "source": "Clubic",
+          "summary": "La Direction générale de l'armement a réalisé, au large de Toulon, un premier essai de choc par explosion sous-marine sur une ex-frégate. Ce test, inédit depuis la fin des années 2010, vise à mieux protéger les navires…",
+          "published": "2026-11-01T09:39:00+00:00"
+        },
+        {
+          "title": "Un téléviseur pour la chambre à seulement 80 € ? Voici le Xiaomi TV A 32 2025",
+          "link": "https://www.frandroid.com/bons-plans/3305719_un-televiseur-pour-la-chambre-a-seulement-80-e-voici-le-xiaomi-tv-a-32-2025",
+          "source": "Frandroid",
+          "summary": "Le Xiaomi TV A 32 2025, petit téléviseur de 32 pouces sous Google TV, passe de 159,99 euros à 80,41 euros sur Aliexpress avec le code FRD1113. Une offre lancée pour le 11.11.",
+          "published": "2026-11-01T09:33:08+00:00"
+        },
+        {
+          "title": "Peut-on faire du partage de connexion avec une eSIM de voyage ? Ce qu’il faut savoir",
+          "link": "https://www.frandroid.com/telecom/esim-voyage/3299337_peut-on-faire-du-partage-de-connexion-avec-une-esim-de-voyage-ce-quil-faut-savoir",
+          "source": "Frandroid",
+          "summary": "Une eSIM pour voyager permet de rester connecté avec son smartphone en étant à l'étranger. Mais quid des autres appareils comme un PC portable si on est en télétravail ? Les eSIM de voyage permettent de faire du partage…",
+          "published": "2026-11-01T09:30:00+00:00"
+        },
+        {
+          "title": "Publicité Brave : « Nous n'avons besoin de savoir absolument rien sur l'utilisateur » - Interview",
+          "link": "https://www.clubic.com/dossier-635485-publicite-brave-nous-n-avons-besoin-de-savoir-absolument-rien-sur-l-utilisateur---interview.html",
+          "source": "Clubic",
+          "summary": "Brave mise sur la publicité sans pistage que ce soit au sein de son moteur de recherche, mais aussi, prochainement, dans les réponses de son assistant IA. Jean-Paul Schmetz a fondé ce qui est devenu aujourd’hui Brave…",
+          "published": "2026-11-01T09:28:00+00:00"
+        },
+        {
+          "title": "Mémoire RAM : les prix augmentent, mais la production pourrait baisser de 40 % en 2027",
+          "link": "https://www.frandroid.com/culture-tech/economie/3304937_memoire-ram-les-prix-augmentent-mais-la-production-pourrait-baisser-de-40-en-2027",
+          "source": "Frandroid",
+          "summary": "Alors que la crise de la mémoire RAM n'en finit pas et que les prix continuent de grimper, les principaux fabricants de DRAM pourraient grandement diminuer leur production l'an prochain.",
+          "published": "2026-11-01T09:10:00+00:00"
+        },
+        {
+          "title": "Votre forfait mobile augmente : que faire pour éviter de payer plus cher ?",
+          "link": "https://www.numerama.com/tech/2362397-votre-forfait-mobile-augmente-que-faire-pour-eviter-de-payer-plus-cher.html",
+          "source": "Numerama",
+          "summary": "Les forfaits à petits prix deviennent moins faciles à trouver, et ceux que l’on possède déjà ne sont pas épargnés par les augmentations. Avec le rachat de SFR qui se prépare, l’avenir de la concurrence n’a rien de…",
+          "published": "2026-11-01T09:05:00+00:00"
+        },
+        {
+          "title": "Reddit bientôt accessible uniquement si vous êtes connecté : la décision du réseau social divise",
+          "link": "https://www.frandroid.com/culture-tech/web/3304783_reddit-bientot-accessible-uniquement-si-vous-etes-connecte-la-decision-du-reseau-social-divise",
+          "source": "Frandroid",
+          "summary": "Steve Huffman, patron de Reddit, annonce son intention de rendre la connexion à un compte obligatoire pour consulter la majorité des contenus de la plateforme. Les contours de la décision sont encore flous.",
+          "published": "2026-11-01T09:03:00+00:00"
         }
       ]
     }
@@ -325,25 +325,81 @@
       "label": "Actualites diabete",
       "items": [
         {
-          "title": "Triad chapter of Breakthrough Walk T1D holds walk to end diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLU1fczk4M1lXb0E3Rnh0a0pyVmhVWTVLU1VseXRlNFFQQjBISjVNV2RJSWVucVh0NmF4ajJsQUhvWTNFTXdWUkFJUk1TWmNJXzJYcUV6OWRpaDI1aXRXbnhtcmw3SDE2c09ZbFRjRTR4V1RIc0tndzNkNnlEalFKQzB1Uzc5U3FBZWFyUWVfQllZNWplRWlsc09iSkNBLW5Od2VYLWNxR0VoZ3VVTkpIRzRaONIBuAFBVV95cUxOQXBhS3VwVGVpZ0hoZFhkaUN6VWJxWWhTTUM4d192cVI5eUpHM1g3M2FrelA1ZEhvV3FwamVsRHF3bWp2OFVuT21SMWlFMS1hVkk3Zk5UMU9NV0VZdHFsWm9KRDVVZTB5aVVDaXcyUXJrR2FzdUtoMktqdjROd0VXWkllVVJqVDk1ZVRXTXJuQk9rRkxxTmdwb0g2LXpyS1gwVGdQWFFZN1R1Rk5uT2VnQlpEdHN2Y252?oc=5",
-          "source": "FOX8 WGHP",
-          "summary": "Triad chapter of Breakthrough Walk T1D holds walk to end diabetes FOX8 WGHP",
-          "published": "2026-10-31T23:10:18+00:00"
+          "title": "Diabète : les 3 fromages les moins adaptés en cas de glycémie élevée",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdlctemE1bWhjck5IQkhuLVloNEhka1JtcEpMbUlGendqbTNNYVRGOTZtQ043cmdLSGVSaGVrdV93WnBfQmFQOS1LRVBUclJwT3pqSVhVUkpzZnlpVEgxd1IyRjR5V3AyZDdPRFhOVzUwaF95a1JkcWlOZ3BVVVJITmJSVlMtZGpZaWZpX01IMV9CWFNVVXNVUTYwYktPNnozOUhVc2FjNVFtV2JEUmpZNEdzUS1kUGpjaWpfMlE5Vnd3aUNTbzBsbkVRRWp0UXlG?oc=5",
+          "source": "Top Santé",
+          "summary": "Diabète : les 3 fromages les moins adaptés en cas de glycémie élevée Top Santé",
+          "published": "2026-11-01T09:07:00+00:00"
+        },
+        {
+          "title": "\"I Was Relieved It Wasn't Diabetes\"... Fasting Blood Sugar Above 'This Number' Is a Warning Sign",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRFo0bndSTHNuSFNJYS1ENlB0bWRFeVBBbnNWOV9udDM2cTlLWVdwTXNWdjFiRnczTGo0QWFOZ0xMNk94V3ZwS0REU0ZMNzZpbGVXNTUzdktPU2pwVWZVREpPZEk?oc=5",
+          "source": "아시아경제",
+          "summary": "\"I Was Relieved It Wasn't Diabetes\"... Fasting Blood Sugar Above 'This Number' Is a Warning Sign 아시아경제",
+          "published": "2026-11-01T09:06:29+00:00"
+        },
+        {
+          "title": "Black raisins and prunes for diabetes: Benefits, risks and portion sizes",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd19hVkYxTURzOWRDQ3RnSGFwNGxtUHZHU0xaZEZaR19rMERoVGlxWF9HRUQzaXdidC1QWEFLSGNBaFpEMnNFd0pLTnl5S2dxNkt6LVVEYmQyZ3Q4SnpMQ3NpMm1SbVlybWZYYUp2Nm05dlQwd0dHdWZ6eHBnb3VJUEUzcWxSeUlSaGpUYUE0Yi1qRGFLbVlWX19fNTlPX2tMeVdLWTI5SEJCa0M2Qkoyc0l1VVVJVllIc1B5QjVidXNfYWM0Y281czZDZ9IB0gFBVV95cUxOQnNXbDhfX3ByV0t1RU54WXJFWHBwUmZXZnZHUEoxU2dFYnR5aEgzaFlDY05qWkFLNEtHYWN5elA5dlZfZjVVZ21qV1AyM2xBR2ZXVHdHUWFteV9kRTB1M1VRQ2RDRldwM3d1dWFKWmpjc3pGbUZxNXF3OGV0OGFNbVNzZGd1cDNnbjJLQlRQOG9fclhZcV9mUkdBVW9WRWFNb2lvNmFwdHVkdV8xNWRvN0w4T2tsY2JXTDRIaVdVLVN4NmFVOHVfak9ZblpBa3hDU2c?oc=5",
+          "source": "The Indian Express",
+          "summary": "Black raisins and prunes for diabetes: Benefits, risks and portion sizes The Indian Express",
+          "published": "2026-11-01T06:54:01+00:00"
+        },
+        {
+          "title": "KIDZ Medical Endocrinologist Stresses the Importance of Type 1 Diabetes Awareness in Children",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlhNTFB5UnRvRFJEQmt2QkdkQ3hrZm5lTldZd3FhVmdxUktKSEdYdGNIUFlaSUFXY2hWZ284Q3F2RF80cVN5OGJCUWVLdVBsaV9sSEtvUVRsLTh3c2FzUm8tV1NlLVNKN2hCY0NEbkEtdDhUdmNpR1NuMEtvY2g5TV9YcjA2aGtHLVlMOXFvSDdYWWdsOUY2RFExUlRmYkcybGJuNUtMbzBlcHhNUUFfcjhfRlNXVUVBOFkzWllwQzFGS1ljem1JRENQNmNqMHVHZU5Iblhya2wxUQ?oc=5",
+          "source": "Florida Hospital News and Healthcare Report",
+          "summary": "KIDZ Medical Endocrinologist Stresses the Importance of Type 1 Diabetes Awareness in Children Florida Hospital News and Healthcare Report",
+          "published": "2026-11-01T05:18:17+00:00"
+        },
+        {
+          "title": "Holy Cross Health Launches “Flavor for Life” Program to Help Prevent Diabetes Through Food as Medicine",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb0pvaEVrNFJZNV9uR19ER3hhcjJhcDdoOURVOWdQallzYUhJUkJTY1JzR3YzdmhqdTlpWXhSaEFXNVJkcXBrZGtlWW5YZ05xUFJDcFc3OHVBWHJBaGxQbFM0M0ktVHEyTnVtR2FVVmtRa3Y5WXNCVElQeVhuWmpxSWFFSUZZc295Q29TanpmWHFxYm12NG9qenc2NnpsdG5iOVVCeFZXLVFkOGp5VnEzaWZQVnlrT2RCTzdUZnhRTERHb3FtR1RQNzI1XzUyRkNDX21vTlVIcDhFazY3SVZpdTNrbw?oc=5",
+          "source": "Florida Hospital News and Healthcare Report",
+          "summary": "Holy Cross Health Launches “Flavor for Life” Program to Help Prevent Diabetes Through Food as Medicine Florida Hospital News and Healthcare Report",
+          "published": "2026-11-01T05:11:10+00:00"
+        },
+        {
+          "title": "Bridging the gap: Heart disease, diabetes, and the path to better health",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXBHQ2FUQThaSzluQUZKYlZlSXkzSHVPSEF1d0J4cEtjZ0lWTUdYMXlwSHBnbGNGX2JqaFZuT0dIV1Z5bWNnNG9hVjAweXdsVHVwTWFnaElpX2NfUFRHNU5ySGI5NXJiNXNiVUY0dUt0ZnFtdGtMTUhPVTE5X2RjcmNpaktTZk14cmpwYm8taXYwbU9vSm4yeWRZcy10ckU0Z3lXb1ktZjBBVU5JYV9HTw?oc=5",
+          "source": "The Business Journals",
+          "summary": "Bridging the gap: Heart disease, diabetes, and the path to better health The Business Journals",
+          "published": "2026-11-01T04:00:00+00:00"
+        },
+        {
+          "title": "Opinion | Screened for Diabetes at 23 BMI, Denied GLP-1s Until 30 BMI",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xbmhNWmtiVHFnaXNWQUVwdjhrNzB5ZmpTS2llSDRqNE5vclB1elJ4M3MyNWpTd2F2blB2V1Y5Vnh6MFhqa3RmRENRd0RHNFRWczRocTFMUWFMSlczMVd3c1pDeTJERy1lWi1B?oc=5",
+          "source": "MedPage Today",
+          "summary": "Opinion | Screened for Diabetes at 23 BMI, Denied GLP-1s Until 30 BMI MedPage Today",
+          "published": "2026-11-01T03:46:45+00:00"
+        },
+        {
+          "title": "Rupt-sur-Moselle – Une journée de mobilisation contre le diabète vendredi 13 novembre 2026",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkJxdnhZbGVqbWhXY3hjT1dQLXBPdlBhVjVfLVlFMENkLVJsNzhPaUVCYnEtLW84THlXUlVkS2JJcEMxcmNPRHlLTUU0Q2V1b3dzVF9EMmRDTi00cFMtWkFQeVRDd2E2cUJlSjVIaUJnU3dwUUtSTWp6ZWhfY1JSUmRWbEhMWTdBdWFHWXY1NHRsaERQSGs3ZWlFTVF0WGdoQ0F6SldIR3ktbmpGNnJtUDZFb25LZi1LTlNrRU1UN3lwTnN2WlFPNk5B?oc=5",
+          "source": "Remiremont Vallées",
+          "summary": "Rupt-sur-Moselle – Une journée de mobilisation contre le diabète vendredi 13 novembre 2026 Remiremont Vallées",
+          "published": "2026-11-01T01:00:29+00:00"
         },
         {
           "title": "Unidos Contra la Diabetes hosts free November events to promote holiday health",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTItMG9aU1FYREhIT2RiYjBaekdLd3VYNl92UWFKMFZjT0JRdk0wR3BEX2F0NGpDV3BfdlVSR29fM1V4V0txWE1qVWt1UDNWaDJoTXZyM1VFRWJmLVFpemxPWkVGV1RpSWVOODFTX2RaVTZCbnpqeDVNUWxrcDFaZGRvdktjNHRQRnphR3djVjMzQUxTWFlUR2o5VHBDSFRQM090Qm5uNlJyNkU?oc=5",
           "source": "KRGV",
           "summary": "Unidos Contra la Diabetes hosts free November events to promote holiday health KRGV",
-          "published": "2026-10-31T21:25:44+00:00"
+          "published": "2026-10-31T23:25:44+00:00"
+        },
+        {
+          "title": "Triad chapter of Breakthrough Walk T1D holds walk to end diabetes",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnZpYmh3SmtzR2FFSUo0bDQ4ZFNyTk16SG1nOV9nWHhyZEFqWE5VYnF6S1hweVFHV2pCbWRUMGZNS0g5UHRuVHVta2FOZmpSLXBmSmJZZUU0bDBhUmxxXzJUQXNja04tTjdZN3FqcW4yUVY4TEdWOGJBT3YyMG9LREZ3Sl9GeUkxbXFBRkE3VQ?oc=5",
+          "source": "Yahoo",
+          "summary": "Triad chapter of Breakthrough Walk T1D holds walk to end diabetes Yahoo",
+          "published": "2026-10-31T23:10:18+00:00"
         },
         {
           "title": "Windsor Woman With Diabetes Runs NYC Marathon 2026",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1VLTjdWRWxYSW5ZMjZJbW1oaDhLYTFoQndtTTFmN18xNnVZYTN3cGE4SEZpcEVXamJwem1yQUJSa3pxTEpHZEpnYURBNzNsNEVuT2N4Q2MtSGZGUC1HQ0ZVdzVVb2QtSHNoc0hUcW9qMTc2X3FYR1JVM1hvajc5ZkJkUWFYMXZkckk5bnRKSnJ4aDBtZEhGRzhWb01Hc01jQUE?oc=5",
           "source": "Hoodline",
           "summary": "Windsor Woman With Diabetes Runs NYC Marathon 2026 Hoodline",
-          "published": "2026-10-31T20:50:52+00:00"
+          "published": "2026-10-31T20:53:19+00:00"
         },
         {
           "title": "Kwango : dépistage contre le diabète à la PNC Kwango",
@@ -358,13 +414,6 @@
           "source": "PasseportSanté",
           "summary": "\"Tu peux le faire assis ou debout\" cet exercice simple permet de baisser sa glycémie jusqu'à 52% selon cette experte ! PasseportSanté",
           "published": "2026-10-31T20:15:46+00:00"
-        },
-        {
-          "title": "Briefs for Oct. 31: Camp open for youth with diabetes, state offers compost reimbursement, Hawaiʻi to receive multi-state settlement",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTFZoQnNwdnhvNTV3NTczeTB0ZFRYVWszU3FqVl9HVFNMZktsQWdQWFdieWJUc3llVWJHem9QeWx4X0FHb1NpZHRqa1Z6eEQ1TDg5V3hyZWtpQnE2R1dzd1pIWlNHQ1RMT0FfNzBCUktaVWFVOGp1VzNvNkp4NzZsVllveGNFMlozaHhuaWJ2MXBmZExCNFBGUFFUcnVpd2l1dVZycFk4MWxHaGJ5UzliNjZWbEdMU0daNTVYSGFraFVVTFdLR1IzMnJ5R2FWbHVGaVNYTV9jZTM0Sno5c093bW5yemZGeURWQ2VLTGdR?oc=5",
-          "source": "Kauai Now",
-          "summary": "Briefs for Oct. 31: Camp open for youth with diabetes, state offers compost reimbursement, Hawaiʻi to receive multi-state settlement Kauai Now",
-          "published": "2026-10-31T20:00:00+00:00"
         },
         {
           "title": "Drug-free treatment for diabetes and obesity may become possible as scientists develop a wireless device t",
@@ -392,7 +441,7 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0FMVUVLbVFSOHFKLUZUaHFTa3VYSVQzZ2hNRUxxS1dVaWJaTU42MTZPSE8tNGpHSWdDajlNREtoUGNGRGM4UWFEY0JhdnUzc21JWGd0dGtQdGtKeXZNVURwWDh5dWJHd3RaUm5nQW9ZMjFUWUNBc3FlMDlGWE1tTEFxMEREUWw0Y3g4dHU1R1pWcDJKemV2MURoejdkUQ?oc=5",
           "source": "Ma Clinique",
           "summary": "Le traitement Norrin prévient la perte de vision chez les rats diabétiques Ma Clinique",
-          "published": "2026-10-31T19:20:22+00:00"
+          "published": "2026-10-31T19:20:23+00:00"
         },
         {
           "title": "Brooklyn's Amira Gee Runs NYC Marathon With Type 1 Diabetes",
@@ -409,25 +458,11 @@
           "published": "2026-10-31T16:46:01+00:00"
         },
         {
-          "title": "Essey-lès-Nancy. Le CHU et la CPTS se sont mobilisés contre le diabète silencieux",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3FyTHBHbmtZMEVVbEdHb3liRlhWNW1nc09KQ1d1UXpUalJvTFRUdUZINEtUQ3FCNTdOSVZtRjlncmFUdnFJN2J3V3FzWVFJN0FVWlByb19fN0FEZHZVaFEzdDB2YWNZM3lvSzZBbUVmYjV5Nmp4UWtMVjhYMUVRU203RExDS3ljZWJaaTRtbGZySnZzalJFbVpFSzNQcmdiVGJjYTFEanZCWkZ6cmJseA?oc=5",
-          "source": "L'Est Républicain",
-          "summary": "Essey-lès-Nancy. Le CHU et la CPTS se sont mobilisés contre le diabète silencieux L'Est Républicain",
-          "published": "2026-10-31T16:26:20+00:00"
-        },
-        {
           "title": "Higher BMI May Explain Lower Breastfeeding Rates in Diabetes",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVhxXzJqdnR4dDAtbWJzbl9WWVRfN2U2dnlwX2pvcGcxRFgyejlsTzI4NDhYRnNuV1JrR3F2MTkxQ3J1RzVKTURlVHgzSWNheTZ3R0xVYmNSdFJCcGpqM294bzdZN3VpNVJKZy1IZW4wbzhOT21kbTZGWkFuSWxScGJNTEQtd0Y5OEtoc0w4eGhpNlhUdnAzNHhzcUVLZGdQTmpSSQ?oc=5",
           "source": "EMJ",
           "summary": "Higher BMI May Explain Lower Breastfeeding Rates in Diabetes EMJ",
           "published": "2026-10-31T16:02:03+00:00"
-        },
-        {
-          "title": "Opinion | Screened for Diabetes at 23 BMI, Denied GLP-1s Until 30 BMI",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xbmhNWmtiVHFnaXNWQUVwdjhrNzB5ZmpTS2llSDRqNE5vclB1elJ4M3MyNWpTd2F2blB2V1Y5Vnh6MFhqa3RmRENRd0RHNFRWczRocTFMUWFMSlczMVd3c1pDeTJERy1lWi1B?oc=5",
-          "source": "MedPage Today",
-          "summary": "Opinion | Screened for Diabetes at 23 BMI, Denied GLP-1s Until 30 BMI MedPage Today",
-          "published": "2026-10-31T16:02:01+00:00"
         },
         {
           "title": "5 surprising penis symptoms that could be signs of diabetes, kidney problems or cancer",
@@ -437,25 +472,11 @@
           "published": "2026-10-31T15:17:00+00:00"
         },
         {
-          "title": "361 Calories Cut Daily for 7 Years, Less Than 1 Pound Lost. Dr. Jason Fung Reveals Why Calorie Counting Never Works",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54OE5mbWhBRnZwakJJRE5pZlVaeFBhS09RWmNidE5oUlRDTTNPOXltSjFBUG1uUlRUcmZOQlBzVVQ0bzNvNlNyc3p6aWNmcVlDUHR6REQ0ekdydEgtc0J0SUozRnZSbDlLN0ZNRWk5WHJSc0RJ?oc=5",
-          "source": "BoxLife Magazine",
-          "summary": "361 Calories Cut Daily for 7 Years, Less Than 1 Pound Lost. Dr. Jason Fung Reveals Why Calorie Counting Never Works BoxLife Magazine",
-          "published": "2026-10-31T13:32:53+00:00"
-        },
-        {
-          "title": "The #1 Nutrient You’re Overlooking for Better Blood Sugar",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnZBczJwUERtdGpoY1ZzcXh5Tzk2ZVU2WTh2VzlTRnF5czBfcTJOOGtKa1pkZ0JmVkdUdTN4RFhiZ2t6eGthampJX1NFaXYzT004ZGFURFdqOWgzSkNrMUNUWV9rcWF0SjRleGZLRl9KWTNFRFQ1LU1fcnJnQzFNS1B6UHNoaVBCaVRBOG1lQ3N4Qzh6TWlSTWlQaE1HR3d3SldWdnA4eXlqTUgtLUp0QU1Takc?oc=5",
-          "source": "Yahoo Health",
-          "summary": "The #1 Nutrient You’re Overlooking for Better Blood Sugar Yahoo Health",
-          "published": "2026-10-31T13:30:00+00:00"
-        },
-        {
-          "title": "North Carolina Diabetes Rates Climb, 250K Cases Undiagnosed",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUU1bm54cHRBUUtTSW9IVy1zWEU0Rk1iRW5LT18zY1RVWWJmQUFQT1RJVXdIQmx2RVZ2NFd6WDY2OW11bE41c3Jrc2JmTzB0ZkliY0YtSUhhVk02VXRScnM2aUEtOXVPY1hYbThteEptbFAzNklrME5IRE9oc0FIVnVFUlhlTng3LWVuTmlpc3hOV3AxMGlzODQ3VV9vQQ?oc=5",
-          "source": "Hoodline",
-          "summary": "North Carolina Diabetes Rates Climb, 250K Cases Undiagnosed Hoodline",
-          "published": "2026-10-31T12:03:15+00:00"
+          "title": "Starchy vs. Nonstarchy Vegetables: Which Are Better for Blood Sugar?",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVI0TjdpcV85Mzk1WGlJdGlnOU5WTWxySGxOSVk1ZDhEU011U2JFc0hINDBkUm5CZWJXR0RpcUFnVUt5cWk3NUpKT2ppRVRMZlB1aWQ3dUdENjdXbDRPbmt3WnlDQkU1V05aNlhuWDR5ckhxWWF4NUZIdGNFa1NMM2MtNU56NmFINkZIZHZoUHFWTDl4S0NCUk5DTTJBMkdNbzg4RA?oc=5",
+          "source": "EatingWell",
+          "summary": "Starchy vs. Nonstarchy Vegetables: Which Are Better for Blood Sugar? EatingWell",
+          "published": "2026-10-31T15:00:00+00:00"
         },
         {
           "title": "UAE: Woman with type 1 diabetes and silent endometriosis conceives after tailored IVF care",
@@ -470,13 +491,6 @@
           "source": "Presse Santé",
           "summary": "Les pousses de brocoli aideraient à atténuer la résistance à l’insuline : que dit la recherche Presse Santé",
           "published": "2026-10-31T11:36:00+00:00"
-        },
-        {
-          "title": "Lilly obesity drug tops Ozempic in late-stage diabetes trial",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajh3R2JwWmh2Z25jUWRzdEtaUFZjeGdtTzluRGFNa2pNM0YxT3BONWxRUTlsaW1NSHczcHJ3QzlsaVJxSkdKM0tET21IcHhtVTlUcUtIWXlYTnZFa29YQ1RaaDJTQmJPdHc4T0RMV1VPNWplaEw3N2xHYzFmenZ2X2FxelBPY0t3Q2RDS3BRZ0JqUnBWb1pWMXdMSlhEaUZqbjBnWEhzSQ?oc=5",
-          "source": "https://www.indiagazette.com/",
-          "summary": "Lilly obesity drug tops Ozempic in late-stage diabetes trial https://www.indiagazette.com/",
-          "published": "2026-10-31T10:44:00+00:00"
         },
         {
           "title": "Treatment with norrin helps maintain healthy blood vessels and preserve vision in diabetic rats",
@@ -514,13 +528,6 @@
           "published": "2026-10-31T06:11:00+00:00"
         },
         {
-          "title": "Traitement de l'obésité : bientôt sur le marché, ce nouveau médicament offrirait une perte de poids deux fois plus importante que celle obtenue avec l’Ozempic",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPU3RPQzlRR3JPMjhieDdRWjRKcWx0T1ZYcUJEa3d1MVlLcXVEQnotMWVINEdXb1llSmxyVXhSOTBSamNSakZwSUpRQUVaY0p6ZHp4S2ZDLVRNVW03TG9iVi0yLWZJQzk3UlZMOXJOMDVta2tUSHRpVl9SVlhuaVNOMnFBdmFlTjFvRGRTMDBCdkszY3drVlVMVFRlVnNqdWUwTVN6czhmSHFlU3NENmVyUDQ4RDk0eW5zQWE3bWRZWWhaUGhkeTFvZGxMX3B2NWV5SU5zY2luZnlTeHVCNFI5eThqN0ZSOVVZVnVXY2JSS2MtQQ?oc=5",
-          "source": "Cosmopolitan.fr",
-          "summary": "Traitement de l'obésité : bientôt sur le marché, ce nouveau médicament offrirait une perte de poids deux fois plus importante que celle obtenue avec l’Ozempic Cosmopolitan.fr",
-          "published": "2026-10-31T06:05:00+00:00"
-        },
-        {
           "title": "Diabetes doesn't stop at the pancreas: 7 organs that pay when blood sugar stays high",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUhKZUEzTTBmU0V2dUFOZG13bXFLZGpnb215U0VUZ0ZhbF9ORWxadGhFQ19XcGV0WUVsRXVpUHRZM0RpSThzMmgxQ3lhZkhqbDZLdV80WGV0eFIxRGpyckRpNFBzNUVkeXJmVWhGXzJOdm5kRlRNNGxQWG5sRHF1VnZtMHpyaXExVjJ2aFl4bC0xYi1vNjdkWGJ3Q3BfUDNiUUNNU3RtU1MySUhmYnBvY3ZHZFNnTkdoU2tUNjJMaFh2cTFQS3EwZHd6aEMydnAybGZxWVg2V2x4b3VOMkFXLTZDWlTSAewBQVVfeXFMTVRZdFZvZlJ5RDFUMVJIeE1nQWNMQ0YxZ005R29mam5scXgta3NEcm44MWdwZUFSemo1eVNPam91OVI1eXZEY2x6UElseTNJOWhidWFIaHFKRkhzVDIwRFpianllTFRJbV9VNHJkbnlJZWQ1cnlULTQxUTZqX2ptbmNENFAwOHFTLVI1Z2dyeXg0amRGNkRBZ0FnazRBYmcwVWFKUE50RlpkQk1yRndqc1ZvQ3ZmSHZMSUxZdVVfcjI2dmZMcXBvSXBVSEowY0lKcjF3NVZpTTVyeGRoczN1Z20yN0ttNzBETW1SZGU?oc=5",
           "source": "The Times of India",
@@ -533,6 +540,13 @@
           "source": "Le Quotidien du Médecin",
           "summary": "2026, une année des consensus dans le diabète Le Quotidien du Médecin",
           "published": "2026-10-31T04:37:31+00:00"
+        },
+        {
+          "title": "Essey-lès-Nancy. Le CHU et la CPTS se sont mobilisés contre le diabète silencieux",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3FyTHBHbmtZMEVVbEdHb3liRlhWNW1nc09KQ1d1UXpUalJvTFRUdUZINEtUQ3FCNTdOSVZtRjlncmFUdnFJN2J3V3FzWVFJN0FVWlByb19fN0FEZHZVaFEzdDB2YWNZM3lvSzZBbUVmYjV5Nmp4UWtMVjhYMUVRU203RExDS3ljZWJaaTRtbGZySnZzalJFbVpFSzNQcmdiVGJjYTFEanZCWkZ6cmJseA?oc=5",
+          "source": "L'Est Républicain",
+          "summary": "Essey-lès-Nancy. Le CHU et la CPTS se sont mobilisés contre le diabète silencieux L'Est Républicain",
+          "published": "2026-10-31T04:28:01+00:00"
         },
         {
           "title": "Diabetes threatens 1 in 3 Americans | Health | phillytrib.com",
@@ -581,7 +595,7 @@
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uSlZlR1BUODVQZkNINEV0MlduYS1Nby0xNVBIOV9YQWQxT2lYZnRMU0RPX09YczNyQ2N5OHl1RTJTQjFETVNkRHh5NkhyZkFiRGR3Mk15cXpISlVDQlNBTTRPdw?oc=5",
           "source": "WMDT",
           "summary": "Communities to recognize National Diabetes Month WMDT",
-          "published": "2026-10-30T23:04:21+00:00"
+          "published": "2026-10-30T22:20:26+00:00"
         },
         {
           "title": "Expert Available: Betul Hatipoglu on National Diabetes Month | Newswise",
@@ -589,20 +603,6 @@
           "source": "Newswise",
           "summary": "Expert Available: Betul Hatipoglu on National Diabetes Month | Newswise Newswise",
           "published": "2026-10-30T21:30:00+00:00"
-        },
-        {
-          "title": "Texas A&M Health invites Coastal Bend community to run against diabetes at annual 5K",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWl9lZE96Ml9XVXJBSEFvUkcwSEpQcnhfcHh6c1dsX2pMc1RHUXpKTDdlVlF2d1JzNGd0WWxOQkU2YVdjVnFTaXJqNGpRaEdZMzdqenRaRUk3VHlMczdrR3puVU1GMjZ0QWVveWMxZnBpUkNDVXlrblNMS3VSR25UTXNHUmd0d1A0dEtLZGxhQ0lxZ215am02R1ptcDd2YzBqSEh6eTl3dG41RVBDb2xkMGFiWTVWdF9kQnh3ZTJvUWs?oc=5",
-          "source": "KRIS 6 News Corpus Christi",
-          "summary": "Texas A&M Health invites Coastal Bend community to run against diabetes at annual 5K KRIS 6 News Corpus Christi",
-          "published": "2026-10-30T20:47:37+00:00"
-        },
-        {
-          "title": "Fewer than half of newly diagnosed children with type 1 diabetes get autoantibody testing",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVlNhbnBsQ3AteVBtMENILTFtUVRUUV91Y1RGS1NYdUhFOUFRM0Q2d2ZpbjRIcHpFWWlrZnVvSk9Qa1NmZ0lsOTBPeGhWekl4eG1qcGpIY3RVN2d5eGwwMlVwVmNWQldKdGZvUWNnRHFQU21CbGpiaWhUUDFNVlZhdkpVelkxc3NHQmNKaC1adEF1RXZFTms1Njlad1psNGhzU3ZaMTdGMFpDVHpraGpYWWV3MjJndm9veU5iaDkyM3hoeGJXZmVicHY2OWZ2TGw3UUc0?oc=5",
-          "source": "Managed Healthcare Executive",
-          "summary": "Fewer than half of newly diagnosed children with type 1 diabetes get autoantibody testing Managed Healthcare Executive",
-          "published": "2026-10-30T20:31:50+00:00"
         }
       ]
     }
