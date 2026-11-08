@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-11-07T21:28:04.714165+00:00",
+  "generated_at": "2026-11-08T04:35:20.943944+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
+        {
+          "title": "« La fronde américaine contre les data centers a bouleversé les midterms comme aucune question environnementale ne l’avait fait jusqu’à présent »",
+          "link": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html",
+          "source": "Le Monde",
+          "summary": "Dans sa chronique, le journaliste au « Monde » Stéphane Foucart revient sur les centres de données, dont le développement massif aux Etats-Unis a pesé en partie sur le vote des Américains, lors des élections de…",
+          "published": "2026-11-08T04:30:11+00:00"
+        },
+        {
+          "title": "La guerre des céréales entre l’Ukraine et la Russie redessine les rapports de force géopolitiques",
+          "link": "https://www.lemonde.fr/international/article/2026/11/08/la-guerre-des-cereales-entre-l-ukraine-et-la-russie-redessine-les-rapports-de-force-geopolitiques_6808390_3210.html",
+          "source": "Le Monde",
+          "summary": "Depuis le début de la guerre en Ukraine, blocus maritimes, céréales pillées, attaques contre les cargos se multiplient... En mer Noire, la Russie fait des céréales un instrument de pression diplomatique. Une bataille…",
+          "published": "2026-11-08T04:00:35+00:00"
+        },
+        {
+          "title": "En Israël, les défis de Gadi Eisenkot, général novice en politique chargé de former un gouvernement",
+          "link": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html",
+          "source": "Le Monde",
+          "summary": "Le leader de l’opposition au premier ministre sortant Benyamin Nétanyahou doit être officiellement missionné, dimanche, par le président Isaac Herzog, pour constituer le prochain gouvernement israélien. Une tâche ardue…",
+          "published": "2026-11-08T04:00:08+00:00"
+        },
+        {
+          "title": "Les songes autochtones de Bérengère Cournut",
+          "link": "https://www.rfi.fr/fr/podcasts/si-loin-si-proche/20261108-les-songes-autochtones-de-b%C3%A9reng%C3%A8re-cournut",
+          "source": "RFI",
+          "summary": "Plongée littéraire et sensible à travers les mondes des Hopis d’Arizona, des Inuits du Grand Nord ou des Kawésqars de Patagonie.",
+          "published": "2026-11-08T02:00:50+00:00"
+        },
+        {
+          "title": "La gestion de l'interculturel en entreprise",
+          "link": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20261107-la-gestion-de-l-interculturel-en-entreprise",
+          "source": "RFI",
+          "summary": "Les différences culturelles s'expriment aujourd'hui dans presque toutes les sphères de la société, mondialisation oblige. Mais l'expatriation reste le lieu par excellence de l'interculturel. Qu'est-ce qu'une démarche…",
+          "published": "2026-11-07T23:17:30+00:00"
+        },
+        {
+          "title": "JOJ Dakar 2026 : Elisabeth Diatta offre au Sénégal sa première médaille d'or",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261107-joj-dakar-2026-elisabeth-diatta-offre-au-s%C3%A9n%C3%A9gal-sa-premi%C3%A8re-m%C3%A9daille-d-or",
+          "source": "France 24",
+          "summary": "Élisabeth Diatta offre au Sénégal sa première médaille d'or des JOJ, ce samedi En finale de lutte de plage. Une fierté pour sa coach Isabelle Sambou, ancienne porte-drapeau du Sénégal aux JO de Rio, qui n'avait jamais…",
+          "published": "2026-11-07T22:47:30+00:00"
+        },
+        {
+          "title": "Surf : l'incroyable expédition des \"Lost in the Swell\" au cercle arctique",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261107-surf-l-incroyable-exp%C3%A9dition-des-lost-in-the-swell-au-cercle-arctique",
+          "source": "France 24",
+          "summary": "Depuis 15 ans, Lost in the Swell sillonne la planète à la recherche de spots de surf reculés et encore vierges. Pour cette nouvelle expédition \"Le Règne des Neiges\", le trio est parti au cercle arctique avec l’espoir de…",
+          "published": "2026-11-07T22:40:11+00:00"
+        },
+        {
+          "title": "Municipales en Afrique du Sud: déroute historique de l'ANC qui passe à peine les 30%",
+          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261107-municipales-en-afrique-du-sud-d%C3%A9route-historique-de-l-anc-qui-passe-%C3%A0-peine-les-30",
+          "source": "France 24",
+          "summary": "Municipales en Afrique du Sud. Plus de 99 % des bulletins ont été dépouillés. Les résultats seront annoncés demain, après vérification de près de 200 contestations. Mais les tendances sont claires : l’ANC est en recul…",
+          "published": "2026-11-07T21:30:18+00:00"
+        },
         {
           "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
           "link": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
@@ -17,62 +73,6 @@
           "source": "France 24",
           "summary": "Le président israélien a chargé samedi Gadi ⁠Eisenkot, principal ​adversaire du Premier ministre Benjamin Netanyahu, de tenter de former un nouveau gouvernement. Cette mission, qui sera officiellement confiée par le…",
           "published": "2026-11-07T20:43:02+00:00"
-        },
-        {
-          "title": "Robi Morder : \"ce qu'il s'est passé en Serbie encourage cette idée du possible chez les jeunes\"",
-          "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261107-robi-morder-ce-qu-il-s-est-pass%C3%A9-en-serbie-encourage-cette-id%C3%A9e-du-possible-chez-les-jeunes",
-          "source": "France 24",
-          "summary": "Acte IV de la mobilisation en France. Salariés du public et du privé, lycéens, étudiants, gilets jaunes se sont une nouvelle fois rassemblés dans plusieurs villes de France pour maintenir la pression, à 2 jours d'une…",
-          "published": "2026-11-07T20:38:31+00:00"
-        },
-        {
-          "title": "Israël : Gadi Eisenkot, principal opposant de Benyamin Nétanyahou, va être chargé de former un gouvernement",
-          "link": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
-          "source": "Le Monde",
-          "summary": "L’ancien chef d’état-major israélien, aujourd’hui à la tête du parti Yashar !, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a annoncé samedi soir la présidence.",
-          "published": "2026-11-07T19:51:02+00:00"
-        },
-        {
-          "title": "🔴 Israël : Eisenkot, rival de Netanyahu, sera chargé de former le prochain gouvernement",
-          "link": "https://www.france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
-          "source": "France 24",
-          "summary": "",
-          "published": "2026-11-07T19:41:47+00:00"
-        },
-        {
-          "title": "Colère sociale : malgré une mobilisation en baisse, la rue veut \"maintenir la pression\"",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261107-col%C3%A8re-sociale-malgr%C3%A9-une-mobilisation-en-baisse-la-rue-veut-maintenir-la-pression",
-          "source": "France 24",
-          "summary": "Des défilés contre la vie chère globalement dans le calme et une mobilisation en baisse, mais toujours vivace : des dizaines de milliers de personnes sont descendues dans la rue samedi pour montrer leur colère et…",
-          "published": "2026-11-07T18:43:38+00:00"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "link": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
-          "source": "Le Monde",
-          "summary": "L’armée russe a lancé plusieurs attaques contre des infrastructures énergétiques ukrainiennes, cette nuit, selon le ministère de l’énergie ukrainien, qui signale des coupures d’électricité dans les oblasts de…",
-          "published": "2026-11-07T18:24:37+00:00"
-        },
-        {
-          "title": "Avec une nouvelle démonstration de force de Jean-Luc Mélenchon, les insoumis s'y voient déjà",
-          "link": "https://www.france24.com/fr/france/20261107-france-presidentielle-2027-nouvelle-demonstration-de-force-de-jean-luc-melenchon-meeting-le-bourget-victoire",
-          "source": "© Kenzo Tribouillard, AFP",
-          "summary": "Devant environ 20 000 sympathisants réunis au Bourget samedi, le quadruple candidat à l'élection présidentielle de La France insoumise, Jean-Luc Mélenchon, a présenté son programme et affiché son optimisme quant à…",
-          "published": "2026-11-07T18:19:24+00:00"
-        },
-        {
-          "title": "Fausses alertes à la bombe : enquête ouverte en France sur un \"lien avec des puissances étrangères\"",
-          "link": "https://www.france24.com/fr/europe/20261107-fausses-alertes-%C3%A0-la-bombe-enqu%C3%AAte-ouverte-en-france-sur-un-lien-avec-des-puissances-%C3%A9trang%C3%A8res",
-          "source": "© Gonzalo Fuentes, Reuters",
-          "summary": "Alors que des dizaines de vols commerciaux ont été visés par des alertes à la bombe en Europe depuis le début de la semaine, le parquet de Paris a ouvert une enquête, a-t-il indiqué samedi. Les investigations visent…",
-          "published": "2026-11-07T17:48:40+00:00"
-        },
-        {
-          "title": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
-          "link": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
-          "source": "Le Monde",
-          "summary": "Selon un porte-parole de la police, un homme a foncé en voiture sur la grande place de la vieille ville et a tiré « au hasard » sur des passants. L’auteur des faits était « fasciné par les idéologies d’extrême droite »,…",
-          "published": "2026-11-07T17:34:57+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Les Démocrates pourraient-ils accentuer leur victoire ?",
-          "link": "https://www.ledevoir.com/monde/etats-unis/1023227/democrates-pourraient-ils-accentuer-victoire",
-          "source": "Le Devoir",
-          "summary": "L’issue des élections de mi-mandat dans deux États, le Mississippi et l’Alaska, n’est pas encore fixée.",
-          "published": "2026-11-07T20:32:00+00:00"
-        },
-        {
-          "title": "27 morts dans des frappes saoudiennes au Yémen, selon les Houthis",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1023221/27-morts-frappes-saoudiennes-yemen-selon-houthis",
-          "source": "Le Devoir",
-          "summary": "Les combats semblent s’intensifier ces derniers jours sur le sol yéménite, où le conflit a repris en juillet.",
-          "published": "2026-11-07T19:29:08+00:00"
-        },
-        {
-          "title": "Porte-parole de la Maison-Blanche | Donald Trump propose le poste au président de l’UFC Dana White",
-          "link": "https://www.lapresse.ca/international/etats-unis/2026-11-07/porte-parole-de-la-maison-blanche/donald-trump-propose-le-poste-au-president-de-l-ufc-dana-white.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Canadien 4 – Maple Leafs 2 | Le Tricolore l’emporte sur les Maple Leafs de Toronto",
+          "link": "https://www.lapresse.ca/sports/hockey/2026-11-07/canadien-4-maple-leafs-2/le-tricolore-l-emporte-sur-les-maple-leafs-de-toronto.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Donald Trump a annoncé samedi avoir proposé le poste de porte-parole de la Maison-Blanche à Dana White, un de ses proches qui dirige l’UFC, principale organisation mondiale d’arts martiaux mixtes (MMA).",
-          "published": "2026-11-07T19:09:07+00:00"
+          "summary": "Le Canadien a eu chaud, samedi soir au Scotiabank Arena, mais a finalement défait ses vieux rivaux.",
+          "published": "2026-11-08T03:14:06+00:00"
         },
         {
-          "title": "L’IA peut-elle faire un bilan de santé à partir d’un égoportrait ?",
-          "link": "https://www.lapresse.ca/actualites/sciences/2026-11-07/l-ia-peut-elle-faire-un-bilan-de-sante-a-partir-d-un-egoportrait.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "L’intelligence artificielle pourrait-elle détecter les maladies en faisant une simple analyse d’un égoportrait ? C’est ce qu’espèrent des chercheurs des quatre coins du monde à la suite de la publication d’une récente…",
-          "published": "2026-11-07T18:56:55+00:00"
-        },
-        {
-          "title": "Israël | Gadi Eisenkot sera chargé de former le gouvernement",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-11-07/israel/gadi-eisenkot-sera-charge-de-former-le-gouvernement.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
-          "source": "La Presse",
-          "summary": "Le chef du bloc de l’opposition au premier ministre sortant Benyamin Nétanyahou, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir la présidence.",
-          "published": "2026-11-07T18:55:27+00:00"
-        },
-        {
-          "title": "Les attaques russes se poursuivent malgré les pourparlers prévus la semaine prochaine",
-          "link": "https://www.ledevoir.com/monde/europe/1023218/attaques-russes-poursuivent-malgre-pourparlers-prevus-semaine-prochaine",
+          "title": "Les lauréats des prix Judith-Jasmin sont dévoilés",
+          "link": "https://www.ledevoir.com/culture/medias/1023254/laureats-prix-judith-jasmin-sont-devoiles",
           "source": "Le Devoir",
-          "summary": "Les négociateurs russes, ukrainiens et américains doivent se rencontrer mardi, à Abou Dhabi, aux Émirats arabes unis.",
-          "published": "2026-11-07T18:06:19+00:00"
+          "summary": "Le gala qui récompense les meilleurs reportages journalistiques du Québec a eu lieu samedi soir à Sherbrooke.",
+          "published": "2026-11-08T02:30:00+00:00"
         },
         {
-          "title": "Canadien – Maple Leafs | Anderson absent, Beck dans la formation",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-11-07/canadien-maple-leafs/anderson-absent-beck-dans-la-formation.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Porte-parole de la Maison-Blanche | Pourquoi Trump offre-t-il le poste au président de l’UFC Dana White ?",
+          "link": "https://www.lapresse.ca/international/etats-unis/2026-11-07/porte-parole-de-la-maison-blanche/pourquoi-trump-offre-t-il-le-poste-au-president-de-l-ufc-dana-white.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Ça ne paraissait pas dans les mêlées de presse matinales où il était presque exclusivement question du Temple de la renommée, mais il se jouera un match de hockey entre le Canadien et les Maple Leafs samedi soir.",
-          "published": "2026-11-07T17:55:04+00:00"
+          "summary": "Aussi étonnant que cela puisse paraître, Donald Trump a insisté auprès de son ami Dana White, le président de l’UFC, pour qu’il devienne le porte-parole de la Maison-Blanche. La Presse vous explique d’où vient cette…",
+          "published": "2026-11-08T00:57:00+00:00"
         },
         {
-          "title": "L’ancien président du Paraguay fait face à la justice après sa destitution",
-          "link": "https://www.ledevoir.com/monde/ameriques/1023215/ancien-president-paraguay-fait-face-justice-apres-destitution",
-          "source": "Le Devoir",
-          "summary": "M. Peña a été accusé d’avoir utilisé son influence politique pour détourner des millions de dollars de fonds publics.",
-          "published": "2026-11-07T17:39:40+00:00"
-        },
-        {
-          "title": "Super samedi montréalais | Les Alouettes en avance, le CF Montréal entre dans la danse",
-          "link": "https://www.lapresse.ca/sports/2026-11-07/super-samedi-montrealais/les-alouettes-en-avance-le-cf-montreal-entre-dans-la-danse.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Psychologie | Ce que dit le regard",
+          "link": "https://www.lapresse.ca/societe/2026-11-07/psychologie/ce-que-dit-le-regard.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Journée faste en sports pour les équipes montréalaises : suivez en direct l’action sur le terrain et dans les coulisses des matchs des Carabins, des Alouettes, du Rocket, du CF Montréal et du FC Supra avec notre…",
-          "published": "2026-11-07T16:56:30+00:00"
+          "summary": "Dans une scène du documentaire You Can See Everything, la femme d’affaires déchue Elizabeth Holmes assure au coréalisateur du film Nathan Fielder qu’il peut lui faire confiance, en le regardant droit dans les yeux. Sans…",
+          "published": "2026-11-08T00:00:00+00:00"
         },
         {
-          "title": "Un tireur ouvre le feu à Cracovie, en Pologne",
-          "link": "https://www.ledevoir.com/monde/europe/1023212/tireur-ouvre-feu-cracovie-pologne",
+          "title": "Les Alouettes battent les Blue Bombers et sont en route vers la Coupe Grey",
+          "link": "https://www.ledevoir.com/sports/1023248/alouettes-battent-blue-bombers-sont-route-vers-coupe-grey",
           "source": "Le Devoir",
-          "summary": "Six personnes ont été tuées et une quinzaine d’autres ont été blessées.",
-          "published": "2026-11-07T16:41:00+00:00"
+          "summary": "Le match se déroulait samedi à Montréal.",
+          "published": "2026-11-07T23:20:00+00:00"
+        },
+        {
+          "title": "CF Montréal 0 – Whitecaps 2 | Historique, au mauvais sens du terme",
+          "link": "https://www.lapresse.ca/sports/soccer/2026-11-07/cf-montreal-0-whitecaps-2/historique-au-mauvais-sens-du-terme.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Le sentiment ambiant est maintenant factuellement validé : nous venons d’assister à la pire saison de l’histoire du CF Montréal en MLS.",
+          "published": "2026-11-07T23:13:33+00:00"
+        },
+        {
+          "title": "Blue Bombers 23 – Alouettes 33 | Direction la Coupe Grey",
+          "link": "https://www.lapresse.ca/sports/football/2026-11-07/blue-bombers-23-alouettes-33/direction-la-coupe-grey.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "« Je sais qu’au football, tout dépend des jeux inattendus. Tu ne sais jamais quel jeu te fera gagner un match. Mais nous avions confiance en nous. Et nous y avons cru. Je n’ai jamais été inquiet. J’attendais le gros…",
+          "published": "2026-11-07T23:11:30+00:00"
+        },
+        {
+          "title": "Salon national des animaux de compagnie | Un plongeon pour toutou, une pose pour minou",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-07/salon-national-des-animaux-de-compagnie/un-plongeon-pour-toutou-une-pose-pour-minou.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Certains chiens aiment tellement plonger à l’eau qu’ils font des compétitions de saut de quai. Et certains chats sont tellement jolis qu’on les inscrit à des concours internationaux de beauté féline. Le Stade olympique…",
+          "published": "2026-11-07T23:01:36+00:00"
+        },
+        {
+          "title": "Josh Anderson absent face aux Maple Leafs pour des raisons personnelles",
+          "link": "https://www.ledevoir.com/sports/1023236/josh-anderson-absent-face-maple-leafs-raisons-personnelles",
+          "source": "Le Devoir",
+          "summary": "Owen Beck prendra la place d’Anderson dans la formation.",
+          "published": "2026-11-07T22:22:00+00:00"
+        },
+        {
+          "title": "Un garçon de quatre ans aurait été intoxiqué au cannabis après avoir mangé un bonbon d’Halloween",
+          "link": "https://www.journaldemontreal.com/2026/11/07/un-garcon-de-quatre-ans-aurait-ete-intoxique-au-cannabis-apres-avoir-mange-un-bonbon-dhalloween",
+          "source": "Journal de Montreal",
+          "summary": "L'Halloween a viré au cauchemar pour une mère de Drummondville après que leur garçon de 4 ans ait mangé un bonbon qui aurait été remplie de cannabis",
+          "published": "2026-11-07T21:25:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "Fusillade en Pologne : 3 corps supplémentaires retrouvés au domicile du tireur",
-          "link": "https://www.lefigaro.fr/international/fusillade-en-pologne-3-corps-supplementaires-retrouves-au-domicile-du-tireur-20261107",
-          "source": "Le Figaro",
-          "summary": "Il pourrait s’agir des corps de la famille du tireur, selon le premier ministre Donald Tusk. Cet homme a abattu 6 personnes et en a blessé une quinzaine d’autres ce samedi à Cracovie.",
-          "published": "2026-11-07T21:23:06+00:00"
-        },
-        {
-          "title": "EN DIRECT - France-Fidji : Dupont et les Bleus ont pris le large mais perdent Ntamack sur blessure",
-          "link": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949584/france-fidji",
-          "source": "Le Figaro",
-          "summary": "Le XV de France accueille les Fidji, ce samedi, à l’occasion du retour du Championnat des nations.",
-          "published": "2026-11-07T21:20:02+00:00"
-        },
-        {
-          "title": "Aux obsèques de Pengo Bossio Wangi, à Guyancourt : « Mon fils n’est pas une couleur de peau, mon fils est un être humain »",
-          "link": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-a-guyancourt-mon-fils-n-est-pas-une-couleur-de-peau-mon-fils-est-un-etre-humain_6808317_3224.html",
+          "title": "Présidentielle 2027 : en meeting au Bourget, Jean-Luc Mélenchon s’attelle à mobiliser sa base tout en élargissant son électorat",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html",
           "source": "Le Monde",
-          "summary": "Des centaines de personnes, proches et anonymes, sont venues rendre un dernier hommage au jeune homme de 26 ans, tué lors d’un attentat raciste à Trappes, le 23 octobre.",
-          "published": "2026-11-07T21:09:53+00:00"
+          "summary": "Le candidat de La France insoumise a présenté samedi son programme, « L’Avenir en commun », devant plusieurs milliers de sympathisants. Tout en assurant qu’il n’avait pas l’intention de « mettre de l’eau dans son vin »,…",
+          "published": "2026-11-08T04:00:14+00:00"
         },
         {
-          "title": "France-Fidji : les Bleus perdent Romain Ntamack sur blessure",
-          "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-le-xv-de-france-perd-romain-ntamack-sur-blessure-20261107",
+          "title": "En Israël, les défis de Gadi Eisenkot, général novice en politique chargé de former un gouvernement",
+          "link": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html",
+          "source": "Le Monde",
+          "summary": "Le leader de l’opposition au premier ministre sortant Benyamin Nétanyahou doit être officiellement missionné, dimanche, par le président Isaac Herzog, pour constituer le prochain gouvernement israélien. Une tâche ardue…",
+          "published": "2026-11-08T04:00:08+00:00"
+        },
+        {
+          "title": "Route du Rhum : la fête à terre mais un silence pesant en mer, la drôle d’arrivée de Tom Laperche",
+          "link": "https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-la-fete-a-terre-mais-un-silence-pesant-en-mer-la-drole-d-arrivee-de-tom-laperche-20261108",
           "source": "Le Figaro",
-          "summary": "Le Toulousain s’est blessé ce samedi, à Lyon, lors de la rencontre de Championnat des nations contre les Fidji.",
-          "published": "2026-11-07T21:07:11+00:00"
+          "summary": "Alors qu’il est habituellement suivi par une nuée d’embarcations fêtant son arrivée, le skipper de SVR Lazartigue a rejoint le ponton à Pointe-à-Pitre esseulé.",
+          "published": "2026-11-08T03:02:42+00:00"
         },
         {
-          "title": "EN DIRECT - Raphaël Glucksmann estime que la large coalition suggérée par Emmanuel Macron «décrédibilise la politique»",
-          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-melenchon-lfi-la-france-insoumise-presidentielle-2027-campagne-edouard-philippe-gabriel-attal-rn-marine-le-pen-20261107",
+          "title": "Route du Rhum : Tom Laperche, magistral vainqueur avec SVR Lazartigue en explosant l’ancien record",
+          "link": "https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-tom-laperche-magistral-vainqueur-avec-svr-lazartigue-en-explosant-l-ancien-record-20261108",
           "source": "Le Figaro",
-          "summary": "Le président de la République «aurait mieux fait d’organiser un grand moment d’unité nationale après l’attentat raciste de Trappes plutôt que d’imaginer de telles combines politiques», grince Raphaël Glucksmann.",
-          "published": "2026-11-07T21:07:03+00:00"
+          "summary": "Auteur d’une traversée impressionnante, le navigateur de 29 ans a remporté la célèbre transatlantique dans la nuit de samedi à dimanche en 6 jours, 13 heures 27 minutes et 40 secondes.",
+          "published": "2026-11-08T03:01:49+00:00"
         },
         {
-          "title": "EN DIRECT - Colère sociale : 360 personnes interpellées en France",
-          "link": "https://www.lefigaro.fr/actualite-france/en-direct-acte-iv-des-gilets-jaunes-syndicats-mouvement-social-contre-la-vie-chere-casseurs-blacks-blocs-crs-manifestation-paris-place-de-la-concorde-20261107",
+          "title": "Route du Rhum : qui est Tom Laperche, le nouveau prodige de la course au large ?",
+          "link": "https://www.lefigaro.fr/sports/voile/route-du-rhum/route-du-rhum-qui-est-tom-laperche-le-nouveau-prodige-de-la-course-au-large-20261108",
           "source": "Le Figaro",
-          "summary": "70.000 policiers et gendarmes étaient mobilisés ce samedi 7 novembre et espèrent contenir de nouveaux débordements.",
-          "published": "2026-11-07T21:07:02+00:00"
+          "summary": "PORTRAIT - Vainqueur de la Route du Rhum dès sa première tentative dans la nuit de samedi à dimanche, le navigateur a rejoint à 29 ans les légendes de la course au large.",
+          "published": "2026-11-08T02:55:28+00:00"
         },
         {
-          "title": "Pologne: une fusillade à Cracovie fait au moins 6 morts et une quinzaine de blessés, le tireur neutralisé",
-          "link": "https://www.lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107",
+          "title": "Route du rhum 2026 : Tom Laperche remporte l’épreuve en Ultim et établit un nouveau record",
+          "link": "https://www.lemonde.fr/sport/article/2026/11/08/route-du-rhum-2026-tom-laperche-remporte-l-epreuve-en-ultim-et-etablit-un-nouveau-record_6808351_3242.html",
+          "source": "Le Monde",
+          "summary": "Le skippeur français a franchi, samedi 7 novembre au soir, à Pointe-à-Pitre, en Guadeloupe, la ligne d’arrivée de l’épreuve transatlantique à bord de son maxi-trimaran « SVR-Lazartigue ». Il efface la précédente marque…",
+          "published": "2026-11-08T02:53:17+00:00"
+        },
+        {
+          "title": "De Mike Birch à Tom Laperche, les marins qui ont écrit la légende de la Route du rhum depuis 1978",
+          "link": "https://photo.lefigaro.fr/sports/voile/route-du-rhum/les-marins-qui-ont-ecrit-la-legende-de-la-route-du-rhum-depuis-1978-20261103",
           "source": "Le Figaro",
-          "summary": "Un tireur à bord d’une voiture a ouvert le feu sur des piétons au hasard à proximité de la place du marché principal de Cracovie, faisant six morts et une quinzaine de blessés, dont deux policiers. Le ministre de…",
-          "published": "2026-11-07T21:03:47+00:00"
+          "summary": "EN IMAGES - Retour sur les vainqueurs de la célèbre Transatlantique depuis la première édition en 1978",
+          "published": "2026-11-08T02:47:06+00:00"
         },
         {
-          "title": "Benoît Sineau secouru et \"sain et sauf\" après avoir activé sa balise de détresse sur la Route du Rhum",
-          "link": "https://www.franceinfo.fr/sports/voile/route-du-rhum/benoit-sineau-a-active-sa-balise-de-detresse-sur-la-route-du-rhum-des-concurrents-deroutes-pour-le-secourir_8272628.html#xtor=RSS-3-[lestitres]",
-          "source": "France Info",
-          "summary": "L'organisation a annoncé samedi dans un communiqué qu'elle avait demandé à plusieurs bateaux de venir en aide au skippeur d'Ekinox-Rhétores.",
-          "published": "2026-11-07T21:02:40+00:00"
-        },
-        {
-          "title": "Israël : le président charge Gadi Eisenkot, principal opposant de Benyamin Netanyahou, de former un gouvernement de coalition",
-          "link": "https://www.lefigaro.fr/international/israel-benyamin-netanyahou-affirme-qu-un-gouvernement-avec-les-partis-arabes-demantelerait-l-etat-hebreu-20261107",
+          "title": "Yémen : 33 morts dans des frappes saoudiennes, selon les Houthis",
+          "link": "https://www.lefigaro.fr/international/yemen-33-morts-dans-des-frappes-saoudiennes-selon-les-houthis-20261108",
           "source": "Le Figaro",
-          "summary": "Le premier ministre sortant a jugé dans une allocution vidéo qu’un tel gouvernement entre le bloc d’opposition et les partis arabes «démantèlerait» l’État d’Israël.",
-          "published": "2026-11-07T20:55:09+00:00"
+          "summary": "Après des tirs de missiles et de drones houthis quasi quotidiens en octobre contre le royaume, les combats semblent s’intensifier ces derniers jours sur le sol yéménite.",
+          "published": "2026-11-08T02:20:04+00:00"
         },
         {
-          "title": "Israël : Gadi Eisenkot, l’« anti-Bibi » appelé au pouvoir",
-          "link": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
+          "title": "En Uruguay, Léon XIV appelle à lutter contre la misère et à rechercher la sainteté",
+          "link": "https://www.lefigaro.fr/actualite-france/en-uruguay-leon-xiv-appelle-a-lutter-contre-la-misere-et-a-rechercher-la-saintete-20261108",
           "source": "Le Figaro",
-          "summary": "PORTRAIT - Après des législatives serrées, le principal opposant à Benyamin Netanyahou a été appelé à former un gouvernement de coalition. Moins charismatique que le chef du Likoud, il a pour lui sa réputation…",
-          "published": "2026-11-07T20:53:35+00:00"
+          "summary": "Des moments forts ont marqué la dernière journée du pape à Montevideo, avant son départ, dimanche après-midi, en Argentine, seconde étape de sa tournée en Amérique Latine.",
+          "published": "2026-11-08T00:59:55+00:00"
+        },
+        {
+          "title": "Les notes des Bleus après France-Fidji : Dupont le patron, Moefana en bulldozer, Falatea efficace",
+          "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-fidji-dupont-le-patron-moefana-en-bulldozer-falatea-efficace-20261107",
+          "source": "Le Figaro",
+          "summary": "À l’issue de la victoire des Tricolores ce samedi face aux Fidjiens (54-17), retrouvez les notes des joueurs français attribuées par nos spécialistes rugby.",
+          "published": "2026-11-07T23:26:43+00:00"
         }
       ]
     },
@@ -325,6 +325,111 @@
       "label": "Actualites diabete",
       "items": [
         {
+          "title": "Report ranks nation's 20 most overweight and obese states as doctors warn of diabetes risks",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMEExZUI2NnIzT2xEUmY4SWlPRm56MTJrZVlURXpJYVB0RFY1bnJHYTNmclcxVkhkS3FveFRac19mV1p3Y1JhWGlzbHczX3ViWFlGUUNLNlp2VGZzWkl5VDRkT0JhT2N6eWZZWVVrTFRJRHQ5RkIxeEtsSVQ4Z3puOWQ5Zkd2Z1AzWTM3Wkg5YTZXT2xia2FhcGlSSHZQcm1TSEVSc0ZRSVdJenhsRFJfVEJR?oc=5",
+          "source": "LiveNOW from FOX",
+          "summary": "Report ranks nation's 20 most overweight and obese states as doctors warn of diabetes risks LiveNOW from FOX",
+          "published": "2026-11-08T03:45:37+00:00"
+        },
+        {
+          "title": "Hospital Study Reveals Gaps in Diabetic Foot Self-Care Knowledge in Ethiopia",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlFOZFVnenZYTGtKM1paUWpHX3RZaEk1dmllOTNmT0ZNU2NuWHFKWE1XdEhDbU50MmQ5VlNmVGRqQmZQT3dKczF0aUw4cmx0UEw5ckdTX2tzUjdHYUdkVmlWZW1wcGhWXzFCRTF2YjlnZnVvMTdsTkVSdTQxWjZVeVlaclNndkdpcUc4aTVNSzdkZkJtRUQtWEc0VEZVVDNJSlo0?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Hospital Study Reveals Gaps in Diabetic Foot Self-Care Knowledge in Ethiopia Bioengineer.org",
+          "published": "2026-11-08T03:40:46+00:00"
+        },
+        {
+          "title": "Diabetes Complication Care Expands Beyond Glucose to Prioritise Organ Vulnerability and Durability",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmVHS0ZpbmlYM0NBYVYtR3dFSDRZYl9kOGNEd2o4MXlDNGZKT2ItazBVaWZjMzBodzhTWmJvWlVXNDZfR1d6SUJrbElHTVhCNlk0VmpDaWdxQ3ZjRzVVN21fU3ZXRkZFUENBbm9NUXFvU1doYVp0Nk8yb1lHMGRSRjNUZkJ0WVd5TzlweWt1OEtYOW96ODJPQUlDTmpNTy1EeS1ZNS1HNWVPT19HQjJObGFuNDNyOUpfaDgzZUc1U0M?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Diabetes Complication Care Expands Beyond Glucose to Prioritise Organ Vulnerability and Durability Bioengineer.org",
+          "published": "2026-11-08T02:20:38+00:00"
+        },
+        {
+          "title": "Abnormal Exercise Breathlessness Affects One in Six Adults With Type 2 Diabetes",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVnhpOG9WM1FIdUlCeDZ1NlJTbTYwVGcxOXdlekVQWjV4ZGdfVjBlQ01WdzZEOXNOXzQ1MHhCRC1sZkdmbjhPSE9fWTRGN0FnRHMtYXc4N0RJdWRuM1dIRlNXVHF5c3l2M3FKNlFubmxvT0kxV1B2Z3hZUVpGN1BHSS1pOEYtdDJJeXBLcnlCdllUR3o3QnI5YXBqdWJsRVE4enhmM0E1MA?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Abnormal Exercise Breathlessness Affects One in Six Adults With Type 2 Diabetes Bioengineer.org",
+          "published": "2026-11-08T02:06:15+00:00"
+        },
+        {
+          "title": "SGLT2 Inhibitors Outperform DPP-4 Inhibitors in Safety for Super-Elderly Diabetic Patients",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVI5bzAtYUEtc3JWem9VVmVSRmJ0OEFRZWFVRklsRGhOLV93NGp0Y3lQajFOX09WVVAwV00wQm1EbTJGN0hGUnd5d3kxc01ucG9VYmZvNlg5bC1YMkY3c0xRbnJiWlJBUmhMRUM5WTg0UlJzMktNd0FYQ3haOTdfUUkyQ0xEaEZEbUo4b3hScEJ1bWhvdnU5RUpSTnNia3pkZzVrc285ZUY5WHJZNmFJczBZanNCUQ?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "SGLT2 Inhibitors Outperform DPP-4 Inhibitors in Safety for Super-Elderly Diabetic Patients Bioengineer.org",
+          "published": "2026-11-08T01:40:31+00:00"
+        },
+        {
+          "title": "Lance Bass reveals ‘unexpected’ way diabetes diagnosis changed him as a dad",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWS1pX25yclUyNkN2YnZNRVQzNTdoaUxxSGVnZmVSYTc3d1k4Wk45NUFEZ1R2T1dteHJXS25vV0VpdHNkUXF2RUdPR21TQVdZLVppMG1GNUxVekx2Z2hibExtQlhvSk9jcWtEbWw5VlZTTVRMNkpVdU9YNE9WNWpKSHN4b282Zy1nZ2JleVlDOFFIZkQtNWtHSnlJNXBUdDRnZ3V3MUlVT3hYc0JFbU1n?oc=5",
+          "source": "UNILAD",
+          "summary": "Lance Bass reveals ‘unexpected’ way diabetes diagnosis changed him as a dad UNILAD",
+          "published": "2026-11-08T01:16:51+00:00"
+        },
+        {
+          "title": "Type 1 Diabetes Walk Brings the Community Together for a Cure",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEpFOXdDY3BsV2ZObmlYUk9ORnJxaWp5X0NPb0dYQVlsS1VGNHRVU3pDTmZmNWRZSVBSSlowSWc2aEZZbGFfVDU4eHNFYTE5cGtCcjhxeG50NVk4RjZDdjVPVVR3TnVrclNmMEs4aXItZE1ESVZqMFlZRzdWQU1qNkpMaE14dWNEOEpnRjNFUnMzc1otSlJ4R1lZa2JSS1c1bXFjbDVUWVF1VHlXNzJmVi1VOWdGb0FGSEMxV1FiWDBwSzhxUlRQVXIxaW84c2pK?oc=5",
+          "source": "KABB",
+          "summary": "Type 1 Diabetes Walk Brings the Community Together for a Cure KABB",
+          "published": "2026-11-08T01:07:39+00:00"
+        },
+        {
+          "title": "Comment trois études remettent en cause la gestion de l’hypertension après un AVC ou avec le diabète",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTZPZHB3anJIY1lvNmRHQ3lPMjlPY2ZDcG5RX2txd05tc3dmUkJvRF9vdXAxaENBY2JobVVqUzhneEVwSUtaM2ROZ1FIQnV0MFNBQWlMbmNoMTFEWlhRUW1ranpqTUZ3THJHdkJ2dkFqS3ZuQ0htWF9qb0dqSTFtTi1DWl9iUFdLT1JSUURTa2ltY05pd0dJaUxBTQ?oc=5",
+          "source": "Entrevue.fr",
+          "summary": "Comment trois études remettent en cause la gestion de l’hypertension après un AVC ou avec le diabète Entrevue.fr",
+          "published": "2026-11-08T01:04:16+00:00"
+        },
+        {
+          "title": "Southern Illinois Diabetes Awareness Walk set for Nov. 14",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEtiTktRcV9XUWpCM0tuUE11d2UtRDhWOHhqN0k2ZjVvMXQxa0o5TWI1T1JFbm9TbHNrcUdodzNtUk5VT2d2T0k4S1hvZ1Y0dXQ5TE1rcmdNR1BoeFFMVFRrWXJndVlIcHJBbENNLVEwdmdiRm5rVTBYSzZrdGhGNmpjTjBDNkVqUHMwcEFZbFg?oc=5",
+          "source": "KFVS12",
+          "summary": "Southern Illinois Diabetes Awareness Walk set for Nov. 14 KFVS12",
+          "published": "2026-11-08T00:59:00+00:00"
+        },
+        {
+          "title": "Soirée d'information sur le diabète au CH d'Aix-en-Provence",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUM3b1BhY1l6aC1OMzhZQjloc1RnamRxRjFET2xrclo1QTI4ODdDVkp4dE4zRmVQX0tjc2pnR3ItYXh1R2dSMW80eHRpUlhNOHVnZUdXTWVkSGVDMUVSVi1xaUZZTVhoR2pXa2hDTHJCeUw2TF85U1Z6UmF6THV0TE5nczI1MzNVd0ZhVG5OMjZMZWdDLWFVZzZOQ2tVQzJ6VHJRU1lQX0VoVWM?oc=5",
+          "source": "Presse Agence",
+          "summary": "Soirée d'information sur le diabète au CH d'Aix-en-Provence Presse Agence",
+          "published": "2026-11-08T00:00:00+00:00"
+        },
+        {
+          "title": "Senior Spotlight: Managing diabetes during the holidays",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlBjdG5aVTNteUdmYWktbE8tQVcxYU5fSC13T3I0SEJnWElMR1hHNjNZTnRnTDA1bjFrbDJpZEtHeGFJTnJ3a0ROWldkWEJUSWhFSWdUMkhDRk1YdVoyWkxTVEtrVF9WVzZiQ25TZ1EwQk81blpBZjVrSjFUMnNwSzYydHFzdnJEYVFGbDdfTmlsOWdKS0ZuNk41ZUh3VmxsTFlj?oc=5",
+          "source": "Nevada Appeal",
+          "summary": "Senior Spotlight: Managing diabetes during the holidays Nevada Appeal",
+          "published": "2026-11-07T23:02:53+00:00"
+        },
+        {
+          "title": "Lance Bass reveals how his diabetes diagnosis has affected him as a husband and a dad",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0dvU1NZMHFxYWJVU05LQnoxTXVxdnhicHgyLVFOOHM3ZVZFMy04YlFDalZoQ1p1dkkzV3RmM0xIamYwc0dBbUxOdmlIdms5M0JyTW5vNXZ2VU01VHlNUDJ5NEZkek1rR0wxRlU5VFFveWt3MjFYSFljcnJBNWhLcFdqM1VhcWhWSkgzREhYVkt0OXhhMWtOMXpvdDVWSzZKSV92dE9HSUdna19BQjV2cA?oc=5",
+          "source": "Female First",
+          "summary": "Lance Bass reveals how his diabetes diagnosis has affected him as a husband and a dad Female First",
+          "published": "2026-11-07T23:02:28+00:00"
+        },
+        {
+          "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlhvMWVvUnZlUE5EVVBLd0ROZXIzVnUxb0lMeTNSZk9LbUJwZ1duQUJfMGFmSnN3N2M1Wnk2VWZfb3dCVGZaemUxNENyQ21GUkVwZUs2ZFdqZXNDUExWckF0TWtjV1JVWWFMRWhJaWdCZFRDR1VHRDBfZWd3bVdrRVNLSE52ZjFZX08zMTdNWFJiUWZhTUxhOW9UVWItdw?oc=5",
+          "source": "STAT",
+          "summary": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice STAT",
+          "published": "2026-11-07T21:44:06+00:00"
+        },
+        {
+          "title": "Intensive blood pressure therapy did not cut cardiovascular events in adults with diabetes",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHNpM2VTcmdYbC0taGpjRFJFYnJZdFl2N2lNX2llTXdQT0dJcUlzc3JpTkNCOXhJQnZBdkY0djRFb0JmMVgtbFUzLTRQNktDQnZmclB2VmZoa0oteC1DaHJtcTJrMXlGVEdNRUpXRG1HYW1lZ1gwWHl3dWFISEpiampQalo5aWVJYXl6QkdCN2lkQ09QYUtxalR2Y2pMd1RXRkZTcGtxSzRtcVVBa3pDaWhsdmhYcEFLZjFzd1ZSSQ?oc=5",
+          "source": "www.heart.org",
+          "summary": "Intensive blood pressure therapy did not cut cardiovascular events in adults with diabetes www.heart.org",
+          "published": "2026-11-07T21:32:59+00:00"
+        },
+        {
+          "title": "Review Links Medicinal Plants to Diabetes Management",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEROdDNyRU9EMjRfaWRhelhCbmVTSnFGWUthOUo4bmJKS3hoRXl2UTkwSWI4NlJCMEc2ZGZUeFdXSjViVFJWOWY1SmVLTUlQQ1NOTmhfcUJoZzlEckNpdnpEWWVpRlV4YmhTMl9ZeUc1WjNQQkFGY0E4T0cwZ1JZS0pfQQ?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Review Links Medicinal Plants to Diabetes Management Bioengineer.org",
+          "published": "2026-11-07T21:29:33+00:00"
+        },
+        {
           "title": "Social Factors Shape Diabetes Self-Management Among Adults in Bolgatanga, Ghana",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWVKLUtfSGJtQXJEeTdzQVk4UGxTMFBTOFJXNHpETkZ1bjNVZGxDLVRUQVRwa05qSDdGT21CSUJSVVlNUlBMS3JxbDk4eEF5SlA2elN3LTVMMnpNeDdPV1JqZk5nSE9sMklBd2xrdkhnZzl2ZjVMajBHUWlCQlRLOUs4a0JmYk5qaXNoTjhYMWFsMVNkeFhrd3JYdVpsSW83aWJNWlZB?oc=5",
           "source": "Bioengineer.org",
@@ -346,18 +451,18 @@
           "published": "2026-11-07T21:00:00+00:00"
         },
         {
+          "title": "Machine Learning Pinpoints Three Genes Linking Type 2 Diabetes to Worse Bypass Surgery Outcomes",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYThFSFQ4TGYtSmt2R2hOYmllQm43U21VcFF0NW1MMXZoS0ZoeFJrX3lCdkRsc1dUbUdrdmpqc3ZjSDItWnR3UExqR3ViYTVqU3ZjOW82Z1hiU01HQVBpajUtZE5lVmprQkl1MUM1cTJaQ0tkdWJKN1psZUZzMzlhZ1RmbzJIYXZEM25hZ09LMmt0aTVBeENtb3A2ejlfTHNFZ2k4RVlvWGNzd3gwZFhmaEFuQkdkNEZkYVlUMw?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Machine Learning Pinpoints Three Genes Linking Type 2 Diabetes to Worse Bypass Surgery Outcomes Bioengineer.org",
+          "published": "2026-11-07T20:11:59+00:00"
+        },
+        {
           "title": "Un traitement du diabète sans médicament ? Un implant abaisse la glycémie chez la souris",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc01SSzlreTFwN1J4RzFLU3QyRFpOSU54MUNhNllZamIzcTJwMVo1clJDc2t3QTRWdUNpRjYwTzV2U0xhNGhXNElpalpfMFliM0szcHlTLV9JRlZsR0E4WWhyVVdtYUFGLVBHRnVaaGxRX3Qtc1BnVlE0dlpwdFFnbEpBd1FlbUJjUUFHLVJoaWZCOGdqOTFJSFVQQ3ducXF4c0dtYmdVLTI?oc=5",
           "source": "Issues.fr",
           "summary": "Un traitement du diabète sans médicament ? Un implant abaisse la glycémie chez la souris Issues.fr",
           "published": "2026-11-07T19:44:00+00:00"
-        },
-        {
-          "title": "Machine Learning Pinpoints Three Genes Linking Type 2 Diabetes to Worse Bypass Surgery Outcomes",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYThFSFQ4TGYtSmt2R2hOYmllQm43U21VcFF0NW1MMXZoS0ZoeFJrX3lCdkRsc1dUbUdrdmpqc3ZjSDItWnR3UExqR3ViYTVqU3ZjOW82Z1hiU01HQVBpajUtZE5lVmprQkl1MUM1cTJaQ0tkdWJKN1psZUZzMzlhZ1RmbzJIYXZEM25hZ09LMmt0aTVBeENtb3A2ejlfTHNFZ2k4RVlvWGNzd3gwZFhmaEFuQkdkNEZkYVlUMw?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Machine Learning Pinpoints Three Genes Linking Type 2 Diabetes to Worse Bypass Surgery Outcomes Bioengineer.org",
-          "published": "2026-11-07T19:19:42+00:00"
         },
         {
           "title": "John Breunig (opinion): How I trick-or-treated with diabetic son",
@@ -381,18 +486,11 @@
           "published": "2026-11-07T18:43:57+00:00"
         },
         {
-          "title": "Guilherand-Granges. Lions Club et Croix-Rouge se mobilisent pour le dépistage du diabète",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1R5Ny1KdnlBbDZBU2czZDNVN1RicElUZUZmUkRxWUNPbWp4X3RDcTdDRllQYzJxSGtndGxlYWhsX0paQVQ3bUVTWUQzd1M5RmJaUlg4YzZYQ0o1UHo3TU9RXzJOclJIWllZNTlTNklsT19xd0NkVE9TV1k3RmpMQ0E0NnNMUWJEWlpyYlB6M3k2d3p3MndkTkFSNDBzNU9TbW15R0tlQ0N3cTROWHdDUkdR?oc=5",
-          "source": "Le Dauphiné Libéré",
-          "summary": "Guilherand-Granges. Lions Club et Croix-Rouge se mobilisent pour le dépistage du diabète Le Dauphiné Libéré",
-          "published": "2026-11-07T18:39:54+00:00"
-        },
-        {
           "title": "Diabetes hits home in Laredo as officials urge prevention for November",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTNZUHZMLXplZWw4MUluWmtCVXBaTEZibUF3bFJNMERYeEZlcFBQZE1BNWJyckJpYVRkZGQtMnNHNHpJS0VSTVEtSXplcmU5X2dwRUNFLVNKbTRkQXMyeDhYcjBzQ2FTb21MbEpubDlMZ0JCbXhPSU1SVlZmNFJXaE53dmxldzZVbjdvYWJWWURvaG0zcF81bFVnRQ?oc=5",
           "source": "Laredo Morning Times",
           "summary": "Diabetes hits home in Laredo as officials urge prevention for November Laredo Morning Times",
-          "published": "2026-11-07T18:36:06+00:00"
+          "published": "2026-11-07T18:40:07+00:00"
         },
         {
           "title": "GLP-1 RAs Linked to Lower Diabetes, CV Risk than Metformin in Prediabetes",
@@ -448,7 +546,7 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdENYNkpKaTh3V3BWSjNqWE9UbkVjNVF1S1h0NWFRUUdYZldUam9fek8yZy00Sjd6SzQzRG5LbHJkWlJTY1dvaE90QkFVOHJRdmFHOU1BSU5rYzB0Z3Q1YnplTzAwX1pUQ3NsNXpMRE5FbmdINll0U01GQl9KQV9qN08wYlJ3cmF4LWc5UUZqanh0cndDWGYyNHFn?oc=5",
           "source": "Bioengineer.org",
           "summary": "Higher HDL Cholesterol Linked to Lower Spine Bone Density in Diabetes Bioengineer.org",
-          "published": "2026-11-07T16:39:23+00:00"
+          "published": "2026-11-07T16:38:52+00:00"
         },
         {
           "title": "Une journée de sensibilisation au diabète organisée le 12 novembre à Auxerre",
@@ -486,13 +584,6 @@
           "published": "2026-11-07T15:04:21+00:00"
         },
         {
-          "title": "Soirée d'information sur le diabète au CH d'Aix-en-Provence",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUM3b1BhY1l6aC1OMzhZQjloc1RnamRxRjFET2xrclo1QTI4ODdDVkp4dE4zRmVQX0tjc2pnR3ItYXh1R2dSMW80eHRpUlhNOHVnZUdXTWVkSGVDMUVSVi1xaUZZTVhoR2pXa2hDTHJCeUw2TF85U1Z6UmF6THV0TE5nczI1MzNVd0ZhVG5OMjZMZWdDLWFVZzZOQ2tVQzJ6VHJRU1lQX0VoVWM?oc=5",
-          "source": "Presse Agence",
-          "summary": "Soirée d'information sur le diabète au CH d'Aix-en-Provence Presse Agence",
-          "published": "2026-11-07T15:00:00+00:00"
-        },
-        {
           "title": "Research shows benefits of GLP-1 for type 2 diabetics",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMmFORnFmS2Q2d0JmZkJHS1RiREhoVmY1QkFONjRwdE5TRGZfOS1IRDNtRGxvZVRiNkVMSW9DWjgwcHN3VFROS1VaSTRnY3J6Q3k5cU0xNEdJVDVjRUpEMHhlc3Z2VUhXaDhrMGcwXzFtbFdnUlVHdWtUNHhCY0wzQW1GMA?oc=5",
           "source": "Spectrum News",
@@ -512,97 +603,6 @@
           "source": "NDTV",
           "summary": "Indian Americans Have Higher Diabetes Risk Even With Normal BMI: Study Reveals The Hidden Risk NDTV",
           "published": "2026-11-07T13:39:30+00:00"
-        },
-        {
-          "title": "How feline diabetes care has evolved under the updated AAHA guidelines",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDZwT2FWMlBVMzNHLW1xeUdVQ19abGExOFhoXzJzWUx1M1FBdEVwN0FMOGRzSEo4bzd5VDNZdGVUTVNLVXRHMEFjNk9LbHNvWG1PQjd1cGFwTVpldEg2aW41bFExZWw1XzVPZlB1WnlDTU9qWDV2aTJpZ2FWWS1lcTA2UFFkdXc0VHllbXZFZUxaTlpYY1dLZFRiaXdUbTQ?oc=5",
-          "source": "DVM360",
-          "summary": "How feline diabetes care has evolved under the updated AAHA guidelines DVM360",
-          "published": "2026-11-07T13:17:19+00:00"
-        },
-        {
-          "title": "How to work against the clock without working against your health",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVJzczlOT2dwOXZveXZTNzlWb3F1YmJPWUNlbWtoaC0wcXplVjh6djdlMGRIdlBXSm14Rko3Yy1ZQkMtY0N2TVZsSlR4SlZrZFRjSW5pdmhqWFNiRW9MNlhRekFZNDhSYjRpSEhkNk94SmVRQUN1dktxM281SGN2cDN2SjdBcHBHQzdaNDJwYlFLX0g1dHFfZ01EQzJmd0dfb0pCWGtIc25MR2tOa0llWjdUVGY3TUowZnpyV0Yxd2NyMHNPaFHSAdMBQVVfeXFMT0dZY2hzQVlxNEFSbDF0T3Vva0lhb0c3TWVZaWROdmlpLUhrYnF6TEMtOUF1NDZaTkFtalBJcjFpY0tBTUFtbDYweW1UakpGTTZLdTdzdDF4NFgxTUpBNXlKdDdMZUdSaFo5amlUaDUwM0oxaWZyTGhaUFF6T24yN2l2S3hiVHh5UXdQZU1TNENoUVBkVTRFbTRuQXRJWUhzX2NpSkYxY0RlUXJKazdnWmUwZVBZcUZoVl9DZzB5VWxsb2tadl93S0F4S3A5ZU1SVUwyVQ?oc=5",
-          "source": "The New Indian Express",
-          "summary": "How to work against the clock without working against your health The New Indian Express",
-          "published": "2026-11-07T13:16:11+00:00"
-        },
-        {
-          "title": "Diabète et régime alimentaire planétaire : le cas de l'Europe du Sud qui rejoins les mauvais chiffres",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDFYOUNKWndaZHBPT0dnYjEzZU9QTklRWlFPYmJEMXNMeXFyWW1XQVR5LVVZUV8yelVxZ2k4eGx1MEM4SWl3a1RON2ZPd09LQTlzZXBXQVFUYzhjNmhObUtrZ0hGWXRLbzhFX25tU1VtY2k4RlVTdXQ3YnVmenl1R19WNGFySDRjeUFxNjRiQVlQc2hHSnptcTBLZElubzF3U2doMVBkQlRaOFFuRmNSYUlGejB0eEJ0WVdGVUdTTWJyeFJONHc?oc=5",
-          "source": "Presse Santé",
-          "summary": "Diabète et régime alimentaire planétaire : le cas de l'Europe du Sud qui rejoins les mauvais chiffres Presse Santé",
-          "published": "2026-11-07T13:16:00+00:00"
-        },
-        {
-          "title": "Hospital Study Reveals Women’s Views on Gestational Diabetes Screening in Tanzania",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWE5tMmQ0b1dCNFdUajVTMUc3R3g2c1Bvdlc1aHRhQUN5ZGFBZEVzRl9vMGlQWG13T1hxSUpkYnNCTDJsbzB2cmZrTFhQM2JPSERBdjh0WFhpajloVDM4azVVSTZrQ1Q3cXJjc0cyNWNSakZQeHotcTd6UFRUQnVtTHZjM3NoalI1NmY0QkxvMnRNWTFyVXNOZVFTZ0Y5Z3pwMzF2RXE4R0xOZw?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Hospital Study Reveals Women’s Views on Gestational Diabetes Screening in Tanzania Bioengineer.org",
-          "published": "2026-11-07T13:08:23+00:00"
-        },
-        {
-          "title": "Optical Changes in Diabetic Adipose Tissue Track Early Glycation and Hydration",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTJ2R1ItZkhnRHg0bUxYc0FnR3dsaFFXdFY2c0ZfWUwzVmN3WTJTWTFGa3duaFVfLUtXXzBMUm1qY2NrSEVCOEdtYVpCeVM4MHFJOUhETkQ3aEhWekNodGZMaHNDa2JCMk5Lc1ZhdEphMGl2VF9rT3ZRcmFpRGY4dERUWmVidWFJbFZ4b3g0SWI2NDZqMTV5UHlMbHNESlBhTXAydkFn?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Optical Changes in Diabetic Adipose Tissue Track Early Glycation and Hydration Bioengineer.org",
-          "published": "2026-11-07T12:53:22+00:00"
-        },
-        {
-          "title": "Review Highlights Empagliflozin Cardiorenal Benefits in Cardiometabolic Disease Treatment",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVhmaU5ydm91WUczLUlsMUt1QXJMMFNQRnJ5alRnT1UzOEEtaUJRU1BkOHJORUZTZDR0LTZyR0ZVd094bUFFcmdsYzF6VGtEeldkbTNlemh0aDdjams2RzhRNjd3cVZaTms2MnB0a0lPOUpfZ21qTlFqVGZMaGVUc1l6N3laWERJYU01X3RFV0NubV9iRjBzYjRNNTE2Vlh3Z3doakdHekR4YzlxS3RqSnZuWjA?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Review Highlights Empagliflozin Cardiorenal Benefits in Cardiometabolic Disease Treatment Bioengineer.org",
-          "published": "2026-11-07T12:48:22+00:00"
-        },
-        {
-          "title": "REPORTAGE. Diabète et précarité : à Montpellier, un dépistage gratuit pour lutter contre les ravages de la malbouffe",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOM1ZvcldnNnlEWF81R25nRlZJZXh0TFpZQTZfZjh4c1ZFdWFkZjBOUUo2eGdFNlNWeHVKdDlVelBaaElSMFNrWVlEbG9wZjQxeE45akRQcFNWTGhfTFdZaktvV2JrZi1GOXZjc3V4amFmMFFXdXZRZWpiSUNwckZnMzBwYXBQYnZYdUFSZzhPdlU4Zi1LUGxvb2hwaTdKN25KQmwxc1VSSlpRY1RqUUl6c1lDR2VwczhfMzRxR3Zib2hlUU9NQk13SkI5REtRT1JYVWdheDhxM1l4eW0wYzNXbDB2MENBaU9TUFNFMFVMZkZ2c0dHeEdRSENCaDdyRl9kT3lRczFaUC1OUlRXdVl4bkk1MXk1SnJOZm9yNDJR?oc=5",
-          "source": "France 3 Régions",
-          "summary": "REPORTAGE. Diabète et précarité : à Montpellier, un dépistage gratuit pour lutter contre les ravages de la malbouffe France 3 Régions",
-          "published": "2026-11-07T12:07:08+00:00"
-        },
-        {
-          "title": "Standard heart risk tools underestimate danger in type 1 diabetes, 30-year study finds",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEs3aHpTRzhNVkIxS2ktUDN4S3V4TGg2U01xYXhiR3BVejE0OTdLMUtDa1pwSk02a3pOY0gzVkdvWVd6akt1amo3bkNTWDFraFVqbG5ObFlCNXJCRHcyWWlnb19BLU5tT0c2MmZIMEJLeHlaYU40Z3UwVzVOTkNzX1N0ZldsNzlRMExNb0JKSEZHcHRLZmY0NEUzNWUwYW56M01xb0l1aFdhVzNPS1Jn?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Standard heart risk tools underestimate danger in type 1 diabetes, 30-year study finds Bioengineer.org",
-          "published": "2026-11-07T12:03:16+00:00"
-        },
-        {
-          "title": "Scientists Develop Electronic Implant That Could Help Treat Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3RYSFVoSkxWX0ptcFU5dmhFLUp4dE1Nb0Npc1ZWZHlGOGE5Skx4eEphOVRtY05NR2ltU3RNOFJjbTdRMi1rNi10TldjWkEtTWt6SVBXTHFHVno0V2pjSTBFMFZ1UUg0MVVHdDZzQjBKR19Bb0syYW1UbGs3bFNHbDMzLWNMZml4SnUzWDdLZU9CTDdfNEE1dGhUYUdyVHJ2Ti1lZg?oc=5",
-          "source": "Yahoo",
-          "summary": "Scientists Develop Electronic Implant That Could Help Treat Type 2 Diabetes Yahoo",
-          "published": "2026-11-07T12:00:00+00:00"
-        },
-        {
-          "title": "Nghe An présente les dernières avancées en matière de diagnostic et de traitement des maladies endocriniennes et du diabète.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVG1SeWJ3T3lpRjY0WGpNMm01QTBMNGJFUU1veFdJaUlpN1JDdHZQci1UbTdEWmZ6cW04YUl1WXZEWkpRN0poZnpnNnJUZGxMZU5teGFDU0ZPcXBfcTBiS0pYaU03aUY3MEF4T1ZKbU4yNjBJMkZXSXVWSklRTHR0NEVlR2NVX1hMVXNBZHpudHBVT0dqYXo2V0R3OEstNXFCT0R0b0Rhb3N2VVBU?oc=5",
-          "source": "Vietnam.vn",
-          "summary": "Nghe An présente les dernières avancées en matière de diagnostic et de traitement des maladies endocriniennes et du diabète. Vietnam.vn",
-          "published": "2026-11-07T11:54:58+00:00"
-        },
-        {
-          "title": "Dawn was fit and a GP...so how did she develop diabetes in midlife?",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdTFzTS1FZDlkYjZLVW1USjZOeE9NYW90R3VGeW1hSkJzM2xFbS1vX0FZSm00Q1FhZzJyVDZibjdhMDExblV4SXJfdDMzSGpHWkJ2SE1lV1dwZmZFaHBoN19zcWc5aEE4YVJGT3EyVTM1NExVWWxJalVjRUJHSHRUQWxsSms0b0dDLU1FbnI4ZmRHZ0lIaGRnVGNGQXVIbEt2eTdkNEJuLW9pakg1dlpxZUs2WWxIUHA1dmdMbE5mWWRvenNIM09BelhpWHl4dVJpc1dYd1ZBV1NOZXZkLWNUUG5HNEdDQQ?oc=5",
-          "source": "Daily Mail",
-          "summary": "Dawn was fit and a GP...so how did she develop diabetes in midlife? Daily Mail",
-          "published": "2026-11-07T11:49:46+00:00"
-        },
-        {
-          "title": "Four Plasma Proteins Linked to Macrovascular Complications in Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWloclBOMjA1VTMyM3RvUUxjS1hVd2pLOHdETjZpNklScWJ4ZVhzMlgycXJxYTZlcEJHZFZOdzBFNUJzbS12eDdWSWgzWGFTUUh1ekR2amE0ZVpCdzNwVll4ZjB3T3lYbmZZaVh6OXpNUkFWWHJTNWFVN09RcW10ZHRRRktZZkNVSjVyOXk5anc2eUlyZ2JMcHRFSGtRbk5ZbnVRYQ?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Four Plasma Proteins Linked to Macrovascular Complications in Type 2 Diabetes Bioengineer.org",
-          "published": "2026-11-07T10:58:10+00:00"
-        },
-        {
-          "title": "Review Details Distinct Heart Disease Trajectories in Women Across Diabetes Types",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZE5qR3VHeE5KbUJrcHNyY2d5ZGJWNmNWbm5ZU0k5MlRpVE0zOG13aDBiRHJfNXItOE5oMW54VUdlSzh3eldpMDctZkRRQTZWRFUtUnBDZWpURG9IbnZ6Z2VmNnFRNXdablB2cTZMcHVsa3Y3Q0Z5WVNsRGNGeHlUX3NNQUE0alF6eWpMZjhIVlVoZk9hSDQ3dDNsRGM1S3hsM0Vya2Fybm5QQQ?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Review Details Distinct Heart Disease Trajectories in Women Across Diabetes Types Bioengineer.org",
-          "published": "2026-11-07T10:23:08+00:00"
         }
       ]
     }
