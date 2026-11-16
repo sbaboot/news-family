@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-11-16T00:45:18.917414+00:00",
+  "generated_at": "2026-11-16T10:39:56.293664+00:00",
   "sebastien": {
     "monde": {
       "label": "Monde",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »",
-          "link": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
+          "title": "Sommet de l'OIF : la Francophonie c'est quoi ?",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261116-sommet-de-l-oif-la-francophonie-c-est-quoi",
+          "source": "France 24",
+          "summary": "Le sommet de l'Organisation internationale de la Francophonie (OIF) prend place tous les deux ans. L'objectif principal : promouvoir la langue française et son apprentissage. Les chefs d'État et de gouvernement des 90…",
+          "published": "2026-11-16T10:32:27+00:00"
+        },
+        {
+          "title": "Sommet de l'OIF : le président Macron appelle à \"l'unité\" et au \"consensus\"",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261116-sommet-de-l-oif-le-pr%C3%A9sident-macron-appelle-%C3%A0-l-unit%C3%A9-et-au-consensus",
+          "source": "France 24",
+          "summary": "Emmanuel Macron a appelé, dimanche 15 novembre, en ouverture du sommet de l'Organisation internationale de la Francophonie (OIF), à l'\"unité\" et au \"consensus\", sur fond de vives tensions entre la République…",
+          "published": "2026-11-16T10:30:59+00:00"
+        },
+        {
+          "title": "Sexualité en Égypte : la révolution silencieuse sur les réseaux sociaux",
+          "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261116-sexualit%C3%A9-en-%C3%A9gypte-la-r%C3%A9volution-silencieuse-sur-les-r%C3%A9seaux-sociaux",
+          "source": "France 24",
+          "summary": "En Égypte, une révolution sexuelle est en marche, discrètement, sur les réseaux sociaux. Des comptes suivis par des dizaines de milliers de personnes et des publications vues des millions de fois parlent de tous les…",
+          "published": "2026-11-16T10:16:52+00:00"
+        },
+        {
+          "title": "Depardieu se désiste de son procès en appel pour agressions sexuelles et présente ses \"excuses\"",
+          "link": "https://www.france24.com/fr/france/20261116-g%C3%A9rard-depardieu-se-d%C3%A9siste-proc%C3%A8s-appel-agressions-sexuelles-pr%C3%A9sente-excuses",
+          "source": "© Stéphanie Lecocq, Reuters",
+          "summary": "Dans un communiqué intitulé \"J'entends\" et publié lundi, Gérard Depardieu a annoncé \"assumer\" sa condamnation à 18 mois de prison avec sursis prononcée en mai 2025 pour deux agressions sexuelles commises sur le tournage…",
+          "published": "2026-11-16T10:11:54+00:00"
+        },
+        {
+          "title": "L’élection du secrétaire général de l’Organisation internationale de la francophonie reportée d’un an",
+          "link": "https://www.lemonde.fr/afrique/article/2026/11/16/l-election-du-secretaire-general-de-l-organisation-internationale-de-la-francophonie-reportee-d-un-an_6811682_3212.html",
           "source": "Le Monde",
-          "summary": "L’objectif présenté par le président ukrainien est de définir la position européenne dans de futurs pourparlers avec Moscou. Par ailleurs, l’Estonie a annoncé la fermeture de ses frontières avec la Russie à compter du…",
-          "published": "2026-11-16T00:20:00+00:00"
+          "summary": "Ce report a lieu dans le contexte d’un bras de fer entre la RDC et le Rwanda. La sortante rwandaise, Louise Mushikiwabo, candidate à un troisième mandat, restera en poste jusqu’à la tenue du nouveau scrutin, pour lequel…",
+          "published": "2026-11-16T09:43:11+00:00"
         },
         {
-          "title": "Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête de Nvidia",
-          "link": "https://www.france24.com/fr/%C3%A9co-tech/20261116-elon-musk-uber-spacex-epic-games-157000-signataires-reclament-retour-jensen-huang-tete-nvidia-intelligence-artificielle-lettre-ouverte-enquete-independante",
-          "source": "© Evan Vucci, Reuters",
-          "summary": "Plusieurs patrons de la Silicon Valley, dont Elon Musk et Tim Sweeney, font partie des 157 000 signataires d'une lettre ouverte qui demande le retour de Jensen Huang à la tête de Nvidia, \"pendant qu'une enquête…",
-          "published": "2026-11-16T00:11:15+00:00"
-        },
-        {
-          "title": "Au Cap-Vert, José Maria Neves réélu président dès le premier tour",
-          "link": "https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html",
-          "source": "Le Monde",
-          "summary": "Le président sortant, favori pour un deuxième mandat de suite, l’a emporté dès le premier tour, dimanche, avec plus de 63 % des voix dans cet archipel lusophone réputé pour sa stabilité démocratique.",
-          "published": "2026-11-16T00:03:59+00:00"
-        },
-        {
-          "title": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
-          "link": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
-          "source": "Le Monde",
-          "summary": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face aux allégations de…",
-          "published": "2026-11-15T23:22:46+00:00"
-        },
-        {
-          "title": "Alpinisme : l'expédition du Jannu Est, \"un tournant\" pour Benjamin Védrines",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-alpinisme-l-exp%C3%A9dition-du-jannu-est-un-tournant-pour-benjamin-v%C3%A9drines",
+          "title": "Les Bleus affrontent la Turquie pour le retour de Zinédine Zidane à Bordeaux",
+          "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261116-les-bleus-affrontent-la-turquie-pour-le-retour-de-zin%C3%A9dine-zidane-%C3%A0-bordeaux-1",
           "source": "France 24",
-          "summary": "Après huit mois loin de la scène médiatique, l'alpiniste Benjamin Védrines fait son retour en cette fin 2026. Au côtés d'un autre alpinistre français Nicolas Jean, il vient de remporter le Piolet d'Or, l'une des plus…",
-          "published": "2026-11-15T22:58:04+00:00"
+          "summary": "Pour son dernier match de groupe en Ligue des nations, l'équipe de France devra éviter la défaite contre la Turquie à Bordeaux pour s'assurer une place en quarts de finale. De retour de blessure, Kylian Mbappé est…",
+          "published": "2026-11-16T09:35:59+00:00"
         },
         {
-          "title": "Le baron de la drogue mexicain Miguel Ángel Félix Gallardo est mort",
-          "link": "https://www.france24.com/fr/am%C3%A9riques/20261115-baron-de-drogue-mexicain-miguel-angel-felix-gallardo-mort-narcotrafic-hopital-prison-guadalajara",
-          "source": "© PGR, AFP",
-          "summary": "Considéré comme l'un des plus puissants chefs du narcotrafic, Miguel Ángel Félix Gallardo est décédé dimanche dans un hôpital, où il avait été transféré en urgence, rapportent les autorités. Depuis 1989, il purgeait…",
-          "published": "2026-11-15T22:42:26+00:00"
+          "title": "La \"paix mondiale\" au menu de la rencontre trilatérale en Chine entre Xi, Trump et Poutine",
+          "link": "https://www.france24.com/fr/asie-pacifique/20261116-paix-mondiale-menu-rencontre-trilat%C3%A9rale-chine-xi-trump-poutine",
+          "source": "© AFP",
+          "summary": "Prévue jeudi en marge du sommet de l'Apec à Shenzhen, la première rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine devrait aborder la problématique de la \"paix mondiale\", a fait savoir Pékin. Selon des…",
+          "published": "2026-11-16T09:25:06+00:00"
         },
         {
-          "title": "Ligue des nations : la France souffre contre la Turquie mais arrache sa qualification en quarts",
-          "link": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-la-france-se-qualifie-dans-la-douleur-contre-la-turquie",
-          "source": "© AFP / FRANCK FIFE",
-          "summary": "L'équipe de France s'est défaite dans la douleur de la Turquie (2-1) pour assurer sa qualification en quarts de finale de Ligue des nations, dimanche 15 novembre à Bordeaux. En parallèle, la large victoire de la…",
-          "published": "2026-11-15T22:40:17+00:00"
-        },
-        {
-          "title": "Ebola en RDC : 55 471 décès pour 11 197 cas cumulés ont été recensés en six mois",
-          "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261115-ebola-en-rdc-55-471-d%C3%A9c%C3%A8s-pour-11-197-cas-cumul%C3%A9s-ont-%C3%A9t%C3%A9-recens%C3%A9s-en-six-mois",
+          "title": "Francophonie : une puissance économique encore sous-exploitée",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-francophonie-une-puissance-%C3%A9conomique-encore-sous-exploit%C3%A9e",
           "source": "France 24",
-          "summary": "En RD Congo, six mois que sévit l’épidémie d’Ebola. Déclarée officiellement le 15 mai dernier, cette 17ᵉ épidémie est devenue, en quelques mois, la plus meurtrière de l’histoire du pays, qui compte plus de 100 millions…",
-          "published": "2026-11-15T22:17:57+00:00"
+          "summary": "Avec 16,5 % du PIB mondial et 20 % du commerce mondial de marchandises, les 90 États et gouvernements de la francophonie représentent un formidable potentiel économique.",
+          "published": "2026-11-16T09:22:28+00:00"
         },
         {
-          "title": "Présidentielle 2027 : un champion olympique à l'Elysée ?",
-          "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
-          "source": "France 24",
-          "summary": "Au menu de Présidentielle 2027 : la candidature de Teddy Riner, Marine Le Pen toujours en tête des sondages, et pas de candidat unique pour la droite et le centre… Avec Emilie Zapalski, éditorialiste politique et…",
-          "published": "2026-11-15T21:48:27+00:00"
+          "title": "Thierry Breton: «Il faut que l'Europe parle d'une seule voix» dans les négociations sur l'Ukraine",
+          "link": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261116-thierry-breton-il-faut-que-l-europe-parle-d-une-seule-voix-dans-les-n%C3%A9gociations-sur-l-ukraine",
+          "source": "RFI",
+          "summary": "Thierry Breton, ancien ministre de l'Économie et des Finances, ancien Commissaire Européen, auteur de « Seuls- Face aux empires » (Plon) est l'invité de RFI ce 16 novembre 2026. Il fait le constat de la solitude des…",
+          "published": "2026-11-16T09:20:11+00:00"
         },
         {
-          "title": "Ligue des nations : la France se qualifie en quarts dans la douleur contre la Turquie",
-          "link": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie",
-          "source": "France 24",
-          "summary": "L'équipe de France s'est défaite dans la douleur de la Turquie (2-1) pour assurer sa qualification en quarts de finale de Ligue des nations, dimanche 15 novembre à Bordeaux. En parallèle, la large victoire de la…",
-          "published": "2026-11-15T21:44:28+00:00"
+          "title": "Le XV de France héroïque, la reine Andreeva, les Bleus qualifiés : les infos sport du week-end",
+          "link": "https://www.france24.com/fr/sports/20261116-xv-france-rugby-andreeva-tennis-football-bleus-qualification-zidane",
+          "source": "© Studio graphique FMM",
+          "summary": "L'équipe de France s'est qualifiée dimanche pour les ⁠quarts de finale ​de la Ligue des nations à la suite de sa victoire contre la Turquie (2-1), malgré une prestation mitigée. Le XV de France a remporté une victoire…",
+          "published": "2026-11-16T09:13:18+00:00"
         }
       ]
     },
@@ -84,74 +84,74 @@
       "label": "Quebec",
       "items": [
         {
-          "title": "Rangers de New York | Lafrenière a diversifié son portefeuille",
-          "link": "https://www.lapresse.ca/sports/hockey/2026-11-15/rangers-de-new-york/lafreniere-a-diversifie-son-portefeuille.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Entrevue avec la ministre de la Santé | La haute direction de Santé Québec sera abolie",
+          "link": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Ceux qui ont veillé tard vendredi en ont eu pour leur argent. En fin de deuxième période d’un match à Vancouver, Alexis Lafrenière a orchestré, puis complété, une descente à trois contre deux.",
-          "published": "2026-11-16T00:10:38+00:00"
+          "summary": "La nouvelle ministre de la Santé du Québec, Marie-Karlynn Laflamme, a tranché : Santé Québec ne sera plus une société d’État et sa structure de gestion sera démantelée, dans l’objectif de mettre fin au « mur-à-mur » et…",
+          "published": "2026-11-16T10:00:00+00:00"
         },
         {
-          "title": "Quatre pays occidentaux appellent Israël à permettre un accès humanitaire à Gaza",
-          "link": "https://www.ledevoir.com/monde/moyen-orient/1025189/quatre-pays-occidentaux-appellent-israel-permettre-acces-humanitaire-gaza",
-          "source": "Le Devoir",
-          "summary": "Gaza est frappée par des pluies diluviennes qui ont entraîné l’inondation de dizaines de milliers de tentes de déplacés.",
-          "published": "2026-11-16T00:04:00+00:00"
-        },
-        {
-          "title": "Coupe Grey | Deuxième quart | Alouettes 10 – Elks 14",
-          "link": "https://www.lapresse.ca/sports/football/2026-11-15/coupe-grey-deuxieme-quart/alouettes-10-elks-14.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Salubrité alimentaire | Des crottes de souris avec ça ?",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-16/salubrite-alimentaire/des-crottes-de-souris-avec-ca.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Suivez et commentez en direct la finale de la 113e Coupe Grey 2026 opposant les Alouettes de Montréal aux Elks d’Edmonton avec notre journaliste Jean-Philippe Arcand.",
-          "published": "2026-11-15T23:30:00+00:00"
+          "summary": "Ark ! J’ai mangé du pain et des croissants fabriqués dans une boulangerie remplie de crottes de souris.",
+          "published": "2026-11-16T10:00:00+00:00"
         },
         {
-          "title": "Un homme est tué dans une fusillade à Granby",
-          "link": "https://www.ledevoir.com/actualites/societe/1025150/homme-est-tue-fusillade-granby",
-          "source": "Le Devoir",
-          "summary": "Une femme a aussi été grièvement blessée à la suite de cette fusillade survenue samedi soir dans une résidence.",
-          "published": "2026-11-15T22:33:43+00:00"
-        },
-        {
-          "title": "Comment SpaceX a réussi à récupérer «Starship» pour la première fois",
-          "link": "https://www.ledevoir.com/actualites/science/1025147/comment-spacex-reussi-recuperer-starship-premiere-fois",
-          "source": "Le Devoir",
-          "summary": "«Le Devoir» fait le point avec Patrick Germain, directeur du Département de génie aérospatial de l’ETS.",
-          "published": "2026-11-15T22:17:00+00:00"
-        },
-        {
-          "title": "«Inside Gaza» reçoit le prix du meilleur documentaire au festival Cinemania",
-          "link": "https://www.ledevoir.com/culture/cinema/1025144/inside-gaza-recoit-prix-meilleur-documentaire-festival-cinemania",
-          "source": "Le Devoir",
-          "summary": "Ce film suit le quotidien de quatre journalistes de l’AFP qui témoignent de l’extrême difficulté d’exercer leur métier.",
-          "published": "2026-11-15T21:30:54+00:00"
-        },
-        {
-          "title": "Le Canada et les États-Unis ont rendez-vous en finale du Mondial de hockey féminin",
-          "link": "https://www.ledevoir.com/sports/1025141/canada-etats-unis-ont-rendez-vous-finale-mondial-hockey-feminin",
-          "source": "Le Devoir",
-          "summary": "Le Canada s’est qualifié en s’imposant 3-0 contre la Suède en demi-finale.",
-          "published": "2026-11-15T21:04:00+00:00"
-        },
-        {
-          "title": "L’ancien député fédéral Mike Morrice a été élu chef du Parti vert",
-          "link": "https://www.ledevoir.com/politique/canada/1025138/ancien-depute-federal-mike-morrice-ete-elu-chef-parti-vert",
-          "source": "Le Devoir",
-          "summary": "M. Morrice a été député de Kitchener-Centre de 2021 à 2025, mais a perdu son siège lors des dernières élections.",
-          "published": "2026-11-15T20:59:37+00:00"
-        },
-        {
-          "title": "La violoniste Leila Schayegh en deçà des espérances",
-          "link": "https://www.ledevoir.com/culture/musique/1025135/violoniste-leila-schayegh-deca-esperances",
-          "source": "Le Devoir",
-          "summary": "La violoniste suisse ne réitère pas son opération séduction de 2024.",
-          "published": "2026-11-15T20:44:00+00:00"
-        },
-        {
-          "title": "Pluies diluviennes dans la bande de Gaza | Le Canada et d’autres pays demandent un accès humanitaire « immédiat »",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-11-15/pluies-diluviennes-dans-la-bande-de-gaza/le-canada-et-d-autres-pays-demandent-un-acces-humanitaire-immediat.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "title": "Chantiers de construction | Quand la pression monte pour protéger les tuyaux",
+          "link": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/chantiers-de-construction/quand-la-pression-monte-pour-proteger-les-tuyaux.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
           "source": "La Presse",
-          "summary": "Les chefs de la diplomatie de quatre pays occidentaux, dont le Canada, ont appelé dimanche Israël à accorder aux organismes d’aide humanitaire un accès « immédiat, rapide et sans entrave » à la bande de Gaza, frappée…",
-          "published": "2026-11-15T20:18:51+00:00"
+          "summary": "Lorsque la fin imminente de la saison de la construction au Québec fait monter la pression sur les chantiers, vaut mieux prendre les précautions nécessaires pour éviter qu’elle ne fasse exploser des conduits.",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "title": "La mort de Fernand Tanguay",
+          "link": "https://www.lapresse.ca/actualites/chroniques/2026-11-16/la-mort-de-fernand-tanguay.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Fernand Tanguay avait 87 ans et il est apparemment mort d’avoir attendu aux urgences. Une mort indigne dans le demi-pays qui a inventé le concept de mourir dans la dignité.",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "title": "Les garderies de Québec en manque d’ombre",
+          "link": "https://www.lapresse.ca/actualites/environnement/2026-11-16/les-garderies-de-quebec-en-manque-d-ombre.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "À Québec, la vaste majorité des services de garde ont un indice de canopée inférieur à la cible que s’est fixée la Ville. Plusieurs n’ont même aucun arbre pour faire de l’ombre sur leur terrain. C’est le constat d’une…",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "title": "Fortier, 19-2, Tout sur moi… | Pourquoi est-ce impossible de voir ces séries québécoises sur les plateformes ?",
+          "link": "https://www.lapresse.ca/arts/television/2026-11-16/fortier-19-2-tout-sur-moi/pourquoi-est-ce-impossible-de-voir-ces-series-quebecoises-sur-les-plateformes.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Parmi les 25 émissions québécoises les plus marquantes des années 2000 selon La Presse, quatre ne se trouvent sur aucune plateforme à l’heure actuelle.",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "title": "Immigration | 380 000 ou 662 000 nouveaux résidents permanents ?",
+          "link": "https://www.lapresse.ca/actualites/2026-11-16/immigration/380-000-ou-662-000-nouveaux-residents-permanents.php?utm_source=rss&utm_medium=manchettes&utm_campaign=accueil",
+          "source": "La Presse",
+          "summary": "Dans son dernier budget, le gouvernement Carney annonce une cible de 380 000 nouveaux résidents permanents en 2027. Mais en y regardant de plus près, ce nombre pourrait grimper jusqu’à 662 000. Un record. Ottawa…",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "title": "Faut-il reporter la consigne des bouteilles de vin et des cartons de lait?",
+          "link": "https://www.ledevoir.com/actualites/environnement/1025171/faut-il-reporter-consigne-bouteilles-vin-cartons-lait",
+          "source": "Le Devoir",
+          "summary": "La consigne doit s’appliquer au verre et au carton multicouche en mars, mais Québec pourrait repousser l’échéancier.",
+          "published": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "title": "La purification des listes électorales",
+          "link": "https://www.ledevoir.com/opinion/idees/1025177/purification-listes-electorales",
+          "source": "Le Devoir",
+          "summary": "Des milliers d’électeurs indiens enregistrés affirment que leur nom a été à tort effacé.",
+          "published": "2026-11-16T05:00:00+00:00"
+        },
+        {
+          "title": "Retourner aux États-Unis? Pas si vite, disent nos lecteurs.",
+          "link": "https://www.ledevoir.com/economie/1025153/retourner-etats-unis-pas-si-vite-disent-lecteurs",
+          "source": "Le Devoir",
+          "summary": "Pas de voyage sous une présidence de Donald Trump, pour la majorité des lecteurs du «Devoir» qui nous ont écrit.",
+          "published": "2026-11-16T05:00:00+00:00"
         }
       ]
     },
@@ -159,74 +159,74 @@
       "label": "France",
       "items": [
         {
-          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »",
-          "link": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
-          "source": "Le Monde",
-          "summary": "L’objectif présenté par le président ukrainien est de définir la position européenne dans de futurs pourparlers avec Moscou. Par ailleurs, l’Estonie a annoncé la fermeture de ses frontières avec la Russie à compter du…",
-          "published": "2026-11-16T00:20:00+00:00"
-        },
-        {
-          "title": "Au Cap-Vert, José Maria Neves réélu président dès le premier tour",
-          "link": "https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html",
-          "source": "Le Monde",
-          "summary": "Le président sortant, favori pour un deuxième mandat de suite, l’a emporté dès le premier tour, dimanche, avec plus de 63 % des voix dans cet archipel lusophone réputé pour sa stabilité démocratique.",
-          "published": "2026-11-16T00:03:59+00:00"
-        },
-        {
-          "title": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
-          "link": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
-          "source": "Le Monde",
-          "summary": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face aux allégations de…",
-          "published": "2026-11-15T23:22:46+00:00"
-        },
-        {
-          "title": "France-Turquie : poussifs mais qualifiés, les Bleus remplissent leur mission",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115",
+          "title": "Foot : meilleur buteur de l’histoire de la sélection belge, Romelu Lukaku prend sa retraite internationale",
+          "link": "https://www.lefigaro.fr/sports/football/foot-meilleur-buteur-de-l-histoire-de-la-selection-belge-romelu-lukaku-prend-sa-retraite-internationale-20261116",
           "source": "Le Figaro",
-          "summary": "Dans un match pas toujours maîtrisé, l’équipe de France a dominé la Turquie (2-1) et validé sa qualification en quarts de finale de la Ligue des nations.",
-          "published": "2026-11-15T23:10:25+00:00"
+          "summary": "Auteur de 94 buts en 135 sélections, l’attaquant belge tire sa révérence ce lundi, au terme d’une «belle aventure».",
+          "published": "2026-11-16T10:37:14+00:00"
         },
         {
-          "title": "Qualification, agacement et possibles retrouvailles avec l’Espagne : les vérités de Zidane après France-Turquie",
-          "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/qualification-agacement-et-possible-retrouvaille-avec-l-espagne-les-verites-de-zidane-apres-france-turquie-20261115",
+          "title": "EN DIRECT - Présidentielle 2027 : «Aucune banque française n’a voulu nous prêter» pour la campagne de Marine Le Pen, déplore Jean-Philippe Tanguy",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-edouard-philippe-emmanuel-macron-ukraine-teddy-riner-20261116",
           "source": "Le Figaro",
-          "summary": "Le sélectionneur de l’équipe de France, très pressé, a répondu aux questions des médias après la victoire contre la Turquie dimanche soir (2-1), synonyme de qualification en quart de finale de Ligue des nations.",
-          "published": "2026-11-15T23:09:45+00:00"
+          "summary": "Marine Le Pen est toujours largement en tête des intentions de vote au premier tour de la présidentielle, devant Jean-Luc Mélenchon qui s’installe à la 2e place, tandis qu’Édouard Philippe et Raphaël Glucksmann sont en…",
+          "published": "2026-11-16T10:37:03+00:00"
         },
         {
-          "title": "Les notes des Bleus face à la Turquie : Mbappé percutant, Da Cunha clairvoyant, Olise agaçant",
-          "link": "https://www.lefigaro.fr/flash-sport/les-notes-des-bleus-mbappe-percutant-da-cunha-clairvoyant-olise-agacant-20261115",
+          "title": "«Jean-Luc Mélenchon met des cibles dans le dos des journalistes», affirme le porte-parole du gouvernement Mathieu Lefèvre",
+          "link": "https://www.lefigaro.fr/politique/jean-luc-melenchon-met-des-cibles-dans-le-dos-des-journalistes-affirme-le-porte-parole-du-gouvernement-mathieu-lefevre-20261116",
           "source": "Le Figaro",
-          "summary": "Découvrez les notes de l’équipe de France après la victoire contre la Turquie (2-1) dimanche soir lors de la 6e et dernière journée de Ligue des nations.",
-          "published": "2026-11-15T23:09:43+00:00"
+          "summary": "Une équipe de BFMTV a été violemment agressée par des manifestants en marge du cortège lyonnais samedi après-midi lors de l’acte V du mouvement social, nécessitant l’intervention de la police pour les «protéger», a…",
+          "published": "2026-11-16T10:35:26+00:00"
         },
         {
-          "title": "Saint-Denis : le proviseur du lycée Paul-Éluard placé en «autorisation d’absence» après des menaces",
-          "link": "https://www.lefigaro.fr/actualite-france/saint-denis-le-proviseur-du-lycee-paul-eluard-place-en-autorisation-d-absence-apres-des-menaces-20261116",
+          "title": "«Guillaume Pley, agresseur» : la dernière représentation du «Legend Tour» perturbée dimanche par des militantes féministes",
+          "link": "https://www.liberation.fr/culture/scenes/guillaume-pley-agresseur-une-representation-du-legend-tour-perturbee-dimanche-par-des-militantes-feministes-20261116_XDXZGFJIXBGQNF3MNLRXFTYS3A/",
+          "source": "Liberation",
+          "summary": "L’animateur du podcast controversé «Legend» avait peu avant l’interruption, fait monter sur la scène de l’Adidas Arena, Nicolas Sarkozy. Le podcasteur a été mis en cause cet été dans plusieurs médias concernant des…",
+          "published": "2026-11-16T10:34:59+00:00"
+        },
+        {
+          "title": "Crise sociale : \"La République ce n'est pas l'impunité\", selon Edouard Geffray, en visite au lycée Nelson-Mandela de Nantes",
+          "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Le ministre de l'Education nationale s'est rendu lundi sur place, alors que le gouvernement durcit le ton face aux blocages des établissements scolaires notamment à Paris.",
+          "published": "2026-11-16T10:29:52+00:00"
+        },
+        {
+          "title": "EN DIRECT – Mobilisation lycéenne et étudiante : les rassemblements interdits autour de certains établissements en Ile-de-France",
+          "link": "https://www.liberation.fr/societe/education/en-direct-mobilisation-lyceenne-et-etudiante-les-rassemblements-interdits-autour-de-certains-etablissements-a-paris-20261116_3RW4TCVB55DSVFMBCL27WKJSEU/",
+          "source": "Liberation",
+          "summary": "La restriction s’applique de ce lundi 16 novembre à vendredi inclus, et vise notamment 10 lycées et 5 sites universitaires de la capitale. L’Unef conteste la décision de la préfecture de police et annonce saisir le…",
+          "published": "2026-11-16T10:28:57+00:00"
+        },
+        {
+          "title": "« Pour éviter un second tour Mélenchon-Le Pen, une primaire ouverte s’impose » : l’appel de 1000 élus locaux",
+          "link": "https://www.lefigaro.fr/vox/politique/pour-eviter-un-second-tour-melenchon-le-pen-une-primaire-ouverte-s-impose-l-appel-de-1000-elus-locaux-20261116",
           "source": "Le Figaro",
-          "summary": "Le proviseur est contesté par une partie du personnel de son établissement pour avoir, selon ses détracteurs, fait intervenir la police dans le lycée. Son départ temporaire est salué comme une «victoire» par des…",
-          "published": "2026-11-15T23:01:43+00:00"
+          "summary": "TRIBUNE - Pour conjurer l’hypothèse d’un second tour opposant le Rassemblement national à la France insoumise, plus de 1000 élus locaux de la droite et du centre appellent les candidats « qui rejettent le populisme » à…",
+          "published": "2026-11-16T10:28:22+00:00"
         },
         {
-          "title": "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
-          "link": "https://www.lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115",
+          "title": "« Je n’ai pas envie de te tuer, Monsieur Kessaci » : les derniers mots d’Amine Oualane au procès du triple narchomicide près de Marseille",
+          "link": "https://www.lefigaro.fr/marseille/je-n-ai-pas-envie-de-te-tuer-monsieur-kessaci-les-derniers-mots-d-amine-oualane-au-proces-du-triple-narchomicide-pres-de-marseille-20261116",
           "source": "Le Figaro",
-          "summary": "Face à la multiplication des blocages et des violences aux abords des établissements scolaires, la préfecture de police de Paris a pris un arrêté interdisant les rassemblements non déclarés dans un rayon de 100 mètres…",
-          "published": "2026-11-15T22:58:28+00:00"
+          "summary": "COMPTE RENDU D’AUDIENCE - Au moment de prendre une dernière fois la parole devant la cour d’assises des Bouches-du-Rhône, celui qui est présenté comme un cadre présumé de la DZ Mafia s’est adressé directement au…",
+          "published": "2026-11-16T10:27:59+00:00"
         },
         {
-          "title": "France-Turquie : le résumé de la qualification laborieuse des Bleus en quarts de finale de la Ligue des nations de football",
-          "link": "https://www.lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html",
-          "source": "Le Monde",
-          "summary": "L’équipe de France de football a dominé la Turquie (2-1), dimanche à Bordeaux, pour s’adjuger la première place du groupe A. Les Bleus connaîtront leurs adversaires en quarts de finale, vendredi, lors du tirage au sort…",
-          "published": "2026-11-15T22:24:18+00:00"
+          "title": "\"Petite martyre de l'A10\" : les frères et sœurs d'Inass Touloub demandent à une association de lutte contre les violences faites aux enfants de ne plus utiliser les photos de la petite fille",
+          "link": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loir-cher/blois/petite-martyre-de-l-a10-les-freres-et-s-urs-d-inass-touloub-demandent-a-une-association-de-lutte-contre-les-violences-faites-aux-enfants-de-ne-plus-utiliser-les-photos-de-la-petite-fille-3450105.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Mouv'Enfants a annoncé avoir été mis en demeure par les frères et sœurs d'Inass Touloub, connue comme \"la petite martyre de l'A10\". Le courrier exige la suppression des publications de l'association de l'image de la…",
+          "published": "2026-11-16T10:15:30+00:00"
         },
         {
-          "title": "«Nous n’avons pas été à la hauteur» : Amazon perd 40 satellites après une défaillance de la fusée Vulcan lors de son lancement",
-          "link": "https://www.lefigaro.fr/secteur/high-tech/nous-n-avons-pas-ete-a-la-hauteur-amazon-perd-40-satellites-apres-une-defaillance-de-la-fusee-vulcan-lors-de-son-lancement-20261115",
-          "source": "Le Figaro",
-          "summary": "La fusée Vulcan, qui transportait la plus importante cargaison de satellites jamais envoyée par Amazon, a subi une anomalie dix minutes après son décollage de Floride.",
-          "published": "2026-11-15T22:23:57+00:00"
+          "title": "Le chef de l'ONU appelle à agir contre les robots tueurs qu'il qualifie \"d'armes impitoyables\" lors d'une conférence à Genève",
+          "link": "https://www.franceinfo.fr/societe/armee-securite-defense/le-chef-de-l-onu-appelle-a-agir-contre-les-robots-tueurs-qu-il-qualifie-d-armes-impitoyables-lors-d-une-conference-a-geneve_8284571.html#xtor=RSS-3-[lestitres]",
+          "source": "France Info",
+          "summary": "Antonio Guterres souhaite un accord international qui impose des règles claires sur l'usage des armes létales autonomes dans les conflits futurs.",
+          "published": "2026-11-16T10:09:46+00:00"
         }
       ]
     },
@@ -234,88 +234,88 @@
       "label": "Veille technologique",
       "items": [
         {
-          "title": "Jensen Huang envisagerait un come-back chez Nvidia, malgré l’enquête en cours",
-          "link": "https://www.frandroid.com/marques/nvidia/3323691_jensen-huang-envisagerait-un-come-back-chez-nvidia-malgre-lenquete-en-cours",
+          "title": "SFR coupe à son tour la 2G : ce qui change pour vos vieux appareils",
+          "link": "https://www.frandroid.com/marques/sfr/3324205_sfr-coupe-a-son-tour-la-2g-ce-qui-change-pour-vos-vieux-appareils",
           "source": "Frandroid",
-          "summary": "Trois jours après avoir quitté Nvidia, Jensen Huang envisagerait déjà d'en reprendre les commandes, porté par une campagne de patrons de la Silicon Valley. Un retour qui se heurte pourtant à une enquête interne toujours…",
-          "published": "2026-11-15T21:19:47+00:00"
+          "summary": "SFR a lancé l'extinction de son réseau 2G le 15 novembre 2026, plus de trente ans après l'avoir ouvert. Elle sera terminée le 15 décembre. Sa 3G reste allumée jusqu'à fin 2028.",
+          "published": "2026-11-16T10:37:31+00:00"
         },
         {
-          "title": "Le FBI alerte sur l’usage de l’IA dans des attaques contre des clients de Microsoft 365",
-          "link": "https://www.clubic.com/actualite-639367-le-fbi-alerte-sur-l-usage-de-l-ia-dans-des-attaques-contre-des-clients-de-microsoft-365.html",
+          "title": "Black Friday sur les tablettes tactiles : quelles sont les meilleures offres (iPad, Galaxy Tab, Redmi Pad…) ?",
+          "link": "https://www.frandroid.com/bons-plans/3307077_black-friday-tablette-tactile-les-meilleures-offres-et-reductions",
+          "source": "Frandroid",
+          "summary": "À la recherche d'une tablette au meilleur prix ? Pour vous éviter de vous perdre parmi la multitude de promotions de ce début de Black Friday, nous avons sélectionné uniquement les meilleures offres du moment chez les…",
+          "published": "2026-11-16T10:36:11+00:00"
+        },
+        {
+          "title": "Xbox fête ses 25 ans en ressuscitant son mythique écran de démarrage de 2001",
+          "link": "https://www.frandroid.com/marques/microsoft/3324235_xbox-fete-ses-25-ans-en-ressuscitant-son-mythique-ecran-de-demarrage-de-2001",
+          "source": "Frandroid",
+          "summary": "Pour célébrer les 25 ans de Xbox, Microsoft fait revenir les animations de démarrage emblématiques de la première Xbox ainsi que de la Xbox 360.",
+          "published": "2026-11-16T10:35:02+00:00"
+        },
+        {
+          "title": "Pour le Black Friday, Amazon PULVÉRISE le prix du casque Sonos Ace, à 199€ (-56%)",
+          "link": "https://www.clubic.com/bons-plans-639433-black-friday-amazon-pulverise-le-prix-du-casque-sonos-ace-a-199--56.html",
           "source": "Clubic",
-          "summary": "Avec ARTEX, un logiciel de tests d’intrusion piloté par des agents d’intelligence artificielle, certains pirates sont passés en moins de trois heures d’un premier repérage à un accès privilégié au réseau attaqué, selon…",
-          "published": "2026-11-15T20:00:00+00:00"
+          "summary": "Amazon n’attend pas le Black Friday pour faire passer le Sonos Ace sous la barre des 200 €. Le casque est affiché à 199 € au lieu de 449 €, prix conseillé indiqué par Amazon, et notre test lui avait attribué 9/10 en…",
+          "published": "2026-11-16T10:35:00+00:00"
         },
         {
-          "title": "Avant la sortie de GTA 6, les joueurs de GTA 5 organisent une dernière balade à Los Santos",
-          "link": "https://www.numerama.com/pop-culture/2373859-avant-la-sortie-de-gta-6-les-joueurs-de-gta-5-organisent-une-derniere-balade-a-los-santos.html",
+          "title": "Google a mis 3 mois pour ajouter WhatsApp au HiLight des Pixel 11 Pro : le compte est loin d’y être",
+          "link": "https://www.frandroid.com/marques/google/3324275_google-a-mis-3-mois-pour-ajouter-whatsapp-au-hilight-des-pixel-11-pro-le-compte-est-loin-dy-etre",
+          "source": "Frandroid",
+          "summary": "Le HiLight des Pixel 11 Pro et Pixel 11 Pro XL s'allume désormais pour les messages WhatsApp. Les smartphones sont sortis en août, il y a plus de trois mois.",
+          "published": "2026-11-16T10:34:17+00:00"
+        },
+        {
+          "title": "Citroën 2 CV électrique : l’icône française à 15 000 € aura des dessous chinois Leapmotor",
+          "link": "https://www.frandroid.com/marques/citroen/3323801_citroen-2-cv-electrique-licone-francaise-a-15-000-e-aurait-des-dessous-chinois-leapmotor",
+          "source": "Frandroid",
+          "summary": "Attendue pour 2028, la future Citroën 2 CV devrait être développée en partie avec le constructeur chinois Leapmotor. Cela devrait permettre à la voiture électrique de viser un prix de départ proche de 15 000 euros.",
+          "published": "2026-11-16T10:34:03+00:00"
+        },
+        {
+          "title": "Black Friday Dreame : jusqu’à 1 060 euros de remise pour confier le ménage à la technologie [Sponso]",
+          "link": "https://www.frandroid.com/marques/dreame/3322921_black-friday-dreame-jusqua-1-060-euros-de-remise-pour-confier-le-menage-a-la-technologie",
+          "source": "Frandroid",
+          "summary": "Pour le Black Friday, Dreame annonce jusqu’à 1 060 euros de réduction à saisir sur de nombreux appareils connectés de son catalogue. Robots aspirateurs, aspirateurs-laveurs, aspirateur-balai et robot-tondeuse : tous ses…",
+          "published": "2026-11-16T10:31:00+00:00"
+        },
+        {
+          "title": "Pirater pour survivre : des agents IA malveillants ont raconté leurs attaques à Amazon sans le savoir",
+          "link": "https://www.numerama.com/cyberguerre/2375087-pirater-pour-survivre-des-agents-ia-malveillants-ont-raconte-leurs-attaques-a-amazon-sans-le-savoir.html",
           "source": "Numerama",
-          "summary": "À moins d'une semaine de la sortie de GTA 6, les fans de GTA 5 ont prévu de se retrouver une dernière fois dans les rues de Los Santos. Baptisé « The Last Ride », cet événement communautaire invite tout le monde à…",
-          "published": "2026-11-15T19:50:00+00:00"
+          "summary": "Les équipes d’Amazon alertent sur le détournement d’un outil conçu pour aider les entreprises à tester leur sécurité. Des pirates s’en servent pour voler des clés d’accès à des modèles d’IA, qui alimentent ensuite leurs…",
+          "published": "2026-11-16T10:30:00+00:00"
         },
         {
-          "title": "Black Friday en direct : suivez ici les dernières offres de la deuxième semaine du Black Month",
-          "link": "https://www.frandroid.com/bons-plans/3303871_black-friday-2026-notre-direct-pour-suivre-les-meilleures-offres-de-la-deuxieme-semaine-du-black-month",
-          "source": "Frandroid",
-          "summary": "Ce dimanche 15 novembre, le Black Friday bat son plein et les bonnes affaires continuent d'affluer. Entre Amazon, la Fnac, Darty, Boulanger et Cdiscount, il y a un tas d'offres intéressantes en ce moment, mais difficile…",
-          "published": "2026-11-15T19:00:26+00:00"
-        },
-        {
-          "title": "Test du eufy Baby Monitor E21 : la 4K s’invite dans la chambre de bébé",
-          "link": "https://www.frandroid.com/test/3322457_test-du-eufy-baby-monitor-e21-la-4k-sinvite-dans-la-chambre-de-bebe",
-          "source": "Frandroid",
-          "summary": "Avec son E21, eufy, la marque maison d’Anker, promet de surveiller bébé en 4K, avec ou sans Wi-Fi, et sans abonnement. Sur le papier, c’est le babyphone qu’on aurait aimé inventer à 3 h du matin. On l’a installé…",
-          "published": "2026-11-15T19:00:00+00:00"
-        },
-        {
-          "title": "Deux fois plus de failles de sécurité recensées en 2026 qu’en 2025",
-          "link": "https://www.clubic.com/actualite-639361-deux-fois-plus-de-failles-de-securite-recensees-en-2026-qu-en-2025.html",
-          "source": "Clubic",
-          "summary": "Depuis janvier, les organismes chargés de numéroter les failles de sécurité ont recensé plus de 100 000 nouvelles vulnérabilités, selon l’entreprise américaine VulnCheck, soit plus du double de toute l’année 2025. Et…",
-          "published": "2026-11-15T18:45:00+00:00"
-        },
-        {
-          "title": "DJI Romo P2 : noté 10/10, le meilleur aspirateur robot du moment roule sous les 1 000 € lors du Black Friday",
-          "link": "https://www.frandroid.com/bons-plans/3322533_dji-romo-p2-note-10-10-le-meilleur-aspirateur-robot-du-moment-roule-sous-les-1-000-e-lors-du-black-friday",
-          "source": "Frandroid",
-          "summary": "L'excellent DJI Romo P2, qui occupe la première place de notre classement des meilleurs aspirateurs robots du marché, profite d'une belle promotion chez plusieurs e-commerçants. Pendant le Black Friday, Cdiscount, la…",
-          "published": "2026-11-15T18:41:00+00:00"
-        },
-        {
-          "title": "Quels AirPods d’Apple choisir selon votre budget ? Le comparatif de la gamme 2026",
-          "link": "https://www.frandroid.com/guide-dachat/1995260_quels-modele-dairpods-choisir-notre-selection",
-          "source": "Frandroid",
-          "summary": "Apple ne vend plus que trois familles d'AirPods : les AirPods 5, les AirPods Pro 3 et le casque AirPods Max 2. Les générations précédentes se trouvent encore chez les revendeurs ou en reconditionné. Vous ne savez pas…",
-          "published": "2026-11-15T18:02:10+00:00"
-        },
-        {
-          "title": "Prime Video : livraison de fous rires garantie avec les 10 meilleures comédies",
-          "link": "https://www.numerama.com/pop-culture/2369627-prime-video-livraison-de-fous-rires-garantie-avec-les-10-meilleures-comedies.html",
+          "title": "L’Audi A4 électrique est repoussée à 2029, en partie pour une histoire de place pour les pieds",
+          "link": "https://www.numerama.com/vroom/2374973-laudi-a4-electrique-est-repoussee-a-2029-en-partie-pour-une-histoire-de-place-pour-les-pieds.html",
           "source": "Numerama",
-          "summary": "De la satire d'espionnage tricolore aux comédies britanniques, sans oublier la nostalgie des années 90 et l'humour noir vintage, Prime Video a de quoi faire rire dans tous les registres. Voici notre sélection des 10…",
-          "published": "2026-11-15T17:30:00+00:00"
+          "summary": "L'Audi A4 électrique n'entrerait pas en production avant 2029, un an plus tard que prévu, selon le magazine britannique Autocar. La faute à la plateforme SSP, la future base technique du groupe Volkswagen, dont le…",
+          "published": "2026-11-16T10:26:26+00:00"
         },
         {
-          "title": "Le Bitcoin s'est totalement effondré ces derniers jours. Une manipulation de marché ?",
-          "link": "https://www.clubic.com/actualite-639355-le-bitcoin-s-est-totalement-effondre-ces-derniers-jours-une-manipulation-de-marche.html",
-          "source": "Clubic",
-          "summary": "C'est une sale période pour l'or numérique, avec une chute très violente des cours ces derniers jours. Et certains y voient autre chose que la main invisible du marché !",
-          "published": "2026-11-15T17:17:00+00:00"
-        },
-        {
-          "title": "Microsoft bloque des mails sans prévenir, Google fait prouver la sécurité de Signal par 80 agents, OpenAI installe un bouton stop sur ses IA : on vous raconte la semaine Cyberguerre",
-          "link": "https://www.numerama.com/tech/2374157-microsoft-bloque-des-mails-sans-prevenir-google-fait-prouver-la-securite-de-signal-par-80-agents-openai-installe-un-bouton-stop-sur-ses-ia-on-vous-raconte-la-semaine-cyberguerre.html",
-          "source": "Numerama",
-          "summary": "Trois actualités à retenir cette semaine dans le cyberespace, un durcissement discret de Microsoft qui fait rejeter les mails de petites structures vers Hotmail et Outlook, Google qui démontre mathématiquement, avec des…",
-          "published": "2026-11-15T17:10:00+00:00"
-        },
-        {
-          "title": "Samsung Galaxy A27 vs Samsung Galaxy A26 : comment choisir le meilleur téléphone Samsung Galaxy A ?",
-          "link": "https://www.frandroid.com/marques/3308045_samsung-galaxy-a27-vs-samsung-galaxy-a26-comment-choisir-le-meilleur-smartphone",
+          "title": "La polyvalente Amazfit Balance 3 fait de l’ombre à la concurrence grâce à cette réduction de 35 euros pendant le Black Friday",
+          "link": "https://www.frandroid.com/bons-plans/3323931_la-polyvalente-amazfit-balance-3-fait-de-lombre-a-la-concurrence-grace-a-cette-reduction-de-35-euros-pendant-le-black-friday",
           "source": "Frandroid",
-          "summary": "Le Galaxy A27 remplace naturellement le Galaxy A26 dans le catalogue Samsung. Mais vaut-il vraiment mieux se diriger vers le dernier modèle en date pour faire une bonne affaire ? On étudie la question dans ce nouveau…",
-          "published": "2026-11-15T17:00:00+00:00"
+          "summary": "L'Amazfit Balance 3 est une montre connectée qui s'en sort bien sous l'eau, sur terre, mais aussi en intérieur grâce à des modes sportifs dédiés à l'Hyrox et à la musculation. Sur Amazon, elle est actuellement…",
+          "published": "2026-11-16T10:19:10+00:00"
+        },
+        {
+          "title": "GTA 6 : comment y jouer dès mercredi midi, un jour avant la sortie officielle",
+          "link": "https://www.frandroid.com/produits-android/console/3324281_gta-6-comment-y-jouer-des-mercredi-midi-un-jour-avant-la-sortie-officielle",
+          "source": "Frandroid",
+          "summary": "Sur Xbox Series S et Series X, régler la console sur la Nouvelle-Zélande permet de lancer GTA 6 ce mercredi 18 novembre à midi, douze heures avant sa sortie en France. Sur PS5, la même astuce bloque au niveau du compte…",
+          "published": "2026-11-16T10:17:41+00:00"
+        },
+        {
+          "title": "Pénurie de RAM : accusés d’entente secrète, Samsung, SK Hynix et Micron ont encore du souci à se faire",
+          "link": "https://www.frandroid.com/produits-android/hardware/memoire/3323973_penurie-de-ram-accuses-dentente-secrete-samsung-sk-hynix-et-micron-ont-encore-du-souci-a-se-faire",
+          "source": "Frandroid",
+          "summary": "Une juge fédérale américaine a refusé de classer la plainte qui accuse Samsung, SK Hynix et Micron d'avoir organisé la pénurie de RAM. Pour elle, une entente entre les trois fabricants est « plausible ». Ils…",
+          "published": "2026-11-16T10:15:06+00:00"
         }
       ]
     }
@@ -325,284 +325,284 @@
       "label": "Actualites diabete",
       "items": [
         {
-          "title": "1 in 14 residents has diabetes, SSM survey finds",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYkQ5Y3kwR1FwN2JwQ2FnQ0VjRTJoU1U4VEhXMTI4bGZwUjg1d1JFc0pHZXFkNUp1S0dUZEhLVi1lOWx5cXY4M0dBSkFES29NTGlROHlPWkJVLXJlVGppTEk0ek9jeVNsS19BQUotZkJiQm5RdWJQS2NRSWhLQWZWRUVGZ0dPOUxUaDNv?oc=5",
-          "source": "macau daily times 澳門每日時報",
-          "summary": "1 in 14 residents has diabetes, SSM survey finds macau daily times 澳門每日時報",
-          "published": "2026-11-16T00:43:32+00:00"
+          "title": "How Some Dogs Can Smell a Dangerous Blood Sugar Drop",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnZBVjNfRk5NQnJEdE5jZi1pdkZIWWljeFJlM3pndmpKSTRnOGI1dU0xU24tbVVvMlpTbnFJWkdoUU12M3Zldm8yckhyenFtUXVKSWZmellvU3J2THBVX2R6UDRFRDhpQzdNbTJ3ajVQdzV5MHIzYWdNdFg0X0lCcVVrRWhCS3ljRU90Zk1YSl84RlRyNGdmRl9EUWNZX2I1a0RGZC1pMUlHYWpEQ092dQ?oc=5",
+          "source": "Yahoo Health",
+          "summary": "How Some Dogs Can Smell a Dangerous Blood Sugar Drop Yahoo Health",
+          "published": "2026-11-16T10:36:00+00:00"
         },
         {
-          "title": "Gestational Weight Gain Slows After Diabetes Diagnosis Across Maternal BMI Groups",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMl9MSzhiOUdsYmtwWWlyME1xWDlRcm5VXy04bDl0NDVORzRibE8xRzBncVBmblNDWDUycWgyUFBOOHpDbUhyU1NlNzBGR1BJQUs3dkUzNzlnX0hKajdDeWpHWnVwbTRrZzVvRk1tT1llV3lBNmUyUE45QVUtN0c5UzNJUkRTTTRUcFJzUE0zcnc2T3UyOGZGbTdIb3NhQ3EyVXhaUmJNZTZ0Zw?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Gestational Weight Gain Slows After Diabetes Diagnosis Across Maternal BMI Groups Bioengineer.org",
-          "published": "2026-11-16T00:40:29+00:00"
+          "title": "71pc of Afghans with diabetes unaware of condition: MoPH",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1hZemVZd1dlaGt1SXN1XzNkdlFVRlRnTHZGNUswNmNqS05CdTlBLVpsVzlzbzgxUTBjT0k3b3VuSjhqbkhDaUdBZGptLXlnZjhQbmdjMnJaRDBtNGFPODBMZ2ZRRnlkQTNyQll2eHNzTWxaNHdXLS1sMWtJMjhWc2RITVQxNkJVMW56UVp0cFg?oc=5",
+          "source": "Pajhwok Afghan News",
+          "summary": "71pc of Afghans with diabetes unaware of condition: MoPH Pajhwok Afghan News",
+          "published": "2026-11-16T10:28:22+00:00"
         },
         {
-          "title": "Major Amputations for Diabetic Foot Disease Linked to High Long-Term Mortality",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1HLTNJc3FKbGJTV3Y2YkhHT0VDWTVQNHd0aHNSVzRxNnhoMlRKZVl3QThFVVYwLWQxdzlMZkNjNGpWWm9NMThzWXJfNG1BVmFkWVpZVTU3X255Vk5nM2xqT3RKa21NVTRIYkM0Q1hXS2xySV80R003QWRyWFc1eTFuTEEtSWdlWjVLWjItRVVZSjhSOW1Zc2FORXJJdXJoOWZaN3l3?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Major Amputations for Diabetic Foot Disease Linked to High Long-Term Mortality Bioengineer.org",
-          "published": "2026-11-16T00:25:59+00:00"
+          "title": "OU diabetes center director brings new research, vision to Oklahoma",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXVKWjk5eVN6WHNMd1U4X3Bmb0JQTHI1THRZTTR0dF9DR09GTHpqUTRuMGcxWjVXcGQwWHd0b1lxcERMRUNRSjkxN05ZbTFaOTVPcVBCVmV1OEZoRlp2TkVZb096T3h6NURxQlMxY3cwTVlJaU9GbzdnZGhXQ1NSbVVUT2ExUTFzWHcyRmxHWUU0VnlQZklSZG1uZHJ2dmg4eHplSlU2RVpmdw?oc=5",
+          "source": "KOSU",
+          "summary": "OU diabetes center director brings new research, vision to Oklahoma KOSU",
+          "published": "2026-11-16T10:26:31+00:00"
         },
         {
-          "title": "Liver Decoy Targeting MicroRNA Cluster Restores Metabolic Balance in Diabetic Mouse Models",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenktb3FQdVlzNnBEYWJkajhGb3dwQlo3S3h4RDdMVkZsVXkwVkp2TzFmWjdmZVZLNmEwZlpvV3g4U3hRb1ZNaVNOclo0cWo2RHlpNWJTNnU2SFNWczFITi02RkNabmxPVHBOUW5vWXg0TXA3cEg5X1p1ck9JOHV0Nm05emNCd3g3ekpfUGxxSDhZSG9Ycl84WnFQWWdDOFM1MC1TcVNDUXFWSVlKQ29hdjdoZUJDQQ?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Liver Decoy Targeting MicroRNA Cluster Restores Metabolic Balance in Diabetic Mouse Models Bioengineer.org",
-          "published": "2026-11-16T00:25:59+00:00"
+          "title": "For Your Health: Managing diabetes during the holidays",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa1BNbTJPOEZUeHFRM2ZhUTlpc0puSGFRbXh4TERSN1h5MDJrZ285RTdlM1h0RUFLbXFycS1FZ3ZDRGI2OGZLNE9KdXFMbFJGb2ZtSVh0XzFBeVRjWGFpcU9xY0RtYVpCNmhVNjRTVUpkUXhBODllTEVUWnRaVzVWVjZuZmRaX0RfSUk1RUtXTnVpMDE1Yk1RYTB6akxWSTNtVzItaWl4bkpzc1B6QThOWTdtOGZ3Z1RFLUhaTGltN0lkZlM1dkRwVzRPODhaWXhiY0xnZ293WmtaSGc?oc=5",
+          "source": "Daily Republic",
+          "summary": "For Your Health: Managing diabetes during the holidays Daily Republic",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "title": "Supporting youths with type 1 diabetes as they transition to adulthood",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1BTWWxWWFk5SlhHc21hZjM5TElQSzJDRzQ5WC1PaGtSWFJqamJmR09nZGF6ZXduM2lIeWJQU0Q1XzZaZm15X0lSWkY3d0wxc1VNUXJuVmtFdnhheW1JQmFLUzllLWd0aVR4QXVINFlEdDNURXJzZWI4UzNRTHlIbS0yRko4aGRoeE10ZWp0el9xV0o3S1dZQU50UQ?oc=5",
+          "source": "Times of Malta",
+          "summary": "Supporting youths with type 1 diabetes as they transition to adulthood Times of Malta",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "title": "Près de la moitié des personnes atteintes ignorent leur maladie : 2,7 millions d’adultes vivent avec le diabète au Maroc",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPek5pRmJKWl8zaUI1SldjNVNkT3FTamNuYXpBcEFzRTQwM0RiLXhGc1FjM3FuSXJvbG02M2xESGZsWm5MRFNFQ251U0hGTGI2dFA3UHFtNUIwdVI2LXdpS09fcE9kaFJPRlBJMHF6aWpKUUpTVzJNZ1lQeWtxTDZDOUNoamFGSWM2NVRjcks3Z29WQXlDYXZNQ2Y1aVFkeHpIZHBqME9RY3BKejVlY2wzMlZla0FoYlhpQWhRN1RfallrMFFnWEhHS3U3cWo5RzRUTGR5WXBsYXpFVS1YcXE0?oc=5",
+          "source": "Aujourd'hui le Maroc",
+          "summary": "Près de la moitié des personnes atteintes ignorent leur maladie : 2,7 millions d’adultes vivent avec le diabète au Maroc Aujourd'hui le Maroc",
+          "published": "2026-11-16T09:54:33+00:00"
+        },
+        {
+          "title": "World Health Organisation issues guidelines for adults living with type 1 diabetes.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNU5zeEpvZ2tKUmxaT0hjYTBBSDkwUjNCeXVVNjMwaVM3SFFTZjZPSV9URDJQSjdGdlpzZTQyOUptWXRJSkN2c0tMYzFlS0lyX3hBOEQ1N00wZmp3R0VUNW9lamJ2b1d4MHNuaUVnbndoUUpFVk4yb1RtR1ZwdllUcEdPX3dzTG1tNWlSbVp6YXVXYjRGM1hnbmtwQVlqeV9Za2tzamI3elplWUJOSnBFOUV2ZzNTUQ?oc=5",
+          "source": "power987.co.za",
+          "summary": "World Health Organisation issues guidelines for adults living with type 1 diabetes. power987.co.za",
+          "published": "2026-11-16T09:38:13+00:00"
+        },
+        {
+          "title": "Ce mardi 17 novembre, informez-vous sur le diabète à l’hôpital de Bayeux",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkkxQkhWakp0Ukx3ckwyM0VZS0pJX1NOSHpMeEh6WlRMVHZtbUdZM2o0VG9GWkJNRW80WGZXUXpxcHJaNDVUOFBGV3FwWVFLMDlWOXJiZ3kxNVh2eC1PVi1FYU5qRkdmYXE1SGFfclNFb184cWxlUzRZQkYzR2tpOTF5MnBwVGVyYVdTUUdkcEtQN0xxSUFFcU9MdGtUVXpmT052dVR5aEoxeTRkd1hieDVnVkp2MExQRDMyaVllQmR2UERHbThQSWpYWWt4a0tGT2x1UjhodnRpVmNFUlNj?oc=5",
+          "source": "Ouest-France",
+          "summary": "Ce mardi 17 novembre, informez-vous sur le diabète à l’hôpital de Bayeux Ouest-France",
+          "published": "2026-11-16T09:24:02+00:00"
         },
         {
           "title": "Prévention et gestion du diabète de type 2 : au-delà de la glycémie",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlUxSmxpYlpidExmRzJqbkRUUFFtNlFxU0JrYXJTYU54N0I3RWkzbklhLWNnaFh3QmtIaWNGdEQ2N1F0UWQ5S3ZTTzJWVTJIaC1XSXNpNW9mSW5sMjFHVG02N0FqSG5GblhId2VFTjZtN0VFbmVraTZxRGFFekhKWGdKa2c5OVpwWlg3Wg?oc=5",
           "source": "Le Devoir",
           "summary": "Prévention et gestion du diabète de type 2 : au-delà de la glycémie Le Devoir",
-          "published": "2026-11-16T00:23:54+00:00"
+          "published": "2026-11-16T09:23:54+00:00"
         },
         {
-          "title": "Health literacy matters in the fight against diabetes",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXNZY2RKWE9QeE9iN3VidzQ0TWF4M25hVU12cjlPc2Y4VFF0NUVOT015MDN4ekw1SkZZTWs3c1VhZUdFUFFTTkt2YWxvTkdFZUlrUHZGUFBwLUdjNEpDMFczSjBuRTA0RVgwVGJqX0djV2xXWElFYzFIb1kybERuZ1Y3MXBkUVVhWFE3c3VsOA?oc=5",
-          "source": "Daily Voice Of Asia",
-          "summary": "Health literacy matters in the fight against diabetes Daily Voice Of Asia",
-          "published": "2026-11-16T00:01:19+00:00"
+          "title": "DIABÈTE DE TYPE 2 : L’observance du traitement primordiale pour la prévention cardiaque",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmNiQVhwOWF6TEdjdFhaaGNfY25XZFFsR1IzTUpzTGg3WXh1VlM3UUwwM0N4NERSekUtbDRra2lvUTZvY3NmTURBeGEtbUZkNllkY3V0VTRUWmlGWWswSFpEWUJhaEdCa0l0WmUwYVduZnotSEhQQlM5c1pBUDI3b0Y5N2xzR0NTS19mdjk0UmJPb3YtNEFXUzhRaUJMOHk5eThFaHUtSHREWElQOGU5S0NoV2pibDE2OUVLMg?oc=5",
+          "source": "Santé log",
+          "summary": "DIABÈTE DE TYPE 2 : L’observance du traitement primordiale pour la prévention cardiaque Santé log",
+          "published": "2026-11-16T09:13:44+00:00"
         },
         {
-          "title": "Deer Park Family Hoping To Light The Way To A Cure For Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTJHN3FxUVlfUjZWSWRLNG5selVLSGJob2FmQWp5Qll4X3ZyQjNudElqeDcwUXBMOUxBWVRxNUFUQjZ1UGRhanVfbDZFWUtFeXV2b0xGS1JXSHlkMk5MTGU3dlIyaWZRczdfZ3RpMFhIVnhILXRrbWZSbnBSRG55c2ZrMnY1dEl6TVAwZUtHTUI3ZmFqbFdsaQ?oc=5",
-          "source": "News12 | Long Island",
-          "summary": "Deer Park Family Hoping To Light The Way To A Cure For Diabetes News12 | Long Island",
-          "published": "2026-11-16T00:00:49+00:00"
+          "title": "Young Rwandans living with diabetes share hopes, challenges| The New Times",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFhiOFhTS1ZZaC1ZSHNkN1VkZmlwTGs2Nzl2S2NWNEd2dVpPNnQtb01xdWRpcGRiZFRTV3pENXJUdjYyOHBJZ2pSdmVvbVV1MGh5eVYtbG5PRlVnM2RZSmdjc0pmNEJ6aTdxWHFsV2FUUk84RkVqdWRSeXBxUGVUd0ZfTExEZC16dUZhZHhCdnFXVnlGRVVOeTBTUUJDTnNQZjBGV2RueENEQVFLMHR2edIBtgFBVV95cUxNZ3pIZlZvOTY4RWtfenhoWjdUZkY5QlFlbDdLQjFGVEFKbGdKRDhBWEFFODJZRkJFd1RGVGRIMHQ2YzFqUkFqb05KWWtYcWV3WEVtNC1OcjVScG5oQ0VYa0JMWTNCbE94RllhdFc1UnZfc0V6Ry1xZlJUNjhUX1hGMkZvOGxYY3ZxZTZQZDdRWXkwRXJfV0FIU1VCRjJPUjVBem5Bck80dVA0Mnl1c0JtalRCdEN5Zw?oc=5",
+          "source": "The New Times",
+          "summary": "Young Rwandans living with diabetes share hopes, challenges| The New Times The New Times",
+          "published": "2026-11-16T09:08:51+00:00"
         },
         {
-          "title": "Why Blood Sugar Drops More Even with the Same GLP-1 Diabetes Drug: A 'Genetic Variant' Is Behind It",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHFjcXNQSnlkT3ZiU3F3RGtxSk1BbWlpVlpVQV9NREgzQk9CenBSQV96SUVjN3pLbDRtQjg1LUM2djdHTFRqU3FBQU9zRktIWFJUMDFUNU9QaExlX0plWDJ5ZGdpYnE2OU8yVlMxQVd2a0xWeGgzcDNaczFWMjM3dw?oc=5",
-          "source": "스포츠조선",
-          "summary": "Why Blood Sugar Drops More Even with the Same GLP-1 Diabetes Drug: A 'Genetic Variant' Is Behind It 스포츠조선",
-          "published": "2026-11-15T23:32:08+00:00"
+          "title": "AEYE Health wins healthcare innovation award for AI-powered diabetic eye screening technology",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHRNMXJKNG5KSlJwcmNHdERHYXlkbHFzQTM5SFZHRFRPd09PdHFKVXJVOUFWTTlxZHBhbDFkTXRIQi1EMERjQ0FXbXotZG1xUDVCQjA5WS1iVkRwc1pMSGVYNFNWbFkzSGtrRmU1REZpOGhxbXV0NWhtUy1TQm8wZ0F4c3k1U0xYeW9sTDA4U1lsQzJibmc3M2R1LTNXeG5TS2NrM0hubU9Mb0MwaTdjZ1pSSjE?oc=5",
+          "source": "THIIS Magazine",
+          "summary": "AEYE Health wins healthcare innovation award for AI-powered diabetic eye screening technology THIIS Magazine",
+          "published": "2026-11-16T09:07:42+00:00"
         },
         {
-          "title": "Diabète : Vaste mobilisation pour le dépistage et la prévention à Oran",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOUxQbjhESGdiUXJvWDFwV3R5cjlzWm9vWU9FbHpVRzV3N3Z5UFVZUUpZMXJURGd0Q3E3aXphWS1rNVFHb3BJWm1SNy1XZjBPc0V3SVpSZ1NBdlhJNmRsZ3FBWWRfYlIzcWNJR05yZE5wYkRRWlNtZ1NzUVhIY2NMaklXRE9hSlRqdC1EdXAtTEx3Y3VvVHNITW5oWU1aZWp0aENB?oc=5",
-          "source": "Le Courrier d'Algérie",
-          "summary": "Diabète : Vaste mobilisation pour le dépistage et la prévention à Oran Le Courrier d'Algérie",
-          "published": "2026-11-15T23:04:00+00:00"
+          "title": "Journée de prévention du diabète à Saint-Joseph",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1TGlZM1h4VHpWbzhuS05RSk1Dd05NNTF0a1FoalZlMUxfa2FXRjR5NlkyRVJBZ2ozZHRhNWFwRS1hc3RFWVk3U0hyaVNnUkNQdFNnLTJmQWdWV2Jlb1Q1ZkFxWEktVEtrdWdIZGtvNjNWZ2owZ2RoV010MW9lTE0?oc=5",
+          "source": "Zinfos974",
+          "summary": "Journée de prévention du diabète à Saint-Joseph Zinfos974",
+          "published": "2026-11-16T09:05:03+00:00"
         },
         {
-          "title": "Signaling Axis Involving CXCL12 Coordinates Keratinocyte Migration in Diabetic Wound Repair",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVJGN2FEVkVVZG1NUEZIV1JRN2Q5dXJWOUxhNWZVN3lkMUhhZGtlZW9RLTBPelgwc0thWVFUbGwxNHFPUHFoRG5ONk42cmFrV1NpVnJHZlEyem9OZThtd1dOaDF0bTE2RDNIell0RHVFQno3Rko3TVZIZDk0WG1JdWJTMi1YamJqYjlzXzNxcWNmcHdmdlpNdEVaUGdGTXMwUVgxYlRONnlVOGtVTmMyU2pSTnRBRkU?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Signaling Axis Involving CXCL12 Coordinates Keratinocyte Migration in Diabetic Wound Repair Bioengineer.org",
-          "published": "2026-11-15T22:56:39+00:00"
+          "title": "Indian research links air pollution to heart disease, diabetes and more",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzUtaWF4dWtVZGdyWUhNQjdveVhzdE5zQlFlMnpfXzhSSFFpSlpVS29qb2ZISml4YmgzcTlJbjd6V1dXOEkwT1VFcXZPaENySHh5YzJMRnZ2RGdnaHBHQVc2Mk5SM2JSVmlocHAyNjVPTGFuREMxS2t2UnZBXzBSZGpjUE9Pbl9QWWtiMG9PWV9BM1JqRFVRalBCZUtFa3ZpclJHYjBuUzloN0F5czlQcExpd2tqVHVHRjZMbXNjYmljMW81NG0ycdIBzgFBVV95cUxQUThOVmNNaFB1TERoUHFfMlpwU2R0WUJHVmlzQnhqejdsNGtjR1ptU1ktVllKU0sxUW12aXdQSDlYd2dDOWhLZTh6ZlRnak8zV0Mtb3ZGYVlpTXBORzhYb3lXSGtySWRGRUExTlUxS0l2YmFHMVRtUWhmaGVlNW1HTFhMZVkwdzNzVDZWN0RCWVhlOWtVaWVZejRNb2h3akVKakhwd3MtTGwtNkIyaURsOUdzNTREbGtjZHpvcW1IQ2J4WUlKUUlMb05kUzI0UQ?oc=5",
+          "source": "India Today",
+          "summary": "Indian research links air pollution to heart disease, diabetes and more India Today",
+          "published": "2026-11-16T08:45:50+00:00"
         },
         {
-          "title": "This is Beth, her 13-year-old son tragically died as a result of undiagnosed diabetes 💔 Beth had no family history of diabetes when her healthy 13-year-old son Peter Baldwin texted her from a school trip in Germany in December 2014 to say he felt really thirsty.",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVXZWSHdQOFNYcmdHbXJ6d2dKcDIzQUZKWFdCaUpUVWpnUWp4LU5pdnd0VkxIbkdQWkUtZ2w2aERtZlJNSmtVY0FxSXdIQ1ZYdGpBZ1JEQWlDRXh1MEpaM2E2cEFyTU9xeTY1ZEt2MEtJckdQb3RqUG9PSm9qX3NwYXFXa2x3ZzdUZ0s2Qmd1TXBxclhJTGoyZGhGd2wtWmhwWTU4eUUxOS1ReTd4Zjl4RTVvV0RTUUMtalRndTRRWDZ3Nm9uWnpYdGZIMGZhVFV3NDVSMmRpVW1raHdQZUpYZ2dBcFlhdw?oc=5",
-          "source": "Facebook",
-          "summary": "This is Beth, her 13-year-old son tragically died as a result of undiagnosed diabetes 💔 Beth had no family history of diabetes when her healthy 13-year-old son Peter Baldwin texted her from a school trip in Germany in…",
-          "published": "2026-11-15T22:05:40+00:00"
+          "title": "Diabetes care happens between appointments. Let’s make those moments count",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFoyNXdJMnNOSWwzTGpFQkh5cVgtWnE4ZFQxQ3E4SXJncGI2Zkh1ck5yWlJWdi11NEJfajlsazdrX2hVdVlKSXk5X0hrcHFVWVk3REpnNllnTGpSSmV5V1ZHNTYxaHowdXJaX0YweXZvMTItSmZMdWJDNGxMTkZ1WUlpZk9KYjdDVEhfRVhfMEJTRV9LaEZtangtVTNfWnRDX1A1eWlpN1UyamM1S0tvdEJfVXlkYUE2?oc=5",
+          "source": "IOL",
+          "summary": "Diabetes care happens between appointments. Let’s make those moments count IOL",
+          "published": "2026-11-16T08:34:31+00:00"
         },
         {
-          "title": "Le sport, un atout pour mieux vivre avec le diabète et améliorer la qualité de vie",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtYlRzNjJ1R0tHOTU4SXpPblkyM1hXTDI4UWpsVmhrcDVNRk5nS19HY0g1ajBPWFd3S0t6bXI5ZDR1WnpQLVJQNi13?oc=5",
-          "source": "وكالة الأنباء السعودية",
-          "summary": "Le sport, un atout pour mieux vivre avec le diabète et améliorer la qualité de vie وكالة الأنباء السعودية",
-          "published": "2026-11-15T22:03:40+00:00"
+          "title": "Santé publique : le diabète à l’origine de 20,9 % des décès à Maurice en 2025",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTF1N0E3cUlWTUhzV0tkSmo1dzk3d2w5VmZzb0tFUVVaN1FFTnY2eHVmaUJoS0lSZlZTeXRMdzBjdlVwdVBjVnlWS3Nibk9MWm5ad2hOYlRCZ2hwNWtvZXYzalZtaVNjeTZzZ1lPYWpnUHFBQk9PbmxxVVJiWU5WTFZET1Vadm1WS25ISlE5b3JLSUVOU09SV2gxeTQ3QWFFN1ZmMUhUallwdTFvOGEtVnZKZDU5VnJKUkN3MVBhVlVoSHpL?oc=5",
+          "source": "Le Mauricien",
+          "summary": "Santé publique : le diabète à l’origine de 20,9 % des décès à Maurice en 2025 Le Mauricien",
+          "published": "2026-11-16T08:33:00+00:00"
         },
         {
-          "title": "Flame of Hope still burns at Banting House on World Diabetes Day",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEpDRFNDYTFXWmhIRFUwbkJldk80OGV4d0Q0SXlTQ2hHeldpd2YtZV9ja1RYaDJKcmRNTmxrMy1wSS1renNBSWhjUVZHQ0VWOHRNOG5fdmJ2OV9YMnd1XzZrbGR5dEFnSzF6X0tKd2Fnc3k3X0hVRnQ0aFZzM21jbTJEeWlNWEtCLUNaenpkeDZYRWFsSXQ1N0FYLS1XSXlBNzhEVTZ3?oc=5",
-          "source": "CTV News",
-          "summary": "Flame of Hope still burns at Banting House on World Diabetes Day CTV News",
-          "published": "2026-11-15T21:41:22+00:00"
+          "title": "Diabète : le rôle essentiel du dépistage précoce et de l’accompagnement",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHVsbUVwUk5lUHItUnp6bElGUVNxTGRhS0w0TEN2NFdkYlhyMHFPbXZCSnBOMFlkdlQ5V3l3LUtlb01tVERhNlpQY2NjVTUycW1adllOUUkzZ0s1SGlhY25CS0RXbW5kWVhYYV9VcjNrLWFnV2V1Z3Zqam16MEc5YWJJdU1XNW5jVWhsWnFudzM2Q3ZxZlE?oc=5",
+          "source": "Defimedia",
+          "summary": "Diabète : le rôle essentiel du dépistage précoce et de l’accompagnement Defimedia",
+          "published": "2026-11-16T08:30:00+00:00"
         },
         {
-          "title": "Fewer Than Half of Surveyed Ethiopian Teachers Follow Hypertension and Diabetes Prevention",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0lmbjBPeTZQNnVsaUJnbk5yOHM5MmtTeHZ1MmowTE44T21pTnJnSDhydzdiR0V5UXRiZktSTFpmSTZtYlRfVm9fY1o4RkJYZW9iSnlqbmpnTWZhUlI0NVZXcDF3MWpOUWV5WmZ6eDNYWkxpLVl1WVVZcFFLVjNPQl9YMEFiYUJyRHRDMXl0N0YyX0RoYlRyOE5odmZpR3pGeVZLaFpCdWdKRTl4RFRIcVhZVzNSZw?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Fewer Than Half of Surveyed Ethiopian Teachers Follow Hypertension and Diabetes Prevention Bioengineer.org",
-          "published": "2026-11-15T21:30:35+00:00"
+          "title": "WHO issues first-ever type 1 diabetes guidelines for adults: What to know",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0hTRDZxSmJLeUtFY0JjbUdhcEpQcTRqSWxpMXlqVWZNejg1MjJidl9ZVGk2X1JnSFVzenJ5VFZaUmZYUWg4enNNSWZPMHBvNEQwbmtyUjU5cV9zRDgtOVE1RnAwNzNVSFRVcVVCOUVLWXJRZFFranR1RU5tTDFjVUFfcUE2QWFkVzVOcTlUc1J2VUlBeFdPeEIzLU5nZThGNHdvalZvVVJSeHZKREtrNG0yZ096VGZ00gG_AUFVX3lxTE9fM3U3X3FOS3RsaDRLazBUQnpNUlRsekZpd1hoMm00VVQwV3lSOHpWSldjX2RCTUctdkJWLXVkUThnVnZNejMxSEM4MGNtd0pudjlheGQtNGxGSTZIMTVYS2g2VU42ZXFRRlRMOFEtYTNsaC03VnZWb1ZjX1Y5eE9rZTV6c1ZXbENWanFUQi0tWFhpSjJrZ201dTM2eWJYellzem04TTNsV3BSTXVOZlpGc0d2ZFlTeTF4VlllVlNv?oc=5",
+          "source": "The Indian Express",
+          "summary": "WHO issues first-ever type 1 diabetes guidelines for adults: What to know The Indian Express",
+          "published": "2026-11-16T08:29:03+00:00"
         },
         {
-          "title": "Fibrinogen to Albumin Score Predicts Diabetic Retinopathy Risk Across Glycemic Control Levels",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUpXdEU1M3BvSVJnSTljZGc1MHg2dlZBV2JjR2RrMXJFZjZJaTNTODM4eTk2N19rSHFTYWFZdmpBUzF1UEwtczczRkNTQktIRE1IMFVVLUFWY0VLajgyT0FvWnN4cXIzYzlYdndsaHUzNmEtbXo4eWNvV2pMaFJmZjB6SGhXdldIRWhmQ0xWdnlRQXFwREswd0NrRVlBM2ZIZTdVT2RiVlp3QllxSFZNazVFdnF2N0NUbnc?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Fibrinogen to Albumin Score Predicts Diabetic Retinopathy Risk Across Glycemic Control Levels Bioengineer.org",
-          "published": "2026-11-15T21:30:35+00:00"
+          "title": "Diabète de type 2 en Tunisie : une maladie silencieuse qui gagne du terrain",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzUtZVFyQXp4d0JLYjRxbllpMWd6enF2NnpfOE02ZEVnNnhoTlhCNzRZNkVOLUZmeVU2dTN6YndVMm0zSTlHdkVEVVhBMi1JQWh6d3lDeDgxbExIMGF4eWd6UW11cmV4RGhoYkZGTVRxM0RIaHpLLTAzM0VZOENxQzdSVWQzUGhobFl0MmdHdmNyOHFsNV9MdlF1TEZ4VFBaZXVUWGJyeDdIazJmek1GZElpMFZOcENZME9WSkRB?oc=5",
+          "source": "Business News",
+          "summary": "Diabète de type 2 en Tunisie : une maladie silencieuse qui gagne du terrain Business News",
+          "published": "2026-11-16T08:16:00+00:00"
         },
         {
-          "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFh6V2R4MXFfVldKWnZHVl84WDZhMjg0UGt3X1JxazdOUG93cm9ha2pDSEk1eV84V3RZYUh1OW9LZ1hNU0RJdzVaamw2ZXNhaWgwYzZPMWNfOXRZQXBKRzlzNWE4NjJ0elZJQ2wwQ0hhNl91cTQ1aDFOVGZERTY2YjZLMkVsRlhrZ0UzYUh4d2NYNGxTVF92cXI4cWlxNlZEc29MRUtzYThuSldIam4tSEI4c0k3N05xS0lGQS1kTldwQ0hGZW9ZTEZiZ3ZoTHVIUHlvYTNhOThpUWJKU3hZSVJ5c9IB6gFBVV95cUxNUG91T25jUlFQbVJQTmViV1dFcHh6b1BSalJSZDlybmVUNnIxZnNLeGQzWnFjcTVpbWtpbmt1SGd6eHFEZnl4OWNDY0d3VHk2R3M2elRPRFA4ZHZwX213RUZ6OTRsOXNwanozYUVfS3ZBS0NlNXc4WXhlOFpxdXZEOE5yRVpZWWVmckhnTnd0V1JaVHRBSHVOQ3NTSVNvQ1NValVlVi1BUURkTGstNkhLb0p1bWkwS1NURGtCQ1JVbWVOREpQRGV4VDJSVERhN3RNQWVMYUI0aDh1bEZrQ0V3NENPaFdwcWRWd2c?oc=5",
-          "source": "The Hindu",
-          "summary": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan The Hindu",
-          "published": "2026-11-15T21:30:00+00:00"
+          "title": "WHO pushes affordable insulin access for millions",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0ZGNnNkUXZDUVNydXoxcXZzampDOTN5Y2txS0pfc1ZzcGNST3RLYzZIa3g4aHhZREgyVS1JRWFXOEF6NHlfN1JwSWFRZnllOVlGcnlMZDBZWUZJT2Z4QkNZcHo1VWVMamQyVW9YMkhHMTMwc3NvUEF4bi1oaXBYelVqQjk4Zw?oc=5",
+          "source": "KBC Digital",
+          "summary": "WHO pushes affordable insulin access for millions KBC Digital",
+          "published": "2026-11-16T08:02:11+00:00"
         },
         {
-          "title": "Blood Biomarkers ACACA and WDTC1 Linked to Diabetic Retinopathy Risk",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVg0UzdOa1FCUVpnMzVtUktTSmRJb2NKa0FTTkNCM1RJa2ZXTjlMNTVEWVA2WE1WNjRXOGJ6M1JIV19xS0pPSm5iaVNseDh5eHFTX2RvYWhPaV9Dal9PempkS05UTldHOEhqTlljbGxSOTZteWhvRXFRQ2NiUk5pMm14Tmw5SDU5Z2VKMGJkUDNPNTZRaEljVQ?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Blood Biomarkers ACACA and WDTC1 Linked to Diabetic Retinopathy Risk Bioengineer.org",
-          "published": "2026-11-15T21:26:06+00:00"
+          "title": "Diabète : 596 amputations dans les hôpitaux publics en 2024",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVE02VTNUSXE1ZlBhY3FmanVSNGh1RWVhX0d4c1Q4b1ctTUJLZ0gwSjlqZ2RWczFwd05yUGlsN1pvTldRZzhkLUc4eGt4MC14dmNNaTlFOWZMLURMR0w1RFZxOTRXN0N5ektwWjFJUjVwNFBBd2NPa3ZCOTBUaDhrLUtqSm1sdGc?oc=5",
+          "source": "Defimedia",
+          "summary": "Diabète : 596 amputations dans les hôpitaux publics en 2024 Defimedia",
+          "published": "2026-11-16T08:00:00+00:00"
         },
         {
-          "title": "Higher HbA1c Linked to Lower Bone Density in Kuwaiti Youth with Type 1 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0c0Y3ROREVZYVZzR3BOaTJMQmRtUzY1SjNzWlhyMmFRWVU1ZkNRbGhEZHMwSTFja3FZX01SUHJsRmxka1Rsb2hhR1NILTB1VXJJMjM1WVVzRVpQbFVfQnFMQkFGcS0tSFdHUGVxVHRITnZyOTZUeGtDVWIySHY2dDBfZ0IzREN2QjRodVhUNTFmM3VCTS0xbDBtalc5WmtGWUk3XzRZbw?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Higher HbA1c Linked to Lower Bone Density in Kuwaiti Youth with Type 1 Diabetes Bioengineer.org",
-          "published": "2026-11-15T21:21:06+00:00"
-        },
-        {
-          "title": "Research Reveals Alzheimer’s Risk 53 Percent Higher For Those With Type 2 Diabetes",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0dWYzIzOFVCWi00VDZrTEFHOHJucWttbWFFb0JDOFdSTjVYRjhHNURKUjNnTVplLXJVMFY4X2l6d1BjeDVqY2pkVEVRMG53YnVKMGFRY25aT0JFYUVlYl9iNWZzT2c2MDZlU25vdnh2WmxzaGRzTzFvNkVtOEpVLWlTamV0UUZHeS1sRkNUNFpVS3VtaFNrVV8xX0tURHJkRjBQZUlWejJIcXJ2Wjg0OWpDZFZlWWd1Si1GTkNB?oc=5",
-          "source": "Eurasia Review",
-          "summary": "Research Reveals Alzheimer’s Risk 53 Percent Higher For Those With Type 2 Diabetes Eurasia Review",
-          "published": "2026-11-15T21:17:29+00:00"
-        },
-        {
-          "title": "Global Study Maps Neuromodulation Research and Emerging Brain Targets for Diabetic Neuropathy",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGxOTzdDcXFOaGRubWNZaHFGcTZPTVRYY0FYNzRYb0lYRzcwZmJLVXNXVTM2Wm5mSy1ieU1KWmxHd1MzVllqa21GYTgyeEJRaDZNUTY0YjlnWVZmUEhZUEVxVjhEVTVGUThJU2VLeDRrc0dxeDBBNG81TWloNmlHSXpuSDMyUzVYMUVobEFwX2ZjNkdTX1kteTc0bW5GS0JkUEtNNl9lZWI2VmtEUWRXZEJkRnBUcjZYSUE?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Global Study Maps Neuromodulation Research and Emerging Brain Targets for Diabetic Neuropathy Bioengineer.org",
-          "published": "2026-11-15T21:15:34+00:00"
-        },
-        {
-          "title": "Multimorbidity in Diabetes Linked to Increased Healthcare Utilization and Costs in China",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1I4eXNoQUxtVkdrSnRURDRQN0M4VzRhQ0dqdjRtYWYta0M5Q2dXcmROdnE5YUZNaWs1aDA3M2dyZEpDNDlTakNjdFBoWEF6bTRzbzJWVTVGTzM4THpjbVJhR1pqaTBvTDVtRElENlZyLXNzWHMxNElwUVJTdXhrR1lGUDdKSmxYOUd0eG9WeFZsa0h6N016T3owSGhSd3pVc2Y0TGh0VjlkcE9kblBvbDItOA?oc=5",
-          "source": "Bioengineer.org",
-          "summary": "Multimorbidity in Diabetes Linked to Increased Healthcare Utilization and Costs in China Bioengineer.org",
-          "published": "2026-11-15T21:11:05+00:00"
-        },
-        {
-          "title": "Children's Diabetes Foundation encourages early detection at Denver event",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdDF0eTdaZUpkYXRheDRJdmt2RGwxa2NPRW9yMnJjSGNGRGRjU0Z1YmxuTHdfOXJqMk01NDh5YjNhYXItdGFQR18xUGZzeVdQMEE0UFo0U3NzWE1NbnBBaFFKbDA5U200eUxDMnNuRVN4clNPOFVDUGpLMkRuSDdkMTZ4dDJuYmttamZFVld1NUxzN2xUMHczWWRPZ2ZrMlBkRFpQYmVrSkNaMG92aW0zLWZR?oc=5",
-          "source": "CBS News",
-          "summary": "Children's Diabetes Foundation encourages early detection at Denver event CBS News",
-          "published": "2026-11-15T21:00:00+00:00"
-        },
-        {
-          "title": "Air pollution’s link to blood sugar has a surprising temperature twist",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzZOODNKS1NEQ3hvdlNPUTE1Q29VX3dyTVFaSmdvOFlKSEJyaHNycWVWVFhQUzZrblVfQnVvSkhCN213VFkwYms5OFJfcC1JeUIxVjM3WElCVjROdWs2cmVEelduNy16cWplX1VUaThqVTVHNnBXZ1ZIMDczeElPaXNPcGhsMnRxVGo5M0lkOEYwWGxyUTROVXY2YlpVaFI2ZHNPSGVjMA?oc=5",
-          "source": "Earth.com",
-          "summary": "Air pollution’s link to blood sugar has a surprising temperature twist Earth.com",
-          "published": "2026-11-15T19:58:45+00:00"
-        },
-        {
-          "title": "Groupe Bastide : croissance organique de 7,1 % au premier trimestre, le respiratoire et le diabète en tête",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNnR1WXlUMF9EWXBWTGc3TDY2aFNFY2Nqb1ZFZll5Z3M4cHhmNFp3NzFPOHZ1MnhKVC1DV3FaWGU2VERNNlZDSVZXOWh5SHVIUVlJRHRzeGVNbFJoT3ZFQk1DWkxfN1dsOWwxaFNZRk5WbVhGYjlVTEstNVpJMUo4UFlFdW9ZRFZOOVhZSjdhLUwyRXdHWW54ZTJTaUdNMmd1cUdSdHZqNS1zX0pTS1NqT0dFblNDa2M2ZmU5OE5n?oc=5",
-          "source": "Revue économique de France",
-          "summary": "Groupe Bastide : croissance organique de 7,1 % au premier trimestre, le respiratoire et le diabète en tête Revue économique de France",
-          "published": "2026-11-15T19:55:02+00:00"
-        },
-        {
-          "title": "La population du Maniema appelée au dépistage précoce du diabète",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdm82QnhKU1RXQmRvNnZMSHYtX1B4ZUJxQTAyUmtZLVhqOGJuSlNpZnkzY0lWdWtmR2VHdFZhcFl0eEpQNU1WSmZNVUZ0ODB2eUNhdS1vdDBldjQ5TS1qeFhfdzRxTEhnRW9hcmt4VUVnUTVfZVBMRXBhdW9wUE81YlBPSEhZQzJpUGF6NTFlc01lMmM?oc=5",
-          "source": "ACP | Agence Congolaise de Presse",
-          "summary": "La population du Maniema appelée au dépistage précoce du diabète ACP | Agence Congolaise de Presse",
-          "published": "2026-11-15T19:43:43+00:00"
-        },
-        {
-          "title": "From childhood diagnoses to life-changing complications, Pune walk puts diabetes stories in focus",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZHpSYjJmVnRfTGhwWFZWbUY5ekdqdlNGcUNBZC1zTHpxOTZHcjBnSDNteGQtcWJVWEVHYTZjeG94TWhWN0U5TFIxbGxnTS1MeFc3d3huejdER2EyRWROc19sZmFJV1E1NEFsMnZqM2NwZVNoUUtLMlpWYmhZRkd2N0dUdXktTkF4UlZMUS1mM1VfXzhleXhaWWpYejVhWldUV3RBTHdENWotXzY1cHZfMm5ULW92U0dqRktiZm1QYVROX0Q0Yk1VQ2pCSWx0Qm9DSUVnUWtlN2ZCNUthMDIxNURFYXNYYThlZnpsSnd2TFBwMjF6aVltRDNRY0_SAYICQVVfeXFMT09uWTZIRGxFaDdVZ0d2anJJbkRQVW5lSzlZZU82eWo3cE41Tzd0bk5mZG5KbkNQUVdhQ0FZVWQ1RW5ybExJWGhPNHdocFlpNjJwb1FQRlpJbmRrMk1rWGh5T2Ixa3c0VXlWQkNxWHp6NlZnZ1p2U3I3eGl2ZWhuSGNSS0p2eno0cjlIMktyQkhDTGx5ZG02TkhzZ204c0JiV2w3RHRzSWRYNmEyNjkwZVF6UGZqR1o5aDFkZldKZWlIbl85MGFGUzE5ZHhhaVl2M3UzSkRFOENtMXlJY0FhandWbEpwb20xQk5VQUE2TFpkNDNLVGUyaWRmck1GU2NwZWhn?oc=5",
-          "source": "The Times of India",
-          "summary": "From childhood diagnoses to life-changing complications, Pune walk puts diabetes stories in focus The Times of India",
-          "published": "2026-11-15T18:54:00+00:00"
-        },
-        {
-          "title": "Cyclothon held to promote awareness on diabetes",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPXzIyZkdrOG5VZXBFZ0FWRVk0TmlnOXJ1bkpkQzI0T1h6NmJqRzdEd2Mza0Zja3hsM0EteEdUaGNvMDVSWjl5TUsydEJDM3JVdFNULWxRMUUzTzF2SjBxV0ltVTM2TU1feWY2Tlk1aVJsRkZzOU9EeEZJRjY0cTE5SnJQVHBRYVVMdjFWMWdwTnNseDhOamFDNmp3YnM3dEZtX0ZwSlBNbHhLcUxsSXRoc1ZR0gG4AUFVX3lxTFBJR2lXcEp6WjFGSmpxV2d0bjRaODQ0MnZEWTV6SjB6bllFOXd2cHBodUdsc2FPR2lJVnRQLUgwMFRlOVlZMERSdXRmVFI1cXNMNlBqSHpZYjI4Sm10dUxmNzBUTnhoLWd1ODk4aDBzU1pDTGM0TmJYSUs3ZmtJWC1jU2sxdUNMUV83WUVPeDVseDhmcm5Gd1g2SDZWRS1SNkJWamwxQjBZZi03MzVPYlpxcEQtMTUtS0I?oc=5",
-          "source": "The Hindu",
-          "summary": "Cyclothon held to promote awareness on diabetes The Hindu",
-          "published": "2026-11-15T18:44:31+00:00"
-        },
-        {
-          "title": "Le diabète endommage silencieusement les reins : n’attendez pas l’apparition des symptômes pour consulter.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOektuVlUyS3B2NjRaYkxIWDFhSDVKQU5fZFlmU0RSR2RyT0hObzcxenF1Nm1DVUNWYmhzYk5OdzZLdnE1bl9TemZDWm1vXzducjNwN3FxZDRQWHlYZkpqeTE2VjdvZ1J5TlFOeXJreXZmRmtwOGRkNGUydVZfd1ZJd000RXd1eDBXM1lvck9EQjVVOXE2SUotdENB?oc=5",
+          "title": "WHO issues first guidelines on type 1 diabetes in adults.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXRKTnl5ckUyenBEaldEazQ4WjZpNEdTbWFJdk5hRDg3TDJTSUlmc2Y4LXZIazgyOGZEOE1Da09ETW55R3FSSFFsWFRnSUkxUkFhWUhHcUVmZ2NlV0VmYTUzN0J4VUVDQ1dfRzk4MjlwSi1JN3F2WWh6UE5UdTNlM3dMVGtVVWZQVFg5NmYxTldkZVdiSEhzYVkybTVteHBSTjZlSA?oc=5",
           "source": "Vietnam.vn",
-          "summary": "Le diabète endommage silencieusement les reins : n’attendez pas l’apparition des symptômes pour consulter. Vietnam.vn",
-          "published": "2026-11-15T18:40:22+00:00"
+          "summary": "WHO issues first guidelines on type 1 diabetes in adults. Vietnam.vn",
+          "published": "2026-11-16T07:53:54+00:00"
         },
         {
-          "title": "Montana diabetes advocates hopeful as transplant trial shows results",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNckZoWG5pdDJYaFk0Z3dLVVluVHdjNzN3bkRpQndicmFpelJYdWhGUFk4ZEpiaUFzY2VTa3UtanJKUDFEZXhTZ1luZWtiVFF4dE9NOGkybWFrNHZxQmRVZGtrajVJZUg2MjI0eUlCODRfWllwVmpERlB1TDlialZNbHdzWktaRUUzNVFwVmtLQlhoVUZ5ei1qdjhn?oc=5",
-          "source": "KTVQ",
-          "summary": "Montana diabetes advocates hopeful as transplant trial shows results KTVQ",
-          "published": "2026-11-15T18:39:01+00:00"
+          "title": "Sensibilisation et dépistage du diabète: Alerte au sucre",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0c4RGRVenViVlpLYTJ0cGZoU1ZwS05NaHJrdlZWX2g1b0ZNT2R0Q3g1emJuMXY2M2Y4ckNJaFp2T3dJVmhKRW9jWDZLb1p5WDNHV2NmeHJUenVlSUlOSVloVG1Lb2JhQ093U1ZDSFB3Y1hhUXVuejBnMzJNVWJaNm1fZW93RFhyWmtfZGk4MmxWTVg0R3BwZFJ1NlFlbnVyVXZJNTZMNFdRRHQ5cWtz?oc=5",
+          "source": "Cameroon-Tribune",
+          "summary": "Sensibilisation et dépistage du diabète: Alerte au sucre Cameroon-Tribune",
+          "published": "2026-11-16T07:49:00+00:00"
         },
         {
-          "title": "Editorial: Diabetes control—lifestyle changes hold the key",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTBuQnhfbDlUcVJQemZJcHZpZGtzYjFYdnoybG1uVHhtLWhRTWRfblpmSVB5VjNKQ1BwQk93RHZFMUs2Z3JKOThuOUtfX0dEa2kwTzNQV3hGV3VmS3lUVkJnbVFGNC1KY0p4b2JSN3VsUFF2RTNwWHM2SW5kYW9iVlZRcnJBR1JuM2NodQ?oc=5",
-          "source": "Telangana Today",
-          "summary": "Editorial: Diabetes control—lifestyle changes hold the key Telangana Today",
-          "published": "2026-11-15T18:29:27+00:00"
+          "title": "Diabetes care has changed, but the way we pay for it has not",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMk0yWFdNNTBsNGM2SVl1WS1fQ0tQUTJCNVBtUHdvZml6ZU1xb0poMnFFaHIzQ2lZSjNHTV80eVNJUjFqUzBCY1htVUs4ZGhDeTNIY3hyeV9Bdk5hTTRCdzJ2NkVoa1dzUzhpdnZwa3NHS21iamVCT28yTWx0NkE3U3YtYy1kdkgtd1NodjF1VUJOODk3R2tmUUFXa085eWZBT1NJSjRaSnB6cGRiMzBFWnFoS1JVeENTeTQ3RTZTeEJNTXpyYVBjeDIxRWV5NFU3a1NVcjI4VjJRbUxpQjl6anNoOUNUdEtmNHFlRDFMWHBnMzMtT0V4QlpjWHh1MzVTYmtSenI0eFNlSjlqV1hQRnBCcWZPYzhZWEE?oc=5",
+          "source": "Daily Maverick",
+          "summary": "Diabetes care has changed, but the way we pay for it has not Daily Maverick",
+          "published": "2026-11-16T07:42:17+00:00"
         },
         {
-          "title": "Diabète : l’association de Saint-Louis réclame une unité de prise en charge et l’accès à la CMU",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHB4QWMxa19FaHkzdTdCMFNleGdPQ2JJSzMtZlMwUG9FbFFVSzByN2x1dklYZkZJeDBxUExfUTlLWVJvMm4wc3RtcDFNT0hRZ29meGwwOHplNGVfdXpnUkh6TllGaHRJS0w3cC04bllTc2V4WXVwSlZOQlc0ZktNdHdtLTh2clFmaG1kSS02eFBrOXJvNUtaRjNhckpNNXVHczJWT0dOci1hUXVYME9VZlpncko0REJ2dGtSNGVuV0FxQ1BHR1N5eXZR?oc=5",
-          "source": "NDARINFO",
-          "summary": "Diabète : l’association de Saint-Louis réclame une unité de prise en charge et l’accès à la CMU NDARINFO",
-          "published": "2026-11-15T18:05:00+00:00"
+          "title": "Andhra NCD survey finds 59.63 lakh hypertension, 48.95 lakh diabetes cases",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaUF4VHptd3NBdEJXWnNrUjlBYUJla1ZQM0RfemVJT1FXVEUyWjl2S0oydGFpZnBiLXJDNVF1RjY2T3hGZG51X0RPVDFxcy05MHRqRldYWVFCMHM2Y2xWS2lVM1pOcklpRXVLblVBcjRnbUZvUTZfT194WmhYcXdKaHFURlB4d0VtN0xjcUNQLWdlM2k4MUJaMU40Nm54SzNqWU5xSXo2NGp4S29UU3BHdUZQX3dDUUE3R0dwenhfcW9FR0JId1cwZ0RZYVk1ZXRLUVQzUmlBNVR5ZENDMEZTWVV6VVZPNmtON1ZzTkZxWDBYeFJjYTJxNFVZQjI2VzJtZjZzZDVSdGpQcVJENHkxMnM4b0RsdnfSAZ4CQVVfeXFMTU1JVFJCWS1obFdEaHFpSFM5TjFuM2dRRXA2aklWUmpOS01acndDdDB2aENUamd1bVdVMHJkLXBnWmZiUTRnX19hMkZ2NExOU0RiRDVOelVXQjhqNE52LXUwNHcwOERFdEZobGtySFl1T21hQVNhRHJTaW14azNpUFNqRktoLW1Cd1NQcUpQVEdaZUxGZnNoV09ucmJrVmNuNHBjTXRveUJIZTBmRzlWOHF6UFN1NnMxRzhwSkF6eVpQSDZBTTBpckhFLUJmdlNJVEJNOTdRTi1jYTk1ZHV3SkVzTVVxZGJSOVoxSmwxcTBqNDRocTdpbjRZS0l1WGJUM0h0QU9uTmQtQVA0Yi16Z0NpR2xQY3NyS0Jna1dJUQ?oc=5",
+          "source": "The Hindu",
+          "summary": "Andhra NCD survey finds 59.63 lakh hypertension, 48.95 lakh diabetes cases The Hindu",
+          "published": "2026-11-16T07:35:09+00:00"
         },
         {
-          "title": "Aalok Healthcare celebrates World Diabetes Day with awareness programmes",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdk9zTzhPMkZEcDcwb2V0NXRUaC1MQngtUzMzUWFXd2JyLUZDRUt5UmJOeG13emtoRUpkQ3ZPclBoTjBvNW5YMlBWdGtaOXkwRDhCVXRNXzlneUkxUkppZkRYTzZUTWZJN01IaTBpQ2xTaXBuY1A3a09sRlcwUjZ3YkJxVHNRQktkRlpfQWRuZWV4VFBDYzVHbGpQaUVZRjdGSmd1SW5uUXJYaXFFM01vdDFPWmFONlF0YVE?oc=5",
-          "source": "The Daily Star",
-          "summary": "Aalok Healthcare celebrates World Diabetes Day with awareness programmes The Daily Star",
-          "published": "2026-11-15T17:32:49+00:00"
+          "title": "Tandem Mobi sees FDA clearance for tubeless AID system",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFJIdU9hQWFnUEZWOXRkMnlOd0RpWm9uUENNWFN2WkVCdmU4Skd5TklaN0ZLaEF4bFBWZXEyRHlEanV1VGd1cGJ1WjVQcFBIejlIM09LT245TXFiSEpfRDlDYS1qYjltMkMxZ01NMnoyQkUzWUNEc2V5Xy1zenk0YW9oYjladmdCVG41eWZPd3FpUQ?oc=5",
+          "source": "Fierce Biotech",
+          "summary": "Tandem Mobi sees FDA clearance for tubeless AID system Fierce Biotech",
+          "published": "2026-11-16T07:31:47+00:00"
         },
         {
-          "title": "Local Lions clubs raising money for kids diabetes camp",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0dCd0NGNWJBa3YyNnNqQTdXM211eUFlSlltendTUmpCOUNxcU1ZMDZYVjFCalBOWUQ2bXlIbDRFUDV2Ymt1dThVRVBUVV9CVHUyR0ZSX09pQUJZVzEyREtsOUlDQVQ5N09lUHlXQm05bm1LWXVSMndQSV9IUWFKTFk1NUNTRThPZkk4MUt4ZFJsclk?oc=5",
-          "source": "WNDU",
-          "summary": "Local Lions clubs raising money for kids diabetes camp WNDU",
-          "published": "2026-11-15T16:56:00+00:00"
+          "title": "Salvianolic Acid A Protects Retinal Blood Vessels in Diabetic Mouse Models",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeC1yZkJSRmp2Y253TFhoY0U2MXNud1lYN241V2xSZkVnemVSSVU3Mm92RmRNTllwdFBFQnd3Zy1pbU43R0VCRC1XajdlazN4ZGFTVl9lMjhzaFh3RFNUYlRCWWJ5RmdUbUhrbHEzMTlhZ2NkWlhmNERfMGRVcG5DTnJnS3VEaDRIa05PbXdtRWFPWlpJeDdNdjg0X2F3Yllu?oc=5",
+          "source": "Bioengineer.org",
+          "summary": "Salvianolic Acid A Protects Retinal Blood Vessels in Diabetic Mouse Models Bioengineer.org",
+          "published": "2026-11-16T07:31:06+00:00"
         },
         {
-          "title": "Vivre avec un diabète de type 1 : \"tu sais combien font cent grammes de pâtes à l'œil nu\"",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeWlXS0g4Q2RiY25ScVl6M1VMaW9NWG81emVCbXRMV0Y4M3otM2xjVC1ldmlUZGZua1c1aGIxcGlKeEJRcjVlUlhycjJlY2hJMmRLdnU1VTRsSjItMXFxUm0tblN5UlBNbDNyTThuMk9jQTNrbXRxWm5mcFRHZDh4d3JYdVBtLW10YnE2U0xGaVB4UFlMc2VqMVJxdlFLMW1XaU5qOFlab3JnLS1EVlJ1Z1dtbmdycDV4QmMxRDRpb2JvM1R2eVgxajdaeEtOVmNhRkN3a01GVEQ1OTlOWi1uRHA0Unh4QmNzOGpyQlVmUEFSZUll?oc=5",
-          "source": "France 3 Régions",
-          "summary": "Vivre avec un diabète de type 1 : \"tu sais combien font cent grammes de pâtes à l'œil nu\" France 3 Régions",
-          "published": "2026-11-15T16:10:10+00:00"
+          "title": "Diabetes does more than raise blood sugar: 7 cardiovascular risks people should not overlook",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGlhMHZSYkFVa1F3bV9mdHB5NFZxMy1MUnpMU3g0SkhyLVlBQXY0ejVzNmlfbS1Vcng5RUlrbWhvc3p1UmZudGhuUGcydXotZ21NUlFyeXpwc3o3Y1g4a25CbGFjbTdWZUJCTkhaeGc3RXV6cEU5OHpqVVdnVVg1SXJkV1RnTGRtejR2RktXRWdUVDBzbVFzUzRLS21CVVprS19DMDF5NzduaDBJWXd1Z3p4aS1FLVFSV2ZDdVBJdThhc29VdkZUOWRsT2padTc3V0YtRFpxaElaTzlncjg0SFRSb0xFckF3VWhPYy1rQkbSAfgBQVVfeXFMT3Z1azZLbWVOSzA4SXU5d2NrSTcybnpzTVhaejFWbWNIdE1Idm5vNDFRbkVBYmt0dEtXczJJdDNpUW1mUGlqWFNoQXI2cmdtdkFZQ1V2bGxuMkFIdzhiZHRMYlFCR05TWGpVLW5ReUVzMHJqRVBzSTd6dkl4Smw0TXMwMW9rSVBLM09aZmRtWmFuWF9RSFBSaldpTUVEUXBPZk1MaWN5M1U3VHRuYjJRTkxMZndySndDam5OYmh6TVQtSGJTN25kd1NjZERLcUUzdzFRU1A4YlFjRm94ak05bXZXQmdsQ2tNUVFGTUpMT0Y0Q0tFSllBUnM?oc=5",
+          "source": "The Times of India",
+          "summary": "Diabetes does more than raise blood sugar: 7 cardiovascular risks people should not overlook The Times of India",
+          "published": "2026-11-16T07:30:00+00:00"
         },
         {
-          "title": "How To Prevent Diabetes In Bangladesh | Health literacy matters in the fight against diabetes",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjhrTDRvdlAzMWFGajJ6VjdDb05sX3EzdktPclVIX0hGNm9qR1BBeWpxTjVWUU9LZXR5UWZicXZaVkJIQWxtbS1NZktHcDYweXM2MHoyenNqOUJTSXdVdjRxcXlKZEdZRTh6ZWlZeWZGTzU5RG9iY2FrV1cwWkgxNGZYUndyWEd3OENDbWxSVjJDOExfYy1tYVJzWnJWU3RxekhiYnRraGdPQQ?oc=5",
-          "source": "The Daily Star",
-          "summary": "How To Prevent Diabetes In Bangladesh | Health literacy matters in the fight against diabetes The Daily Star",
-          "published": "2026-11-15T16:05:56+00:00"
+          "title": "Côte d’Ivoire-AIP/ Une campagne de sensibilisation au diabète mobilise les populations autour du sport à Man",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORVFDV29aQTV3M1BpbHQzblpyU2d4TC1uNXJkMVB6SVRlbjlMMndyQUpBOWpJZmxXNERGX1M2N3ZXWHZCYjZwNGF0azM2bGlpZ0JaV3YySWM3bmlYVlVmVmo2VkV4R0NDeDd5OVl3X2o1OFp2d3dwdkFIazVzOE5WZUkwdDRsQmdXQUdwU29RNUVVamhwZDRNU3dMaXFSRFlnSTA2UUtFeUl6aVBDZFFKenh0U215S1piNzJ2YnpNUTg0WGc2?oc=5",
+          "source": "AIP - Agence Ivoirienne de Presse",
+          "summary": "Côte d’Ivoire-AIP/ Une campagne de sensibilisation au diabète mobilise les populations autour du sport à Man AIP - Agence Ivoirienne de Presse",
+          "published": "2026-11-16T07:11:46+00:00"
         },
         {
-          "title": "Quels sont les nouveaux moyens pour surveiller son diabète de type 2 ?",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbmxyc09IMEQxMko4aUViN1Y0a3VzLS01T29qTDFDX2piWXIzTWFNV1N3U01Ha1ExcUV0SG9rLXhRb3BwQnVHRTNORUdUaUQxUjF6SVN3WHEzMXZVb0dTYkg1dmVtQl9EVmRZRDQ1UmM3dWNmQ0puQlhzVlpzalptdGdYSGxPQ0M1YW9CTHJ1Ul8zczlXNk16RFBzNVZYbWxwamIzTF9hQktPUW0xMGFPODk3S2R0cnlOT3pHdnYxdmFFWWM4ZjkwX2poWlFxekZvNGk1U245T0dCNFgw?oc=5",
-          "source": "franceinfo",
-          "summary": "Quels sont les nouveaux moyens pour surveiller son diabète de type 2 ? franceinfo",
-          "published": "2026-11-15T16:00:01+00:00"
+          "title": "Medical Absences for Severe Illnesses Recognized as Attendance",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMV8zRENRb2RMclY0Z2EyUC1nRzhOU3VsbnB1dmdpajFTRHd1bFNsemktdm1ITGUyN1BKU2lGa1dyWTVQU2hHQ255OW9VdXZtbld5MW5JYk8tRUtyNVpoTVk1NEtHVkhNTVNUc2hZNllqeXhEZTZfQ01jOHdrUmI0d29tS0NDdGkz?oc=5",
+          "source": "조선일보",
+          "summary": "Medical Absences for Severe Illnesses Recognized as Attendance 조선일보",
+          "published": "2026-11-16T07:11:07+00:00"
         },
         {
-          "title": "Kinshasa : faire dépister à temps, un moyen de prévenir le diabète (Médecin)",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkxrNm0tb0pFWERQNFVQeFZianp1QzdUNGZwZVMtU0FkQ2p0ZllCTVZxWHB6X1FRQzBGSGMwN1JHMF8waEZUTnZfQmRRVDRLNWlhblBVUG11MFI0dk5zYVg2cFQ3cXZOY3VqdHdsbzdYRGVLTGp1Y1JCcVd1V1F1S25WcXY4ZVg1VS1DUjhoMjlPbzFFWDRPVDhPNlIwVzNQYURHQWFTTi1xY3VsNG5OWDNDZkVEUQ?oc=5",
-          "source": "ACP | Agence Congolaise de Presse",
-          "summary": "Kinshasa : faire dépister à temps, un moyen de prévenir le diabète (Médecin) ACP | Agence Congolaise de Presse",
-          "published": "2026-11-15T15:43:14+00:00"
+          "title": "Spirit Health buys X-PERT to broaden diabetes education",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2ZHY09GaWpNOTJVTmZNNFhmUC0xV2JBeXY1ODVpb1NybXRCenZmSmN5dEFGV2lLaVAyWTY1SG1QNlJNUXB3azlnd0QxNUhJYVlGYTE1N0c1N0FXTEFCOWZvc0d0MklTUlBhTnpvUU5wZ0lFOUd5Z2t0VkUtRjRkc1NHZzkxZkJrOGktS0pJS01oWTg?oc=5",
+          "source": "Dealroom",
+          "summary": "Spirit Health buys X-PERT to broaden diabetes education Dealroom",
+          "published": "2026-11-16T07:06:01+00:00"
         },
         {
-          "title": "Chinese medical team offers free consultations, diabetes screening in Tanzania's Zanzibar",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjgyamctNlpuSjFrVzBFXzdTMFlUalZxem1Vd09qZkVJZVJMbEdfTURtRWgtQWI4eXlqcmZEWmJmZTRDMmVlRTVOemR4ZFE0Z2taZEcwVGNPLVNwbE9UV1BWcFROcmlLVGlYaGJkNjN0azRva29TaUZnQXEwa1k5MUJRa1Y4UQ?oc=5",
-          "source": "Xinhua",
-          "summary": "Chinese medical team offers free consultations, diabetes screening in Tanzania's Zanzibar Xinhua",
-          "published": "2026-11-15T15:28:15+00:00"
+          "title": "Diabetes Rising Among Young Adults in Their 20s and 30s, Warn Amor Hospitals Doctors",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1RTdDZzaFJCNm4xdTh0ekxydC1VUy1DaWRJblU2UUM2QTEtcWFyejd3dkZwR3lmamM4ZzBRYzNtSUNyeHpQS1J0SHBpb0laYktNQXlBanFmRTlqazVPdDFzMlExTlUzUEtDZF81czZQdnVHSjdwODhMTTVkUGlodnpqN01ncXdXenl0UU44MEpwOER4SFlFekNiaFdFRVR0NU9iVC1DS2hfc3M0Q2lJSnpORzlHREd6dGc?oc=5",
+          "source": "The Indian Practitioner",
+          "summary": "Diabetes Rising Among Young Adults in Their 20s and 30s, Warn Amor Hospitals Doctors The Indian Practitioner",
+          "published": "2026-11-16T07:02:45+00:00"
         },
         {
-          "title": "DR. MARK MUGAVIN | Diabetes threatens your eyesight. Don't wait for symptoms to protect it",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGx5Zng3Y2s2aUlvc0xNMEJEc3daNzlWNHYxNFpucVBnRnQxSFdrRm9MeFpxWXNXbjZ4TXNrRmFFWGNEY2NkaWE0bmJZbHhjektEbTY1bmpCazlRSjl5UjlzN0EtRm40TkRkT2tjeW5fdjNXaWNlUThUclhiUlhaM01KSXE?oc=5",
-          "source": "nwitimes.com",
-          "summary": "DR. MARK MUGAVIN | Diabetes threatens your eyesight. Don't wait for symptoms to protect it nwitimes.com",
-          "published": "2026-11-15T15:20:00+00:00"
+          "title": "Should you wear a Continuous Glucose Monitor (CGM)? Who will benefit from it, and who won't",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0t4VlZVN1dYZUlVUGdpNWFoSFRzTUVHQ1BtckRSRVFGdVNDcWVoZUUtRWJyejNjRnlheXRrczB6VnNDV05ZcG9zaWtjV3dla3N0QUUxZ2dlZUpKOVBScWY3dUhWMDkwQmJpVFFsa1hqLU9ONGpNbzJDbTZheXRsQl9LdWNpQ0VKZDg4UGk0Q2NWckppZVhvcUpPT0NJQ3dzQXdFS3lvT2lhR0Fnb3g2QlVn?oc=5",
+          "source": "Onmanorama",
+          "summary": "Should you wear a Continuous Glucose Monitor (CGM)? Who will benefit from it, and who won't Onmanorama",
+          "published": "2026-11-16T06:59:48+00:00"
         },
         {
-          "title": "Paray-le-Monial. Plus de 200 personnes se sont fait tester pour le diabète",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekFOOXZsOGM5YVZuWmtQNUYxV3dtZmRqa2NjZHl5YXU2alZLUDJpVXIySFM4dVJRMHZZdlVrUlNOXzFZa3pDS3NWU3BRZTd0MG9sTG1Gajg3TUxHUEo2WHJOeEpWU1JFcGJWTkhEQjhkY0lPT3ZONnNaMGZxR0JxYW9XU3Q3aVlaUk1IWVB2UWMxRVBwc055LV9ZS00?oc=5",
-          "source": "Le JSL",
-          "summary": "Paray-le-Monial. Plus de 200 personnes se sont fait tester pour le diabète Le JSL",
-          "published": "2026-11-15T15:04:13+00:00"
+          "title": "« On n’est pas seuls face à la maladie » : le Royaume de la fête participe à la Journée du diabète",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEkyVWVWXy1FWDJZbVRvRVExTzBRZzdDdU5LaEVibU5pV2xZcFNFRThxclFoUGlibEUyU3JXN3FTRG9yYUw5NFhtZ0Y3RTJIUW9mRmlMM0Y5Q0lqVmx3bmxOSlYxRDg2ejlWaHJnTEpDOHJ4VVVLWmM0bFpFVDl3MVhVbTByTS1YbmVFZ1Y4Q3NTcGhpeWxCVUJBQlYtcU9Mb2JVOVRBdlRzcmR2dEpYSVJ1WUV5cG10ajlsMm1FU1N6Z0w4ZlhMZ1JR?oc=5",
+          "source": "L'Ardennais",
+          "summary": "« On n’est pas seuls face à la maladie » : le Royaume de la fête participe à la Journée du diabète L'Ardennais",
+          "published": "2026-11-16T06:45:00+00:00"
+        },
+        {
+          "title": "Spirit Health Group strikes deal for diabetes education provider",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWFKdDAwekNCUERoNlJDS1duSHVrb3JsaTBEeDZoM1pESEVEaXVUQXE3b1JsQllMS01CMkZLZ0xBNlNNX0cwMXhFcVROTF9HWllvMUVGZ19mTjE5S0lJYm5jdEhZNi1iUHA4LUxENFpENXhPb2VVdnFDVnBkcHd5QXNGdE9mMlpVUG9hM3JrYVVuZ3dVSHVKakdMTXhrZ3d0d2xlUF9OZzZSU0k?oc=5",
+          "source": "Insider Media Ltd",
+          "summary": "Spirit Health Group strikes deal for diabetes education provider Insider Media Ltd",
+          "published": "2026-11-16T06:02:31+00:00"
+        },
+        {
+          "title": "La Direction de l'éducation de La Mecque met en œuvre un programme sanitaire d'intervention précoce pour lutter contre le diabète",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HOHZrS1ZYdjlkTTNWNDNwREJ4bUhCZHdCQzFZTFFGbmVZT1JnVkd3VVQxczJDTk1oOXg2T0tnLW9ZdFphV2lqamJR?oc=5",
+          "source": "وكالة الأنباء السعودية",
+          "summary": "La Direction de l'éducation de La Mecque met en œuvre un programme sanitaire d'intervention précoce pour lutter contre le diabète وكالة الأنباء السعودية",
+          "published": "2026-11-16T05:44:50+00:00"
+        },
+        {
+          "title": "Le diabète deux fois plus important en Guadeloupe que dans l'Hexagone",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXlSM0xjZklmU1VObFo1cTR5bDFPRE1ZUE5DR2RXczFSZ3ZnZFdieWRwdVRRN0dJZ1QtRW12WkNWUHNFY0RocmdHamxvRGZvcmw3S2dYam5Sb3BxNHFmVDZ1eGZmWlNLZk5LSEp6eFM4NGZZV2E1ZzUzTjFoUUFIdEthNHJqanUwRTZEbkd2bVJGaUVIaHR5SlhuSUVhdldkNEpXUFJSRjhMM19TZ0VYVmRVUENKM3FvZl9RcnNoaWZETkgzNi1qWFlLVUR3Yy1hT1Zn?oc=5",
+          "source": "guadeloupe.franceantilles.fr",
+          "summary": "Le diabète deux fois plus important en Guadeloupe que dans l'Hexagone guadeloupe.franceantilles.fr",
+          "published": "2026-11-16T05:39:12+00:00"
+        },
+        {
+          "title": "Forbach. Dr Beate Sproeder, sur le diabète : « une soif intense et une envie d’uriner répétée chez un enfant doivent alerter les parents »",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTjJoOGhodDJ5TWd1ZmtWMG9UN3R3SzhjYktMQTlVSzlDQ0s3N3JEWGphVldvTWJwd2FNc2d4b0VrVVA1VWxSN1V4WmJ2OWFvR3RJLXN3VnJqUC1yT25Cbk01Z015ck5lS0lCTnl5SlZOTThzT1NoMUgyejFkNVU0VVdMMmxnejR2SXNDdzNMcDBqZWZ5bVc4MFRfUkNFYzFNZEtEY2ZBYVhZTVJDbGdfTnkzOXJwTzB2Tk5aNG0zUkNYSWpRLWxoVGx5Y1c0elFjT0UtbVZIc2dFMU5ST0x5UkxMYTRkT3g3RnJDMkNkT21RTy1zQzdCaGJ6OHQ3bTh2bmUzMQ?oc=5",
+          "source": "Le Republicain Lorrain",
+          "summary": "Forbach. Dr Beate Sproeder, sur le diabète : « une soif intense et une envie d’uriner répétée chez un enfant doivent alerter les parents » Le Republicain Lorrain",
+          "published": "2026-11-16T05:33:43+00:00"
+        },
+        {
+          "title": "Forbach. De plus en plus d’enfants touchés par le diabète : une journée d’information ce mercredi 18 novembre",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNclNLSWQ0YUxxWGhJZVUxS2s0Sk15SFJQdWY2bVBvNkRPaTFwaUlVWnY0QkJRdU90RnVybFBGSHFXMkdpc0doLWFubE1tX1VJSk43MkhEU3lUUHp2Uktmcjk5Ymx2Slp3eWYyZnVSNGoySGNWd0JwYzRjRHEzckVGWW5ZeGNXbDNkb21WS0ZxRjNZNlZNOTFyTlh0S3NsN2ZVZVE5Rk9JcFF3ZTIxSkhvVEM5Ykx6bUU4X0RqU1pkQWZZcTI0MGhjQzQtRG9ZNWM0Vl9lSGZRVURTVTVGa1dtZnhESEo?oc=5",
+          "source": "Le Republicain Lorrain",
+          "summary": "Forbach. De plus en plus d’enfants touchés par le diabète : une journée d’information ce mercredi 18 novembre Le Republicain Lorrain",
+          "published": "2026-11-16T05:32:49+00:00"
+        },
+        {
+          "title": "Forbach. Un diabète diagnostiqué chez son fils de 10 ans : « C’est une épreuve que nous traversons ensemble »",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFNjclQ4aUgyS1U2b1U4ZE0wSWVFbnpQV21XeF81N3k1czFnVnhZM1h5ZGRzTUlVNlRIUm01M2hOaVJjeFlHOHctaGtKTEtLamxHRWJzSHg2ZkR4MVNJaW5oWUl4M2swRGpCRlI5V0V2RGo2dHFjdm1oYXpfSWNaWHZDOUhsdHJhWUZXTGxUY1k4SUhzdGFxOHpCY3ZRSFZ3YnlZbVh3eFp5OFVCMGd0cWJKS3dmMG9NVThwenlQVVVla2g0Q3dHMWpxZmRIam5jU3MxR3ppS2loTVp6a1o4?oc=5",
+          "source": "Le Republicain Lorrain",
+          "summary": "Forbach. Un diabète diagnostiqué chez son fils de 10 ans : « C’est une épreuve que nous traversons ensemble » Le Republicain Lorrain",
+          "published": "2026-11-16T05:31:59+00:00"
         }
       ]
     }
